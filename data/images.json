@@ -1,1 +1,29 @@
-{"version":1,"images":[]}
+{
+  "version": 1,
+  "images": [
+    {
+      "id": "d6706550",
+      "filename": "test1.jpg",
+      "path": "uploads/2026/06/d6706550.webp",
+      "size": 36687,
+      "width": 800,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "d670655040d19f467624a618f3aff1238d722918ec45fac099081bf2867e1a5c",
+      "uploaderLogin": "2982136527",
+      "createdAt": "2026-06-27T07:20:00.000Z"
+    },
+    {
+      "id": "6dbe26e9",
+      "filename": "test2.png",
+      "path": "uploads/2026/06/6dbe26e9.webp",
+      "size": 183762,
+      "width": 1200,
+      "height": 800,
+      "mimeType": "image/png",
+      "hash": "6dbe26e980471f137e835ef1fe0e4c6eaaaa364d3854c06aaab3af4cd2a5572a",
+      "uploaderLogin": "2982136527",
+      "createdAt": "2026-06-27T07:20:00.000Z"
+    }
+  ]
+}
