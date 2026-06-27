@@ -68,6 +68,14 @@
       "detail": "{\"version\":1,\"enabled\":true,\"sources\":[{\"name\":\"樱花API\",\"url\":\"https://www.loliapi.com/acg/pe/\",\"category\":\"anime\",\"enabled\":true,\"responseType\":\"redirect\",\"id\":\"src_mqwjeg05_1\"},{\"name\":\"赫萝API\",\"url\":\"https://api.mtyqx.cn/api/random.php\",\"category\":\"anime\",\"enabled\":true,\"responseType\":\"redirect\",\"id\":\"src_mqwjeg05_8\"},{\"name\":\"Lolicon API\",\"url\":\"https://api.lolicon.app/setu/v2\",\"category\":\"anime\",\"enabled\":true,\"responseType\":\"json\",\"jsonPath\":\"data.0.urls.original\",\"id\":\"src_mqwjeg06_t\"},{\"name\":\"岁月小筑\",\"url\":\"https://img.xjh.me/random_img.php?return=302&type=bg&ctype=acg\",\"category\":\"anime\",\"enabled\":true,\"responseType\":\"redirect\",\"id\":\"src_new_001\"},{\"name\":\"次元API-风景\",\"url\":\"https://t.alcy.cc/fj\",\"category\":\"real\",\"enabled\":true,\"responseType\":\"redirect\",\"id\":\"src_new_002\"},{\"name\":\"次元API-美拍\",\"url\":\"https://t.alcy.cc/mp\",\"category\":\"real\",\"enabled\":true,\"responseType\":\"redirect\",\"id\":\"src_new_003\"},{\"name\":\"次元API-壁纸\",\"url\":\"https://t.alcy.cc/pc\",\"category\":\"real\",\"enabled\":true,\"responseType\":\"redirect\",\"id\":\"src_new_004\"}],\"running\":false,\"lastRunAt\":\"2026-06-27T17:01:25.309Z\"}",
       "id": "54c177ad",
       "createdAt": "2026-06-27T17:22:39.941Z"
+    },
+    {
+      "action": "permanent_delete",
+      "actorLogin": "2982136527",
+      "targetId": "d15128c4",
+      "detail": "Admin permanently deleted image",
+      "id": "3075707f",
+      "createdAt": "2026-06-27T17:44:27.750Z"
     }
   ]
 }
