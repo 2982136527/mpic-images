@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "albums": [
+    {"id":"public-album-1","name":"公开相册","ownerLogin":"2982136527","isPublic":true,"createdAt":"2026-06-27T08:00:00.000Z"},
+    {"id":"private-album-1","name":"隐私相册","ownerLogin":"2982136527","isPublic":false,"createdAt":"2026-06-27T08:00:00.000Z"}
+  ]
+}
