@@ -16,6 +16,13 @@
       "detail": "b_bcfda29da9382c7a8c20a65546ff5eb0.png (new)",
       "id": "addf02d4",
       "createdAt": "2026-06-27T08:17:56.810Z"
+    },
+    {
+      "action": "update_settings",
+      "actorLogin": "2982136527",
+      "detail": "{\"version\":1,\"siteName\":\"Mpic\",\"siteDescription\":\"多用户公开相册图床\",\"cdnBaseUrl\":\"\",\"maxFileSizeBytes\":5242880,\"defaultQuotaBytes\":1073741824,\"allowRegistration\":true,\"enableCompress\":true}",
+      "id": "8534be70",
+      "createdAt": "2026-06-27T11:36:30.285Z"
     }
   ]
 }
