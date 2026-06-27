@@ -23,6 +23,14 @@
       "detail": "{\"version\":1,\"siteName\":\"Mpic\",\"siteDescription\":\"多用户公开相册图床\",\"cdnBaseUrl\":\"\",\"maxFileSizeBytes\":5242880,\"defaultQuotaBytes\":1073741824,\"allowRegistration\":true,\"enableCompress\":true}",
       "id": "8534be70",
       "createdAt": "2026-06-27T11:36:30.285Z"
+    },
+    {
+      "action": "create_album",
+      "actorLogin": "2982136527",
+      "targetId": "433d128fe9a83fbf",
+      "detail": "测试",
+      "id": "6aacc21d",
+      "createdAt": "2026-06-27T11:51:25.269Z"
     }
   ]
 }
