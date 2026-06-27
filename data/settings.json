@@ -1,1 +1,10 @@
-{"version":1,"siteName":"Mpic","siteDescription":"多用户公开相册图床","cdnBaseUrl":"","maxFileSizeBytes":10485760,"defaultQuotaBytes":104857600,"allowRegistration":true,"enableCompress":true}
+{
+  "version": 1,
+  "siteName": "Mpic",
+  "siteDescription": "多用户公开相册图床",
+  "cdnBaseUrl": "",
+  "maxFileSizeBytes": 5242880,
+  "defaultQuotaBytes": 1073741824,
+  "allowRegistration": true,
+  "enableCompress": true
+}
