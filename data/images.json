@@ -2,6 +2,34 @@
   "version": 1,
   "images": [
     {
+      "id": "0a500e70",
+      "filename": "public_album_test.jpg",
+      "path": "uploads/2026/06/0a500e70.webp",
+      "size": 53998,
+      "width": 600,
+      "height": 400,
+      "mimeType": "image/jpeg",
+      "hash": "pub_hash_placeholder",
+      "uploaderLogin": "2982136527",
+      "createdAt": "2026-06-27T08:24:00.000Z",
+      "albumId": "public-album-1",
+      "isPublic": true
+    },
+    {
+      "id": "42cdf9ed",
+      "filename": "private_album_test.jpg",
+      "path": "uploads/2026/06/42cdf9ed.webp",
+      "size": 39607,
+      "width": 500,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "priv_hash_placeholder",
+      "uploaderLogin": "2982136527",
+      "createdAt": "2026-06-27T08:24:10.000Z",
+      "albumId": "private-album-1",
+      "isPublic": false
+    },
+    {
       "id": "5c80a599",
       "filename": "b_bcfda29da9382c7a8c20a65546ff5eb0.png",
       "path": "uploads/2026/06/5c80a599.png",
