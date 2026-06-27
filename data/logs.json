@@ -1,1 +1,13 @@
-{"version":1,"logs":[]}
+{
+  "version": 1,
+  "logs": [
+    {
+      "action": "upload",
+      "actorLogin": "2982136527",
+      "targetId": "23e2b6b4",
+      "detail": "b_bcfda29da9382c7a8c20a65546ff5eb0(1).png (new)",
+      "id": "fee7d972",
+      "createdAt": "2026-06-27T08:14:49.309Z"
+    }
+  ]
+}
