@@ -2,6 +2,29 @@
   "version": 1,
   "images": [
     {
+      "id": "0ccd8bea",
+      "filename": "pixiv_146471607_p0.jpg",
+      "path": "uploads/2026/06/d7f4647e.jpg",
+      "size": 1160778,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6d45cd960de3b282ca9fc016009dc4ad138741f63fabd8cef303f2333fe15dff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T16:13:53.669Z",
+      "isPublic": true,
+      "title": "くすぐったいよ！",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "女子高生"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146471607_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146471607",
+      "sourceCreatedAt": "2026-06-26T06:33:37.000Z"
+    },
+    {
       "id": "11bb0e0b",
       "filename": "crawl_src_mqwjeg06_t_1782663219137.png",
       "path": "uploads/2026/06/efc365b6.png",
