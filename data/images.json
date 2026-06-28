@@ -2,6 +2,33 @@
   "version": 1,
   "images": [
     {
+      "id": "5f50ff66",
+      "filename": "pixiv_146484665_p0.jpg",
+      "title": "エンドフィールド Camille Endmin",
+      "size": 0,
+      "width": 2508,
+      "height": 3541,
+      "mimeType": "image/jpeg",
+      "hash": "0e678d3b7da5d8d25ca0537f1587b4479763f827592f3d96747c114a265039bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T10:06:49.632Z",
+      "storageKind": "external",
+      "externalUrl": "https://i.pximg.net/img-master/img/2026/06/26/21/24/37/146484665_p0_master1200.jpg",
+      "isPublic": true,
+      "tags": [
+        "エンドフィールド",
+        "カミーユ",
+        "管理人(アークナイツエンドフィールド)",
+        "管理人(エンドフィールド)",
+        "アークナイツ:エンドフィールド",
+        "エンドフィールド100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146484665_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146484665",
+      "sourceCreatedAt": "2026-06-26T21:24:37+09:00"
+    },
+    {
       "id": "e3fd6742",
       "filename": "crawl_src_mqwjeg06_t_1782641206005_4.jpg",
       "path": "uploads/2026/06/e3fd6742.jpg",
