@@ -2,6 +2,28 @@
   "version": 1,
   "images": [
     {
+      "id": "82fcd3a5",
+      "filename": "pixiv_145364546_p0.jpg",
+      "path": "uploads/2026/06/a17378a0.jpg",
+      "size": 415815,
+      "width": 588,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "45b724bb17190a613a0697ed04826d12dd7f2ca6921a43ec26dddaa5e6ae390c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T16:30:54.807Z",
+      "isPublic": true,
+      "title": "リクエスト作品",
+      "tags": [
+        "女の子",
+        "おっぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145364546_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145364546",
+      "sourceCreatedAt": "2026-05-29T15:00:13.000Z"
+    },
+    {
       "id": "70db7a51",
       "filename": "crawl_src_new_004_1782664246096.webp",
       "path": "uploads/2026/06/2de5451b.webp",
