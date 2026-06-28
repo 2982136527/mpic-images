@@ -2,6 +2,30 @@
   "version": 1,
   "images": [
     {
+      "id": "fd23feee",
+      "filename": "pixiv_146315673_p0.jpg",
+      "path": "uploads/2026/06/81c883e7.jpg",
+      "size": 637853,
+      "mimeType": "image/jpeg",
+      "hash": "fafbedef20e65e7236e8d40c2ed18c1ab4113076232e099489ccf6d4cc3192c4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T11:50:38.448Z",
+      "isPublic": true,
+      "title": "アルザス(アズールレーン)",
+      "tags": [
+        "碧蓝航线",
+        "绘画",
+        "アルザス(アズールレーン)",
+        "アズールレーン",
+        "水着",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146315673_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146315673",
+      "sourceCreatedAt": "2026-06-22T04:14:20.000Z"
+    },
+    {
       "id": "2000f675",
       "filename": "crawl_src_new_004_1782647428907.webp",
       "path": "uploads/2026/06/02f849b9.webp",
