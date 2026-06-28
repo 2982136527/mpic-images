@@ -2,6 +2,29 @@
   "version": 1,
   "images": [
     {
+      "id": "0c8e6286",
+      "filename": "pixiv_146305113_p0.jpg",
+      "path": "uploads/2026/06/22f9e5ed.jpg",
+      "size": 825530,
+      "width": 1129,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2d38659f46d0cf225c690e1660db511d622abf9a5ea238dcd3705049151d28c3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T16:32:14.507Z",
+      "isPublic": true,
+      "title": "안젤리카 낙서",
+      "tags": [
+        "ProjectMoon",
+        "Library_Of_Ruina",
+        "アンジェリカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146305113_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146305113",
+      "sourceCreatedAt": "2026-06-21T18:06:28.000Z"
+    },
+    {
       "id": "9cbf6d23",
       "filename": "crawl_src_mqwjeg06_t_1782664301579.jpg",
       "path": "uploads/2026/06/48d92ed2.jpg",
