@@ -61,5 +61,10 @@
     }
   ],
   "running": false,
-  "lastRunAt": "2026-06-28T06:24:03.360Z"
+  "lastRunAt": "2026-06-28T06:24:03.360Z",
+  "continuation": {
+    "lastScheduledAt": "2026-06-28T06:24:04.558Z",
+    "lastStatus": "scheduled",
+    "lastDetail": "Queued continuation across 1 target(s)"
+  }
 }
