@@ -2,6 +2,58 @@
   "version": 1,
   "logs": [
     {
+      "id": "a5939e79",
+      "startedAt": "2026-06-28T04:39:05.059Z",
+      "duration": 93872,
+      "fetched": 12,
+      "duplicates": 4,
+      "errors": 19,
+      "sources": [
+        {
+          "name": "樱花API",
+          "fetched": 1,
+          "duplicates": 1,
+          "errors": 3
+        },
+        {
+          "name": "赫萝API",
+          "fetched": 2,
+          "duplicates": 0,
+          "errors": 3
+        },
+        {
+          "name": "Lolicon API",
+          "fetched": 0,
+          "duplicates": 0,
+          "errors": 5
+        },
+        {
+          "name": "岁月小筑",
+          "fetched": 3,
+          "duplicates": 2,
+          "errors": 0
+        },
+        {
+          "name": "次元API-风景",
+          "fetched": 1,
+          "duplicates": 1,
+          "errors": 3
+        },
+        {
+          "name": "次元API-美拍",
+          "fetched": 0,
+          "duplicates": 0,
+          "errors": 5
+        },
+        {
+          "name": "次元API-壁纸",
+          "fetched": 5,
+          "duplicates": 0,
+          "errors": 0
+        }
+      ]
+    },
+    {
       "id": "147e6970",
       "startedAt": "2026-06-28T04:37:21.837Z",
       "duration": 101122,
