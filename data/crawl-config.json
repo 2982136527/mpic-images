@@ -71,9 +71,9 @@
   "running": false,
   "lastRunAt": "2026-06-28T10:11:54.049Z",
   "continuation": {
-    "lastScheduledAt": "2026-06-28T10:07:01.788Z",
-    "lastStatus": "accepted",
-    "lastDetail": "in-process continuation finished batches=3 reason=time_budget_reached",
+    "lastScheduledAt": "2026-06-28T10:11:55.258Z",
+    "lastStatus": "scheduled",
+    "lastDetail": "Queued in-process continuation window=180s",
     "lastAttemptAt": "2026-06-28T10:08:27.600Z",
     "lastAcceptedAt": "2026-06-28T10:09:18.386Z",
     "lastUrl": "in-process"
