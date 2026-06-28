@@ -2,6 +2,26 @@
   "version": 1,
   "images": [
     {
+      "id": "4e18fb0a",
+      "filename": "pixiv_146485174_p0.jpg",
+      "path": "uploads/2026/06/1a91c228.jpg",
+      "size": 1040335,
+      "mimeType": "image/jpeg",
+      "hash": "5e3aa229a79f705d329588a66f2cf3f6a053c0dec15367cbd9bd9d752801f191",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T12:44:23.336Z",
+      "isPublic": true,
+      "title": "skeb絵✒️",
+      "tags": [
+        "Skeb",
+        "狐娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146485174_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146485174",
+      "sourceCreatedAt": "2026-06-26T12:32:59.000Z"
+    },
+    {
       "id": "ade0b7ca",
       "filename": "crawl_src_new_004_1782650654872.webp",
       "path": "uploads/2026/06/9b478d46.webp",
