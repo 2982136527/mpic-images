@@ -2,6 +2,29 @@
   "version": 1,
   "images": [
     {
+      "id": "3daa75e4",
+      "filename": "pixiv_146299754_p0.jpg",
+      "path": "uploads/2026/06/ab22438d.jpg",
+      "size": 594370,
+      "width": 656,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ef6167015f9769f92975daf2638f3831afa6c3b4b35acdc1503bd9f4a817ff31",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T13:25:42.158Z",
+      "isPublic": true,
+      "title": "82日目 日和千乃",
+      "tags": [
+        "よその子",
+        "100日チャレンジ",
+        "水族館"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146299754_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146299754",
+      "sourceCreatedAt": "2026-06-21T15:13:41.000Z"
+    },
+    {
       "id": "827c48b0",
       "filename": "crawl_src_mqwjeg05_1_1782653130599.webp",
       "path": "uploads/2026/06/575e78e7.webp",
