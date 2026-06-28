@@ -2,6 +2,30 @@
   "version": 1,
   "images": [
     {
+      "id": "c52b0e0b",
+      "filename": "pixiv_146330262_p0.jpg",
+      "path": "uploads/2026/06/ae6702a5.jpg",
+      "size": 1221051,
+      "width": 1167,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6c0b9a061b7b6240d41f80a12cd0215cd658908416b0e4738d147b253c689cab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T13:25:50.938Z",
+      "isPublic": true,
+      "title": "雨色のキャンバス",
+      "tags": [
+        "装画",
+        "傘",
+        "花",
+        "花と女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146330262_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146330262",
+      "sourceCreatedAt": "2026-06-22T12:23:51.000Z"
+    },
+    {
       "id": "2837d597",
       "filename": "crawl_src_new_004_1782653142333.webp",
       "path": "uploads/2026/06/e5bf1709.webp",
