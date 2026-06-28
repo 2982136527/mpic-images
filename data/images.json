@@ -2,6 +2,30 @@
   "version": 1,
   "images": [
     {
+      "id": "a984f2e8",
+      "filename": "pixiv_146478015_p0.jpg",
+      "path": "uploads/2026/06/80e0077b.jpg",
+      "size": 1022002,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "e836af1db79308c3c432413c1c8dbcdd39db246876b648f7d2d7840b86b8d6bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T16:19:07.383Z",
+      "isPublic": true,
+      "title": "Don't Let Me Down !!!",
+      "tags": [
+        "VOCALOID",
+        "GUMI",
+        "誕生日",
+        "Don't_Let_Me_Down"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146478015_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146478015",
+      "sourceCreatedAt": "2026-06-26T10:02:57.000Z"
+    },
+    {
       "id": "e073a250",
       "filename": "pixiv_146257463_p0.jpg",
       "path": "uploads/2026/06/2a3d032e.jpg",
