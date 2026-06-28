@@ -76,6 +76,14 @@
       "detail": "Admin permanently deleted image",
       "id": "3075707f",
       "createdAt": "2026-06-27T17:44:27.750Z"
+    },
+    {
+      "action": "permanent_delete",
+      "actorLogin": "2982136527",
+      "targetId": "e067106b",
+      "detail": "Admin permanently deleted image",
+      "id": "9b51ccad",
+      "createdAt": "2026-06-28T03:14:50.331Z"
     }
   ]
 }
