@@ -2,6 +2,30 @@
   "version": 1,
   "images": [
     {
+      "id": "6079c448",
+      "filename": "pixiv_146324071_p0.jpg",
+      "path": "uploads/2026/06/4feb714a.jpg",
+      "size": 919514,
+      "mimeType": "image/jpeg",
+      "hash": "2211b7f8a254a2e93e978e707da6b29b885cbca5c43625a1d67c8b6d7252a825",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T11:03:32.183Z",
+      "isPublic": true,
+      "title": "白雪",
+      "tags": [
+        "女の子",
+        "イラスト",
+        "オリジナル",
+        "オリジナルキャラクター",
+        "リンゴ",
+        "青目"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146324071_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146324071",
+      "sourceCreatedAt": "2026-06-22T10:01:05.000Z"
+    },
+    {
       "id": "8b4993af",
       "filename": "crawl_src_new_004_1782644605892.webp",
       "path": "uploads/2026/06/831e0373.webp",
