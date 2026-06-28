@@ -2,6 +2,27 @@
   "version": 1,
   "images": [
     {
+      "id": "a60ab1dd",
+      "filename": "pixiv_146298910_p0.jpg",
+      "path": "uploads/2026/06/b45b5881.jpg",
+      "size": 733344,
+      "mimeType": "image/jpeg",
+      "hash": "23d2991d712264bd739b6249ac387027c216570ee6a2a4a022666bec06e6140e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T11:52:50.175Z",
+      "isPublic": true,
+      "title": "小ネタイラストまとめ③",
+      "tags": [
+        "モンティ・パイソン",
+        "殺人ウサギ",
+        "殺人ウサギガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146298910_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146298910",
+      "sourceCreatedAt": "2026-06-21T15:01:03.000Z"
+    },
+    {
       "id": "6f3a6bda",
       "filename": "pixiv_146319135_p0.jpg",
       "path": "uploads/2026/06/c57c00db.jpg",
