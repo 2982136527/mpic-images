@@ -2,6 +2,26 @@
   "version": 1,
   "images": [
     {
+      "id": "28d7b115",
+      "filename": "pixiv_146315625_p0.jpg",
+      "path": "uploads/2026/06/ac8dd353.jpg",
+      "size": 689764,
+      "mimeType": "image/jpeg",
+      "hash": "9f422cdee0e7dde3b1e62d85d4126927763b4feec2118688584b60c773723a71",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T14:53:13.626Z",
+      "isPublic": true,
+      "title": "ちいちゃん",
+      "tags": [
+        "NTE",
+        "ちぃちゃん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146315625_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146315625",
+      "sourceCreatedAt": "2026-06-22T04:11:50.000Z"
+    },
+    {
       "id": "28d507ae",
       "filename": "pixiv_145407910_p0.jpg",
       "path": "uploads/2026/06/44a84e91.jpg",
