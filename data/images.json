@@ -2,6 +2,29 @@
   "version": 1,
   "images": [
     {
+      "id": "e1d3c663",
+      "filename": "pixiv_146492433_p0.jpg",
+      "title": "🍒",
+      "size": 0,
+      "width": 900,
+      "height": 1271,
+      "mimeType": "image/jpeg",
+      "hash": "741768065dab6822c3fa07de9e66f7734e3a0691bb9cd95c64d7d537a21b67f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T10:11:37.399Z",
+      "storageKind": "external",
+      "externalUrl": "https://i.pximg.net/img-master/img/2026/06/27/00/00/31/146492433_p0_master1200.jpg",
+      "isPublic": true,
+      "tags": [
+        "女の子",
+        "さくらんぼ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146492433_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146492433",
+      "sourceCreatedAt": "2026-06-27T00:00:31+09:00"
+    },
+    {
       "id": "6c42c160",
       "filename": "crawl_src_mqwjeg05_8_1782641492833_3.jpg",
       "path": "uploads/2026/06/6c42c160.jpg",
