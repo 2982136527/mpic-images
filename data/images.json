@@ -2,6 +2,28 @@
   "version": 1,
   "images": [
     {
+      "id": "253f36c4",
+      "filename": "pixiv_146520497_p0.jpg",
+      "path": "uploads/2026/06/5f2d78af.jpg",
+      "size": 602502,
+      "width": 827,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3566025ba209d67ffda37b1313fae8f391393ddac4115d2c321a04466bd1eb39",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T16:39:02.496Z",
+      "isPublic": true,
+      "title": "呪術ツイログ",
+      "tags": [
+        "呪術廻戦",
+        "脹相"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146520497_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146520497",
+      "sourceCreatedAt": "2026-06-27T08:55:51.000Z"
+    },
+    {
       "id": "a86006a5",
       "filename": "crawl_src_mqwjeg05_8_1782664721409.jpg",
       "path": "uploads/2026/06/84f4c5d9.jpg",
