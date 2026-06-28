@@ -2,6 +2,31 @@
   "version": 1,
   "images": [
     {
+      "id": "b59469a6",
+      "filename": "pixiv_145502879_p0.jpg",
+      "path": "uploads/2026/06/d0a5b215.jpg",
+      "size": 781952,
+      "width": 627,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b4b1c6fcc2ca1e5eaee193f49880324616b696f934716e43b2af082e7607086b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T15:00:32.960Z",
+      "isPublic": true,
+      "title": "メードシロコ",
+      "tags": [
+        "シロコ",
+        "ブルーアーカイブ",
+        "砂狼シロコ",
+        "メイド",
+        "ブルーアーカイブ10000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145502879_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145502879",
+      "sourceCreatedAt": "2026-06-01T20:07:27.000Z"
+    },
+    {
       "id": "4cb96064",
       "filename": "pixiv_145401395_p0.jpg",
       "path": "uploads/2026/06/4369f409.jpg",
