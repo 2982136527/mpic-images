@@ -63,11 +63,11 @@
   "running": false,
   "lastRunAt": "2026-06-28T07:28:56.498Z",
   "continuation": {
-    "lastScheduledAt": "2026-06-28T07:26:32.743Z",
-    "lastStatus": "accepted",
-    "lastDetail": "https://pic.20031104.xyz/api/cron/crawl -> accepted fetched=14 duplicates=8 errors=13",
+    "lastScheduledAt": "2026-06-28T07:28:57.585Z",
+    "lastStatus": "scheduled",
+    "lastDetail": "Queued in-process continuation window=180s",
     "lastAttemptAt": "2026-06-28T07:27:46.533Z",
     "lastAcceptedAt": "2026-06-28T07:27:46.533Z",
-    "lastUrl": "https://pic.20031104.xyz/api/cron/crawl"
+    "lastUrl": "in-process"
   }
 }
