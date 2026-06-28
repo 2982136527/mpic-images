@@ -2,6 +2,30 @@
   "version": 1,
   "images": [
     {
+      "id": "023c3c39",
+      "filename": "pixiv_146308846_p0.jpg",
+      "path": "uploads/2026/06/906425cd.jpg",
+      "size": 1527659,
+      "width": 1200,
+      "height": 750,
+      "mimeType": "image/jpeg",
+      "hash": "42dfcd338263751816b8cc72eea5620953bfcb3dc38d5483edc716f04e90551b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T16:43:45.485Z",
+      "isPublic": true,
+      "title": "루포",
+      "tags": [
+        "LimbusCompany",
+        "Limbus_Company",
+        "림버스",
+        "림버스컴퍼니"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146308846_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146308846",
+      "sourceCreatedAt": "2026-06-21T22:08:50.000Z"
+    },
+    {
       "id": "05492f08",
       "filename": "crawl_src_mqwjeg06_t_1782665014909.png",
       "path": "uploads/2026/06/7b868f24.png",
