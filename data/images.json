@@ -2,6 +2,29 @@
   "version": 1,
   "images": [
     {
+      "id": "a382bc88",
+      "filename": "pixiv_146502821_p0.jpg",
+      "path": "uploads/2026/06/a461e162.jpg",
+      "size": 818448,
+      "width": 1200,
+      "height": 868,
+      "mimeType": "image/jpeg",
+      "hash": "cdb42c5059b5817db2e63335f15b7338da559f27fcd2baf66cbd0fcbb8362e52",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T13:16:22.044Z",
+      "isPublic": true,
+      "title": "ねむけによりおやすみ",
+      "tags": [
+        "創作",
+        "眠気",
+        "おやすみ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146502821_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146502821",
+      "sourceCreatedAt": "2026-06-26T22:30:55.000Z"
+    },
+    {
       "id": "b9d404e9",
       "filename": "crawl_src_mqwjeg06_t_1782652550693.jpg",
       "path": "uploads/2026/06/f3cb0e13.jpg",
