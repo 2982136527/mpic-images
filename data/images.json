@@ -2,6 +2,30 @@
   "version": 1,
   "images": [
     {
+      "id": "e0aabcda",
+      "filename": "pixiv_146261280_p0.jpg",
+      "path": "uploads/2026/06/47f31686.jpg",
+      "size": 694380,
+      "width": 767,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fa55ef084da0932c900745f5fcae52c61566b43bee9cd6aa77350c15f1043714",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T19:38:34.995Z",
+      "isPublic": true,
+      "title": "Lucilla",
+      "tags": [
+        "鳴潮",
+        "ルシラー",
+        "カメラ",
+        "前かがみ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146261280_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146261280",
+      "sourceCreatedAt": "2026-06-20T21:30:46.000Z"
+    },
+    {
       "id": "0ae6fe22",
       "filename": "crawl_src_mqwjeg06_t_1782675489651.jpg",
       "path": "uploads/2026/06/f8b1f9e7.jpg",
