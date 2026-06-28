@@ -2,6 +2,30 @@
   "version": 1,
   "images": [
     {
+      "id": "9fa22783",
+      "filename": "pixiv_146315688_p0.jpg",
+      "path": "uploads/2026/06/364ee80a.jpg",
+      "size": 763044,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "d7f40ba338b0e999644e0fc3e6baa3d619e2cb62c4b131259acf385f963455c2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T17:38:27.291Z",
+      "isPublic": true,
+      "title": "シトラリ",
+      "tags": [
+        "原神",
+        "シトラリ",
+        "星と煙霧の夜話",
+        "原神5000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146315688_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146315688",
+      "sourceCreatedAt": "2026-06-22T04:14:58.000Z"
+    },
+    {
       "id": "c5278b71",
       "filename": "pixiv_146509609_p0.jpg",
       "path": "uploads/2026/06/e57dee61.jpg",
