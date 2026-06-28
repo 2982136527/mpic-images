@@ -2,6 +2,29 @@
   "version": 1,
   "images": [
     {
+      "id": "2f072ebc",
+      "filename": "pixiv_146469210_p0.jpg",
+      "title": "day311 常服可可",
+      "size": 0,
+      "width": 1080,
+      "height": 1920,
+      "mimeType": "image/jpeg",
+      "hash": "717513bbd767bd98e46c74248badcdb3d3b48dd3a2c9cae49ebfc3f736f65434",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T10:14:10.746Z",
+      "storageKind": "external",
+      "externalUrl": "https://i.pximg.net/img-master/img/2026/06/26/13/33/50/146469210_p0_master1200.jpg",
+      "isPublic": true,
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "沢渡ココ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146469210_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146469210",
+      "sourceCreatedAt": "2026-06-26T13:33:50+09:00"
+    },
+    {
       "id": "ace262d3",
       "filename": "crawl_src_mqwjeg05_1_1782641647233_4.webp",
       "path": "uploads/2026/06/ace262d3.webp",
