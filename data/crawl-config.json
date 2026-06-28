@@ -64,10 +64,10 @@
   "lastRunAt": "2026-06-28T07:27:45.363Z",
   "continuation": {
     "lastScheduledAt": "2026-06-28T07:26:32.743Z",
-    "lastStatus": "scheduled",
-    "lastDetail": "Queued continuation across 1 target(s)",
-    "lastAttemptAt": "2026-06-28T07:26:32.753Z",
-    "lastAcceptedAt": "2026-06-28T07:26:32.753Z",
+    "lastStatus": "accepted",
+    "lastDetail": "https://pic.20031104.xyz/api/cron/crawl -> accepted fetched=14 duplicates=8 errors=13",
+    "lastAttemptAt": "2026-06-28T07:27:46.533Z",
+    "lastAcceptedAt": "2026-06-28T07:27:46.533Z",
     "lastUrl": "https://pic.20031104.xyz/api/cron/crawl"
   }
 }
