@@ -65,8 +65,8 @@
   "continuation": {
     "lastScheduledAt": "2026-06-28T07:28:57.585Z",
     "lastStatus": "scheduled",
-    "lastDetail": "Queued in-process continuation window=180s",
-    "lastAttemptAt": "2026-06-28T07:27:46.533Z",
+    "lastDetail": "Starting in-process continuation batch 1",
+    "lastAttemptAt": "2026-06-28T07:28:58.700Z",
     "lastAcceptedAt": "2026-06-28T07:27:46.533Z",
     "lastUrl": "in-process"
   }
