@@ -95,11 +95,11 @@
   "running": false,
   "lastRunAt": "2026-06-28T23:34:34.842Z",
   "continuation": {
-    "lastScheduledAt": "2026-06-28T23:33:58.857Z",
+    "lastScheduledAt": "2026-06-28T23:35:00.415Z",
     "lastStatus": "scheduled",
-    "lastDetail": "GitHub Actions running batch 2 enabledSources=11 elapsedMs=39486",
-    "lastAttemptAt": "2026-06-28T23:34:38.343Z",
+    "lastDetail": "GitHub Actions run started enabled=true enabledSources=11 force=false windowMs=270000",
+    "lastAttemptAt": "2026-06-28T23:35:00.415Z",
     "lastAcceptedAt": "2026-06-28T23:31:14.312Z",
-    "lastUrl": "https://github.com/2982136527/mpic/actions/runs/28339786662"
+    "lastUrl": "https://github.com/2982136527/mpic/actions/runs/28339811610"
   }
 }
