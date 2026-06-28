@@ -60,11 +60,12 @@
       "id": "src_new_004"
     }
   ],
-  "running": false,
+  "running": true,
   "lastRunAt": "2026-06-28T06:24:03.360Z",
   "continuation": {
     "lastScheduledAt": "2026-06-28T06:24:04.558Z",
     "lastStatus": "scheduled",
     "lastDetail": "Queued continuation across 1 target(s)"
-  }
+  },
+  "runningSince": "2026-06-28T06:24:08.376Z"
 }
