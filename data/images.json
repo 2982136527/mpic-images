@@ -2,6 +2,30 @@
   "version": 1,
   "images": [
     {
+      "id": "dbe713f2",
+      "filename": "pixiv_145508830_p0.jpg",
+      "path": "uploads/2026/06/12495f0f.jpg",
+      "size": 913241,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "36742833233ebca773ee665066fe61397e34312e5eaa0889b88c486cb2a4acee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T16:27:27.210Z",
+      "isPublic": true,
+      "title": "ターニング",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "女の子",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145508830_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145508830",
+      "sourceCreatedAt": "2026-06-02T02:06:06.000Z"
+    },
+    {
       "id": "e8867059",
       "filename": "crawl_src_mqwjeg06_t_1782664030191.png",
       "path": "uploads/2026/06/114f6074.png",
