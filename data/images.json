@@ -2,6 +2,26 @@
   "version": 1,
   "images": [
     {
+      "id": "b84ce394",
+      "filename": "pixiv_145455010_p0.jpg",
+      "path": "uploads/2026/06/89156734.jpg",
+      "size": 366533,
+      "mimeType": "image/jpeg",
+      "hash": "f443772fa465013980285b11b024577c0677149e8a9e04965d5ac2c66f9bea22",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T11:03:24.296Z",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "赤髪ポニーテール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145455010_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145455010",
+      "sourceCreatedAt": "2026-05-31T15:05:36.000Z"
+    },
+    {
       "id": "90f3e528",
       "filename": "crawl_src_mqwjeg05_8_1782644594999.jpg",
       "path": "uploads/2026/06/c4f4c49e.jpg",
