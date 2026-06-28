@@ -2,6 +2,31 @@
   "version": 1,
   "images": [
     {
+      "id": "41fdbde9",
+      "filename": "pixiv_146299741_p0.jpg",
+      "path": "uploads/2026/06/af6ea012.jpg",
+      "size": 854845,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d97ec7cf187d82318ec5944bc2b1ee50eb3fe4afa02a082251677f2228d02b8c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T18:51:42.315Z",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "女の子",
+        "原创",
+        "少女",
+        "百合",
+        "必ず生きて帰ってこい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146299741_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146299741",
+      "sourceCreatedAt": "2026-06-21T15:13:26.000Z"
+    },
+    {
       "id": "feb4cf02",
       "filename": "pixiv_146299290_p0.jpg",
       "path": "uploads/2026/06/4b4adc1f.jpg",
