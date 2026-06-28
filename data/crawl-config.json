@@ -60,7 +60,7 @@
       "id": "src_new_004"
     }
   ],
-  "running": false,
+  "running": true,
   "lastRunAt": "2026-06-28T07:29:55.037Z",
   "continuation": {
     "lastScheduledAt": "2026-06-28T07:28:57.585Z",
@@ -69,5 +69,6 @@
     "lastAttemptAt": "2026-06-28T07:29:56.981Z",
     "lastAcceptedAt": "2026-06-28T07:29:56.377Z",
     "lastUrl": "in-process"
-  }
+  },
+  "runningSince": "2026-06-28T07:29:58.010Z"
 }
