@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "logs": [
+    {
+      "type": "page_view",
+      "path": "/",
+      "method": "POST",
+      "status": 204,
+      "ip": "203.10.99.58",
+      "visitorKey": "200cadecad73f17c",
+      "userAgent": "curl/8.7.1",
+      "deviceType": "bot",
+      "actorRole": "guest",
+      "detail": "public_page_view",
+      "id": "fb6d013d",
+      "createdAt": "2026-06-28T15:26:08.399Z"
+    }
+  ],
+  "counters": {
+    "total": 1,
+    "byType": {
+      "page_view": 1
+    },
+    "images": []
+  }
+}
