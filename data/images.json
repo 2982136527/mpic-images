@@ -2,6 +2,31 @@
   "version": 1,
   "images": [
     {
+      "id": "3e0ae35f",
+      "filename": "pixiv_146254922_p0.jpg",
+      "path": "uploads/2026/06/c47bee74.jpg",
+      "size": 1455302,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d2b7e55d14fea975056fb1cde91aa8df1b968b75524fbc4285edead2e9dbd3f8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T19:29:59.063Z",
+      "isPublic": true,
+      "title": "Frolic",
+      "tags": [
+        "アズールレーン",
+        "能代(アズールレーン)",
+        "饅頭(アズールレーン)",
+        "アズールレーン5000users入り",
+        "本家"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146254922_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146254922",
+      "sourceCreatedAt": "2026-06-20T16:10:23.000Z"
+    },
+    {
       "id": "a2ce8dde",
       "filename": "crawl_src_new_004_1782674993166.webp",
       "path": "uploads/2026/06/ff165d73.webp",
