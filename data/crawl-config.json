@@ -65,9 +65,9 @@
   "continuation": {
     "lastScheduledAt": "2026-06-28T06:27:00.105Z",
     "lastStatus": "accepted",
-    "lastDetail": "https://pic.20031104.xyz/api/cron/crawl -> accepted fetched=11 duplicates=8 errors=16",
-    "lastAttemptAt": "2026-06-28T06:27:00.111Z",
-    "lastAcceptedAt": "2026-06-28T06:27:00.111Z",
+    "lastDetail": "https://pic.20031104.xyz/api/cron/crawl -> accepted fetched=12 duplicates=10 errors=13",
+    "lastAttemptAt": "2026-06-28T06:27:59.800Z",
+    "lastAcceptedAt": "2026-06-28T06:27:59.800Z",
     "lastUrl": "https://pic.20031104.xyz/api/cron/crawl"
   }
 }
