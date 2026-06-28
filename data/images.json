@@ -2,6 +2,31 @@
   "version": 1,
   "images": [
     {
+      "id": "88fd8738",
+      "filename": "pixiv_145326075_p0.jpg",
+      "path": "uploads/2026/06/eecd612f.jpg",
+      "size": 1853460,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "196e2038703bff56e7b69e28cba96a0f4fe1fa5b3b4acc5685ff5a2788370e0b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T16:17:55.435Z",
+      "isPublic": true,
+      "title": "寄り道",
+      "tags": [
+        "ポケットモンスター",
+        "ラティオス",
+        "ラティアス",
+        "寄り道",
+        "森"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145326075_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145326075",
+      "sourceCreatedAt": "2026-05-28T15:00:18.000Z"
+    },
+    {
       "id": "9ffaaaf4",
       "filename": "crawl_src_mqwjeg05_1_1782663427965.webp",
       "path": "uploads/2026/06/898f3ff5.webp",
