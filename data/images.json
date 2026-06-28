@@ -2,6 +2,31 @@
   "version": 1,
   "images": [
     {
+      "id": "206a41b4",
+      "filename": "pixiv_146298747_p0.jpg",
+      "path": "uploads/2026/06/ff7aa921.jpg",
+      "size": 746621,
+      "width": 827,
+      "height": 1002,
+      "mimeType": "image/jpeg",
+      "hash": "744178d156482cbbdb988987bd8b26ee21919209c8a59b78b547e696779669cf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T17:27:15.866Z",
+      "isPublic": true,
+      "title": "機動物：アサルトシャークシリーズ",
+      "tags": [
+        "機動物",
+        "オリジナル",
+        "サメ",
+        "タンクシャーク",
+        "メタルマックス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146298747_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146298747",
+      "sourceCreatedAt": "2026-06-21T15:00:22.000Z"
+    },
+    {
       "id": "004a55c5",
       "filename": "crawl_src_new_004_1782667620449.webp",
       "path": "uploads/2026/06/d078fbfa.webp",
