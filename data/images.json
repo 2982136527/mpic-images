@@ -2,6 +2,28 @@
   "version": 1,
   "images": [
     {
+      "id": "2d98674f",
+      "filename": "pixiv_146325287_p0.jpg",
+      "path": "uploads/2026/06/834cde29.jpg",
+      "size": 1444907,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5ac442cc3b31ef8836682c55790bdf342939a8bc871ea9142c5eeed3bd52b06a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T19:41:01.819Z",
+      "isPublic": true,
+      "title": "奇縁",
+      "tags": [
+        "オリジナル",
+        "銀髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146325287_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146325287",
+      "sourceCreatedAt": "2026-06-22T10:33:59.000Z"
+    },
+    {
       "id": "ab2dea61",
       "filename": "crawl_src_mqwjeg05_1_1782675635012.webp",
       "path": "uploads/2026/06/b597cc56.webp",
