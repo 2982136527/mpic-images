@@ -2,6 +2,32 @@
   "version": 1,
   "images": [
     {
+      "id": "bcd5701a",
+      "filename": "pixiv_145495424_p0.jpg",
+      "path": "uploads/2026/06/2a504c68.jpg",
+      "size": 1553511,
+      "width": 648,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4c043a1aa5991740d007fa636cb927fec41ed468e539c39b4ee720320ce7c456",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T15:00:45.455Z",
+      "isPublic": true,
+      "title": "儿童节",
+      "tags": [
+        "初音ミク",
+        "重音テト",
+        "亞北ネル",
+        "VOCALOID",
+        "とりぷるばか",
+        "VOCALOID5000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145495424_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145495424",
+      "sourceCreatedAt": "2026-06-01T21:01:38.000Z"
+    },
+    {
       "id": "f0aa3bce",
       "filename": "pixiv_145495317_p0.jpg",
       "path": "uploads/2026/06/74ce9756.jpg",
