@@ -2,6 +2,26 @@
   "version": 1,
   "images": [
     {
+      "id": "6e87afb7",
+      "filename": "pixiv_145407953_p0.jpg",
+      "path": "uploads/2026/06/dae5e3fe.jpg",
+      "size": 372157,
+      "mimeType": "image/jpeg",
+      "hash": "63d6e9597327a0bbfe9d5c1c75e62916bbcc6103af6c0f3692ad7e4161809629",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T12:46:19.040Z",
+      "isPublic": true,
+      "title": "承認をお願いします",
+      "tags": [
+        "ブルーアーカイブ",
+        "プラナ(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145407953_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145407953",
+      "sourceCreatedAt": "2026-05-30T15:17:19.000Z"
+    },
+    {
       "id": "8ec517e2",
       "filename": "crawl_src_mqwjeg06_t_1782650761888.jpg",
       "path": "uploads/2026/06/c8b5673b.jpg",
