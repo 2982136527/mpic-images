@@ -2,6 +2,22 @@
   "version": 1,
   "logs": [
     {
+      "type": "image_meta_api",
+      "path": "/api/image/9dc83f6d",
+      "method": "GET",
+      "status": 200,
+      "ip": "203.10.99.58",
+      "visitorKey": "200cadecad73f17c",
+      "userAgent": "curl/8.7.1",
+      "deviceType": "bot",
+      "actorRole": "guest",
+      "imageId": "9dc83f6d",
+      "imageTitle": "心傷",
+      "detail": "ok",
+      "id": "03a2a823",
+      "createdAt": "2026-06-28T15:26:20.873Z"
+    },
+    {
       "type": "images_api",
       "path": "/api/images?publicOnly=true&pageSize=1",
       "method": "GET",
@@ -31,11 +47,21 @@
     }
   ],
   "counters": {
-    "total": 2,
+    "total": 3,
     "byType": {
       "page_view": 1,
-      "images_api": 1
+      "images_api": 1,
+      "image_meta_api": 1
     },
-    "images": []
+    "images": [
+      {
+        "imageId": "9dc83f6d",
+        "imageTitle": "心傷",
+        "totalCount": 1,
+        "randomCount": 0,
+        "metaCount": 1,
+        "lastAt": "2026-06-28T15:26:20.873Z"
+      }
+    ]
   }
 }
