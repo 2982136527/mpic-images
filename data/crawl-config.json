@@ -73,9 +73,9 @@
   "continuation": {
     "lastScheduledAt": "2026-06-28T10:07:01.788Z",
     "lastStatus": "accepted",
-    "lastDetail": "in-process batch 3 fetched=16 duplicates=9 errors=11",
+    "lastDetail": "in-process continuation finished batches=3 reason=time_budget_reached",
     "lastAttemptAt": "2026-06-28T10:08:27.600Z",
-    "lastAcceptedAt": "2026-06-28T10:09:17.810Z",
+    "lastAcceptedAt": "2026-06-28T10:09:18.386Z",
     "lastUrl": "in-process"
   }
 }
