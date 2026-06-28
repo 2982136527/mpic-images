@@ -2,6 +2,29 @@
   "version": 1,
   "images": [
     {
+      "id": "222b6168",
+      "filename": "pixiv_146453255_p0.jpg",
+      "path": "uploads/2026/06/2857e749.jpg",
+      "size": 2316025,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "77739101a5b67b23d0475096c96f8fb3748913bcd820586e31e75f123e3af704",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T18:32:36.538Z",
+      "isPublic": true,
+      "title": "人形遣い",
+      "tags": [
+        "東方",
+        "東方Project",
+        "アリス・マーガトロイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146453255_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146453255",
+      "sourceCreatedAt": "2026-06-25T15:02:36.000Z"
+    },
+    {
       "id": "5c6dbda6",
       "filename": "pixiv_146454273_p0.jpg",
       "path": "uploads/2026/06/95876a3d.jpg",
