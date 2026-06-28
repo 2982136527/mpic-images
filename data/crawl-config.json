@@ -63,9 +63,9 @@
   "running": false,
   "lastRunAt": "2026-06-28T07:24:17.294Z",
   "continuation": {
-    "lastScheduledAt": "2026-06-28T06:27:59.795Z",
-    "lastStatus": "failed",
-    "lastDetail": "https://pic.20031104.xyz/api/cron/crawl -> HTTP 508 Loop Detected body=Infinite loop detected\n\nINFINITE_LOOP_DETECTED\n\nhnd1:iad1:iad1:iad1:iad1:iad1::xjwld-1782628156190-9b0424031362\n",
+    "lastScheduledAt": "2026-06-28T07:24:18.434Z",
+    "lastStatus": "scheduled",
+    "lastDetail": "Queued continuation across 1 target(s)",
     "lastAttemptAt": "2026-06-28T06:29:16.198Z",
     "lastAcceptedAt": "2026-06-28T06:27:59.800Z",
     "lastUrl": "https://pic.20031104.xyz/api/cron/crawl"
