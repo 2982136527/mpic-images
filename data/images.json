@@ -2,6 +2,29 @@
   "version": 1,
   "images": [
     {
+      "id": "6f9a4a55",
+      "filename": "pixiv_146328521_p0.jpg",
+      "path": "uploads/2026/06/1d3b7fa9.jpg",
+      "size": 993468,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4e9750dbdcce55355350949dc7e35f0089e6b34c9ef44d73e8dcf70447b2ca5f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T17:32:46.800Z",
+      "isPublic": true,
+      "title": "アイミーコラボ",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146328521_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146328521",
+      "sourceCreatedAt": "2026-06-22T11:50:27.000Z"
+    },
+    {
       "id": "47d93f45",
       "filename": "crawl_src_mqwjeg06_t_1782667943083.png",
       "path": "uploads/2026/06/b1ade36d.jpg",
