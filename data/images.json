@@ -2,6 +2,28 @@
   "version": 1,
   "images": [
     {
+      "id": "edf4cce6",
+      "filename": "pixiv_146487548_p0.jpg",
+      "path": "uploads/2026/06/81e1722e.jpg",
+      "size": 860442,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "19074c23fc55ec16e114a0e95325024678f1275bf8f8dffdd90fa37432525116",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T16:20:53.329Z",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "アークナイツ:エンドフィールド",
+        "カミーユ(エンドフィールド)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146487548_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146487548",
+      "sourceCreatedAt": "2026-06-26T13:18:57.000Z"
+    },
+    {
       "id": "a8c5f104",
       "filename": "pixiv_146298983_p0.jpg",
       "path": "uploads/2026/06/7b6499dc.jpg",
