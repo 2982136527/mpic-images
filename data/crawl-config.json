@@ -68,8 +68,8 @@
       "responseType": "pixiv"
     }
   ],
-  "running": true,
-  "lastRunAt": "2026-06-28T10:12:36.343Z",
+  "running": false,
+  "lastRunAt": "2026-06-28T10:13:36.153Z",
   "continuation": {
     "lastScheduledAt": "2026-06-28T10:11:55.258Z",
     "lastStatus": "scheduled",
@@ -77,6 +77,5 @@
     "lastAttemptAt": "2026-06-28T10:12:38.161Z",
     "lastAcceptedAt": "2026-06-28T10:12:37.576Z",
     "lastUrl": "in-process"
-  },
-  "runningSince": "2026-06-28T10:12:38.841Z"
+  }
 }
