@@ -2,6 +2,29 @@
   "version": 1,
   "images": [
     {
+      "id": "c95da570",
+      "filename": "pixiv_146254732_p0.jpg",
+      "path": "uploads/2026/06/b23bf651.jpg",
+      "size": 904313,
+      "mimeType": "image/jpeg",
+      "hash": "6ae66ea94b8e012b4b2bc84ca628d8b1ce62e76b12e6279178b35f38c8e6c906",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T11:46:52.555Z",
+      "isPublic": true,
+      "title": "雷暴の予感",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "背景",
+        "風景",
+        "雨"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146254732_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146254732",
+      "sourceCreatedAt": "2026-06-20T16:05:39.000Z"
+    },
+    {
       "id": "c7e73227",
       "filename": "pixiv_145425203_p0.jpg",
       "path": "uploads/2026/06/3d7383f9.jpg",
