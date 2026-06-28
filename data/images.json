@@ -2,6 +2,25 @@
   "version": 1,
   "images": [
     {
+      "id": "2767725a",
+      "filename": "pixiv_146492359_p0.jpg",
+      "path": "uploads/2026/06/4a386060.jpg",
+      "size": 870327,
+      "mimeType": "image/jpeg",
+      "hash": "2606dd224af4b39d64189671d783b2e744dd7ad7410a9525eeaa7cc440286904",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T11:50:42.885Z",
+      "isPublic": true,
+      "title": "KM",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146492359_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146492359",
+      "sourceCreatedAt": "2026-06-26T15:00:17.000Z"
+    },
+    {
       "id": "fd23feee",
       "filename": "pixiv_146315673_p0.jpg",
       "path": "uploads/2026/06/81c883e7.jpg",
