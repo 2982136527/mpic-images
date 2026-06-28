@@ -60,15 +60,39 @@
       "id": "src_new_004"
     },
     {
-      "id": "builtin_pixiv_discovery",
-      "name": "Pixiv Discovery",
-      "url": "https://www.pixiv.net/ajax/illust/discovery?mode=safe&max=18",
+      "id": "builtin_pixiv_daily_ranking",
+      "name": "Pixiv日榜",
+      "url": "https://www.pixiv.net/ranking.php?mode=daily&content=illust&format=json&p=1",
+      "category": "anime",
+      "enabled": true,
+      "responseType": "pixiv"
+    },
+    {
+      "id": "builtin_pixiv_weekly_ranking",
+      "name": "Pixiv周榜",
+      "url": "https://www.pixiv.net/ranking.php?mode=weekly&content=illust&format=json&p=1",
+      "category": "anime",
+      "enabled": true,
+      "responseType": "pixiv"
+    },
+    {
+      "id": "builtin_pixiv_monthly_ranking",
+      "name": "Pixiv月榜",
+      "url": "https://www.pixiv.net/ranking.php?mode=monthly&content=illust&format=json&p=1",
+      "category": "anime",
+      "enabled": true,
+      "responseType": "pixiv"
+    },
+    {
+      "id": "builtin_pixiv_top_rated",
+      "name": "Pixiv高分精选",
+      "url": "https://www.pixiv.net/ranking.php?mode=daily&content=illust&format=json&p=2",
       "category": "anime",
       "enabled": true,
       "responseType": "pixiv"
     }
   ],
-  "running": false,
+  "running": true,
   "lastRunAt": "2026-06-28T10:14:34.349Z",
   "continuation": {
     "lastScheduledAt": "2026-06-28T10:11:55.258Z",
@@ -77,5 +101,6 @@
     "lastAttemptAt": "2026-06-28T10:13:37.991Z",
     "lastAcceptedAt": "2026-06-28T10:14:36.190Z",
     "lastUrl": "in-process"
-  }
+  },
+  "runningSince": "2026-06-28T10:54:58.012Z"
 }
