@@ -2,6 +2,27 @@
   "version": 1,
   "images": [
     {
+      "id": "ee5a7712",
+      "filename": "pixiv_146332332_p0.jpg",
+      "path": "uploads/2026/06/ee0e4209.jpg",
+      "size": 860042,
+      "width": 844,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5f23d87ab6ed2ddf76028154a9bd89516a7d78ea82919d201220b39300e8dcaa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T18:48:23.439Z",
+      "isPublic": true,
+      "title": "３巻発売のお知らせ",
+      "tags": [
+        "ダンジョンバンド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146332332_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146332332",
+      "sourceCreatedAt": "2026-06-22T13:02:08.000Z"
+    },
+    {
       "id": "e623eb52",
       "filename": "crawl_src_new_004_1782672488054.webp",
       "path": "uploads/2026/06/6b5cd020.webp",
