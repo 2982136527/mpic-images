@@ -2,6 +2,33 @@
   "version": 1,
   "images": [
     {
+      "id": "3a3d7233",
+      "filename": "pixiv_146356203_p0.jpg",
+      "path": "uploads/2026/06/2dc1e731.jpg",
+      "size": 1235071,
+      "width": 743,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1444a9fc0d0cc0cf044993839550a5d448829386ffeac423340a4e8b42796b36",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T18:39:14.109Z",
+      "isPublic": true,
+      "title": "83日目 ミク",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "HatsuneMiku",
+        "ボカロ",
+        "ボーカロイド",
+        "100日チャレンジ",
+        "ドーナツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146356203_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146356203",
+      "sourceCreatedAt": "2026-06-23T06:19:37.000Z"
+    },
+    {
       "id": "6bbb70ce",
       "filename": "pixiv_146299875_p0.jpg",
       "path": "uploads/2026/06/f6507ffb.jpg",
