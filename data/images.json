@@ -2,6 +2,28 @@
   "version": 1,
   "images": [
     {
+      "id": "5c6dbda6",
+      "filename": "pixiv_146454273_p0.jpg",
+      "path": "uploads/2026/06/95876a3d.jpg",
+      "size": 1378486,
+      "width": 1200,
+      "height": 799,
+      "mimeType": "image/jpeg",
+      "hash": "451b238242485b347e0f3dee80ee6be28d2e1e7b2c85554e926c1f128fa0d9ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T18:32:30.984Z",
+      "isPublic": true,
+      "title": "reze",
+      "tags": [
+        "チェンソーマン",
+        "レゼ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146454273_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146454273",
+      "sourceCreatedAt": "2026-06-25T15:20:58.000Z"
+    },
+    {
       "id": "76e21a67",
       "filename": "pixiv_146296893_p0.jpg",
       "path": "uploads/2026/06/5f495ead.jpg",
