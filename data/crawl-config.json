@@ -96,10 +96,10 @@
   "lastRunAt": "2026-06-28T10:57:45.716Z",
   "continuation": {
     "lastScheduledAt": "2026-06-28T10:55:55.604Z",
-    "lastStatus": "scheduled",
-    "lastDetail": "Starting in-process continuation batch 2",
+    "lastStatus": "accepted",
+    "lastDetail": "in-process batch 2 fetched=12 duplicates=11 errors=32",
     "lastAttemptAt": "2026-06-28T10:56:53.521Z",
-    "lastAcceptedAt": "2026-06-28T10:56:52.977Z",
+    "lastAcceptedAt": "2026-06-28T10:57:46.906Z",
     "lastUrl": "in-process"
   }
 }
