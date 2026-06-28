@@ -60,7 +60,7 @@
       "id": "src_new_004"
     }
   ],
-  "running": false,
+  "running": true,
   "lastRunAt": "2026-06-28T07:25:22.924Z",
   "continuation": {
     "lastScheduledAt": "2026-06-28T07:25:24.038Z",
@@ -69,5 +69,6 @@
     "lastAttemptAt": "2026-06-28T07:25:24.045Z",
     "lastAcceptedAt": "2026-06-28T07:25:24.045Z",
     "lastUrl": "https://pic.20031104.xyz/api/cron/crawl"
-  }
+  },
+  "runningSince": "2026-06-28T07:25:27.445Z"
 }
