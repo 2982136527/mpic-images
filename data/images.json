@@ -2,6 +2,29 @@
   "version": 1,
   "images": [
     {
+      "id": "eed963b8",
+      "filename": "pixiv_146492411_p0.jpg",
+      "path": "uploads/2026/06/42d71c0f.jpg",
+      "size": 1165760,
+      "width": 1200,
+      "height": 560,
+      "mimeType": "image/jpeg",
+      "hash": "5c3e7264d050202a7d3a202804b7bf17a1c72282d41a650248ff48c085b8c983",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T16:15:58.697Z",
+      "isPublic": true,
+      "title": "FouRTe Project",
+      "tags": [
+        "FouRTeProject",
+        "仕事絵",
+        "バーチャルYouTuber100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146492411_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146492411",
+      "sourceCreatedAt": "2026-06-26T15:00:25.000Z"
+    },
+    {
       "id": "cfabaa97",
       "filename": "pixiv_145527120_p0.jpg",
       "path": "uploads/2026/06/47226eed.jpg",
