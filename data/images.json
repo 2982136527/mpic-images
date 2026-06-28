@@ -2,6 +2,29 @@
   "version": 1,
   "images": [
     {
+      "id": "7ae40b5e",
+      "filename": "pixiv_146524173_p0.jpg",
+      "path": "uploads/2026/06/f59bde0b.jpg",
+      "size": 866752,
+      "width": 1016,
+      "height": 731,
+      "mimeType": "image/jpeg",
+      "hash": "d7344b639447d9ef2d35e007882b2fc26bd78be159eafb751e4b5524390b1516",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T18:44:02.455Z",
+      "isPublic": true,
+      "title": "コズミック",
+      "tags": [
+        "創作",
+        "女の子",
+        "宇宙"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146524173_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146524173",
+      "sourceCreatedAt": "2026-06-27T10:17:25.000Z"
+    },
+    {
       "id": "37f57b50",
       "filename": "crawl_src_mqwjeg05_1_1782672222609.webp",
       "path": "uploads/2026/06/f1478484.webp",
