@@ -2,6 +2,31 @@
   "version": 1,
   "images": [
     {
+      "id": "4815af7a",
+      "filename": "pixiv_146494011_p0.jpg",
+      "title": "アナスターシャ",
+      "size": 0,
+      "width": 1536,
+      "height": 2048,
+      "mimeType": "image/jpeg",
+      "hash": "1f0f08df4b388a208bf8a6a2dd74d3a6fb62469b58ec4c260dbc1b94748fb41f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T10:12:27.652Z",
+      "storageKind": "external",
+      "externalUrl": "https://i.pximg.net/img-master/img/2026/06/27/12/31/41/146494011_p0_master1200.jpg",
+      "isPublic": true,
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "アナスターシャ・フョードロヴナ・スネージナヤ",
+        "アナスターシャ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146494011_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146494011",
+      "sourceCreatedAt": "2026-06-27T12:31:41+09:00"
+    },
+    {
       "id": "d8ccd99b",
       "filename": "pixiv_146496831_p0.jpg",
       "title": "万物生长",
