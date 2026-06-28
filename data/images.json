@@ -2,6 +2,29 @@
   "version": 1,
   "images": [
     {
+      "id": "bc937c07",
+      "filename": "pixiv_146520208_p0.jpg",
+      "title": "『此方より』装画",
+      "size": 0,
+      "width": 909,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "688cdfa6436fed020add022e3e093ad2f7e8e1da979cef435736bbb01a6908a4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T10:06:50.999Z",
+      "storageKind": "external",
+      "externalUrl": "https://i.pximg.net/img-master/img/2026/06/27/17/48/07/146520208_p0_master1200.jpg",
+      "isPublic": true,
+      "tags": [
+        "装画",
+        "小林泰三"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146520208_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146520208",
+      "sourceCreatedAt": "2026-06-27T17:48:07+09:00"
+    },
+    {
       "id": "5f50ff66",
       "filename": "pixiv_146484665_p0.jpg",
       "title": "エンドフィールド Camille Endmin",
