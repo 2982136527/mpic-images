@@ -2,6 +2,36 @@
   "version": 1,
   "images": [
     {
+      "id": "f3ec84b6",
+      "filename": "pixiv_146481634_p0.jpg",
+      "path": "uploads/2026/06/729c58c0.jpg",
+      "size": 608631,
+      "width": 720,
+      "height": 960,
+      "mimeType": "image/jpeg",
+      "hash": "edafc91e41d9453cadc0f87461c747163837986e6cec1eccd2cf494eb933eef0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-28T18:30:56.321Z",
+      "isPublic": true,
+      "title": "いろいろ",
+      "tags": [
+        "名探偵プリキュア!",
+        "マンダロリアン",
+        "ウルトラマンタイガ",
+        "石動惣一",
+        "仮面ライダービルド",
+        "STARWARS",
+        "メガスマッシャー",
+        "じゃりン子チエ",
+        "激走戦隊カーレンジャー",
+        "ネタの大渋滞"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146481634_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146481634",
+      "sourceCreatedAt": "2026-06-26T11:25:36.000Z"
+    },
+    {
       "id": "c7ee589f",
       "filename": "pixiv_146459428_p0.jpg",
       "path": "uploads/2026/06/2003f4f1.jpg",
