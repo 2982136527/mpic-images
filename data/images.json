@@ -2,6 +2,33 @@
   "version": 1,
   "images": [
     {
+      "id": "1a4dc0a1",
+      "filename": "pixiv_145455777_p0.jpg",
+      "path": "uploads/2026/06/7e0784ae.jpg",
+      "size": 555023,
+      "width": 752,
+      "height": 990,
+      "mimeType": "image/jpeg",
+      "hash": "c0537bcdbfb6ac300386c93844c843467189c8c72c94ec9cecea5c9bdd07426c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T04:28:45.823Z",
+      "isPublic": true,
+      "title": "機動物さん（パイルバンカーキャット）",
+      "tags": [
+        "オリジナル",
+        "機動物",
+        "パイルバンカー",
+        "とっつき",
+        "むせる",
+        "擬人化",
+        "パイルバンカーキャット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145455777_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145455777",
+      "sourceCreatedAt": "2026-05-31T15:18:35.000Z"
+    },
+    {
       "id": "7a9f54a1",
       "filename": "crawl_src_new_004_1782707314307.webp",
       "path": "uploads/2026/06/38cbf450.webp",
