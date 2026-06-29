@@ -3,6 +3,28 @@
   "shardId": "11",
   "images": [
     {
+      "id": "2beee726",
+      "filename": "pixiv_146521771_p0.jpg",
+      "path": "uploads/2026/06/048acf09.jpg",
+      "size": 1417195,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "87132ecdd2242068bd263b0244768b2b785d878cfa10a3974a09783239a5084a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T13:35:39.752Z",
+      "isPublic": true,
+      "title": "OC🍫‪🌱‬",
+      "tags": [
+        "女の子",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146521771_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146521771",
+      "sourceCreatedAt": "2026-06-27T09:21:14.000Z"
+    },
+    {
       "id": "9f139fb0",
       "filename": "crawl_src_new_004_1782739934294.webp",
       "path": "uploads/2026/06/081f1b30.webp",
