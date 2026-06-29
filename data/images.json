@@ -2,6 +2,28 @@
   "version": 1,
   "images": [
     {
+      "id": "de0df26b",
+      "filename": "pixiv_146338791_p0.jpg",
+      "path": "uploads/2026/06/79b6d023.jpg",
+      "size": 849431,
+      "width": 600,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "ea1f5b10bba5459dbad1ac8ae2b56d06a5ef142c20d53cc750faa4275dea38d5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T03:59:37.732Z",
+      "isPublic": true,
+      "title": "🐱🍦",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146338791_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146338791",
+      "sourceCreatedAt": "2026-06-22T15:10:51.000Z"
+    },
+    {
       "id": "f56ef7c1",
       "filename": "crawl_src_mqwjeg06_t_1782705538582.jpg",
       "path": "uploads/2026/06/044a7f55.jpg",
