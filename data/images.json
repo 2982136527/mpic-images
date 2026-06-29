@@ -2,6 +2,30 @@
   "version": 1,
   "images": [
     {
+      "id": "6fabe24d",
+      "filename": "pixiv_146366898_p0.jpg",
+      "path": "uploads/2026/06/75ed1cc8.jpg",
+      "size": 681890,
+      "width": 595,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "dbd310bf2e1651d0dbdb93b9e0b352d1d12e9c3ade16f38bf1430eed6d5eba22",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T04:02:37.052Z",
+      "isPublic": true,
+      "title": "C108カタログ特典",
+      "tags": [
+        "女の子",
+        "水着",
+        "マルーン髪",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146366898_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146366898",
+      "sourceCreatedAt": "2026-06-23T11:54:55.000Z"
+    },
+    {
       "id": "9b2c2327",
       "filename": "crawl_src_mqwjeg05_1_1782705723156.webp",
       "path": "uploads/2026/06/4bb6c681.webp",
