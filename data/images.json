@@ -2,6 +2,31 @@
   "version": 1,
   "images": [
     {
+      "id": "3ee29ab1",
+      "filename": "pixiv_146568865_p0.jpg",
+      "path": "uploads/2026/06/c5e26e8f.jpg",
+      "size": 1467172,
+      "width": 767,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3a73165fd6562f43e6048ec19ee5738a838e27e06d44348175765b00fbe52fd8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T04:29:53.172Z",
+      "isPublic": true,
+      "title": "FIRTHO",
+      "tags": [
+        "ファソ",
+        "FIRTHO",
+        "SilverPalace",
+        "실버팰리스",
+        "白銀の城"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146568865_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146568865",
+      "sourceCreatedAt": "2026-06-28T09:28:29.000Z"
+    },
+    {
       "id": "baf813c8",
       "filename": "crawl_src_mqwjeg06_t_1782707362550.jpg",
       "path": "uploads/2026/06/54706906.jpg",
