@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "906757db",
+      "filename": "pixiv_145533706_p0.jpg",
+      "path": "uploads/2026/06/9c04ab25.jpg",
+      "size": 1835919,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ad62ad36eeea83dbade6a0c1394f64a29e54eaad945bac317c70d896c65ff082",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T07:12:29.197Z",
+      "isPublic": true,
+      "title": "弥雾meow",
+      "tags": [
+        "依頼絵",
+        "女の子",
+        "猫",
+        "ケモミミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145533706_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145533706",
+      "sourceCreatedAt": "2026-06-02T15:00:13.000Z"
+    },
+    {
       "id": "dd74fb99",
       "filename": "crawl_src_mqwjeg06_t_1782717010418.jpg",
       "path": "uploads/2026/06/f4e1fbb2.jpg",
