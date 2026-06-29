@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "b1299a26",
+      "filename": "pixiv_145477345_p0.jpg",
+      "path": "uploads/2026/06/cb3c4f50.jpg",
+      "size": 1013544,
+      "width": 691,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0a4c2babdef05d4ff97d3c6e156a00c74fdcf08875abe3f18ce235b0871aebba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T10:42:12.960Z",
+      "isPublic": true,
+      "title": "椿",
+      "tags": [
+        "鸣潮",
+        "椿",
+        "ツバキ(鳴潮)",
+        "WutheringWaves",
+        "笑顔",
+        "メッシュ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145477345_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145477345",
+      "sourceCreatedAt": "2026-06-01T08:20:28.000Z"
+    },
+    {
       "id": "7cd14963",
       "filename": "crawl_src_mqwjeg05_1_1782729672652.webp",
       "path": "uploads/2026/06/53db7556.webp",
