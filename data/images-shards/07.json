@@ -3,6 +3,28 @@
   "shardId": "07",
   "images": [
     {
+      "id": "a5d959cf",
+      "filename": "pixiv_146496831_p0.jpg",
+      "path": "uploads/2026/06/068abedd.jpg",
+      "size": 1707692,
+      "width": 1200,
+      "height": 748,
+      "mimeType": "image/jpeg",
+      "hash": "42d2fd680c7b458b821c618dbc55a9af251b2fece3ab67f3c6e20a6c8a7ee6d5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T16:34:17.667Z",
+      "isPublic": true,
+      "title": "万物生长",
+      "tags": [
+        "シュウ(アークナイツ)",
+        "アークナイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146496831_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146496831",
+      "sourceCreatedAt": "2026-06-26T16:48:47.000Z"
+    },
+    {
       "id": "652654c2",
       "filename": "crawl_src_mqwjeg05_1_1782748197971.webp",
       "path": "uploads/2026/06/b28df3f4.webp",
