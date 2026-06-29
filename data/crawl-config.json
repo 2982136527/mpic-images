@@ -95,12 +95,12 @@
   "running": true,
   "lastRunAt": "2026-06-29T05:33:54.953Z",
   "continuation": {
-    "lastScheduledAt": "2026-06-29T05:34:13.131Z",
+    "lastScheduledAt": "2026-06-29T05:34:12.370Z",
     "lastStatus": "scheduled",
-    "lastDetail": "GitHub Actions running batch 1 enabledSources=11 elapsedMs=825",
+    "lastDetail": "Dispatching GitHub Actions wake reason=local_verify",
     "lastAttemptAt": "2026-06-29T05:34:13.956Z",
     "lastAcceptedAt": "2026-06-29T05:33:56.425Z",
-    "lastUrl": "https://github.com/2982136527/mpic/actions/runs/28350884564"
+    "lastUrl": "https://github.com/2982136527/mpic/actions/workflows/crawl.yml"
   },
   "runningSince": "2026-06-29T05:34:14.985Z"
 }
