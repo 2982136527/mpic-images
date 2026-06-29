@@ -2,6 +2,29 @@
   "version": 1,
   "images": [
     {
+      "id": "6d4f99a8",
+      "filename": "pixiv_145469666_p0.jpg",
+      "path": "uploads/2026/06/84a3d107.jpg",
+      "size": 422899,
+      "width": 693,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "afff02ec8320c9d297ca397b9b410b38a69f78569363639039d7a53d54d2940b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T03:56:45.803Z",
+      "isPublic": true,
+      "title": "commission",
+      "tags": [
+        "ブルーアーカイブ",
+        "鬼方カヨコ",
+        "黒スト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145469666_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145469666",
+      "sourceCreatedAt": "2026-06-01T02:36:09.000Z"
+    },
+    {
       "id": "551783b8",
       "filename": "crawl_src_new_004_1782705400308.webp",
       "path": "uploads/2026/06/2c671a5c.webp",
