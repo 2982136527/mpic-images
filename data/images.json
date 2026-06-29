@@ -2,6 +2,31 @@
   "version": 1,
   "images": [
     {
+      "id": "1c19ec74",
+      "filename": "pixiv_146539244_p0.jpg",
+      "path": "uploads/2026/06/3f25dec4.jpg",
+      "size": 841962,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "edd2c8f367a07627714b1f8518f1d65745d65ce88f5cc1fd528d7dfd3dd08997",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T03:57:00.148Z",
+      "isPublic": true,
+      "title": "絶許",
+      "tags": [
+        "The_Amazing_Digital_Circus",
+        "Jax",
+        "Kaufmo",
+        "Pomni",
+        "Ribbit(TADC)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146539244_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146539244",
+      "sourceCreatedAt": "2026-06-27T15:09:13.000Z"
+    },
+    {
       "id": "83e83fb6",
       "filename": "pixiv_145567628_p0.jpg",
       "path": "uploads/2026/06/19b4f38b.jpg",
