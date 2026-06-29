@@ -95,11 +95,11 @@
   "running": false,
   "lastRunAt": "2026-06-29T01:02:49.451Z",
   "continuation": {
-    "lastScheduledAt": "2026-06-29T01:03:05.560Z",
-    "lastStatus": "failed",
-    "lastDetail": "GitHub Actions run failed: data/crawl-config.json does not match 4ee37fcec866d4c05aa2ad61f73558ab087a2b28",
-    "lastAttemptAt": "2026-06-29T01:03:06.206Z",
+    "lastScheduledAt": "2026-06-29T01:03:25.581Z",
+    "lastStatus": "scheduled",
+    "lastDetail": "GitHub Actions run started enabled=true enabledSources=11 force=false windowMs=270000",
+    "lastAttemptAt": "2026-06-29T01:03:25.581Z",
     "lastAcceptedAt": "2026-06-29T01:02:50.878Z",
-    "lastUrl": "https://github.com/2982136527/mpic/actions/runs/28342234936"
+    "lastUrl": "https://github.com/2982136527/mpic/actions/runs/28342244405"
   }
 }
