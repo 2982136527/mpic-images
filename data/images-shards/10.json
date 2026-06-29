@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "2c2b1da6",
+      "filename": "pixiv_145540188_p0.jpg",
+      "path": "uploads/2026/06/79b9ddf7.jpg",
+      "size": 1133053,
+      "width": 679,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7ea84c55bad5244c43035239ac5702787c13cc57eb175144c879f597639db35c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T05:41:11.773Z",
+      "isPublic": true,
+      "title": "ユウカ",
+      "tags": [
+        "ユウカ",
+        "早瀬ユウカ",
+        "ブルーアーカイブ",
+        "ブルーアーカイブ10000users入り",
+        "ビリヤード"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145540188_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145540188",
+      "sourceCreatedAt": "2026-06-02T18:57:52.000Z"
+    },
+    {
       "id": "1e15b90a",
       "filename": "crawl_src_mqwjeg05_8_1782711640529.jpg",
       "path": "uploads/2026/06/a63bbf5d.jpg",
