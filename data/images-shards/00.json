@@ -3,6 +3,28 @@
   "shardId": "00",
   "images": [
     {
+      "id": "6cedca3e",
+      "filename": "pixiv_145495505_p0.jpg",
+      "path": "uploads/2026/06/268b330d.jpg",
+      "size": 128797,
+      "width": 400,
+      "height": 568,
+      "mimeType": "image/jpeg",
+      "hash": "6464fba77ace938e712a44b8feae7ea2b2301fc95674a3ac769a0a46e364ac72",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T04:42:02.270Z",
+      "isPublic": true,
+      "title": "LINE着せかえ＆スタンプ",
+      "tags": [
+        "オリジナル",
+        "LINEスタンプ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145495505_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145495505",
+      "sourceCreatedAt": "2026-06-01T15:00:57.000Z"
+    },
+    {
       "id": "59c28332",
       "filename": "crawl_src_new_003_1782707916215.webp",
       "path": "uploads/2026/06/9f0b43a1.webp",
