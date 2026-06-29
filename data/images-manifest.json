@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "strategy": "id_hash_mod_32",
+  "shardCount": 32,
+  "legacyPath": "data/images.json",
+  "migratedAt": "2026-06-29T04:43:50.241Z",
+  "shards": [
+    {
+      "id": "00",
+      "path": "data/images-shards/00.json",
+      "imageCount": 88
+    },
+    {
+      "id": "01",
+      "path": "data/images-shards/01.json",
+      "imageCount": 69
+    },
+    {
+      "id": "02",
+      "path": "data/images-shards/02.json",
+      "imageCount": 80
+    },
+    {
+      "id": "03",
+      "path": "data/images-shards/03.json",
+      "imageCount": 79
+    },
+    {
+      "id": "04",
+      "path": "data/images-shards/04.json",
+      "imageCount": 88
+    },
+    {
+      "id": "05",
+      "path": "data/images-shards/05.json",
+      "imageCount": 78
+    },
+    {
+      "id": "06",
+      "path": "data/images-shards/06.json",
+      "imageCount": 73
+    },
+    {
+      "id": "07",
+      "path": "data/images-shards/07.json",
+      "imageCount": 82
+    },
+    {
+      "id": "08",
+      "path": "data/images-shards/08.json",
+      "imageCount": 78
+    },
+    {
+      "id": "09",
+      "path": "data/images-shards/09.json",
+      "imageCount": 87
+    },
+    {
+      "id": "0a",
+      "path": "data/images-shards/0a.json",
+      "imageCount": 79
+    },
+    {
+      "id": "0b",
+      "path": "data/images-shards/0b.json",
+      "imageCount": 67
+    },
+    {
+      "id": "0c",
+      "path": "data/images-shards/0c.json",
+      "imageCount": 77
+    },
+    {
+      "id": "0d",
+      "path": "data/images-shards/0d.json",
+      "imageCount": 80
+    },
+    {
+      "id": "0e",
+      "path": "data/images-shards/0e.json",
+      "imageCount": 91
+    },
+    {
+      "id": "0f",
+      "path": "data/images-shards/0f.json",
+      "imageCount": 98
+    },
+    {
+      "id": "10",
+      "path": "data/images-shards/10.json",
+      "imageCount": 76
+    },
+    {
+      "id": "11",
+      "path": "data/images-shards/11.json",
+      "imageCount": 82
+    },
+    {
+      "id": "12",
+      "path": "data/images-shards/12.json",
+      "imageCount": 78
+    },
+    {
+      "id": "13",
+      "path": "data/images-shards/13.json",
+      "imageCount": 67
+    },
+    {
+      "id": "14",
+      "path": "data/images-shards/14.json",
+      "imageCount": 83
+    },
+    {
+      "id": "15",
+      "path": "data/images-shards/15.json",
+      "imageCount": 82
+    },
+    {
+      "id": "16",
+      "path": "data/images-shards/16.json",
+      "imageCount": 78
+    },
+    {
+      "id": "17",
+      "path": "data/images-shards/17.json",
+      "imageCount": 93
+    },
+    {
+      "id": "18",
+      "path": "data/images-shards/18.json",
+      "imageCount": 77
+    },
+    {
+      "id": "19",
+      "path": "data/images-shards/19.json",
+      "imageCount": 87
+    },
+    {
+      "id": "1a",
+      "path": "data/images-shards/1a.json",
+      "imageCount": 70
+    },
+    {
+      "id": "1b",
+      "path": "data/images-shards/1b.json",
+      "imageCount": 82
+    },
+    {
+      "id": "1c",
+      "path": "data/images-shards/1c.json",
+      "imageCount": 75
+    },
+    {
+      "id": "1d",
+      "path": "data/images-shards/1d.json",
+      "imageCount": 65
+    },
+    {
+      "id": "1e",
+      "path": "data/images-shards/1e.json",
+      "imageCount": 86
+    },
+    {
+      "id": "1f",
+      "path": "data/images-shards/1f.json",
+      "imageCount": 76
+    }
+  ]
+}
