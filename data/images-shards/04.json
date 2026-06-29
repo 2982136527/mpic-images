@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "9cf0a587",
+      "filename": "pixiv_146578472_p0.jpg",
+      "path": "uploads/2026/06/510db08a.jpg",
+      "size": 704714,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fb6278ad49c1ef4b09794d4cd80627d4e8a98e9be375ba087c38ebde43d1ce60",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T15:32:40.341Z",
+      "isPublic": true,
+      "title": "NIKKEのシンデレラを描かせていただきました！",
+      "tags": [
+        "シンデレラ(勝利の女神:NIKKE)",
+        "シンデレラ:クリスタルウェーブ",
+        "銀髪赤眼"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146578472_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146578472",
+      "sourceCreatedAt": "2026-06-28T12:43:15.000Z"
+    },
+    {
       "id": "5043b305",
       "filename": "crawl_src_new_003_1782747100772.webp",
       "path": "uploads/2026/06/7da0ea10.webp",
