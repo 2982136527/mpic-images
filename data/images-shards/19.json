@@ -3,6 +3,27 @@
   "shardId": "19",
   "images": [
     {
+      "id": "121f34f0",
+      "filename": "pixiv_146339304_p0.jpg",
+      "path": "uploads/2026/06/63033aa2.jpg",
+      "size": 972831,
+      "width": 967,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "24f580ea4616530d7a2b3671b825d8cc5842f2c41a23f6f482ee0012d9c05819",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T07:10:48.050Z",
+      "isPublic": true,
+      "title": "2025年後半のろぐ",
+      "tags": [
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146339304_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146339304",
+      "sourceCreatedAt": "2026-06-22T15:23:10.000Z"
+    },
+    {
       "id": "ffc8c8f2",
       "filename": "pixiv_146301881_p0.jpg",
       "path": "uploads/2026/06/0bfb3aa2.jpg",
