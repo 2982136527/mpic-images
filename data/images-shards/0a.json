@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "441169e4",
+      "filename": "pixiv_146360520_p0.jpg",
+      "path": "uploads/2026/06/4b15b921.jpg",
+      "size": 759408,
+      "width": 1200,
+      "height": 1109,
+      "mimeType": "image/jpeg",
+      "hash": "3ccdba61833c67ab01d7a0bdc06755fae2f3de02073d24edb9f159941dd06bf7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T12:33:22.753Z",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作",
+        "黒髪",
+        "泣きぼくろ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146360520_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146360520",
+      "sourceCreatedAt": "2026-06-23T09:08:09.000Z"
+    },
+    {
       "id": "a2788bd3",
       "filename": "crawl_src_new_003_1782733424021.webp",
       "path": "uploads/2026/06/6a15a98f.webp",
