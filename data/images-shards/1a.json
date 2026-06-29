@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "0d91daf0",
+      "filename": "pixiv_145478042_p0.jpg",
+      "path": "uploads/2026/06/c3adde1c.jpg",
+      "size": 500733,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7913a6be67a991fec6d707569f26cef31ff203ab5dacc9bde5499d334a17fd27",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T05:36:04.485Z",
+      "isPublic": true,
+      "title": "ココナ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "春原ココナ",
+        "腋",
+        "ロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145478042_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145478042",
+      "sourceCreatedAt": "2026-06-01T08:48:35.000Z"
+    },
+    {
       "id": "d440cf74",
       "filename": "crawl_src_new_003_1782708142119.webp",
       "path": "uploads/2026/06/b9f3bae7.webp",
