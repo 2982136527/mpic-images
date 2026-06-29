@@ -96,8 +96,8 @@
   "lastRunAt": "2026-06-29T00:07:45.570Z",
   "continuation": {
     "lastScheduledAt": "2026-06-29T00:06:29.484Z",
-    "lastStatus": "scheduled",
-    "lastDetail": "GitHub Actions running batch 3 enabledSources=11 elapsedMs=79912",
+    "lastStatus": "failed",
+    "lastDetail": "GitHub Actions run failed: data/crawl-config.json does not match 0bf9ed274b2e5f72604b5bb9452b7e1551e55c1d",
     "lastAttemptAt": "2026-06-29T00:07:49.396Z",
     "lastAcceptedAt": "2026-06-29T00:01:37.889Z",
     "lastUrl": "https://github.com/2982136527/mpic/actions/runs/28340609228"
