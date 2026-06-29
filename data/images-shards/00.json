@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "c1ebd6fe",
+      "filename": "pixiv_146347617_p0.jpg",
+      "path": "uploads/2026/06/1c03b1fb.jpg",
+      "size": 854948,
+      "width": 1200,
+      "height": 874,
+      "mimeType": "image/jpeg",
+      "hash": "12d3b626ee4f2204c10711f20254b7aa4c877ec8713179af9b298f31774cc25f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T05:44:51.598Z",
+      "isPublic": true,
+      "title": "イベントお疲れ様でした",
+      "tags": [
+        "超かぐや姫!",
+        "かぐや(超かぐや姫!)",
+        "酒寄彩葉",
+        "左手薬指",
+        "超かぐや姫!500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146347617_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146347617",
+      "sourceCreatedAt": "2026-06-22T22:18:11.000Z"
+    },
+    {
       "id": "f923b390",
       "filename": "crawl_src_mqwjeg05_1_1782711857257.webp",
       "path": "uploads/2026/06/35fcd7c8.webp",
