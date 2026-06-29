@@ -3,6 +3,36 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "22b6d08f",
+      "filename": "pixiv_145464450_p0.jpg",
+      "path": "uploads/2026/06/80e896a1.jpg",
+      "size": 897180,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "e5e3dc6b0db1d610aa4f10bad4079bc1599e0049e18d3f4e1d269f10499893d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T07:12:13.573Z",
+      "isPublic": true,
+      "title": "🍦🍧🍨",
+      "tags": [
+        "霞(アズールレーン)",
+        "アズールレーン",
+        "風雲(アズールレーン)",
+        "深雪(アズールレーン)",
+        "白露(アズールレーン)",
+        "谷風(アズールレーン)",
+        "睦月(アズールレーン)",
+        "長月(アズールレーン)",
+        "三日月(アズールレーン)",
+        "文月(アズールレーン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145464450_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145464450",
+      "sourceCreatedAt": "2026-05-31T21:49:51.000Z"
+    },
+    {
       "id": "6e6d7243",
       "filename": "pixiv_145454340_p0.jpg",
       "path": "uploads/2026/06/a544a946.jpg",
