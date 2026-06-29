@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "5665a427",
+      "filename": "pixiv_146509081_p0.jpg",
+      "path": "uploads/2026/06/11f264c4.jpg",
+      "size": 949439,
+      "width": 1200,
+      "height": 794,
+      "mimeType": "image/jpeg",
+      "hash": "0b92d04a01169b5e232a7c00c2f4c61b27f6892d09cb65f297de080f7fc1b983",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T07:43:21.452Z",
+      "isPublic": true,
+      "title": "きみ死ぬ",
+      "tags": [
+        "百合",
+        "落書き",
+        "きみが死ぬまで恋をしたい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146509081_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146509081",
+      "sourceCreatedAt": "2026-06-27T02:55:41.000Z"
+    },
+    {
       "id": "cf8dac59",
       "filename": "crawl_src_new_003_1782718663241.webp",
       "path": "uploads/2026/06/db92223d.webp",
