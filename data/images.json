@@ -2,6 +2,29 @@
   "version": 1,
   "images": [
     {
+      "id": "7bf1340f",
+      "filename": "pixiv_146338666_p0.jpg",
+      "path": "uploads/2026/06/ff4a80eb.jpg",
+      "size": 903689,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "abdb258d0c050d378e3582118ad5f392e9ac12b0a8df8efbc75e4379eb75eb07",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T04:30:51.829Z",
+      "isPublic": true,
+      "title": "o",
+      "tags": [
+        "ブルーアーカイブ",
+        "橘ヒカリ",
+        "ブルアカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146338666_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146338666",
+      "sourceCreatedAt": "2026-06-22T15:08:22.000Z"
+    },
+    {
       "id": "ebb4d656",
       "filename": "crawl_src_mqwjeg05_1_1782707437810.webp",
       "path": "uploads/2026/06/3373d151.webp",
