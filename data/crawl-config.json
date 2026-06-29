@@ -97,8 +97,8 @@
   "continuation": {
     "lastScheduledAt": "2026-06-29T02:49:31.154Z",
     "lastStatus": "scheduled",
-    "lastDetail": "GitHub Actions running batch 1 enabledSources=11 elapsedMs=716",
-    "lastAttemptAt": "2026-06-29T02:49:31.870Z",
+    "lastDetail": "GitHub Actions running batch 2 enabledSources=11 elapsedMs=36520",
+    "lastAttemptAt": "2026-06-29T02:50:07.674Z",
     "lastAcceptedAt": "2026-06-29T02:47:14.184Z",
     "lastUrl": "https://github.com/2982136527/mpic/actions/runs/28345472164"
   }
