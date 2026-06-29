@@ -2,6 +2,31 @@
   "version": 1,
   "images": [
     {
+      "id": "16666f4c",
+      "filename": "pixiv_146360547_p0.jpg",
+      "path": "uploads/2026/06/b6152e7d.jpg",
+      "size": 565167,
+      "width": 869,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d8dae9ffc6b2c1d24075cc121a24a80093e50acc3c11a05381ad8f56b4df5f89",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T04:33:43.001Z",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "創作",
+        "天使",
+        "たばこ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146360547_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146360547",
+      "sourceCreatedAt": "2026-06-23T09:09:19.000Z"
+    },
+    {
       "id": "257bd562",
       "filename": "crawl_src_mqwjeg06_t_1782707597792.png",
       "path": "uploads/2026/06/72641451.png",
