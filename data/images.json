@@ -2,6 +2,31 @@
   "version": 1,
   "images": [
     {
+      "id": "0f1776be",
+      "filename": "pixiv_146558694_p0.jpg",
+      "path": "uploads/2026/06/05559283.jpg",
+      "size": 938879,
+      "width": 749,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "66ea39d88ca87d48c7d4bc2aa58b6e30add10977c438a3370ceb04db6e246a36",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T04:41:51.950Z",
+      "isPublic": true,
+      "title": "シスターくんちゃん",
+      "tags": [
+        "男の子",
+        "少年",
+        "男の娘",
+        "シスター",
+        "スパッツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146558694_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146558694",
+      "sourceCreatedAt": "2026-06-28T04:33:11.000Z"
+    },
+    {
       "id": "333c577f",
       "filename": "crawl_src_mqwjeg06_t_1782708097571.jpg",
       "path": "uploads/2026/06/9f175781.jpg",
