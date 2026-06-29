@@ -2,6 +2,28 @@
   "version": 1,
   "images": [
     {
+      "id": "5575be03",
+      "filename": "pixiv_145458782_p0.jpg",
+      "path": "uploads/2026/06/e9c27291.jpg",
+      "size": 1082520,
+      "width": 805,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1fe85c87579034a7eaca6488f9021bc026ff97d2cb8bb3793338acd7e16b8e3f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T03:53:13.064Z",
+      "isPublic": true,
+      "title": "イブキ",
+      "tags": [
+        "BlueArchive",
+        "丹花イブキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145458782_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145458782",
+      "sourceCreatedAt": "2026-05-31T16:31:37.000Z"
+    },
+    {
       "id": "20f3c13e",
       "filename": "crawl_src_mqwjeg05_1_1782705163888.webp",
       "path": "uploads/2026/06/01c79a78.webp",
