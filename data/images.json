@@ -2,6 +2,31 @@
   "version": 1,
   "images": [
     {
+      "id": "fb6cbd84",
+      "filename": "pixiv_146373923_p0.jpg",
+      "path": "uploads/2026/06/c98aa726.jpg",
+      "size": 579378,
+      "width": 872,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ae33628b2f11491a61d69aab45dcade9d3f532b190d90191fc22cb4f20840fe9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T03:56:55.000Z",
+      "isPublic": true,
+      "title": "霊夢さん。",
+      "tags": [
+        "博麗霊夢",
+        "東方",
+        "マウス絵",
+        "東方Project250users入り",
+        "衣装アレンジ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146373923_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146373923",
+      "sourceCreatedAt": "2026-06-23T14:17:13.000Z"
+    },
+    {
       "id": "6a563503",
       "filename": "crawl_src_new_004_1782705402702.webp",
       "path": "uploads/2026/06/3dec0d10.webp",
