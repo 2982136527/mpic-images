@@ -3,6 +3,26 @@
   "shardId": "07",
   "images": [
     {
+      "id": "251f1321",
+      "filename": "pixiv_146520208_p0.jpg",
+      "path": "uploads/2026/06/6f3d8118.jpg",
+      "size": 1037492,
+      "mimeType": "image/jpeg",
+      "hash": "da898b562b999a3959b201b99d6cb7c8c782620fde31dac908c153d28747c3b5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T06:31:25.206Z",
+      "isPublic": true,
+      "title": "『此方より』装画",
+      "tags": [
+        "装画",
+        "小林泰三"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146520208_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146520208",
+      "sourceCreatedAt": "2026-06-27T08:48:07.000Z"
+    },
+    {
       "id": "ec0885f5",
       "filename": "crawl_src_mqwjeg06_t_1782711778058.jpg",
       "path": "uploads/2026/06/c1c0308d.jpg",
