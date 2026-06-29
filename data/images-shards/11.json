@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "4975c8a5",
+      "filename": "pixiv_146538472_p0.jpg",
+      "path": "uploads/2026/06/0ae2ecc4.jpg",
+      "size": 1062269,
+      "width": 863,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a94635c984f9c006530f4c8387db1c067c414d2f145fcbdb515362a4541fe082",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T09:39:58.293Z",
+      "isPublic": true,
+      "title": "Titi",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "ティティ(アークナイツ)",
+        "缇缇",
+        "アークナイツ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146538472_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146538472",
+      "sourceCreatedAt": "2026-06-27T15:00:35.000Z"
+    },
+    {
       "id": "2901ceb3",
       "filename": "crawl_src_mqwjeg05_1_1782725814599.webp",
       "path": "uploads/2026/06/a58fbd8e.webp",
