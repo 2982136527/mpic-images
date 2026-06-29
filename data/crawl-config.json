@@ -92,7 +92,7 @@
       "responseType": "pixiv"
     }
   ],
-  "running": false,
+  "running": true,
   "lastRunAt": "2026-06-29T02:11:04.679Z",
   "continuation": {
     "lastScheduledAt": "2026-06-29T02:10:30.741Z",
@@ -101,5 +101,6 @@
     "lastAttemptAt": "2026-06-29T02:11:09.157Z",
     "lastAcceptedAt": "2026-06-29T02:10:07.553Z",
     "lastUrl": "https://github.com/2982136527/mpic/actions/runs/28344286657"
-  }
+  },
+  "runningSince": "2026-06-29T02:11:10.075Z"
 }
