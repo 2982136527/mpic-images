@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "16bc8f1d",
+      "filename": "pixiv_146360491_p0.jpg",
+      "path": "uploads/2026/06/9200b40c.jpg",
+      "size": 938292,
+      "width": 1200,
+      "height": 1098,
+      "mimeType": "image/jpeg",
+      "hash": "55d5fe0ed8cd968795a8a4c4c7278574e1edb1fca96969171889e52eb92df5a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T09:37:59.450Z",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "球体関節",
+        "たばこ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146360491_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146360491",
+      "sourceCreatedAt": "2026-06-23T09:07:13.000Z"
+    },
+    {
       "id": "7bd03091",
       "filename": "crawl_src_mqwjeg05_8_1782725524805.jpg",
       "path": "uploads/2026/06/bbec6b53.jpg",
