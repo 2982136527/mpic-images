@@ -2,6 +2,82 @@
   "version": 1,
   "logs": [
     {
+      "id": "514aea84",
+      "startedAt": "2026-06-29T09:33:04.467Z",
+      "duration": 95140,
+      "fetched": 10,
+      "duplicates": 37,
+      "errors": 8,
+      "sources": [
+        {
+          "name": "樱花API",
+          "fetched": 2,
+          "duplicates": 1,
+          "errors": 2
+        },
+        {
+          "name": "赫萝API",
+          "fetched": 0,
+          "duplicates": 4,
+          "errors": 1
+        },
+        {
+          "name": "Lolicon API",
+          "fetched": 5,
+          "duplicates": 0,
+          "errors": 0
+        },
+        {
+          "name": "岁月小筑",
+          "fetched": 0,
+          "duplicates": 5,
+          "errors": 0
+        },
+        {
+          "name": "次元API-风景",
+          "fetched": 0,
+          "duplicates": 5,
+          "errors": 0
+        },
+        {
+          "name": "次元API-美拍",
+          "fetched": 3,
+          "duplicates": 2,
+          "errors": 0
+        },
+        {
+          "name": "次元API-壁纸",
+          "fetched": 0,
+          "duplicates": 2,
+          "errors": 3
+        },
+        {
+          "name": "Pixiv日榜",
+          "fetched": 0,
+          "duplicates": 5,
+          "errors": 0
+        },
+        {
+          "name": "Pixiv周榜",
+          "fetched": 0,
+          "duplicates": 4,
+          "errors": 1
+        },
+        {
+          "name": "Pixiv月榜",
+          "fetched": 0,
+          "duplicates": 5,
+          "errors": 0
+        },
+        {
+          "name": "Pixiv高分精选",
+          "fetched": 0,
+          "duplicates": 4,
+          "errors": 1
+        }
+      ]
+    },
+    {
       "id": "43099087",
       "startedAt": "2026-06-29T09:31:58.830Z",
       "duration": 61199,
@@ -15074,82 +15150,6 @@
           "fetched": 0,
           "duplicates": 0,
           "errors": 1
-        },
-        {
-          "name": "岁月小筑",
-          "fetched": 0,
-          "duplicates": 0,
-          "errors": 5
-        },
-        {
-          "name": "次元API-风景",
-          "fetched": 0,
-          "duplicates": 0,
-          "errors": 5
-        },
-        {
-          "name": "次元API-美拍",
-          "fetched": 0,
-          "duplicates": 0,
-          "errors": 5
-        },
-        {
-          "name": "次元API-壁纸",
-          "fetched": 0,
-          "duplicates": 0,
-          "errors": 5
-        },
-        {
-          "name": "Pixiv日榜",
-          "fetched": 0,
-          "duplicates": 0,
-          "errors": 5
-        },
-        {
-          "name": "Pixiv周榜",
-          "fetched": 0,
-          "duplicates": 0,
-          "errors": 5
-        },
-        {
-          "name": "Pixiv月榜",
-          "fetched": 0,
-          "duplicates": 0,
-          "errors": 5
-        },
-        {
-          "name": "Pixiv高分精选",
-          "fetched": 0,
-          "duplicates": 0,
-          "errors": 5
-        }
-      ]
-    },
-    {
-      "id": "70fd7405",
-      "startedAt": "2026-06-29T02:07:35.967Z",
-      "duration": 48112,
-      "fetched": 0,
-      "duplicates": 0,
-      "errors": 51,
-      "sources": [
-        {
-          "name": "樱花API",
-          "fetched": 0,
-          "duplicates": 0,
-          "errors": 5
-        },
-        {
-          "name": "赫萝API",
-          "fetched": 0,
-          "duplicates": 0,
-          "errors": 1
-        },
-        {
-          "name": "Lolicon API",
-          "fetched": 0,
-          "duplicates": 0,
-          "errors": 5
         },
         {
           "name": "岁月小筑",
