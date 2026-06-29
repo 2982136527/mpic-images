@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "47c483ce",
+      "filename": "pixiv_146349490_p0.jpg",
+      "path": "uploads/2026/06/b2aed091.jpg",
+      "size": 829358,
+      "width": 836,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8161f014188cb12892867b846dbc7d039e26e907e674384bc7b8a15532d0e2ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T08:35:20.451Z",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "パチュリー・ノーレッジ",
+        "Frisk(Undertale)",
+        "Chara"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146349490_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146349490",
+      "sourceCreatedAt": "2026-06-23T00:16:51.000Z"
+    },
+    {
       "id": "a4971b42",
       "filename": "crawl_src_new_003_1782719420867.webp",
       "path": "uploads/2026/06/33e31e69.webp",
