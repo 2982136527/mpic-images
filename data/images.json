@@ -2,6 +2,30 @@
   "version": 1,
   "images": [
     {
+      "id": "9f37ee0a",
+      "filename": "pixiv_146494011_p0.jpg",
+      "path": "uploads/2026/06/4f451d53.jpg",
+      "size": 940289,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2d0b30ef3c0e2326d4ab837633198bc637984c63271f30ad9d9a35dc75239177",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-29T04:34:01.334Z",
+      "isPublic": true,
+      "title": "アナスターシャ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "アナスターシャ・フョードロヴナ・スネージナヤ",
+        "アナスターシャ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146494011_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146494011",
+      "sourceCreatedAt": "2026-06-27T03:31:41.000Z"
+    },
+    {
       "id": "db3c7676",
       "filename": "crawl_src_new_004_1782707624344.webp",
       "path": "uploads/2026/06/4c2ba257.webp",
