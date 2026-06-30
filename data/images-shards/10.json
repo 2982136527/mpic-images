@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "2c4cb476",
+      "filename": "pixiv_145573583_p0.jpg",
+      "path": "uploads/2026/06/55130358.jpg",
+      "size": 1116898,
+      "width": 654,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df0f5860591cacc1321d3f8859f16dbd2e0bc54a10ed3a37c4889c30b6f69511",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T04:36:59.786Z",
+      "isPublic": true,
+      "title": "リオ",
+      "tags": [
+        "リオ",
+        "ブルーアーカイブ",
+        "ユウカ",
+        "調月リオ",
+        "早瀬ユウカ",
+        "ブルーアーカイブ10000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145573583_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145573583",
+      "sourceCreatedAt": "2026-06-03T15:00:33.000Z"
+    },
+    {
       "id": "ecb1e126",
       "filename": "crawl_src_mqwjeg05_1_1782791454820.webp",
       "path": "uploads/2026/06/9ab0b81d.webp",
