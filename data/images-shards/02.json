@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "f79292bb",
+      "filename": "pixiv_146421304_p0.jpg",
+      "path": "uploads/2026/06/2939d622.jpg",
+      "size": 1269296,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "15f61f91d162a67d4a7570861d2c735a10b6748bd255cb26938626f135a0838c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T04:38:22.656Z",
+      "isPublic": true,
+      "title": "阿巴阿巴",
+      "tags": [
+        "原神",
+        "八重神子",
+        "梦见月瑞希",
+        "夢見月瑞希",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146421304_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146421304",
+      "sourceCreatedAt": "2026-06-24T19:01:06.000Z"
+    },
+    {
       "id": "2448b97c",
       "filename": "crawl_src_mqwjeg06_t_1782794114065.jpg",
       "path": "uploads/2026/06/6bb3ff48.jpg",
