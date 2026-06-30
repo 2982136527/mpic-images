@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "dbdb7616",
+      "filename": "pixiv_146611514_p0.jpg",
+      "path": "uploads/2026/06/b63267ab.jpg",
+      "size": 847227,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f8177f0612e674393cecf4692cbdd1bafd313e4e4f430bc0f503c65fe559f172",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T03:44:40.353Z",
+      "isPublic": true,
+      "title": "毒りんご",
+      "tags": [
+        "女の子",
+        "イラスト",
+        "オリジナル",
+        "オリジナルキャラクター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146611514_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146611514",
+      "sourceCreatedAt": "2026-06-29T10:27:23.000Z"
+    },
+    {
       "id": "9b3ddc28",
       "filename": "crawl_src_new_004_1782790858112.webp",
       "path": "uploads/2026/06/2fe56640.webp",
