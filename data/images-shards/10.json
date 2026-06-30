@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "04fcdd2f",
+      "filename": "pixiv_146394197_p0.jpg",
+      "path": "uploads/2026/06/35dcae72.jpg",
+      "size": 410683,
+      "width": 816,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b8e73d3427a35393030d9c062f8e5492e5751e0b6755d10af316556db8a4a04b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T06:50:07.563Z",
+      "isPublic": true,
+      "title": "Evie",
+      "tags": [
+        "ステラーブレイド",
+        "Stellar_Blade",
+        "ボディスーツ",
+        "ショートヘア",
+        "ボーイッシュ",
+        "Evie",
+        "StellarBladeBloodRain"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146394197_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146394197",
+      "sourceCreatedAt": "2026-06-24T05:41:28.000Z"
+    },
+    {
       "id": "68c89d0c",
       "filename": "pixiv_146411897_p0.jpg",
       "path": "uploads/2026/06/1e973016.jpg",
