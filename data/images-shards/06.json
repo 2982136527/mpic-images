@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "11d1b763",
+      "filename": "pixiv_145498442_p0.jpg",
+      "path": "uploads/2026/06/5aaa7033.jpg",
+      "size": 883834,
+      "width": 1200,
+      "height": 732,
+      "mimeType": "image/jpeg",
+      "hash": "652934114116e696f3667dafcbf5f5738c3fb00dfea68a870cb2bf6d4c9c4f2e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T03:39:30.566Z",
+      "isPublic": true,
+      "title": "5月",
+      "tags": [
+        "ブルーアーカイブ",
+        "プラナ(ブルーアーカイブ)",
+        "アロナ(ブルーアーカイブ)",
+        "アロプラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145498442_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145498442",
+      "sourceCreatedAt": "2026-06-01T16:08:00.000Z"
+    },
+    {
       "id": "6dcfa87a",
       "filename": "crawl_src_mqwjeg05_1_1782790709671.webp",
       "path": "uploads/2026/06/50933952.webp",
