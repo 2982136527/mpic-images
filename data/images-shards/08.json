@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "c0065083",
+      "filename": "pixiv_146388227_p0.jpg",
+      "path": "uploads/2026/06/ec235305.jpg",
+      "size": 807138,
+      "width": 1029,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df2c0c368e7ec5a8bfc51ab746e11bfc3d8b22faa571ad1e1d8842dd49166aac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T04:45:49.383Z",
+      "isPublic": true,
+      "title": "東方のらくがきログ",
+      "tags": [
+        "東方",
+        "東方Project",
+        "尤藍"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146388227_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146388227",
+      "sourceCreatedAt": "2026-06-24T00:42:54.000Z"
+    },
+    {
       "id": "fb67eb0a",
       "filename": "crawl_src_mqwjeg06_t_1782790905363.png",
       "path": "uploads/2026/06/94d69020.png",
