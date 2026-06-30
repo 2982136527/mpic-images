@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "03deaf63",
+      "filename": "pixiv_146376242_p0.jpg",
+      "path": "uploads/2026/06/552c641f.jpg",
+      "size": 1297076,
+      "width": 703,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a48318bf4bff8d31e67daf392c9639bc564eb06f6d63e09e2a5824b44ed860c2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T04:45:13.685Z",
+      "isPublic": true,
+      "title": "風神 バルバトス",
+      "tags": [
+        "ウェンティ(原神)",
+        "原神",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146376242_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146376242",
+      "sourceCreatedAt": "2026-06-23T15:01:14.000Z"
+    },
+    {
       "id": "f688e1c3",
       "filename": "crawl_src_mqwjeg05_1_1782794103195.webp",
       "path": "uploads/2026/06/eff8db39.webp",
