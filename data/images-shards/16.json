@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "6e4bd457",
+      "filename": "pixiv_145506560_p0.jpg",
+      "path": "uploads/2026/06/9b839972.jpg",
+      "size": 1100191,
+      "width": 1149,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1abb88dd87342dffac9d2124b3d9c2dde81b7b239e37a3d9f6c67c95ca10cd39",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T05:39:46.211Z",
+      "isPublic": true,
+      "title": "ヤチヨとかぐや",
+      "tags": [
+        "かぐや(超かぐや姫!)",
+        "超かぐや姫!",
+        "月見ヤチヨ",
+        "ヤチかぐ",
+        "かぐヤチ",
+        "超かぐや姫!1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145506560_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145506560",
+      "sourceCreatedAt": "2026-06-01T23:47:25.000Z"
+    },
+    {
       "id": "8dcd7299",
       "filename": "pixiv_146380609_p0.jpg",
       "path": "uploads/2026/06/85df1bc6.jpg",
