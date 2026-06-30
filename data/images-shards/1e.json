@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "009e7dd3",
+      "filename": "pixiv_146538673_p0.jpg",
+      "path": "uploads/2026/06/2982cb35.jpg",
+      "size": 780552,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e976b3f132f3b341a8ee8e2da98e198badaac27d6010343da6b44222b043b446",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T03:45:48.323Z",
+      "isPublic": true,
+      "title": "キサキ(泳裝)",
+      "tags": [
+        "ブルーアーカイブ",
+        "竜華キサキ",
+        "BlueArchive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146538673_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146538673",
+      "sourceCreatedAt": "2026-06-27T15:01:41.000Z"
+    },
+    {
       "id": "9849be49",
       "filename": "crawl_src_mqwjeg05_1_1782791098390.webp",
       "path": "uploads/2026/06/dbb68221.webp",
