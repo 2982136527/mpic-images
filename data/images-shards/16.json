@@ -3,6 +3,28 @@
   "shardId": "16",
   "images": [
     {
+      "id": "6b212a0f",
+      "filename": "pixiv_146602263_p0.jpg",
+      "path": "uploads/2026/06/03f70813.jpg",
+      "size": 747134,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bade37178369f988c6d36fe3dbb29a92d1e18a9ea3a3014885a9bffe3468730a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T04:43:47.067Z",
+      "isPublic": true,
+      "title": "メイドちゃん",
+      "tags": [
+        "女の子",
+        "メイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146602263_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146602263",
+      "sourceCreatedAt": "2026-06-29T04:24:57.000Z"
+    },
+    {
       "id": "805a0226",
       "filename": "crawl_src_mqwjeg05_1_1782794558861.webp",
       "path": "uploads/2026/06/5a14dbf5.webp",
