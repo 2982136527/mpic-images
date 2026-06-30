@@ -3,6 +3,36 @@
   "shardId": "00",
   "images": [
     {
+      "id": "0c177c9c",
+      "filename": "pixiv_146394449_p0.jpg",
+      "path": "uploads/2026/06/9d915908.jpg",
+      "size": 1309742,
+      "width": 875,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fa89361e3bc4f680075c58e00d89a235137241b266425e807f2422f49b06731e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T04:34:28.044Z",
+      "isPublic": true,
+      "title": "アロプラ17",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "블루아카이브",
+        "アロナ(ブルーアーカイブ)",
+        "プラナ(ブルーアーカイブ)",
+        "アロナ",
+        "アロプラ",
+        "プラナ",
+        "致死量"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146394449_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146394449",
+      "sourceCreatedAt": "2026-06-24T05:55:09.000Z"
+    },
+    {
       "id": "456d51ef",
       "filename": "crawl_src_mqwjeg05_1_1782787278933.webp",
       "path": "uploads/2026/06/d3e45ab3.webp",
