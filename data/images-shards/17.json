@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "53d27de1",
+      "filename": "pixiv_146585592_p0.jpg",
+      "path": "uploads/2026/06/76149067.jpg",
+      "size": 2479872,
+      "width": 1096,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "863e3dae1f9ba0e122109eded1c94766527f4dcbdcb65cee8d5a2751207216cd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T07:37:56.916Z",
+      "isPublic": true,
+      "title": "🧡",
+      "tags": [
+        "マブラヴ",
+        "鑑純夏",
+        "社霞"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146585592_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146585592",
+      "sourceCreatedAt": "2026-06-28T15:00:08.000Z"
+    },
+    {
       "id": "d69035bf",
       "filename": "crawl_src_new_004_1782801677099.webp",
       "path": "uploads/2026/06/d3af7a26.webp",
