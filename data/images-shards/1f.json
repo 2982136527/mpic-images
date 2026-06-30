@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "081ae95d",
+      "filename": "pixiv_146557774_p0.jpg",
+      "path": "uploads/2026/06/892b28ee.jpg",
+      "size": 565264,
+      "width": 899,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "73e11cdf5f7ad9373cfe2403d5636ff1e75713506d6648b1869fdf75449daf54",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T03:55:22.205Z",
+      "isPublic": true,
+      "title": "イラストまとめ",
+      "tags": [
+        "ポケモン",
+        "ジュカイン",
+        "ラグラージ",
+        "ジュプトル",
+        "萎エトル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146557774_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146557774",
+      "sourceCreatedAt": "2026-06-28T04:02:58.000Z"
+    },
+    {
       "id": "84267716",
       "filename": "crawl_src_mqwjeg05_1_1782791593671.webp",
       "path": "uploads/2026/06/19b93a0c.webp",
