@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "670ee65b",
+      "filename": "pixiv_146542856_p0.jpg",
+      "path": "uploads/2026/06/70b8acaa.jpg",
+      "size": 1109985,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "25bce9914145de8fc2b11fdbc932be96deaa58543e9027a7371720cfa0fcd8ce",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T03:55:38.763Z",
+      "isPublic": true,
+      "title": "【Skeb】桐崎桐花さま",
+      "tags": [
+        "vtuber",
+        "桐崎桐花",
+        "Skeb",
+        "セーラー服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146542856_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146542856",
+      "sourceCreatedAt": "2026-06-27T16:42:07.000Z"
+    },
+    {
       "id": "adfc51d6",
       "filename": "crawl_src_mqwjeg06_t_1782791458625.jpg",
       "path": "uploads/2026/06/a4e8eddb.jpg",
