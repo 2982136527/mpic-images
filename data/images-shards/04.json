@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "7ba967f1",
+      "filename": "pixiv_146431867_p0.jpg",
+      "path": "uploads/2026/06/efc3db1d.jpg",
+      "size": 850692,
+      "width": 714,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cb26de8f365ab5025ad3cc7d20c8b2a9abc439b802c288ed54b0bd598dd6e0d1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T05:41:56.209Z",
+      "isPublic": true,
+      "title": "オリジナル",
+      "tags": [
+        "女の子",
+        "学生",
+        "オリジナル1000users入り",
+        "セーラー服",
+        "紺セーラー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146431867_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146431867",
+      "sourceCreatedAt": "2026-06-25T05:20:35.000Z"
+    },
+    {
       "id": "03041d9f",
       "filename": "crawl_src_mqwjeg06_t_1782797851043.png",
       "path": "uploads/2026/06/bba3e7f1.png",
