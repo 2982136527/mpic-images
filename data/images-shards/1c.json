@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "ad372ec9",
+      "filename": "pixiv_146562586_p0.jpg",
+      "path": "uploads/2026/06/ce1bd1d2.jpg",
+      "size": 745000,
+      "width": 1062,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6a473d3665d8a3a15208ca3c5854c99d537b283a70069e66b467310d4be2e032",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T03:44:30.542Z",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "Kris(Deltarune)",
+        "deltarune",
+        "デルタルーン",
+        "Aqua(DELTARUNE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146562586_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146562586",
+      "sourceCreatedAt": "2026-06-28T06:39:43.000Z"
+    },
+    {
       "id": "7a8bd6e8",
       "filename": "crawl_src_mqwjeg06_t_1782790899558.png",
       "path": "uploads/2026/06/8ebfc60e.png",
