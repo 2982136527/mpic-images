@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "802c6a61",
+      "filename": "pixiv_146385011_p0.jpg",
+      "path": "uploads/2026/06/425708c3.jpg",
+      "size": 935840,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "d4f84fa30f7a9a4c7ae8f7ee7f9157f8079b962c7f2deb2722edc0ccca7adbc6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T05:48:49.826Z",
+      "isPublic": true,
+      "title": "=x=",
+      "tags": [
+        "插画",
+        "ロリ",
+        "白タイツ",
+        "VTuber",
+        "叶绿"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146385011_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146385011",
+      "sourceCreatedAt": "2026-06-23T21:42:13.000Z"
+    },
+    {
       "id": "23520dd8",
       "filename": "crawl_src_new_003_1782798144166.webp",
       "path": "uploads/2026/06/ac06a726.webp",
