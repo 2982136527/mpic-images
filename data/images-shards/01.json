@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "a3c2b399",
+      "filename": "pixiv_146612699_p0.jpg",
+      "path": "uploads/2026/06/8497ec76.jpg",
+      "size": 1128412,
+      "width": 1200,
+      "height": 657,
+      "mimeType": "image/jpeg",
+      "hash": "d00b90ebdde1f8a95c4b405da8772f6cd6ceb605833261c4664a2eadf7fc33f3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T04:46:44.874Z",
+      "isPublic": true,
+      "title": "AX2026",
+      "tags": [
+        "Enterprise",
+        "AzurLane",
+        "AX2026",
+        "エンタープライズ(アズールレーン)",
+        "アズールレーン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146612699_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146612699",
+      "sourceCreatedAt": "2026-06-29T10:59:22.000Z"
+    },
+    {
       "id": "0442092b",
       "filename": "crawl_src_mqwjeg06_t_1782794679406.jpg",
       "path": "uploads/2026/06/85a4fc8f.jpg",
