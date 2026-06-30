@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "be01271f",
+      "filename": "pixiv_146553207_p0.jpg",
+      "path": "uploads/2026/06/72011649.jpg",
+      "size": 716151,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09b04fe93af3fc74dc015f9c687c3d807e5277c89f9c1afd91a09d5b402897f0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T05:36:42.452Z",
+      "isPublic": true,
+      "title": "DAY59 可爱少女",
+      "tags": [
+        "萝莉",
+        "雪糕",
+        "白丝",
+        "少女",
+        "光脚"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146553207_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146553207",
+      "sourceCreatedAt": "2026-06-28T01:26:36.000Z"
+    },
+    {
       "id": "b2c858be",
       "filename": "crawl_src_mqwjeg05_1_1782797772206.webp",
       "path": "uploads/2026/06/2f1a6124.webp",
