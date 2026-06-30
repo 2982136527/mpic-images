@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "a2d4975d",
+      "filename": "pixiv_146580350_p0.jpg",
+      "path": "uploads/2026/06/9ac3d963.jpg",
+      "size": 1162836,
+      "width": 1050,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3f5621ce0ddc7d8d7868337a1c0f465bfb459a0003bd4175f61194ab708642e9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T04:38:28.932Z",
+      "isPublic": true,
+      "title": "異形と人間まとめ",
+      "tags": [
+        "創作",
+        "異形",
+        "軍服",
+        "オリジナル",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146580350_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146580350",
+      "sourceCreatedAt": "2026-06-28T13:17:31.000Z"
+    },
+    {
       "id": "606af8ed",
       "filename": "crawl_src_mqwjeg05_1_1782794260246.webp",
       "path": "uploads/2026/06/416a50dd.webp",
