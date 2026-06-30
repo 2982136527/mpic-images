@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "fbeb1bf5",
+      "filename": "pixiv_146543805_p0.jpg",
+      "path": "uploads/2026/06/9195016a.jpg",
+      "size": 898615,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2ee1b6567ce650f04adffacbad3b508f9bdf4e1076173baac791323d75363d0b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T04:34:35.978Z",
+      "isPublic": true,
+      "title": "Day72 黍",
+      "tags": [
+        "100日チャレンジ",
+        "アークナイツ",
+        "明日方舟",
+        "Arknights"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146543805_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146543805",
+      "sourceCreatedAt": "2026-06-27T17:13:07.000Z"
+    },
+    {
       "id": "4850551b",
       "filename": "crawl_src_mqwjeg05_1_1782791768895.webp",
       "path": "uploads/2026/06/5de2721a.webp",
