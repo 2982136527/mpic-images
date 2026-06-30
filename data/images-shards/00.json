@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "30f135ad",
+      "filename": "pixiv_146376002_p0.jpg",
+      "path": "uploads/2026/06/b480b440.jpg",
+      "size": 999903,
+      "width": 877,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a7cfb936ce9414fa33568bbb1b56cc14a931b0c8f82cab07166957b7120bcde5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T04:45:41.445Z",
+      "isPublic": true,
+      "title": "いっしょに、はいろ？",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146376002_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146376002",
+      "sourceCreatedAt": "2026-06-23T15:00:12.000Z"
+    },
+    {
       "id": "6304c406",
       "filename": "crawl_src_new_003_1782794668916.webp",
       "path": "uploads/2026/06/e19380fd.webp",
