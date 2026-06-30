@@ -3,6 +3,36 @@
   "shardId": "00",
   "images": [
     {
+      "id": "89738e07",
+      "filename": "pixiv_145511514_p0.jpg",
+      "path": "uploads/2026/06/3caeb20f.jpg",
+      "size": 814672,
+      "width": 906,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "20cf7c1429de03776351f2b56a6f2db4735cd75ef718f29c686597440cdcc085",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T04:40:33.667Z",
+      "isPublic": true,
+      "title": "アロプラ16",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "블루아카이브",
+        "アロナ",
+        "プラナ",
+        "アロナ(ブルーアーカイブ)",
+        "プラナ(ブルーアーカイブ)",
+        "アロプラ",
+        "先生(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145511514_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145511514",
+      "sourceCreatedAt": "2026-06-02T04:16:42.000Z"
+    },
+    {
       "id": "a2521c48",
       "filename": "crawl_src_mqwjeg05_8_1782794350395.jpg",
       "path": "uploads/2026/06/09943cd7.jpg",
