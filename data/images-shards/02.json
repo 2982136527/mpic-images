@@ -3,6 +3,34 @@
   "shardId": "02",
   "images": [
     {
+      "id": "2dcfd1da",
+      "filename": "pixiv_146549696_p0.jpg",
+      "path": "uploads/2026/06/480fcd71.jpg",
+      "size": 1225886,
+      "width": 754,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09daf67075b6866addf876e18d3fd12430e4402fd73be8115f20deba134f35bd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T03:55:43.757Z",
+      "isPublic": true,
+      "title": "commission",
+      "tags": [
+        "commission",
+        "dnf",
+        "アラド戦記",
+        "oc",
+        "女の子",
+        "白タイツ",
+        "魔道学者",
+        "DNF"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146549696_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146549696",
+      "sourceCreatedAt": "2026-06-27T22:50:02.000Z"
+    },
+    {
       "id": "c58e6f46",
       "filename": "crawl_src_new_003_1782791573715.webp",
       "path": "uploads/2026/06/e4ab75f6.webp",
