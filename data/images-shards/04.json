@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "9cdcc8ee",
+      "filename": "pixiv_146578101_p0.jpg",
+      "path": "uploads/2026/06/d1fea394.jpg",
+      "size": 921932,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "9c44ed75c9beb37775597cef9e62ff24fc43cedb84a6ce0ecd17df4e30a9332e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-06-30T04:51:13.675Z",
+      "isPublic": true,
+      "title": "ゆめにっき22周年",
+      "tags": [
+        "イラスト",
+        "ゆめにっき",
+        "窓付き",
+        "ゆめにっき100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146578101_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146578101",
+      "sourceCreatedAt": "2026-06-28T12:36:09.000Z"
+    },
+    {
       "id": "baf077d3",
       "filename": "crawl_src_mqwjeg05_1_1782794592326.webp",
       "path": "uploads/2026/06/3a501b2c.webp",
