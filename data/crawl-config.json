@@ -3,63 +3,6 @@
   "enabled": true,
   "sources": [
     {
-      "name": "樱花API",
-      "url": "https://www.loliapi.com/acg/pe/",
-      "category": "anime",
-      "enabled": true,
-      "responseType": "redirect",
-      "id": "src_mqwjeg05_1"
-    },
-    {
-      "name": "赫萝API",
-      "url": "https://api.mtyqx.cn/api/random.php",
-      "category": "anime",
-      "enabled": true,
-      "responseType": "redirect",
-      "id": "src_mqwjeg05_8"
-    },
-    {
-      "name": "Lolicon API",
-      "url": "https://api.lolicon.app/setu/v2",
-      "category": "anime",
-      "enabled": true,
-      "responseType": "json",
-      "jsonPath": "data.0.urls.original",
-      "id": "src_mqwjeg06_t"
-    },
-    {
-      "name": "岁月小筑",
-      "url": "https://img.xjh.me/random_img.php?return=302&type=bg&ctype=acg",
-      "category": "anime",
-      "enabled": true,
-      "responseType": "redirect",
-      "id": "src_new_001"
-    },
-    {
-      "name": "次元API-风景",
-      "url": "https://t.alcy.cc/fj",
-      "category": "real",
-      "enabled": true,
-      "responseType": "redirect",
-      "id": "src_new_002"
-    },
-    {
-      "name": "次元API-美拍",
-      "url": "https://t.alcy.cc/mp",
-      "category": "real",
-      "enabled": true,
-      "responseType": "redirect",
-      "id": "src_new_003"
-    },
-    {
-      "name": "次元API-壁纸",
-      "url": "https://t.alcy.cc/pc",
-      "category": "real",
-      "enabled": true,
-      "responseType": "redirect",
-      "id": "src_new_004"
-    },
-    {
       "id": "builtin_pixiv_daily_ranking",
       "name": "Pixiv日榜",
       "url": "https://www.pixiv.net/ranking.php?mode=daily&content=illust&format=json&p=1",
@@ -97,9 +40,8 @@
   "continuation": {
     "lastScheduledAt": "2026-07-01T13:28:18.514Z",
     "lastStatus": "accepted",
-    "lastDetail": "GitHub Actions run finished batches=5 fetched=0 duplicates=137 errors=114 reason=time_budget_reached",
+    "lastDetail": "Pixiv-only mode: non-Pixiv sources disabled",
     "lastAttemptAt": "2026-07-01T13:28:18.514Z",
-    "lastAcceptedAt": "2026-07-01T13:32:15.423Z",
-    "lastUrl": "https://github.com/2982136527/mpic/actions/runs/28521095798"
+    "lastAcceptedAt": "2026-07-01T13:32:15.423Z"
   }
 }
