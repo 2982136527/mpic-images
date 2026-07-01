@@ -51,6 +51,14 @@
       "responseType": "pixiv"
     },
     {
+      "id": "builtin_pixiv_monthly_ranking",
+      "name": "Pixiv月榜",
+      "url": "https://www.pixiv.net/ranking.php?mode=monthly&content=illust&format=json&p=1",
+      "category": "anime",
+      "enabled": true,
+      "responseType": "pixiv"
+    },
+    {
       "id": "builtin_pixiv_rookie_ranking",
       "name": "Pixiv新人榜",
       "url": "https://www.pixiv.net/ranking.php?mode=rookie&content=illust&format=json&p=1",
@@ -65,6 +73,14 @@
       "category": "anime",
       "enabled": true,
       "responseType": "pixiv"
+    },
+    {
+      "id": "builtin_pixiv_top_rated",
+      "name": "Pixiv高分精选",
+      "url": "https://www.pixiv.net/ranking.php?mode=daily&content=illust&format=json&p=2",
+      "category": "anime",
+      "enabled": true,
+      "responseType": "pixiv"
     }
   ],
   "running": false,
@@ -72,7 +88,7 @@
   "continuation": {
     "lastScheduledAt": "2026-07-01T13:28:18.514Z",
     "lastStatus": "accepted",
-    "lastDetail": "8 Pixiv sources: 5 daily pages, weekly, rookie, male",
+    "lastDetail": "10 Pixiv sources: daily p1-5, weekly, monthly, rookie, male, top-rated",
     "lastAttemptAt": "2026-07-01T13:28:18.514Z",
     "lastAcceptedAt": "2026-07-01T13:32:15.423Z"
   }
