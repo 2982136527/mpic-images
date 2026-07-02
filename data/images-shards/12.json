@@ -3,6 +3,36 @@
   "shardId": "12",
   "images": [
     {
+      "id": "c500dc6b",
+      "filename": "pixiv_146663695_p0.jpg",
+      "path": "uploads/2026/07/d27835b3.jpg",
+      "size": 1043930,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e0bdd833f443fad7aa8cf0030162fe209f41cb74b3b9194402ea5d59e9c7915c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:44:20.966Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "出会い",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "背景",
+        "風景",
+        "夕暮れ",
+        "女の子",
+        "猫",
+        "空",
+        "都会"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146663695_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146663695",
+      "sourceCreatedAt": "2026-06-30T15:01:01.000Z"
+    },
+    {
       "id": "0cc9bc39",
       "filename": "pixiv_146657453_p0.jpg",
       "path": "uploads/2026/07/069450fc.jpg",
