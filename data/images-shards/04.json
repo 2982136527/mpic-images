@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "36cf635b",
+      "filename": "pixiv_146686904_p0.jpg",
+      "path": "uploads/2026/07/12fb22d6.jpg",
+      "size": 535931,
+      "width": 480,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4e3576ffdd7c6bce04c029ccf030d07a32658918ce2edf2c8b27803721442e2a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:30:44.051Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ハム",
+      "tags": [
+        "太もも",
+        "OL",
+        "女の子",
+        "社員証"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146686904_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146686904",
+      "sourceCreatedAt": "2026-07-01T09:01:12.000Z"
+    },
+    {
       "id": "3386988e",
       "filename": "pixiv_146652667_p0.jpg",
       "path": "uploads/2026/07/d846a213.jpg",
