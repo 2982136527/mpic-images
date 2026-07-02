@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "1f454878",
+      "filename": "pixiv_146646261_p0.jpg",
+      "path": "uploads/2026/07/c3590457.jpg",
+      "size": 1029120,
+      "width": 1200,
+      "height": 813,
+      "mimeType": "image/jpeg",
+      "hash": "115022405a6e0b684de3311df4823cddcbe2a2c4816da837ce08a9998f7f83ef",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T17:59:16.972Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Lacey",
+      "tags": [
+        "laceygames",
+        "Lacey",
+        "落書き"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146646261_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146646261",
+      "sourceCreatedAt": "2026-06-30T08:44:52.000Z"
+    },
+    {
       "id": "8e47ca15",
       "filename": "pixiv_146663527_p0.jpg",
       "path": "uploads/2026/07/8bad36f0.jpg",
