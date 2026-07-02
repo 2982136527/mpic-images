@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "798d1111",
+      "filename": "pixiv_146696354_p0.jpg",
+      "path": "uploads/2026/07/a96528e3.jpg",
+      "size": 817878,
+      "width": 760,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5c8a1eaa86b079d2eef4e45cd294de89bf9da19dad5b3b4ad514cda2c809c002",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T18:02:33.788Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "聖女",
+      "tags": [
+        "女の子",
+        "下着",
+        "ぱんつ",
+        "ガーターベルト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146696354_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146696354",
+      "sourceCreatedAt": "2026-07-01T13:31:27.000Z"
+    },
+    {
       "id": "41973f29",
       "filename": "pixiv_146694531_p0.jpg",
       "path": "uploads/2026/07/73fc1128.jpg",
