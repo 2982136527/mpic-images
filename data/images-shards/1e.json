@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "16a66c05",
+      "filename": "pixiv_146666328_p0.jpg",
+      "path": "uploads/2026/07/0b13ee72.jpg",
+      "size": 421223,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "ffb60d43f90520b872219ba2b224f3faf93869142f64f73c215c361e86e5e23f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:28:00.879Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "百合",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146666328_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146666328",
+      "sourceCreatedAt": "2026-06-30T15:57:11.000Z"
+    },
+    {
       "id": "7c9456d6",
       "filename": "pixiv_146687557_p0.jpg",
       "path": "uploads/2026/07/4d1fd190.jpg",
