@@ -3,6 +3,32 @@
   "shardId": "07",
   "images": [
     {
+      "id": "7a19a7d2",
+      "filename": "pixiv_146639240_p0.jpg",
+      "path": "uploads/2026/07/5d43153a.jpg",
+      "size": 951745,
+      "width": 814,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2a61da86a4e8def5de5a1c806f69345e75063148f5423fef7a1e1bb6d554830f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T18:06:00.580Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Lucilla",
+      "tags": [
+        "fanart",
+        "illustration",
+        "WutheringWaves",
+        "鸣潮",
+        "ルシラー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146639240_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146639240",
+      "sourceCreatedAt": "2026-06-30T03:09:11.000Z"
+    },
+    {
       "id": "6fa5c0a7",
       "filename": "pixiv_146693063_p0.jpg",
       "path": "uploads/2026/07/c3ee0294.jpg",
