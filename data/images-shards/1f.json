@@ -3,6 +3,28 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "5189fdbe",
+      "filename": "pixiv_146673810_p0.jpg",
+      "path": "uploads/2026/07/3ba8e595.jpg",
+      "size": 793864,
+      "width": 863,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "82e08fc35391afbd4eff7ba77dbd14ec3454535abefe09bc6cbe731141ac740a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:50:08.379Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "リチャジョンまとめ2",
+      "tags": [
+        "リチャジョン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146673810_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146673810",
+      "sourceCreatedAt": "2026-07-01T06:21:42.000Z"
+    },
+    {
       "id": "7bff67ad",
       "filename": "pixiv_146452838_p0.jpg",
       "path": "uploads/2026/07/5e78eea9.jpg",
