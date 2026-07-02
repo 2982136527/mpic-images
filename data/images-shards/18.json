@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "dc0efaea",
+      "filename": "pixiv_146676810_p0.jpg",
+      "path": "uploads/2026/07/9c1eed38.jpg",
+      "size": 848846,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "de8fe2b2cda1462a51d064e577c68b035ead01876a2fe9c9bcea571dea49a381",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T17:59:35.770Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "DAY62@ 苏德中",
+      "tags": [
+        "萝莉",
+        "光脚",
+        "猫耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146676810_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146676810",
+      "sourceCreatedAt": "2026-07-01T01:34:54.000Z"
+    },
+    {
       "id": "56d6a07b",
       "filename": "pixiv_146688783_p0.jpg",
       "path": "uploads/2026/07/e6737515.jpg",
