@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "252ba3d0",
+      "filename": "pixiv_146474027_p0.jpg",
+      "path": "uploads/2026/07/bd6582b6.jpg",
+      "size": 649803,
+      "width": 1200,
+      "height": 940,
+      "mimeType": "image/jpeg",
+      "hash": "99cd9147ec26e4af068093297134b96655b09d4cc24df45ef86a7c878aa1bf05",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T18:07:17.614Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "けもみみ",
+        "女の子",
+        "狐耳",
+        "水着",
+        "裸足"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146474027_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146474027",
+      "sourceCreatedAt": "2026-06-26T08:12:27.000Z"
+    },
+    {
       "id": "3671ba36",
       "filename": "pixiv_146670783_p0.jpg",
       "path": "uploads/2026/07/ae51be7d.jpg",
