@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "c55cddf0",
+      "filename": "pixiv_146686781_p0.jpg",
+      "path": "uploads/2026/07/1d9733ca.jpg",
+      "size": 962482,
+      "width": 765,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a08121e4bf1f42fc5321945211e28c87aaa4a4dc04c172f3c553d1dcf57380f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T18:05:53.473Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "春原シュン",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "女の子",
+        "春原シュン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146686781_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146686781",
+      "sourceCreatedAt": "2026-07-01T09:00:20.000Z"
+    },
+    {
       "id": "bfb3256b",
       "filename": "pixiv_146690625_p0.jpg",
       "path": "uploads/2026/07/bc488448.jpg",
