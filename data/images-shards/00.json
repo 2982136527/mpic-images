@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "3671ba36",
+      "filename": "pixiv_146670783_p0.jpg",
+      "path": "uploads/2026/07/ae51be7d.jpg",
+      "size": 622905,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "62b54da920cdef26813b6fc34cf05ad48ddc14830c819ec18aeb5c4f417326fd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T18:05:17.450Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "先生に見られてしまったケイちゃん",
+      "tags": [
+        "ブルーアーカイブ",
+        "ケイ(ブルーアーカイブ)",
+        "天童ケイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146670783_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146670783",
+      "sourceCreatedAt": "2026-06-30T19:22:20.000Z"
+    },
+    {
       "id": "c49c0e0f",
       "filename": "pixiv_146680828_p0.jpg",
       "path": "uploads/2026/07/3a4601bf.jpg",
