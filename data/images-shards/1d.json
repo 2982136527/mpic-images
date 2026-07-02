@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "8e83a38d",
+      "filename": "pixiv_146640394_p0.jpg",
+      "path": "uploads/2026/07/516f885a.jpg",
+      "size": 265666,
+      "width": 500,
+      "height": 775,
+      "mimeType": "image/jpeg",
+      "hash": "da39488bf3052af4efaae6257eb8efd6e5067a2f592eb2a126efe84a71a707e3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:28:10.905Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "7월서코 리오",
+      "tags": [
+        "ブルーアーカイブ",
+        "調月リオ",
+        "でかぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146640394_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146640394",
+      "sourceCreatedAt": "2026-06-30T04:05:54.000Z"
+    },
+    {
       "id": "d5ae9ff6",
       "filename": "crawl_src_mqwjeg05_1_1782805030809.webp",
       "path": "uploads/2026/06/41785108.webp",
