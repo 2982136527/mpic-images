@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "942e8bbc",
+      "filename": "pixiv_146655538_p0.jpg",
+      "path": "uploads/2026/07/8584b347.jpg",
+      "size": 624805,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3449528de580645e70da936efe87c30a81a7dabc85bb3012d82c0c7b1773437a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:26:49.548Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "テトさん",
+      "tags": [
+        "重音テト",
+        "テトさん",
+        "ゴンさん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146655538_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146655538",
+      "sourceCreatedAt": "2026-06-30T12:26:30.000Z"
+    },
+    {
       "id": "15799742",
       "filename": "crawl_src_new_003_1782802029813.webp",
       "path": "uploads/2026/06/01d01f77.webp",
