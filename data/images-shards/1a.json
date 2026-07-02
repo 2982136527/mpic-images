@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "1c91ada4",
+      "filename": "pixiv_146626273_p0.jpg",
+      "path": "uploads/2026/07/0d9eae3c.jpg",
+      "size": 1177307,
+      "width": 1090,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f904d551cf1fed56a475ea634ccd91bb67557b8bb09f60fb106c92aeb86dfea9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:41:49.152Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "너드 키라",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "キラ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146626273_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146626273",
+      "sourceCreatedAt": "2026-06-29T15:34:43.000Z"
+    },
+    {
       "id": "55a4e0b6",
       "filename": "pixiv_146665041_p0.jpg",
       "path": "uploads/2026/07/49792892.jpg",
