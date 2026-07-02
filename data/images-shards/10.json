@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "9efd4489",
+      "filename": "pixiv_146689326_p0.jpg",
+      "path": "uploads/2026/07/70bccb95.jpg",
+      "size": 1195217,
+      "width": 914,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9bd94a3ab8bd835bbe08fcd60e7528bfd5bf9d06d6bfa33eb1b41bfe7505e6ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:27:42.854Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "小傘",
+      "tags": [
+        "東方Project",
+        "東方",
+        "多々良小傘",
+        "田んぼ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146689326_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146689326",
+      "sourceCreatedAt": "2026-07-01T10:06:35.000Z"
+    },
+    {
       "id": "cd127e31",
       "filename": "pixiv_146656939_p0.jpg",
       "path": "uploads/2026/07/94b3b32c.jpg",
