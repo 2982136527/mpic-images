@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "085abe71",
+      "filename": "pixiv_146683493_p0.jpg",
+      "path": "uploads/2026/07/00b03643.jpg",
+      "size": 610290,
+      "width": 905,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e9f60051f20126900119cd11d1c850958c6f5f92f772816e2f2413cf0db187ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:41:12.966Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "「呼び方」",
+      "tags": [
+        "炭カナ",
+        "ぎゆしの",
+        "さねカナ",
+        "おすわり",
+        "鬼滅の刃500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146683493_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146683493",
+      "sourceCreatedAt": "2026-07-01T06:55:55.000Z"
+    },
+    {
       "id": "e33b4094",
       "filename": "pixiv_146655827_p0.jpg",
       "path": "uploads/2026/07/c87fe297.jpg",
