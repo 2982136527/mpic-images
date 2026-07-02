@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "41973f29",
+      "filename": "pixiv_146694531_p0.jpg",
+      "path": "uploads/2026/07/73fc1128.jpg",
+      "size": 1695997,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "03bf5c9e162c86a76343f76307f467dce7af5e1e3ffebb2dc152d13089514562",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T18:02:01.436Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "乙瀬宵",
+      "tags": [
+        "VTuber",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146694531_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146694531",
+      "sourceCreatedAt": "2026-07-01T12:05:25.000Z"
+    },
+    {
       "id": "5ed89ce7",
       "filename": "pixiv_145661679_p0.jpg",
       "path": "uploads/2026/07/92b206d3.jpg",
