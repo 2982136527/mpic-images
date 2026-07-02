@@ -3,6 +3,34 @@
   "shardId": "11",
   "images": [
     {
+      "id": "9e13a2c2",
+      "filename": "pixiv_146642418_p0.jpg",
+      "path": "uploads/2026/07/00a06d5a.jpg",
+      "size": 730753,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "c91dc7f651a9c64dcb69f75ebdcb160c5f550f3c7cc7cbc05ffc6ab1846365ac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:46:15.665Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "로빈•서머레토랑 척자•서머레토",
+      "tags": [
+        "崩壊スターレイル",
+        "開拓者(スターレイル)",
+        "ロビン(スターレイル)",
+        "星(スターレイル)",
+        "星ロビ",
+        "崩壊:スターレイル500users入り",
+        "ロビン・夏空の歌"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146642418_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146642418",
+      "sourceCreatedAt": "2026-06-30T05:55:44.000Z"
+    },
+    {
       "id": "35e0f533",
       "filename": "pixiv_146632385_p0.jpg",
       "path": "uploads/2026/07/0cf2d04f.jpg",
