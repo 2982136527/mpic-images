@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "6245c3df",
+      "filename": "pixiv_146689623_p0.jpg",
+      "path": "uploads/2026/07/05ed4f6c.jpg",
+      "size": 1372981,
+      "width": 855,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2f330f48587c89a367d75519cb464624e34d04a9dc39396ec5f685618f17567a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:30:00.762Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "バニーナース参上❕",
+      "tags": [
+        "女の子",
+        "バニー",
+        "ナース"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146689623_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146689623",
+      "sourceCreatedAt": "2026-07-01T10:17:08.000Z"
+    },
+    {
       "id": "d7c257c1",
       "filename": "crawl_src_mqwjeg06_t_1782805109676.jpg",
       "path": "uploads/2026/06/bbe433ae.jpg",
