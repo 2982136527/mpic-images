@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "1814f0a7",
+      "filename": "pixiv_146665845_p0.jpg",
+      "path": "uploads/2026/07/965a8d1c.jpg",
+      "size": 930360,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "316848131d112916a96bf6b8505df87bffadd1f4f8c9b1d110d7cf0fe340a57e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:25:52.482Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "ビーズワクス(アークナイツ)",
+        "カーディ(アークナイツ)",
+        "arknights",
+        "アークナイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146665845_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146665845",
+      "sourceCreatedAt": "2026-06-30T15:42:23.000Z"
+    },
+    {
       "id": "9e364a61",
       "filename": "pixiv_146676481_p0.jpg",
       "path": "uploads/2026/07/bde60fa7.jpg",
