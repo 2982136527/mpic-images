@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "771c5606",
+      "filename": "pixiv_146678374_p0.jpg",
+      "path": "uploads/2026/07/76ab26b3.jpg",
+      "size": 1232816,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b2d4e1497014fea905b96240e8131f67a6b32d80d2377bacd35b1bce23e9729b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T18:00:16.624Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "今年の夏は”勝ち”にいくアモアイ",
+      "tags": [
+        "ウマ娘",
+        "アーモンドアイ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146678374_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146678374",
+      "sourceCreatedAt": "2026-07-01T03:00:07.000Z"
+    },
+    {
       "id": "fecccd32",
       "filename": "pixiv_146643004_p0.jpg",
       "path": "uploads/2026/07/103d9676.jpg",
