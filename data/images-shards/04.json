@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "345efd2c",
+      "filename": "pixiv_146624959_p0.jpg",
+      "path": "uploads/2026/07/57b95f14.jpg",
+      "size": 1037542,
+      "width": 703,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b80a819cc8a42681800c86aab9f7ae9d38370221eea5ae02eb00e6b98cb2d41d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T18:01:16.810Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "花鳥風月ルーム",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "カレンブーケドール(ウマ娘)",
+        "ヤマニンゼファー(ウマ娘)",
+        "空も飛べるはず",
+        "メリー・ポピンズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146624959_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146624959",
+      "sourceCreatedAt": "2026-06-29T15:05:21.000Z"
+    },
+    {
       "id": "2f0c3334",
       "filename": "pixiv_145616443_p0.jpg",
       "path": "uploads/2026/07/38b560a1.jpg",
