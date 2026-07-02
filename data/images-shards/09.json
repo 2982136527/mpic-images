@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "fecccd32",
+      "filename": "pixiv_146643004_p0.jpg",
+      "path": "uploads/2026/07/103d9676.jpg",
+      "size": 1199413,
+      "width": 903,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "129f07d8a99bb2489734169abd04f2616d50c275624448662bc38f68a9f4ce9e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T17:59:29.296Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "✿",
+      "tags": [
+        "原神",
+        "サンドローネ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146643004_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146643004",
+      "sourceCreatedAt": "2026-06-30T06:22:21.000Z"
+    },
+    {
       "id": "af40ad0c",
       "filename": "pixiv_146656188_p0.jpg",
       "path": "uploads/2026/07/79d37763.jpg",
