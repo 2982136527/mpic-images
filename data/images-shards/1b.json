@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "a94181ca",
+      "filename": "pixiv_146664016_p0.jpg",
+      "path": "uploads/2026/07/9308f86f.jpg",
+      "size": 1253877,
+      "width": 1200,
+      "height": 670,
+      "mimeType": "image/jpeg",
+      "hash": "7d57992d3728c3869f7b28b7f856c408c49aa3ced94ac048c273897708684acd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:45:37.951Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夜が明けても",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "男の子",
+        "踏切",
+        "空",
+        "夜明け"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146664016_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146664016",
+      "sourceCreatedAt": "2026-06-30T15:03:39.000Z"
+    },
+    {
       "id": "f5d88cc3",
       "filename": "pixiv_146640744_p0.jpg",
       "path": "uploads/2026/07/c7db5ce8.jpg",
