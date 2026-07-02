@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "a0c30088",
+      "filename": "pixiv_146655194_p0.jpg",
+      "path": "uploads/2026/07/46360da1.jpg",
+      "size": 528067,
+      "width": 778,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cf45eea6e023b99ce75cf83188ae89dbd40e6e0accb706359409e20644d6934d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:24:14.368Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ケーちゃんとドクター",
+      "tags": [
+        "アークナイツ",
+        "ケオベ(アークナイツ)",
+        "ドクター(アークナイツ)",
+        "わんこ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146655194_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146655194",
+      "sourceCreatedAt": "2026-06-30T12:18:41.000Z"
+    },
+    {
       "id": "b47e192a",
       "filename": "crawl_src_mqwjeg06_t_1782801720442.png",
       "path": "uploads/2026/06/9796c22b.png",
