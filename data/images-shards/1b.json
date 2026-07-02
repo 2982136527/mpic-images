@@ -3,6 +3,37 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "f09f7980",
+      "filename": "pixiv_145599322_p0.jpg",
+      "path": "uploads/2026/07/59bbee91.jpg",
+      "size": 1203643,
+      "width": 1165,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "59798e1a8ea23296e1ebcfce401a33e6c7e2c7db24b78b627cc4e6e268b1c595",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T18:04:46.910Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ふぁて23",
+      "tags": [
+        "Fate/GrandOrder",
+        "リチャードI世(Fate)",
+        "ジョン・ラックランド(Fate)",
+        "高杉晋作(Fate)",
+        "偽典共鳴幻想スノーフィールド",
+        "曲亭馬琴(Fate)",
+        "しししんおう(ぽんで)",
+        "まさにリチャード",
+        "サムネバキューム",
+        "Fate/GO1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145599322_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145599322",
+      "sourceCreatedAt": "2026-06-04T10:56:42.000Z"
+    },
+    {
       "id": "a94181ca",
       "filename": "pixiv_146664016_p0.jpg",
       "path": "uploads/2026/07/9308f86f.jpg",
