@@ -3,6 +3,33 @@
   "shardId": "13",
   "images": [
     {
+      "id": "79cde220",
+      "filename": "pixiv_146690456_p0.jpg",
+      "path": "uploads/2026/07/1510b9b1.jpg",
+      "size": 805070,
+      "width": 886,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "44007839743dac3864600cc4a87a510369bd9dfacd9d296eccc790de8a0adc45",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:42:47.124Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "xxxx",
+      "tags": [
+        "カキタロ",
+        "ツバタロ",
+        "スグアオ",
+        "ハルゼイ",
+        "ペパボタ",
+        "PKMNノマカプ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146690456_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146690456",
+      "sourceCreatedAt": "2026-07-01T10:39:36.000Z"
+    },
+    {
       "id": "fe884abe",
       "filename": "pixiv_146641763_p0.jpg",
       "path": "uploads/2026/07/6c6c5dbe.jpg",
