@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "67f16d8b",
+      "filename": "pixiv_146680257_p0.jpg",
+      "path": "uploads/2026/07/612e07a4.jpg",
+      "size": 1115814,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "07882093de9ea9226fe662c46df5489cb84be89a467b4bbb4be9de89b4611bb0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:45:34.428Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "屠自古",
+      "tags": [
+        "東方",
+        "東方Project",
+        "蘇我屠自古",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146680257_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146680257",
+      "sourceCreatedAt": "2026-07-01T04:19:36.000Z"
+    },
+    {
       "id": "e23a366a",
       "filename": "pixiv_146671183_p0.jpg",
       "path": "uploads/2026/07/aeef9776.jpg",
