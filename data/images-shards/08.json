@@ -3,6 +3,28 @@
   "shardId": "08",
   "images": [
     {
+      "id": "e2472f26",
+      "filename": "pixiv_146678381_p0.jpg",
+      "path": "uploads/2026/07/07e318bb.jpg",
+      "size": 405951,
+      "width": 512,
+      "height": 1023,
+      "mimeType": "image/jpeg",
+      "hash": "374007eb488c830f27872713076ff142298da21f5390e7bbf3bab8038f8893fc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:47:24.537Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "N-Triton [trim]",
+      "tags": [
+        "fanart"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146678381_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146678381",
+      "sourceCreatedAt": "2026-07-01T03:00:08.000Z"
+    },
+    {
       "id": "1e50972d",
       "filename": "pixiv_146671045_p0.jpg",
       "path": "uploads/2026/07/2050d54c.jpg",
