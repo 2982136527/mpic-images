@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "21c0eb57",
+      "filename": "pixiv_145585885_p0.jpg",
+      "path": "uploads/2026/07/bcfc234a.jpg",
+      "size": 421218,
+      "width": 1200,
+      "height": 435,
+      "mimeType": "image/jpeg",
+      "hash": "de3c1b91ce0454f52bc074223b9bde6663108a3dfaeab18af5d197a1fb518bb1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:49:48.732Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "miku 水果",
+      "tags": [
+        "女の子",
+        "VOCALOID",
+        "初音ミク",
+        "POPPRO",
+        "美脚"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145585885_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145585885",
+      "sourceCreatedAt": "2026-06-04T01:21:28.000Z"
+    },
+    {
       "id": "d6269fdc",
       "filename": "pixiv_146657026_p0.jpg",
       "path": "uploads/2026/07/95ae9775.jpg",
