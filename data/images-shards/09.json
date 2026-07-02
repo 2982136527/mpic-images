@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "5461ecdd",
+      "filename": "pixiv_146682439_p0.jpg",
+      "path": "uploads/2026/07/d101559d.jpg",
+      "size": 929517,
+      "width": 1200,
+      "height": 798,
+      "mimeType": "image/jpeg",
+      "hash": "fe9e049f18dd4083a680334e7900264443eb3ab0131da96b678fe05e771281f8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:23:06.247Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "枯れた花弁",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146682439_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146682439",
+      "sourceCreatedAt": "2026-07-01T06:05:38.000Z"
+    },
+    {
       "id": "802458bc",
       "filename": "crawl_src_mqwjeg06_t_1782805112868.jpg",
       "path": "uploads/2026/06/33f28ec4.jpg",
