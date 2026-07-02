@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "e23a366a",
+      "filename": "pixiv_146671183_p0.jpg",
+      "path": "uploads/2026/07/aeef9776.jpg",
+      "size": 1251131,
+      "width": 1200,
+      "height": 637,
+      "mimeType": "image/jpeg",
+      "hash": "fc96f6df452bb78c5e7cb9ce20643c55839575ba809e1d23acda29a1bc713710",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:43:27.227Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "RAPI",
+      "tags": [
+        "RAPI",
+        "NIKKE",
+        "ラピ(勝利の女神:NIKKE)",
+        "NIKKE1000users入り",
+        "ラピ:レッドフード"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146671183_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146671183",
+      "sourceCreatedAt": "2026-06-30T19:56:26.000Z"
+    },
+    {
       "id": "942e8bbc",
       "filename": "pixiv_146655538_p0.jpg",
       "path": "uploads/2026/07/8584b347.jpg",
