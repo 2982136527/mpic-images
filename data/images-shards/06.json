@@ -3,6 +3,33 @@
   "shardId": "06",
   "images": [
     {
+      "id": "04f36dfd",
+      "filename": "pixiv_146663581_p0.jpg",
+      "path": "uploads/2026/07/ae27d370.jpg",
+      "size": 1114892,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "b104898a24e9e52b1dec1bf109c11a7597ad6858936c3281ddb7d6419d11e6c9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:31:04.723Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夜明け",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "空",
+        "夜明け",
+        "男の子",
+        "自販機"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146663581_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146663581",
+      "sourceCreatedAt": "2026-06-30T15:00:36.000Z"
+    },
+    {
       "id": "c7ad8ed7",
       "filename": "pixiv_146655359_p0.jpg",
       "path": "uploads/2026/07/c632d2ef.jpg",
