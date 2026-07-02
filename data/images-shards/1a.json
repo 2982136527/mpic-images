@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "1fe9c700",
+      "filename": "pixiv_146643029_p0.jpg",
+      "path": "uploads/2026/07/0df0e286.jpg",
+      "size": 208042,
+      "width": 752,
+      "height": 752,
+      "mimeType": "image/jpeg",
+      "hash": "ee4901d1715b595ee914f80ca97977f1fab1c385ca69e05c0d1b60537323d151",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:42:27.635Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "あそびにきたぬき",
+      "tags": [
+        "タヌキ",
+        "たぬきはもうおしまいです",
+        "なにこの仔かわいい",
+        "たぬきそば"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146643029_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146643029",
+      "sourceCreatedAt": "2026-06-30T06:23:25.000Z"
+    },
+    {
       "id": "1c91ada4",
       "filename": "pixiv_146626273_p0.jpg",
       "path": "uploads/2026/07/0d9eae3c.jpg",
