@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "283a2a92",
+      "filename": "pixiv_146665929_p0.jpg",
+      "path": "uploads/2026/07/2d9efd7f.jpg",
+      "size": 552924,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "e05700af8ca5c0c6ebdf65872f65308b7928ee4ce828452b4067679d5a0b0140",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:29:38.203Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "call",
+      "tags": [
+        "百合",
+        "SeaBed"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146665929_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146665929",
+      "sourceCreatedAt": "2026-06-30T15:44:49.000Z"
+    },
+    {
       "id": "1b7b3fd8",
       "filename": "pixiv_146669347_p0.jpg",
       "path": "uploads/2026/07/b7fcf9fb.jpg",
