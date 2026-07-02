@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "f5f988ba",
+      "filename": "pixiv_146626806_p0.jpg",
+      "path": "uploads/2026/07/f77509f1.jpg",
+      "size": 563986,
+      "width": 564,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4388e25eb12a516e6358b50ad285bd8be08c3b8a798de52f362011c70c5a320e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:43:49.268Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "90日目 かぐや",
+      "tags": [
+        "超かぐや姫!",
+        "かぐや",
+        "かぐや(超かぐや姫!)",
+        "100日チャレンジ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146626806_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146626806",
+      "sourceCreatedAt": "2026-06-29T15:49:42.000Z"
+    },
+    {
       "id": "9efd4489",
       "filename": "pixiv_146689326_p0.jpg",
       "path": "uploads/2026/07/70bccb95.jpg",
