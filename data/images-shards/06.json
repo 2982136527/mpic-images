@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "bfc0208e",
+      "filename": "pixiv_146652365_p0.jpg",
+      "path": "uploads/2026/07/fd276537.jpg",
+      "size": 985588,
+      "width": 667,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14098cce42b1502188da95a85115994dace9b0fb5f2bf5c89fee6920aa83c7a0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:46:09.483Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "博麗霊夢",
+      "tags": [
+        "東方",
+        "東方Project",
+        "博麗霊夢",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146652365_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146652365",
+      "sourceCreatedAt": "2026-06-30T11:22:27.000Z"
+    },
+    {
       "id": "2a473310",
       "filename": "pixiv_146687154_p0.jpg",
       "path": "uploads/2026/07/a7507498.jpg",
