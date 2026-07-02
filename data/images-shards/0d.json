@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "4a63a4fe",
+      "filename": "pixiv_146678310_p0.jpg",
+      "path": "uploads/2026/07/213950c2.jpg",
+      "size": 700803,
+      "width": 1088,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1b0efd414be633477b3e3462b12c0f11ff9a9ea9064380984a490779631ca263",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:32:02.411Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "zuikaku",
+      "tags": [
+        "AzurLane",
+        "アズールレーン",
+        "瑞鶴(アズールレーン)",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146678310_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146678310",
+      "sourceCreatedAt": "2026-07-01T02:58:10.000Z"
+    },
+    {
       "id": "f2668683",
       "filename": "pixiv_146656466_p0.jpg",
       "path": "uploads/2026/07/4eb6fba9.jpg",
