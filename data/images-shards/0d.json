@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "2c2df207",
+      "filename": "pixiv_146663520_p0.jpg",
+      "path": "uploads/2026/07/be364ad8.jpg",
+      "size": 1470589,
+      "width": 1200,
+      "height": 677,
+      "mimeType": "image/jpeg",
+      "hash": "66b8f91e18ce3563f563892f5506ccaf7c72bfbc16cf9471c8be6f5f084778f0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:24:05.022Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "久遠寺有珠",
+      "tags": [
+        "魔法使いの夜",
+        "久遠寺有珠"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146663520_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146663520",
+      "sourceCreatedAt": "2026-06-30T15:00:26.000Z"
+    },
+    {
       "id": "0e2800a6",
       "filename": "pixiv_146625919_p0.jpg",
       "path": "uploads/2026/07/f8f3e7c1.jpg",
