@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "59a9823b",
+      "filename": "pixiv_146696904_p0.jpg",
+      "path": "uploads/2026/07/d35cd359.jpg",
+      "size": 661007,
+      "width": 779,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3d61ec44fe5bc03ff89a1710df363475463cdf671d3bb6e77ed43db9b5c83392",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T18:05:46.741Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "りろぐ58",
+      "tags": [
+        "オトスバ",
+        "腐ゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146696904_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146696904",
+      "sourceCreatedAt": "2026-07-01T12:57:50.000Z"
+    },
+    {
       "id": "febca00e",
       "filename": "pixiv_146673239_p0.jpg",
       "path": "uploads/2026/07/0ba25478.jpg",
