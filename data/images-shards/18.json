@@ -3,6 +3,28 @@
   "shardId": "18",
   "images": [
     {
+      "id": "79c927e2",
+      "filename": "pixiv_146682418_p0.jpg",
+      "path": "uploads/2026/07/98c26b51.jpg",
+      "size": 1142735,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "925cf33a5052f76e3ab1f80d83cf8f9b9b05e5826206f90917937e4ace04762f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:22:41.797Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "海",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146682418_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146682418",
+      "sourceCreatedAt": "2026-07-01T06:04:19.000Z"
+    },
+    {
       "id": "dd1bea12",
       "filename": "pixiv_146667945_p0.jpg",
       "path": "uploads/2026/07/8380cfa4.jpg",
