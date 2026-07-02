@@ -3,6 +3,33 @@
   "shardId": "09",
   "images": [
     {
+      "id": "3735bbb3",
+      "filename": "pixiv_146663383_p0.jpg",
+      "path": "uploads/2026/07/2b02049c.jpg",
+      "size": 975178,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "d080103248b12365b999cc47495c354320fab4ce52b3dce20ccfd7832f2001fc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:25:07.509Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "镜世界-禁区-64-水牢",
+      "tags": [
+        "風景",
+        "背景",
+        "场景",
+        "水鏡",
+        "少女",
+        "空間"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146663383_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146663383",
+      "sourceCreatedAt": "2026-06-30T15:00:03.000Z"
+    },
+    {
       "id": "5461ecdd",
       "filename": "pixiv_146682439_p0.jpg",
       "path": "uploads/2026/07/d101559d.jpg",
