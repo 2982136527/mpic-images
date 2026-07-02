@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "9ff0087c",
+      "filename": "pixiv_146671748_p0.jpg",
+      "path": "uploads/2026/07/64119871.jpg",
+      "size": 654725,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d6b6e70157d023e19c81ab0a5274981bc1a9192090c182b295830365e9e0c625",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:27:59.153Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Day75 Vendela",
+      "tags": [
+        "100日チャレンジ",
+        "アークナイツ",
+        "明日方舟",
+        "Arknights"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146671748_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146671748",
+      "sourceCreatedAt": "2026-06-30T20:40:08.000Z"
+    },
+    {
       "id": "bf59939f",
       "filename": "pixiv_146634297_p0.jpg",
       "path": "uploads/2026/07/18343437.jpg",
