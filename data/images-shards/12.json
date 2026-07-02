@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "ed9951b1",
+      "filename": "pixiv_146414695_p0.jpg",
+      "path": "uploads/2026/07/d29ea59f.jpg",
+      "size": 1703755,
+      "width": 676,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "156b072d19f406042a25f497cb7950bf9e6ffc4d12ab3eab2d67d8cfde3170f3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:46:46.221Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🩵",
+      "tags": [
+        "女の子",
+        "依頼絵",
+        "OC",
+        "猫",
+        "ケモミミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146414695_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146414695",
+      "sourceCreatedAt": "2026-06-24T15:00:23.000Z"
+    },
+    {
       "id": "c500dc6b",
       "filename": "pixiv_146663695_p0.jpg",
       "path": "uploads/2026/07/d27835b3.jpg",
