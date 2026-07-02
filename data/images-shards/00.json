@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "a9b9aaa1",
+      "filename": "pixiv_146663457_p0.jpg",
+      "path": "uploads/2026/07/ce24930f.jpg",
+      "size": 1857848,
+      "width": 1200,
+      "height": 857,
+      "mimeType": "image/jpeg",
+      "hash": "db7e9ec6eaf2f066882dc9aa1818475cb53d32dbbf0f1502a887fef0fdd16ff7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:23:14.436Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Avis",
+      "tags": [
+        "オリジナル",
+        "ファンタジー",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146663457_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146663457",
+      "sourceCreatedAt": "2026-06-30T15:00:15.000Z"
+    },
+    {
       "id": "cc9f3795",
       "filename": "pixiv_146637861_p0.jpg",
       "path": "uploads/2026/07/8ddd94a0.jpg",
