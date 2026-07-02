@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "487b0fd6",
+      "filename": "pixiv_146631704_p0.jpg",
+      "path": "uploads/2026/07/10bbf7e7.jpg",
+      "size": 873227,
+      "width": 861,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7d1c9e3a105c3a398d726c84eef584989f17ff99d600b0933bcd57f4aa39f3b1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:23:28.033Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Rebecca",
+      "tags": [
+        "サイバーパンク:エッジランナーズ",
+        "レベッカ(エッジランナーズ)",
+        "Rebecca"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146631704_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146631704",
+      "sourceCreatedAt": "2026-06-29T19:53:26.000Z"
+    },
+    {
       "id": "0c190af4",
       "filename": "crawl_src_mqwjeg05_8_1782801647922.jpg",
       "path": "uploads/2026/06/81edf65a.jpg",
