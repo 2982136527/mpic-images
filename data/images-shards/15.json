@@ -3,6 +3,28 @@
   "shardId": "15",
   "images": [
     {
+      "id": "b8a75b58",
+      "filename": "pixiv_146414639_p0.jpg",
+      "path": "uploads/2026/07/9e5e3f04.jpg",
+      "size": 1447294,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e0d25da245491ec75c7c3240950afb00c02fefe30cd073f645ff88642775d479",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:29:07.449Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "RE:BEL ROBOTICA",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146414639_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146414639",
+      "sourceCreatedAt": "2026-06-24T15:00:15.000Z"
+    },
+    {
       "id": "ec419161",
       "filename": "pixiv_146456896_p0.jpg",
       "path": "uploads/2026/07/8640e06a.jpg",
