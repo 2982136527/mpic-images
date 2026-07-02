@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "cd127e31",
+      "filename": "pixiv_146656939_p0.jpg",
+      "path": "uploads/2026/07/94b3b32c.jpg",
+      "size": 1134965,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2a790086c3624ba0c9f2c71123d81b3d07bb2d489f4a6c7da93013f2b5f37384",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:27:23.244Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "大好き",
+      "tags": [
+        "ガンバレ!中村くん!!",
+        "ガンバレ中村くん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146656939_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146656939",
+      "sourceCreatedAt": "2026-06-30T12:54:42.000Z"
+    },
+    {
       "id": "3f26223f",
       "filename": "pixiv_146689355_p0.jpg",
       "path": "uploads/2026/07/436486cd.jpg",
