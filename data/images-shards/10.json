@@ -3,6 +3,35 @@
   "shardId": "10",
   "images": [
     {
+      "id": "9d96c20a",
+      "filename": "pixiv_146676507_p0.jpg",
+      "path": "uploads/2026/07/5f62db64.jpg",
+      "size": 1480232,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e2384598eeb186baa743a6cf7fce7f580643872f542bbc52a956c9a14a0d11d4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:22:33.661Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🐰",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "阿米娅",
+        "Arknights",
+        "女の子",
+        "アーミヤ(アークナイツ)",
+        "Amiya",
+        "Yostar"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146676507_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146676507",
+      "sourceCreatedAt": "2026-07-01T01:17:51.000Z"
+    },
+    {
       "id": "f1ca6a3a",
       "filename": "crawl_src_mqwjeg05_1_1782805117617.webp",
       "path": "uploads/2026/06/18eb2357.webp",
