@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "dd1bea12",
+      "filename": "pixiv_146667945_p0.jpg",
+      "path": "uploads/2026/07/8380cfa4.jpg",
+      "size": 216916,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "5ee2b5c4a80457fa2779a7eb8df60bf09b38741e3cb5bc8c1609a4104a236428",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:22:40.506Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "aruseee 2026.1-6",
+      "tags": [
+        "メンダコ",
+        "ニャコネーン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146667945_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146667945",
+      "sourceCreatedAt": "2026-06-30T16:47:26.000Z"
+    },
+    {
       "id": "070a6f7b",
       "filename": "crawl_src_mqwjeg05_1_1782802317566.webp",
       "path": "uploads/2026/06/bcef7699.webp",
