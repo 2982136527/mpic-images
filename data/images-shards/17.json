@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "6dcfd085",
+      "filename": "pixiv_146684177_p0.jpg",
+      "path": "uploads/2026/07/949f0123.jpg",
+      "size": 1069196,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "73d75c94754c62a6d65a322d2b0392c457838ed4e3f6aed42fb468e7ffec5f3c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:44:04.093Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "女の子",
+        "少女",
+        "百合",
+        "きみが死ぬまで恋をしたい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146684177_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146684177",
+      "sourceCreatedAt": "2026-07-01T07:25:27.000Z"
+    },
+    {
       "id": "4ffe1fa5",
       "filename": "pixiv_146641555_p0.jpg",
       "path": "uploads/2026/07/d834371a.jpg",
