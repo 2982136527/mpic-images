@@ -3,6 +3,28 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "8eb94b21",
+      "filename": "pixiv_146681986_p0.jpg",
+      "path": "uploads/2026/07/feed4253.jpg",
+      "size": 721227,
+      "width": 1101,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4f6c51efb26b5bb43428afdd5f55fd55fcc8618409c55dc8201457b53e7ca44a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T18:05:30.538Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "マクカトまとめ⑧",
+      "tags": [
+        "マクカト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146681986_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146681986",
+      "sourceCreatedAt": "2026-07-01T05:44:55.000Z"
+    },
+    {
       "id": "5189fdbe",
       "filename": "pixiv_146673810_p0.jpg",
       "path": "uploads/2026/07/3ba8e595.jpg",
