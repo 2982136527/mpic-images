@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "3d00ec9b",
+      "filename": "pixiv_146669785_p0.jpg",
+      "path": "uploads/2026/07/45f9a712.jpg",
+      "size": 418971,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "014ab1b87b1aecfd8c257c4bd36fc26a0814f886fec034ca692456749c826cda",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:24:31.466Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "大切なお願い",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "美少年",
+        "作画解放"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146669785_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146669785",
+      "sourceCreatedAt": "2026-06-30T18:14:25.000Z"
+    },
+    {
       "id": "5c669c13",
       "filename": "pixiv_146379622_p0.jpg",
       "path": "uploads/2026/06/7e55fccb.jpg",
