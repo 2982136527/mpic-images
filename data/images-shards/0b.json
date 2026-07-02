@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "fef7015b",
+      "filename": "pixiv_146629698_p0.jpg",
+      "path": "uploads/2026/07/1f204351.jpg",
+      "size": 426009,
+      "width": 668,
+      "height": 946,
+      "mimeType": "image/jpeg",
+      "hash": "74105fb678e06927056a231d4a72967c95472fd9bcd04087a1f01d4a7c73db47",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:22:29.220Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ADINA",
+      "tags": [
+        "EternalReturn:BlackSurvival",
+        "EternalReturn",
+        "이터널리턴"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146629698_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146629698",
+      "sourceCreatedAt": "2026-06-29T17:42:13.000Z"
+    },
+    {
       "id": "3270d94b",
       "filename": "pixiv_146390601_p0.jpg",
       "path": "uploads/2026/06/64fb59e5.jpg",
