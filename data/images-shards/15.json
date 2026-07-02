@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "689797ec",
+      "filename": "pixiv_146663892_p0.jpg",
+      "path": "uploads/2026/07/4c23b36c.jpg",
+      "size": 1651153,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "59bb27a2242d5bc20960dc2bed64428426a8336fe6f845274b9d34cb1599c47a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:42:20.260Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Rainy dance",
+      "tags": [
+        "VOCALOID",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146663892_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146663892",
+      "sourceCreatedAt": "2026-06-30T15:02:23.000Z"
+    },
+    {
       "id": "b8a75b58",
       "filename": "pixiv_146414639_p0.jpg",
       "path": "uploads/2026/07/9e5e3f04.jpg",
