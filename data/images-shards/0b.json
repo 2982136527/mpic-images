@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "f83df31f",
+      "filename": "pixiv_146645594_p0.jpg",
+      "path": "uploads/2026/07/5e03c365.jpg",
+      "size": 1123046,
+      "width": 1200,
+      "height": 910,
+      "mimeType": "image/jpeg",
+      "hash": "907009e54b621b2a20a58372f5191201f27e2fc63d45b92cee27016a36a41550",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:23:12.553Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夏といえば海",
+      "tags": [
+        "ラバースーツ",
+        "ぴっちりスーツ",
+        "競泳水着",
+        "気密服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146645594_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146645594",
+      "sourceCreatedAt": "2026-06-30T08:17:00.000Z"
+    },
+    {
       "id": "f461b7b8",
       "filename": "pixiv_146680673_p0.jpg",
       "path": "uploads/2026/07/7dfb6a44.jpg",
