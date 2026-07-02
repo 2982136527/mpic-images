@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "0e33730e",
+      "filename": "pixiv_146649401_p0.jpg",
+      "path": "uploads/2026/07/ac178fd5.jpg",
+      "size": 1138356,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "29b81a6487d7df2095a253d90f53ad09b6cc4b1fa9a9c4e7ad71b0ec3e12fa74",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:46:59.331Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "パピルス",
+      "tags": [
+        "Arknights",
+        "アークナイツ",
+        "明日方舟",
+        "パピルス(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146649401_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146649401",
+      "sourceCreatedAt": "2026-06-30T10:12:11.000Z"
+    },
+    {
       "id": "ed9951b1",
       "filename": "pixiv_146414695_p0.jpg",
       "path": "uploads/2026/07/d29ea59f.jpg",
