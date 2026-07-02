@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "3a91f2d4",
+      "filename": "pixiv_146491505_p0.jpg",
+      "path": "uploads/2026/07/f1681410.jpg",
+      "size": 799789,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ce724d43da31d4f5f2be30db76d478fc604f0f21864ddddc49490d0266764796",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:48:05.908Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "刀さにまとめ14",
+      "tags": [
+        "刀剣乱舞",
+        "刀×主",
+        "二筋樋貞宗(刀剣乱舞)",
+        "ふたさに",
+        "大包平(刀剣乱舞)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146491505_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146491505",
+      "sourceCreatedAt": "2026-06-26T14:43:09.000Z"
+    },
+    {
       "id": "4749887b",
       "filename": "pixiv_146692560_p0.jpg",
       "path": "uploads/2026/07/8e622050.jpg",
