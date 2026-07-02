@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "384eb287",
+      "filename": "pixiv_146679775_p0.jpg",
+      "path": "uploads/2026/07/c7c28f40.jpg",
+      "size": 498808,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "90b430c0d4fbc9daf6f30f191b4f65bb02adfb0cd87f6634e661dc4463068c71",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:31:19.259Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ボーイッシュな子",
+      "tags": [
+        "女の子",
+        "ボーイッシュ",
+        "レオタード"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146679775_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146679775",
+      "sourceCreatedAt": "2026-07-01T03:55:25.000Z"
+    },
+    {
       "id": "5821573e",
       "filename": "crawl_src_mqwjeg05_1_1782805123416.webp",
       "path": "uploads/2026/06/898e55c0.webp",
