@@ -3,6 +3,36 @@
   "shardId": "11",
   "images": [
     {
+      "id": "179881dd",
+      "filename": "pixiv_146646536_p0.jpg",
+      "path": "uploads/2026/07/ef2fe061.jpg",
+      "size": 651699,
+      "width": 975,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5b8305ec0bf33cae2f20a713fec1473d3a7c17738d7708e78188fa419d0faa70",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:23:42.733Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "美術部ガールの内田さんです",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作",
+        "少女",
+        "美術部ガール",
+        "眼鏡",
+        "制服",
+        "セーラー服",
+        "キャプションも本編"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146646536_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146646536",
+      "sourceCreatedAt": "2026-06-30T08:55:46.000Z"
+    },
+    {
       "id": "ebadd9fa",
       "filename": "crawl_src_mqwjeg06_t_1782805137474.jpg",
       "path": "uploads/2026/06/565c0fb9.jpg",
