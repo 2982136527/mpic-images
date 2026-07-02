@@ -3,6 +3,28 @@
   "shardId": "13",
   "images": [
     {
+      "id": "a851d858",
+      "filename": "pixiv_146687022_p0.jpg",
+      "path": "uploads/2026/07/0e0fa458.jpg",
+      "size": 724410,
+      "width": 975,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0a13d9d63ce929c2c12c3f3ec7ddc2c4d52b6a63fe6ead16deaccf6a16c12377",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:29:32.004Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【新作LINEスタンプ】",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146687022_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146687022",
+      "sourceCreatedAt": "2026-07-01T09:02:00.000Z"
+    },
+    {
       "id": "6aa701bd",
       "filename": "pixiv_146677011_p0.jpg",
       "path": "uploads/2026/07/607b5ed8.jpg",
