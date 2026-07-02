@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "bb053ecc",
+      "filename": "pixiv_146483767_p0.jpg",
+      "path": "uploads/2026/07/a3570cfb.jpg",
+      "size": 1032262,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "96f2e0eb63dadafeea1414a7ede72a0cbcf4c8cc1a4f9d716187e6c54184f67c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:29:41.536Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "rkgk",
+      "tags": [
+        "Limbus_Company",
+        "김삿갓",
+        "임경업",
+        "キムサッガッ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146483767_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146483767",
+      "sourceCreatedAt": "2026-06-26T12:04:37.000Z"
+    },
+    {
       "id": "1814f0a7",
       "filename": "pixiv_146665845_p0.jpg",
       "path": "uploads/2026/07/965a8d1c.jpg",
