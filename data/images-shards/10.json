@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "3f26223f",
+      "filename": "pixiv_146689355_p0.jpg",
+      "path": "uploads/2026/07/436486cd.jpg",
+      "size": 1331081,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "0e50d431b694c6edf15f3ba6f9acfe582bc9238129d64e9737947c76466ad3b4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:25:49.572Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "瑕硝子レヴェリー",
+      "tags": [
+        "プロジェクトセカイ",
+        "25時、ナイトコードで。",
+        "prsk_FA"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146689355_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146689355",
+      "sourceCreatedAt": "2026-07-01T10:07:24.000Z"
+    },
+    {
       "id": "9d96c20a",
       "filename": "pixiv_146676507_p0.jpg",
       "path": "uploads/2026/07/5f62db64.jpg",
