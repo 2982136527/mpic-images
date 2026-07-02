@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "9e364a61",
+      "filename": "pixiv_146676481_p0.jpg",
+      "path": "uploads/2026/07/bde60fa7.jpg",
+      "size": 1094562,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "86a35caf96499f142bbf362332a7426501523586473af443e35bdf0bfc10300e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:25:27.041Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "恩返し？",
+      "tags": [
+        "オリジナル",
+        "青春",
+        "猫の恩返し?"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146676481_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146676481",
+      "sourceCreatedAt": "2026-07-01T01:16:28.000Z"
+    },
+    {
       "id": "9f1c419a",
       "filename": "pixiv_146668268_p0.jpg",
       "path": "uploads/2026/07/dae384a4.jpg",
