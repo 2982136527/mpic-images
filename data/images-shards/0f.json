@@ -3,6 +3,28 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "1054f768",
+      "filename": "pixiv_146689644_p0.jpg",
+      "path": "uploads/2026/07/83f29303.jpg",
+      "size": 759262,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fe5dfde60d68ddab5954cb5addc600378f0cc21561767f647a56a3ac6701d161",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:31:55.096Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "狂聡ログ10",
+      "tags": [
+        "狂聡"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146689644_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146689644",
+      "sourceCreatedAt": "2026-07-01T10:18:32.000Z"
+    },
+    {
       "id": "73985a77",
       "filename": "pixiv_146649514_p0.jpg",
       "path": "uploads/2026/07/0eb6012d.jpg",
