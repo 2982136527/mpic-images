@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "8eebe88b",
+      "filename": "pixiv_146678376_p0.jpg",
+      "path": "uploads/2026/07/6befffe8.jpg",
+      "size": 1013074,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6d3bf7ea4545b6a9ac435a075d54b129c269eb700f74a81a534bd51fe2143495",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:28:25.310Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "藤田ことね水着",
+      "tags": [
+        "水着",
+        "藤田ことね",
+        "学マス",
+        "学園アイドルマスター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146678376_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146678376",
+      "sourceCreatedAt": "2026-07-01T03:00:07.000Z"
+    },
+    {
       "id": "c947425b",
       "filename": "pixiv_146640326_p0.jpg",
       "path": "uploads/2026/07/06d8f6c7.jpg",
