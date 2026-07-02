@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "55a4e0b6",
+      "filename": "pixiv_146665041_p0.jpg",
+      "path": "uploads/2026/07/49792892.jpg",
+      "size": 1362607,
+      "width": 796,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7442f9d06df63eb00c25fd97765abaf91bdaa9b65326e6a9902f0783986d61bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:26:41.528Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "#原神 #Tsaritsa",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "Tsaritsa",
+        "アナスターシャ・フョードロヴナ・スネージナヤ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146665041_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146665041",
+      "sourceCreatedAt": "2026-06-30T15:22:35.000Z"
+    },
+    {
       "id": "8751c569",
       "filename": "pixiv_146650891_p0.jpg",
       "path": "uploads/2026/07/c919b270.jpg",
