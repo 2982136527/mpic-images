@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "5be52aa9",
+      "filename": "pixiv_146632575_p0.jpg",
+      "path": "uploads/2026/07/fefddff2.jpg",
+      "size": 407019,
+      "width": 889,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ee5a5b3c1ae75095c601cba27ffc1cbe6b604742f5f2bdb9252fcdb380477fcc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:44:21.779Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Goth Girl",
+      "tags": [
+        "goth",
+        "goth_girl",
+        "thicc"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146632575_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146632575",
+      "sourceCreatedAt": "2026-06-29T20:53:16.000Z"
+    },
+    {
       "id": "4a63a4fe",
       "filename": "pixiv_146678310_p0.jpg",
       "path": "uploads/2026/07/213950c2.jpg",
