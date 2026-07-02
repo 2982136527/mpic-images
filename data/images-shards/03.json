@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "04f36cde",
+      "filename": "pixiv_146679202_p0.jpg",
+      "path": "uploads/2026/07/9e9b8ea0.jpg",
+      "size": 400122,
+      "width": 540,
+      "height": 807,
+      "mimeType": "image/jpeg",
+      "hash": "bf0e7ad123a700bb10b0a883cc6a193d9e7f8e522167e7b61e373faa426ff82e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:30:29.488Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "东北愚姐",
+      "tags": [
+        "原神",
+        "冰神",
+        "アナスターシャ・フョードロヴナ・スネージナヤ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146679202_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146679202",
+      "sourceCreatedAt": "2026-07-01T03:30:09.000Z"
+    },
+    {
       "id": "ad1cc394",
       "filename": "pixiv_146691112_p0.jpg",
       "path": "uploads/2026/07/a400bb86.jpg",
