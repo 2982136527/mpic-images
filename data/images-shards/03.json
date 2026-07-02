@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "ad1cc394",
+      "filename": "pixiv_146691112_p0.jpg",
+      "path": "uploads/2026/07/a400bb86.jpg",
+      "size": 440519,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "94e720b97734dee40da8aec2320c43a2bd01b4daaa5b6dfd0617ac4186522509",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T06:28:06.140Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "GLOVE",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146691112_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146691112",
+      "sourceCreatedAt": "2026-07-01T10:57:10.000Z"
+    },
+    {
       "id": "ff964106",
       "filename": "pixiv_146685934_p0.jpg",
       "path": "uploads/2026/07/3e4be5a1.jpg",
