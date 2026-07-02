@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "278e414f",
+      "filename": "pixiv_146656113_p0.jpg",
+      "path": "uploads/2026/07/60532eb0.jpg",
+      "size": 989728,
+      "width": 799,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f694fb6f36d83e8bc34d4835b2fe4cc461f707c02ecc468de7d24606053fddb7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:49:01.228Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "水浴び",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "キィニチ",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146656113_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146656113",
+      "sourceCreatedAt": "2026-06-30T12:36:51.000Z"
+    },
+    {
       "id": "04f36cde",
       "filename": "pixiv_146679202_p0.jpg",
       "path": "uploads/2026/07/9e9b8ea0.jpg",
