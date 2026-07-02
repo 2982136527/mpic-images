@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "0b57b5e9",
+      "filename": "pixiv_146419636_p0.jpg",
+      "path": "uploads/2026/07/11fbd9df.jpg",
+      "size": 1760774,
+      "width": 988,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6eb93df0de880327c9e3275db2c352dbd35149fe8ff71a7a5be97868f0468ac8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T18:03:40.112Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "どっち？",
+      "tags": [
+        "The_Amazing_Digital_Circus",
+        "Pomni",
+        "Jax",
+        "Ribbit(TADC)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146419636_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146419636",
+      "sourceCreatedAt": "2026-06-24T17:22:08.000Z"
+    },
+    {
       "id": "9a59abae",
       "filename": "pixiv_146676595_p0.jpg",
       "path": "uploads/2026/07/c8280aad.jpg",
