@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "af40ad0c",
+      "filename": "pixiv_146656188_p0.jpg",
+      "path": "uploads/2026/07/79d37763.jpg",
+      "size": 724955,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f644c22ade03ed30ee997e02caa56a9ec19e85c25863be07a8655c823fa983b6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:49:53.176Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【クロスオーバー注意】ログまとめ①",
+      "tags": [
+        "クロスオーバー",
+        "マンダロリアン",
+        "グローグー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146656188_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146656188",
+      "sourceCreatedAt": "2026-06-30T12:38:30.000Z"
+    },
+    {
       "id": "294add81",
       "filename": "pixiv_146671227_p0.jpg",
       "path": "uploads/2026/07/0ae2358c.jpg",
