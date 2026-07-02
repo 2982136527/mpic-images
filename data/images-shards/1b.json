@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "f5d88cc3",
+      "filename": "pixiv_146640744_p0.jpg",
+      "path": "uploads/2026/07/c7db5ce8.jpg",
+      "size": 1325757,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7b6a386d5d63ae04c0eef9e02a3bc75ee4e1b0c46669cc2d6513ea1630c6b50e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-02T09:44:51.101Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ステラソラ",
+      "tags": [
+        "ステラソラ",
+        "StellaSora",
+        "アヤメ(ステラソラ)",
+        "コハク(ステラソラ)",
+        "女の子",
+        "可爱"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146640744_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146640744",
+      "sourceCreatedAt": "2026-06-30T04:24:13.000Z"
+    },
+    {
       "id": "085abe71",
       "filename": "pixiv_146683493_p0.jpg",
       "path": "uploads/2026/07/00b03643.jpg",
