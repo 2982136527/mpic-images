@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "385719c8",
+      "filename": "pixiv_146688405_p0.jpg",
+      "path": "uploads/2026/07/19a0c628.jpg",
+      "size": 931782,
+      "width": 999,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1c375832844b42a2b968fbb2253f9917143055e02b652b04b8c6ad6e88d21105",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T17:42:03.087Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ウルトラ／ゼロ",
+      "tags": [
+        "ウルトラマン",
+        "ウルトラマンゼロ",
+        "特撮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146688405_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146688405",
+      "sourceCreatedAt": "2026-07-01T09:40:42.000Z"
+    },
+    {
       "id": "b7d63e50",
       "filename": "pixiv_146693558_p0.jpg",
       "path": "uploads/2026/07/ce7e66bd.jpg",
