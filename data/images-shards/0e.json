@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "e10a46d7",
+      "filename": "pixiv_146702862_p0.jpg",
+      "path": "uploads/2026/07/37197cbc.jpg",
+      "size": 470033,
+      "width": 561,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "024c9983dfca218b0a2ba0f8b3919996ba73dd31205e62edcb039a07aab3c23c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T10:49:14.091Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "💙",
+      "tags": [
+        "オリジナル",
+        "ロボ娘",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146702862_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146702862",
+      "sourceCreatedAt": "2026-07-01T15:00:50.000Z"
+    },
+    {
       "id": "54fa7b98",
       "filename": "pixiv_146666891_p0.jpg",
       "path": "uploads/2026/07/52861fd7.jpg",
