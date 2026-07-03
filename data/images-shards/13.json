@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "5eecd1d0",
+      "filename": "pixiv_146715415_p0.jpg",
+      "path": "uploads/2026/07/e4e127e8.jpg",
+      "size": 751426,
+      "width": 590,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6f2480258032b010a5a0251ae3677d784c05df5bc96b995a446bcf5233693da3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T17:44:18.660Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "綺麗だ",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "NIKKE",
+        "シンデレラ(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146715415_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146715415",
+      "sourceCreatedAt": "2026-07-02T01:24:36.000Z"
+    },
+    {
       "id": "a3bc8465",
       "filename": "pixiv_146713533_p0.jpg",
       "path": "uploads/2026/07/b982ca0a.jpg",
