@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "471b788d",
+      "filename": "pixiv_146702750_p0.jpg",
+      "path": "uploads/2026/07/15489a41.jpg",
+      "size": 1762189,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a8688a570b3ce4f75f4ee13bb32c51354253f7aff84eb43890fa67929c6668b1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T10:45:59.738Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "まじりみ！THE FINAL",
+      "tags": [
+        "VOCALOID",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146702750_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146702750",
+      "sourceCreatedAt": "2026-07-01T15:00:26.000Z"
+    },
+    {
       "id": "0bbed519",
       "filename": "pixiv_146726239_p0.jpg",
       "path": "uploads/2026/07/25890596.jpg",
