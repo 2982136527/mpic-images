@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "85eaffc1",
+      "filename": "pixiv_146684180_p0.jpg",
+      "path": "uploads/2026/07/fc605a8c.jpg",
+      "size": 153437,
+      "width": 825,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "26abe01f8f3d255fb69dba2fa368d885300ad16c744a5b1b02980bf5f4db7274",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T04:00:53.126Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "黒い",
+      "tags": [
+        "ウマ娘",
+        "マンハッタンカフェ(ウマ娘)",
+        "ウマ娘プリティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146684180_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146684180",
+      "sourceCreatedAt": "2026-07-01T07:25:32.000Z"
+    },
+    {
       "id": "5678b907",
       "filename": "pixiv_146703378_p0.jpg",
       "path": "uploads/2026/07/5bcd8ad4.jpg",
