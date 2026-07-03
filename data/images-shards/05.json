@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "e1c5244b",
+      "filename": "pixiv_146706397_p0.jpg",
+      "path": "uploads/2026/07/6dbfa80e.jpg",
+      "size": 659847,
+      "width": 1200,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "523ff59d79a0b12498188eab59879f96623596d786c1a13424b91976ca0f2112",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T03:59:58.893Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "day68",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "Nicole",
+        "尼可",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146706397_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146706397",
+      "sourceCreatedAt": "2026-07-01T16:32:27.000Z"
+    },
+    {
       "id": "6245c3df",
       "filename": "pixiv_146689623_p0.jpg",
       "path": "uploads/2026/07/05ed4f6c.jpg",
