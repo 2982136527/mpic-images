@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "50b61a15",
+      "filename": "pixiv_146683733_p0.jpg",
+      "path": "uploads/2026/07/2e8cf117.jpg",
+      "size": 556934,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1017c44ac01d48a2f95acd0d01849542b5a9e283f0b101d86143062f5d4c6edf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T17:43:58.371Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "レクイエム",
+      "tags": [
+        "女の子",
+        "NTE",
+        "NevernesstoEverness",
+        "NTEネバエバ",
+        "lacrimosa"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146683733_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146683733",
+      "sourceCreatedAt": "2026-07-01T07:05:17.000Z"
+    },
+    {
       "id": "bfddbc5f",
       "filename": "pixiv_146729052_p0.jpg",
       "path": "uploads/2026/07/3d7d00f3.jpg",
