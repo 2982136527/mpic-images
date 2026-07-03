@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "72d9360b",
+      "filename": "pixiv_146666792_p0.jpg",
+      "path": "uploads/2026/07/239fef56.jpg",
+      "size": 256141,
+      "width": 655,
+      "height": 1063,
+      "mimeType": "image/jpeg",
+      "hash": "f0952a615f0b8924b0d09b3b01ade229562cce58b3a90bcaa6e53d009e2ae71f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T10:48:38.103Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "シャニマス　七草（姉）",
+      "tags": [
+        "アイドルマスターシャイニーカラーズ",
+        "七草はづき",
+        "ぱんつ",
+        "たくしあげ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146666792_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146666792",
+      "sourceCreatedAt": "2026-06-30T16:07:38.000Z"
+    },
+    {
       "id": "0cdedd91",
       "filename": "pixiv_146680145_p0.jpg",
       "path": "uploads/2026/07/234d925b.jpg",
