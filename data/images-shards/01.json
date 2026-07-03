@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "c64093ff",
+      "filename": "pixiv_146732707_p0.jpg",
+      "path": "uploads/2026/07/f66d041f.jpg",
+      "size": 403154,
+      "width": 707,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "e9d4553660663de966952c046f9558eee93c941ede12cad5285018f36d994de0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T03:56:59.694Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ミクめくやみかわライフ🩷",
+      "tags": [
+        "VOCALOID",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146732707_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146732707",
+      "sourceCreatedAt": "2026-07-02T12:21:06.000Z"
+    },
+    {
       "id": "521de95d",
       "filename": "pixiv_146414716_p0.jpg",
       "path": "uploads/2026/07/2189a51b.jpg",
