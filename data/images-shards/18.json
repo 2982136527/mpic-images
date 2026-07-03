@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "6a72375b",
+      "filename": "pixiv_146725303_p0.jpg",
+      "path": "uploads/2026/07/be2792b7.jpg",
+      "size": 884662,
+      "width": 860,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1b96f07f296b1621d52c283d4d3c04d952de7f5e061cb0902af16a2135222274",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T04:02:42.569Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "きらきらゼリービーンズ",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "猫",
+        "ゼリービーンズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146725303_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146725303",
+      "sourceCreatedAt": "2026-07-02T09:11:38.000Z"
+    },
+    {
       "id": "d92cd7c8",
       "filename": "pixiv_146735440_p0.jpg",
       "path": "uploads/2026/07/1a4b547d.jpg",
