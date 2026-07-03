@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "75e0385d",
+      "filename": "pixiv_146721254_p0.jpg",
+      "path": "uploads/2026/07/84e1b703.jpg",
+      "size": 1230529,
+      "width": 831,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ae0606c8e44b349940cd1e2220c5e23689d78846811806d2d56a4e9507e898c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T10:49:56.064Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "梅雨",
+      "tags": [
+        "女の子",
+        "少女",
+        "雨",
+        "夏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146721254_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146721254",
+      "sourceCreatedAt": "2026-07-02T06:30:38.000Z"
+    },
+    {
       "id": "c14624e1",
       "filename": "pixiv_146725456_p0.jpg",
       "path": "uploads/2026/07/5bd6f9e7.jpg",
