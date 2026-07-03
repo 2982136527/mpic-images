@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "70a9581a",
+      "filename": "pixiv_146715661_p0.jpg",
+      "path": "uploads/2026/07/de450e1f.jpg",
+      "size": 517164,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c8ccff5958531dc79b413f07a1c7c1035bc3eb2bca771d994f2e1e90b62ff615",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T04:03:00.641Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "うちの猫",
+      "tags": [
+        "東方Project",
+        "古明地さとり",
+        "火炎猫燐",
+        "火焔猫燐"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146715661_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146715661",
+      "sourceCreatedAt": "2026-07-02T01:39:14.000Z"
+    },
+    {
       "id": "54e1bc51",
       "filename": "pixiv_146720033_p0.jpg",
       "path": "uploads/2026/07/17144168.jpg",
