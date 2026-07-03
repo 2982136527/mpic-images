@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "0a4ca648",
+      "filename": "pixiv_146702697_p0.jpg",
+      "path": "uploads/2026/07/87fadb10.jpg",
+      "size": 1210509,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dc5f320fdf33b36e69dbdea2ca2aade96224b2486cd9662d1ed232138a2d7360",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T10:47:01.688Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ニンフ",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "ニンフ(アークナイツ)",
+        "妮芙"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146702697_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146702697",
+      "sourceCreatedAt": "2026-07-01T15:00:18.000Z"
+    },
+    {
       "id": "a0798b73",
       "filename": "pixiv_146725539_p0.jpg",
       "path": "uploads/2026/07/5bf94557.jpg",
