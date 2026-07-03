@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "0bbed519",
+      "filename": "pixiv_146726239_p0.jpg",
+      "path": "uploads/2026/07/25890596.jpg",
+      "size": 1375156,
+      "width": 1200,
+      "height": 851,
+      "mimeType": "image/jpeg",
+      "hash": "d338dc7f308c806612ce38d88df495d7af3398c8a8affbcca46c0cc0f40796fe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T04:05:51.373Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "アズレン9周年",
+      "tags": [
+        "アズールレーン",
+        "碧蓝航线",
+        "プリンツ・オイゲン(アズールレーン)",
+        "アズールレーン九周年記念"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146726239_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146726239",
+      "sourceCreatedAt": "2026-07-02T09:41:07.000Z"
+    },
+    {
       "id": "52855918",
       "filename": "pixiv_145633331_p0.jpg",
       "path": "uploads/2026/07/159b5ecd.jpg",
