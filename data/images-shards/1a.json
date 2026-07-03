@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "63ac5281",
+      "filename": "pixiv_146687271_p0.jpg",
+      "path": "uploads/2026/07/bafec902.jpg",
+      "size": 1443306,
+      "width": 859,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ff9e12832a91082784c60943a11b171ea0db17e0cb367e21281e252259704c27",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T17:43:07.146Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "楽",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146687271_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146687271",
+      "sourceCreatedAt": "2026-07-01T09:05:49.000Z"
+    },
+    {
       "id": "a115f59a",
       "filename": "pixiv_146706098_p0.jpg",
       "path": "uploads/2026/07/fdf983f3.jpg",
