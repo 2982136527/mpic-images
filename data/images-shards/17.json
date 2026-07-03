@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "a11d905a",
+      "filename": "pixiv_146730992_p0.jpg",
+      "path": "uploads/2026/07/753b085a.jpg",
+      "size": 1996948,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ad7c777ac66560eae76c43f301b05b4ccd510eb9851c19d86226578c057f9aba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T10:46:12.020Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "秋深",
+      "tags": [
+        "風景",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146730992_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146730992",
+      "sourceCreatedAt": "2026-07-02T11:44:09.000Z"
+    },
+    {
       "id": "5bb5f5c9",
       "filename": "pixiv_146668599_p0.jpg",
       "path": "uploads/2026/07/651eeee4.jpg",
