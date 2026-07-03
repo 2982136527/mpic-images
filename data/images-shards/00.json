@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "89386ff0",
+      "filename": "pixiv_146697275_p0.jpg",
+      "path": "uploads/2026/07/0cf93928.jpg",
+      "size": 393963,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "89e5db240d8b00e8743631eac63c1a4279a14140e9ece8949da132d0e66577bd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T04:02:18.539Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ロリ",
+        "よその子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146697275_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146697275",
+      "sourceCreatedAt": "2026-07-01T13:02:53.000Z"
+    },
+    {
       "id": "dcf4898f",
       "filename": "pixiv_146706317_p0.jpg",
       "path": "uploads/2026/07/ec96d5a1.jpg",
