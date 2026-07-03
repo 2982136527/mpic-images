@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "b3f3f317",
+      "filename": "pixiv_145692794_p0.jpg",
+      "path": "uploads/2026/07/df6162ff.jpg",
+      "size": 2497873,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df59d563f5a4458bc1fcc847ef9ce5a574fb7ffc01822da70140b968ca6e3b98",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T04:04:50.857Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "テレパシ",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "テレパシ",
+        "本家",
+        "DECO*27"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145692794_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145692794",
+      "sourceCreatedAt": "2026-06-06T15:00:07.000Z"
+    },
+    {
       "id": "278e414f",
       "filename": "pixiv_146656113_p0.jpg",
       "path": "uploads/2026/07/60532eb0.jpg",
