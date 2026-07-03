@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "bb9d02db",
+      "filename": "pixiv_146682815_p0.jpg",
+      "path": "uploads/2026/07/5df7c594.jpg",
+      "size": 1622086,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2feb2b8ca5928c67f9d07837da558c8266fd010ccce50d0b2c914219c1cc0d51",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T04:01:05.554Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ナグサ(水着)",
+      "tags": [
+        "ブルアカ",
+        "御稜ナグサ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146682815_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146682815",
+      "sourceCreatedAt": "2026-07-01T06:26:00.000Z"
+    },
+    {
       "id": "f46bfbca",
       "filename": "pixiv_146690848_p0.jpg",
       "path": "uploads/2026/07/721db980.jpg",
