@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "bfddbc5f",
+      "filename": "pixiv_146729052_p0.jpg",
+      "path": "uploads/2026/07/3d7d00f3.jpg",
+      "size": 642580,
+      "width": 586,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ae13ced0c510b774111669cf2adab9edd16046743f875638e5a834affe7125fe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T17:43:42.058Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "行こっか？",
+      "tags": [
+        "創作",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146729052_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146729052",
+      "sourceCreatedAt": "2026-07-02T11:00:24.000Z"
+    },
+    {
       "id": "f7aca176",
       "filename": "pixiv_146522720_p0.jpg",
       "path": "uploads/2026/07/d7ff1a4b.jpg",
