@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "b2de87d7",
+      "filename": "pixiv_146663436_p0.jpg",
+      "path": "uploads/2026/07/56d56bc9.jpg",
+      "size": 2161799,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "84df602b4121de28ef8cfe353bcfd3dc654e67c101b410ec8e0f9b91520611b0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T17:48:02.469Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "カナ誕2026",
+      "tags": [
+        "ヘタリア",
+        "マシュー・ウィリアムズ",
+        "マシュー生誕祭2026",
+        "カナ誕2026"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146663436_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146663436",
+      "sourceCreatedAt": "2026-06-30T15:00:11.000Z"
+    },
+    {
       "id": "80b2a035",
       "filename": "pixiv_145632201_p0.jpg",
       "path": "uploads/2026/07/81908cda.jpg",
