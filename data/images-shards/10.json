@@ -3,6 +3,28 @@
   "shardId": "10",
   "images": [
     {
+      "id": "4a97d6c6",
+      "filename": "pixiv_146702720_p0.jpg",
+      "path": "uploads/2026/07/929ad632.jpg",
+      "size": 615024,
+      "width": 1200,
+      "height": 736,
+      "mimeType": "image/jpeg",
+      "hash": "90c5642db2a4ce2a217a23e57d1ce2e5a30c9e02aca8758900bfd5d704b5dd44",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T10:54:01.156Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Antivirus Girl is now available",
+      "tags": [
+        "ナース"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146702720_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146702720",
+      "sourceCreatedAt": "2026-07-01T15:00:22.000Z"
+    },
+    {
       "id": "e3929b14",
       "filename": "pixiv_146677662_p0.jpg",
       "path": "uploads/2026/07/f2f9bfaf.jpg",
