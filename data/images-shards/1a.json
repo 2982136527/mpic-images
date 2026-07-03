@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "54c33dc8",
+      "filename": "pixiv_146696683_p0.jpg",
+      "path": "uploads/2026/07/6eaa63bb.jpg",
+      "size": 795385,
+      "width": 786,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "beb6ded69ca60fb257a3f63b36415700654d54f66b4e0e69af40d068e54c0b24",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T03:58:25.468Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "昼と夜",
+      "tags": [
+        "東方project",
+        "十六夜咲夜",
+        "めーさく",
+        "ミッショナリーアングル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146696683_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146696683",
+      "sourceCreatedAt": "2026-07-01T12:52:36.000Z"
+    },
+    {
       "id": "8edb5e99",
       "filename": "pixiv_145614364_p0.jpg",
       "path": "uploads/2026/07/929e11cc.jpg",
