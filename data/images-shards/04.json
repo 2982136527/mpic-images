@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "4b74cb12",
+      "filename": "pixiv_146702773_p0.jpg",
+      "path": "uploads/2026/07/412c42e3.jpg",
+      "size": 1144292,
+      "width": 954,
+      "height": 1002,
+      "mimeType": "image/jpeg",
+      "hash": "4abe725f7cdb59ba5a5e0d166eb9bb705d80093a7c276c78debefd86c3741d16",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T03:57:19.669Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "イグイーン",
+      "tags": [
+        "とんがり帽子のアトリエ",
+        "イグイーン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146702773_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146702773",
+      "sourceCreatedAt": "2026-07-01T15:00:30.000Z"
+    },
+    {
       "id": "6334974b",
       "filename": "pixiv_146471891_p0.jpg",
       "path": "uploads/2026/07/3a6b5f95.jpg",
