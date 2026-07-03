@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "45fc8208",
+      "filename": "pixiv_146734260_p0.jpg",
+      "path": "uploads/2026/07/4179da97.jpg",
+      "size": 686931,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b4b0c8767823f7bc004e85a5315b099613469fe2bfa7922077fcfcc1829cddb1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T17:45:45.826Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "花火",
+      "tags": [
+        "崩壊スターレイル",
+        "花火",
+        "花火(スターレイル)",
+        "崩壊:スターレイル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146734260_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146734260",
+      "sourceCreatedAt": "2026-07-02T12:55:13.000Z"
+    },
+    {
       "id": "63ac5281",
       "filename": "pixiv_146687271_p0.jpg",
       "path": "uploads/2026/07/bafec902.jpg",
