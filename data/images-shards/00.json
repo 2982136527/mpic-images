@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "7c114fbd",
+      "filename": "pixiv_146722905_p0.jpg",
+      "path": "uploads/2026/07/489a9e22.jpg",
+      "size": 1238261,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4749d3f9a4e9c1c5d57f7333196bf0f3bddc96de27e0fd3549dbbb7d466e3597",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T17:44:37.572Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "シンデレラ",
+      "tags": [
+        "NIKKE",
+        "NIKKEfanart",
+        "シンデレラ",
+        "シンデレラ(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146722905_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146722905",
+      "sourceCreatedAt": "2026-07-02T07:48:23.000Z"
+    },
+    {
       "id": "d4576166",
       "filename": "pixiv_146491570_p0.jpg",
       "path": "uploads/2026/07/61817c96.jpg",
