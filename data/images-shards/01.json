@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "3a568e85",
+      "filename": "pixiv_146733582_p0.jpg",
+      "path": "uploads/2026/07/009e66f0.jpg",
+      "size": 1059125,
+      "width": 909,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "99d9811df432d88a055d86ed42acf0701da9a3d9b547acabf44e856093f4a848",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T10:47:54.593Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "専門の人呼んだ",
+      "tags": [
+        "オリジナル",
+        "イラスト",
+        "創作",
+        "異形"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146733582_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146733582",
+      "sourceCreatedAt": "2026-07-02T12:39:47.000Z"
+    },
+    {
       "id": "457c3a17",
       "filename": "pixiv_146679715_p0.jpg",
       "path": "uploads/2026/07/55a378d0.jpg",
