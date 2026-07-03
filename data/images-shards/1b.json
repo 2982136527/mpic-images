@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "cd044ba5",
+      "filename": "pixiv_146723451_p0.jpg",
+      "path": "uploads/2026/07/7db7a6c6.jpg",
+      "size": 1054188,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "397b63249d307cbb37a2ad4f6d0bf057c2125423f07e4cfdcf5b6192fd2c0dc3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T04:01:12.341Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "春猿火 銀兜",
+      "tags": [
+        "春猿火",
+        "バーチャルシンガー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146723451_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146723451",
+      "sourceCreatedAt": "2026-07-02T08:08:28.000Z"
+    },
+    {
       "id": "bb9d02db",
       "filename": "pixiv_146682815_p0.jpg",
       "path": "uploads/2026/07/5df7c594.jpg",
