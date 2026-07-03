@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "5da53c93",
+      "filename": "pixiv_145649044_p0.jpg",
+      "path": "uploads/2026/07/a17baf1c.jpg",
+      "size": 647573,
+      "width": 572,
+      "height": 980,
+      "mimeType": "image/jpeg",
+      "hash": "2c28f514b39d616bf54e36c81b7503d3c417cb653b67bbac24339bdbf6b975eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T10:53:44.553Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ルシア 逆冠",
+      "tags": [
+        "パニシングイレブン",
+        "ルシア逆冠",
+        "抜刀"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145649044_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145649044",
+      "sourceCreatedAt": "2026-06-05T15:00:15.000Z"
+    },
+    {
       "id": "1f8e0b24",
       "filename": "pixiv_146728895_p0.jpg",
       "path": "uploads/2026/07/b81ee6f4.jpg",
