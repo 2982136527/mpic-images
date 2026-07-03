@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "25670c25",
+      "filename": "pixiv_146728314_p0.jpg",
+      "path": "uploads/2026/07/0f514353.jpg",
+      "size": 756520,
+      "width": 969,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a249f5558fe9b4f69dcf6ce2109adef374162df4df9d60a2f7dfb50a31180c2f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T03:58:04.788Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ふいうち（あごくい）",
+      "tags": [
+        "超かぐや姫!",
+        "かぐいろ",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146728314_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146728314",
+      "sourceCreatedAt": "2026-07-02T10:40:53.000Z"
+    },
+    {
       "id": "b58ed545",
       "filename": "pixiv_146633103_p0.jpg",
       "path": "uploads/2026/07/2926a00b.jpg",
