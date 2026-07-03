@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "a115f59a",
+      "filename": "pixiv_146706098_p0.jpg",
+      "path": "uploads/2026/07/fdf983f3.jpg",
+      "size": 1225236,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "70152875943342c5a0ef6a9e7581eb290de47bf163daca4d14395452c8bafca9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T17:41:49.284Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "DAY61",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "芙宁娜",
+        "Genshin",
+        "Furina",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146706098_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146706098",
+      "sourceCreatedAt": "2026-07-01T16:21:37.000Z"
+    },
+    {
       "id": "a0da348b",
       "filename": "pixiv_145639235_p0.jpg",
       "path": "uploads/2026/07/c8e00751.jpg",
