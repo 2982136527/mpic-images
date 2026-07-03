@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "b54e5d50",
+      "filename": "pixiv_146735989_p0.jpg",
+      "path": "uploads/2026/07/dd1ced4f.jpg",
+      "size": 539822,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cbdd71fd2266f074b2c7f6385d386f1c8bb3883780594e8fe8fc2db23983bb1b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T04:05:57.540Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "きりたんとゆかりさん2607",
+      "tags": [
+        "東北きりたん",
+        "結月ゆかり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146735989_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146735989",
+      "sourceCreatedAt": "2026-07-02T13:29:45.000Z"
+    },
+    {
       "id": "9d4e542a",
       "filename": "pixiv_146688892_p0.jpg",
       "path": "uploads/2026/07/d05dd33e.jpg",
