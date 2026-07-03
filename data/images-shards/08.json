@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "1f8e0b24",
+      "filename": "pixiv_146728895_p0.jpg",
+      "path": "uploads/2026/07/b81ee6f4.jpg",
+      "size": 1756227,
+      "width": 1035,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0eb4646e59cd03e4183e7d939e3f71db979c3413b5ecc029fba1a51c04118d6d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T10:49:34.291Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "落書き",
+      "tags": [
+        "ボンドルド",
+        "メイドインアビス",
+        "落書き"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146728895_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146728895",
+      "sourceCreatedAt": "2026-07-02T10:58:27.000Z"
+    },
+    {
       "id": "f33d2b3e",
       "filename": "pixiv_146666608_p0.jpg",
       "path": "uploads/2026/07/011d621c.jpg",
