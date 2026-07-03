@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "5678b907",
+      "filename": "pixiv_146703378_p0.jpg",
+      "path": "uploads/2026/07/5bcd8ad4.jpg",
+      "size": 2176533,
+      "width": 1200,
+      "height": 1010,
+      "mimeType": "image/jpeg",
+      "hash": "90de72fd4e11ace81b78c37045386f2ce8d0026fb08796762befa8b8c324b276",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T03:59:00.568Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "白蛇",
+      "tags": [
+        "電柱",
+        "雪",
+        "蛇",
+        "風景画",
+        "白蛇"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146703378_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146703378",
+      "sourceCreatedAt": "2026-07-01T15:06:57.000Z"
+    },
+    {
       "id": "8acaaf3f",
       "filename": "pixiv_146707040_p0.jpg",
       "path": "uploads/2026/07/f71226f5.jpg",
