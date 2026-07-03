@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "9d46816e",
+      "filename": "pixiv_146717728_p0.jpg",
+      "path": "uploads/2026/07/b41aa777.jpg",
+      "size": 369096,
+      "width": 684,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "674f093e5274dac4690d63f5d04787508c640c59fb07991351e20f66463429d6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T04:02:06.588Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ついったーに上げてたもの",
+      "tags": [
+        "FF14"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146717728_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146717728",
+      "sourceCreatedAt": "2026-07-02T03:30:16.000Z"
+    },
+    {
       "id": "914c5b13",
       "filename": "pixiv_146653263_p0.jpg",
       "path": "uploads/2026/07/67607405.jpg",
