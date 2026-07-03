@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "8de028ce",
+      "filename": "pixiv_146721293_p0.jpg",
+      "path": "uploads/2026/07/6ded4730.jpg",
+      "size": 356779,
+      "width": 1100,
+      "height": 1100,
+      "mimeType": "image/jpeg",
+      "hash": "712b4dd63ee2e8986d575621b7160e4e1cc607748e993d2e1bf37bb090e20b8e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T03:59:33.871Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "猫",
+      "tags": [
+        "女の子",
+        "眼鏡",
+        "メスガキ",
+        "獣耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146721293_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146721293",
+      "sourceCreatedAt": "2026-07-02T06:32:13.000Z"
+    },
+    {
       "id": "846a1dcd",
       "filename": "pixiv_146634852_p0.jpg",
       "path": "uploads/2026/07/d41b75bb.jpg",
