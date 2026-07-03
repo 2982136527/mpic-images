@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "4f938361",
+      "filename": "pixiv_146692981_p0.jpg",
+      "path": "uploads/2026/07/21921495.jpg",
+      "size": 645513,
+      "width": 1200,
+      "height": 975,
+      "mimeType": "image/jpeg",
+      "hash": "4ce31fa8fb02ddd5173b5838fb44553457fbdfcdd85cd6de3b24b8f88c7421e2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T10:50:32.048Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "멍멍",
+      "tags": [
+        "Limbus_Company"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146692981_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146692981",
+      "sourceCreatedAt": "2026-07-01T11:35:28.000Z"
+    },
+    {
       "id": "e10a46d7",
       "filename": "pixiv_146702862_p0.jpg",
       "path": "uploads/2026/07/37197cbc.jpg",
