@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "327ffb5b",
+      "filename": "pixiv_146693003_p0.jpg",
+      "path": "uploads/2026/07/659fe136.jpg",
+      "size": 291597,
+      "width": 1200,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "0abadb08913301f2dded6156b21553a6d83bbc8e4eda13150e85579778a114ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T04:02:12.742Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "깡",
+      "tags": [
+        "hololive",
+        "ホロライブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146693003_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146693003",
+      "sourceCreatedAt": "2026-07-01T11:35:59.000Z"
+    },
+    {
       "id": "4cb3bceb",
       "filename": "pixiv_146738096_p0.jpg",
       "path": "uploads/2026/07/19258735.jpg",
