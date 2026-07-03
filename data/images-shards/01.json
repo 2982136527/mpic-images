@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "54f25302",
+      "filename": "pixiv_146704474_p0.jpg",
+      "path": "uploads/2026/07/5261badc.jpg",
+      "size": 701169,
+      "width": 908,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f294031182e28b61e0162933790216e22541ae37cd06b7747b05cb7eed6ad0f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T10:53:20.441Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "お姉さま",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "NIKKE",
+        "シンデレラ(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146704474_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146704474",
+      "sourceCreatedAt": "2026-07-01T15:32:35.000Z"
+    },
+    {
       "id": "7ea00057",
       "filename": "pixiv_146714388_p0.jpg",
       "path": "uploads/2026/07/acf66515.jpg",
