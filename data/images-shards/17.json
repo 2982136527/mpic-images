@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "0b4bf346",
+      "filename": "pixiv_145611565_p0.jpg",
+      "path": "uploads/2026/07/7c9b5226.jpg",
+      "size": 1311397,
+      "width": 956,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c3a61bff68236e358f01869be18b91e86f391395febe3c1f350a156f95ba8fe8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T17:47:16.084Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Iuno",
+      "tags": [
+        "Iuno",
+        "ユーノ",
+        "鸣潮",
+        "ギリシャ型"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145611565_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145611565",
+      "sourceCreatedAt": "2026-06-04T15:24:31.000Z"
+    },
+    {
       "id": "d90346cd",
       "filename": "pixiv_146709230_p0.jpg",
       "path": "uploads/2026/07/dd21167f.jpg",
