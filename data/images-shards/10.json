@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "f66d16e5",
+      "filename": "pixiv_146703310_p0.jpg",
+      "path": "uploads/2026/07/eea403e1.jpg",
+      "size": 447709,
+      "width": 1200,
+      "height": 566,
+      "mimeType": "image/jpeg",
+      "hash": "a98406e3a46f0f3124e42d8bc7ccadfc15675ea30f61cb71a5eb76a8720b34ea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-03T03:59:45.730Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "6月rkgkLOG",
+      "tags": [
+        "漫画",
+        "FGO",
+        "ウルズ(Fate)",
+        "オルガマリー・アニムスフィア",
+        "虞美人(Fate)",
+        "ネモ(Fate)",
+        "コモリ・ハーコート",
+        "ディルムッド・オディナ(Fate)",
+        "李書文(Fate)",
+        "ブーディカ(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146703310_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146703310",
+      "sourceCreatedAt": "2026-07-01T15:42:23.000Z"
+    },
+    {
       "id": "37545cb0",
       "filename": "pixiv_146706266_p0.jpg",
       "path": "uploads/2026/07/35e38d29.jpg",
