@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "0e532d8f",
+      "filename": "pixiv_146530820_p0.jpg",
+      "path": "uploads/2026/07/477b0062.jpg",
+      "size": 922713,
+      "width": 1200,
+      "height": 552,
+      "mimeType": "image/jpeg",
+      "hash": "8ac756d874993df98aefde1fd3f3cc4d36c52704ba745352c3dcd66e0c411991",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:28:32.942Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "a memory",
+      "tags": [
+        "女の子",
+        "美少女",
+        "厚塗り",
+        "葬送的芙莉莲",
+        "芙莉莲"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146530820_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146530820",
+      "sourceCreatedAt": "2026-06-27T12:31:24.000Z"
+    },
+    {
       "id": "7e7662cd",
       "filename": "pixiv_146735258_p0.jpg",
       "path": "uploads/2026/07/dad06646.jpg",
