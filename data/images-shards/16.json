@@ -3,6 +3,28 @@
   "shardId": "16",
   "images": [
     {
+      "id": "3abb9926",
+      "filename": "pixiv_146724161_p0.jpg",
+      "path": "uploads/2026/07/0d2b2264.jpg",
+      "size": 513464,
+      "width": 759,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8d34080b76a4dc921f16a11e90fe40a141d82e34a36890808c861a42114b4543",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:55:14.148Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "山田ハジメまとめ",
+      "tags": [
+        "山田ハジメ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146724161_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146724161",
+      "sourceCreatedAt": "2026-07-02T08:37:52.000Z"
+    },
+    {
       "id": "b54d4a52",
       "filename": "pixiv_146731482_p0.jpg",
       "path": "uploads/2026/07/81bf69b3.jpg",
