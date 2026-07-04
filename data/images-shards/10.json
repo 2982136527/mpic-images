@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "66dcbe96",
+      "filename": "pixiv_146754606_p0.jpg",
+      "path": "uploads/2026/07/cef298bb.jpg",
+      "size": 1152757,
+      "width": 1200,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "8ea90cb8f0c46da4f3cd47168418bb905ce2e003e89e45072724324fc12beb1b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:52:09.214Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "シャノア・ノール",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "魔女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146754606_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146754606",
+      "sourceCreatedAt": "2026-07-03T03:17:25.000Z"
+    },
+    {
       "id": "54a0d6a0",
       "filename": "pixiv_146727652_p0.jpg",
       "path": "uploads/2026/07/e19facd7.jpg",
