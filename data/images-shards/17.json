@@ -3,6 +3,37 @@
   "shardId": "17",
   "images": [
     {
+      "id": "c2ffc7d3",
+      "filename": "pixiv_146744183_p0.jpg",
+      "path": "uploads/2026/07/a8f7109c.jpg",
+      "size": 455240,
+      "width": 795,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6dca0d21b07a76e34cc55f814db7f827c3bf63addffe2197a555ea6a64a31fbc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:21:37.156Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ナニモンナンジャ？サンプルです！",
+      "tags": [
+        "ナンジャモ",
+        "ポケモン",
+        "ナンジャモ(トレーナー)",
+        "ポケモン人間絵",
+        "ポケモンSV",
+        "女の子",
+        "ポケットモンスター",
+        "他者変身",
+        "skinsuit",
+        "皮モノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146744183_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146744183",
+      "sourceCreatedAt": "2026-07-02T16:48:51.000Z"
+    },
+    {
       "id": "0b4bf346",
       "filename": "pixiv_145611565_p0.jpg",
       "path": "uploads/2026/07/7c9b5226.jpg",
