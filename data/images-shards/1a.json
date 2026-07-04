@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "008e46b7",
+      "filename": "pixiv_146745538_p0.jpg",
+      "path": "uploads/2026/07/2783add6.jpg",
+      "size": 1409036,
+      "width": 879,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b60ac692fb949af88d20086cfe07632e3c75ac305e31bf5aad66c8b1aa754b94",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:57:42.856Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "史尔特尔＆泥岩",
+      "tags": [
+        "明日方舟",
+        "Arknights",
+        "アークナイツ",
+        "史尔特尔",
+        "泥岩"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146745538_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146745538",
+      "sourceCreatedAt": "2026-07-02T17:59:35.000Z"
+    },
+    {
       "id": "6c74984e",
       "filename": "pixiv_145650884_p0.jpg",
       "path": "uploads/2026/07/2d47a873.jpg",
