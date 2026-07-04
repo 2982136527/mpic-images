@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "c71cd257",
+      "filename": "pixiv_146727772_p0.jpg",
+      "path": "uploads/2026/07/41cbcbd1.jpg",
+      "size": 799739,
+      "width": 976,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3b1f3515a32a3004da6cc543fee9fdd13dd833473ccf053515e3b6e0475808ea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:24:35.934Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "女の子",
+        "BlueArchive",
+        "竜華キサキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146727772_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146727772",
+      "sourceCreatedAt": "2026-07-02T10:24:55.000Z"
+    },
+    {
       "id": "588276fb",
       "filename": "pixiv_146718989_p0.jpg",
       "path": "uploads/2026/07/2667004a.jpg",
