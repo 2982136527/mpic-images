@@ -3,6 +3,36 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "db6cd84c",
+      "filename": "pixiv_146718957_p0.jpg",
+      "path": "uploads/2026/07/2e331450.jpg",
+      "size": 1137268,
+      "width": 928,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f96399a01ddfbbafa591f78ca4878c6ad73e30820be15735e12b6fd06023f905",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:54:32.811Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "アークナイツ Log #45",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "パインコーン(アークナイツ)",
+        "エステーラ(エンドフィールド)",
+        "ティティ",
+        "ビーンストーク(アークナイツ)",
+        "アケクリ",
+        "ハーモニー(アークナイツ)",
+        "ススーロ(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146718957_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146718957",
+      "sourceCreatedAt": "2026-07-02T04:34:27.000Z"
+    },
+    {
       "id": "be148f2d",
       "filename": "pixiv_146703099_p0.jpg",
       "path": "uploads/2026/07/cec4224a.jpg",
