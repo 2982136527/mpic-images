@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "92d0bab2",
+      "filename": "pixiv_146740733_p0.jpg",
+      "path": "uploads/2026/07/47d268a0.jpg",
+      "size": 1412193,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7b910d5b3207e17b1759a413a7a7232f44830a31cebd2a34f2b18f6c34d85dc4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T17:18:58.348Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ソフトクリームの日",
+      "tags": [
+        "ポケモン",
+        "ゴンベ",
+        "なにこの仔かわいい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146740733_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146740733",
+      "sourceCreatedAt": "2026-07-02T15:07:18.000Z"
+    },
+    {
       "id": "fa87530e",
       "filename": "pixiv_146704424_p0.jpg",
       "path": "uploads/2026/07/3184b247.jpg",
