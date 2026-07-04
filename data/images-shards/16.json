@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "6a2bad37",
+      "filename": "pixiv_146716667_p0.jpg",
+      "path": "uploads/2026/07/040e7c02.jpg",
+      "size": 735613,
+      "width": 763,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cce98ea48ffca04e9769388827cc9139745a97072119eecf7e4c5cec0a5b9465",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:23:17.936Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "kui",
+      "tags": [
+        "少女",
+        "都市",
+        "現代",
+        "若叶睦"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146716667_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146716667",
+      "sourceCreatedAt": "2026-07-02T02:40:50.000Z"
+    },
+    {
       "id": "201fb177",
       "filename": "pixiv_146736268_p0.jpg",
       "path": "uploads/2026/07/75288ce7.jpg",
