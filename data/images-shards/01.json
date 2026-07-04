@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "fce43f04",
+      "filename": "pixiv_146738213_p0.jpg",
+      "path": "uploads/2026/07/4bc0c34f.jpg",
+      "size": 380497,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6145cc7201ac1d6faa224be846ef53d80b3373913d5cd5fa2cd84531937aedd5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:53:45.388Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ゲナメトろぐ3",
+      "tags": [
+        "相ウフ",
+        "ゲナメト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146738213_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146738213",
+      "sourceCreatedAt": "2026-07-02T14:18:23.000Z"
+    },
+    {
       "id": "54f25302",
       "filename": "pixiv_146704474_p0.jpg",
       "path": "uploads/2026/07/5261badc.jpg",
