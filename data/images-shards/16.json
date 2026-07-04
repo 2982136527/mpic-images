@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "201fb177",
+      "filename": "pixiv_146736268_p0.jpg",
+      "path": "uploads/2026/07/75288ce7.jpg",
+      "size": 1745306,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dcf9577117ba1e728f89035af8e8d50a95bd5699fc61e89fd27c25abe27023ef",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:23:02.085Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ビックリマークビックリマークビックリマーク",
+      "tags": [
+        "Deltarune",
+        "デルタルーン",
+        "Kris(Deltarune)",
+        "クリス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146736268_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146736268",
+      "sourceCreatedAt": "2026-07-02T13:35:04.000Z"
+    },
+    {
       "id": "91f95208",
       "filename": "pixiv_146709538_p0.jpg",
       "path": "uploads/2026/07/099a909e.jpg",
