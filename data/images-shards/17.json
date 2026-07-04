@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "cb992173",
+      "filename": "pixiv_146770588_p0.jpg",
+      "path": "uploads/2026/07/63141895.jpg",
+      "size": 795844,
+      "width": 1065,
+      "height": 1065,
+      "mimeType": "image/jpeg",
+      "hash": "e43fd026834893d57f34675bc84bbdcf667c77371ec2fe7f97984c6a9413b279",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:27:05.406Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "RKRNツイログ",
+      "tags": [
+        "RKRN",
+        "土井半助",
+        "山田利吉",
+        "摂津のきり丸"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146770588_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146770588",
+      "sourceCreatedAt": "2026-07-03T12:27:38.000Z"
+    },
+    {
       "id": "c2ffc7d3",
       "filename": "pixiv_146744183_p0.jpg",
       "path": "uploads/2026/07/a8f7109c.jpg",
