@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "5dace37a",
+      "filename": "pixiv_146763449_p0.jpg",
+      "path": "uploads/2026/07/c065eea7.jpg",
+      "size": 458596,
+      "width": 1200,
+      "height": 630,
+      "mimeType": "image/jpeg",
+      "hash": "127241b5da46848369ce48fe6cbf443964b086663e1a238d37ee68a186e63e23",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:27:50.097Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Queek headtaker & Ska",
+      "tags": [
+        "Skaven",
+        "furry"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146763449_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146763449",
+      "sourceCreatedAt": "2026-07-03T09:45:24.000Z"
+    },
+    {
       "id": "ac583144",
       "filename": "pixiv_146743195_p0.jpg",
       "path": "uploads/2026/07/2308779a.jpg",
