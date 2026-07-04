@@ -3,6 +3,28 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "0baaa8ca",
+      "filename": "pixiv_146739158_p0.jpg",
+      "path": "uploads/2026/07/c5ad15ca.jpg",
+      "size": 536313,
+      "width": 1200,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "6bb68b1543ce732649658f565f0b117a15f04caa24fce00255c8e6e8b6117967",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:51:34.245Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ンリくんの最期",
+      "tags": [
+        "ノスフェラトゥさん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146739158_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146739158",
+      "sourceCreatedAt": "2026-07-03T21:43:27.000Z"
+    },
+    {
       "id": "e3224288",
       "filename": "pixiv_146723336_p0.jpg",
       "path": "uploads/2026/07/6a990daa.jpg",
