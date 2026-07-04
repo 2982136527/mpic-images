@@ -3,6 +3,33 @@
   "shardId": "17",
   "images": [
     {
+      "id": "dc4904f6",
+      "filename": "pixiv_146723455_p0.jpg",
+      "path": "uploads/2026/07/03012481.jpg",
+      "size": 1164172,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "091f145293cecc9489f6fea3a1634f328dc319534c39873c95a280beaa3b3e8a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T17:18:11.169Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "マリー",
+      "tags": [
+        "ブルーアーカイブ",
+        "伊落マリー",
+        "ブルアカ",
+        "BlueArchive",
+        "伊落マリー(体操服)",
+        "블루아카이브"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146723455_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146723455",
+      "sourceCreatedAt": "2026-07-02T08:08:39.000Z"
+    },
+    {
       "id": "cb992173",
       "filename": "pixiv_146770588_p0.jpg",
       "path": "uploads/2026/07/63141895.jpg",
