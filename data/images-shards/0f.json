@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "5a5b8c04",
+      "filename": "pixiv_146740705_p0.jpg",
+      "path": "uploads/2026/07/27084076.jpg",
+      "size": 1483300,
+      "width": 821,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "53ad21a77288ce0b7554d04ef9d4bee34fb6a6b4bfa1037d561d5e4e702d33c6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:52:24.097Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Haku",
+      "tags": [
+        "KAITO",
+        "零ノ桜・白雪",
+        "ProjectDIVA",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146740705_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146740705",
+      "sourceCreatedAt": "2026-07-02T15:06:49.000Z"
+    },
+    {
       "id": "363eb8f8",
       "filename": "pixiv_146663456_p0.jpg",
       "path": "uploads/2026/07/97cce2a6.jpg",
