@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "7e0fe16d",
+      "filename": "pixiv_146718469_p0.jpg",
+      "path": "uploads/2026/07/deb1b45b.jpg",
+      "size": 1272639,
+      "width": 819,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "16ada9c298d6b43b808b551cecb5414c764c1d00d26626d3415e80b1fcef4802",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:50:52.421Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "黒髪と黒猫",
+      "tags": [
+        "オリジナル",
+        "黒髪ロング",
+        "黒猫",
+        "創作",
+        "キャラクターデザイン",
+        "オリジナル100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146718469_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146718469",
+      "sourceCreatedAt": "2026-07-02T04:05:51.000Z"
+    },
+    {
       "id": "deb87d34",
       "filename": "pixiv_146727616_p0.jpg",
       "path": "uploads/2026/07/85081406.jpg",
