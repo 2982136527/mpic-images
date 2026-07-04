@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "150eb5ed",
+      "filename": "pixiv_146743286_p0.jpg",
+      "path": "uploads/2026/07/b70c3fe6.jpg",
+      "size": 1252410,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "ca8628bd40185018c3fb0a3ff008b568bb35486966b4b2435f734ac07c7b67a3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:21:43.128Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "NIKKE 3.5周年",
+      "tags": [
+        "NIKKE",
+        "NIKKE三周年半記念"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146743286_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146743286",
+      "sourceCreatedAt": "2026-07-02T16:16:44.000Z"
+    },
+    {
       "id": "def62003",
       "filename": "pixiv_146727087_p0.jpg",
       "path": "uploads/2026/07/667b77f8.jpg",
