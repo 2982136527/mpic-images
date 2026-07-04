@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "764a3d0f",
+      "filename": "pixiv_146773211_p0.jpg",
+      "path": "uploads/2026/07/99f69843.jpg",
+      "size": 607536,
+      "width": 725,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "03cde09c7f5f3c48650416874d07487911e68caeda2f1e0ca9483ea4c5060d5e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:27:30.916Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "シュヴァルらくがき",
+      "tags": [
+        "シュヴァルグラン(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "Grand_itinéraire",
+        "夏凪ネイビードロップ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146773211_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146773211",
+      "sourceCreatedAt": "2026-07-03T13:19:34.000Z"
+    },
+    {
       "id": "c54be2f9",
       "filename": "pixiv_146751007_p0.jpg",
       "path": "uploads/2026/07/300707c5.jpg",
