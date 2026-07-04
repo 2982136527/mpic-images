@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "f1fca1cc",
+      "filename": "pixiv_146727356_p0.jpg",
+      "path": "uploads/2026/07/43561005.jpg",
+      "size": 648220,
+      "width": 833,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09c0caf69f97db9ac61abd911f6035ad113740fc264b9677c2be08459d3bcfb7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:20:59.245Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "るいねね78",
+      "tags": [
+        "類寧々"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146727356_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146727356",
+      "sourceCreatedAt": "2026-07-02T10:12:01.000Z"
+    },
+    {
       "id": "281380fb",
       "filename": "pixiv_146737979_p0.jpg",
       "path": "uploads/2026/07/56e94e9b.jpg",
