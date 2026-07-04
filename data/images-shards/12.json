@@ -3,6 +3,37 @@
   "shardId": "12",
   "images": [
     {
+      "id": "228b533b",
+      "filename": "pixiv_146762587_p0.jpg",
+      "path": "uploads/2026/07/840a7738.jpg",
+      "size": 1263563,
+      "width": 1200,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "5f88edb637ab5f09329e88484331f62f99e8e3d88c90f37b613d9ee1a67e3564",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:54:27.603Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "宴はこれからだよ！",
+      "tags": [
+        "大神ミオ",
+        "ホワイトブリニャン",
+        "みおーん絵",
+        "星街すいせい",
+        "ほしまちぎゃらりー",
+        "さくらみこ",
+        "miko_art",
+        "黒上フブキ",
+        "白上フブキ",
+        "絵フブキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146762587_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146762587",
+      "sourceCreatedAt": "2026-07-03T09:17:00.000Z"
+    },
+    {
       "id": "7831553c",
       "filename": "pixiv_146704551_p0.jpg",
       "path": "uploads/2026/07/697bac2a.jpg",
