@@ -3,6 +3,34 @@
   "shardId": "10",
   "images": [
     {
+      "id": "c54be2f9",
+      "filename": "pixiv_146751007_p0.jpg",
+      "path": "uploads/2026/07/300707c5.jpg",
+      "size": 587892,
+      "width": 1091,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "67581175d38d9dc63dd5b44e4456d05884a6e6fa2a98fa637b73c36739d7f2e9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:27:10.607Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ティーパーティー入れ替わり漫画",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "ティーパーティー(ブルーアーカイブ)",
+        "聖園ミカ",
+        "百合園セイア",
+        "桐藤ナギサ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146751007_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146751007",
+      "sourceCreatedAt": "2026-07-02T23:58:12.000Z"
+    },
+    {
       "id": "eb834b55",
       "filename": "pixiv_146734481_p0.jpg",
       "path": "uploads/2026/07/ddb3027b.jpg",
