@@ -3,6 +3,34 @@
   "shardId": "10",
   "images": [
     {
+      "id": "1e57ad6d",
+      "filename": "pixiv_146742008_p0.jpg",
+      "path": "uploads/2026/07/04fafab4.jpg",
+      "size": 1204917,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "05e1f836c3e5ff4a109203209daa9b69362538143b019b906123b8f905d1fa5a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:53:08.380Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "弭弗",
+        "终末地",
+        "明日方舟",
+        "明日方舟终末地",
+        "arknights",
+        "背景",
+        "アークナイツ:エンドフィールド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146742008_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146742008",
+      "sourceCreatedAt": "2026-07-02T15:38:17.000Z"
+    },
+    {
       "id": "66dcbe96",
       "filename": "pixiv_146754606_p0.jpg",
       "path": "uploads/2026/07/cef298bb.jpg",
