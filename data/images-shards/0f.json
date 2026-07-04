@@ -3,6 +3,37 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "d9d5e6d6",
+      "filename": "pixiv_146717514_p0.jpg",
+      "path": "uploads/2026/07/f7aec997.jpg",
+      "size": 954604,
+      "width": 864,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "486f3d6249fead7f4f4d211bac2ce9bfea531786576103902fde5ec31be51b08",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:52:54.367Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "블루아카이브",
+        "ブルアカ",
+        "BlueArchive",
+        "ゲーム開発部",
+        "ケイ(ブルーアーカイブ)",
+        "天童アリス",
+        "才羽ミドリ",
+        "才羽モモイ",
+        "花岡ユズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146717514_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146717514",
+      "sourceCreatedAt": "2026-07-02T03:18:46.000Z"
+    },
+    {
       "id": "5f9dd303",
       "filename": "pixiv_146747301_p0.jpg",
       "path": "uploads/2026/07/c54101b1.jpg",
