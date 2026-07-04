@@ -3,6 +3,33 @@
   "shardId": "04",
   "images": [
     {
+      "id": "05d88575",
+      "filename": "pixiv_146744298_p0.jpg",
+      "path": "uploads/2026/07/d78bc388.jpg",
+      "size": 560452,
+      "width": 619,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7cecd42e3b86977b16b39383682d23198292fa4449dd1a8c956c62e9c3f9959f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:23:39.390Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "手塚らくがき",
+      "tags": [
+        "手塚治虫",
+        "アセチレン・ランプ",
+        "火の鳥",
+        "鉄腕アトム",
+        "天馬博士",
+        "夢絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146744298_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146744298",
+      "sourceCreatedAt": "2026-07-02T16:54:26.000Z"
+    },
+    {
       "id": "e3f1b7be",
       "filename": "pixiv_146756444_p0.jpg",
       "path": "uploads/2026/07/425e244a.jpg",
