@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "16a83c90",
+      "filename": "pixiv_146762386_p0.jpg",
+      "path": "uploads/2026/07/cbf5dfd4.jpg",
+      "size": 627292,
+      "width": 1200,
+      "height": 811,
+      "mimeType": "image/jpeg",
+      "hash": "f1045a53a32f40023c522635055db2c521da22ce6c76497b16fced7ca29c8110",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T17:15:18.142Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "my液タブ",
+      "tags": [
+        "液タブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146762386_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146762386",
+      "sourceCreatedAt": "2026-07-03T09:10:07.000Z"
+    },
+    {
       "id": "a7aac9b1",
       "filename": "pixiv_146761578_p0.jpg",
       "path": "uploads/2026/07/83e91023.jpg",
