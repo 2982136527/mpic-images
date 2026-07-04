@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "d8c5f688",
+      "filename": "pixiv_146713305_p0.jpg",
+      "path": "uploads/2026/07/56ddd945.jpg",
+      "size": 873062,
+      "width": 983,
+      "height": 1061,
+      "mimeType": "image/jpeg",
+      "hash": "dd00bc525ec4f613f4409c3abc1dbe75bdc0959d372951b1b242e8abe44a7130",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T17:16:53.818Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ピースピース",
+      "tags": [
+        "葬送のフリーレン",
+        "合法"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146713305_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146713305",
+      "sourceCreatedAt": "2026-07-01T23:20:35.000Z"
+    },
+    {
       "id": "64ed1a1f",
       "filename": "pixiv_146745960_p0.jpg",
       "path": "uploads/2026/07/64430090.jpg",
