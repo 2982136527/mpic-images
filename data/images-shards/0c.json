@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "d11229ad",
+      "filename": "pixiv_146720605_p0.jpg",
+      "path": "uploads/2026/07/6738e180.jpg",
+      "size": 776955,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "82dd011d27641ac4db4db0599061ad91fc7e0f6fc66713e445add924b480b1e7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T17:16:46.927Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "식칼",
+      "tags": [
+        "hololive",
+        "ホロライブ",
+        "バーチャルYouTuber500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146720605_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146720605",
+      "sourceCreatedAt": "2026-07-02T05:58:58.000Z"
+    },
+    {
       "id": "d43ecb46",
       "filename": "pixiv_146562667_p0.jpg",
       "path": "uploads/2026/07/c6345ef7.jpg",
