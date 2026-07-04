@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "7a99194e",
+      "filename": "pixiv_146709502_p0.jpg",
+      "path": "uploads/2026/07/d9ae8bf8.jpg",
+      "size": 1026644,
+      "width": 621,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6495be4d2c5be0ec470010a30dedfd34474ebfc007be6ee53c4112b5828a91bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:19:33.733Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "シーシィア",
+      "tags": [
+        "シーシィア",
+        "ZZZ",
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ5000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146709502_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146709502",
+      "sourceCreatedAt": "2026-07-01T19:18:50.000Z"
+    },
+    {
       "id": "1f19d989",
       "filename": "pixiv_146707308_p0.jpg",
       "path": "uploads/2026/07/5e4b642c.jpg",
