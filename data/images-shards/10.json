@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "eb834b55",
+      "filename": "pixiv_146734481_p0.jpg",
+      "path": "uploads/2026/07/ddb3027b.jpg",
+      "size": 948990,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "deda9550781a8bc2e61c689311719aae0ae1275dc52499785f128287dc648d5f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:22:04.802Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "水着シンデレラ",
+      "tags": [
+        "NIKKE",
+        "NIKKEFanart",
+        "シンデレラ(勝利の女神:NIKKE)",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146734481_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146734481",
+      "sourceCreatedAt": "2026-07-02T13:00:05.000Z"
+    },
+    {
       "id": "6c175829",
       "filename": "pixiv_146765127_p0.jpg",
       "path": "uploads/2026/07/88337d72.jpg",
