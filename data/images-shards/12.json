@@ -3,6 +3,35 @@
   "shardId": "12",
   "images": [
     {
+      "id": "fd63f76a",
+      "filename": "pixiv_146764460_p0.jpg",
+      "path": "uploads/2026/07/672958db.jpg",
+      "size": 1067559,
+      "width": 1200,
+      "height": 873,
+      "mimeType": "image/jpeg",
+      "hash": "f4333ace22d88ca9baf6c02a2068196421b10e98de13213792e224e8817c1b23",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:53:54.790Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "快足龍行",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "ファンタジー",
+        "擬人化",
+        "妖怪",
+        "龍",
+        "女性",
+        "和洋折衷"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146764460_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146764460",
+      "sourceCreatedAt": "2026-07-03T10:10:01.000Z"
+    },
+    {
       "id": "68414cd1",
       "filename": "pixiv_146731917_p0.jpg",
       "path": "uploads/2026/07/571a6ba0.jpg",
