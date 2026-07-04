@@ -3,6 +3,36 @@
   "shardId": "07",
   "images": [
     {
+      "id": "0f964724",
+      "filename": "pixiv_145669082_p0.jpg",
+      "path": "uploads/2026/07/95422462.jpg",
+      "size": 811563,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e7e07db506e8323b5e24f76c416b89f477384de0397b66b8f0e8470f727ef50d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:26:12.033Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "キサキ❤先生44",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "블루아카이브",
+        "竜華キサキ",
+        "キサキ",
+        "キサキ(ブルーアーカイブ)",
+        "先生(ブルーアーカイブ)",
+        "卑しい…卑しい〜!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145669082_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145669082",
+      "sourceCreatedAt": "2026-06-06T05:06:51.000Z"
+    },
+    {
       "id": "fded6d29",
       "filename": "pixiv_146745692_p0.jpg",
       "path": "uploads/2026/07/6bcd6257.jpg",
