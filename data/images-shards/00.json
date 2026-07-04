@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "af5a6819",
+      "filename": "pixiv_146732686_p0.jpg",
+      "path": "uploads/2026/07/32c7d2c8.jpg",
+      "size": 532633,
+      "width": 1200,
+      "height": 1019,
+      "mimeType": "image/jpeg",
+      "hash": "3792a2fafc7228441a5ccea258c2ca28695a368da7e088d73078aea719b05f5f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:54:00.498Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "梅雨と雨上がり",
+      "tags": [
+        "プロジェクトセカイ",
+        "プロセカ",
+        "草薙寧々",
+        "花里みのり",
+        "東雲絵名",
+        "ニーゴミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146732686_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146732686",
+      "sourceCreatedAt": "2026-07-02T12:20:30.000Z"
+    },
+    {
       "id": "7c114fbd",
       "filename": "pixiv_146722905_p0.jpg",
       "path": "uploads/2026/07/489a9e22.jpg",
