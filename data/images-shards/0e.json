@@ -3,6 +3,35 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "a39f9f68",
+      "filename": "pixiv_145739909_p0.jpg",
+      "path": "uploads/2026/07/376309f7.jpg",
+      "size": 561107,
+      "width": 740,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0adc44d123817c1cf42f7583e09b329c0f1c0b6f549301086885b785372a8804",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:28:45.238Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【FGO】新章",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "オルガマリー・アニムスフィア",
+        "ゴルドルフ・ムジーク",
+        "マシュ・キリエライト",
+        "全て遠き理想郷",
+        "ロマニ・アーキマン",
+        "Fate/GO1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145739909_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145739909",
+      "sourceCreatedAt": "2026-06-07T15:00:50.000Z"
+    },
+    {
       "id": "06629935",
       "filename": "pixiv_146709459_p0.jpg",
       "path": "uploads/2026/07/4e65b8e2.jpg",
