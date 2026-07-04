@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "8d23fcbe",
+      "filename": "pixiv_146702767_p0.jpg",
+      "path": "uploads/2026/07/86ec1ea3.jpg",
+      "size": 759150,
+      "width": 709,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1e5ab8c8289813d83e39ababc908df573abe3814f2927ea0ba8e57273992258d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T17:17:26.284Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "リンちゃん",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "七神リン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146702767_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146702767",
+      "sourceCreatedAt": "2026-07-01T15:00:29.000Z"
+    },
+    {
       "id": "16d6e149",
       "filename": "pixiv_146748935_p0.jpg",
       "path": "uploads/2026/07/d2d70c5e.jpg",
