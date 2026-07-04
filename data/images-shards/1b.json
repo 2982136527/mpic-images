@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "d74f4dc0",
+      "filename": "pixiv_145673890_p0.jpg",
+      "path": "uploads/2026/07/90dce0fe.jpg",
+      "size": 474733,
+      "width": 721,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "211b28ba4791e324cc184137926417dfc5355266f359a5e75162727faf4408e5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:56:40.165Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "偶像の魔女 - 蟹枝ミナト",
+      "tags": [
+        "オリジナル",
+        "ReSURGUM",
+        "魔法少女",
+        "白タイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145673890_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145673890",
+      "sourceCreatedAt": "2026-06-06T08:00:04.000Z"
+    },
+    {
       "id": "0ae11966",
       "filename": "pixiv_146703620_p0.jpg",
       "path": "uploads/2026/07/457dadab.jpg",
