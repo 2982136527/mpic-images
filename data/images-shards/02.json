@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "aec5eb17",
+      "filename": "pixiv_146548292_p0.jpg",
+      "path": "uploads/2026/07/2b689634.jpg",
+      "size": 940609,
+      "width": 1089,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d26b2743a07422f804433f3e927f9948bb9a14e8357de7fafdfff0216bf20910",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T03:56:04.888Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "mcmt",
+      "tags": [
+        "星街すいせい",
+        "さくらみこ",
+        "みこめっと",
+        "micomet"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146548292_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146548292",
+      "sourceCreatedAt": "2026-06-27T21:32:12.000Z"
+    },
+    {
       "id": "88a6a908",
       "filename": "pixiv_146468624_p0.jpg",
       "path": "uploads/2026/07/473c871d.jpg",
