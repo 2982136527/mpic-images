@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "faa0a34b",
+      "filename": "pixiv_146745474_p0.jpg",
+      "path": "uploads/2026/07/e179d64b.jpg",
+      "size": 905740,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e6cdb916ec69fcd3e6c12e8e8680cbcd924fd203e7ad7f439af053cf2dd54088",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-04T10:27:37.524Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【星に願いを2026】7/5 ごけさに 新刊サンプル",
+      "tags": [
+        "ごけさに",
+        "刀さに"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146745474_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146745474",
+      "sourceCreatedAt": "2026-07-02T17:55:11.000Z"
+    },
+    {
       "id": "7d0b632e",
       "filename": "pixiv_146746389_p0.jpg",
       "path": "uploads/2026/07/e3856269.jpg",
