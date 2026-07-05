@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "c7a3add4",
+      "filename": "pixiv_145692882_p0.jpg",
+      "path": "uploads/2026/07/4cf23702.jpg",
+      "size": 824004,
+      "width": 726,
+      "height": 1026,
+      "mimeType": "image/jpeg",
+      "hash": "2d9ed512de94af34946fb97fbe33e6bebe5b898c991ecf75957a57e3a9f6553a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:30:45.177Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "賞金稼ぎ",
+      "tags": [
+        "スターウォーズ",
+        "エンボ",
+        "マンダロリアン・アンド・グローグー",
+        "STARWARS1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145692882_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145692882",
+      "sourceCreatedAt": "2026-06-06T15:00:21.000Z"
+    },
+    {
       "id": "13911dee",
       "filename": "pixiv_146802220_p0.jpg",
       "path": "uploads/2026/07/c1543700.jpg",
