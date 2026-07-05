@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "48c6801f",
+      "filename": "pixiv_146794644_p0.jpg",
+      "path": "uploads/2026/07/fbad2e57.jpg",
+      "size": 1533479,
+      "width": 1200,
+      "height": 682,
+      "mimeType": "image/jpeg",
+      "hash": "ca72bf1568da9b18b55219e049ce53b8dea56da2ed6dea45a697d69600ef83e8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T17:22:30.187Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "落花",
+      "tags": [
+        "女の子",
+        "桜",
+        "板绘",
+        "插画",
+        "commission"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146794644_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146794644",
+      "sourceCreatedAt": "2026-07-04T03:00:56.000Z"
+    },
+    {
       "id": "2c9cba99",
       "filename": "pixiv_146778063_p0.jpg",
       "path": "uploads/2026/07/1213fb81.jpg",
