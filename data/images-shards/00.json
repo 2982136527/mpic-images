@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "de53fc63",
+      "filename": "pixiv_146764292_p0.jpg",
+      "path": "uploads/2026/07/60986b20.jpg",
+      "size": 860165,
+      "width": 802,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "11c1761c986cfb304c243ad996530983d8df090fd3d67c1ae790a2b53aa030e8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:27:51.533Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "エステーラ",
+      "tags": [
+        "エステーラ(エンドフィールド)",
+        "アークナイツ:エンドフィールド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146764292_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146764292",
+      "sourceCreatedAt": "2026-07-03T10:05:14.000Z"
+    },
+    {
       "id": "e414f95a",
       "filename": "pixiv_146740464_p0.jpg",
       "path": "uploads/2026/07/d806d798.jpg",
