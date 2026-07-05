@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "ab7a3ae9",
+      "filename": "pixiv_146772283_p0.jpg",
+      "path": "uploads/2026/07/76c3c3dc.jpg",
+      "size": 1113295,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3015aee3b91921ca7942cc55ee074af6bbd1d639a12a486b36209dcc099b8c1b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:08:35.453Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "マジカルミライ2026",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ボカロ",
+        "HatsuneMiku",
+        "マジカルミライ2026"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146772283_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146772283",
+      "sourceCreatedAt": "2026-07-03T13:00:36.000Z"
+    },
+    {
       "id": "16a83c90",
       "filename": "pixiv_146762386_p0.jpg",
       "path": "uploads/2026/07/cbf5dfd4.jpg",
