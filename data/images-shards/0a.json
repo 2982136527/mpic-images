@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "adfe1bd2",
+      "filename": "pixiv_146748240_p0.jpg",
+      "path": "uploads/2026/07/c0bee8bc.jpg",
+      "size": 1407537,
+      "width": 1200,
+      "height": 801,
+      "mimeType": "image/jpeg",
+      "hash": "3d9e3491692093a9a6604e5eb022c3f08899aaf7a1f911c6db48f4b66602861c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:25:35.243Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Cartethyia",
+      "tags": [
+        "カルテジア",
+        "Cartethyia",
+        "WutheringWaves",
+        "鳴潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146748240_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146748240",
+      "sourceCreatedAt": "2026-07-02T21:13:27.000Z"
+    },
+    {
       "id": "f65313f8",
       "filename": "pixiv_145697204_p0.jpg",
       "path": "uploads/2026/07/2a75b8c3.jpg",
