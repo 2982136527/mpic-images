@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "db46c7d6",
+      "filename": "pixiv_146744022_p0.jpg",
+      "path": "uploads/2026/07/a54abca4.jpg",
+      "size": 484287,
+      "width": 712,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c7cdfb82b8eb62caa2b43bfaad9960292f4a749de635a424743ae0d8b08e48b3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:08:31.587Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "6月に描いた落書きまとめ(2026)",
+      "tags": [
+        "東方Project",
+        "東方",
+        "落書きまとめ",
+        "2026落書きまとめ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146744022_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146744022",
+      "sourceCreatedAt": "2026-07-02T16:42:09.000Z"
+    },
+    {
       "id": "b2e643f3",
       "filename": "pixiv_146759694_p0.jpg",
       "path": "uploads/2026/07/19639696.jpg",
