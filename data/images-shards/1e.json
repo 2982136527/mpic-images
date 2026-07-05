@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "2ee9ce2c",
+      "filename": "pixiv_146772956_p0.jpg",
+      "path": "uploads/2026/07/847bbcad.jpg",
+      "size": 884283,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d2f821ed08ed9d166a47be276f8737018352ede579f70c31e2570152548da1cb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:27:46.509Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "drawitagain",
+        "オリジナル",
+        "創作",
+        "白と黒"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146772956_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146772956",
+      "sourceCreatedAt": "2026-07-04T08:50:13.000Z"
+    },
+    {
       "id": "4b39bb0a",
       "filename": "pixiv_146610379_p0.jpg",
       "path": "uploads/2026/07/1ec3c188.jpg",
