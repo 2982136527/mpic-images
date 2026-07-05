@@ -3,6 +3,33 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "e0de8f03",
+      "filename": "pixiv_146764555_p0.jpg",
+      "path": "uploads/2026/07/eb76fee1.jpg",
+      "size": 292586,
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/jpeg",
+      "hash": "2b3d9e17eb2415c2e5b1fa44fad68af83607abbb25b9a6e49c12d46544db7fa7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:11:35.476Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ヤニねこ",
+      "tags": [
+        "ヤニねこ",
+        "佐藤ヤニ子",
+        "nevermind",
+        "ニルヴァーナ",
+        "水中",
+        "Nirvana"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146764555_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146764555",
+      "sourceCreatedAt": "2026-07-03T10:12:33.000Z"
+    },
+    {
       "id": "57595dfb",
       "filename": "pixiv_146748863_p0.jpg",
       "path": "uploads/2026/07/32ce778e.jpg",
