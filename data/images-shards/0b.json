@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "36dc8730",
+      "filename": "pixiv_146766274_p0.jpg",
+      "path": "uploads/2026/07/aa78da9b.jpg",
+      "size": 915000,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "24728039bc6d5abd246e900f9daf2aafe0e2689459e49d69bfe1e59d39976ca5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:10:19.373Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "徒花",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146766274_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146766274",
+      "sourceCreatedAt": "2026-07-03T11:00:06.000Z"
+    },
+    {
       "id": "57e4e807",
       "filename": "pixiv_146774072_p0.jpg",
       "path": "uploads/2026/07/74d6051d.jpg",
