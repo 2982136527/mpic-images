@@ -3,6 +3,33 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "6baa35bd",
+      "filename": "pixiv_146632727_p0.jpg",
+      "path": "uploads/2026/07/2d45a286.jpg",
+      "size": 537420,
+      "width": 920,
+      "height": 872,
+      "mimeType": "image/jpeg",
+      "hash": "29cc7b8b922207fb853fcfe7a7fb726c3959e212b2428886807f9833b6e8a03b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:14:43.769Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "個人メモ：指と手の平は連動する",
+      "tags": [
+        "漫画素材工房",
+        "描き方",
+        "人体",
+        "身体",
+        "美術解剖学",
+        "手"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146632727_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146632727",
+      "sourceCreatedAt": "2026-06-29T21:00:13.000Z"
+    },
+    {
       "id": "169b5d9b",
       "filename": "pixiv_146803387_p0.jpg",
       "path": "uploads/2026/07/7421b8ad.jpg",
