@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "4706bf52",
+      "filename": "pixiv_146812077_p0.jpg",
+      "path": "uploads/2026/07/f7c9752a.jpg",
+      "size": 207875,
+      "width": 720,
+      "height": 884,
+      "mimeType": "image/jpeg",
+      "hash": "ccc1353e41363efbb39668858cbfa3b68fdad87688c4558c861f374420cc83e5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T17:23:18.813Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "やばたにえん(ゲーム)",
+        "どうしてこうなっ大賞"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146812077_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146812077",
+      "sourceCreatedAt": "2026-07-04T11:49:42.000Z"
+    },
+    {
       "id": "335a0a8c",
       "filename": "pixiv_146775176_p0.jpg",
       "path": "uploads/2026/07/11ac2a2e.jpg",
