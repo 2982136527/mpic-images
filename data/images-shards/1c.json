@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "624e1956",
+      "filename": "pixiv_146753204_p0.jpg",
+      "path": "uploads/2026/07/7dfd42cc.jpg",
+      "size": 776364,
+      "width": 1200,
+      "height": 964,
+      "mimeType": "image/jpeg",
+      "hash": "6a3eb301c4eccb702a7c07bfd656b901d5b6a47f135c161db7609191f700afb8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:28:43.286Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "アオバ",
+      "tags": [
+        "内海アオバ",
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146753204_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146753204",
+      "sourceCreatedAt": "2026-07-03T02:07:15.000Z"
+    },
+    {
       "id": "b03e9d76",
       "filename": "pixiv_146776619_p0.jpg",
       "path": "uploads/2026/07/ee45e245.jpg",
