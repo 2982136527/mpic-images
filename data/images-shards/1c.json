@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "b03e9d76",
+      "filename": "pixiv_146776619_p0.jpg",
+      "path": "uploads/2026/07/ee45e245.jpg",
+      "size": 597987,
+      "width": 728,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e26f4ce5341b59a91265905174599b78d4b6228526fb48b8dbbcda3645529138",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:26:30.049Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "モルガン",
+      "tags": [
+        "モルガン(Fate)",
+        "Fate/GrandOrder",
+        "FGO"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146776619_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146776619",
+      "sourceCreatedAt": "2026-07-03T14:30:12.000Z"
+    },
+    {
       "id": "ce3b1768",
       "filename": "pixiv_146809770_p0.jpg",
       "path": "uploads/2026/07/a8565f13.jpg",
