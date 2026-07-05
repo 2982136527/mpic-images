@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "be99f538",
+      "filename": "pixiv_145699273_p0.jpg",
+      "path": "uploads/2026/07/7ae7a884.jpg",
+      "size": 631633,
+      "width": 933,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9f360643ab3435ebc29e705af9d26caa814e40844149ea9526711c6e46584ad0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T17:27:59.609Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "summer start",
+      "tags": [
+        "オリキャラ",
+        "オリジナル",
+        "Minah"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145699273_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145699273",
+      "sourceCreatedAt": "2026-06-06T18:13:20.000Z"
+    },
+    {
       "id": "cae9080c",
       "filename": "pixiv_145706828_p0.jpg",
       "path": "uploads/2026/07/67b2d06c.jpg",
