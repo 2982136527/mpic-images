@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "4873045c",
+      "filename": "pixiv_146602105_p0.jpg",
+      "path": "uploads/2026/07/012a4281.jpg",
+      "size": 568927,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "673771c30c4b951fc34761c3aa70a55580fb537786616032bf3e24615a966c38",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:30:00.680Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "5徹",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "天雨アコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146602105_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146602105",
+      "sourceCreatedAt": "2026-06-29T04:17:20.000Z"
+    },
+    {
       "id": "f5bc75fa",
       "filename": "pixiv_146792501_p0.jpg",
       "path": "uploads/2026/07/32549d0c.jpg",
