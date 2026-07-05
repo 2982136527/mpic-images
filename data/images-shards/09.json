@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "a5d8bbe6",
+      "filename": "pixiv_146784972_p0.jpg",
+      "path": "uploads/2026/07/a5c57f7c.jpg",
+      "size": 1125637,
+      "width": 1200,
+      "height": 1152,
+      "mimeType": "image/jpeg",
+      "hash": "8dce327ba1a95b052135c4f4939aaeb13d856e8de51f0de1fa44786864797468",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:26:15.111Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "女の子",
+        "白髪",
+        "オリジナル",
+        "花"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146784972_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146784972",
+      "sourceCreatedAt": "2026-07-03T18:46:26.000Z"
+    },
+    {
       "id": "cd6a8d22",
       "filename": "pixiv_146778790_p0.jpg",
       "path": "uploads/2026/07/17fd8c5a.jpg",
