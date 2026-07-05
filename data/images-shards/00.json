@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "e414f95a",
+      "filename": "pixiv_146740464_p0.jpg",
+      "path": "uploads/2026/07/d806d798.jpg",
+      "size": 848354,
+      "width": 854,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "78ea7e0a90e1bdee4b968a7b6d2234e5ca693bc1635b557578dee7cece8f17d1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:26:54.752Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "o3o",
+      "tags": [
+        "BlueArchive",
+        "ブルーアーカイブ",
+        "尾刃カンナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146740464_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146740464",
+      "sourceCreatedAt": "2026-07-02T15:03:00.000Z"
+    },
+    {
       "id": "98353993",
       "filename": "pixiv_146799139_p0.jpg",
       "path": "uploads/2026/07/b8f6751b.jpg",
