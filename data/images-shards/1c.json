@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "7989c67d",
+      "filename": "pixiv_146795724_p0.jpg",
+      "path": "uploads/2026/07/4f10ffc3.jpg",
+      "size": 958072,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "97c8f2ec6f166457882ab3109a45c32672b38eb2cbfc0c41d918bb9087e7f45f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:12:37.264Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ノア",
+      "tags": [
+        "ブルーアーカイブ",
+        "生塩ノア",
+        "ワンピース",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146795724_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146795724",
+      "sourceCreatedAt": "2026-07-04T03:38:41.000Z"
+    },
+    {
       "id": "a572cf64",
       "filename": "pixiv_146778866_p0.jpg",
       "path": "uploads/2026/07/b8f2d7cc.jpg",
