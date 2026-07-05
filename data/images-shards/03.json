@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "02f5a199",
+      "filename": "pixiv_145722202_p0.jpg",
+      "path": "uploads/2026/07/1e167e5b.jpg",
+      "size": 1241654,
+      "width": 772,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f677b527b4b1e17655ed2a426473889c5a4c45502e82600d073802763cb6c491",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:30:28.481Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "踊って！",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145722202_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145722202",
+      "sourceCreatedAt": "2026-06-07T09:11:29.000Z"
+    },
+    {
       "id": "afd6fb70",
       "filename": "pixiv_146791474_p0.jpg",
       "path": "uploads/2026/07/b23604d5.jpg",
