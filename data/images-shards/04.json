@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "a3b2b851",
+      "filename": "pixiv_146785910_p0.jpg",
+      "path": "uploads/2026/07/43168fb0.jpg",
+      "size": 1411050,
+      "width": 817,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d9082edb6235d3d0c0072bee63ea8275eb48a6f0992dca26198dad0e31da3226",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:09:37.647Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "メダリスト",
+        "結束いのり",
+        "狼嵜光",
+        "二次創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146785910_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146785910",
+      "sourceCreatedAt": "2026-07-03T19:55:25.000Z"
+    },
+    {
       "id": "7cff99c2",
       "filename": "pixiv_146743736_p0.jpg",
       "path": "uploads/2026/07/1450ac6e.jpg",
