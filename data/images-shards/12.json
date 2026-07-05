@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "d98c705b",
+      "filename": "pixiv_146813025_p0.jpg",
+      "path": "uploads/2026/07/227d5ada.jpg",
+      "size": 674314,
+      "width": 743,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7d07c06c8be1f2c8bdebb3eb2a72e906de1bcb727c9836c0e1bf1e2fac4f0421",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:16:12.185Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ノア",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "生塩ノア",
+        "てへぺろ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146813025_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146813025",
+      "sourceCreatedAt": "2026-07-04T12:05:52.000Z"
+    },
+    {
       "id": "af0ed1dd",
       "filename": "pixiv_146770359_p0.jpg",
       "path": "uploads/2026/07/f83f65a0.jpg",
