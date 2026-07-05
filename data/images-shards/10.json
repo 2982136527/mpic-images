@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "fbf8a7c2",
+      "filename": "pixiv_146811379_p0.jpg",
+      "path": "uploads/2026/07/edcaec15.jpg",
+      "size": 1057212,
+      "width": 826,
+      "height": 1169,
+      "mimeType": "image/jpeg",
+      "hash": "953045fd0e8eed2b48d1e0945e2e9940f860015c0fda3ef87a34d63688206b13",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T17:20:35.632Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "モルフォ蝶",
+      "tags": [
+        "フランドール・スカーレット",
+        "東方",
+        "東方Project",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146811379_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146811379",
+      "sourceCreatedAt": "2026-07-04T11:31:33.000Z"
+    },
+    {
       "id": "452d4cb7",
       "filename": "pixiv_146755818_p0.jpg",
       "path": "uploads/2026/07/5519b335.jpg",
