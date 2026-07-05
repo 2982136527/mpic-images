@@ -3,6 +3,35 @@
   "shardId": "00",
   "images": [
     {
+      "id": "3a98052a",
+      "filename": "pixiv_146759735_p0.jpg",
+      "path": "uploads/2026/07/a13d7eff.jpg",
+      "size": 1487195,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5d754647b8cacbf9ba042e95fd23c7fa65b17698d0df9105db0d528963043aa9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:29:20.521Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "鳴潮",
+        "洛瑟菈",
+        "ルシラー",
+        "Lucilla",
+        "青髪",
+        "女の子",
+        "WutheringWaves",
+        "鸣潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146759735_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146759735",
+      "sourceCreatedAt": "2026-07-03T07:45:04.000Z"
+    },
+    {
       "id": "6de550e2",
       "filename": "pixiv_146767767_p0.jpg",
       "path": "uploads/2026/07/cdf18abc.jpg",
