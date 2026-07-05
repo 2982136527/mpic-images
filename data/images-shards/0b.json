@@ -3,6 +3,32 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "0fcf3a7d",
+      "filename": "pixiv_146777916_p0.jpg",
+      "path": "uploads/2026/07/29a3e7bd.jpg",
+      "size": 499741,
+      "width": 790,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57756cec2b38c37b65ad574cb30d39a44e3df2a76395c18ce0976b6dc5086c99",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:27:40.966Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🦋",
+      "tags": [
+        "少女",
+        "女の子",
+        "白髪",
+        "バレリーナ",
+        "蝶"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146777916_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146777916",
+      "sourceCreatedAt": "2026-07-03T14:59:04.000Z"
+    },
+    {
       "id": "8372163c",
       "filename": "pixiv_146755173_p0.jpg",
       "path": "uploads/2026/07/c42e0853.jpg",
