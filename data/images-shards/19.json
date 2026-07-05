@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "af5f9091",
+      "filename": "pixiv_146772981_p0.jpg",
+      "path": "uploads/2026/07/e613e430.jpg",
+      "size": 923480,
+      "width": 1068,
+      "height": 1094,
+      "mimeType": "image/jpeg",
+      "hash": "23c1e6d4c0d82c13b02a1f3175ad5dedd972b228cb32dd650ce5ab7e801cf820",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:10:26.335Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "7輪",
+      "tags": [
+        "Deltarune",
+        "デルタルーン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146772981_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146772981",
+      "sourceCreatedAt": "2026-07-03T13:14:26.000Z"
+    },
+    {
       "id": "67337ac6",
       "filename": "pixiv_146765433_p0.jpg",
       "path": "uploads/2026/07/33bc6ff8.jpg",
