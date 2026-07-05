@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "dda7e90f",
+      "filename": "pixiv_146756288_p0.jpg",
+      "path": "uploads/2026/07/f354bf6c.jpg",
+      "size": 434111,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ce26a5be515bf9254a6039b0ed1e5c64108e6b081da656f12a33c686c5db85a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T17:23:05.431Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "あー！もう！！",
+      "tags": [
+        "原神",
+        "シトラリ",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146756288_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146756288",
+      "sourceCreatedAt": "2026-07-03T04:45:07.000Z"
+    },
+    {
       "id": "4059e60e",
       "filename": "pixiv_146587687_p0.jpg",
       "path": "uploads/2026/07/dac67b7e.jpg",
