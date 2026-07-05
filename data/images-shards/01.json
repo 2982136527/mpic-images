@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "67161f2d",
+      "filename": "pixiv_146779556_p0.jpg",
+      "path": "uploads/2026/07/296080d0.jpg",
+      "size": 1212554,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6b22dc09286683235d552c92a4fbdae58ee64349472200949749a39b142abbc8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:14:06.861Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "景燃",
+      "tags": [
+        "景燃",
+        "Jingran",
+        "鳴潮",
+        "WutheringWaves"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146779556_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146779556",
+      "sourceCreatedAt": "2026-07-03T15:21:25.000Z"
+    },
+    {
       "id": "6ec7a81a",
       "filename": "pixiv_146749784_p0.jpg",
       "path": "uploads/2026/07/57fd228f.jpg",
