@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "cc572f61",
+      "filename": "pixiv_146746231_p0.jpg",
+      "path": "uploads/2026/07/6ffc881a.jpg",
+      "size": 1772155,
+      "width": 1200,
+      "height": 983,
+      "mimeType": "image/jpeg",
+      "hash": "d51f255b0a9c4bf80d92b1c4c36d8b992f28d0cc26ee3cf80936fe34291b42d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T17:21:10.535Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "굶주리고 싶지 않아서",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "Don't_Starve"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146746231_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146746231",
+      "sourceCreatedAt": "2026-07-02T18:44:49.000Z"
+    },
+    {
       "id": "3662a469",
       "filename": "pixiv_146609157_p0.jpg",
       "path": "uploads/2026/07/d306fcbc.jpg",
