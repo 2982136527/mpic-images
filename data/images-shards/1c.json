@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "ce3b1768",
+      "filename": "pixiv_146809770_p0.jpg",
+      "path": "uploads/2026/07/a8565f13.jpg",
+      "size": 379818,
+      "width": 647,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "704fb4d736c350a414552ae4f9643932ab9033a48f1cfcd1c9b549a67ab3afab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:26:07.757Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "UMIガール",
+      "tags": [
+        "オリジナル",
+        "水着",
+        "女子校生"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146809770_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146809770",
+      "sourceCreatedAt": "2026-07-04T11:00:09.000Z"
+    },
+    {
       "id": "7989c67d",
       "filename": "pixiv_146795724_p0.jpg",
       "path": "uploads/2026/07/4f10ffc3.jpg",
