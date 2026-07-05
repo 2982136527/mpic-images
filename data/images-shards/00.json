@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "37bb6188",
+      "filename": "pixiv_145746953_p0.jpg",
+      "path": "uploads/2026/07/0a8c319b.jpg",
+      "size": 1579099,
+      "width": 718,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9afc1a602125d0a30e4a18c42eeca88509364e97981177b9c772d9af1d99490f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T17:28:34.242Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ミ・フ",
+      "tags": [
+        "ミ・フ",
+        "明日方舟",
+        "アークナイツ",
+        "アークナイツ:エンドフィールド",
+        "エンドフィールド5000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145746953_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145746953",
+      "sourceCreatedAt": "2026-06-07T19:12:28.000Z"
+    },
+    {
       "id": "572e4a24",
       "filename": "pixiv_145732009_p0.jpg",
       "path": "uploads/2026/07/77955e01.jpg",
