@@ -3,6 +3,32 @@
   "shardId": "18",
   "images": [
     {
+      "id": "e28e0b52",
+      "filename": "pixiv_146807172_p0.jpg",
+      "path": "uploads/2026/07/1328e2e2.jpg",
+      "size": 595057,
+      "width": 1200,
+      "height": 717,
+      "mimeType": "image/jpeg",
+      "hash": "0a983de201373996ab063d44af42fb772abf5514888fd8cfeb74574befb00f69",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:28:32.896Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "日狭美と残無",
+      "tags": [
+        "イラスト",
+        "東方",
+        "東方Project",
+        "日白残無",
+        "豫母都日狭美"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146807172_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146807172",
+      "sourceCreatedAt": "2026-07-04T09:54:36.000Z"
+    },
+    {
       "id": "df7e82a4",
       "filename": "pixiv_145779187_p0.jpg",
       "path": "uploads/2026/07/c39ce979.jpg",
