@@ -3,6 +3,28 @@
   "shardId": "19",
   "images": [
     {
+      "id": "6b927da8",
+      "filename": "pixiv_146779821_p0.jpg",
+      "path": "uploads/2026/07/dc357710.jpg",
+      "size": 1308912,
+      "width": 1200,
+      "height": 1068,
+      "mimeType": "image/jpeg",
+      "hash": "36930d43b5d332db2dbc4e99d1fc5784066d2b491c6a1e1c4ae75e7a4a94f17e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:12:32.383Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Pギャザ　イラスト展示",
+      "tags": [
+        "Pギャザ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146779821_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146779821",
+      "sourceCreatedAt": "2026-07-03T15:26:51.000Z"
+    },
+    {
       "id": "af5f9091",
       "filename": "pixiv_146772981_p0.jpg",
       "path": "uploads/2026/07/e613e430.jpg",
