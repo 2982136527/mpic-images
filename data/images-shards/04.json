@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "c5a62b01",
+      "filename": "pixiv_146801533_p0.jpg",
+      "path": "uploads/2026/07/c9eb3bc3.jpg",
+      "size": 615487,
+      "width": 787,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "30fb9942768bb96e8243237377533ecf789f0563fb7012ff89e20c505ebbc8f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:12:22.345Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "목욕 후",
+      "tags": [
+        "超かぐや姫!",
+        "いろヤチ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146801533_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146801533",
+      "sourceCreatedAt": "2026-07-04T07:10:48.000Z"
+    },
+    {
       "id": "cb4ca0f5",
       "filename": "pixiv_146768176_p0.jpg",
       "path": "uploads/2026/07/4beee2c8.jpg",
