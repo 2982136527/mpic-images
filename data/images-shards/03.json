@@ -3,6 +3,28 @@
   "shardId": "03",
   "images": [
     {
+      "id": "afd6fb70",
+      "filename": "pixiv_146791474_p0.jpg",
+      "path": "uploads/2026/07/b23604d5.jpg",
+      "size": 652960,
+      "width": 685,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "33cad37ec3c3151cef860bc1cdb8d3db5480ad5f93eede07e3fee8320aca791a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:16:34.197Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "凍結～",
+      "tags": [
+        "ロリクラちゃん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146791474_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146791474",
+      "sourceCreatedAt": "2026-07-04T00:58:53.000Z"
+    },
+    {
       "id": "7c92e88a",
       "filename": "pixiv_146588933_p0.jpg",
       "path": "uploads/2026/07/0bdf3b4a.jpg",
