@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "d48006c6",
+      "filename": "pixiv_146766863_p0.jpg",
+      "path": "uploads/2026/07/9af758a6.jpg",
+      "size": 592142,
+      "width": 1050,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1a6ef8d64b2431935fec12ba7aa2ce8131d4f9679133059fb13f70aa6f6e231e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T17:23:29.197Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ヘル",
+      "tags": [
+        "オリジナル",
+        "イラスト",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146766863_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146766863",
+      "sourceCreatedAt": "2026-07-03T11:08:09.000Z"
+    },
+    {
       "id": "362237da",
       "filename": "pixiv_146799981_p0.jpg",
       "path": "uploads/2026/07/1f12c901.jpg",
