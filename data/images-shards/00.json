@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "c813cc67",
+      "filename": "pixiv_146798268_p0.jpg",
+      "path": "uploads/2026/07/2aa563d8.jpg",
+      "size": 771489,
+      "width": 953,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "25550889a78e10812fa97498b94f613b1dfaad5bae412cc8561e6ece788c3496",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:28:06.348Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "「ん、幸せの匂いがする」",
+      "tags": [
+        "上伊那ぼたん、酔へる姿は百合の花",
+        "ぼたいぶ",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146798268_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146798268",
+      "sourceCreatedAt": "2026-07-04T05:14:49.000Z"
+    },
+    {
       "id": "9a572582",
       "filename": "pixiv_146778086_p0.jpg",
       "path": "uploads/2026/07/e79847c3.jpg",
