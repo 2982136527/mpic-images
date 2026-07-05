@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "025b1b52",
+      "filename": "pixiv_146778062_p0.jpg",
+      "path": "uploads/2026/07/7318b36d.jpg",
+      "size": 1388944,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "66bd40d31ecee2224ab0f014daa8976e5040bbf0ae94c9beae370ed9b9f2aa20",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:29:10.029Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Moonlight Lullaby",
+      "tags": [
+        "人魚",
+        "銀髪",
+        "三日月",
+        "Feeshy",
+        "水中"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146778062_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146778062",
+      "sourceCreatedAt": "2026-07-03T15:00:09.000Z"
+    },
+    {
       "id": "b801864a",
       "filename": "pixiv_145771291_p0.jpg",
       "path": "uploads/2026/07/fee79e6a.jpg",
