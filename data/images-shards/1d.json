@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "44f0e759",
+      "filename": "pixiv_146590598_p0.jpg",
+      "path": "uploads/2026/07/532ac11f.jpg",
+      "size": 849839,
+      "width": 1200,
+      "height": 615,
+      "mimeType": "image/jpeg",
+      "hash": "3bc7a7e15c77dccafcd51c691d0b5674b338c20ec31471ab6c1af21aa0ab46dd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:14:29.324Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夕暮れのショー",
+      "tags": [
+        "Fate/GrandOrder",
+        "メルトリリス(水着)",
+        "ラムダリリス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146590598_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146590598",
+      "sourceCreatedAt": "2026-06-28T17:06:00.000Z"
+    },
+    {
       "id": "8bd01ce6",
       "filename": "pixiv_146745183_p0.jpg",
       "path": "uploads/2026/07/648b2ff2.jpg",
