@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "ecfa1543",
+      "filename": "pixiv_146777123_p0.jpg",
+      "path": "uploads/2026/07/7df30e65.jpg",
+      "size": 1254716,
+      "width": 864,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c9ed0b27f8b9a529246424bf78e23fcf99041358f0264f8588f070abb6179c0e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T17:22:03.032Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ｵｰｶﾐ",
+      "tags": [
+        "狼"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146777123_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146777123",
+      "sourceCreatedAt": "2026-07-03T14:41:32.000Z"
+    },
+    {
       "id": "61fda4e0",
       "filename": "pixiv_146758186_p0.jpg",
       "path": "uploads/2026/07/07b29cb5.jpg",
