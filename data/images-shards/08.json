@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "cbeb2d24",
+      "filename": "pixiv_146781972_p0.jpg",
+      "path": "uploads/2026/07/3b892ce0.jpg",
+      "size": 79212,
+      "width": 391,
+      "height": 314,
+      "mimeType": "image/jpeg",
+      "hash": "fb4965f8cba717b36d2d52efbf721d227d79a873c9718ebebd405aacc5ba6584",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:13:42.419Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Shop 3",
+      "tags": [
+        "Deltarune",
+        "Pink(Deltarune)",
+        "Orange(Deltarune)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146781972_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146781972",
+      "sourceCreatedAt": "2026-07-03T16:26:23.000Z"
+    },
+    {
       "id": "d8c5f688",
       "filename": "pixiv_146713305_p0.jpg",
       "path": "uploads/2026/07/56ddd945.jpg",
