@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "4fbddfc8",
+      "filename": "pixiv_146792298_p0.jpg",
+      "path": "uploads/2026/07/5e4c9d51.jpg",
+      "size": 518533,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8c6f0114684e86b23b002b60654345f7b0d03ab2ff3839f5d8aaf4b3ffc16880",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:31:09.243Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【6/28無配】はじめての〇〇",
+      "tags": [
+        "ジャクラギ",
+        "ラギジャク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146792298_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146792298",
+      "sourceCreatedAt": "2026-07-04T01:31:03.000Z"
+    },
+    {
       "id": "36024d44",
       "filename": "pixiv_146784101_p0.jpg",
       "path": "uploads/2026/07/27a75314.jpg",
