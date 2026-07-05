@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "34bd9865",
+      "filename": "pixiv_145789496_p0.jpg",
+      "path": "uploads/2026/07/1846d2e7.jpg",
+      "size": 1354123,
+      "width": 723,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "92e61ae9d9651800ba13ba25734d82106d01b6d52cd14fe2843db0cc4d517f0d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:15:41.131Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "レーヴァテイン",
+      "tags": [
+        "レーヴァテイン",
+        "明日方舟:终末地",
+        "アークナイツ:エンドフィールド",
+        "レーヴァテイン(エンドフィールド)",
+        "エンドフィールド10000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145789496_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145789496",
+      "sourceCreatedAt": "2026-06-08T23:30:21.000Z"
+    },
+    {
       "id": "c5a62b01",
       "filename": "pixiv_146801533_p0.jpg",
       "path": "uploads/2026/07/c9eb3bc3.jpg",
