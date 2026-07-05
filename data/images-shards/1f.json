@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "2e733de0",
+      "filename": "pixiv_146778563_p0.jpg",
+      "path": "uploads/2026/07/5027b3fa.jpg",
+      "size": 2183198,
+      "width": 926,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "420a74408ca2609c6bcd42077669163c4aa9e48e595c9cca99c320ddf129c029",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:17:10.681Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "メリ誕2026",
+      "tags": [
+        "ヘタリア",
+        "アルフレッド・F・ジョーンズ",
+        "アーサー・カークランド",
+        "メリ誕2026"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146778563_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146778563",
+      "sourceCreatedAt": "2026-07-03T15:02:55.000Z"
+    },
+    {
       "id": "7567601f",
       "filename": "pixiv_146588174_p0.jpg",
       "path": "uploads/2026/07/4418aa2a.jpg",
