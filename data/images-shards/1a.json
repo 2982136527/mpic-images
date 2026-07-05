@@ -3,6 +3,36 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "3d6a1ee5",
+      "filename": "pixiv_146744658_p0.jpg",
+      "path": "uploads/2026/07/3086495b.jpg",
+      "size": 788650,
+      "width": 1200,
+      "height": 894,
+      "mimeType": "image/jpeg",
+      "hash": "9d9dafdee19bb5d73b94634bbbd5afa0a9a39bd0e27033e03307e020dc14fbb9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:13:56.887Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ケイちゃんとモモイ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "天童アリス",
+        "블루아카이브",
+        "才羽モモイ",
+        "ケイ(ブルーアーカイブ)",
+        "天童ケイ",
+        "平和"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146744658_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146744658",
+      "sourceCreatedAt": "2026-07-02T17:09:52.000Z"
+    },
+    {
       "id": "1ed92707",
       "filename": "pixiv_146780882_p0.jpg",
       "path": "uploads/2026/07/1379143a.jpg",
