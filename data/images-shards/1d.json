@@ -3,6 +3,35 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "4059e60e",
+      "filename": "pixiv_146587687_p0.jpg",
+      "path": "uploads/2026/07/dac67b7e.jpg",
+      "size": 1023030,
+      "width": 1200,
+      "height": 576,
+      "mimeType": "image/jpeg",
+      "hash": "32229f343804f49cec1e5891ac51cb7065a11d0744c9d98cb2b09c267e56b5ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:15:02.474Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "白色天穹",
+      "tags": [
+        "女の子",
+        "原创",
+        "背景",
+        "和服",
+        "城市",
+        "场景",
+        "SF",
+        "必ず生きて帰ってこい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146587687_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146587687",
+      "sourceCreatedAt": "2026-06-29T01:02:45.000Z"
+    },
+    {
       "id": "44f0e759",
       "filename": "pixiv_146590598_p0.jpg",
       "path": "uploads/2026/07/532ac11f.jpg",
