@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "724c7dc9",
+      "filename": "pixiv_146774105_p0.jpg",
+      "path": "uploads/2026/07/a3cfb2f6.jpg",
+      "size": 453661,
+      "width": 750,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "476f35b65f5c7aa2e4e498a228d027f1b61a4db4d69f0993e5cd905a7c2ac289",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:14:12.378Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "うさぎちゃん",
+      "tags": [
+        "ケモノ",
+        "メスケモ",
+        "anthro",
+        "furry"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146774105_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146774105",
+      "sourceCreatedAt": "2026-07-03T13:36:51.000Z"
+    },
+    {
       "id": "fe55b0bf",
       "filename": "pixiv_146757870_p0.jpg",
       "path": "uploads/2026/07/42975ead.jpg",
