@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "1b65a9ca",
+      "filename": "pixiv_146749640_p0.jpg",
+      "path": "uploads/2026/07/4568c15a.jpg",
+      "size": 954012,
+      "width": 839,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d64db4ed270f05ad311a5115929b8252376226f1171c08f18d21b185cd9349d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T17:20:28.081Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "なるほどキャラメルマキアート",
+      "tags": [
+        "創作",
+        "キャラメルマキアート",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146749640_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146749640",
+      "sourceCreatedAt": "2026-07-02T22:31:09.000Z"
+    },
+    {
       "id": "9329ce75",
       "filename": "pixiv_146620783_p0.jpg",
       "path": "uploads/2026/07/ac5fadcb.jpg",
