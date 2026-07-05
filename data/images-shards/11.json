@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "439a8828",
+      "filename": "pixiv_146797448_p0.jpg",
+      "path": "uploads/2026/07/38a70006.jpg",
+      "size": 871326,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9453f30b738495cb800fa12d0f54c27ff2ca45163725d60bdf94053bae0cab18",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T10:31:31.476Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "さねぎゆまとめ⑥",
+      "tags": [
+        "さねぎゆ",
+        "ひらいて赤ブー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146797448_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146797448",
+      "sourceCreatedAt": "2026-07-04T05:18:32.000Z"
+    },
+    {
       "id": "3bfa1dcb",
       "filename": "pixiv_146793568_p0.jpg",
       "path": "uploads/2026/07/a49139a0.jpg",
