@@ -3,6 +3,33 @@
   "shardId": "04",
   "images": [
     {
+      "id": "3accd8f2",
+      "filename": "pixiv_145778588_p0.jpg",
+      "path": "uploads/2026/07/d85c2272.jpg",
+      "size": 1768847,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "29da9a754c112441f85f81d4b6175cee05f625b1733ca40433c554aeb3e82a9e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-05T04:17:48.875Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "雨宿り",
+      "tags": [
+        "ポケットモンスター",
+        "ラティオス",
+        "ラティアス",
+        "アチャモ",
+        "雨宿り",
+        "森"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145778588_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145778588",
+      "sourceCreatedAt": "2026-06-08T15:00:19.000Z"
+    },
+    {
       "id": "34bd9865",
       "filename": "pixiv_145789496_p0.jpg",
       "path": "uploads/2026/07/1846d2e7.jpg",
