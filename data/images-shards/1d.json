@@ -3,6 +3,37 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "a5c88d39",
+      "filename": "pixiv_146853366_p0.jpg",
+      "path": "uploads/2026/07/f7d76176.jpg",
+      "size": 508939,
+      "width": 1200,
+      "height": 286,
+      "mimeType": "image/jpeg",
+      "hash": "292e12741128dd34b3af808043aaf7a2ea88ad6f32552f2b8b04207ee8b6ce70",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:17:20.500Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "魔裁常服系列",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "桜羽エマ",
+        "二階堂ヒロ",
+        "氷上メルル",
+        "夏目アンアン",
+        "城ケ崎ノア",
+        "蓮見レイア",
+        "黒部ナノカ",
+        "宝生マーゴ",
+        "橘シェリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146853366_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146853366",
+      "sourceCreatedAt": "2026-07-05T10:27:15.000Z"
+    },
+    {
       "id": "2cc48cf7",
       "filename": "pixiv_146761008_p0.jpg",
       "path": "uploads/2026/07/06876e47.jpg",
