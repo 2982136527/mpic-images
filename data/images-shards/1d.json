@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "4b324564",
+      "filename": "pixiv_146809818_p0.jpg",
+      "path": "uploads/2026/07/d18f953e.jpg",
+      "size": 558615,
+      "width": 992,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "205342762cb649e91ccfd6902bef75fc775362755812bc192b30b1f1e9db8984",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:18:02.733Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "カスタム君",
+      "tags": [
+        "カスタムくん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146809818_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146809818",
+      "sourceCreatedAt": "2026-07-04T11:00:18.000Z"
+    },
+    {
       "id": "a5c88d39",
       "filename": "pixiv_146853366_p0.jpg",
       "path": "uploads/2026/07/f7d76176.jpg",
