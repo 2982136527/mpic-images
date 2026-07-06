@@ -3,6 +3,32 @@
   "shardId": "09",
   "images": [
     {
+      "id": "aea49c13",
+      "filename": "pixiv_146853700_p0.jpg",
+      "path": "uploads/2026/07/9dd1143a.jpg",
+      "size": 831643,
+      "width": 945,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ff9cb630c913f8735ac9cd334eeb68235771b7f03ce2c066c5542e4be1e99604",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:23:50.626Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "同人誌表紙予定",
+      "tags": [
+        "シュヴァルグラン(ウマ娘)",
+        "ウインバリアシオン(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "バリシュヴァ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146853700_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146853700",
+      "sourceCreatedAt": "2026-07-05T10:34:29.000Z"
+    },
+    {
       "id": "176b1d7d",
       "filename": "pixiv_146830081_p0.jpg",
       "path": "uploads/2026/07/08461ba2.jpg",
