@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "4cecd3af",
+      "filename": "pixiv_146822320_p0.jpg",
+      "path": "uploads/2026/07/a7c6cd5b.jpg",
+      "size": 1163443,
+      "width": 1200,
+      "height": 715,
+      "mimeType": "image/jpeg",
+      "hash": "53fa44293afb85f102b0032de715f1a2012d4de99cde9190408f00b18e228fcc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T12:11:40.554Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "現世",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "セーラー服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146822320_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146822320",
+      "sourceCreatedAt": "2026-07-04T15:07:15.000Z"
+    },
+    {
       "id": "61f671f6",
       "filename": "pixiv_146829147_p0.jpg",
       "path": "uploads/2026/07/06542eae.jpg",
