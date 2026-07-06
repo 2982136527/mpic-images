@@ -3,6 +3,25 @@
   "shardId": "17",
   "images": [
     {
+      "id": "911d96a2",
+      "filename": "pixiv_146822756_p0.jpg",
+      "path": "uploads/2026/07/4b7e84c5.jpg",
+      "size": 675832,
+      "width": 1200,
+      "height": 996,
+      "mimeType": "image/jpeg",
+      "hash": "dd11897d3999a7a18b1104eaaaf37f0b1b0da1a86b9fc5b58f511e93011be843",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T12:15:25.676Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ふぁけ",
+      "sourceProvider": "pixiv",
+      "sourceId": "146822756_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146822756",
+      "sourceCreatedAt": "2026-07-04T15:17:25.000Z"
+    },
+    {
       "id": "010fdc76",
       "filename": "pixiv_146821538_p0.jpg",
       "path": "uploads/2026/07/f155216a.jpg",
