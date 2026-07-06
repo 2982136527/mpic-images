@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "f45ac0df",
+      "filename": "pixiv_146827862_p0.jpg",
+      "path": "uploads/2026/07/6aa696b1.jpg",
+      "size": 827919,
+      "width": 759,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "836c2f28a6c562948bce88c154c1d8bf19cad80563c59c5ed0b71907708f5a77",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:17:38.004Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "4月のメイド漫画",
+      "tags": [
+        "漫画",
+        "JK",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146827862_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146827862",
+      "sourceCreatedAt": "2026-07-04T18:04:19.000Z"
+    },
+    {
       "id": "5390bae3",
       "filename": "pixiv_146812705_p0.jpg",
       "path": "uploads/2026/07/42171265.jpg",
