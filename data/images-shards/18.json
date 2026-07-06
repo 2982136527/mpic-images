@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "dceae913",
+      "filename": "pixiv_146843125_p0.jpg",
+      "path": "uploads/2026/07/b25164dd.jpg",
+      "size": 861162,
+      "width": 714,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "7b40f3025837860218ce644a33840d50e650c39bcbdfb9d29e728dfc9633463e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T18:21:28.110Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "今日も一日",
+      "tags": [
+        "ブルーアーカイブ",
+        "十六夜ノノミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146843125_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146843125",
+      "sourceCreatedAt": "2026-07-05T05:42:40.000Z"
+    },
+    {
       "id": "38afac86",
       "filename": "pixiv_146861492_p0.jpg",
       "path": "uploads/2026/07/58be21a7.jpg",
