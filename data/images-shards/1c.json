@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "86a0b678",
+      "filename": "pixiv_146838040_p0.jpg",
+      "path": "uploads/2026/07/8abd34f7.jpg",
+      "size": 279582,
+      "width": 700,
+      "height": 500,
+      "mimeType": "image/jpeg",
+      "hash": "509c8f2cc956dca78cc49a010d9d04b813db1eea954b05033355748b0fd58048",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:18:13.534Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ポケモンまとめ(2026年/その3）",
+      "tags": [
+        "ポケモン",
+        "ポケモンスリープ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146838040_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146838040",
+      "sourceCreatedAt": "2026-07-05T02:42:01.000Z"
+    },
+    {
       "id": "e3b51986",
       "filename": "pixiv_146579345_p0.jpg",
       "path": "uploads/2026/07/827b4c9a.jpg",
