@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "f9438c6a",
+      "filename": "pixiv_146847800_p0.jpg",
+      "path": "uploads/2026/07/3feae333.jpg",
+      "size": 1101133,
+      "width": 629,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "32001a014710f590073754c88d0066edf9e832699955d50125da04b69e0ab6e0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:21:03.296Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "バズるために配信中の火花",
+      "tags": [
+        "崩壊:スターレイル",
+        "火花",
+        "花火",
+        "火花(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146847800_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146847800",
+      "sourceCreatedAt": "2026-07-05T08:08:45.000Z"
+    },
+    {
       "id": "07513027",
       "filename": "pixiv_146806583_p0.jpg",
       "path": "uploads/2026/07/969ba1c5.jpg",
