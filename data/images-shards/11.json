@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "ac4bdecb",
+      "filename": "pixiv_146839668_p0.jpg",
+      "path": "uploads/2026/07/685b9325.jpg",
+      "size": 920954,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "ec27b648003ee41ffac2a69229698b6041b7b0d15dd41143f3711d1068a6ec74",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:15:29.302Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ボクのもの",
+      "tags": [
+        "押し倒し",
+        "女の子",
+        "創作百合",
+        "百合",
+        "オリジナル",
+        "君になれたら"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146839668_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146839668",
+      "sourceCreatedAt": "2026-07-05T03:35:10.000Z"
+    },
+    {
       "id": "0f033808",
       "filename": "pixiv_146754112_p0.jpg",
       "path": "uploads/2026/07/65caa0b5.jpg",
