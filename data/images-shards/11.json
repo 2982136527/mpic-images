@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "58ea5e9e",
+      "filename": "pixiv_146796035_p0.jpg",
+      "path": "uploads/2026/07/d4c76feb.jpg",
+      "size": 1235891,
+      "width": 647,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "56eca920d3707ed6480c32d510dfcdd32f4b46cef82c72b781cae7f51112a44e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:16:38.377Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "スクール水着",
+        "スク水"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146796035_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146796035",
+      "sourceCreatedAt": "2026-07-04T03:50:28.000Z"
+    },
+    {
       "id": "ac4bdecb",
       "filename": "pixiv_146839668_p0.jpg",
       "path": "uploads/2026/07/685b9325.jpg",
