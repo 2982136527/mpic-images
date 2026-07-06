@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "d1766933",
+      "filename": "pixiv_146861745_p0.jpg",
+      "path": "uploads/2026/07/a045abcb.jpg",
+      "size": 964239,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "835cadce6da56a6a90ad95ada4fc159bc6d746402118749adf4592c2b23b4209",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:23:45.790Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "tkrvついろぐ7",
+      "tags": [
+        "東卍夢",
+        "tkrvプラス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146861745_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146861745",
+      "sourceCreatedAt": "2026-07-05T13:14:30.000Z"
+    },
+    {
       "id": "407ba158",
       "filename": "pixiv_146830587_p0.jpg",
       "path": "uploads/2026/07/248698c1.jpg",
