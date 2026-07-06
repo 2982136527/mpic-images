@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "6f762b1c",
+      "filename": "pixiv_146824736_p0.jpg",
+      "path": "uploads/2026/07/8e4bf492.jpg",
+      "size": 880479,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "3244330ecdab703b137eadd483fcc797e4352498b39871768cb542ccbbe9e5da",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T12:12:38.252Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "永远有多远？",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "背景",
+        "少女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146824736_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146824736",
+      "sourceCreatedAt": "2026-07-04T16:05:36.000Z"
+    },
+    {
       "id": "76e45329",
       "filename": "pixiv_146624827_p0.jpg",
       "path": "uploads/2026/07/7b36b4c4.jpg",
