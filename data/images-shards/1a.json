@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "a3b60e95",
+      "filename": "pixiv_146826970_p0.jpg",
+      "path": "uploads/2026/07/b425a54b.jpg",
+      "size": 746391,
+      "width": 607,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cb13eb83475a060ea6ed6653c272079fdb16d5acf2109ace063145a049bad56a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:15:45.031Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "95日目 天童アリス",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "天童アリス",
+        "お弁当",
+        "100日チャレンジ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146826970_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146826970",
+      "sourceCreatedAt": "2026-07-04T17:23:40.000Z"
+    },
+    {
       "id": "28e91ed4",
       "filename": "pixiv_145666785_p0.jpg",
       "path": "uploads/2026/07/7184fce2.jpg",
