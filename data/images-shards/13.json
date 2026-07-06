@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "e170b0ef",
+      "filename": "pixiv_146801611_p0.jpg",
+      "path": "uploads/2026/07/1d27e600.jpg",
+      "size": 666307,
+      "width": 1200,
+      "height": 834,
+      "mimeType": "image/jpeg",
+      "hash": "d514562e99900fb520785f989d2df5e41d2282bd2eaed2321ea8c36969a4237c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T12:12:55.973Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🐙🦊",
+      "tags": [
+        "超かぐや姫!",
+        "ヤチいろ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146801611_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146801611",
+      "sourceCreatedAt": "2026-07-04T07:13:08.000Z"
+    },
+    {
       "id": "63b78ee8",
       "filename": "pixiv_146820507_p0.jpg",
       "path": "uploads/2026/07/8dd40f00.jpg",
