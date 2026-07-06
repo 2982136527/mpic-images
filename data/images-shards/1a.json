@@ -3,6 +3,28 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "9ea8162d",
+      "filename": "pixiv_145817100_p0.jpg",
+      "path": "uploads/2026/07/37fd4fec.jpg",
+      "size": 719767,
+      "width": 845,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "28b3c05d63e74d00c89001380a8cd865e7f86fc1c87a7d2d6640c29d49c45dfe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:24:50.876Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Bunny",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145817100_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145817100",
+      "sourceCreatedAt": "2026-06-09T15:04:27.000Z"
+    },
+    {
       "id": "f9fe55dd",
       "filename": "pixiv_145816617_p0.jpg",
       "path": "uploads/2026/07/ae6e3e1e.jpg",
