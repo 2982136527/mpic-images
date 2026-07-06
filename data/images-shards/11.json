@@ -3,6 +3,28 @@
   "shardId": "11",
   "images": [
     {
+      "id": "1fffa1f0",
+      "filename": "pixiv_146821624_p0.jpg",
+      "path": "uploads/2026/07/e4068b63.jpg",
+      "size": 866246,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6afe90c7332beb1c29f05d7f543629fa6d1bc2219b7d1c0a90b51173eb8d2361",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T12:13:27.629Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "うさみみフード",
+      "tags": [
+        "フード"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146821624_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146821624",
+      "sourceCreatedAt": "2026-07-04T15:00:21.000Z"
+    },
+    {
       "id": "ec1efe8c",
       "filename": "pixiv_146817871_p0.jpg",
       "path": "uploads/2026/07/e6ca54bf.jpg",
