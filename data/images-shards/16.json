@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "6a4ade2f",
+      "filename": "pixiv_146805387_p0.jpg",
+      "path": "uploads/2026/07/23220861.jpg",
+      "size": 1066874,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bbf552a1573ea177098370d8522c1f12f106e7905f04663ed4b190ec88aec31c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T12:13:07.184Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "새벽 사무소 파우스트",
+      "tags": [
+        "Limbus_Company",
+        "ファウスト(LCB)",
+        "faust",
+        "파우스트"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146805387_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146805387",
+      "sourceCreatedAt": "2026-07-04T09:04:10.000Z"
+    },
+    {
       "id": "4cecd3af",
       "filename": "pixiv_146822320_p0.jpg",
       "path": "uploads/2026/07/a7c6cd5b.jpg",
