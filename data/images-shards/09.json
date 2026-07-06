@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "ac0337d1",
+      "filename": "pixiv_146856479_p0.jpg",
+      "path": "uploads/2026/07/b0ee02ea.jpg",
+      "size": 855563,
+      "width": 861,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9f433837b936e984f7b359c85391b9ae308b055aca44318c4b4e61ec66fb0d59",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T18:25:39.797Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "雑伊本web再録",
+      "tags": [
+        "雑伊"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146856479_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146856479",
+      "sourceCreatedAt": "2026-07-05T11:34:17.000Z"
+    },
+    {
       "id": "5513a52e",
       "filename": "pixiv_146852126_p0.jpg",
       "path": "uploads/2026/07/ad48f591.jpg",
