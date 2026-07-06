@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "c99b3a08",
+      "filename": "pixiv_146859087_p0.jpg",
+      "path": "uploads/2026/07/c32997a2.jpg",
+      "size": 1073352,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ecccbffdd25ce5bd61f9abaaa1f98067a20d33f03ee77ba6117dc4189342fba7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T18:25:32.475Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "遼子カッコよさげ",
+      "tags": [
+        "退魔師",
+        "不動遼子",
+        "リクエスト",
+        "ライダースーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146859087_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146859087",
+      "sourceCreatedAt": "2026-07-05T12:24:55.000Z"
+    },
+    {
       "id": "3dae7f67",
       "filename": "pixiv_145739741_p0.jpg",
       "path": "uploads/2026/07/0528a063.jpg",
