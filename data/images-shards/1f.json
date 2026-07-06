@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "fe89e206",
+      "filename": "pixiv_146840732_p0.jpg",
+      "path": "uploads/2026/07/a8b80750.jpg",
+      "size": 690612,
+      "width": 1200,
+      "height": 580,
+      "mimeType": "image/jpeg",
+      "hash": "fb94888ae399f8fbeda7fb7d8540f10de2d715e1c6671e825e4d32c85736eecd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T12:14:44.661Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "新法案已签署",
+      "tags": [
+        "插画",
+        "场景",
+        "冰气时代",
+        "frostpunk",
+        "終末"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146840732_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146840732",
+      "sourceCreatedAt": "2026-07-05T04:14:15.000Z"
+    },
+    {
       "id": "85f2b2d9",
       "filename": "pixiv_146804877_p0.jpg",
       "path": "uploads/2026/07/c54cd3c2.jpg",
