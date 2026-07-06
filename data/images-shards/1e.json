@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "82615942",
+      "filename": "pixiv_146849561_p0.jpg",
+      "path": "uploads/2026/07/c5a2ca06.jpg",
+      "size": 1477030,
+      "width": 821,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fb1cd4e068969ecfcd00c838f7e24f7d29962858fe0ede3f5424403154d6242c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T18:19:39.068Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "いちごフランちゃん",
+      "tags": [
+        "東方",
+        "東方Project",
+        "フラン",
+        "フランドール・スカーレット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146849561_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146849561",
+      "sourceCreatedAt": "2026-07-05T08:57:48.000Z"
+    },
+    {
       "id": "8826a50d",
       "filename": "pixiv_146824175_p0.jpg",
       "path": "uploads/2026/07/933139e4.jpg",
