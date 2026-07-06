@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "b503b4b0",
+      "filename": "pixiv_146858497_p0.jpg",
+      "path": "uploads/2026/07/b7880b6e.jpg",
+      "size": 876386,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "484c0b79964849b61795b700491bcb1339ac1db0cebf28cf1230ff86e794ddd6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:20:32.782Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ヘルム",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "ヘルム(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146858497_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146858497",
+      "sourceCreatedAt": "2026-07-05T12:12:53.000Z"
+    },
+    {
       "id": "1054ce46",
       "filename": "pixiv_146833703_p0.jpg",
       "path": "uploads/2026/07/ce9a2f72.jpg",
