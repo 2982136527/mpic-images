@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "3ef5d87d",
+      "filename": "pixiv_146811507_p0.jpg",
+      "path": "uploads/2026/07/09403130.jpg",
+      "size": 1749227,
+      "width": 783,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "60bf390e0fdc3e8bad1519d19e701a924a35c4ce96f143689bf2a47ac9de2b36",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:18:18.488Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【依頼】レミエール",
+      "tags": [
+        "レミエール・ダン",
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146811507_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146811507",
+      "sourceCreatedAt": "2026-07-04T11:35:05.000Z"
+    },
+    {
       "id": "6958246e",
       "filename": "pixiv_146810252_p0.jpg",
       "path": "uploads/2026/07/5e8f7d01.jpg",
