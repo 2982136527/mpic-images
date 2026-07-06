@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "6958246e",
+      "filename": "pixiv_146810252_p0.jpg",
+      "path": "uploads/2026/07/5e8f7d01.jpg",
+      "size": 1608625,
+      "width": 828,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e33f7553b9c0c3c31cf10c64968229a98b92f92006cfaf2b60d07c35a4c703a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:17:15.428Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "フランドールの日",
+      "tags": [
+        "東方",
+        "東方Project",
+        "フランドール・スカーレット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146810252_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146810252",
+      "sourceCreatedAt": "2026-07-04T11:06:55.000Z"
+    },
+    {
       "id": "94898510",
       "filename": "pixiv_146779180_p0.jpg",
       "path": "uploads/2026/07/7e2c5958.jpg",
