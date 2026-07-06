@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "ec1efe8c",
+      "filename": "pixiv_146817871_p0.jpg",
+      "path": "uploads/2026/07/e6ca54bf.jpg",
+      "size": 366450,
+      "width": 839,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "77e8373def880028b40e4e98231aae315a29a5ca546b37dc9e40331adbd23417",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:19:54.342Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ラクガキまとめ",
+      "tags": [
+        "獅子堂あかり",
+        "海妹四葉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146817871_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146817871",
+      "sourceCreatedAt": "2026-07-04T13:42:55.000Z"
+    },
+    {
       "id": "e6375cba",
       "filename": "pixiv_146850187_p0.jpg",
       "path": "uploads/2026/07/428c5796.jpg",
