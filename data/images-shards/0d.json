@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "04413ec1",
+      "filename": "pixiv_146800997_p0.jpg",
+      "path": "uploads/2026/07/26b13592.jpg",
+      "size": 607384,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "2f47ee0ee154922ac19549562dd8a39ccf16ef5ac88f539073334c01c0ff3b90",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:16:28.437Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "10년 전/후",
+      "tags": [
+        "超かぐや姫!",
+        "いろかぐ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146800997_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146800997",
+      "sourceCreatedAt": "2026-07-04T06:55:37.000Z"
+    },
+    {
       "id": "4cd9daa3",
       "filename": "pixiv_146808008_p0.jpg",
       "path": "uploads/2026/07/8dfac08e.jpg",
