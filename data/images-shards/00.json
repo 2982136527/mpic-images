@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "9d950c42",
+      "filename": "pixiv_146658438_p0.jpg",
+      "path": "uploads/2026/07/45fc687a.jpg",
+      "size": 1372994,
+      "width": 908,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "63faeaef21178e737cd53ecc2368520a7757ff7a0f426c3dfd8cbbb2e9532174",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:24:20.339Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "サンドローネ(原神)",
+        "コロンビーナ(原神)",
+        "水着",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146658438_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146658438",
+      "sourceCreatedAt": "2026-06-30T13:20:55.000Z"
+    },
+    {
       "id": "e772ae38",
       "filename": "pixiv_146810374_p0.jpg",
       "path": "uploads/2026/07/d8e37b71.jpg",
