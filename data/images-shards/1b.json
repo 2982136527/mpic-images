@@ -3,6 +3,37 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "407ba158",
+      "filename": "pixiv_146830587_p0.jpg",
+      "path": "uploads/2026/07/248698c1.jpg",
+      "size": 206769,
+      "width": 607,
+      "height": 607,
+      "mimeType": "image/jpeg",
+      "hash": "95f6159fd3a7deb33f811ba4e99d64f9af2dbad4b57bd8ce4adfed177f4a931c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:15:34.967Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "落ち葉ブラシ_舞い",
+      "tags": [
+        "漫画素材工房",
+        "ClipStudioPaint",
+        "ComicStudio",
+        "クリップスタジオ",
+        "コミックスタジオ",
+        "素材",
+        "ブラシ素材",
+        "樹木",
+        "落ち葉",
+        "枯れ葉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146830587_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146830587",
+      "sourceCreatedAt": "2026-07-04T21:00:20.000Z"
+    },
+    {
       "id": "36331376",
       "filename": "pixiv_146810281_p0.jpg",
       "path": "uploads/2026/07/c313cbbb.jpg",
