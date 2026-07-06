@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "82b7d448",
+      "filename": "pixiv_146809232_p0.jpg",
+      "path": "uploads/2026/07/53f11417.jpg",
+      "size": 1504377,
+      "width": 1200,
+      "height": 1121,
+      "mimeType": "image/jpeg",
+      "hash": "9ba78c40a3da8c803660112754387678d72620ba14820ed90cfc264a62c7576a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T18:20:11.852Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "너드키라",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "キラ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146809232_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146809232",
+      "sourceCreatedAt": "2026-07-04T10:47:50.000Z"
+    },
+    {
       "id": "5082c8b5",
       "filename": "pixiv_145767607_p0.jpg",
       "path": "uploads/2026/07/1f73a1c6.jpg",
