@@ -3,6 +3,33 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "dadff87c",
+      "filename": "pixiv_146829837_p0.jpg",
+      "path": "uploads/2026/07/7c955c4a.jpg",
+      "size": 539685,
+      "width": 828,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5d5ab112fa5d087a501d7f2c8676c45defcf6e4027eb49385ead31b298ed9251",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T12:16:02.105Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Marcille part1",
+      "tags": [
+        "マルシル",
+        "女の子",
+        "ロングヘアー",
+        "金髪",
+        "エルフ耳",
+        "ダンジョン飯"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146829837_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146829837",
+      "sourceCreatedAt": "2026-07-04T20:06:33.000Z"
+    },
+    {
       "id": "d17c6cf2",
       "filename": "pixiv_146778161_p0.jpg",
       "path": "uploads/2026/07/fb143718.jpg",
