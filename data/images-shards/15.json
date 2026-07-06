@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "80a895dd",
+      "filename": "pixiv_146822350_p0.jpg",
+      "path": "uploads/2026/07/4b1beae7.jpg",
+      "size": 523869,
+      "width": 943,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "72bff2a53fd8259d280da309e3d25c2105ad7d88886c24340450565fea77f401",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:17:09.839Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "セイカさんとサーナイト",
+      "tags": [
+        "ポケモン",
+        "LEGENDSZ-A",
+        "セイカ(トレーナー)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146822350_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146822350",
+      "sourceCreatedAt": "2026-07-04T15:07:43.000Z"
+    },
+    {
       "id": "7a18c04a",
       "filename": "pixiv_146802228_p0.jpg",
       "path": "uploads/2026/07/8ff10dc0.jpg",
