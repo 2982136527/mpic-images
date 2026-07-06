@@ -3,6 +3,28 @@
   "shardId": "01",
   "images": [
     {
+      "id": "76a3a840",
+      "filename": "pixiv_146820462_p0.jpg",
+      "path": "uploads/2026/07/61189fb9.jpg",
+      "size": 1212514,
+      "width": 994,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b391d777d799e29bf7abf58c5b4e9247fefc24bee328d70d616c16c270867def",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-06T04:19:59.116Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ㅤ",
+      "tags": [
+        "Deltarune"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146820462_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146820462",
+      "sourceCreatedAt": "2026-07-04T14:38:25.000Z"
+    },
+    {
       "id": "be99f538",
       "filename": "pixiv_145699273_p0.jpg",
       "path": "uploads/2026/07/7ae7a884.jpg",
