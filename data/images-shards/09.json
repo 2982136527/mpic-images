@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "17f1a4e5",
+      "filename": "pixiv_146869819_p0.jpg",
+      "path": "uploads/2026/07/d3f95e12.jpg",
+      "size": 1220831,
+      "width": 803,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "46b3ff01c57c6fe85ce454c0710d420f1b5f5bf8a120289beabd1c62bd4f3bd2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:19:51.508Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "花結び",
+      "tags": [
+        "Leo/need",
+        "プロジェクトセカイ",
+        "プロセカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146869819_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146869819",
+      "sourceCreatedAt": "2026-07-05T15:51:21.000Z"
+    },
+    {
       "id": "c0d5cc05",
       "filename": "pixiv_146879034_p0.jpg",
       "path": "uploads/2026/07/4a27af23.jpg",
