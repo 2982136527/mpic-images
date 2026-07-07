@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "8cd7ead7",
+      "filename": "pixiv_146849434_p0.jpg",
+      "path": "uploads/2026/07/bf42b2ab.jpg",
+      "size": 929902,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b2327eaa5bfa30a54a53904be0930beef03a1214eddd9f0743331b72332629f3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:20:57.935Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "涼しげな漂泊者",
+      "tags": [
+        "水着",
+        "ビキニ",
+        "鸣潮",
+        "汗",
+        "漂泊者",
+        "鳴潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146849434_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146849434",
+      "sourceCreatedAt": "2026-07-05T08:54:03.000Z"
+    },
+    {
       "id": "1d32768e",
       "filename": "pixiv_146873559_p0.jpg",
       "path": "uploads/2026/07/cf8725e4.jpg",
