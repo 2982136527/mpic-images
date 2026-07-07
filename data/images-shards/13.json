@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "196f2bf8",
+      "filename": "pixiv_146858538_p0.jpg",
+      "path": "uploads/2026/07/13354e5d.jpg",
+      "size": 542742,
+      "width": 722,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6a3407f3bc60de2f4d5643b6b4fd57b6d1c42608c37b68b97bc343a95b6bfb50",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:19:00.309Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "天童ケイ",
+        "ブルーアーカイブ",
+        "ブルアカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146858538_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146858538",
+      "sourceCreatedAt": "2026-07-05T12:13:50.000Z"
+    },
+    {
       "id": "ea809f91",
       "filename": "pixiv_146859251_p0.jpg",
       "path": "uploads/2026/07/455d4f2f.jpg",
