@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "b7fe4ba5",
+      "filename": "pixiv_146840564_p0.jpg",
+      "path": "uploads/2026/07/83e5a0de.jpg",
+      "size": 881914,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b845c6b64838468bc39a1231d7c2f3c964b730a130db615a3d1d5042666fea82",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:17:17.300Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Endfield",
+      "tags": [
+        "アークナイツエンドフィールド",
+        "チェン・センユー",
+        "明日方舟終末地"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146840564_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146840564",
+      "sourceCreatedAt": "2026-07-05T04:08:21.000Z"
+    },
+    {
       "id": "cebda921",
       "filename": "pixiv_146862910_p0.jpg",
       "path": "uploads/2026/07/3c0aeee8.jpg",
