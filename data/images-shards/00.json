@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "cbb356eb",
+      "filename": "pixiv_146892289_p0.jpg",
+      "path": "uploads/2026/07/4cf46a6f.jpg",
+      "size": 736456,
+      "width": 1200,
+      "height": 1177,
+      "mimeType": "image/jpeg",
+      "hash": "713205cff9e86e49d098e550f5945a46c9c616f837f4d15019618e66634f7bc2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T18:12:32.963Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ミヨ",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "ブルアカ",
+        "女の子",
+        "桜井ミヨ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146892289_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146892289",
+      "sourceCreatedAt": "2026-07-06T10:31:59.000Z"
+    },
+    {
       "id": "f4ff8c43",
       "filename": "pixiv_146891840_p0.jpg",
       "path": "uploads/2026/07/797db468.jpg",
