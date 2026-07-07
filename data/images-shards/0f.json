@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "19ae8692",
+      "filename": "pixiv_146896246_p0.jpg",
+      "path": "uploads/2026/07/32b030e5.jpg",
+      "size": 613343,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "f54636ec8e41d32351025967b73ab6b3ba293a7eb0122051362b6756684de23a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:12:35.832Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ツクヨミに感覚が実装されて間もない頃",
+      "tags": [
+        "月見ヤチヨ",
+        "超かぐや姫!",
+        "酒寄彩葉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146896246_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146896246",
+      "sourceCreatedAt": "2026-07-06T12:04:46.000Z"
+    },
+    {
       "id": "6128323c",
       "filename": "pixiv_146824612_p0.jpg",
       "path": "uploads/2026/07/8cb57399.jpg",
