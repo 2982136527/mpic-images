@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "a32df440",
+      "filename": "pixiv_146893398_p0.jpg",
+      "path": "uploads/2026/07/55fbea2a.jpg",
+      "size": 525299,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "f3e38b8f9312de34d0810cfc5f56c54a7acf96b73699ec87cea857edce849b54",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:08:37.603Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "モンスター落書きまとめ②",
+      "tags": [
+        "DoodleDiceMonsters",
+        "落書き",
+        "モンスター",
+        "騎士"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146893398_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146893398",
+      "sourceCreatedAt": "2026-07-06T11:01:17.000Z"
+    },
+    {
       "id": "18e7a2f2",
       "filename": "pixiv_146845219_p0.jpg",
       "path": "uploads/2026/07/edfa0b8b.jpg",
