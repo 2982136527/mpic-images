@@ -3,6 +3,36 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "3bee7155",
+      "filename": "pixiv_146842964_p0.jpg",
+      "path": "uploads/2026/07/6a8c9343.jpg",
+      "size": 462558,
+      "width": 723,
+      "height": 964,
+      "mimeType": "image/jpeg",
+      "hash": "cdb3987832032b890b4a9ac127c6b1b82d7da394b925f1bfb25bec729d9e4a43",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:06:05.375Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "なかよくケンカしな",
+      "tags": [
+        "仮面ライダーマイス",
+        "仮面ライダーマオウ",
+        "トムとジェリー",
+        "さかな(トムとジェリー)",
+        "シャウタコンボ",
+        "その発想しかなかった",
+        "誰かがやると思ってた",
+        "マオウとマイス",
+        "仕事が早い"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146842964_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146842964",
+      "sourceCreatedAt": "2026-07-05T05:36:05.000Z"
+    },
+    {
       "id": "103d66a2",
       "filename": "pixiv_146822008_p0.jpg",
       "path": "uploads/2026/07/665e9140.jpg",
