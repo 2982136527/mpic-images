@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "dcde29e0",
+      "filename": "pixiv_146868583_p0.jpg",
+      "path": "uploads/2026/07/dbda2445.jpg",
+      "size": 1030051,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "91da4d9722cebbc97b9f992d324d13eed57318d82eb585424a7fcb4266e5c25a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T18:14:59.388Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【期間再掲】帰還",
+      "tags": [
+        "さねぎゆ",
+        "pixivGlowEffect"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146868583_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146868583",
+      "sourceCreatedAt": "2026-07-05T15:20:41.000Z"
+    },
+    {
       "id": "fe6bc9de",
       "filename": "pixiv_145827952_p0.jpg",
       "path": "uploads/2026/07/335f13a2.jpg",
