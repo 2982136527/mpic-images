@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "3af4ce74",
+      "filename": "pixiv_146897493_p0.jpg",
+      "path": "uploads/2026/07/3efa3cce.jpg",
+      "size": 378412,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "676cd36e19f916dece7d9ac2b45f3cbf67c95fb922320440f0de4a12b442312c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T18:15:46.785Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ひざまくら",
+      "tags": [
+        "ラインクラフト(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "ウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146897493_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146897493",
+      "sourceCreatedAt": "2026-07-06T12:32:02.000Z"
+    },
+    {
       "id": "9fddf1c7",
       "filename": "pixiv_146900144_p0.jpg",
       "path": "uploads/2026/07/483f3dc4.jpg",
