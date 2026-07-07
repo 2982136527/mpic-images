@@ -3,6 +3,35 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "745b4e7b",
+      "filename": "pixiv_146885391_p0.jpg",
+      "path": "uploads/2026/07/55ed4314.jpg",
+      "size": 1776070,
+      "width": 817,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e5ff6b15c712cae1295c75f8445535df6e2f88b3b43bfc43ba0f163d5c859be0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:06:45.638Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "七夕",
+      "tags": [
+        "pixivGlowEffect",
+        "背景",
+        "風景",
+        "イラスト",
+        "オリジナル",
+        "創作",
+        "空",
+        "七夕"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146885391_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146885391",
+      "sourceCreatedAt": "2026-07-06T06:14:03.000Z"
+    },
+    {
       "id": "8727af5a",
       "filename": "pixiv_146822259_p0.jpg",
       "path": "uploads/2026/07/3055765b.jpg",
