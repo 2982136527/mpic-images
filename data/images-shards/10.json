@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "bf888f48",
+      "filename": "pixiv_146838633_p0.jpg",
+      "path": "uploads/2026/07/1e470956.jpg",
+      "size": 669027,
+      "width": 810,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4f6702b9ecb568a9f3e59a1a43495013e765245a8fd94de7dc2a24fc449b932c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:09:45.187Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "シンデレラ：クリスタルウェーブ",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "NIKKE",
+        "シンデレラ(勝利の女神:NIKKE)",
+        "シンデレラ:クリスタルウェーブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146838633_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146838633",
+      "sourceCreatedAt": "2026-07-05T03:00:25.000Z"
+    },
+    {
       "id": "8e58193c",
       "filename": "pixiv_146853983_p0.jpg",
       "path": "uploads/2026/07/a1496109.jpg",
