@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "8c647810",
+      "filename": "pixiv_146897729_p0.jpg",
+      "path": "uploads/2026/07/21b7d455.jpg",
+      "size": 458511,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5c6ec169a0e0b114e680fb4bb4cb07b4e3d21777f34c3247c13e064b996eeb37",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:24:59.035Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "君に雨宿り",
+      "tags": [
+        "ミスターシービー(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "ウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146897729_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146897729",
+      "sourceCreatedAt": "2026-07-06T12:37:16.000Z"
+    },
+    {
       "id": "e53b3110",
       "filename": "pixiv_146822440_p0.jpg",
       "path": "uploads/2026/07/1def79a3.jpg",
