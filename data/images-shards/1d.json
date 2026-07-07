@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "a95b8b32",
+      "filename": "pixiv_146898588_p0.jpg",
+      "path": "uploads/2026/07/02f14adf.jpg",
+      "size": 661380,
+      "width": 955,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0ce2dd07e67bb61150a7bd219f5fec8d403d5d64c7cd48ebf067f35ab0a711fc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T18:14:53.559Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "こすもぴゅえら",
+      "tags": [
+        "ネオユニヴァース(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "ウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146898588_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146898588",
+      "sourceCreatedAt": "2026-07-06T12:57:07.000Z"
+    },
+    {
       "id": "161634db",
       "filename": "pixiv_146823462_p0.jpg",
       "path": "uploads/2026/07/fd582ef4.jpg",
