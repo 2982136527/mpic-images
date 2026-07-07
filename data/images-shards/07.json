@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "2d24b25a",
+      "filename": "pixiv_146879871_p0.jpg",
+      "path": "uploads/2026/07/11281f4e.jpg",
+      "size": 1141616,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2a9042105f019838970b0b78259eefc03f02d446006101b6594836deb55aded0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:24:22.424Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ゼルダ",
+      "tags": [
+        "ゼルダ",
+        "ゼルダ姫",
+        "ゼルダ(ブレスオブザワイルド)",
+        "ゼルダの伝説"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146879871_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146879871",
+      "sourceCreatedAt": "2026-07-06T01:18:19.000Z"
+    },
+    {
       "id": "0f4a79fb",
       "filename": "pixiv_146872918_p0.jpg",
       "path": "uploads/2026/07/f5c60cc4.jpg",
