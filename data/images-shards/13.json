@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "c6bfcc1a",
+      "filename": "pixiv_146891734_p0.jpg",
+      "path": "uploads/2026/07/619c19fd.jpg",
+      "size": 1300872,
+      "width": 864,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "00d95d6616ead2168bc502769551c81cb33a24fdc727c9217822413ee3373a60",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:09:12.905Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Client OC",
+      "tags": [
+        "人外娘",
+        "白髪ロング",
+        "Skeb"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146891734_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146891734",
+      "sourceCreatedAt": "2026-07-06T10:15:21.000Z"
+    },
+    {
       "id": "a32df440",
       "filename": "pixiv_146893398_p0.jpg",
       "path": "uploads/2026/07/55fbea2a.jpg",
