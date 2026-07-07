@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "fd83e723",
+      "filename": "pixiv_146852183_p0.jpg",
+      "path": "uploads/2026/07/02bc4a7f.jpg",
+      "size": 992612,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fe4f0193c14ac6d3e825857bbf485bae93ae2b2fc1cc25fb6bbdd2030a7dfd73",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T18:09:53.218Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "バーバラ雨宿り",
+      "tags": [
+        "原神",
+        "バーバラ(原神)",
+        "雨",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146852183_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146852183",
+      "sourceCreatedAt": "2026-07-05T10:00:07.000Z"
+    },
+    {
       "id": "d42929eb",
       "filename": "pixiv_146863457_p0.jpg",
       "path": "uploads/2026/07/eb2106be.jpg",
