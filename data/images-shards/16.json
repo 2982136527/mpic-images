@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "d82d78a2",
+      "filename": "pixiv_146892794_p0.jpg",
+      "path": "uploads/2026/07/223c88d8.jpg",
+      "size": 1139120,
+      "width": 945,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ef38aa886174226cd886697c35f7eab27bbfe33aad0303db96e3b14545a45dc4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:13:41.081Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "俄洛伊",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "少女",
+        "立ち絵",
+        "OC",
+        "修女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146892794_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146892794",
+      "sourceCreatedAt": "2026-07-06T10:48:01.000Z"
+    },
+    {
       "id": "a0ba7444",
       "filename": "pixiv_146852870_p0.jpg",
       "path": "uploads/2026/07/4625b616.jpg",
