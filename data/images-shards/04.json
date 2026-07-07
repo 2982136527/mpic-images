@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "5fb3ded4",
+      "filename": "pixiv_146679548_p0.jpg",
+      "path": "uploads/2026/07/cec9f2df.jpg",
+      "size": 571772,
+      "width": 819,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cd27c0da5479bd698e13159ea10c7db1b7a4c9b3af58c5730ad91e3b42e8317e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T18:13:12.024Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Noir",
+      "tags": [
+        "女の子",
+        "うちの子",
+        "葉巻"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146679548_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146679548",
+      "sourceCreatedAt": "2026-07-01T03:44:40.000Z"
+    },
+    {
       "id": "4958c1d1",
       "filename": "pixiv_146880924_p0.jpg",
       "path": "uploads/2026/07/9b869f12.jpg",
