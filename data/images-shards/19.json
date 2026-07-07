@@ -3,6 +3,32 @@
   "shardId": "19",
   "images": [
     {
+      "id": "d2e12755",
+      "filename": "pixiv_146871192_p0.jpg",
+      "path": "uploads/2026/07/63f65c30.jpg",
+      "size": 407582,
+      "width": 1200,
+      "height": 606,
+      "mimeType": "image/jpeg",
+      "hash": "4c5705cbc7f1fa6d11c233e9551b06090d4f4484544827b51a3c7a71158faa79",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T18:15:41.139Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "キサキ",
+      "tags": [
+        "竜華キサキ",
+        "BlueArchive",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146871192_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146871192",
+      "sourceCreatedAt": "2026-07-05T16:33:22.000Z"
+    },
+    {
       "id": "fd83e723",
       "filename": "pixiv_146852183_p0.jpg",
       "path": "uploads/2026/07/02bc4a7f.jpg",
