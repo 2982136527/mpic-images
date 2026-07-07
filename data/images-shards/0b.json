@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "41c257b1",
+      "filename": "pixiv_146853666_p0.jpg",
+      "path": "uploads/2026/07/27a4a003.jpg",
+      "size": 491726,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1c147bca0c0b788d819e0ffa845f6079012ad1cc3c1e73c05dafa6b8060a0666",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T18:16:01.206Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "呪ろぐ3",
+      "tags": [
+        "五夏",
+        "腐術廻戦",
+        "腐術廻戦100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146853666_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146853666",
+      "sourceCreatedAt": "2026-07-05T10:33:38.000Z"
+    },
+    {
       "id": "fc8815b8",
       "filename": "pixiv_146890394_p0.jpg",
       "path": "uploads/2026/07/57aca3ab.jpg",
