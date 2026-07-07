@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "9ccd28da",
+      "filename": "pixiv_146860710_p0.jpg",
+      "path": "uploads/2026/07/10dc8049.jpg",
+      "size": 751523,
+      "width": 753,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "86cfec71872078f1b19fabaa32782d70b0e05ec474fac5542331573a75509882",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:21:10.531Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "水際",
+      "tags": [
+        "オリジナル",
+        "看板娘",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146860710_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146860710",
+      "sourceCreatedAt": "2026-07-05T12:56:49.000Z"
+    },
+    {
       "id": "baad4803",
       "filename": "pixiv_146663544_p0.jpg",
       "path": "uploads/2026/07/b887e8bf.jpg",
