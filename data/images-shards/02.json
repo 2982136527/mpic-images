@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "5672b9c4",
+      "filename": "pixiv_146862171_p0.jpg",
+      "path": "uploads/2026/07/7cf67bd6.jpg",
+      "size": 499415,
+      "width": 891,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b43f7985c5c86c86a9b661ebcf2bbc8a5f4b93a7a6a702f11fe45b6bd9a6aa4d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:09:06.230Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Tangerine power",
+      "tags": [
+        "ファンアート",
+        "ロボカイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146862171_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146862171",
+      "sourceCreatedAt": "2026-07-05T13:23:50.000Z"
+    },
+    {
       "id": "e6d5a8fc",
       "filename": "pixiv_146869111_p0.jpg",
       "path": "uploads/2026/07/22d1a7fd.jpg",
