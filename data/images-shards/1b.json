@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "f8434e32",
+      "filename": "pixiv_146858313_p0.jpg",
+      "path": "uploads/2026/07/24e9aa8e.jpg",
+      "size": 771818,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d63628378e074ecb8abc0ebf0a58ac0babdd482a08c5c6441925ac29aa1effd0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:20:46.834Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "メルル",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "まのさば",
+        "まのさばネタバレ",
+        "氷上メルル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146858313_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146858313",
+      "sourceCreatedAt": "2026-07-05T12:09:09.000Z"
+    },
+    {
       "id": "6c810dab",
       "filename": "pixiv_146821640_p0.jpg",
       "path": "uploads/2026/07/d6138800.jpg",
