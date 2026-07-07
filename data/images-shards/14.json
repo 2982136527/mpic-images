@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "0b9ac124",
+      "filename": "pixiv_146878291_p0.jpg",
+      "path": "uploads/2026/07/aca7adf1.jpg",
+      "size": 1122742,
+      "width": 1153,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aadb7091214eed031ff1f3c4737494be6f46b20a4cc955eac3987528daf9a2ca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:19:12.977Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "wuwa",
+      "tags": [
+        "鳴潮",
+        "鸣潮",
+        "ダーニャ",
+        "WutheringWaves"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146878291_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146878291",
+      "sourceCreatedAt": "2026-07-05T23:34:17.000Z"
+    },
+    {
       "id": "00faac82",
       "filename": "pixiv_146849999_p0.jpg",
       "path": "uploads/2026/07/dd093e61.jpg",
