@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "fa089cec",
+      "filename": "pixiv_146898206_p0.jpg",
+      "path": "uploads/2026/07/e453f7c7.jpg",
+      "size": 633589,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "62c14f6d73ec25c9c1f84af5a4d4a55eb14ac4821113a119636f3a6ce3fc5d4a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T18:15:12.260Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "みつ編みスぺ",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "#スペシャルウィーク(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146898206_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146898206",
+      "sourceCreatedAt": "2026-07-06T12:49:04.000Z"
+    },
+    {
       "id": "a95b8b32",
       "filename": "pixiv_146898588_p0.jpg",
       "path": "uploads/2026/07/02f14adf.jpg",
