@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "386cd680",
+      "filename": "pixiv_146896210_p0.jpg",
+      "path": "uploads/2026/07/94cab6cb.jpg",
+      "size": 2201331,
+      "width": 1001,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fc5a10cc94ed2af1b6cd343d0e3e9154dee462b635494e53edd8830dba027ddf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:07:47.974Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "狐の神使",
+      "tags": [
+        "狐",
+        "創作",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146896210_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146896210",
+      "sourceCreatedAt": "2026-07-06T12:03:58.000Z"
+    },
+    {
       "id": "47250790",
       "filename": "pixiv_146780940_p0.jpg",
       "path": "uploads/2026/07/04affbc5.jpg",
