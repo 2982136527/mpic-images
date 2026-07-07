@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "6b6dbe0a",
+      "filename": "pixiv_146896632_p0.jpg",
+      "path": "uploads/2026/07/e8f364ba.jpg",
+      "size": 905686,
+      "width": 1010,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "759ec0c5d26bcdd610b6cac0f4d3d690dfcf67fb996e341e6bb8e894f3e6bd01",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:24:47.890Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "デアリングタクト",
+      "tags": [
+        "デアリングタクト(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "ウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146896632_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146896632",
+      "sourceCreatedAt": "2026-07-06T12:13:50.000Z"
+    },
+    {
       "id": "83fa7718",
       "filename": "pixiv_146652699_p0.jpg",
       "path": "uploads/2026/07/b9cc5015.jpg",
