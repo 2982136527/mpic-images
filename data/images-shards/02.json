@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "cebda921",
+      "filename": "pixiv_146862910_p0.jpg",
+      "path": "uploads/2026/07/3c0aeee8.jpg",
+      "size": 336403,
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/jpeg",
+      "hash": "9b1be3de755a111450dab6ffe6d9c5198d6a87cfd59fa477c135c26c81fae3f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:12:57.614Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "アグネスデジタル",
+      "tags": [
+        "アグネスデジタル(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "コスプレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146862910_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146862910",
+      "sourceCreatedAt": "2026-07-05T13:37:56.000Z"
+    },
+    {
       "id": "5672b9c4",
       "filename": "pixiv_146862171_p0.jpg",
       "path": "uploads/2026/07/7cf67bd6.jpg",
