@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "61f708cd",
+      "filename": "pixiv_146842561_p0.jpg",
+      "path": "uploads/2026/07/9f1a4de5.jpg",
+      "size": 642630,
+      "width": 968,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ae55a120fe4ad9264c2f332aa56bb9c06a18c66f1e31536c2a07c999a3a0898e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:19:06.458Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "타마키",
+      "tags": [
+        "ProjectMoon",
+        "Library_Of_Ruina"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146842561_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146842561",
+      "sourceCreatedAt": "2026-07-05T05:21:16.000Z"
+    },
+    {
       "id": "fbc47ad4",
       "filename": "pixiv_146869253_p0.jpg",
       "path": "uploads/2026/07/e6af41d2.jpg",
