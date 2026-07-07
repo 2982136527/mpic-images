@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "88853e68",
+      "filename": "pixiv_146859826_p0.jpg",
+      "path": "uploads/2026/07/e8915614.jpg",
+      "size": 422124,
+      "width": 629,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "67c0c780c66534d6d022a16e4ec65d6b623d2f30413e3ddc312ba933425b882e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:09:27.308Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "ブルーアーカイブ",
+        "竜華キサキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146859826_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146859826",
+      "sourceCreatedAt": "2026-07-05T12:38:40.000Z"
+    },
+    {
       "id": "ad221b4a",
       "filename": "pixiv_146785391_p0.jpg",
       "path": "uploads/2026/07/59edf275.jpg",
