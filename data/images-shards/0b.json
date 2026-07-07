@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "94496d87",
+      "filename": "pixiv_146891553_p0.jpg",
+      "path": "uploads/2026/07/e9b3dc09.jpg",
+      "size": 1400405,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "775ec9b243927509189777090e075fbc3b77a8217939b2e0ce568811965c362c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:17:24.611Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🫧",
+      "tags": [
+        "VTuber",
+        "イラスト",
+        "女の子",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146891553_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146891553",
+      "sourceCreatedAt": "2026-07-06T10:10:06.000Z"
+    },
+    {
       "id": "991090b4",
       "filename": "pixiv_145800510_p0.jpg",
       "path": "uploads/2026/07/fdef7f72.jpg",
