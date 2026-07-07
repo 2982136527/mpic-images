@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "481b09dc",
+      "filename": "pixiv_146885334_p0.jpg",
+      "path": "uploads/2026/07/0ea7611f.jpg",
+      "size": 896484,
+      "width": 1200,
+      "height": 640,
+      "mimeType": "image/jpeg",
+      "hash": "3f5396342836a192b3104d0caeca20c583ceafd0a999297405690fe0527de314",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:16:55.407Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146885334_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146885334",
+      "sourceCreatedAt": "2026-07-06T06:11:10.000Z"
+    },
+    {
       "id": "745b4e7b",
       "filename": "pixiv_146885391_p0.jpg",
       "path": "uploads/2026/07/55ed4314.jpg",
