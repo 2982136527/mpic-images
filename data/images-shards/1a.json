@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "23e45090",
+      "filename": "pixiv_146898642_p0.jpg",
+      "path": "uploads/2026/07/8c1e96b6.jpg",
+      "size": 641962,
+      "width": 1002,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6c4f6f17a463c1591da61daf5177202e139bb0692748c41660141814e9edf598",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:24:16.143Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無意識",
+      "tags": [
+        "シュヴァルグラン(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "ウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146898642_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146898642",
+      "sourceCreatedAt": "2026-07-06T12:58:52.000Z"
+    },
+    {
       "id": "1c8a4dc8",
       "filename": "pixiv_146778152_p0.jpg",
       "path": "uploads/2026/07/0f76e7cc.jpg",
