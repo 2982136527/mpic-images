@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "fa7ae25e",
+      "filename": "pixiv_146891316_p0.jpg",
+      "path": "uploads/2026/07/f43898db.jpg",
+      "size": 773678,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "90d4094e1b5cc6c59325e2eb56370dc7f280f96bf1bd7e402af3ed181e3eaa1b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:18:13.031Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "いちごちゃん",
+      "tags": [
+        "女の子",
+        "イラスト",
+        "オリジナル",
+        "オリジナルキャラクター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146891316_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146891316",
+      "sourceCreatedAt": "2026-07-06T10:03:06.000Z"
+    },
+    {
       "id": "a2a55295",
       "filename": "pixiv_146839665_p0.jpg",
       "path": "uploads/2026/07/6db6c272.jpg",
