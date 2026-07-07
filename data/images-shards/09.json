@@ -3,6 +3,32 @@
   "shardId": "09",
   "images": [
     {
+      "id": "c0d5cc05",
+      "filename": "pixiv_146879034_p0.jpg",
+      "path": "uploads/2026/07/4a27af23.jpg",
+      "size": 797164,
+      "width": 879,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "233160aa397bb9f50a3c7a5317097576d230160aabf892b38d136dbd8ee85aef",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:17:49.785Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "frlz",
+        "リゼ・ヘルエスタ",
+        "フレン・E・ルスタリオ",
+        "鈴原るる",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146879034_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146879034",
+      "sourceCreatedAt": "2026-07-06T00:21:20.000Z"
+    },
+    {
       "id": "32a8f215",
       "filename": "pixiv_146846078_p0.jpg",
       "path": "uploads/2026/07/5597164f.jpg",
