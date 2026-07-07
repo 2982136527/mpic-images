@@ -3,6 +3,36 @@
   "shardId": "01",
   "images": [
     {
+      "id": "a844f301",
+      "filename": "pixiv_146893409_p0.jpg",
+      "path": "uploads/2026/07/d53082f9.jpg",
+      "size": 1544971,
+      "width": 646,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "869297be8d6759a25a569dc1b9003fdda4f493948ff808a3d89739856c2d0dd4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T11:16:47.923Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "願い星は君にほほえむ",
+      "tags": [
+        "ほしきみ",
+        "ががめ",
+        "pixivGlowEffect",
+        "風景",
+        "星空",
+        "背景",
+        "空",
+        "星",
+        "幻想"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146893409_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146893409",
+      "sourceCreatedAt": "2026-07-06T11:01:24.000Z"
+    },
+    {
       "id": "dd961732",
       "filename": "pixiv_146821592_p0.jpg",
       "path": "uploads/2026/07/47314027.jpg",
