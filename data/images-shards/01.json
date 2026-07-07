@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "ebfa7212",
+      "filename": "pixiv_146873472_p0.jpg",
+      "path": "uploads/2026/07/8f258a96.jpg",
+      "size": 731249,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "52f199b653d40727c3a2359919ad621771ec02fb3ba04c26b7a02a48f5721ab9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:08:30.822Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "フランドル",
+      "tags": [
+        "アズールレーン",
+        "フランドル(アズールレーン)",
+        "アズールレーン100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146873472_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146873472",
+      "sourceCreatedAt": "2026-07-05T18:19:38.000Z"
+    },
+    {
       "id": "76a3a840",
       "filename": "pixiv_146820462_p0.jpg",
       "path": "uploads/2026/07/61189fb9.jpg",
