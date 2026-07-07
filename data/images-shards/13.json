@@ -3,6 +3,37 @@
   "shardId": "13",
   "images": [
     {
+      "id": "df949a2e",
+      "filename": "pixiv_146875282_p0.jpg",
+      "path": "uploads/2026/07/c971d48b.jpg",
+      "size": 1450891,
+      "width": 1200,
+      "height": 918,
+      "mimeType": "image/jpeg",
+      "hash": "b8bc9ca30de66422a1c6a5d028ef7a95582dbb14cfad91da81018e34ff0eaedb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:10:48.097Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "㊗️サラダの日🥗",
+      "tags": [
+        "サラダ",
+        "手描き",
+        "料理",
+        "トマト",
+        "きゅうり",
+        "レタス",
+        "キャベツ",
+        "ブロッコリー",
+        "salad",
+        "pixivGlowEffect"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146875282_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146875282",
+      "sourceCreatedAt": "2026-07-05T20:34:04.000Z"
+    },
+    {
       "id": "c6bfcc1a",
       "filename": "pixiv_146891734_p0.jpg",
       "path": "uploads/2026/07/619c19fd.jpg",
