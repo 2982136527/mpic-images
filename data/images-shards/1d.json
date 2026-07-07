@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "f6fd6c70",
+      "filename": "pixiv_146681548_p0.jpg",
+      "path": "uploads/2026/07/66fe11a1.jpg",
+      "size": 595711,
+      "width": 587,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f9e834392deedd376997a9712eca69223b340392442981efb2689bd6924cf300",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T18:16:16.241Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": ":D",
+      "tags": [
+        "绝区零",
+        "ドラキナ・サンブリンガー",
+        "ゼンゼロ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146681548_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146681548",
+      "sourceCreatedAt": "2026-07-01T05:24:54.000Z"
+    },
+    {
       "id": "fa089cec",
       "filename": "pixiv_146898206_p0.jpg",
       "path": "uploads/2026/07/e453f7c7.jpg",
