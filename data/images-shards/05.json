@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "4a627b7c",
+      "filename": "pixiv_146871037_p0.jpg",
+      "path": "uploads/2026/07/9c821c6f.jpg",
+      "size": 1204098,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7df92f8eb26d175831032dc6e5159a584997eb5cc21e797c21099a10654680a9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:07:01.390Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ファミマ靴下コーデ",
+      "tags": [
+        "女の子",
+        "ファミリーマート"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146871037_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146871037",
+      "sourceCreatedAt": "2026-07-05T16:27:53.000Z"
+    },
+    {
       "id": "d8645e78",
       "filename": "pixiv_145747611_p0.jpg",
       "path": "uploads/2026/07/38f8b1ea.jpg",
