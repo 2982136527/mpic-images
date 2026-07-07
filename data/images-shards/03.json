@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "fbc47ad4",
+      "filename": "pixiv_146869253_p0.jpg",
+      "path": "uploads/2026/07/e6af41d2.jpg",
+      "size": 940645,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "34d281fb5ef85c30cb91d9660d650a7f9a24d67ec7e46f22df4300b58972d4f7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-07T04:10:40.846Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "Deltarune",
+        "Seth(Deltarune)",
+        "Aqua(DELTARUNE)",
+        "Flowery(Deltarune)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146869253_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146869253",
+      "sourceCreatedAt": "2026-07-05T15:36:07.000Z"
+    },
+    {
       "id": "df413b2e",
       "filename": "pixiv_146832543_p0.jpg",
       "path": "uploads/2026/07/3e07b8b5.jpg",
