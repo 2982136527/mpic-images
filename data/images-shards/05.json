@@ -3,6 +3,35 @@
   "shardId": "05",
   "images": [
     {
+      "id": "7a201000",
+      "filename": "pixiv_145816542_p0.jpg",
+      "path": "uploads/2026/07/753efcd0.jpg",
+      "size": 828583,
+      "width": 880,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cc777feccef017742f68df07fcb794247f72467e898931aa15e38962e60cc3ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T17:52:08.546Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "その先は聞きたくない",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "別れ話",
+        "海",
+        "涙",
+        "船着き場",
+        "オリジナル1000users入り",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145816542_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145816542",
+      "sourceCreatedAt": "2026-06-09T15:14:43.000Z"
+    },
+    {
       "id": "26fd1347",
       "filename": "pixiv_146878350_p0.jpg",
       "path": "uploads/2026/07/2381a9e0.jpg",
