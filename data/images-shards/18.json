@@ -3,6 +3,28 @@
   "shardId": "18",
   "images": [
     {
+      "id": "f5e64218",
+      "filename": "pixiv_146897123_p0.jpg",
+      "path": "uploads/2026/07/fe1ad28f.jpg",
+      "size": 423134,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "45213763cefbd8d7eb5e7e985106bb3c5cbe414f69deb2b8842736720111e574",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T17:53:12.865Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "実義5",
+      "tags": [
+        "さねぎゆ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146897123_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146897123",
+      "sourceCreatedAt": "2026-07-06T12:25:34.000Z"
+    },
+    {
       "id": "114b43ab",
       "filename": "pixiv_146905844_p0.jpg",
       "path": "uploads/2026/07/04da7306.jpg",
