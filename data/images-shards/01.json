@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "76d45bae",
+      "filename": "pixiv_146933412_p0.jpg",
+      "path": "uploads/2026/07/d4c77893.jpg",
+      "size": 2185898,
+      "width": 1050,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57d6f925dabe72a24eedabb2d9117fef480b65c78fc962a00c800bf8ae12a851",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T17:47:32.301Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ばたばた",
+      "tags": [
+        "七夕",
+        "オリジナル",
+        "イラスト",
+        "創作",
+        "異形"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146933412_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146933412",
+      "sourceCreatedAt": "2026-07-07T11:43:35.000Z"
+    },
+    {
       "id": "3061d397",
       "filename": "pixiv_146717485_p0.jpg",
       "path": "uploads/2026/07/824dffd2.jpg",
