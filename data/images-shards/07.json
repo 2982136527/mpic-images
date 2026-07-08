@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "f2aa9bc4",
+      "filename": "pixiv_146875610_p0.jpg",
+      "path": "uploads/2026/07/2eb275ae.jpg",
+      "size": 1105733,
+      "width": 663,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3a8c8b2deb8d8f74dd7f87883b9dc314da9fd43aa0c2933173255ab319cf581d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T03:33:38.618Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "RED HOOD",
+      "tags": [
+        "女の子",
+        "レッドフード(勝利の女神:NIKKE)",
+        "RedHood",
+        "NIKKE"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146875610_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146875610",
+      "sourceCreatedAt": "2026-07-05T20:57:55.000Z"
+    },
+    {
       "id": "2d24b25a",
       "filename": "pixiv_146879871_p0.jpg",
       "path": "uploads/2026/07/11281f4e.jpg",
