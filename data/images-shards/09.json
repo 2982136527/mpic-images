@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "b2e375c7",
+      "filename": "pixiv_146932475_p0.jpg",
+      "path": "uploads/2026/07/875ff445.jpg",
+      "size": 530735,
+      "width": 739,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7df96aea26e0e0bf4ce20a8c474bcbcc7859b6733450333b1303463de5ccd765",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T10:31:23.963Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "rf2",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146932475_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146932475",
+      "sourceCreatedAt": "2026-07-07T11:20:45.000Z"
+    },
+    {
       "id": "fb3ddef0",
       "filename": "pixiv_146874020_p0.jpg",
       "path": "uploads/2026/07/d8dcdd37.jpg",
