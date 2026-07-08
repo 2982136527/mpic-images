@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "9de0416c",
+      "filename": "pixiv_146873730_p0.jpg",
+      "path": "uploads/2026/07/86f337bb.jpg",
+      "size": 601920,
+      "width": 1032,
+      "height": 1198,
+      "mimeType": "image/jpeg",
+      "hash": "327e14e50412e71fc211f8d1bcf1cfafae61c9838a07df1efa75e06b702d9ae2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T03:33:16.058Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "上官と部下61",
+      "tags": [
+        "漫画",
+        "上官と部下"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146873730_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146873730",
+      "sourceCreatedAt": "2026-07-05T18:37:49.000Z"
+    },
+    {
       "id": "68555e2c",
       "filename": "pixiv_145798745_p0.jpg",
       "path": "uploads/2026/07/eec69768.jpg",
