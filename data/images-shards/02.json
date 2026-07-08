@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "20c87c88",
+      "filename": "pixiv_146932391_p0.jpg",
+      "path": "uploads/2026/07/d5002a25.jpg",
+      "size": 448292,
+      "width": 812,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3035ceefa8405c6e86323fe775afbd2714ab51b5c3c45b9733d04bafb7f1cde7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T10:33:24.244Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "rf",
+      "tags": [
+        "女の子",
+        "Re:ゼロから始める異世界生活"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146932391_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146932391",
+      "sourceCreatedAt": "2026-07-07T11:18:53.000Z"
+    },
+    {
       "id": "f7033585",
       "filename": "pixiv_146904438_p0.jpg",
       "path": "uploads/2026/07/d15922c2.jpg",
