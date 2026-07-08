@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "dd59917c",
+      "filename": "pixiv_146828566_p0.jpg",
+      "path": "uploads/2026/07/f2579099.jpg",
+      "size": 846416,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "1a21ee8bd428387f69dde882928440f3c30755d8e9dad6fdb4f9c3a83b2ea6c3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T03:33:44.987Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夏の匂い",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "男の子",
+        "夏空",
+        "空"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146828566_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146828566",
+      "sourceCreatedAt": "2026-07-04T18:43:29.000Z"
+    },
+    {
       "id": "dcde29e0",
       "filename": "pixiv_146868583_p0.jpg",
       "path": "uploads/2026/07/dbda2445.jpg",
