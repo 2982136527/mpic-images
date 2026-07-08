@@ -3,6 +3,33 @@
   "shardId": "03",
   "images": [
     {
+      "id": "efdfbba1",
+      "filename": "pixiv_146904255_p0.jpg",
+      "path": "uploads/2026/07/30b7f1ca.jpg",
+      "size": 688884,
+      "width": 1200,
+      "height": 540,
+      "mimeType": "image/jpeg",
+      "hash": "5182fc32f9949b3bfe02cc612b39a4edda26f125de66b28ed370d7271bf57cf9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T10:29:08.115Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "DAY77",
+      "tags": [
+        "原神",
+        "Genshin",
+        "GenshinImpact",
+        "甘雨",
+        "Ganyu",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146904255_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146904255",
+      "sourceCreatedAt": "2026-07-06T15:00:13.000Z"
+    },
+    {
       "id": "a87a515f",
       "filename": "pixiv_146854010_p0.jpg",
       "path": "uploads/2026/07/ad3c5113.jpg",
