@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "48de2ccb",
+      "filename": "pixiv_146900293_p0.jpg",
+      "path": "uploads/2026/07/69658e79.jpg",
+      "size": 302716,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6631012582685a54c35bb9db3148f76ff9d9c2254e866d186250bb3bef0bc5de",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T17:49:20.297Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "初音ミク",
+        "ピノ(アイスクリーム)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146900293_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146900293",
+      "sourceCreatedAt": "2026-07-06T13:31:58.000Z"
+    },
+    {
       "id": "3d7b45eb",
       "filename": "pixiv_146908816_p0.jpg",
       "path": "uploads/2026/07/a1a5ae13.jpg",
