@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "d0ee2f9d",
+      "filename": "pixiv_146870428_p0.jpg",
+      "path": "uploads/2026/07/c25279c6.jpg",
+      "size": 520032,
+      "width": 1200,
+      "height": 1064,
+      "mimeType": "image/jpeg",
+      "hash": "0362ee614849b20aec9d412b71bd06159e61b01a9ed11a756783682606feb2c0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T10:27:30.227Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Doodle",
+      "tags": [
+        "うちの子",
+        "褐色肌"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146870428_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146870428",
+      "sourceCreatedAt": "2026-07-05T16:07:12.000Z"
+    },
+    {
       "id": "4e77342e",
       "filename": "pixiv_146868366_p0.jpg",
       "path": "uploads/2026/07/b85ac397.jpg",
