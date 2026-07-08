@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "fa1e63e9",
+      "filename": "pixiv_146897020_p0.jpg",
+      "path": "uploads/2026/07/10970eb3.jpg",
+      "size": 706841,
+      "width": 1200,
+      "height": 573,
+      "mimeType": "image/jpeg",
+      "hash": "93aa5498cfecd7db5849a9073025d1df9d668ff615cde471bf374a737a44f418",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T10:33:31.313Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "風景",
+        "arknights",
+        "明日方舟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146897020_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146897020",
+      "sourceCreatedAt": "2026-07-06T12:23:10.000Z"
+    },
+    {
       "id": "20c87c88",
       "filename": "pixiv_146932391_p0.jpg",
       "path": "uploads/2026/07/d5002a25.jpg",
