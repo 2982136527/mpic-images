@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "4ce12b51",
+      "filename": "pixiv_146858722_p0.jpg",
+      "path": "uploads/2026/07/c7aa431f.jpg",
+      "size": 671054,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "82456c3799e0c2c8b91e9a030893ac91a6a96aa07eff36ce7f31462dedbb6339",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T03:34:30.632Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "二日酔い",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ローエン(原神)",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146858722_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146858722",
+      "sourceCreatedAt": "2026-07-05T12:17:12.000Z"
+    },
+    {
       "id": "af16b9e2",
       "filename": "pixiv_145793140_p0.jpg",
       "path": "uploads/2026/07/b031ac32.jpg",
