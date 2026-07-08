@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "292e6cc2",
+      "filename": "pixiv_146925236_p0.jpg",
+      "path": "uploads/2026/07/d651dac1.jpg",
+      "size": 890869,
+      "width": 1200,
+      "height": 677,
+      "mimeType": "image/jpeg",
+      "hash": "c20fbb0e4a3fc77f23edccc1d346f39fcd42ad6e872f6c337eae97aad93318b8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T10:30:53.870Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "春日",
+      "tags": [
+        "明日方舟",
+        "アークナイツ",
+        "アーミヤ(アークナイツ)",
+        "Arknights"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146925236_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146925236",
+      "sourceCreatedAt": "2026-07-07T08:00:05.000Z"
+    },
+    {
       "id": "ff11c053",
       "filename": "pixiv_146911692_p0.jpg",
       "path": "uploads/2026/07/250981e7.jpg",
