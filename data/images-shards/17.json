@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "bee51c37",
+      "filename": "pixiv_146904957_p0.jpg",
+      "path": "uploads/2026/07/f49d2b8b.jpg",
+      "size": 496884,
+      "width": 600,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "dc0c8857950d083e0c96f31862314dca9d93ad6d26678acfaecf76b8f165e021",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T10:30:39.037Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "💫ジラーチの日/Jirachi day💫",
+      "tags": [
+        "ポケモン",
+        "ジラーチ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146904957_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146904957",
+      "sourceCreatedAt": "2026-07-06T15:05:05.000Z"
+    },
+    {
       "id": "8d360828",
       "filename": "pixiv_146935185_p0.jpg",
       "path": "uploads/2026/07/a7d60ba4.jpg",
