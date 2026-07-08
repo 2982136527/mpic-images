@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "d3d376e0",
+      "filename": "pixiv_146933384_p0.jpg",
+      "path": "uploads/2026/07/f4383839.jpg",
+      "size": 933347,
+      "width": 1200,
+      "height": 660,
+      "mimeType": "image/jpeg",
+      "hash": "89d2b5bc8f859ee528445b5c7f3e1edb1a896ca16b90229f712c99067370773c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T17:50:45.539Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Haruka",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "伊草ハルカ",
+        "ゲヘナ学園"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146933384_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146933384",
+      "sourceCreatedAt": "2026-07-07T11:42:48.000Z"
+    },
+    {
       "id": "f0534ff6",
       "filename": "pixiv_146869510_p0.jpg",
       "path": "uploads/2026/07/815ae0c4.jpg",
