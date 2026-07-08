@@ -3,6 +3,37 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "243a8670",
+      "filename": "pixiv_145854566_p0.jpg",
+      "path": "uploads/2026/07/d9cc628f.jpg",
+      "size": 287837,
+      "width": 600,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "41cab1adb177bc21bc54afa5b0995d2aac47a4fda5d82d78a196519d625bcbdd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T17:53:50.745Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "おもちかえり",
+      "tags": [
+        "ポケモン",
+        "カフェライチュウ",
+        "ミヅキ(トレーナー)",
+        "ほぁー。",
+        "なにこの仔かわいい",
+        "やはり偏るアンケート",
+        "そっちかよ",
+        "お巡りさんこいつです",
+        "ポケモン1000users入り",
+        "ジュンサーさんこっちです"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145854566_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145854566",
+      "sourceCreatedAt": "2026-06-10T15:02:49.000Z"
+    },
+    {
       "id": "5cf14b99",
       "filename": "pixiv_146916466_p0.jpg",
       "path": "uploads/2026/07/92df602b.jpg",
