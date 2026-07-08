@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "6094f169",
+      "filename": "pixiv_145790612_p0.jpg",
+      "path": "uploads/2026/07/eefcf823.jpg",
+      "size": 441820,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a55613e255a5221b6ade03a78d3476e8662436f606a6089bce1b66a916d59af4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T17:51:58.979Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "橘ノゾミ",
+      "tags": [
+        "橘ノゾミ",
+        "ブルアカ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145790612_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145790612",
+      "sourceCreatedAt": "2026-06-09T00:41:50.000Z"
+    },
+    {
       "id": "4f1d5554",
       "filename": "pixiv_146909745_p0.jpg",
       "path": "uploads/2026/07/45c0ba0c.jpg",
