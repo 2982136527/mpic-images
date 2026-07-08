@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "f0534ff6",
+      "filename": "pixiv_146869510_p0.jpg",
+      "path": "uploads/2026/07/815ae0c4.jpg",
+      "size": 1494059,
+      "width": 726,
+      "height": 1100,
+      "mimeType": "image/jpeg",
+      "hash": "31a1d3d5aee8947448b3393c6a2846d606abd0875d8c6adae3408f4d126f307c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T17:49:53.454Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "✌",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "メカクレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146869510_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146869510",
+      "sourceCreatedAt": "2026-07-05T18:47:17.000Z"
+    },
+    {
       "id": "975304d5",
       "filename": "pixiv_146927809_p0.jpg",
       "path": "uploads/2026/07/5902e111.jpg",
