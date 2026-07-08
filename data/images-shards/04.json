@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "11ec2a8b",
+      "filename": "pixiv_146921644_p0.jpg",
+      "path": "uploads/2026/07/b95cbc22.jpg",
+      "size": 1123212,
+      "width": 938,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cd15602a12efebbd58e1c1fe723f53aefc0ee9231be1487ae691d78a3aa25576",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T17:48:41.020Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "远航星",
+      "tags": [
+        "鸣潮",
+        "爱弥斯",
+        "飞行雪绒"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146921644_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146921644",
+      "sourceCreatedAt": "2026-07-07T04:55:30.000Z"
+    },
+    {
       "id": "4bdc36bc",
       "filename": "pixiv_146926426_p0.jpg",
       "path": "uploads/2026/07/d0086adc.jpg",
