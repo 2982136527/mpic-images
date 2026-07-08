@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "97e41797",
+      "filename": "pixiv_145826326_p0.jpg",
+      "path": "uploads/2026/07/9e133515.jpg",
+      "size": 1003539,
+      "width": 918,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bc6c4c98895aa9dc3a08097ab7e1ca0203f35e617e1d5d0a94c14abaa8498b58",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T03:38:46.179Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "白髪",
+        "オリジナル5000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145826326_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145826326",
+      "sourceCreatedAt": "2026-06-09T22:30:46.000Z"
+    },
+    {
       "id": "b410aef7",
       "filename": "pixiv_145848586_p0.jpg",
       "path": "uploads/2026/07/fabdc015.jpg",
