@@ -3,6 +3,28 @@
   "shardId": "04",
   "images": [
     {
+      "id": "4daedd0a",
+      "filename": "pixiv_146867211_p0.jpg",
+      "path": "uploads/2026/07/cb7465e7.jpg",
+      "size": 1250247,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6c79dcefc53e6727d0ff6420a586ccae4387e79c5e11249199a7ace8df831099",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T03:36:13.904Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "あくびねこちゃん",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146867211_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146867211",
+      "sourceCreatedAt": "2026-07-05T15:00:19.000Z"
+    },
+    {
       "id": "9dd43d7c",
       "filename": "pixiv_145838739_p0.jpg",
       "path": "uploads/2026/07/0d5941a1.jpg",
