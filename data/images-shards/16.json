@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "2b9fe33e",
+      "filename": "pixiv_146693809_p0.jpg",
+      "path": "uploads/2026/07/5cd4b8b3.jpg",
+      "size": 1457654,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "bfd2b9af4ba715cd5d8d6fadc1390b6ddb19b9c24ecd5f70209325264362d17f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T17:51:16.269Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "FA",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "夏目アンアン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146693809_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146693809",
+      "sourceCreatedAt": "2026-07-01T11:54:36.000Z"
+    },
+    {
       "id": "d3d376e0",
       "filename": "pixiv_146933384_p0.jpg",
       "path": "uploads/2026/07/f4383839.jpg",
