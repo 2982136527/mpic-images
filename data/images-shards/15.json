@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "cc0e5dff",
+      "filename": "pixiv_146909713_p0.jpg",
+      "path": "uploads/2026/07/7d0c48df.jpg",
+      "size": 1034293,
+      "width": 823,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6b2c00a56be2b8f342420533120e7f33ff6b8e153af41f4c4b1dee43f527ac6a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T17:46:18.871Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "CH4I",
+      "tags": [
+        "vtuber",
+        "ラバースーツ",
+        "ぴっちりスーツ",
+        "スーツYouTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146909713_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146909713",
+      "sourceCreatedAt": "2026-07-06T17:36:42.000Z"
+    },
+    {
       "id": "d23aa84b",
       "filename": "pixiv_146727048_p0.jpg",
       "path": "uploads/2026/07/e1af0c02.jpg",
