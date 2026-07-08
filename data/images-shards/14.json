@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "b3bb5316",
+      "filename": "pixiv_146898914_p0.jpg",
+      "path": "uploads/2026/07/67b5db99.jpg",
+      "size": 898986,
+      "width": 914,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cbae4d505a1b8626230e8031a64c90be4de33813a66b16527d6f2734809845fe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T03:39:21.711Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "リクエスト絵まとめ",
+      "tags": [
+        "学園アイドルマスター",
+        "ウマ娘プリティーダービー",
+        "学マス",
+        "ウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146898914_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146898914",
+      "sourceCreatedAt": "2026-07-06T13:02:01.000Z"
+    },
+    {
       "id": "941ef578",
       "filename": "pixiv_146930283_p0.jpg",
       "path": "uploads/2026/07/8cc5707e.jpg",
