@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "843d6eb5",
+      "filename": "pixiv_146917716_p0.jpg",
+      "path": "uploads/2026/07/72f1b896.jpg",
+      "size": 1476738,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1c4ee60631e74b34924d8f67d5d7a2b47680a69c2af2c20949fe1cc5aba8b138",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T03:35:28.287Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【7/15~20】東京展示のお知らせ",
+      "tags": [
+        "展示",
+        "お知らせ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146917716_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146917716",
+      "sourceCreatedAt": "2026-07-07T01:47:50.000Z"
+    },
+    {
       "id": "d82d78a2",
       "filename": "pixiv_146892794_p0.jpg",
       "path": "uploads/2026/07/223c88d8.jpg",
