@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "755e718c",
+      "filename": "pixiv_146874854_p0.jpg",
+      "path": "uploads/2026/07/17ab4470.jpg",
+      "size": 1062983,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "98c062de1aa9e20afe1e20577a987525639d346638d9f30a41553799fe93e6d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T10:30:00.922Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Day80 Surtr",
+      "tags": [
+        "100日チャレンジ",
+        "アークナイツ",
+        "明日方舟",
+        "Arknights"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146874854_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146874854",
+      "sourceCreatedAt": "2026-07-05T20:00:24.000Z"
+    },
+    {
       "id": "136b6148",
       "filename": "pixiv_145834342_p0.jpg",
       "path": "uploads/2026/07/ef6ddc4e.jpg",
