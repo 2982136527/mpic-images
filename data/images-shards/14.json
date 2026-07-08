@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "057a4a0e",
+      "filename": "pixiv_146927603_p0.jpg",
+      "path": "uploads/2026/07/0814c4c6.jpg",
+      "size": 1237639,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d9462b4afe43d68bd02dd3796b86ab980de29afd7cd4566a1e179a213e4f0834",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T10:28:53.007Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "流れ星",
+      "tags": [
+        "ポケモン",
+        "ジラーチ",
+        "七夕",
+        "ジラーチ星祭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146927603_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146927603",
+      "sourceCreatedAt": "2026-07-07T09:16:06.000Z"
+    },
+    {
       "id": "559368fc",
       "filename": "pixiv_146873667_p0.jpg",
       "path": "uploads/2026/07/af854e38.jpg",
