@@ -3,6 +3,37 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "8db7bff8",
+      "filename": "pixiv_146921949_p0.jpg",
+      "path": "uploads/2026/07/5292fed7.jpg",
+      "size": 1209735,
+      "width": 1200,
+      "height": 611,
+      "mimeType": "image/jpeg",
+      "hash": "38f9ebcc121a72b75815472cbdec6dfdb54a2c1a16ada673a72674f5311363d6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T03:35:14.882Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "女の子",
+        "創作",
+        "背景",
+        "少女",
+        "風景",
+        "场景",
+        "插画",
+        "Arcaea",
+        "arcaea_art",
+        "音游"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146921949_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146921949",
+      "sourceCreatedAt": "2026-07-07T05:11:00.000Z"
+    },
+    {
       "id": "3c6cc408",
       "filename": "pixiv_146876122_p0.jpg",
       "path": "uploads/2026/07/b61844ac.jpg",
