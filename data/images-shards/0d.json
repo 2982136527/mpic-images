@@ -3,6 +3,28 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "95d40496",
+      "filename": "pixiv_146890918_p0.jpg",
+      "path": "uploads/2026/07/5f950d18.jpg",
+      "size": 991939,
+      "width": 1200,
+      "height": 930,
+      "mimeType": "image/jpeg",
+      "hash": "843cd40aad371fd28e4c15f9525fc53410adf0d3d5a0b3ebac00ab8a55333514",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T03:34:17.668Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "文鳥",
+      "tags": [
+        "ことり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146890918_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146890918",
+      "sourceCreatedAt": "2026-07-06T09:54:46.000Z"
+    },
+    {
       "id": "8a626e12",
       "filename": "pixiv_146625393_p0.jpg",
       "path": "uploads/2026/07/eb1ead79.jpg",
