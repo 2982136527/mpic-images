@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "fd63b765",
+      "filename": "pixiv_146877029_p0.jpg",
+      "path": "uploads/2026/07/c9884cd2.jpg",
+      "size": 417982,
+      "width": 801,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "72d048d6faac04ce493445f52cce3967a4225effb817e8bfd7a74366a62f7fbb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T17:45:55.912Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "リオ｜Rio｜莉音｜리오",
+      "tags": [
+        "pixivGlowEffect",
+        "調月リオ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "ブルアカ",
+        "블루아카이브",
+        "ラバースーツ",
+        "ぴっちりスーツ",
+        "ボディスーツ",
+        "AI加筆"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146877029_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146877029",
+      "sourceCreatedAt": "2026-07-05T22:16:33.000Z"
+    },
+    {
       "id": "487b24e0",
       "filename": "pixiv_146926366_p0.jpg",
       "path": "uploads/2026/07/04b3744d.jpg",
