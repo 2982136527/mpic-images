@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "805b4f2d",
+      "filename": "pixiv_146897155_p0.jpg",
+      "path": "uploads/2026/07/cccee7b7.jpg",
+      "size": 421828,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b00483c1a2f85da567c03ca6137d4952f32182c0ac486f3f3c45b7df86576756",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T03:39:28.526Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "かっこいいウマ娘のお姉さん",
+      "tags": [
+        "フェノーメノ(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "ウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146897155_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146897155",
+      "sourceCreatedAt": "2026-07-06T12:26:12.000Z"
+    },
+    {
       "id": "cbb356eb",
       "filename": "pixiv_146892289_p0.jpg",
       "path": "uploads/2026/07/4cf46a6f.jpg",
