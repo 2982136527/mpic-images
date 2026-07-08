@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "bcb375ae",
+      "filename": "pixiv_146938399_p0.jpg",
+      "path": "uploads/2026/07/d784ba64.jpg",
+      "size": 618949,
+      "width": 1200,
+      "height": 924,
+      "mimeType": "image/jpeg",
+      "hash": "617c4f117bef2669a009f07938c271c88459f521b550624110a54ad165c6ee9a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T10:33:46.715Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "魔女裁判設定",
+      "tags": [
+        "プロフィール",
+        "マグショット",
+        "登場人物設定"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146938399_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146938399",
+      "sourceCreatedAt": "2026-07-07T13:20:42.000Z"
+    },
+    {
       "id": "63becf13",
       "filename": "pixiv_146889514_p0.jpg",
       "path": "uploads/2026/07/a0351429.jpg",
