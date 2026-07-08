@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "9600b534",
+      "filename": "pixiv_146904155_p0.jpg",
+      "path": "uploads/2026/07/0925c0cb.jpg",
+      "size": 909524,
+      "width": 936,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0cfd859ba817d4a3f5f65fb04fd8e3b1ee928d7b1fdbe6ffd6ff0fa50e82a6c1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T17:53:04.633Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ハルカちゃん",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "伊草ハルカ",
+        "たくしあげ",
+        "ぱんつ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146904155_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146904155",
+      "sourceCreatedAt": "2026-07-06T15:00:01.000Z"
+    },
+    {
       "id": "096f1ed1",
       "filename": "pixiv_145758868_p0.jpg",
       "path": "uploads/2026/07/0aca3689.jpg",
