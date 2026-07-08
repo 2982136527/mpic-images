@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "ef340388",
+      "filename": "pixiv_145845024_p0.jpg",
+      "path": "uploads/2026/07/5bf18e66.jpg",
+      "size": 1785384,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "602dcdf80f94a70ab9fd97df8f8e4a1fd2b603dc2f1c3876ff1c2558c3265c0b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-08T17:52:35.311Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Mi Fu Tangtang",
+      "tags": [
+        "アークナイツ:エンドフィールド",
+        "エンドフィールド",
+        "ArknightsEndfield",
+        "ミ・フ",
+        "タンタン(エンドフィールド)",
+        "エンドフィールド1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145845024_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145845024",
+      "sourceCreatedAt": "2026-06-10T11:42:14.000Z"
+    },
+    {
       "id": "e03ade11",
       "filename": "pixiv_146911011_p0.jpg",
       "path": "uploads/2026/07/08ca98c7.jpg",
