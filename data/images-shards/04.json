@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "96b27693",
+      "filename": "pixiv_146772414_p0.jpg",
+      "path": "uploads/2026/07/6b25b41e.jpg",
+      "size": 641829,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2c40ca81a9bd2355541df3698423c952ca0d657010445c4352b1addaf6428416",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:06:01.179Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ハーフツインミク",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ボカロ",
+        "HatsuneMiku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146772414_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146772414",
+      "sourceCreatedAt": "2026-07-03T13:01:51.000Z"
+    },
+    {
       "id": "c73688bb",
       "filename": "pixiv_146944267_p0.jpg",
       "path": "uploads/2026/07/713256bb.jpg",
