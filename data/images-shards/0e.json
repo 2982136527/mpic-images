@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "3da89a78",
+      "filename": "pixiv_146966100_p0.jpg",
+      "path": "uploads/2026/07/a3ff8a0f.jpg",
+      "size": 981544,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0bbd348832d37ca7ed89cb9dbda3d0e131a7e9ef06a46016541c92dbb3495df1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:15:55.032Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ねこめいどさん",
+      "tags": [
+        "男の子",
+        "少年",
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146966100_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146966100",
+      "sourceCreatedAt": "2026-07-08T09:30:37.000Z"
+    },
+    {
       "id": "f73b2402",
       "filename": "pixiv_146959906_p0.jpg",
       "path": "uploads/2026/07/df51bc4c.jpg",
