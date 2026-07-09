@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "7f6e601a",
+      "filename": "pixiv_146772366_p0.jpg",
+      "path": "uploads/2026/07/ea618ebf.jpg",
+      "size": 611919,
+      "width": 939,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a26cc0fc60557e75ad338fcb7fbbbbadc4cac39038e9b47335892711f0337d07",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:22:10.489Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "もちもち",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ボカロ",
+        "HatsuneMiku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146772366_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146772366",
+      "sourceCreatedAt": "2026-07-03T13:01:19.000Z"
+    },
+    {
       "id": "66a8e590",
       "filename": "pixiv_146963139_p0.jpg",
       "path": "uploads/2026/07/2a368206.jpg",
