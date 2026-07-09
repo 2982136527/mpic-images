@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "8db2ec8d",
+      "filename": "pixiv_146937083_p0.jpg",
+      "path": "uploads/2026/07/6ec7042d.jpg",
+      "size": 761076,
+      "width": 986,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0973268be08c6cb73a483402d6da24275a9122605b471fa9b9e0f343ab66c8bc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:00:48.238Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "七夕イラスト",
+      "tags": [
+        "オリジナル",
+        "創作百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146937083_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146937083",
+      "sourceCreatedAt": "2026-07-07T12:56:55.000Z"
+    },
+    {
       "id": "243a8670",
       "filename": "pixiv_145854566_p0.jpg",
       "path": "uploads/2026/07/d9cc628f.jpg",
