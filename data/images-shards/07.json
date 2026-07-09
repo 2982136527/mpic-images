@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "78a277a2",
+      "filename": "pixiv_146944951_p0.jpg",
+      "path": "uploads/2026/07/08ca9879.jpg",
+      "size": 1050687,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "f1f3010dfda4a55f7c1636f2dc91269b4b72cd29f7f1e68a4e67897be49310da",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:01:41.780Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "히클리생일",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "ヒースクリフ(LCB)",
+        "キャサリン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146944951_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146944951",
+      "sourceCreatedAt": "2026-07-07T15:27:30.000Z"
+    },
+    {
       "id": "67d5f1b9",
       "filename": "pixiv_146966268_p0.jpg",
       "path": "uploads/2026/07/68c8452a.jpg",
