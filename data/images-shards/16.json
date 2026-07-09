@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "33b04bed",
+      "filename": "pixiv_146961533_p0.jpg",
+      "path": "uploads/2026/07/7e7646fb.jpg",
+      "size": 531432,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "93dc74c74253285b8c06f694bc8375d627cab4230f32e4b4d97d05cfb6447e2b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:17:58.954Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "爪の描き方が分からない人へ",
+      "tags": [
+        "上達法",
+        "ノウハウ",
+        "描き方",
+        "ハウツー",
+        "コツ",
+        "指"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146961533_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146961533",
+      "sourceCreatedAt": "2026-07-08T06:27:18.000Z"
+    },
+    {
       "id": "2e768dd6",
       "filename": "pixiv_146935262_p0.jpg",
       "path": "uploads/2026/07/7d1bd8dc.jpg",
