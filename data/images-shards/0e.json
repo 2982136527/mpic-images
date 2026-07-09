@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "4ad3a429",
+      "filename": "pixiv_146909725_p0.jpg",
+      "path": "uploads/2026/07/a74e0f14.jpg",
+      "size": 1084237,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9e2ca74f3186fca34aaff136f7ea6a45bf948c88c38bc1e82c1644577c69ad66",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T03:59:26.192Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "アルクェイド",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "アルクェイド・ブリュンスタッド",
+        "長谷川育美"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146909725_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146909725",
+      "sourceCreatedAt": "2026-07-06T17:37:30.000Z"
+    },
+    {
       "id": "b6089619",
       "filename": "pixiv_146948652_p0.jpg",
       "path": "uploads/2026/07/bad46eee.jpg",
