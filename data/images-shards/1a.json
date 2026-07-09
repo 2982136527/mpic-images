@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "66a8e590",
+      "filename": "pixiv_146963139_p0.jpg",
+      "path": "uploads/2026/07/2a368206.jpg",
+      "size": 1502114,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "2ff5c8a3bc4ee2adf9bcfea8fde69fb85c8e08a1c2e5cb8178cd51cc82edd940",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:19:15.058Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Shinku",
+      "tags": [
+        "真紅",
+        "NevernesstoEverness",
+        "NTE",
+        "真紅(NTE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146963139_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146963139",
+      "sourceCreatedAt": "2026-07-08T07:51:50.000Z"
+    },
+    {
       "id": "739f09ce",
       "filename": "pixiv_146926859_p0.jpg",
       "path": "uploads/2026/07/6391c0e6.jpg",
