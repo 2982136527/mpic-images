@@ -3,6 +3,28 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "d36261c9",
+      "filename": "pixiv_146964930_p0.jpg",
+      "path": "uploads/2026/07/ac6d6339.jpg",
+      "size": 594257,
+      "width": 659,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7ddbd3b072fa3bcf3e0ed16ec6bfcb56b3a871c7ecd61aa3e95f8ec0d0e210b4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:17:13.570Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "シスターレイラさん",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146964930_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146964930",
+      "sourceCreatedAt": "2026-07-08T09:00:12.000Z"
+    },
+    {
       "id": "d9e3ad07",
       "filename": "pixiv_145865004_p0.jpg",
       "path": "uploads/2026/07/1135ae0a.jpg",
