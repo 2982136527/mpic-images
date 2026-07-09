@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "c5f7c229",
+      "filename": "pixiv_146972581_p0.jpg",
+      "path": "uploads/2026/07/5c7e159d.jpg",
+      "size": 489554,
+      "width": 764,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "03fc9d83ad14e87836b77876491e6d918a7227daa3d73314165b5e741ce4c2fc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:04:57.521Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ローエン(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146972581_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146972581",
+      "sourceCreatedAt": "2026-07-08T12:23:17.000Z"
+    },
+    {
       "id": "5d1bafd3",
       "filename": "pixiv_146959487_p0.jpg",
       "path": "uploads/2026/07/b465ecba.jpg",
