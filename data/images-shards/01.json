@@ -3,6 +3,28 @@
   "shardId": "01",
   "images": [
     {
+      "id": "dc75055c",
+      "filename": "pixiv_146924477_p0.jpg",
+      "path": "uploads/2026/07/ed83ab57.jpg",
+      "size": 1118970,
+      "width": 1200,
+      "height": 756,
+      "mimeType": "image/jpeg",
+      "hash": "7e4c042e6c4767a03a9359c38b6704735eb8292a4f7209b2e7e472f99b2a01bd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:19:25.752Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "『いもおか4周年記念』イラスト🎉",
+      "tags": [
+        "いもおか"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146924477_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146924477",
+      "sourceCreatedAt": "2026-07-07T07:24:31.000Z"
+    },
+    {
       "id": "d69ab358",
       "filename": "pixiv_146924852_p0.jpg",
       "path": "uploads/2026/07/4db3de91.jpg",
