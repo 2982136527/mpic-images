@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "4f217b57",
+      "filename": "pixiv_146965990_p0.jpg",
+      "path": "uploads/2026/07/b5acecdd.jpg",
+      "size": 955077,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1c6a97aa871f3f0cf2a8c2d6fd839c3333eb2c911b03224e5b7bbad349c1affe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T18:08:43.806Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "七夕",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "男の子",
+        "少年"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146965990_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146965990",
+      "sourceCreatedAt": "2026-07-08T09:28:03.000Z"
+    },
+    {
       "id": "b835f577",
       "filename": "pixiv_146929952_p0.jpg",
       "path": "uploads/2026/07/bf9d74a0.jpg",
