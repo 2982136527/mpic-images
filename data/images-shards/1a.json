@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "5842ef22",
+      "filename": "pixiv_146965423_p0.jpg",
+      "path": "uploads/2026/07/e86b0bbc.jpg",
+      "size": 1125807,
+      "width": 815,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "48a29d0f96e9adeb117c422127b0a1d041dfff82a5bf8a212c239b2addac2491",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:04:42.582Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "OC Mariel",
+      "tags": [
+        "OC",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146965423_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146965423",
+      "sourceCreatedAt": "2026-07-08T09:08:08.000Z"
+    },
+    {
       "id": "28974d02",
       "filename": "pixiv_146947401_p0.jpg",
       "path": "uploads/2026/07/86d12ab3.jpg",
