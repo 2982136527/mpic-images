@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "08c876b3",
+      "filename": "pixiv_146910366_p0.jpg",
+      "path": "uploads/2026/07/2ac8b66f.jpg",
+      "size": 1122555,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "15aa59a8e516b57a043f5645b9af966952dba4a2ecc4cbaccd567b388c43c266",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:21:25.540Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Kirlia",
+      "tags": [
+        "キルリア",
+        "ポケモン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146910366_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146910366",
+      "sourceCreatedAt": "2026-07-06T18:15:38.000Z"
+    },
+    {
       "id": "4b43417c",
       "filename": "pixiv_146975492_p0.jpg",
       "path": "uploads/2026/07/d3c0dcf7.jpg",
