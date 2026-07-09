@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "7a26e841",
+      "filename": "pixiv_146945766_p0.jpg",
+      "path": "uploads/2026/07/cec4f74d.jpg",
+      "size": 969907,
+      "width": 1200,
+      "height": 934,
+      "mimeType": "image/jpeg",
+      "hash": "0e46606fc8e20b326ebf3344935cbbbe56895d569c26d38a8db59b33f4c94999",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:05:35.720Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "hornet nest removal",
+      "tags": [
+        "scp",
+        "SCP-953"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146945766_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146945766",
+      "sourceCreatedAt": "2026-07-07T15:49:33.000Z"
+    },
+    {
       "id": "46725565",
       "filename": "pixiv_146963407_p0.jpg",
       "path": "uploads/2026/07/fc442f2c.jpg",
