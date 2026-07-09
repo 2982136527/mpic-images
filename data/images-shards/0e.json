@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "f73b2402",
+      "filename": "pixiv_146959906_p0.jpg",
+      "path": "uploads/2026/07/df51bc4c.jpg",
+      "size": 1421834,
+      "width": 893,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7ebaac7dd9f5f5b0b48a6d9a18c3189f577b40f6e18a4f737067da4cfc25a4bd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:14:42.324Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "月読カグヤ",
+      "tags": [
+        "MoonHack",
+        "ムーンハック",
+        "女の子",
+        "少女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146959906_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146959906",
+      "sourceCreatedAt": "2026-07-08T05:02:44.000Z"
+    },
+    {
       "id": "1831fc81",
       "filename": "pixiv_146954871_p0.jpg",
       "path": "uploads/2026/07/b4fa06e8.jpg",
