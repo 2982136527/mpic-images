@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "22e6de84",
+      "filename": "pixiv_146968132_p0.jpg",
+      "path": "uploads/2026/07/0b82e0ee.jpg",
+      "size": 983814,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9014b99ca1b2a7128cd9ea8321a9a3ef9d5c7ce2c10474fbc1f808f29d71df77",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:20:39.908Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🖐",
+      "tags": [
+        "Shadowverse",
+        "シャドウバース",
+        "響爪の分班長"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146968132_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146968132",
+      "sourceCreatedAt": "2026-07-08T10:31:41.000Z"
+    },
+    {
       "id": "cd7c0ec0",
       "filename": "pixiv_146970272_p0.jpg",
       "path": "uploads/2026/07/af9c7254.jpg",
