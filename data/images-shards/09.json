@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "f81ec121",
+      "filename": "pixiv_146924552_p0.jpg",
+      "path": "uploads/2026/07/9dcdd69b.jpg",
+      "size": 797189,
+      "width": 1200,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "3e8ff12eaa9a1d5fc9702a9817d6b88dbcb02bdbc642fecf424f883062248cea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T18:12:16.146Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "顔練習",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "秤アツコ",
+        "SD"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146924552_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146924552",
+      "sourceCreatedAt": "2026-07-07T07:28:19.000Z"
+    },
+    {
       "id": "342dcc37",
       "filename": "pixiv_146951779_p0.jpg",
       "path": "uploads/2026/07/7c809d32.jpg",
