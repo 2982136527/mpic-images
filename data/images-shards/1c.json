@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "58d53ea8",
+      "filename": "pixiv_146932350_p0.jpg",
+      "path": "uploads/2026/07/2ab03483.jpg",
+      "size": 788070,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c33b70c1326ef2b501a6a972f68494ba266a59adb2b4ee5121e10dac00955881",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:00:40.718Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ちいさな奏の願いごと",
+      "tags": [
+        "宵崎奏",
+        "prsk_FA",
+        "涙腺がわんだほい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146932350_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146932350",
+      "sourceCreatedAt": "2026-07-07T11:17:49.000Z"
+    },
+    {
       "id": "cd181db1",
       "filename": "pixiv_145816604_p0.jpg",
       "path": "uploads/2026/07/c4eb612b.jpg",
