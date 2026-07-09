@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "b1465618",
+      "filename": "pixiv_146973700_p0.jpg",
+      "path": "uploads/2026/07/b5fd272c.jpg",
+      "size": 817624,
+      "width": 666,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09782f11d961d256f551a2527e06da407fddf0cc9fa7455bc2e48ef8649a3390",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:03:46.370Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "サンドローネ",
+      "tags": [
+        "原神",
+        "サンドローネ",
+        "足組み"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146973700_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146973700",
+      "sourceCreatedAt": "2026-07-08T12:51:29.000Z"
+    },
+    {
       "id": "18095dfe",
       "filename": "pixiv_146947059_p0.jpg",
       "path": "uploads/2026/07/391da899.jpg",
