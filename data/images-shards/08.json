@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "ade89b6d",
+      "filename": "pixiv_146965518_p0.jpg",
+      "path": "uploads/2026/07/915f5fcb.jpg",
+      "size": 1887862,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7685469173e927af23262c918e7433f96aa2923c74ef8c0e541618ca12b25d3d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T18:09:44.248Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "花籠の魔女",
+      "tags": [
+        "花",
+        "創作",
+        "オリジナル",
+        "魔女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146965518_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146965518",
+      "sourceCreatedAt": "2026-07-08T09:10:57.000Z"
+    },
+    {
       "id": "e514bb19",
       "filename": "pixiv_146934797_p0.jpg",
       "path": "uploads/2026/07/bd9096d8.jpg",
