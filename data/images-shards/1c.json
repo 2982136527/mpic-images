@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "c240825a",
+      "filename": "pixiv_146933148_p0.jpg",
+      "path": "uploads/2026/07/b4ec873e.jpg",
+      "size": 896593,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8731de0edbffc307aebc9c96d0b4f2dbf1a8929e3bfb0a21f520f7217fddd310",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:03:25.781Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "宇宙",
+        "幻想"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146933148_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146933148",
+      "sourceCreatedAt": "2026-07-07T11:36:51.000Z"
+    },
+    {
       "id": "58d53ea8",
       "filename": "pixiv_146932350_p0.jpg",
       "path": "uploads/2026/07/2ab03483.jpg",
