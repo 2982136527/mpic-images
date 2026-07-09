@@ -3,6 +3,33 @@
   "shardId": "12",
   "images": [
     {
+      "id": "7615b169",
+      "filename": "pixiv_146933012_p0.jpg",
+      "path": "uploads/2026/07/9cc18847.jpg",
+      "size": 1324977,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7da0706e191882ad834277fc94229c64c581656dd43be37ab5ff38bc200a2bf3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:01:58.029Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "テスト開始",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "Genshin",
+        "サンドローネ(原神)",
+        "Sandrone",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146933012_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146933012",
+      "sourceCreatedAt": "2026-07-07T11:33:35.000Z"
+    },
+    {
       "id": "8a236213",
       "filename": "pixiv_146869415_p0.jpg",
       "path": "uploads/2026/07/6f8cc3ca.jpg",
