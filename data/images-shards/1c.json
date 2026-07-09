@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "e41ab61b",
+      "filename": "pixiv_146910324_p0.jpg",
+      "path": "uploads/2026/07/24abe784.jpg",
+      "size": 740604,
+      "width": 1105,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "299a9925007bbfe8e35a589ed3d241160b62a6b2945025f74b81bd04ccc6c479",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:16:24.318Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Rosmontis Day",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "アーミヤ(アークナイツ)",
+        "ロスモンティス(アークナイツ)",
+        "迷迭香"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146910324_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146910324",
+      "sourceCreatedAt": "2026-07-06T18:13:03.000Z"
+    },
+    {
       "id": "8a07f04f",
       "filename": "pixiv_146914331_p0.jpg",
       "path": "uploads/2026/07/0d9ef186.jpg",
