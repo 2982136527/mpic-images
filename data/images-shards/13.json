@@ -3,6 +3,35 @@
   "shardId": "13",
   "images": [
     {
+      "id": "6df6b9d3",
+      "filename": "pixiv_145858502_p0.jpg",
+      "path": "uploads/2026/07/c59a6341.jpg",
+      "size": 1238556,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "964d0fe1441d0d4d44e8bbaa1530c54bdfbfe58c228ad47a8f60327a3fe2d3c9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:07:26.234Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "今回だけです",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "アニス(勝利の女神:NIKKE)",
+        "ドロシー(勝利の女神:NIKKE)",
+        "ネオン(勝利の女神:NIKKE)",
+        "ラピ:レッドフード",
+        "でかぱい",
+        "しゃがみ",
+        "笑顔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145858502_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145858502",
+      "sourceCreatedAt": "2026-06-10T17:08:21.000Z"
+    },
+    {
       "id": "988cd17e",
       "filename": "pixiv_146967703_p0.jpg",
       "path": "uploads/2026/07/fd31b573.jpg",
