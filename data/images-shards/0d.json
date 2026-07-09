@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "da095883",
+      "filename": "pixiv_146942953_p0.jpg",
+      "path": "uploads/2026/07/dadab253.jpg",
+      "size": 430883,
+      "width": 656,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "0fc4b7a6c44b637264c4e5d1ab3e3f691fbe534f7743d7ef1a80410119df7258",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:15:05.152Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "マスターにだけ見せる表情",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146942953_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146942953",
+      "sourceCreatedAt": "2026-07-07T14:53:04.000Z"
+    },
+    {
       "id": "f1a5d94d",
       "filename": "pixiv_146970778_p0.jpg",
       "path": "uploads/2026/07/4f48e651.jpg",
