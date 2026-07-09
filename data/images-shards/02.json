@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "de5a83c0",
+      "filename": "pixiv_146966238_p0.jpg",
+      "path": "uploads/2026/07/5f3011d1.jpg",
+      "size": 522426,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5b8167295c4e8aa1dcdd473052fa630ed9364621b9ba594dc4ee09b0e35c2ed6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T18:06:44.288Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "ガンバレ中村くん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146966238_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146966238",
+      "sourceCreatedAt": "2026-07-08T09:34:47.000Z"
+    },
+    {
       "id": "e2c098b2",
       "filename": "pixiv_146927676_p0.jpg",
       "path": "uploads/2026/07/807b71d0.jpg",
