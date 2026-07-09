@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "e04851ef",
+      "filename": "pixiv_146968136_p0.jpg",
+      "path": "uploads/2026/07/84138e9d.jpg",
+      "size": 710574,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "22edecb88220e9dbf62386e347267227d0dca3ac9be6434f3c9390a47a527ca6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:08:11.786Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "あっ",
+      "tags": [
+        "艦隊これくしょん",
+        "艦これ",
+        "大井(艦隊これくしょん)",
+        "大井"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146968136_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146968136",
+      "sourceCreatedAt": "2026-07-08T10:31:46.000Z"
+    },
+    {
       "id": "e40d68e9",
       "filename": "pixiv_146929073_p0.jpg",
       "path": "uploads/2026/07/182fe1ed.jpg",
