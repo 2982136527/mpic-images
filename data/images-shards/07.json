@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "d49fed51",
+      "filename": "pixiv_146908863_p0.jpg",
+      "path": "uploads/2026/07/9dd7c07d.jpg",
+      "size": 1066680,
+      "width": 914,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c326ceb5730998f534b4c87de2e21a4206997bfcd7b48cc44564389c15dcfd19",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:08:48.956Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Maruzen",
+      "tags": [
+        "horse",
+        "bikini",
+        "ビキニ",
+        "マルゼンスキー(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146908863_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146908863",
+      "sourceCreatedAt": "2026-07-06T16:56:53.000Z"
+    },
+    {
       "id": "81d461b9",
       "filename": "pixiv_146910361_p0.jpg",
       "path": "uploads/2026/07/88089d1c.jpg",
