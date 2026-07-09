@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "46cc35e4",
+      "filename": "pixiv_146974847_p0.jpg",
+      "path": "uploads/2026/07/8ca30af3.jpg",
+      "size": 1219855,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "e42bb3ddee05a4d1448557a431ee3934a0ae6837887555dc9354b7e7d05889bd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T03:59:09.321Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "咖啡好了",
+      "tags": [
+        "原神",
+        "桑多涅",
+        "女孩子",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146974847_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146974847",
+      "sourceCreatedAt": "2026-07-08T13:15:59.000Z"
+    },
+    {
       "id": "1855a711",
       "filename": "pixiv_146905545_p0.jpg",
       "path": "uploads/2026/07/23205568.jpg",
