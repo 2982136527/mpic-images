@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "739f09ce",
+      "filename": "pixiv_146926859_p0.jpg",
+      "path": "uploads/2026/07/6391c0e6.jpg",
+      "size": 798285,
+      "width": 1200,
+      "height": 738,
+      "mimeType": "image/jpeg",
+      "hash": "a415f8ec9ae562e9a3efbec53c62d4f594be411684b14fa7079d337d7429d17d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:17:47.325Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "hiro_5",
+      "tags": [
+        "学園アイドルマスター",
+        "篠澤広"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146926859_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146926859",
+      "sourceCreatedAt": "2026-07-07T08:59:52.000Z"
+    },
+    {
       "id": "5842ef22",
       "filename": "pixiv_146965423_p0.jpg",
       "path": "uploads/2026/07/e86b0bbc.jpg",
