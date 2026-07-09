@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "d69ab358",
+      "filename": "pixiv_146924852_p0.jpg",
+      "path": "uploads/2026/07/4db3de91.jpg",
+      "size": 469014,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d3ff2b1d674d776aa84fd114760080f81cf025bd7f70fafad24d7c7fca6d5ad2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:19:06.620Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "offside",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "ミニマリー",
+        "伊落マリー",
+        "オフサイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146924852_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146924852",
+      "sourceCreatedAt": "2026-07-07T07:41:22.000Z"
+    },
+    {
       "id": "59093671",
       "filename": "pixiv_146957478_p0.jpg",
       "path": "uploads/2026/07/48eee04f.jpg",
