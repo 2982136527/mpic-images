@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "8b6eeb9b",
+      "filename": "pixiv_146959941_p0.jpg",
+      "path": "uploads/2026/07/d19a4f8b.jpg",
+      "size": 151306,
+      "width": 700,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "3ad2cf5ff1345f54ddb1317859284d053708a56632de1cea29d518da16442c3f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:20:48.083Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "캐시?",
+      "tags": [
+        "Limbus_Company",
+        "림버스컴퍼니",
+        "LimbusCompany"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146959941_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146959941",
+      "sourceCreatedAt": "2026-07-08T05:04:39.000Z"
+    },
+    {
       "id": "72e45912",
       "filename": "pixiv_146970667_p0.jpg",
       "path": "uploads/2026/07/f1161bad.jpg",
