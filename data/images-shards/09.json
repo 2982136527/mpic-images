@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "646cea1f",
+      "filename": "pixiv_146751315_p0.jpg",
+      "path": "uploads/2026/07/3886ff28.jpg",
+      "size": 738433,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "0fc3bbb70f98f665422de962dd45f3a08e040c9822b21ab51003d26ecc68f25b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:05:44.234Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "リズム学園2",
+      "tags": [
+        "リズム天国",
+        "学パロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146751315_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146751315",
+      "sourceCreatedAt": "2026-07-03T00:14:53.000Z"
+    },
+    {
       "id": "e38c4541",
       "filename": "pixiv_146970144_p0.jpg",
       "path": "uploads/2026/07/00280be0.jpg",
