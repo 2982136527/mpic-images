@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "ba9f7c63",
+      "filename": "pixiv_146956364_p0.jpg",
+      "path": "uploads/2026/07/9646d2f3.jpg",
+      "size": 848728,
+      "width": 671,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "898acd37d1bb9312864c5e169ed6821db0fa0114a549852ba0d67257659dc066",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:17:28.959Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "暑いよねブリジットきゅん",
+      "tags": [
+        "illustration",
+        "GUILTYGEAR",
+        "ギルティギア",
+        "ブリジット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146956364_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146956364",
+      "sourceCreatedAt": "2026-07-08T01:59:14.000Z"
+    },
+    {
       "id": "9c67936b",
       "filename": "pixiv_145952951_p0.jpg",
       "path": "uploads/2026/07/354fff2f.jpg",
