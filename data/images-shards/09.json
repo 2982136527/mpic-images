@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "342dcc37",
+      "filename": "pixiv_146951779_p0.jpg",
+      "path": "uploads/2026/07/7c809d32.jpg",
+      "size": 577674,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c9fee50418ae3b98abd7681c8632df11361eb582c8ab795b6901234ab42d059e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T18:12:06.879Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ポケモン擬人化　グレイシア",
+      "tags": [
+        "ポケモン",
+        "ポケモン擬人化",
+        "グレイシア",
+        "グレイシア(ポケモン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146951779_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146951779",
+      "sourceCreatedAt": "2026-07-07T21:23:30.000Z"
+    },
+    {
       "id": "646cea1f",
       "filename": "pixiv_146751315_p0.jpg",
       "path": "uploads/2026/07/3886ff28.jpg",
