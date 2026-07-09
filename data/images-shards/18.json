@@ -3,6 +3,36 @@
   "shardId": "18",
   "images": [
     {
+      "id": "e66544d3",
+      "filename": "pixiv_146929615_p0.jpg",
+      "path": "uploads/2026/07/f4b0128d.jpg",
+      "size": 1939398,
+      "width": 1000,
+      "height": 1100,
+      "mimeType": "image/jpeg",
+      "hash": "53e7d60b5ea94acbac285cb4e19d6758e4a7a51862e90d2f2e1d5ae650a88ace",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:18:40.583Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ひめごとねがいごと",
+      "tags": [
+        "七夕",
+        "短冊",
+        "願い事",
+        "暗号",
+        "バーコード",
+        "プライバシー",
+        "個人情報",
+        "どこからツッコめばいいのか",
+        "QRコード"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146929615_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146929615",
+      "sourceCreatedAt": "2026-07-07T10:15:36.000Z"
+    },
+    {
       "id": "8f87920c",
       "filename": "pixiv_146972250_p0.jpg",
       "path": "uploads/2026/07/e4bf5595.jpg",
