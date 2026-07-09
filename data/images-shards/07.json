@@ -3,6 +3,32 @@
   "shardId": "07",
   "images": [
     {
+      "id": "69bb62ef",
+      "filename": "pixiv_145857778_p0.jpg",
+      "path": "uploads/2026/07/36848626.jpg",
+      "size": 1085240,
+      "width": 690,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2af9094dd8a4b4d305e5e91cd879a106bde95963dd7497f5866ac6c4d0724e7a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:07:34.517Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "初音ミク",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "女の子",
+        "Miku",
+        "ヴィンテージドール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145857778_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145857778",
+      "sourceCreatedAt": "2026-06-10T16:34:31.000Z"
+    },
+    {
       "id": "f0efe993",
       "filename": "pixiv_145816875_p0.jpg",
       "path": "uploads/2026/07/5c8d7766.jpg",
