@@ -3,6 +3,37 @@
   "shardId": "17",
   "images": [
     {
+      "id": "4f1e1612",
+      "filename": "pixiv_146931731_p0.jpg",
+      "path": "uploads/2026/07/2a23a26a.jpg",
+      "size": 747841,
+      "width": 575,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8e6ebe77d4e163672a67230e7828ee80962d0fe6cfa24298533183bd19c93625",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T18:13:37.768Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Untitled",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "ジャンヌ・ダルク(Fate)",
+        "アルトリア・ペンドラゴン",
+        "ネロ・クラウディウス(水着)",
+        "遠坂凛",
+        "秦良玉(Fate)",
+        "宮本武蔵(Fate)",
+        "フィリア(Fate)",
+        "士凛"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146931731_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146931731",
+      "sourceCreatedAt": "2026-07-07T11:03:36.000Z"
+    },
+    {
       "id": "44404aa1",
       "filename": "pixiv_146904286_p0.jpg",
       "path": "uploads/2026/07/f46804f9.jpg",
