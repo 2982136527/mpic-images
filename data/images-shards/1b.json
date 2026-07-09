@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "72e45912",
+      "filename": "pixiv_146970667_p0.jpg",
+      "path": "uploads/2026/07/f1161bad.jpg",
+      "size": 820427,
+      "width": 941,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c423eb30062fdaa155c806ed02ff2afa3aa881dac0d658772e23b7c46c50da5b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:20:32.493Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "奏",
+      "tags": [
+        "プロセカ",
+        "プロジェクトセカイ",
+        "宵崎奏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146970667_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146970667",
+      "sourceCreatedAt": "2026-07-08T11:37:50.000Z"
+    },
+    {
       "id": "9a333104",
       "filename": "pixiv_146971776_p0.jpg",
       "path": "uploads/2026/07/02febbd4.jpg",
