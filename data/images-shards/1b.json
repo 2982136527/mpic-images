@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "008ba44b",
+      "filename": "pixiv_146945593_p0.jpg",
+      "path": "uploads/2026/07/50d50898.jpg",
+      "size": 1245156,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8ed6093e9b02989e0f120d0286f188336b26ade037b323d7fd0e5c0a4a703877",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:01:52.455Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🤍练",
+      "tags": [
+        "少女",
+        "girl",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146945593_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146945593",
+      "sourceCreatedAt": "2026-07-07T15:44:15.000Z"
+    },
+    {
       "id": "3b67619f",
       "filename": "pixiv_146928819_p0.jpg",
       "path": "uploads/2026/07/9212a90b.jpg",
