@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "67d5f1b9",
+      "filename": "pixiv_146966268_p0.jpg",
+      "path": "uploads/2026/07/68c8452a.jpg",
+      "size": 650266,
+      "width": 1129,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bb2952847e6c7867306e36fcb0d49a8343523735e618fec0c6f1bb6e7f80545d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:00:59.045Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "少年",
+      "tags": [
+        "男の子",
+        "創作",
+        "少年",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146966268_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146966268",
+      "sourceCreatedAt": "2026-07-08T09:35:47.000Z"
+    },
+    {
       "id": "55139a84",
       "filename": "pixiv_146906262_p0.jpg",
       "path": "uploads/2026/07/0d9a96bf.jpg",
