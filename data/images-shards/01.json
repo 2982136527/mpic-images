@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "cebd5935",
+      "filename": "pixiv_146907851_p0.jpg",
+      "path": "uploads/2026/07/5bd0b587.jpg",
+      "size": 458545,
+      "width": 784,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "879fa42f043e8a267ccd879acf61c076b74c4d3058b96b38896718433793a278",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T18:09:03.014Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【みんなの夢を】",
+      "tags": [
+        "和泉野小夢",
+        "シャインポスト",
+        "七夕"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146907851_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146907851",
+      "sourceCreatedAt": "2026-07-06T16:17:43.000Z"
+    },
+    {
       "id": "a5bddd6b",
       "filename": "pixiv_146928930_p0.jpg",
       "path": "uploads/2026/07/473204e4.jpg",
