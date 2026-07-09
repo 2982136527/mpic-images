@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "e514bb19",
+      "filename": "pixiv_146934797_p0.jpg",
+      "path": "uploads/2026/07/bd9096d8.jpg",
+      "size": 820206,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "184b7802482dae68cd1396b4ea70bf03c0c7ad385ef71146f3787019a4b1d1c1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T11:19:33.620Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🟦🔴",
+      "tags": [
+        "女の子",
+        "背景",
+        "バランスボール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146934797_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146934797",
+      "sourceCreatedAt": "2026-07-07T12:09:55.000Z"
+    },
+    {
       "id": "ba9f7c63",
       "filename": "pixiv_146956364_p0.jpg",
       "path": "uploads/2026/07/9646d2f3.jpg",
