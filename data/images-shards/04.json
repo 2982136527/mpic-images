@@ -3,6 +3,35 @@
   "shardId": "04",
   "images": [
     {
+      "id": "99a3bbf0",
+      "filename": "pixiv_146919104_p0.jpg",
+      "path": "uploads/2026/07/861d2b32.jpg",
+      "size": 546340,
+      "width": 654,
+      "height": 927,
+      "mimeType": "image/jpeg",
+      "hash": "549558aaca7ac725c157643dc976f91d7a7dd41b05c4d9308d942cbce3d3c400",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T03:59:52.087Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "個人メモ：膝周りの立体",
+      "tags": [
+        "漫画素材工房",
+        "描き方",
+        "人体",
+        "身体",
+        "美術解剖学",
+        "下半身",
+        "脚",
+        "膝"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146919104_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146919104",
+      "sourceCreatedAt": "2026-07-07T03:00:15.000Z"
+    },
+    {
       "id": "11ec2a8b",
       "filename": "pixiv_146921644_p0.jpg",
       "path": "uploads/2026/07/b95cbc22.jpg",
