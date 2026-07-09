@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "e698f990",
+      "filename": "pixiv_146967963_p0.jpg",
+      "path": "uploads/2026/07/d58df1c7.jpg",
+      "size": 889867,
+      "width": 707,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "167a673cbcdeb3c92110031805538ade13107ff6152e8a90475530490b5d46c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-09T04:01:09.797Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夏ローエン",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ローエン(原神)",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146967963_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146967963",
+      "sourceCreatedAt": "2026-07-08T10:27:41.000Z"
+    },
+    {
       "id": "fa1e63e9",
       "filename": "pixiv_146897020_p0.jpg",
       "path": "uploads/2026/07/10970eb3.jpg",
