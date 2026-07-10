@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "66dc00c2",
+      "filename": "pixiv_146965337_p0.jpg",
+      "path": "uploads/2026/07/d8461f39.jpg",
+      "size": 970283,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b46b3f42d7a4af8bd30c8fed2c9ba7023ce9e34ec56096404b5bbd2a4b7c4864",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T11:20:43.617Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Akane Lize",
+      "tags": [
+        "StelLive",
+        "Lize_art"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146965337_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146965337",
+      "sourceCreatedAt": "2026-07-08T09:05:43.000Z"
+    },
+    {
       "id": "7e5d8290",
       "filename": "pixiv_146979759_p0.jpg",
       "path": "uploads/2026/07/b0e361cd.jpg",
