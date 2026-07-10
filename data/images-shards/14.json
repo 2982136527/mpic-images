@@ -3,6 +3,32 @@
   "shardId": "14",
   "images": [
     {
+      "id": "4194e1b8",
+      "filename": "pixiv_147001578_p0.jpg",
+      "path": "uploads/2026/07/cd6c848b.jpg",
+      "size": 1387496,
+      "width": 757,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4c7d402b5556ea14e037def848e24461eb0c5c8d899381a1b8ccddf06e8813b3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T04:00:31.870Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "プール掃除",
+      "tags": [
+        "風景",
+        "女の子",
+        "女子高生",
+        "夏",
+        "プール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147001578_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147001578",
+      "sourceCreatedAt": "2026-07-09T09:25:55.000Z"
+    },
+    {
       "id": "63cac2d8",
       "filename": "pixiv_146943457_p0.jpg",
       "path": "uploads/2026/07/0cc52e62.jpg",
