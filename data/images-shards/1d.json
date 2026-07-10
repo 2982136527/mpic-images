@@ -3,6 +3,35 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "b29b420a",
+      "filename": "pixiv_146943420_p0.jpg",
+      "path": "uploads/2026/07/429ba47e.jpg",
+      "size": 950333,
+      "width": 876,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "83b75ca79e5581bf7d0e9003a231cecb45e95b49b826c582c8c1a6a631529a95",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T04:01:56.126Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Jane",
+      "tags": [
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ",
+        "zzzero",
+        "ゼンゼロ",
+        "swimsuit",
+        "JaneDoe",
+        "ジェーン・ドゥ(ゼンゼロ)",
+        "ゼンゼロ500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146943420_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146943420",
+      "sourceCreatedAt": "2026-07-07T15:00:14.000Z"
+    },
+    {
       "id": "a23be2e0",
       "filename": "pixiv_147004451_p0.jpg",
       "path": "uploads/2026/07/c4056ddc.jpg",
