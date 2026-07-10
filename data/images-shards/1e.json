@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "eaebe513",
+      "filename": "pixiv_146962040_p0.jpg",
+      "path": "uploads/2026/07/0ba82138.jpg",
+      "size": 757856,
+      "width": 1200,
+      "height": 627,
+      "mimeType": "image/jpeg",
+      "hash": "9addfcc3f254d690be8260a50a89c064484f11687c038d9bda54f8f34270c322",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T04:02:59.906Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ボトルミク",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ボトルミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146962040_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146962040",
+      "sourceCreatedAt": "2026-07-08T06:57:38.000Z"
+    },
+    {
       "id": "4f217b57",
       "filename": "pixiv_146965990_p0.jpg",
       "path": "uploads/2026/07/b5acecdd.jpg",
