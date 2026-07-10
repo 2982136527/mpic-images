@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "781428ad",
+      "filename": "pixiv_146991153_p0.jpg",
+      "path": "uploads/2026/07/1d765166.jpg",
+      "size": 813508,
+      "width": 958,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7408691703946d0afdfb43037fd9ae8039b31c473bed4e9801addea6f58b2184",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T11:18:26.653Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "睦2",
+      "tags": [
+        "少女",
+        "都市",
+        "現代"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146991153_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146991153",
+      "sourceCreatedAt": "2026-07-09T01:00:29.000Z"
+    },
+    {
       "id": "1c8b147d",
       "filename": "pixiv_146981506_p0.jpg",
       "path": "uploads/2026/07/eea2d566.jpg",
