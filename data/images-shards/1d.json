@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "40c1a561",
+      "filename": "pixiv_147006324_p0.jpg",
+      "path": "uploads/2026/07/b1bd1d7c.jpg",
+      "size": 354507,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "35f8cb17700d83cac2c8a51d7b0d2fe687470616c17094106e46e385961576f3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T11:17:00.842Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "Arknights",
+        "アークナイツ",
+        "明日方舟",
+        "失望した彫像",
+        "問いかける彫像(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147006324_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147006324",
+      "sourceCreatedAt": "2026-07-09T11:37:49.000Z"
+    },
+    {
       "id": "03e649a2",
       "filename": "pixiv_146959854_p0.jpg",
       "path": "uploads/2026/07/11b9b64b.jpg",
