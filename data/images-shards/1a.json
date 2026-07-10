@@ -3,6 +3,28 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "0c410f3e",
+      "filename": "pixiv_146973235_p0.jpg",
+      "path": "uploads/2026/07/6d4f8216.jpg",
+      "size": 773205,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ac30090b7b770e194c3c3c48b0ea94c0ee02d330b54307462ab81221a0d11572",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T04:08:29.741Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ヒカよし⑨",
+      "tags": [
+        "ヒカよし"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146973235_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146973235",
+      "sourceCreatedAt": "2026-07-08T12:39:04.000Z"
+    },
+    {
       "id": "ad2f484b",
       "filename": "pixiv_146968181_p0.jpg",
       "path": "uploads/2026/07/c494aa54.jpg",
