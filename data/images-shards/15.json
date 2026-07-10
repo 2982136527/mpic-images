@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "d98910ec",
+      "filename": "pixiv_146965840_p0.jpg",
+      "path": "uploads/2026/07/09e023ac.jpg",
+      "size": 368076,
+      "width": 803,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "66c15d721b55c667f90c53ae2dda286209c518b4c6547105b236defc2d1e118c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T11:21:26.222Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "M1895(ドールズフロントライン)",
+        "ハイヒール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146965840_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146965840",
+      "sourceCreatedAt": "2026-07-08T09:22:34.000Z"
+    },
+    {
       "id": "03e6c2c7",
       "filename": "pixiv_146956165_p0.jpg",
       "path": "uploads/2026/07/dac05c46.jpg",
