@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "1e118e23",
+      "filename": "pixiv_146963555_p0.jpg",
+      "path": "uploads/2026/07/2da87585.jpg",
+      "size": 718053,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7637e121944998c34c003c2d6d87360763fb770d695cba824ecd1cafb608341f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T04:08:51.455Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "後藤さんの後ろ姿",
+      "tags": [
+        "ぼっち・ざ・ろっく!",
+        "後藤ひとり",
+        "後ろ姿",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146963555_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146963555",
+      "sourceCreatedAt": "2026-07-08T08:08:32.000Z"
+    },
+    {
       "id": "7e775bb3",
       "filename": "pixiv_146943425_p0.jpg",
       "path": "uploads/2026/07/66f06d5b.jpg",
