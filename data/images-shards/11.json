@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "ed8fb011",
+      "filename": "pixiv_147003354_p0.jpg",
+      "path": "uploads/2026/07/85ad2246.jpg",
+      "size": 1294406,
+      "width": 883,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6d1366883383f645cb2acb855815754e57f39e9adaaf8e8d4795f136201d5914",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T04:02:28.557Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "OC",
+      "tags": [
+        "天使",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147003354_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147003354",
+      "sourceCreatedAt": "2026-07-09T10:17:41.000Z"
+    },
+    {
       "id": "a06a62f2",
       "filename": "pixiv_146990996_p0.jpg",
       "path": "uploads/2026/07/dac188b2.jpg",
