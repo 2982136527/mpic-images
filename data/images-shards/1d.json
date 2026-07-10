@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "a23be2e0",
+      "filename": "pixiv_147004451_p0.jpg",
+      "path": "uploads/2026/07/c4056ddc.jpg",
+      "size": 985473,
+      "width": 805,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "79c8c0f97bf6835dc5fd5324b71a46760f5cf7cdfbd1cdbe7c399863ad10c930",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T04:01:43.739Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "prsk_fa",
+        "プロセカFA",
+        "プロセカ",
+        "日野森雫"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147004451_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147004451",
+      "sourceCreatedAt": "2026-07-09T10:50:17.000Z"
+    },
+    {
       "id": "82cceefa",
       "filename": "pixiv_146981070_p0.jpg",
       "path": "uploads/2026/07/7779ee43.jpg",
