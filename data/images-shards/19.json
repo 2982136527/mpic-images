@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "e5bc0f36",
+      "filename": "pixiv_147009073_p0.jpg",
+      "path": "uploads/2026/07/c91f5f48.jpg",
+      "size": 1162347,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2c9b1f9523f9a7f409e152a90c20a5bdf4ed942d667f5e3b008d0fe339de19a9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T17:57:35.552Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナルキャラクター",
+        "OC",
+        "バニーガール",
+        "Bunny"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147009073_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147009073",
+      "sourceCreatedAt": "2026-07-09T12:38:54.000Z"
+    },
+    {
       "id": "6b26e3be",
       "filename": "pixiv_147001007_p0.jpg",
       "path": "uploads/2026/07/80f58d82.jpg",
