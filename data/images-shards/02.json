@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "ad463a34",
+      "filename": "pixiv_146992034_p0.jpg",
+      "path": "uploads/2026/07/b860259d.jpg",
+      "size": 790154,
+      "width": 933,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7439e1d7ba17b56fdbaba349b3f59fbc6c151e77d531cdd45db919b3dc37d208",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T11:20:06.196Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ミク（リクエスト）",
+      "tags": [
+        "いますぐ輪廻",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146992034_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146992034",
+      "sourceCreatedAt": "2026-07-09T01:56:38.000Z"
+    },
+    {
       "id": "c4c3db72",
       "filename": "pixiv_146989748_p0.jpg",
       "path": "uploads/2026/07/e50257d0.jpg",
