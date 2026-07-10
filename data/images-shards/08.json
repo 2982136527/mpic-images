@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "16e92fad",
+      "filename": "pixiv_146973622_p0.jpg",
+      "path": "uploads/2026/07/2c235bc5.jpg",
+      "size": 931032,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "998fc7456d04c088f586f96fb045c205681bed025b397617c302d388672f6d13",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T04:02:20.334Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "どこにだって行けるから",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "風景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146973622_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146973622",
+      "sourceCreatedAt": "2026-07-08T12:49:17.000Z"
+    },
+    {
       "id": "f491f5b9",
       "filename": "pixiv_146964527_p0.jpg",
       "path": "uploads/2026/07/a26d8a71.jpg",
