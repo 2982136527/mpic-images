@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "29ee5bf1",
+      "filename": "pixiv_146996580_p0.jpg",
+      "path": "uploads/2026/07/73fe11f4.jpg",
+      "size": 1329896,
+      "width": 663,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6f3641c27f5fb75836bb319ac2192232f1eaf5e75788f38d596fd5d99f4402b0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T04:08:23.436Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "千夏",
+      "tags": [
+        "绝区零",
+        "ZenlessZoneZero",
+        "千夏(ゼンゼロ)",
+        "ゼンゼロ500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146996580_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146996580",
+      "sourceCreatedAt": "2026-07-09T05:48:02.000Z"
+    },
+    {
       "id": "7615b169",
       "filename": "pixiv_146933012_p0.jpg",
       "path": "uploads/2026/07/9cc18847.jpg",
