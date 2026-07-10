@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "e63e0b24",
+      "filename": "pixiv_146996461_p0.jpg",
+      "path": "uploads/2026/07/23fbd06c.jpg",
+      "size": 575045,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "1ad836aa5c554898620c451562ee16c647ca14a0cd652b39d92d432c14eec2d1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T17:58:40.350Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ライティングがわからない人へ",
+      "tags": [
+        "上達法",
+        "ノウハウ",
+        "ハウツー",
+        "コツ",
+        "描き方"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146996461_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146996461",
+      "sourceCreatedAt": "2026-07-09T05:40:27.000Z"
+    },
+    {
       "id": "09b0bcc8",
       "filename": "pixiv_146955292_p0.jpg",
       "path": "uploads/2026/07/5d95fa81.jpg",
