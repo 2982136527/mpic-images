@@ -3,6 +3,33 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "b7e85f37",
+      "filename": "pixiv_146983249_p0.jpg",
+      "path": "uploads/2026/07/e556023a.jpg",
+      "size": 561864,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e6c83e51a1b3f6c2a6a45693fb5ef3d88942eb45366c81dbbe7818c2f7b9dfd1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T04:03:55.946Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "OC",
+      "tags": [
+        "オリジナル",
+        "OC",
+        "戦闘服",
+        "設定",
+        "おへそ",
+        "ハーネス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146983249_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146983249",
+      "sourceCreatedAt": "2026-07-08T16:37:37.000Z"
+    },
+    {
       "id": "eaebe513",
       "filename": "pixiv_146962040_p0.jpg",
       "path": "uploads/2026/07/0ba82138.jpg",
