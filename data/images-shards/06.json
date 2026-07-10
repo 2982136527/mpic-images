@@ -3,6 +3,35 @@
   "shardId": "06",
   "images": [
     {
+      "id": "97f5783b",
+      "filename": "pixiv_146980784_p0.jpg",
+      "path": "uploads/2026/07/6573c750.jpg",
+      "size": 156891,
+      "width": 768,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "d07f3559a8d83ae03d5c0476fac8e64d3992bfaff8fba20093609fe18c8fc89b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T11:21:00.882Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "今日の日記",
+      "tags": [
+        "オリジナル",
+        "うさぎ",
+        "1日1枚",
+        "一日一絵",
+        "日記",
+        "絵日記",
+        "プラム",
+        "すもも"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146980784_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146980784",
+      "sourceCreatedAt": "2026-07-08T15:22:55.000Z"
+    },
+    {
       "id": "96abbc6b",
       "filename": "pixiv_146969945_p0.jpg",
       "path": "uploads/2026/07/2d9c759c.jpg",
