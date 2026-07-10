@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "98d8febb",
+      "filename": "pixiv_146943503_p0.jpg",
+      "path": "uploads/2026/07/6d67e4c0.jpg",
+      "size": 1959517,
+      "width": 941,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0fdab1246cca66c6562b351cd50ed9190c6ff2bcaa0453cb706b0b413fa6e22d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T04:00:07.646Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "7月7日",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ラストラス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146943503_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146943503",
+      "sourceCreatedAt": "2026-07-07T15:00:31.000Z"
+    },
+    {
       "id": "25a5467f",
       "filename": "pixiv_146973053_p0.jpg",
       "path": "uploads/2026/07/9bbfd752.jpg",
