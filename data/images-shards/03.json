@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "bc065b10",
+      "filename": "pixiv_147007260_p0.jpg",
+      "path": "uploads/2026/07/df335dd9.jpg",
+      "size": 1904510,
+      "width": 951,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ff2685e5b78bee3ad35998529364ff657d47a614ff777b202256048f54d50de5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T11:17:50.632Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "テトさん",
+      "tags": [
+        "重音テト",
+        "UTAU100users入り",
+        "ドヤ顔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147007260_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147007260",
+      "sourceCreatedAt": "2026-07-09T12:00:06.000Z"
+    },
+    {
       "id": "04f39289",
       "filename": "pixiv_146972143_p0.jpg",
       "path": "uploads/2026/07/d84e7451.jpg",
