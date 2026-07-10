@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "75037606",
+      "filename": "pixiv_146958707_p0.jpg",
+      "path": "uploads/2026/07/6c421756.jpg",
+      "size": 1863904,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1ec12442f3a1bf441b65c0cbd7b777e3361d134b278b3a7e75b8b16d1d71a5b7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T04:07:58.581Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "あらめちゃん",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作",
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146958707_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146958707",
+      "sourceCreatedAt": "2026-07-08T04:00:01.000Z"
+    },
+    {
       "id": "cebd5935",
       "filename": "pixiv_146907851_p0.jpg",
       "path": "uploads/2026/07/5bd0b587.jpg",
