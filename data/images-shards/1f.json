@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "271a2ec5",
+      "filename": "pixiv_146953794_p0.jpg",
+      "path": "uploads/2026/07/743a024f.jpg",
+      "size": 624289,
+      "width": 816,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "62d0c61a2e4ccd3233b24100eb871c8372105000650b58ddfdc5f9e23635d255",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T17:58:54.716Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "rkgk",
+      "tags": [
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146953794_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146953794",
+      "sourceCreatedAt": "2026-07-07T23:17:23.000Z"
+    },
+    {
       "id": "b6e5940a",
       "filename": "pixiv_146966985_p0.jpg",
       "path": "uploads/2026/07/363b53c1.jpg",
