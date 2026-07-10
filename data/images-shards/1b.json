@@ -3,6 +3,37 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "a6a6f714",
+      "filename": "pixiv_146999335_p0.jpg",
+      "path": "uploads/2026/07/daddb9a8.jpg",
+      "size": 1628373,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c7e19690fa98b9b56419effee1d4712abebcb28e541ae9fb94fcda759986bd30",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T11:20:18.295Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ネットプリントのお知らせ",
+      "tags": [
+        "森亜るるか",
+        "小林みくる",
+        "明智あんな",
+        "キュアアルカナ・シャドウ",
+        "キュアミスティック",
+        "キュアアンサー",
+        "名探偵プリキュア",
+        "名探偵プリキュア!",
+        "precure",
+        "プリキュア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146999335_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146999335",
+      "sourceCreatedAt": "2026-07-09T08:03:14.000Z"
+    },
+    {
       "id": "2e840325",
       "filename": "pixiv_146998847_p0.jpg",
       "path": "uploads/2026/07/ced43964.jpg",
