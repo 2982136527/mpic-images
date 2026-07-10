@@ -3,6 +3,37 @@
   "shardId": "11",
   "images": [
     {
+      "id": "0302775a",
+      "filename": "pixiv_146975270_p0.jpg",
+      "path": "uploads/2026/07/c63bc62a.jpg",
+      "size": 644223,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "359a8f0f932fb9d835d8b63e4f5b0b4c72d377b5cd94a49a3b136b5730d67306",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-10T04:06:26.703Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "1시노유메",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "女の子",
+        "梔子ユメ",
+        "ユメ(ブルーアーカイブ)",
+        "小鳥遊ホシノ",
+        "小鳥遊ホシノ(過去)",
+        "水着",
+        "블루아카이브"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146975270_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146975270",
+      "sourceCreatedAt": "2026-07-08T13:26:31.000Z"
+    },
+    {
       "id": "79b6e4a8",
       "filename": "pixiv_146982251_p0.jpg",
       "path": "uploads/2026/07/eb467022.jpg",
