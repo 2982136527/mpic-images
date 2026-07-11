@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "27fcd704",
+      "filename": "pixiv_147011078_p0.jpg",
+      "path": "uploads/2026/07/19958615.jpg",
+      "size": 1325607,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "00a956e37952696d3d6cb9c7cf35daca071ca13479ae2de13230292d9de124ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T09:53:13.577Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Blue Time",
+      "tags": [
+        "BanG_Dream!",
+        "MyGO!!!!!",
+        "長崎そよ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147011078_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147011078",
+      "sourceCreatedAt": "2026-07-09T13:25:47.000Z"
+    },
+    {
       "id": "6f790dcb",
       "filename": "pixiv_146992051_p0.jpg",
       "path": "uploads/2026/07/c8cf8e4f.jpg",
