@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "a2351832",
+      "filename": "pixiv_146994623_p0.jpg",
+      "path": "uploads/2026/07/8b120928.jpg",
+      "size": 783535,
+      "width": 965,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e73bb3f30978868bc86ea99bbb0c2efdb44faa61454be1d2b29ef027e07fe504",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T09:48:12.386Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🎀",
+      "tags": [
+        "崩壊3rd",
+        "崩坏3rd",
+        "ゼーレ・フェレライ",
+        "ブローニャ・ザイチク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146994623_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146994623",
+      "sourceCreatedAt": "2026-07-09T04:00:03.000Z"
+    },
+    {
       "id": "715d059a",
       "filename": "pixiv_145914781_p0.jpg",
       "path": "uploads/2026/07/bc8ef565.jpg",
