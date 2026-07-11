@@ -3,6 +3,32 @@
   "shardId": "09",
   "images": [
     {
+      "id": "b54ceb4f",
+      "filename": "pixiv_146981319_p0.jpg",
+      "path": "uploads/2026/07/6fd49344.jpg",
+      "size": 192415,
+      "width": 700,
+      "height": 953,
+      "mimeType": "image/jpeg",
+      "hash": "e1ff449d907597f4554e3a481c8b33ea1d614ec63d29fd49be50a8b678ed084e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T17:09:11.963Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "最近描いた絵とか",
+      "tags": [
+        "ブルーアーカイブ",
+        "申谷カイ",
+        "天使のような悪魔の笑顔",
+        "薬漬け",
+        "拷問"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146981319_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146981319",
+      "sourceCreatedAt": "2026-07-08T15:36:20.000Z"
+    },
+    {
       "id": "a446906e",
       "filename": "pixiv_147018747_p0.jpg",
       "path": "uploads/2026/07/044dd748.jpg",
