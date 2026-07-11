@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "2e455604",
+      "filename": "pixiv_147030949_p0.jpg",
+      "path": "uploads/2026/07/50eaf01f.jpg",
+      "size": 1009085,
+      "width": 1200,
+      "height": 627,
+      "mimeType": "image/jpeg",
+      "hash": "7312054be83903af333f41e2dcf11806a2eecdbbf61921a182bad5f5072cf0ef",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T17:06:25.904Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "一纸信笺遥眷。",
+      "tags": [
+        "鸣潮",
+        "秧秧玄翎",
+        "鳴潮1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147030949_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147030949",
+      "sourceCreatedAt": "2026-07-10T04:50:32.000Z"
+    },
+    {
       "id": "5eeca177",
       "filename": "pixiv_147036105_p0.jpg",
       "path": "uploads/2026/07/c41aea22.jpg",
