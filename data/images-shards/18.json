@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "3961cdc1",
+      "filename": "pixiv_146944583_p0.jpg",
+      "path": "uploads/2026/07/3baef504.jpg",
+      "size": 748493,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0bd5c6dd244058a8db91da00dd954165a3d46c9dc4966ef73c1c7c949f71e579",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T03:34:17.407Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "バニ冴らくがき2",
+      "tags": [
+        "腐ルーロック",
+        "バニ冴"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146944583_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146944583",
+      "sourceCreatedAt": "2026-07-07T15:18:32.000Z"
+    },
+    {
       "id": "d12560e3",
       "filename": "pixiv_145890645_p0.jpg",
       "path": "uploads/2026/07/cf79345f.jpg",
