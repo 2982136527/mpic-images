@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "8593c4ab",
+      "filename": "pixiv_146983121_p0.jpg",
+      "path": "uploads/2026/07/f48b009b.jpg",
+      "size": 648005,
+      "width": 673,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6d444341931435291658efc17a1874a0526d7f6d28e24f49d6c6c8f1304b0539",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T03:27:56.363Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "070926",
+      "tags": [
+        "孔雀舞",
+        "遊戯王",
+        "脱ぎかけ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146983121_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146983121",
+      "sourceCreatedAt": "2026-07-08T16:32:52.000Z"
+    },
+    {
       "id": "d98910ec",
       "filename": "pixiv_146965840_p0.jpg",
       "path": "uploads/2026/07/09e023ac.jpg",
