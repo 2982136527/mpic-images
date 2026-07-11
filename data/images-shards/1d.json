@@ -3,6 +3,34 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "47f998eb",
+      "filename": "pixiv_146984652_p0.jpg",
+      "path": "uploads/2026/07/585a50bd.jpg",
+      "size": 1070673,
+      "width": 1200,
+      "height": 812,
+      "mimeType": "image/jpeg",
+      "hash": "fd658bf98e3430d20e1b43df0baa6a3e2e66697ead53b4c97b7f8f8a06ab3977",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T03:34:44.306Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Uma Summer",
+      "tags": [
+        "水着",
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "アグネスタキオン(ウマ娘)",
+        "ジャングルポケット(ウマ娘)",
+        "マンハッタンカフェ(ウマ娘)",
+        "夏の陽は、青く凪ぐ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146984652_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146984652",
+      "sourceCreatedAt": "2026-07-08T17:42:23.000Z"
+    },
+    {
       "id": "b13a37ab",
       "filename": "pixiv_146992992_p0.jpg",
       "path": "uploads/2026/07/0458b9d8.jpg",
