@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "349ca5bb",
+      "filename": "pixiv_146991684_p0.jpg",
+      "path": "uploads/2026/07/22d817b3.jpg",
+      "size": 974195,
+      "width": 950,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0fc02ffad8eb2a130bfd91fa133b3771400dc8893d363f1ee0b3e428b03b6f84",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T03:32:02.617Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "TH10 Montain Pop",
+      "tags": [
+        "東方",
+        "東方Project",
+        "東風谷早苗",
+        "さなぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146991684_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146991684",
+      "sourceCreatedAt": "2026-07-09T01:34:20.000Z"
+    },
+    {
       "id": "b2b3863e",
       "filename": "pixiv_146981610_p0.jpg",
       "path": "uploads/2026/07/0cb6ddd6.jpg",
