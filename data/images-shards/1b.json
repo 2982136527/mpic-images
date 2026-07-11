@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "75ead24d",
+      "filename": "pixiv_147031356_p0.jpg",
+      "path": "uploads/2026/07/e6039e45.jpg",
+      "size": 863711,
+      "width": 739,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4776727cfa94afb2a625cda98dd43f2f7f40a86ff8cd28fd21f11463b24d22ce",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T17:10:21.615Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "志希",
+      "tags": [
+        "女の子",
+        "アイドルマスターシンデレラガールズ",
+        "一ノ瀬志希"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147031356_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147031356",
+      "sourceCreatedAt": "2026-07-10T05:13:31.000Z"
+    },
+    {
       "id": "7453896a",
       "filename": "pixiv_147031646_p0.jpg",
       "path": "uploads/2026/07/a414f042.jpg",
