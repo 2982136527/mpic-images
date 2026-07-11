@@ -3,6 +3,33 @@
   "shardId": "13",
   "images": [
     {
+      "id": "dd8d5075",
+      "filename": "pixiv_147008901_p0.jpg",
+      "path": "uploads/2026/07/d53e124b.jpg",
+      "size": 457832,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "73d72fd16b000b1ea4dbebe7e7ad01dcc9273601e18cb1e905964e3282b9fa00",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T09:50:08.006Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ロングスカート",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "ファッション",
+        "パンプス",
+        "スカート",
+        "ロングスカート"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147008901_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147008901",
+      "sourceCreatedAt": "2026-07-09T12:34:28.000Z"
+    },
+    {
       "id": "5f6813e4",
       "filename": "pixiv_146985011_p0.jpg",
       "path": "uploads/2026/07/6176111e.jpg",
