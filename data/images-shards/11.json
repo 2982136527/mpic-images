@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "2e7399bd",
+      "filename": "pixiv_147042695_p0.jpg",
+      "path": "uploads/2026/07/9a6c1c95.jpg",
+      "size": 990253,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1fe493b4604ce59cf743032a5d4aa206f86bc179ae7c3d020c07d448cc81faa5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T17:12:20.018Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "お泊まり会",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "サンドローネ(原神)",
+        "コロンビーナ(原神)",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147042695_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147042695",
+      "sourceCreatedAt": "2026-07-10T11:51:05.000Z"
+    },
+    {
       "id": "2f754cfe",
       "filename": "pixiv_146999710_p0.jpg",
       "path": "uploads/2026/07/490b74cc.jpg",
