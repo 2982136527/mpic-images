@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "499446b8",
+      "filename": "pixiv_147020169_p0.jpg",
+      "path": "uploads/2026/07/8e3aa0ef.jpg",
+      "size": 802044,
+      "width": 746,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0764254f84720a06eacfcb25623ec9bce93b9608cae395aaf427572fb1812a7f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T09:52:05.759Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "おぜう様",
+      "tags": [
+        "東方Project",
+        "東方",
+        "レミリア・スカーレット",
+        "おぜうさまが楽しそうでなによりです"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147020169_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147020169",
+      "sourceCreatedAt": "2026-07-09T17:47:54.000Z"
+    },
+    {
       "id": "822ca26c",
       "filename": "pixiv_147015682_p0.jpg",
       "path": "uploads/2026/07/8314f322.jpg",
