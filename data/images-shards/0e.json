@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "5d6fc4cd",
+      "filename": "pixiv_146980620_p0.jpg",
+      "path": "uploads/2026/07/d5aafe45.jpg",
+      "size": 820288,
+      "width": 605,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "25075dd4866006911b9032a1d85a834fd2f2b206434c4f74c873977833778ec0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T03:31:31.889Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Odette",
+      "tags": [
+        "原神",
+        "オデット",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146980620_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146980620",
+      "sourceCreatedAt": "2026-07-08T15:19:12.000Z"
+    },
+    {
       "id": "81760df7",
       "filename": "pixiv_147010569_p0.jpg",
       "path": "uploads/2026/07/2ae133d1.jpg",
