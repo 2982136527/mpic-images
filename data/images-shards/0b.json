@@ -3,6 +3,37 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "3420e0e0",
+      "filename": "pixiv_146999120_p0.jpg",
+      "path": "uploads/2026/07/46850386.jpg",
+      "size": 1179056,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "770c51fe46ffb01289442223abdc3f6d2731c2067f574b0b70a281f2b821fee7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T09:46:18.345Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Hello, new wonder!!",
+      "tags": [
+        "Fate/GrandOrder",
+        "春の終わりに君を待つ",
+        "オルガマリー・アニムスフィア",
+        "ゴルドルフ・ムジーク",
+        "アスカラポス(Fate)",
+        "蒼きアズライール",
+        "ペルセポネ(Fate)",
+        "グレイ・リリィ",
+        "デメテル(Fate)",
+        "Fate/GO1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146999120_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146999120",
+      "sourceCreatedAt": "2026-07-09T07:57:28.000Z"
+    },
+    {
       "id": "d18505c6",
       "filename": "pixiv_146967032_p0.jpg",
       "path": "uploads/2026/07/0c574c31.jpg",
