@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "354d040d",
+      "filename": "pixiv_146979403_p0.jpg",
+      "path": "uploads/2026/07/011c572a.jpg",
+      "size": 980007,
+      "width": 1089,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "586011c43b9832555100d16caa4f10e7f271d42a0f510d7299c463f81f00da14",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T03:30:15.259Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "彼シャツ",
+      "tags": [
+        "白髪",
+        "ケモミミ",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146979403_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146979403",
+      "sourceCreatedAt": "2026-07-08T15:00:08.000Z"
+    },
+    {
       "id": "d22a320a",
       "filename": "pixiv_146972047_p0.jpg",
       "path": "uploads/2026/07/a72d95ed.jpg",
