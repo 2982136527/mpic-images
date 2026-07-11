@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "bad3cea6",
+      "filename": "pixiv_146995076_p0.jpg",
+      "path": "uploads/2026/07/43c94b82.jpg",
+      "size": 744424,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9002b217a72b72da63dca3d4c7d24ccf6b82c33710fbdc2e2443855dc1788d9a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T03:36:04.475Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Lynae",
+      "tags": [
+        "鳴潮",
+        "リンネー",
+        "リンネー・ミントキャンディ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146995076_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146995076",
+      "sourceCreatedAt": "2026-07-09T04:23:41.000Z"
+    },
+    {
       "id": "c63dd4ef",
       "filename": "pixiv_145929205_p0.jpg",
       "path": "uploads/2026/07/7f245ee1.jpg",
