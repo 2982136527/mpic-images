@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "1f374060",
+      "filename": "pixiv_147003302_p0.jpg",
+      "path": "uploads/2026/07/53d0f82d.jpg",
+      "size": 508151,
+      "width": 707,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "b8456a5c8aa25a48948eb4900c4797504232ba2328686ea28c2ac3c13f4ffd31",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T03:26:46.427Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ミクめくふわふわライフ🩵",
+      "tags": [
+        "VOCALOID",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147003302_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147003302",
+      "sourceCreatedAt": "2026-07-09T10:16:00.000Z"
+    },
+    {
       "id": "98de5157",
       "filename": "pixiv_147004175_p0.jpg",
       "path": "uploads/2026/07/447906f6.jpg",
