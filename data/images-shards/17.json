@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "c731abec",
+      "filename": "pixiv_146995548_p0.jpg",
+      "path": "uploads/2026/07/252f483a.jpg",
+      "size": 1104115,
+      "width": 1056,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0f3fcbfe9d5abbdde061d03e5519f5538567971fefce34084ff1b30ef1fb9cde",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T03:26:52.527Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Prince",
+      "tags": [
+        "ラバースーツ",
+        "ぴっちりスーツ",
+        "着ぐる絵",
+        "気密服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146995548_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146995548",
+      "sourceCreatedAt": "2026-07-09T04:53:13.000Z"
+    },
+    {
       "id": "ce73c513",
       "filename": "pixiv_146933645_p0.jpg",
       "path": "uploads/2026/07/4c91228d.jpg",
