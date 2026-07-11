@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "b1fac5ee",
+      "filename": "pixiv_147038125_p0.jpg",
+      "path": "uploads/2026/07/89311c84.jpg",
+      "size": 2770441,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8fc75f6d92eb7e0ef5d6ab7c5da3040b4f0dc46402bc890dd425b17c4658d823",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T09:49:45.379Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "おでこテレパス",
+      "tags": [
+        "VOCALOID",
+        "はるまきごはん",
+        "CLIPSTUDIOPAINT"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147038125_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147038125",
+      "sourceCreatedAt": "2026-07-10T10:00:07.000Z"
+    },
+    {
       "id": "cbcde268",
       "filename": "pixiv_146964226_p0.jpg",
       "path": "uploads/2026/07/8bee2616.jpg",
