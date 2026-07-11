@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "7fdcf3d6",
+      "filename": "pixiv_146979424_p0.jpg",
+      "path": "uploads/2026/07/bedd7776.jpg",
+      "size": 911042,
+      "width": 1200,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "846a99d0bddab0c64f4a760af71909e8288ddd6c1724f97237ccb00774173117",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T09:45:52.998Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ムーン",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146979424_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146979424",
+      "sourceCreatedAt": "2026-07-08T15:00:11.000Z"
+    },
+    {
       "id": "5d6fc4cd",
       "filename": "pixiv_146980620_p0.jpg",
       "path": "uploads/2026/07/d5aafe45.jpg",
