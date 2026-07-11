@@ -3,6 +3,34 @@
   "shardId": "10",
   "images": [
     {
+      "id": "7dbe22aa",
+      "filename": "pixiv_146987437_p0.jpg",
+      "path": "uploads/2026/07/59ec5a71.jpg",
+      "size": 710202,
+      "width": 781,
+      "height": 1183,
+      "mimeType": "image/jpeg",
+      "hash": "0cb191571eed176ffceafd22b01b6cf6b2657176dfefc8144720053a120a215d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T17:06:37.448Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "個人メモ：立体的な首を描くコツ",
+      "tags": [
+        "漫画素材工房",
+        "描き方",
+        "人体",
+        "身体",
+        "顔",
+        "首",
+        "美術解剖学"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146987437_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146987437",
+      "sourceCreatedAt": "2026-07-08T21:00:12.000Z"
+    },
+    {
       "id": "27fcd704",
       "filename": "pixiv_147011078_p0.jpg",
       "path": "uploads/2026/07/19958615.jpg",
