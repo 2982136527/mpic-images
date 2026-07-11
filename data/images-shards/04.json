@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "e6639e1a",
+      "filename": "pixiv_146980610_p0.jpg",
+      "path": "uploads/2026/07/53bc45f1.jpg",
+      "size": 865305,
+      "width": 853,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "016709cda81dc43429cd8d8a80b3d845515a5db9423859dd795b95b18aae9316",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T03:29:46.617Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "skeb 33",
+      "tags": [
+        "女の子",
+        "イラスト",
+        "Skeb",
+        "猫羽かりん",
+        "金髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146980610_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146980610",
+      "sourceCreatedAt": "2026-07-08T15:19:05.000Z"
+    },
+    {
       "id": "29d66a25",
       "filename": "pixiv_146964932_p0.jpg",
       "path": "uploads/2026/07/07f78286.jpg",
