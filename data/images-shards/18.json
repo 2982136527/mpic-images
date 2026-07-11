@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "70849cb2",
+      "filename": "pixiv_147002048_p0.jpg",
+      "path": "uploads/2026/07/1281c9dc.jpg",
+      "size": 933120,
+      "width": 862,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "436e9c545f81bfc84e68edf6bc9f0b933cd187a5d080cc122f6403bd57f153a5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T03:34:55.988Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "😶",
+      "tags": [
+        "ミリタリー",
+        "Military",
+        "銃",
+        "SF"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147002048_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147002048",
+      "sourceCreatedAt": "2026-07-09T09:39:15.000Z"
+    },
+    {
       "id": "3961cdc1",
       "filename": "pixiv_146944583_p0.jpg",
       "path": "uploads/2026/07/3baef504.jpg",
