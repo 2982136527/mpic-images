@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "5ed9f494",
+      "filename": "pixiv_146981864_p0.jpg",
+      "path": "uploads/2026/07/873e8385.jpg",
+      "size": 831458,
+      "width": 618,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7e7fff5b0dec729232f7205b00759fc07eacd822c6dfd92edb8eed2597a94381",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T03:27:29.469Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "99日目 花海咲季",
+      "tags": [
+        "学園アイドルマスター",
+        "学マス",
+        "花海咲季",
+        "100日チャレンジ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146981864_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146981864",
+      "sourceCreatedAt": "2026-07-08T15:51:42.000Z"
+    },
+    {
       "id": "397da0b9",
       "filename": "pixiv_147003167_p0.jpg",
       "path": "uploads/2026/07/c8b77ec7.jpg",
