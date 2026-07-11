@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "e93a63e6",
+      "filename": "pixiv_147009172_p0.jpg",
+      "path": "uploads/2026/07/c30b0cd2.jpg",
+      "size": 480910,
+      "width": 781,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "89f981af9906cd5e6aabc07739626a04c33530a472c97fc1cee78b7a7f14713e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T17:09:48.353Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "フリンズ",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147009172_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147009172",
+      "sourceCreatedAt": "2026-07-09T12:41:34.000Z"
+    },
+    {
       "id": "3de7427e",
       "filename": "pixiv_147031454_p0.jpg",
       "path": "uploads/2026/07/a6c4a133.jpg",
