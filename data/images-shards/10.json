@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "6f790dcb",
+      "filename": "pixiv_146992051_p0.jpg",
+      "path": "uploads/2026/07/c8cf8e4f.jpg",
+      "size": 983444,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4dfa02c350258c28dc55ad06fffa891635dbb9c72ed8bdd2c68a09600c2e560b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T09:44:33.732Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "東方project",
+        "蕾米莉亚",
+        "レミリア・スカーレット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146992051_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146992051",
+      "sourceCreatedAt": "2026-07-09T01:57:57.000Z"
+    },
+    {
       "id": "60c8f09d",
       "filename": "pixiv_146959697_p0.jpg",
       "path": "uploads/2026/07/356efb9d.jpg",
