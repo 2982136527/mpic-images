@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "d1fb1915",
+      "filename": "pixiv_146995957_p0.jpg",
+      "path": "uploads/2026/07/925ab583.jpg",
+      "size": 532629,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "eb9a3bd4f46b2d349fb34596329373fbc9c06dab6f0f005fddd2d72c26c5e76e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T17:09:56.224Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Skeb募集中です",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "白髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146995957_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146995957",
+      "sourceCreatedAt": "2026-07-09T05:13:34.000Z"
+    },
+    {
       "id": "6df23f73",
       "filename": "pixiv_146979647_p0.jpg",
       "path": "uploads/2026/07/821de60b.jpg",
