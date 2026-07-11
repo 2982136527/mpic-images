@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "2f754cfe",
+      "filename": "pixiv_146999710_p0.jpg",
+      "path": "uploads/2026/07/490b74cc.jpg",
+      "size": 1192757,
+      "width": 857,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ade51e427133e7bb24ab42bb1316c95689643f822caebaf82673ed790dc254cd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T09:52:24.575Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "僕らは自由",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "海",
+        "夏",
+        "鯨"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146999710_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146999710",
+      "sourceCreatedAt": "2026-07-09T08:20:07.000Z"
+    },
+    {
       "id": "65285cf3",
       "filename": "pixiv_146980786_p0.jpg",
       "path": "uploads/2026/07/2dfc23e1.jpg",
