@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "b36c159c",
+      "filename": "pixiv_147020515_p0.jpg",
+      "path": "uploads/2026/07/897718b0.jpg",
+      "size": 569136,
+      "width": 859,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b71bb5c07a6bd8ac047aa80b04a7075ae5267d09a6744221b63bdb970cef90f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-11T09:47:41.212Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "おバニー",
+      "tags": [
+        "創作",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147020515_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147020515",
+      "sourceCreatedAt": "2026-07-09T18:11:39.000Z"
+    },
+    {
       "id": "63a2eb42",
       "filename": "pixiv_146984840_p0.jpg",
       "path": "uploads/2026/07/13773086.jpg",
