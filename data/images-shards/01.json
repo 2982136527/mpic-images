@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "c44a394a",
+      "filename": "pixiv_147023137_p0.jpg",
+      "path": "uploads/2026/07/5b964700.jpg",
+      "size": 751308,
+      "width": 829,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a08e536bb9133c7c690f4378928a8984fb333ddf1bdde14d2ea31c1189a76e39",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T10:02:55.392Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "ゼンゼロ",
+        "zzzero",
+        "ヴェリナ",
+        "Velina",
+        "ゼンゼロ1000users入り",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147023137_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147023137",
+      "sourceCreatedAt": "2026-07-09T21:19:20.000Z"
+    },
+    {
       "id": "c611aced",
       "filename": "pixiv_147034445_p0.jpg",
       "path": "uploads/2026/07/5a3b90e1.jpg",
