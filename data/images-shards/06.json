@@ -3,6 +3,32 @@
   "shardId": "06",
   "images": [
     {
+      "id": "ca5e3b47",
+      "filename": "pixiv_147072398_p0.jpg",
+      "path": "uploads/2026/07/36b944cd.jpg",
+      "size": 487189,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df10ba42f185b4a4e97dbb7988e46872362ff961675bb16799049e1933395af7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T17:15:21.423Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "theater",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "ミニマリー",
+        "伊落マリー",
+        "アクシデント"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147072398_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147072398",
+      "sourceCreatedAt": "2026-07-11T06:28:02.000Z"
+    },
+    {
       "id": "10d7f996",
       "filename": "pixiv_147036247_p0.jpg",
       "path": "uploads/2026/07/a039f676.jpg",
