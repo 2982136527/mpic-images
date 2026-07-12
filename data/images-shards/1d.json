@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "359ada9a",
+      "filename": "pixiv_147046689_p0.jpg",
+      "path": "uploads/2026/07/879e77be.jpg",
+      "size": 1010319,
+      "width": 820,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4ec7f55071dd93fa7926e205be78a53f73a6707ccdff329a11ea4fbe92baaab2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:43:00.979Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "みやちゃんと温泉",
+      "tags": [
+        "桜庭みや",
+        "猫耳",
+        "オリジナル",
+        "女の子",
+        "温泉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147046689_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147046689",
+      "sourceCreatedAt": "2026-07-10T13:12:07.000Z"
+    },
+    {
       "id": "e2073b1b",
       "filename": "pixiv_147064626_p0.jpg",
       "path": "uploads/2026/07/9961ba6d.jpg",
