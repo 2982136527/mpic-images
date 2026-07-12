@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "a7523b57",
+      "filename": "pixiv_147077080_p0.jpg",
+      "path": "uploads/2026/07/d5390b81.jpg",
+      "size": 406371,
+      "width": 722,
+      "height": 1024,
+      "mimeType": "image/jpeg",
+      "hash": "d11f0fe5f446ee165bb93becdc571fd2c3b7c582a31867b78c19e966d6d972c4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:43:18.021Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "☆",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "ジョン・ラックランド(Fate)",
+        "リチャードI世(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147077080_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147077080",
+      "sourceCreatedAt": "2026-07-11T09:02:59.000Z"
+    },
+    {
       "id": "8278954f",
       "filename": "pixiv_147080319_p0.jpg",
       "path": "uploads/2026/07/6d75c5e1.jpg",
