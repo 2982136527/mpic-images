@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "d4fa5a4c",
+      "filename": "pixiv_147020437_p0.jpg",
+      "path": "uploads/2026/07/95b7f4be.jpg",
+      "size": 951900,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cbce49f284053e3bceb3ed457db9692181ceff9b8ecfbcdc1957ed12bf255d02",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:38:36.553Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ラテアート",
+      "tags": [
+        "女の子",
+        "バニー",
+        "OC",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147020437_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147020437",
+      "sourceCreatedAt": "2026-07-09T18:05:45.000Z"
+    },
+    {
       "id": "67809e2f",
       "filename": "pixiv_147009320_p0.jpg",
       "path": "uploads/2026/07/39e92f67.jpg",
