@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "d2eb0103",
+      "filename": "pixiv_147015426_p0.jpg",
+      "path": "uploads/2026/07/ab40a982.jpg",
+      "size": 1330479,
+      "width": 1200,
+      "height": 846,
+      "mimeType": "image/jpeg",
+      "hash": "e70c48e12bef2ccc9e039b8a9f368aed45433974efb9d721e0511304af26da64",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T17:09:41.997Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "君の星河よ",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "マジカルミライ2025"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147015426_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147015426",
+      "sourceCreatedAt": "2026-07-09T15:02:05.000Z"
+    },
+    {
       "id": "030668df",
       "filename": "pixiv_147054623_p0.jpg",
       "path": "uploads/2026/07/a9a2152e.jpg",
