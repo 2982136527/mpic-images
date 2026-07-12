@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "3efe5550",
+      "filename": "pixiv_147046891_p0.jpg",
+      "path": "uploads/2026/07/491906b2.jpg",
+      "size": 1117444,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2286915623f378f1ec433e0de33b491d75e8a3a90771b6536e1b5bf74371cc5f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:42:26.889Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "260709",
+      "tags": [
+        "血界戦線"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147046891_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147046891",
+      "sourceCreatedAt": "2026-07-10T13:16:41.000Z"
+    },
+    {
       "id": "a2d1e6d1",
       "filename": "pixiv_147059662_p0.jpg",
       "path": "uploads/2026/07/ee874d88.jpg",
