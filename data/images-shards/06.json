@@ -3,6 +3,32 @@
   "shardId": "06",
   "images": [
     {
+      "id": "e71bab3d",
+      "filename": "pixiv_147045893_p0.jpg",
+      "path": "uploads/2026/07/a22e7bdb.jpg",
+      "size": 561985,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "b7ed8e6262a63da24733d10fc42519e4635bf2b71350dc4e66fde27cae27a9b8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:43:06.789Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "スターフォックスだ！",
+      "tags": [
+        "スターフォックス",
+        "STARFOX",
+        "フォックス・マクラウド",
+        "背景",
+        "宇宙"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147045893_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147045893",
+      "sourceCreatedAt": "2026-07-10T12:58:15.000Z"
+    },
+    {
       "id": "54a25db3",
       "filename": "pixiv_147030803_p0.jpg",
       "path": "uploads/2026/07/43c9dae6.jpg",
