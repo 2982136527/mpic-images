@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "a2d1e6d1",
+      "filename": "pixiv_147059662_p0.jpg",
+      "path": "uploads/2026/07/ee874d88.jpg",
+      "size": 506269,
+      "width": 837,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c8fb665b30e9a36f4a12f721b5f136d7920a4baff9e044a9279053dad679bc94",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:40:26.690Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "アニポケログ7",
+      "tags": [
+        "アニポケ",
+        "アメリコ",
+        "アメジオ(メガボルテージ)",
+        "リコ(アニポケ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147059662_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147059662",
+      "sourceCreatedAt": "2026-07-10T20:54:39.000Z"
+    },
+    {
       "id": "c1b3a1c6",
       "filename": "pixiv_147026094_p0.jpg",
       "path": "uploads/2026/07/8c61cb6a.jpg",
