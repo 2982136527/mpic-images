@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "c58347de",
+      "filename": "pixiv_147022261_p0.jpg",
+      "path": "uploads/2026/07/d42043a4.jpg",
+      "size": 1095000,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fb483567c089a6fd84622aaaa75d074328da6e81a1efcdb76eaeda553b33f70e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T10:04:51.582Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🏀ブリトマート",
+      "tags": [
+        "Fate/GrandOrder",
+        "ブリトマート",
+        "ブリトマート(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147022261_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147022261",
+      "sourceCreatedAt": "2026-07-09T20:22:50.000Z"
+    },
+    {
       "id": "81680bf4",
       "filename": "pixiv_146913683_p0.jpg",
       "path": "uploads/2026/07/956f3fa2.jpg",
