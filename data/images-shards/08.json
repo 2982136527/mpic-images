@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "ea4fe646",
+      "filename": "pixiv_147059263_p0.jpg",
+      "path": "uploads/2026/07/71790630.jpg",
+      "size": 1479193,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "4bc9ee834871bf0f396a695b7cef7231cf1df62cd3c33b4c0f8831b3f5abc4f9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:38:25.873Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Anime EXPO 2026",
+      "tags": [
+        "プロジェクトセカイ",
+        "草薙寧々",
+        "天馬司"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147059263_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147059263",
+      "sourceCreatedAt": "2026-07-10T20:22:16.000Z"
+    },
+    {
       "id": "bd80a756",
       "filename": "pixiv_146988230_p0.jpg",
       "path": "uploads/2026/07/25f7e63d.jpg",
