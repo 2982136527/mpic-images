@@ -3,6 +3,28 @@
   "shardId": "16",
   "images": [
     {
+      "id": "1fb2ee94",
+      "filename": "pixiv_147063391_p0.jpg",
+      "path": "uploads/2026/07/f0d49e97.jpg",
+      "size": 2398716,
+      "width": 1029,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5a0743b65a384ee78ab1ee35de4a5d36371c9e4bcef97d751e59a22533bc8ee0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T10:00:09.233Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ブラボらくがきまとめ17",
+      "tags": [
+        "Bloodborne"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147063391_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147063391",
+      "sourceCreatedAt": "2026-07-11T00:20:25.000Z"
+    },
+    {
       "id": "01342fc6",
       "filename": "pixiv_147044870_p0.jpg",
       "path": "uploads/2026/07/409dbc54.jpg",
