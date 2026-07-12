@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "26eab1da",
+      "filename": "pixiv_147030538_p0.jpg",
+      "path": "uploads/2026/07/d805d113.jpg",
+      "size": 588246,
+      "width": 559,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "492bc13255bfc9ffc1fd50be827bc4466dae87379d9423342976cfa3c15f794e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T17:10:35.686Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "OC 調査員M まとめ",
+      "tags": [
+        "オリキャラ",
+        "OC",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147030538_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147030538",
+      "sourceCreatedAt": "2026-07-10T04:25:02.000Z"
+    },
+    {
       "id": "27c46c2f",
       "filename": "pixiv_147027160_p0.jpg",
       "path": "uploads/2026/07/39c06f24.jpg",
