@@ -3,6 +3,32 @@
   "shardId": "07",
   "images": [
     {
+      "id": "cea5035a",
+      "filename": "pixiv_147070995_p0.jpg",
+      "path": "uploads/2026/07/d67958c2.jpg",
+      "size": 758688,
+      "width": 630,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c51680100be624639e91a943f5bb1c6c3fe6aa97189d7b18fc0b5a33611d0501",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:42:48.682Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "まじょのひつぎ",
+      "tags": [
+        "ステンドグラス",
+        "柩",
+        "青",
+        "ベール",
+        "魔女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147070995_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147070995",
+      "sourceCreatedAt": "2026-07-11T05:35:09.000Z"
+    },
+    {
       "id": "4c8b7084",
       "filename": "pixiv_147049867_p0.jpg",
       "path": "uploads/2026/07/53bcd2b2.jpg",
