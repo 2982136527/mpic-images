@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "e50edd44",
+      "filename": "pixiv_147035344_p0.jpg",
+      "path": "uploads/2026/07/ef368b7f.jpg",
+      "size": 1605043,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f8f8e771e7b5d9053df6009e2069bd8fb883332e40643c37cebf58198cfc8a69",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:39:34.777Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "類寧々まとめ⑩",
+      "tags": [
+        "類寧々",
+        "漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147035344_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147035344",
+      "sourceCreatedAt": "2026-07-10T08:41:13.000Z"
+    },
+    {
       "id": "a5b13d50",
       "filename": "pixiv_147019568_p0.jpg",
       "path": "uploads/2026/07/4d729c0a.jpg",
