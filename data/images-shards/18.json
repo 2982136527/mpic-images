@@ -3,6 +3,28 @@
   "shardId": "18",
   "images": [
     {
+      "id": "32ab8a63",
+      "filename": "pixiv_147018406_p0.jpg",
+      "path": "uploads/2026/07/b73a8082.jpg",
+      "size": 763491,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c70891f98eedfe68e1913a4cf928a7ad60878d0f7f6a1a66ae291cad19206da8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:47:06.938Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "かいーさハンターログ3",
+      "tags": [
+        "カイ潔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147018406_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147018406",
+      "sourceCreatedAt": "2026-07-09T16:23:03.000Z"
+    },
+    {
       "id": "9a7b26ee",
       "filename": "pixiv_147081738_p0.jpg",
       "path": "uploads/2026/07/5b70f805.jpg",
