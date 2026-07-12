@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "cd17cd7b",
+      "filename": "pixiv_147056716_p0.jpg",
+      "path": "uploads/2026/07/8fe29582.jpg",
+      "size": 511803,
+      "width": 976,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "39030b7571d29ba078ad0087802ce876cb29986830535b4b1df789e5f3bfa9b7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T17:16:47.691Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Potato GLaDOS",
+      "tags": [
+        "portal2",
+        "ロリ",
+        "GLaDOS",
+        "portal"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147056716_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147056716",
+      "sourceCreatedAt": "2026-07-10T17:30:47.000Z"
+    },
+    {
       "id": "3b5918fe",
       "filename": "pixiv_147083075_p0.jpg",
       "path": "uploads/2026/07/6066393d.jpg",
