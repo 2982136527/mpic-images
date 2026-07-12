@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "27c46c2f",
+      "filename": "pixiv_147027160_p0.jpg",
+      "path": "uploads/2026/07/39c06f24.jpg",
+      "size": 722135,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "080347205b26ea10a8310378aab50a4ef808ea492e8b50477819bf2a169e25e5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T10:03:08.870Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "DAY71 白发萝莉",
+      "tags": [
+        "萝莉",
+        "黑丝",
+        "雪糕",
+        "插画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147027160_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147027160",
+      "sourceCreatedAt": "2026-07-10T01:25:23.000Z"
+    },
+    {
       "id": "e50edd44",
       "filename": "pixiv_147035344_p0.jpg",
       "path": "uploads/2026/07/ef368b7f.jpg",
