@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "03e34cc4",
+      "filename": "pixiv_147066595_p0.jpg",
+      "path": "uploads/2026/07/01307ebe.jpg",
+      "size": 1990867,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "735c81542b5a7b2a693759a64cf74c00ba2c2fa27121d71d72e746ce51c3fbec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:39:20.289Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🏮",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ボカマツリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147066595_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147066595",
+      "sourceCreatedAt": "2026-07-11T02:45:37.000Z"
+    },
+    {
       "id": "0d36ae2d",
       "filename": "pixiv_147064922_p0.jpg",
       "path": "uploads/2026/07/759cdbe5.jpg",
