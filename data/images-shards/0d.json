@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "5de71e68",
+      "filename": "pixiv_146005089_p0.jpg",
+      "path": "uploads/2026/07/ad87ae1a.jpg",
+      "size": 655724,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5baf798a052b78a1601d0e6f573f4d9a196d766bcf85e3849f2060e4d902fdbd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:45:58.092Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "強風一秒前",
+      "tags": [
+        "ブルーアーカイブ",
+        "女の子",
+        "天童ケイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146005089_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146005089",
+      "sourceCreatedAt": "2026-06-14T10:45:35.000Z"
+    },
+    {
       "id": "a7523b57",
       "filename": "pixiv_147077080_p0.jpg",
       "path": "uploads/2026/07/d5390b81.jpg",
