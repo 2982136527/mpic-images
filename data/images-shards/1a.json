@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "6e614c5e",
+      "filename": "pixiv_147064503_p0.jpg",
+      "path": "uploads/2026/07/bd30cba6.jpg",
+      "size": 988548,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c9f34dbbdcc848d514eaf0ec509cbfc1e2fc7303c5ac0700789b0e6958738fdc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:42:54.862Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ウマ娘のにじそうさく。",
+      "tags": [
+        "ステイゴールド(ウマ娘)",
+        "ステトレ♀",
+        "ウマ娘",
+        "ドリームジャーニー(ウマ娘)",
+        "ナカヤマフェスタ(ウマ娘)",
+        "ゴールドシップ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147064503_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147064503",
+      "sourceCreatedAt": "2026-07-11T01:10:10.000Z"
+    },
+    {
       "id": "5ed9f494",
       "filename": "pixiv_146981864_p0.jpg",
       "path": "uploads/2026/07/873e8385.jpg",
