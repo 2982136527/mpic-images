@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "a1af9815",
+      "filename": "pixiv_147060376_p0.jpg",
+      "path": "uploads/2026/07/162bfa63.jpg",
+      "size": 741413,
+      "width": 725,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09cc19cd2dfdf6ff7bb63031753792e2776e9dacc605ebda70e5d904549ce4f5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T17:14:58.254Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ぎるべるたぁん",
+      "tags": [
+        "ギルベルタ",
+        "牛柄ビキニ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147060376_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147060376",
+      "sourceCreatedAt": "2026-07-10T21:38:24.000Z"
+    },
+    {
       "id": "fb2f0376",
       "filename": "pixiv_147058340_p0.jpg",
       "path": "uploads/2026/07/dca38468.jpg",
