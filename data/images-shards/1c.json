@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "5c4f0429",
+      "filename": "pixiv_147065102_p0.jpg",
+      "path": "uploads/2026/07/922bf59f.jpg",
+      "size": 889231,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ce9e0c2a5be73f329e2ed946257cd86a463c6c31f341f0e77894854bb6584ea6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T10:04:23.180Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "DAY72 金发萝莉",
+      "tags": [
+        "フィービー(鳴潮)",
+        "萝莉",
+        "雪糕",
+        "插画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147065102_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147065102",
+      "sourceCreatedAt": "2026-07-11T01:37:55.000Z"
+    },
+    {
       "id": "cbb9fea3",
       "filename": "pixiv_145992990_p0.jpg",
       "path": "uploads/2026/07/3a2b12cb.jpg",
