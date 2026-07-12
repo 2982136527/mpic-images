@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "3c44b51e",
+      "filename": "pixiv_147049407_p0.jpg",
+      "path": "uploads/2026/07/41810713.jpg",
+      "size": 317785,
+      "width": 693,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f66f8c308e9f759db493184af763cf58848b974b519cb56536069cd85c19784d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T10:03:29.724Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "幼年",
+      "tags": [
+        "LimbusCompany",
+        "Limbus_Company",
+        "ヴァレンチーナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147049407_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147049407",
+      "sourceCreatedAt": "2026-07-10T14:08:56.000Z"
+    },
+    {
       "id": "a2cb8fe2",
       "filename": "pixiv_147065263_p0.jpg",
       "path": "uploads/2026/07/9cb4ed8d.jpg",
