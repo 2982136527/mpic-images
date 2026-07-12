@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "c5cf9bb2",
+      "filename": "pixiv_147051649_p0.jpg",
+      "path": "uploads/2026/07/b61fecd9.jpg",
+      "size": 1342259,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5b5b09dce1b936d072364432b56e55646506b18f6a73ab3c8dea587e0827691c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T10:01:41.947Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "清豊の風",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "風景",
+        "青空"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147051649_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147051649",
+      "sourceCreatedAt": "2026-07-10T15:00:18.000Z"
+    },
+    {
       "id": "359ada9a",
       "filename": "pixiv_147046689_p0.jpg",
       "path": "uploads/2026/07/879e77be.jpg",
