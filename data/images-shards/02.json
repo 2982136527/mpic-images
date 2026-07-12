@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "b01fea4e",
+      "filename": "pixiv_147082542_p0.jpg",
+      "path": "uploads/2026/07/d7d2eefa.jpg",
+      "size": 543379,
+      "width": 568,
+      "height": 869,
+      "mimeType": "image/jpeg",
+      "hash": "bcb4bfd2154ac3a52b5be11d0374825cef6cec7561a8e180dd1730bfe23f2167",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T17:17:20.903Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "暑いね",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "猫耳",
+        "創作",
+        "水着",
+        "マニキュア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147082542_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147082542",
+      "sourceCreatedAt": "2026-07-11T11:27:07.000Z"
+    },
+    {
       "id": "a1af9815",
       "filename": "pixiv_147060376_p0.jpg",
       "path": "uploads/2026/07/162bfa63.jpg",
