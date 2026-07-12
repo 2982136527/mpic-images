@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "a14e5806",
+      "filename": "pixiv_146872998_p0.jpg",
+      "path": "uploads/2026/07/9b2ea246.jpg",
+      "size": 872214,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a460073f89f32fbe9e6d7f3ca44e0f92ce02ea7743ed757e6493b16df0d982d4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:45:35.811Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "로렌치나 낙서",
+      "tags": [
+        "Limbus_Company",
+        "림버스컴퍼니",
+        "Rodion",
+        "Heathcliff"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146872998_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146872998",
+      "sourceCreatedAt": "2026-07-05T17:50:48.000Z"
+    },
+    {
       "id": "eabfb6fe",
       "filename": "pixiv_147036091_p0.jpg",
       "path": "uploads/2026/07/bc8283fc.jpg",
