@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "ee571272",
+      "filename": "pixiv_147039390_p0.jpg",
+      "path": "uploads/2026/07/65c6193e.jpg",
+      "size": 1469004,
+      "width": 871,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0b299da8b25530c9096f86227072fa3c98816d81515f8b9b0462cedb0a6340f3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:43:47.485Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "バニーセナちゃん",
+      "tags": [
+        "仕事絵",
+        "オリジナル",
+        "瀬川セナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147039390_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147039390",
+      "sourceCreatedAt": "2026-07-10T10:31:42.000Z"
+    },
+    {
       "id": "d909f3e8",
       "filename": "pixiv_147015614_p0.jpg",
       "path": "uploads/2026/07/c72ce6ed.jpg",
