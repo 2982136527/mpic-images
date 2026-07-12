@@ -3,6 +3,28 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "01247b2a",
+      "filename": "pixiv_147064404_p0.jpg",
+      "path": "uploads/2026/07/2b9914e0.jpg",
+      "size": 1290439,
+      "width": 1200,
+      "height": 802,
+      "mimeType": "image/jpeg",
+      "hash": "8fbb0a865ab3d499d91c49dc643c32eca68cad635bca9b2f9e3c0e908c85c618",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:40:04.094Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "［仕事絵］メディカルルセンターへようこそ",
+      "tags": [
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147064404_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147064404",
+      "sourceCreatedAt": "2026-07-11T01:05:56.000Z"
+    },
+    {
       "id": "bcf55456",
       "filename": "pixiv_147041793_p0.jpg",
       "path": "uploads/2026/07/e078dd5c.jpg",
