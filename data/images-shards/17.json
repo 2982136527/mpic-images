@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "0d36ae2d",
+      "filename": "pixiv_147064922_p0.jpg",
+      "path": "uploads/2026/07/759cdbe5.jpg",
+      "size": 1079885,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "abbcd7683912b9d53195305bc12bd0e8d178f77e03b973beb0ab95557e98dad8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:38:44.021Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "［仕事絵］Himemiya Rie Birthday 2026",
+      "tags": [
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147064922_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147064922",
+      "sourceCreatedAt": "2026-07-11T01:29:44.000Z"
+    },
+    {
       "id": "d692d3f2",
       "filename": "pixiv_147041502_p0.jpg",
       "path": "uploads/2026/07/d0397717.jpg",
