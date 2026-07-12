@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "38bf4b56",
+      "filename": "pixiv_147038758_p0.jpg",
+      "path": "uploads/2026/07/95950d5b.jpg",
+      "size": 913146,
+      "width": 1200,
+      "height": 1052,
+      "mimeType": "image/jpeg",
+      "hash": "fdff42af883a90298b5db2cf337b1648bfe7576a758be491fc64555a59a845e4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T17:11:46.845Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "カキタロの好きなところ",
+      "tags": [
+        "カキタロ",
+        "ツバタロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147038758_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147038758",
+      "sourceCreatedAt": "2026-07-10T10:15:12.000Z"
+    },
+    {
       "id": "e80d8a53",
       "filename": "pixiv_147052966_p0.jpg",
       "path": "uploads/2026/07/b1641d21.jpg",
