@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "030668df",
+      "filename": "pixiv_147054623_p0.jpg",
+      "path": "uploads/2026/07/a9a2152e.jpg",
+      "size": 894532,
+      "width": 1033,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6e90ed5bfdd850bba960907bac0e0defdcc10bc311ed40b1037e5da12dfc1899",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T10:06:41.160Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "レッドフード",
+      "tags": [
+        "女の子",
+        "勝利の女神:NIKKE",
+        "レッドフード(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147054623_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147054623",
+      "sourceCreatedAt": "2026-07-10T16:09:45.000Z"
+    },
+    {
       "id": "54108605",
       "filename": "pixiv_147045183_p0.jpg",
       "path": "uploads/2026/07/98636ca5.jpg",
