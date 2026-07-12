@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "614dd233",
+      "filename": "pixiv_147051624_p0.jpg",
+      "path": "uploads/2026/07/01e57748.jpg",
+      "size": 1873250,
+      "width": 1190,
+      "height": 805,
+      "mimeType": "image/jpeg",
+      "hash": "6f624a769c18c55fdb0fe7b45692930b569efc1aa07f1951d0fcb35da07f309a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:37:59.463Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "月下香幽芳",
+      "tags": [
+        "女の子",
+        "少女",
+        "vtuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147051624_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147051624",
+      "sourceCreatedAt": "2026-07-10T15:00:14.000Z"
+    },
+    {
       "id": "1d00c6e5",
       "filename": "pixiv_147017299_p0.jpg",
       "path": "uploads/2026/07/41b7f931.jpg",
