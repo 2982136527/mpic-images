@@ -3,6 +3,32 @@
   "shardId": "08",
   "images": [
     {
+      "id": "60b1ae42",
+      "filename": "pixiv_146066696_p0.jpg",
+      "path": "uploads/2026/07/8aed1538.jpg",
+      "size": 1720149,
+      "width": 1200,
+      "height": 809,
+      "mimeType": "image/jpeg",
+      "hash": "bc79b7712c2f427102778674f673b996bc1b22fd5385ea60571dbf51ab320acc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:46:04.425Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ホタル",
+      "tags": [
+        "ホタル",
+        "ホタル(スターレイル)",
+        "崩壊:スターレイル",
+        "崩壊:スターレイル5000users入り",
+        "鎧"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146066696_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146066696",
+      "sourceCreatedAt": "2026-06-15T22:25:45.000Z"
+    },
+    {
       "id": "d31fe690",
       "filename": "pixiv_146870079_p0.jpg",
       "path": "uploads/2026/07/5c6f36d7.jpg",
