@@ -3,6 +3,35 @@
   "shardId": "19",
   "images": [
     {
+      "id": "e80d8a53",
+      "filename": "pixiv_147052966_p0.jpg",
+      "path": "uploads/2026/07/b1641d21.jpg",
+      "size": 1536139,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df4c34802429a07d33c9b1c1e6812165907c1000df7bd19879569fa289f0f564",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T10:07:04.488Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "セーラーみこーん",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "コヤンスカヤ",
+        "光のコヤンスカヤ",
+        "闇のコヤンスカヤ",
+        "玉藻の前(Fate)",
+        "タマモキャット",
+        "タマモアリア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147052966_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147052966",
+      "sourceCreatedAt": "2026-07-10T15:23:01.000Z"
+    },
+    {
       "id": "f4339e45",
       "filename": "pixiv_147064572_p0.jpg",
       "path": "uploads/2026/07/5d84f1c6.jpg",
