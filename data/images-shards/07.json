@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "edcd2248",
+      "filename": "pixiv_147056130_p0.jpg",
+      "path": "uploads/2026/07/796728f0.jpg",
+      "size": 1114354,
+      "width": 1149,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2d9426ef1f8b4555a93e34db0110679f82b19a985f5990e3dbed607cfb250f1e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T17:14:22.834Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "져지메이드 파우웅",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147056130_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147056130",
+      "sourceCreatedAt": "2026-07-10T17:05:51.000Z"
+    },
+    {
       "id": "35fbd56b",
       "filename": "pixiv_147039647_p0.jpg",
       "path": "uploads/2026/07/7baf71a4.jpg",
