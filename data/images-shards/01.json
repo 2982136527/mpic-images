@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "c611aced",
+      "filename": "pixiv_147034445_p0.jpg",
+      "path": "uploads/2026/07/5a3b90e1.jpg",
+      "size": 597588,
+      "width": 741,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "785b69bcf4beca58fb6b25b5dfe7c3a009cafaaec5447ce6cadcb07a6e36e7b1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:41:57.556Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Ramiel",
+      "tags": [
+        "Ramiel",
+        "ZenlessZoneZero",
+        "zzzero",
+        "レミエール・ダン",
+        "ゼンゼロ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147034445_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147034445",
+      "sourceCreatedAt": "2026-07-10T07:57:32.000Z"
+    },
+    {
       "id": "c4e161bc",
       "filename": "pixiv_147056307_p0.jpg",
       "path": "uploads/2026/07/278858e9.jpg",
