@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "f994e477",
+      "filename": "pixiv_147057912_p0.jpg",
+      "path": "uploads/2026/07/b029318f.jpg",
+      "size": 1120680,
+      "width": 1200,
+      "height": 1105,
+      "mimeType": "image/jpeg",
+      "hash": "c76ba934706a140aba892c117767b35ab13c2d2983acaee0183086e60cb6c3b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T17:17:05.367Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "A tiny moment of preparation",
+      "tags": [
+        "Original"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147057912_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147057912",
+      "sourceCreatedAt": "2026-07-12T00:10:33.000Z"
+    },
+    {
       "id": "aea65241",
       "filename": "pixiv_147042707_p0.jpg",
       "path": "uploads/2026/07/145ddba4.jpg",
