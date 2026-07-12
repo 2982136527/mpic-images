@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "57e1f1d9",
+      "filename": "pixiv_147080149_p0.jpg",
+      "path": "uploads/2026/07/a2c0cca1.jpg",
+      "size": 1759586,
+      "width": 1200,
+      "height": 699,
+      "mimeType": "image/jpeg",
+      "hash": "cb304a6dafa2e8d11dd3828c59b7eb5fa139f48a9333a2dbd91a00c93526c264",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:39:26.304Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Summer is Coming",
+      "tags": [
+        "鳴潮",
+        "WutheringWaves",
+        "リンネー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147080149_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147080149",
+      "sourceCreatedAt": "2026-07-11T10:30:17.000Z"
+    },
+    {
       "id": "75ead24d",
       "filename": "pixiv_147031356_p0.jpg",
       "path": "uploads/2026/07/e6039e45.jpg",
