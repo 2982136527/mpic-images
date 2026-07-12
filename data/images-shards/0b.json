@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "14f263df",
+      "filename": "pixiv_147079926_p0.jpg",
+      "path": "uploads/2026/07/33dfb546.jpg",
+      "size": 1020087,
+      "width": 1200,
+      "height": 699,
+      "mimeType": "image/jpeg",
+      "hash": "0b11bf6bd0b8437615951cbcc54ed066d3961a4810338feb242ecea02f278326",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:42:37.862Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "一緒にランチしませんか？🥪🌷",
+      "tags": [
+        "ピクニック",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147079926_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147079926",
+      "sourceCreatedAt": "2026-07-11T10:24:13.000Z"
+    },
+    {
       "id": "0a04ed00",
       "filename": "pixiv_147017386_p0.jpg",
       "path": "uploads/2026/07/3b4217b5.jpg",
