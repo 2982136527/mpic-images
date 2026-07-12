@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "2dc7b893",
+      "filename": "pixiv_147060362_p0.jpg",
+      "path": "uploads/2026/07/31ce168e.jpg",
+      "size": 544337,
+      "width": 825,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "29731d69d85cf8891480d86ca89e25a0aed194bbc33f039bcb0869331a24d879",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T10:07:23.524Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ミカ",
+      "tags": [
+        "ブルーアーカイブ",
+        "聖園ミカ",
+        "ロリ",
+        "裸足"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147060362_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147060362",
+      "sourceCreatedAt": "2026-07-10T21:37:43.000Z"
+    },
+    {
       "id": "985e4c40",
       "filename": "pixiv_147015834_p0.jpg",
       "path": "uploads/2026/07/d2dd75c4.jpg",
