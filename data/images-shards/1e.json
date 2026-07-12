@@ -3,6 +3,35 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "c3c50508",
+      "filename": "pixiv_147074500_p0.jpg",
+      "path": "uploads/2026/07/1c5c4238.jpg",
+      "size": 950124,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e64aea00e2f9d38d681545c7e02b9ebaa122f1becbf24397f7b32f8526107fff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:47:41.056Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "只是这样就够了吗~",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "绝区零",
+        "ゼンゼロ",
+        "ノルムー",
+        "诺姆",
+        "ノルムー・ホローウェル",
+        "ZenlessZoneZero",
+        "ゼンゼロ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147074500_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147074500",
+      "sourceCreatedAt": "2026-07-11T07:48:36.000Z"
+    },
+    {
       "id": "11d639da",
       "filename": "pixiv_147036133_p0.jpg",
       "path": "uploads/2026/07/78b764c3.jpg",
