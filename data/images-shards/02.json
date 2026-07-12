@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "43083084",
+      "filename": "pixiv_147055921_p0.jpg",
+      "path": "uploads/2026/07/ef26d7b9.jpg",
+      "size": 728912,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "43aa1fbc4aa627f01c1f96d9789c073946993830a5114307536c31300313d397",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T10:00:36.576Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Tempest",
+      "tags": [
+        "提丰",
+        "明日方舟:终末地",
+        "明日方舟",
+        "我猜可能叫阵风(?)",
+        "アークナイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147055921_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147055921",
+      "sourceCreatedAt": "2026-07-10T16:57:48.000Z"
+    },
+    {
       "id": "2bd5e312",
       "filename": "pixiv_147015164_p0.jpg",
       "path": "uploads/2026/07/658fef38.jpg",
