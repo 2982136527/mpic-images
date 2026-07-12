@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "0b60b210",
+      "filename": "pixiv_145971835_p0.jpg",
+      "path": "uploads/2026/07/2cf83df6.jpg",
+      "size": 687461,
+      "width": 652,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8189902225643e56f988e8f04e272137cdf02f51fdc96cd73d1612e23a8d8e3e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:45:52.759Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "74日目 小鳥遊ホシノ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "小鳥遊ホシノ",
+        "100日チャレンジ",
+        "足を浸す"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145971835_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145971835",
+      "sourceCreatedAt": "2026-06-13T15:00:17.000Z"
+    },
+    {
       "id": "6e614c5e",
       "filename": "pixiv_147064503_p0.jpg",
       "path": "uploads/2026/07/bd30cba6.jpg",
