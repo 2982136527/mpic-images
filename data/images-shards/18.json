@@ -3,6 +3,28 @@
   "shardId": "18",
   "images": [
     {
+      "id": "9a7b26ee",
+      "filename": "pixiv_147081738_p0.jpg",
+      "path": "uploads/2026/07/5b70f805.jpg",
+      "size": 789181,
+      "width": 1200,
+      "height": 767,
+      "mimeType": "image/jpeg",
+      "hash": "5ce067a46176e698efdb2acb7f63570359c71e30cd0afd5d3066cdf8c6cbe7f3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:38:15.046Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "バスログ",
+      "tags": [
+        "Limbus_Company"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147081738_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147081738",
+      "sourceCreatedAt": "2026-07-11T11:07:48.000Z"
+    },
+    {
       "id": "9f8e0216",
       "filename": "pixiv_147042947_p0.jpg",
       "path": "uploads/2026/07/f2f213c6.jpg",
