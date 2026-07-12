@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "e2073b1b",
+      "filename": "pixiv_147064626_p0.jpg",
+      "path": "uploads/2026/07/9961ba6d.jpg",
+      "size": 456047,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d608316195a6d7d45a490147a08aa41a9b1e016be34851a73aafa95ca8b3327f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-12T03:40:21.085Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "［仕事絵］なゆカフェ",
+      "tags": [
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147064626_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147064626",
+      "sourceCreatedAt": "2026-07-11T01:15:56.000Z"
+    },
+    {
       "id": "f0cfa3e6",
       "filename": "pixiv_147032470_p0.jpg",
       "path": "uploads/2026/07/0a274c2b.jpg",
