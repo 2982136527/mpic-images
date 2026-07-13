@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "4dbed478",
+      "filename": "pixiv_147058908_p0.jpg",
+      "path": "uploads/2026/07/18696035.jpg",
+      "size": 584197,
+      "width": 1200,
+      "height": 717,
+      "mimeType": "image/jpeg",
+      "hash": "1662ba10af424d23ec0de68b42b63be68470cf2dc860353c728a071d41164e2b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T18:03:42.273Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "revy cosplay",
+      "tags": [
+        "Minah",
+        "オリジナル",
+        "オリキャラ",
+        "うちの子",
+        "ショートパンツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147058908_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147058908",
+      "sourceCreatedAt": "2026-07-10T19:57:59.000Z"
+    },
+    {
       "id": "1f3cc466",
       "filename": "pixiv_147112467_p0.jpg",
       "path": "uploads/2026/07/65bd1a0c.jpg",
