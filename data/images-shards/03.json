@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "1bca2122",
+      "filename": "pixiv_147081213_p0.jpg",
+      "path": "uploads/2026/07/e92ce4c0.jpg",
+      "size": 1066564,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2b08c9a848a8c2cf7102011d9c6e5d5f09d80adcf0b0d77f939256e8855dd86e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T18:09:56.786Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夏模様",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "白ワンピース",
+        "天ヶ瀬ヒカリ",
+        "夏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147081213_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147081213",
+      "sourceCreatedAt": "2026-07-11T11:00:07.000Z"
+    },
+    {
       "id": "4768bd36",
       "filename": "pixiv_147064509_p0.jpg",
       "path": "uploads/2026/07/11748484.jpg",
