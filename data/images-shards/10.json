@@ -3,6 +3,28 @@
   "shardId": "10",
   "images": [
     {
+      "id": "24f98955",
+      "filename": "pixiv_147085920_p0.jpg",
+      "path": "uploads/2026/07/84594ed0.jpg",
+      "size": 272772,
+      "width": 1113,
+      "height": 989,
+      "mimeType": "image/jpeg",
+      "hash": "f1f245146ea1f4983cab7ece07b26c98d3d694d75abe0c7573407ed34b9f5dda",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T18:06:55.895Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "JAXAとHONDAと中国の再使用ロケット実験機",
+      "tags": [
+        "宇宙機擬人化"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147085920_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147085920",
+      "sourceCreatedAt": "2026-07-11T13:05:10.000Z"
+    },
+    {
       "id": "4966c5a8",
       "filename": "pixiv_147120211_p0.jpg",
       "path": "uploads/2026/07/c1edfeb2.jpg",
