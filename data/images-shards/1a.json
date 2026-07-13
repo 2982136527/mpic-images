@@ -3,6 +3,37 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "1b62db90",
+      "filename": "pixiv_147063934_p0.jpg",
+      "path": "uploads/2026/07/07089b3d.jpg",
+      "size": 164581,
+      "width": 1200,
+      "height": 1190,
+      "mimeType": "image/jpeg",
+      "hash": "a87d88d0e14f9dcfa3cc5a3186ec9c38f488d3117c98ba9de50c61e541f8e1d0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:40:00.486Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ボーちゃん",
+        "クレヨンしんちゃん",
+        "ポワルン",
+        "ウルルンスター",
+        "作者は病気",
+        "鼻水",
+        "被り物",
+        "こんな○○は嫌だ",
+        "その発想は無かった",
+        "キチゲ解放"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147063934_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147063934",
+      "sourceCreatedAt": "2026-07-11T00:46:29.000Z"
+    },
+    {
       "id": "160c229f",
       "filename": "pixiv_147015306_p0.jpg",
       "path": "uploads/2026/07/520a9ed0.jpg",
