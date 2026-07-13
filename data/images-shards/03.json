@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "e892612a",
+      "filename": "pixiv_147084431_p0.jpg",
+      "path": "uploads/2026/07/a185aec1.jpg",
+      "size": 1604920,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a341a318e7921a1a575b5ade21a9cf28209b3ef75073fe0e244fd3fcf1f73fb9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T11:28:54.276Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "マジカルさんか2026",
+      "tags": [
+        "マジカルさんか",
+        "マジカルミライ2026",
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147084431_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147084431",
+      "sourceCreatedAt": "2026-07-11T12:06:46.000Z"
+    },
+    {
       "id": "6e4229dd",
       "filename": "pixiv_147094503_p0.jpg",
       "path": "uploads/2026/07/44d6c670.jpg",
