@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "f890e455",
+      "filename": "pixiv_147051939_p0.jpg",
+      "path": "uploads/2026/07/d263ef49.jpg",
+      "size": 1167323,
+      "width": 1200,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "0232ff237fb82a04d8472cc7aa3fde2aed7605b2aec421c4ed08aac39d636ac2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T11:22:35.952Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "-3.5-",
+      "tags": [
+        "女の子",
+        "落書",
+        "鳴潮",
+        "秧秧玄翎",
+        "穂穂"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147051939_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147051939",
+      "sourceCreatedAt": "2026-07-10T15:01:50.000Z"
+    },
+    {
       "id": "75a7dceb",
       "filename": "pixiv_147093724_p0.jpg",
       "path": "uploads/2026/07/d7aa2b82.jpg",
