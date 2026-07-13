@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "30ba6034",
+      "filename": "pixiv_147117339_p0.jpg",
+      "path": "uploads/2026/07/5bf511f4.jpg",
+      "size": 770633,
+      "width": 772,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2844ba9719d5cdb367dd85a678a382bba6b397b3a6a733a7d0edfb762ea5924e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T18:09:01.857Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ヨシミ",
+      "tags": [
+        "伊原木ヨシミ",
+        "ブルアカ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147117339_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147117339",
+      "sourceCreatedAt": "2026-07-12T08:19:05.000Z"
+    },
+    {
       "id": "9be577c9",
       "filename": "pixiv_147101575_p0.jpg",
       "path": "uploads/2026/07/5fd98633.jpg",
