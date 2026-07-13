@@ -3,6 +3,33 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "6682ff2d",
+      "filename": "pixiv_147100476_p0.jpg",
+      "path": "uploads/2026/07/895c66de.jpg",
+      "size": 620287,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "8b2f3609938975f5cc0fa11d408c5f7143d73ca9adc516929097f91cce214e61",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:49:08.210Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "青が呼んでいる",
+      "tags": [
+        "風景",
+        "オリジナル",
+        "空",
+        "夜空",
+        "青空",
+        "夜明け前"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147100476_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147100476",
+      "sourceCreatedAt": "2026-07-11T20:50:50.000Z"
+    },
+    {
       "id": "f25299b1",
       "filename": "pixiv_147051675_p0.jpg",
       "path": "uploads/2026/07/97d72e3d.jpg",
