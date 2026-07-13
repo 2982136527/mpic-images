@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "4b49a320",
+      "filename": "pixiv_147089868_p0.jpg",
+      "path": "uploads/2026/07/47f466f2.jpg",
+      "size": 1778491,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c174cd3e49ae1c9a03c0195cd9055d3d2a952a4bb2d7c00fb4c15fabe822a6d8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T11:27:09.107Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "WING",
+      "tags": [
+        "NiCE2026_free",
+        "オリジナル",
+        "羽",
+        "翼"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147089868_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147089868",
+      "sourceCreatedAt": "2026-07-11T14:06:19.000Z"
+    },
+    {
       "id": "b45e4285",
       "filename": "pixiv_147059208_p0.jpg",
       "path": "uploads/2026/07/abe94b40.jpg",
