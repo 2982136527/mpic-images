@@ -3,6 +3,35 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "e60a2964",
+      "filename": "pixiv_147086104_p0.jpg",
+      "path": "uploads/2026/07/4cc599e8.jpg",
+      "size": 731408,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ab9330061e932f040614a31745c5bbe3b1db68169d8a828f49064e83454f9a4a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:41:42.257Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "幼馴染",
+      "tags": [
+        "ゼンゼロ",
+        "フォン・ライカン",
+        "アレクサンドリナ・セバスチャン",
+        "ヒューゴ・ヴラド",
+        "ゼンレスゾーンゼロ",
+        "前が見えねェ",
+        "ゼンゼロ500users入り",
+        "学パロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147086104_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147086104",
+      "sourceCreatedAt": "2026-07-11T12:44:16.000Z"
+    },
+    {
       "id": "c4eb992f",
       "filename": "pixiv_147116090_p0.jpg",
       "path": "uploads/2026/07/1635f015.jpg",
