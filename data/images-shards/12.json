@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "bfc2e50a",
+      "filename": "pixiv_147068682_p0.jpg",
+      "path": "uploads/2026/07/13130666.jpg",
+      "size": 1510435,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fa6457a537b4a1edae302bdebcb316e60d5cd8e92b55b4f8c8beafbf88ba807e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:43:40.690Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "地雷天使ちゃん",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作",
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147068682_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147068682",
+      "sourceCreatedAt": "2026-07-11T04:00:05.000Z"
+    },
+    {
       "id": "2f551ac4",
       "filename": "pixiv_147042699_p0.jpg",
       "path": "uploads/2026/07/a989cbc9.jpg",
