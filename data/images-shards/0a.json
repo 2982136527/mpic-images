@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "100444ca",
+      "filename": "pixiv_147065059_p0.jpg",
+      "path": "uploads/2026/07/3eb59c76.jpg",
+      "size": 1484247,
+      "width": 1200,
+      "height": 847,
+      "mimeType": "image/jpeg",
+      "hash": "d6463040782a405cab9cb0f63ba25cae570e8ae3966a32c2a42ab87f603026dc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T18:02:48.271Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "［仕事絵］綿宮あひる3周年",
+      "tags": [
+        "仕事絵",
+        "綿宮あひる",
+        "バーチャルYouTuber1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147065059_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147065059",
+      "sourceCreatedAt": "2026-07-11T01:35:50.000Z"
+    },
+    {
       "id": "b156734f",
       "filename": "pixiv_147052008_p0.jpg",
       "path": "uploads/2026/07/ef2f495c.jpg",
