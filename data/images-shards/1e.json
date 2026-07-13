@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "c5c00f16",
+      "filename": "pixiv_147092236_p0.jpg",
+      "path": "uploads/2026/07/d47726dd.jpg",
+      "size": 1043362,
+      "width": 1200,
+      "height": 542,
+      "mimeType": "image/jpeg",
+      "hash": "c0f39f8cb7711ec616a2de8588593acba9485973d2f446fca1c999860341f77d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:42:00.393Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Assembly",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147092236_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147092236",
+      "sourceCreatedAt": "2026-07-11T15:00:23.000Z"
+    },
+    {
       "id": "f4c0cba8",
       "filename": "pixiv_147069053_p0.jpg",
       "path": "uploads/2026/07/7b35a4f2.jpg",
