@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "057f6baf",
+      "filename": "pixiv_147127727_p0.jpg",
+      "path": "uploads/2026/07/2c59f518.jpg",
+      "size": 1249567,
+      "width": 1118,
+      "height": 876,
+      "mimeType": "image/jpeg",
+      "hash": "8cc87138779743ec910a9d1e86a08fffde17edfab61dd1cd9fa1dc952c93902c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:49:27.900Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "エムデン",
+      "tags": [
+        "アズールレーン",
+        "女の子",
+        "エムデン(アズールレーン)",
+        "水辺のカンツォーナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147127727_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147127727",
+      "sourceCreatedAt": "2026-07-12T12:18:21.000Z"
+    },
+    {
       "id": "988c1e68",
       "filename": "pixiv_147046127_p0.jpg",
       "path": "uploads/2026/07/3882d167.jpg",
