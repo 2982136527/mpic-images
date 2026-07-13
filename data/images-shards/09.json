@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "f9406a90",
+      "filename": "pixiv_147093676_p0.jpg",
+      "path": "uploads/2026/07/047002fb.jpg",
+      "size": 2078530,
+      "width": 826,
+      "height": 1169,
+      "mimeType": "image/jpeg",
+      "hash": "ed8a478abe58ccb7d5943032d2f8b023bec405d497ed16fb2aa190d95fd440cc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:47:29.335Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "終わらない証明",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "デジタル",
+        "リスカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147093676_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147093676",
+      "sourceCreatedAt": "2026-07-11T15:24:00.000Z"
+    },
+    {
       "id": "42870d97",
       "filename": "pixiv_147028064_p0.jpg",
       "path": "uploads/2026/07/037bc104.jpg",
