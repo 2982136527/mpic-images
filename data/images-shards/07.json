@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "55f56dad",
+      "filename": "pixiv_147090091_p0.jpg",
+      "path": "uploads/2026/07/1d047ab3.jpg",
+      "size": 817715,
+      "width": 781,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ffd780aacbb92be8ffeb38498f4c10bb554500188f0e447670ab1ec5300a10ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T18:10:03.092Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "フロム天国",
+      "tags": [
+        "理芽",
+        "神椿"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147090091_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147090091",
+      "sourceCreatedAt": "2026-07-11T14:11:59.000Z"
+    },
+    {
       "id": "5bac8ce2",
       "filename": "pixiv_147059521_p0.jpg",
       "path": "uploads/2026/07/887aa9d5.jpg",
