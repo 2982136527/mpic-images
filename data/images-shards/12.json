@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "e1ad6148",
+      "filename": "pixiv_147106276_p0.jpg",
+      "path": "uploads/2026/07/3c71e0b8.jpg",
+      "size": 706692,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6ee66327facb416842425c00f1e9470b1cac2542e98e7b5088cf32119f94dc5f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:47:39.503Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "鳥",
+      "tags": [
+        "鳥",
+        "こっちみんな"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147106276_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147106276",
+      "sourceCreatedAt": "2026-07-12T01:50:23.000Z"
+    },
+    {
       "id": "bfc2e50a",
       "filename": "pixiv_147068682_p0.jpg",
       "path": "uploads/2026/07/13130666.jpg",
