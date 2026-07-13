@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "a318cc61",
+      "filename": "pixiv_147060745_p0.jpg",
+      "path": "uploads/2026/07/68d8edd9.jpg",
+      "size": 990280,
+      "width": 1200,
+      "height": 965,
+      "mimeType": "image/jpeg",
+      "hash": "85ef2273262c691e883ba7c7aac8f9ce2dfcd0ba3fef0e47d5a91e9daf81d780",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T18:10:31.559Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "三日月宗近　朧",
+      "tags": [
+        "刀剣乱舞",
+        "三日月宗近",
+        "三日月宗近朧"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147060745_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147060745",
+      "sourceCreatedAt": "2026-07-10T22:00:12.000Z"
+    },
+    {
       "id": "54f5f3bf",
       "filename": "pixiv_147089723_p0.jpg",
       "path": "uploads/2026/07/dcd50cb2.jpg",
