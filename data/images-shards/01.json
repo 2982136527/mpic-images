@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "83120a2a",
+      "filename": "pixiv_147120782_p0.jpg",
+      "path": "uploads/2026/07/f8879347.jpg",
+      "size": 1149914,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "106e4a60afe3739423d055f17bf90bfe2271a60ca2a93a413bf2c1772b43e8af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:40:24.670Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "花弁、それにまつわる音声",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ボーカロイド",
+        "ボカロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147120782_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147120782",
+      "sourceCreatedAt": "2026-07-12T09:49:46.000Z"
+    },
+    {
       "id": "2aad5f43",
       "filename": "pixiv_147079425_p0.jpg",
       "path": "uploads/2026/07/acf3cef3.jpg",
