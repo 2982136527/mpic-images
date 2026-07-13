@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "31109fcd",
+      "filename": "pixiv_147080284_p0.jpg",
+      "path": "uploads/2026/07/3d0235e5.jpg",
+      "size": 866720,
+      "width": 790,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fdf692f7c937f5697bc90995423ac9d3a312e461dafe1f53b0f37666d5f6d77e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T18:04:52.143Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "サンドローネ",
+      "tags": [
+        "サンドローネ(原神)",
+        "原神",
+        "GenshinImpact"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147080284_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147080284",
+      "sourceCreatedAt": "2026-07-11T10:34:10.000Z"
+    },
+    {
       "id": "e892612a",
       "filename": "pixiv_147084431_p0.jpg",
       "path": "uploads/2026/07/a185aec1.jpg",
