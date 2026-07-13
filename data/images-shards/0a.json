@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "9be577c9",
+      "filename": "pixiv_147101575_p0.jpg",
+      "path": "uploads/2026/07/5fd98633.jpg",
+      "size": 443277,
+      "width": 781,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "51bb7614714512055d93e5568e7fa5c4fe7ff8b4c3c37070f4fe474b6256c42d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T18:05:22.515Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "練習風景",
+      "tags": [
+        "グロウアップショウ",
+        "鶴巻瑞佳",
+        "川澄桜翔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147101575_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147101575",
+      "sourceCreatedAt": "2026-07-12T08:50:57.000Z"
+    },
+    {
       "id": "100444ca",
       "filename": "pixiv_147065059_p0.jpg",
       "path": "uploads/2026/07/3eb59c76.jpg",
