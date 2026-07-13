@@ -3,6 +3,35 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "f4c0cba8",
+      "filename": "pixiv_147069053_p0.jpg",
+      "path": "uploads/2026/07/7b35a4f2.jpg",
+      "size": 992733,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e083dd2e1aac6b4443869551680604ab71f28f8d75f9ffdc5fb26b88adf1df74",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:40:13.459Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ちびカエ　其の漆",
+      "tags": [
+        "鬼滅の刃",
+        "胡蝶カナエ",
+        "胡蝶しのぶ",
+        "ちびカエしの",
+        "栗花落カナヲ",
+        "甘露寺蜜璃",
+        "嘴平伊之助",
+        "鬼滅の刃100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147069053_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147069053",
+      "sourceCreatedAt": "2026-07-11T04:15:07.000Z"
+    },
+    {
       "id": "69bdd777",
       "filename": "pixiv_147041060_p0.jpg",
       "path": "uploads/2026/07/a8b7e6ad.jpg",
