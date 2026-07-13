@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "da9b5acc",
+      "filename": "pixiv_147119784_p0.jpg",
+      "path": "uploads/2026/07/ae6a2a09.jpg",
+      "size": 1399437,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "626c6014cce62417209dae29913bf5854fef4ae0a50a4cc75bfa033bd3d78730",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:43:12.492Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "かぐや誕生日🎂",
+      "tags": [
+        "超かぐや姫!",
+        "かぐや(超かぐや姫!)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147119784_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147119784",
+      "sourceCreatedAt": "2026-07-12T09:23:43.000Z"
+    },
+    {
       "id": "e8df0eb5",
       "filename": "pixiv_147051637_p0.jpg",
       "path": "uploads/2026/07/fb583740.jpg",
