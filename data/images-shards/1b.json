@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "9252db3b",
+      "filename": "pixiv_147114137_p0.jpg",
+      "path": "uploads/2026/07/e30b2962.jpg",
+      "size": 985991,
+      "width": 1200,
+      "height": 670,
+      "mimeType": "image/jpeg",
+      "hash": "b5eaaad022d81fe1cf40e3a16a6e548ecc50fab531ddb24ccae2f2c3360b441b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T18:01:01.316Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ともだち",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "オリキャラ",
+        "うちのこ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147114137_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147114137",
+      "sourceCreatedAt": "2026-07-12T06:33:36.000Z"
+    },
+    {
       "id": "a14e5806",
       "filename": "pixiv_146872998_p0.jpg",
       "path": "uploads/2026/07/9b2ea246.jpg",
