@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "b9b1a1d7",
+      "filename": "pixiv_147077886_p0.jpg",
+      "path": "uploads/2026/07/9434736c.jpg",
+      "size": 398419,
+      "width": 949,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "432d9dadbd19f0b68eef4461b196e4371593eac809a6237f8562028e8b9a1ac0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:47:50.405Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Mouse girl",
+      "tags": [
+        "girl",
+        "CLIPSTUDIOPAINT"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147077886_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147077886",
+      "sourceCreatedAt": "2026-07-11T09:28:34.000Z"
+    },
+    {
       "id": "006ee8ec",
       "filename": "pixiv_147020458_p0.jpg",
       "path": "uploads/2026/07/f1656c08.jpg",
