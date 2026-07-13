@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "c4eb992f",
+      "filename": "pixiv_147116090_p0.jpg",
+      "path": "uploads/2026/07/1635f015.jpg",
+      "size": 353825,
+      "width": 550,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a3c0bf20c42cdfa1cef371d79317b0d3f49a6e32d7ec208493986650e47d43b2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:40:48.071Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "釣",
+      "tags": [
+        "原神",
+        "空(原神)",
+        "パイモン(原神)",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147116090_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147116090",
+      "sourceCreatedAt": "2026-07-12T07:41:04.000Z"
+    },
+    {
       "id": "235dfcc8",
       "filename": "pixiv_147052808_p0.jpg",
       "path": "uploads/2026/07/0fa1f403.jpg",
