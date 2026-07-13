@@ -3,6 +3,35 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "b156734f",
+      "filename": "pixiv_147052008_p0.jpg",
+      "path": "uploads/2026/07/ef2f495c.jpg",
+      "size": 1167584,
+      "width": 782,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "84c13417d406ae1d7677491b76369f3988645a29c0dcd9ba0dfda3de71c1afe1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T11:29:58.465Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "臨戦アリス&制服ケイ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "ゲーム開発部",
+        "天童アリス",
+        "ケイ(ブルーアーカイブ)",
+        "臨戦アリス",
+        "天童ケイ",
+        "天童アリス(臨戦)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147052008_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147052008",
+      "sourceCreatedAt": "2026-07-10T15:02:28.000Z"
+    },
+    {
       "id": "39dd229c",
       "filename": "pixiv_147119763_p0.jpg",
       "path": "uploads/2026/07/61643bab.jpg",
