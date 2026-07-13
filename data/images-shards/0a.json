@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "39dd229c",
+      "filename": "pixiv_147119763_p0.jpg",
+      "path": "uploads/2026/07/61643bab.jpg",
+      "size": 558767,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "95250ea9fc5f89e165eb571cce7ca6ae2def9dcfec7fb460add19c74a46ca705",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:48:44.680Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ヤニねこ",
+      "tags": [
+        "ヤニねこ",
+        "獣人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147119763_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147119763",
+      "sourceCreatedAt": "2026-07-12T09:23:01.000Z"
+    },
+    {
       "id": "e60a2964",
       "filename": "pixiv_147086104_p0.jpg",
       "path": "uploads/2026/07/4cc599e8.jpg",
