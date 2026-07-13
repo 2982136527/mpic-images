@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "1723d68a",
+      "filename": "pixiv_147059941_p0.jpg",
+      "path": "uploads/2026/07/c702312b.jpg",
+      "size": 1060426,
+      "width": 835,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2070fc0807e1dca7b9ded7aa240bc1f8e46fd5cd8e71012c657dfc04de248a93",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T03:44:13.014Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "清澄白河",
+      "tags": [
+        "オリジナル",
+        "コンバース"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147059941_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147059941",
+      "sourceCreatedAt": "2026-07-10T21:06:45.000Z"
+    },
+    {
       "id": "3c675c93",
       "filename": "pixiv_147129764_p0.jpg",
       "path": "uploads/2026/07/480ac485.jpg",
