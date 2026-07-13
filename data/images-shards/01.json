@@ -3,6 +3,35 @@
   "shardId": "01",
   "images": [
     {
+      "id": "a2f2ef63",
+      "filename": "pixiv_147064042_p0.jpg",
+      "path": "uploads/2026/07/907ced6e.jpg",
+      "size": 761848,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dd650433ab9a07b9442089efed488bed8d11af99c33c085eda7272d3ebe671cc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T18:08:20.073Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "공방때 업데이트 한 콘들",
+      "tags": [
+        "SD",
+        "명일방주",
+        "アークナイツ:エンドフィールド",
+        "ロッシ(エンドフィールド)",
+        "명일방주엔드필드",
+        "endfield",
+        "アークナイツ",
+        "ロッシーナ・ウルフパール・ルピーノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147064042_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147064042",
+      "sourceCreatedAt": "2026-07-11T00:52:22.000Z"
+    },
+    {
       "id": "e76cbbaf",
       "filename": "pixiv_147085095_p0.jpg",
       "path": "uploads/2026/07/931a1ca1.jpg",
