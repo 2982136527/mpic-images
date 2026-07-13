@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "1f3cc466",
+      "filename": "pixiv_147112467_p0.jpg",
+      "path": "uploads/2026/07/65bd1a0c.jpg",
+      "size": 679533,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a9439674d28d04e09593e4ce43a59b4c5341c5ea8f1e56190adeb6303b6b6551",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-13T18:03:01.359Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "彩葉の羽織",
+      "tags": [
+        "ヤチいろ",
+        "いろヤチ",
+        "月見ヤチヨ",
+        "酒寄彩葉",
+        "超かぐや姫!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147112467_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147112467",
+      "sourceCreatedAt": "2026-07-12T05:34:46.000Z"
+    },
+    {
       "id": "b9b1a1d7",
       "filename": "pixiv_147077886_p0.jpg",
       "path": "uploads/2026/07/9434736c.jpg",
