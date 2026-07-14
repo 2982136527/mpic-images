@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "b56dc793",
+      "filename": "pixiv_147102437_p0.jpg",
+      "path": "uploads/2026/07/c4c9958a.jpg",
+      "size": 1489077,
+      "width": 1000,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "acc6856bac99a0cf33208328658b7e9f14b539afb9f8c2624de4886c44167175",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:07:39.126Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "佐久間…？",
+      "tags": [
+        "佐久間次郎",
+        "イナズマイレブン",
+        "イナイレ",
+        "帝国アイドル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147102437_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147102437",
+      "sourceCreatedAt": "2026-07-11T22:51:49.000Z"
+    },
+    {
       "id": "07180fb1",
       "filename": "pixiv_146904911_p0.jpg",
       "path": "uploads/2026/07/40f3de3a.jpg",
