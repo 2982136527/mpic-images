@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "2b0c13c6",
+      "filename": "pixiv_147097281_p0.jpg",
+      "path": "uploads/2026/07/6c2b2cfa.jpg",
+      "size": 715917,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "509e584f87e35205aaaa01f3f33f8e5fd2ef84d503a8c47f43d3cf9e3212cbaa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:19:51.535Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "アリス・マーガトロイド",
+        "東方",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147097281_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147097281",
+      "sourceCreatedAt": "2026-07-11T17:25:21.000Z"
+    },
+    {
       "id": "0b3d8f17",
       "filename": "pixiv_147084801_p0.jpg",
       "path": "uploads/2026/07/46b2b127.jpg",
