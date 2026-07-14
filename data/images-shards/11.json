@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "6193e6ff",
+      "filename": "pixiv_147148464_p0.jpg",
+      "path": "uploads/2026/07/ba9c0ce7.jpg",
+      "size": 782447,
+      "width": 543,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f3028587fb030524e1c8b3db1d75feb2a494a9faa8fec2a099a8327875f4ff73",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:09:02.919Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "バルパライソ(アズールレーン)",
+      "tags": [
+        "碧蓝航线",
+        "绘画",
+        "バルパライソ(アズールレーン)",
+        "アズールレーン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147148464_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147148464",
+      "sourceCreatedAt": "2026-07-13T01:13:00.000Z"
+    },
+    {
       "id": "faf55588",
       "filename": "pixiv_147085908_p0.jpg",
       "path": "uploads/2026/07/bbc37015.jpg",
