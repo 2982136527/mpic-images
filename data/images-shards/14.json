@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "446dd2da",
+      "filename": "pixiv_147132084_p0.jpg",
+      "path": "uploads/2026/07/c2934bfb.jpg",
+      "size": 1289651,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3e4d63b96faf9344e415001ff798175a9bed015d02eabb9b95276821fd8f1bbc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:17:43.032Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "김삿갓",
+      "tags": [
+        "LimbusCompany",
+        "Limbus_Company",
+        "림버스",
+        "림버스컴퍼니"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147132084_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147132084",
+      "sourceCreatedAt": "2026-07-12T13:45:12.000Z"
+    },
+    {
       "id": "37d6ee35",
       "filename": "pixiv_147091830_p0.jpg",
       "path": "uploads/2026/07/16d6f90d.jpg",
