@@ -3,6 +3,32 @@
   "shardId": "07",
   "images": [
     {
+      "id": "66c8ef3f",
+      "filename": "pixiv_146082543_p0.jpg",
+      "path": "uploads/2026/07/19191fc3.jpg",
+      "size": 777681,
+      "width": 828,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d9e999774c4d35fc8e990520a25c9972da2086311e876a8dee468b61cb6f283f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T17:30:02.619Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "こんこん",
+      "tags": [
+        "skeb",
+        "女の子",
+        "けもみみ",
+        "ピンク髪",
+        "狐耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146082543_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146082543",
+      "sourceCreatedAt": "2026-06-16T10:33:27.000Z"
+    },
+    {
       "id": "fc6d103b",
       "filename": "pixiv_147101959_p0.jpg",
       "path": "uploads/2026/07/c71d7b4a.jpg",
