@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "eeea89d1",
+      "filename": "pixiv_147123551_p0.jpg",
+      "path": "uploads/2026/07/f5bff42d.jpg",
+      "size": 413255,
+      "width": 594,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9f87cb306cd346fae59270779d203e4281e105c27d2982f2eade893be28cb53c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:10:27.914Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "オトギ",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "天神山オトギ",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147123551_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147123551",
+      "sourceCreatedAt": "2026-07-12T10:55:59.000Z"
+    },
+    {
       "id": "fae2209e",
       "filename": "pixiv_147092218_p0.jpg",
       "path": "uploads/2026/07/a2084aef.jpg",
