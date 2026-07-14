@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "c01a7fa0",
+      "filename": "pixiv_147122126_p0.jpg",
+      "path": "uploads/2026/07/1df05019.jpg",
+      "size": 752651,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "eb75e0af5b94d9a40c7b4c95bcc09611989dd0b0638864d254c1158781be1f6c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:14:12.651Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "メイドケイ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ケイ(ブルーアーカイブ)",
+        "ブルアカ",
+        "BlueArchive",
+        "天童ケイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147122126_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147122126",
+      "sourceCreatedAt": "2026-07-12T10:18:09.000Z"
+    },
+    {
       "id": "2c2ae49f",
       "filename": "pixiv_147151881_p0.jpg",
       "path": "uploads/2026/07/a673d7a4.jpg",
