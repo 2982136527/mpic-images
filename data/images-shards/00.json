@@ -3,6 +3,28 @@
   "shardId": "00",
   "images": [
     {
+      "id": "ca7f436e",
+      "filename": "pixiv_147115458_p0.jpg",
+      "path": "uploads/2026/07/146c0a33.jpg",
+      "size": 289433,
+      "width": 284,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6bd926d0c3bf6c1fed33285d4845d02ee2d78effdda663b026c8af3fe6876cff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:16:00.129Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "早く来て",
+      "tags": [
+        "ゼン蛍"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147115458_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147115458",
+      "sourceCreatedAt": "2026-07-12T07:18:33.000Z"
+    },
+    {
       "id": "4804cbe6",
       "filename": "pixiv_147119376_p0.jpg",
       "path": "uploads/2026/07/b96c8338.jpg",
