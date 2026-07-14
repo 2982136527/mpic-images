@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "dc200e5e",
+      "filename": "pixiv_147087989_p0.jpg",
+      "path": "uploads/2026/07/05260682.jpg",
+      "size": 249300,
+      "width": 547,
+      "height": 535,
+      "mimeType": "image/jpeg",
+      "hash": "10275afa5296986499f95b2f2075828fe28be3993d9afc959893bf5411bf3adc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:16:38.374Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "コロサンまとめ5",
+      "tags": [
+        "コロサン",
+        "原神",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147087989_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147087989",
+      "sourceCreatedAt": "2026-07-11T13:23:36.000Z"
+    },
+    {
       "id": "0d308016",
       "filename": "pixiv_147110894_p0.jpg",
       "path": "uploads/2026/07/2cc0044b.jpg",
