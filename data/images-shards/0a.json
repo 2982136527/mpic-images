@@ -3,6 +3,33 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "b355dad5",
+      "filename": "pixiv_147093572_p0.jpg",
+      "path": "uploads/2026/07/edfcc8c9.jpg",
+      "size": 814882,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ed985550d85d9430858f2e1d98d2e0df1f3f29e0065c9b945248c64b9c4ce3b2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:08:01.439Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "マリー",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "ブルアカ",
+        "蔚蓝档案",
+        "伊落マリー",
+        "블루아카이브"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147093572_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147093572",
+      "sourceCreatedAt": "2026-07-11T15:20:59.000Z"
+    },
+    {
       "id": "82db22cb",
       "filename": "pixiv_146095652_p0.jpg",
       "path": "uploads/2026/07/3864687c.jpg",
