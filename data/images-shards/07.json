@@ -3,6 +3,32 @@
   "shardId": "07",
   "images": [
     {
+      "id": "3f7cbfe2",
+      "filename": "pixiv_147109427_p0.jpg",
+      "path": "uploads/2026/07/66f72227.jpg",
+      "size": 805677,
+      "width": 1200,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "9b428b844896d79bd601ba424426f3921ad8d725bf2d10c5efff099c8de44ac1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:19:41.159Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "あやとれいむ",
+      "tags": [
+        "東方",
+        "東方Project",
+        "射命丸文",
+        "博麗霊夢",
+        "あやれいむ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147109427_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147109427",
+      "sourceCreatedAt": "2026-07-12T03:45:19.000Z"
+    },
+    {
       "id": "3d2be111",
       "filename": "pixiv_147120233_p0.jpg",
       "path": "uploads/2026/07/ed9fcc9a.jpg",
