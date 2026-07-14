@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "74da8398",
+      "filename": "pixiv_147074876_p0.jpg",
+      "path": "uploads/2026/07/10aafb4e.jpg",
+      "size": 387453,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b42c661af886f9d58206420172dafae796de617a67862a61a38660180ea967af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:23:42.820Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "まべ夢ログ",
+      "tags": [
+        "DP夢",
+        "チミチャンガにしてやって!!!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147074876_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147074876",
+      "sourceCreatedAt": "2026-07-11T08:00:13.000Z"
+    },
+    {
       "id": "7578c983",
       "filename": "pixiv_147079687_p0.jpg",
       "path": "uploads/2026/07/56b74316.jpg",
