@@ -3,6 +3,28 @@
   "shardId": "19",
   "images": [
     {
+      "id": "f6a14964",
+      "filename": "pixiv_147076126_p0.jpg",
+      "path": "uploads/2026/07/e89dcdcf.jpg",
+      "size": 417358,
+      "width": 1200,
+      "height": 981,
+      "mimeType": "image/jpeg",
+      "hash": "06f24c55e22cae3f58f936d97af4405e102ba83f6767cc9a6dadc0fc45542d67",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:16:57.451Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "突然のﾝﾘﾊ",
+      "tags": [
+        "ノスフェラトゥさん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147076126_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147076126",
+      "sourceCreatedAt": "2026-07-13T17:20:49.000Z"
+    },
+    {
       "id": "f691246e",
       "filename": "pixiv_147115751_p0.jpg",
       "path": "uploads/2026/07/268d9d83.jpg",
