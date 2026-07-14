@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "8456d463",
+      "filename": "pixiv_147092874_p0.jpg",
+      "path": "uploads/2026/07/ba47c4b2.jpg",
+      "size": 509722,
+      "width": 1200,
+      "height": 704,
+      "mimeType": "image/jpeg",
+      "hash": "8e7b3d796e08d250b9d7faf443aa1c96d05b0e0e63d08f06fa4458ec802e9718",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:18:33.651Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "かぐやおたおめ",
+      "tags": [
+        "超かぐや姫!",
+        "かぐいろ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147092874_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147092874",
+      "sourceCreatedAt": "2026-07-11T15:05:53.000Z"
+    },
+    {
       "id": "7431b6a3",
       "filename": "pixiv_147092182_p0.jpg",
       "path": "uploads/2026/07/6afd698a.jpg",
