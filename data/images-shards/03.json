@@ -3,6 +3,36 @@
   "shardId": "03",
   "images": [
     {
+      "id": "ac46181d",
+      "filename": "pixiv_147126848_p0.jpg",
+      "path": "uploads/2026/07/43f4bae3.jpg",
+      "size": 998016,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7cd89ae8428e3c86ca602899d074d7b70a3f08157fefd4648676e63d0a64d3f5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:19:21.299Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ウマまとめ１２",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ステイゴールド(ウマ娘)",
+        "ナカヤマフェスタ(ウマ娘)",
+        "ゴールドシップ(ウマ娘)",
+        "フェノーメノ(ウマ娘)",
+        "サイレンススズカ(ウマ娘)",
+        "レッドディザイア(ウマ娘)",
+        "ステゴ一族",
+        "ドリームジャーニー(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147126848_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147126848",
+      "sourceCreatedAt": "2026-07-12T12:02:12.000Z"
+    },
+    {
       "id": "09851de1",
       "filename": "pixiv_147061019_p0.jpg",
       "path": "uploads/2026/07/35c62aae.jpg",
