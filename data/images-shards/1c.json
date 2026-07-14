@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "7431b6a3",
+      "filename": "pixiv_147092182_p0.jpg",
+      "path": "uploads/2026/07/6afd698a.jpg",
+      "size": 1075924,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "7e908f3bb589cd0d0e5daa177be99d6410c02f07254eea0760f6328a5837d211",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:16:07.775Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "デコミクちゃん🍒",
+      "tags": [
+        "初音ミク",
+        "デコミク",
+        "PR",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147092182_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147092182",
+      "sourceCreatedAt": "2026-07-11T15:00:15.000Z"
+    },
+    {
       "id": "23236bb6",
       "filename": "pixiv_147116819_p0.jpg",
       "path": "uploads/2026/07/45a1b613.jpg",
