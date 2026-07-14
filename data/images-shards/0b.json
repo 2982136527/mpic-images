@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "785fbd5c",
+      "filename": "pixiv_145947869_p0.jpg",
+      "path": "uploads/2026/07/2a393bb5.jpg",
+      "size": 850003,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6c317ba46848c936df45d58ba6a59fdde9e4c895f7053f6ccbb04bdb42c99ed1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:24:47.553Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "洛瑟菈",
+      "tags": [
+        "鸣潮",
+        "洛瑟菈",
+        "鳴潮",
+        "鳴潮1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "145947869_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/145947869",
+      "sourceCreatedAt": "2026-06-13T04:33:53.000Z"
+    },
+    {
       "id": "4786b3f3",
       "filename": "pixiv_147114368_p0.jpg",
       "path": "uploads/2026/07/41f9833e.jpg",
