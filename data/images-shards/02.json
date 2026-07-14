@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "385cad34",
+      "filename": "pixiv_147092500_p0.jpg",
+      "path": "uploads/2026/07/0236e140.jpg",
+      "size": 605851,
+      "width": 821,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1212aeca987164eb26524aca8d1a526b7a76eaf76b7461e93745de4dc9d03274",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:20:26.634Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ふたりぐみ。",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "百合",
+        "オリジナル100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147092500_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147092500",
+      "sourceCreatedAt": "2026-07-11T15:01:39.000Z"
+    },
+    {
       "id": "78bd37b1",
       "filename": "pixiv_147092867_p0.jpg",
       "path": "uploads/2026/07/f3d19100.jpg",
