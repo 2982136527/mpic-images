@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "23ad2ef2",
+      "filename": "pixiv_147161701_p0.jpg",
+      "path": "uploads/2026/07/4c1816c2.jpg",
+      "size": 1334747,
+      "width": 1200,
+      "height": 690,
+      "mimeType": "image/jpeg",
+      "hash": "e87fc7bf849a6a267a6dcd01c010858ca1f1f122ee680ff99993f9cc04efc10e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:12:04.173Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "穗穗",
+      "tags": [
+        "WutheringWaves",
+        "鸣潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147161701_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147161701",
+      "sourceCreatedAt": "2026-07-13T10:53:30.000Z"
+    },
+    {
       "id": "15972c8c",
       "filename": "pixiv_147117765_p0.jpg",
       "path": "uploads/2026/07/e1e284d6.jpg",
