@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "6a3bf56b",
+      "filename": "pixiv_147150687_p0.jpg",
+      "path": "uploads/2026/07/024c903f.jpg",
+      "size": 309155,
+      "width": 972,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0ac0d6ada6c5f84388e18c282606ec6c28afd5a3d07a8611811ee646f0d3c3f7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:11:29.824Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "慣れっこ",
+      "tags": [
+        "ヌヌス",
+        "HonkaiStarRail",
+        "崩壊:スターレイル",
+        "崩壊スターレイル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147150687_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147150687",
+      "sourceCreatedAt": "2026-07-13T03:15:27.000Z"
+    },
+    {
       "id": "b56dc793",
       "filename": "pixiv_147102437_p0.jpg",
       "path": "uploads/2026/07/c4c9958a.jpg",
