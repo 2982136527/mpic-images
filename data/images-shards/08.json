@@ -3,6 +3,34 @@
   "shardId": "08",
   "images": [
     {
+      "id": "abc054ed",
+      "filename": "pixiv_147120058_p0.jpg",
+      "path": "uploads/2026/07/55ec9ae7.jpg",
+      "size": 623877,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "12f8112ec2c3d318c10f5e71e0249cf2e4980e9e77779a462a5ccfe0fb75dd44",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T17:25:52.188Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "シスターリリス",
+      "tags": [
+        "リリス(Fate)",
+        "Fate/GrandOrder",
+        "悪魔っ娘",
+        "銀髪",
+        "女の子",
+        "シスター",
+        "FGO"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147120058_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147120058",
+      "sourceCreatedAt": "2026-07-12T09:30:14.000Z"
+    },
+    {
       "id": "fa6946fd",
       "filename": "pixiv_147109571_p0.jpg",
       "path": "uploads/2026/07/7d027be4.jpg",
