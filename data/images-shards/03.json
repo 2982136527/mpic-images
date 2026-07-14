@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "bea02612",
+      "filename": "pixiv_147101917_p0.jpg",
+      "path": "uploads/2026/07/04ca0e9c.jpg",
+      "size": 378749,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dbf41003405873f10dc39acfa19b1d6f34d8b18b8c2eb1a153ec9416efd72183",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:11:11.947Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ココナちゃん",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "春原ココナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147101917_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147101917",
+      "sourceCreatedAt": "2026-07-11T22:18:20.000Z"
+    },
+    {
       "id": "0949d6ed",
       "filename": "pixiv_147157963_p0.jpg",
       "path": "uploads/2026/07/29e55b2d.jpg",
