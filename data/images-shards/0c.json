@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "d388c299",
+      "filename": "pixiv_147140793_p0.jpg",
+      "path": "uploads/2026/07/9a8779c9.jpg",
+      "size": 905536,
+      "width": 1200,
+      "height": 776,
+      "mimeType": "image/jpeg",
+      "hash": "10181e7b699e6807e361a16c8c51c0c0004a3615b22bf224246cd7c72926bd84",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:09:52.407Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "鳥魚",
+      "tags": [
+        "魚",
+        "鳥"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147140793_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147140793",
+      "sourceCreatedAt": "2026-07-12T17:09:01.000Z"
+    },
+    {
       "id": "d32e79c2",
       "filename": "pixiv_146040546_p0.jpg",
       "path": "uploads/2026/07/4c254608.jpg",
