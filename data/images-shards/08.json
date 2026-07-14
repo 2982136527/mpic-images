@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "fa6946fd",
+      "filename": "pixiv_147109571_p0.jpg",
+      "path": "uploads/2026/07/7d027be4.jpg",
+      "size": 641493,
+      "width": 886,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3ba6f04b1b3f025f1cfb69a82ccc3e36313107815710884b3b4e68beea5121d5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T17:22:14.968Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": ".",
+      "tags": [
+        "セーラー服",
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147109571_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147109571",
+      "sourceCreatedAt": "2026-07-12T03:51:27.000Z"
+    },
+    {
       "id": "d57acef4",
       "filename": "pixiv_147109155_p0.jpg",
       "path": "uploads/2026/07/ed9f541d.jpg",
