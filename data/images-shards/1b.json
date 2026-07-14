@@ -3,6 +3,35 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "a8ba7153",
+      "filename": "pixiv_147119617_p0.jpg",
+      "path": "uploads/2026/07/91dda96d.jpg",
+      "size": 823705,
+      "width": 916,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bcbfbc2d6ac49ed0bc25ef95c333f3c586668336cf6f46b477ac88112541483d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T17:28:01.639Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ユウとナーラと異国の文化",
+      "tags": [
+        "リズム天国",
+        "リズム天国ミラクルスターズ",
+        "ユウ(リズム天国)",
+        "ナーラ(リズム天国)",
+        "ビートスペル",
+        "任天堂娘",
+        "バックダンサー(リズム天国)",
+        "ダンサー(リズム天国)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147119617_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147119617",
+      "sourceCreatedAt": "2026-07-12T09:18:16.000Z"
+    },
+    {
       "id": "c390540b",
       "filename": "pixiv_147150442_p0.jpg",
       "path": "uploads/2026/07/feae882a.jpg",
