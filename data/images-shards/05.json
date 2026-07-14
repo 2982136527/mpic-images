@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "3d8ddfb3",
+      "filename": "pixiv_147137855_p0.jpg",
+      "path": "uploads/2026/07/50d1eee4.jpg",
+      "size": 472839,
+      "width": 1200,
+      "height": 753,
+      "mimeType": "image/jpeg",
+      "hash": "eff7a89e97994b283e94e618b65786d8a42920e47fa238fdfc43cee9a44ada13",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:14:57.635Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ノルムー",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ノルムー・ホローウェル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147137855_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147137855",
+      "sourceCreatedAt": "2026-07-12T15:30:50.000Z"
+    },
+    {
       "id": "d86f02c0",
       "filename": "pixiv_147108102_p0.jpg",
       "path": "uploads/2026/07/3dac5b3f.jpg",
