@@ -3,6 +3,32 @@
   "shardId": "18",
   "images": [
     {
+      "id": "5b05e6db",
+      "filename": "pixiv_147151090_p0.jpg",
+      "path": "uploads/2026/07/5286910b.jpg",
+      "size": 953544,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d636059fb62d81298b6730305cd7888a428176762287ba46e67205867e3e0879",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:08:51.166Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "東方まとめ11",
+      "tags": [
+        "東方",
+        "東方Project",
+        "レイマリ",
+        "霧雨魔理沙",
+        "博麗霊夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147151090_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147151090",
+      "sourceCreatedAt": "2026-07-13T03:32:49.000Z"
+    },
+    {
       "id": "dda74920",
       "filename": "pixiv_147109873_p0.jpg",
       "path": "uploads/2026/07/26796b3d.jpg",
