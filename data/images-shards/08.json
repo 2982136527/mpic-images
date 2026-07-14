@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "f8a4ab68",
+      "filename": "pixiv_147107021_p0.jpg",
+      "path": "uploads/2026/07/f4b4e506.jpg",
+      "size": 490918,
+      "width": 1200,
+      "height": 898,
+      "mimeType": "image/jpeg",
+      "hash": "8682415245dc2ffe6eea181da4e639b51d90977426751f6e77424b6188b226af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:22:59.763Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ヘタlog③",
+      "tags": [
+        "ヘタリア",
+        "ラベンダーカルテット",
+        "APH"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147107021_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147107021",
+      "sourceCreatedAt": "2026-07-12T06:57:59.000Z"
+    },
+    {
       "id": "6d61dc9e",
       "filename": "pixiv_147101560_p0.jpg",
       "path": "uploads/2026/07/9039ce59.jpg",
