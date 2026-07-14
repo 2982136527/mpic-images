@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "64c5a441",
+      "filename": "pixiv_147164751_p0.jpg",
+      "path": "uploads/2026/07/dd2d5340.jpg",
+      "size": 699371,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dbb7c349535d1c70a1f798a7544b6ac1fb7ab47bd1eb6ad61db6b524b789f7d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:07:55.414Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "推しの毛",
+      "tags": [
+        "創作BL",
+        "BL"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147164751_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147164751",
+      "sourceCreatedAt": "2026-07-13T12:01:09.000Z"
+    },
+    {
       "id": "3f7cbfe2",
       "filename": "pixiv_147109427_p0.jpg",
       "path": "uploads/2026/07/66f72227.jpg",
