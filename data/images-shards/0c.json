@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "34fe1abb",
+      "filename": "pixiv_147125802_p0.jpg",
+      "path": "uploads/2026/07/e4ad3217.jpg",
+      "size": 619375,
+      "width": 1077,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "90b377c107b2490a6baa28f50dac4199d2d2aa819396d7e03548f964ba881ede",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:10:48.040Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ドトウたそ",
+      "tags": [
+        "メイショウドトウ(ウマ娘)",
+        "ウマ娘",
+        "ウマ娘プリティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147125802_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147125802",
+      "sourceCreatedAt": "2026-07-12T11:43:11.000Z"
+    },
+    {
       "id": "0049794e",
       "filename": "pixiv_147125023_p0.jpg",
       "path": "uploads/2026/07/a9831aba.jpg",
