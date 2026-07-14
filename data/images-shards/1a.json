@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "750d9015",
+      "filename": "pixiv_147079452_p0.jpg",
+      "path": "uploads/2026/07/484dbf8c.jpg",
+      "size": 800284,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dd04477443dcf3482427c86da6c9cabbb044fdced612ebf99d1261ada3b791da",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:20:21.125Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "アロプラ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "プラナ(ブルーアーカイブ)",
+        "アロナ(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147079452_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147079452",
+      "sourceCreatedAt": "2026-07-11T10:10:11.000Z"
+    },
+    {
       "id": "f890e455",
       "filename": "pixiv_147051939_p0.jpg",
       "path": "uploads/2026/07/d263ef49.jpg",
