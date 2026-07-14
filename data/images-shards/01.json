@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "a5239adf",
+      "filename": "pixiv_147088409_p0.jpg",
+      "path": "uploads/2026/07/7c31a11e.jpg",
+      "size": 1146759,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "771a2f39a0b59f809944627a447ca1ae2c8aebd071011e5a984bf8a17ad17850",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:18:53.853Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "セブンイレブン靴下コーデ",
+      "tags": [
+        "女の子",
+        "セブンイレブン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147088409_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147088409",
+      "sourceCreatedAt": "2026-07-11T13:32:21.000Z"
+    },
+    {
       "id": "0cad467c",
       "filename": "pixiv_147134537_p0.jpg",
       "path": "uploads/2026/07/f4d997c9.jpg",
