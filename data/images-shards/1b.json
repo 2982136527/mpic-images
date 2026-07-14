@@ -3,6 +3,37 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "aa68beb4",
+      "filename": "pixiv_147125710_p0.jpg",
+      "path": "uploads/2026/07/ef6f31b8.jpg",
+      "size": 484956,
+      "width": 723,
+      "height": 964,
+      "mimeType": "image/jpeg",
+      "hash": "46d48cc7856cd2137055f40d5a228b10024354ccf6447e56c9f38a929d46a024",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:07:01.114Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "名探偵不破",
+      "tags": [
+        "名探偵プリキュア!",
+        "仮面ライダーゼロワン",
+        "クロスオーバー",
+        "いや、そのりくつはおかしい",
+        "滅亡迅雷.net",
+        "違う、そうじゃない",
+        "キュアエクレール候補者",
+        "キュアライダー",
+        "仮面ライダーバルカン",
+        "仮面ライダーバルキリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147125710_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147125710",
+      "sourceCreatedAt": "2026-07-12T11:40:45.000Z"
+    },
+    {
       "id": "5d1aa932",
       "filename": "pixiv_147052758_p0.jpg",
       "path": "uploads/2026/07/d76c053a.jpg",
