@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "c390540b",
+      "filename": "pixiv_147150442_p0.jpg",
+      "path": "uploads/2026/07/feae882a.jpg",
+      "size": 1038000,
+      "width": 1200,
+      "height": 754,
+      "mimeType": "image/jpeg",
+      "hash": "35631ae551b1aff1b53cff5e87a2912bc8dabf93e2a0ad5aa5280250cb050344",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T17:24:01.975Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【稿件展示】小树林",
+      "tags": [
+        "少女",
+        "裸足",
+        "萝莉",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147150442_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147150442",
+      "sourceCreatedAt": "2026-07-13T03:03:38.000Z"
+    },
+    {
       "id": "701753e6",
       "filename": "pixiv_147118280_p0.jpg",
       "path": "uploads/2026/07/38b1717a.jpg",
