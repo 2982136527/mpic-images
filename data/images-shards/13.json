@@ -3,6 +3,33 @@
   "shardId": "13",
   "images": [
     {
+      "id": "cccd1c31",
+      "filename": "pixiv_147131890_p0.jpg",
+      "path": "uploads/2026/07/e9c11139.jpg",
+      "size": 1113188,
+      "width": 893,
+      "height": 893,
+      "mimeType": "image/jpeg",
+      "hash": "c86cb39425831ff680167dc49d57ff9ef5a1cfd3bdbaa1b074173f46b699f8fd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:07:44.821Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "天邪鬼",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "アナログ",
+        "絵墨",
+        "透明水彩",
+        "展示"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147131890_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147131890",
+      "sourceCreatedAt": "2026-07-12T13:41:11.000Z"
+    },
+    {
       "id": "1621601c",
       "filename": "pixiv_146060416_p0.jpg",
       "path": "uploads/2026/07/4ffeecc7.jpg",
