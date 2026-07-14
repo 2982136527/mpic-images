@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "54440ebd",
+      "filename": "pixiv_147139069_p0.jpg",
+      "path": "uploads/2026/07/4afcf856.jpg",
+      "size": 951300,
+      "width": 739,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b52c6d26b17e7dee6ed7f7e7eb17066d84e9c3af9d47bf7b66ab048c6b984749",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:10:39.606Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "SuiSui",
+      "tags": [
+        "少女",
+        "鸣潮",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147139069_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147139069",
+      "sourceCreatedAt": "2026-07-12T16:03:11.000Z"
+    },
+    {
       "id": "d5e5ed43",
       "filename": "pixiv_147104829_p0.jpg",
       "path": "uploads/2026/07/0ede6a01.jpg",
