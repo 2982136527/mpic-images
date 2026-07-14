@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "989fd2f3",
+      "filename": "pixiv_147142890_p0.jpg",
+      "path": "uploads/2026/07/96ef7dfd.jpg",
+      "size": 523546,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cf2f2bb7bbbdedace56c3d297cf8283a53dd51d6ed50b524b845ba2d8fdd06e5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:08:31.786Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "あいのまかろん〜(？)",
+      "tags": [
+        "行秋",
+        "重雲",
+        "行重行"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147142890_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147142890",
+      "sourceCreatedAt": "2026-07-12T19:12:22.000Z"
+    },
+    {
       "id": "83cdb36e",
       "filename": "pixiv_147127120_p0.jpg",
       "path": "uploads/2026/07/6b05a91f.jpg",
