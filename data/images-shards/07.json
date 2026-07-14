@@ -3,6 +3,32 @@
   "shardId": "07",
   "images": [
     {
+      "id": "3d2be111",
+      "filename": "pixiv_147120233_p0.jpg",
+      "path": "uploads/2026/07/ed9fcc9a.jpg",
+      "size": 541208,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6704e5b3fe17d99e97b73c96e6761e1d27a10219e2d838977da46327b169bb74",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:17:56.679Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ポニテミク",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ボカロ",
+        "HatsuneMiku",
+        "ボーカロイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147120233_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147120233",
+      "sourceCreatedAt": "2026-07-12T09:34:27.000Z"
+    },
+    {
       "id": "55f56dad",
       "filename": "pixiv_147090091_p0.jpg",
       "path": "uploads/2026/07/1d047ab3.jpg",
