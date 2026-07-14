@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "885329b5",
+      "filename": "pixiv_147108474_p0.jpg",
+      "path": "uploads/2026/07/f2c5a86e.jpg",
+      "size": 1009149,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4de92cd9f0c1c51fcc156a8f144eebad39b3921c2a504ae64748ae06c47688e0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:11:46.705Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "蒸し蒸し",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "エーテル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147108474_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147108474",
+      "sourceCreatedAt": "2026-07-12T03:07:49.000Z"
+    },
+    {
       "id": "bea02612",
       "filename": "pixiv_147101917_p0.jpg",
       "path": "uploads/2026/07/04ca0e9c.jpg",
