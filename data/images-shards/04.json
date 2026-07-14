@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "3d14a2c8",
+      "filename": "pixiv_147101083_p0.jpg",
+      "path": "uploads/2026/07/42ea5623.jpg",
+      "size": 1187387,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "967cd53fc0251c30ec5a50dfebc875714bfeb7faf011164ad700b9dbd4a566d5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:07:18.062Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "SkyAboveMe",
+      "tags": [
+        "OC",
+        "ブーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147101083_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147101083",
+      "sourceCreatedAt": "2026-07-11T21:28:32.000Z"
+    },
+    {
       "id": "ee694f1d",
       "filename": "pixiv_147064036_p0.jpg",
       "path": "uploads/2026/07/129bcfa3.jpg",
