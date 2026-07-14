@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "aa293082",
+      "filename": "pixiv_147052840_p0.jpg",
+      "path": "uploads/2026/07/b3b0c4d1.jpg",
+      "size": 818505,
+      "width": 791,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c8cd233b5bc0c955cc2498d1ed1400d8b3ca205ad3eb602d368e89d6344c9da5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:15:41.004Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ライザ",
+      "tags": [
+        "ライザのアトリエ",
+        "ライザリン・シュタウト",
+        "アトリエシリーズ",
+        "指ハート"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147052840_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147052840",
+      "sourceCreatedAt": "2026-07-10T15:19:27.000Z"
+    },
+    {
       "id": "9252db3b",
       "filename": "pixiv_147114137_p0.jpg",
       "path": "uploads/2026/07/e30b2962.jpg",
