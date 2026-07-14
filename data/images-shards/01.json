@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "fae2209e",
+      "filename": "pixiv_147092218_p0.jpg",
+      "path": "uploads/2026/07/a2084aef.jpg",
+      "size": 1434111,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "acb7c2e9bbc724e8f95f8642f8f81fc654373a233da94ceb824c822bb95a8f99",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:06:44.766Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ちるまり",
+      "tags": [
+        "東方",
+        "霧雨魔理沙",
+        "チルノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147092218_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147092218",
+      "sourceCreatedAt": "2026-07-11T15:00:20.000Z"
+    },
+    {
       "id": "7499b8d9",
       "filename": "pixiv_146125743_p0.jpg",
       "path": "uploads/2026/07/0e751bc9.jpg",
