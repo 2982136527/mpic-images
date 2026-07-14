@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "9b1c4199",
+      "filename": "pixiv_146933013_p0.jpg",
+      "path": "uploads/2026/07/70c5ffcf.jpg",
+      "size": 606689,
+      "width": 1055,
+      "height": 750,
+      "mimeType": "image/jpeg",
+      "hash": "bebdb72d77cf95b77163697546fd110f6097174d72f5898e982a6e6a84c7406d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:24:30.262Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "春の香り",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子",
+        "璃音",
+        "銀髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146933013_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146933013",
+      "sourceCreatedAt": "2026-07-07T11:33:36.000Z"
+    },
+    {
       "id": "cb9fca40",
       "filename": "pixiv_147105264_p0.jpg",
       "path": "uploads/2026/07/304fee4d.jpg",
