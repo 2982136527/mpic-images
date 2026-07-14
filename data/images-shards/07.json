@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "fc6d103b",
+      "filename": "pixiv_147101959_p0.jpg",
+      "path": "uploads/2026/07/c71d7b4a.jpg",
+      "size": 640613,
+      "width": 872,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ac68743101b1ba6610fcc4f90d6688d72195325056901807e6f766a85c3d2223",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T17:24:58.168Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "リサ",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "スズラン(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147101959_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147101959",
+      "sourceCreatedAt": "2026-07-11T22:21:07.000Z"
+    },
+    {
       "id": "fbff7af3",
       "filename": "pixiv_147107223_p0.jpg",
       "path": "uploads/2026/07/4254c90b.jpg",
