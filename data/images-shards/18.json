@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "dcf36ca3",
+      "filename": "pixiv_147154987_p0.jpg",
+      "path": "uploads/2026/07/4e7a8427.jpg",
+      "size": 668578,
+      "width": 944,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cd3c3bc23fbd409edfa1751e188255fe2624d58e7c28c52f5ba14259c5448377",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:09:46.440Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "カービィまとめ",
+      "tags": [
+        "星のカービィ",
+        "マルク(星のカービィ)",
+        "マホロア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147154987_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147154987",
+      "sourceCreatedAt": "2026-07-13T07:00:02.000Z"
+    },
+    {
       "id": "5b05e6db",
       "filename": "pixiv_147151090_p0.jpg",
       "path": "uploads/2026/07/5286910b.jpg",
