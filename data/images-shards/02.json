@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "d4ee0f14",
+      "filename": "pixiv_147147876_p0.jpg",
+      "path": "uploads/2026/07/ec2f6bcb.jpg",
+      "size": 462438,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "001b0f5110811af8e62b50ba593b434c7c5b05908686155bf8758a294c4a18ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T10:13:46.824Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "■漫画/Bloom-ful-Bouquet",
+      "tags": [
+        "Knights(あんスタ)",
+        "鳴上嵐",
+        "朱桜司",
+        "月永レオ",
+        "瀬名泉",
+        "朔間凛月"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147147876_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147147876",
+      "sourceCreatedAt": "2026-07-13T00:36:43.000Z"
+    },
+    {
       "id": "41be5c73",
       "filename": "pixiv_146905548_p0.jpg",
       "path": "uploads/2026/07/53baea83.jpg",
