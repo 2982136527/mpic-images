@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "e31d3abc",
+      "filename": "pixiv_147106774_p0.jpg",
+      "path": "uploads/2026/07/265cd399.jpg",
+      "size": 826305,
+      "width": 1200,
+      "height": 672,
+      "mimeType": "image/jpeg",
+      "hash": "230741443a88db669ee6a7047b95b046a3521131393eca839a848ad7e686a7d0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:18:23.736Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Client OC / 三面図",
+      "tags": [
+        "人外",
+        "多腕",
+        "ドラゴン",
+        "Skeb"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147106774_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147106774",
+      "sourceCreatedAt": "2026-07-12T02:09:00.000Z"
+    },
+    {
       "id": "f6a14964",
       "filename": "pixiv_147076126_p0.jpg",
       "path": "uploads/2026/07/e89dcdcf.jpg",
