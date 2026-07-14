@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "3dcd3c13",
+      "filename": "pixiv_146052560_p0.jpg",
+      "path": "uploads/2026/07/61f2c56b.jpg",
+      "size": 1337046,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bdcdd5bb6ce387279dca867e884b4a8f3af3b0a326f4bad55bd33c70b79ea6d5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-14T03:22:12.738Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Mika",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "聖園ミカ",
+        "聖園ミカ(水着)",
+        "魅惑の谷間"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146052560_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146052560",
+      "sourceCreatedAt": "2026-06-15T13:22:42.000Z"
+    },
+    {
       "id": "750d9015",
       "filename": "pixiv_147079452_p0.jpg",
       "path": "uploads/2026/07/484dbf8c.jpg",
