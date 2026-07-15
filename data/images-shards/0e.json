@@ -3,6 +3,35 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "4af955da",
+      "filename": "pixiv_147191876_p0.jpg",
+      "path": "uploads/2026/07/8fc20cbb.jpg",
+      "size": 949204,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6abaf8a56adb9ccc9c96c5f668eebc7eda0fdaa7d59b30da62243eac383f569a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:15:42.805Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Persona 4 Revival",
+      "tags": [
+        "P4R",
+        "Persona4",
+        "ペルソナ4",
+        "花村陽介",
+        "天城雪子",
+        "男装",
+        "女装",
+        "服交換"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147191876_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147191876",
+      "sourceCreatedAt": "2026-07-14T07:48:05.000Z"
+    },
+    {
       "id": "dde523a7",
       "filename": "pixiv_147173097_p0.jpg",
       "path": "uploads/2026/07/f026e00f.jpg",
