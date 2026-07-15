@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "a5701d64",
+      "filename": "pixiv_146106898_p0.jpg",
+      "path": "uploads/2026/07/7ea200f3.jpg",
+      "size": 635182,
+      "width": 623,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "29934692a15c3f43b1db78c1ef1b1c211d692a66a706fa18ac70a0ced3e4c606",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T17:33:49.061Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "女の子",
+        "白ニーソ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146106898_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146106898",
+      "sourceCreatedAt": "2026-06-17T01:03:00.000Z"
+    },
+    {
       "id": "53ea980e",
       "filename": "pixiv_147175839_p0.jpg",
       "path": "uploads/2026/07/6f1789f8.jpg",
