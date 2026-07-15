@@ -3,6 +3,32 @@
   "shardId": "08",
   "images": [
     {
+      "id": "f0b4675c",
+      "filename": "pixiv_147158787_p0.jpg",
+      "path": "uploads/2026/07/c55e2936.jpg",
+      "size": 1323426,
+      "width": 1200,
+      "height": 644,
+      "mimeType": "image/jpeg",
+      "hash": "c23d25e8e6e21d96e1fc6bfde4319ef850831b078caf40aeab767d801dcf237e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:11:38.205Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "背景",
+        "女の子",
+        "イラスト",
+        "風景",
+        "植物"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147158787_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147158787",
+      "sourceCreatedAt": "2026-07-13T09:23:43.000Z"
+    },
+    {
       "id": "f46287ee",
       "filename": "pixiv_147192525_p0.jpg",
       "path": "uploads/2026/07/07125e30.jpg",
