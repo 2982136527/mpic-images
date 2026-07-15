@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "397a1905",
+      "filename": "pixiv_146980062_p0.jpg",
+      "path": "uploads/2026/07/2777e897.jpg",
+      "size": 785266,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d0a7d8d3d7e139122af7e84908febf6f146885384802ef53338926ea7cf70322",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:15:55.878Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ルーミア",
+      "tags": [
+        "東方Project",
+        "ルーミア",
+        "ギザ歯",
+        "指でグイッ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146980062_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146980062",
+      "sourceCreatedAt": "2026-07-08T15:06:16.000Z"
+    },
+    {
       "id": "d6d71a33",
       "filename": "pixiv_147136888_p0.jpg",
       "path": "uploads/2026/07/394f3c02.jpg",
