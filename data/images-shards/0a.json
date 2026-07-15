@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "4c8f1819",
+      "filename": "pixiv_146094954_p0.jpg",
+      "path": "uploads/2026/07/6aa1d7e4.jpg",
+      "size": 744799,
+      "width": 661,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "15b1b65287ec1324ee14c4f18d56acce5251e8367a87d0caf86b656256ef8773",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:17:14.126Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "オリキャラ",
+        "女の子",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146094954_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146094954",
+      "sourceCreatedAt": "2026-06-16T15:02:02.000Z"
+    },
+    {
       "id": "1405a849",
       "filename": "pixiv_147179992_p0.jpg",
       "path": "uploads/2026/07/c42b4730.jpg",
