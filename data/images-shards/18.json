@@ -3,6 +3,33 @@
   "shardId": "18",
   "images": [
     {
+      "id": "9cb68fdf",
+      "filename": "pixiv_147176528_p0.jpg",
+      "path": "uploads/2026/07/1e7e71de.jpg",
+      "size": 973801,
+      "width": 1200,
+      "height": 781,
+      "mimeType": "image/jpeg",
+      "hash": "797fb70b71cb684795cb4bf553220916b9dc6564ffd085ce96c44e93bd4fdf14",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T17:30:01.260Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Ahri - League of Legends",
+      "tags": [
+        "girl",
+        "fanart",
+        "League_of_Legends",
+        "Ahri",
+        "dress",
+        "LOL"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147176528_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147176528",
+      "sourceCreatedAt": "2026-07-13T16:41:56.000Z"
+    },
+    {
       "id": "a42997fd",
       "filename": "pixiv_147154031_p0.jpg",
       "path": "uploads/2026/07/174312a3.jpg",
