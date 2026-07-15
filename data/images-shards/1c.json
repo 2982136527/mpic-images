@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "2338122a",
+      "filename": "pixiv_147145229_p0.jpg",
+      "path": "uploads/2026/07/7f088ff3.jpg",
+      "size": 289415,
+      "width": 700,
+      "height": 953,
+      "mimeType": "image/jpeg",
+      "hash": "6f08d2aadbe60096c42e67ddc8698a24cd34ecbc96cf64af1a112649bcbfd813",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:12:56.865Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "最近描いた絵とか",
+      "tags": [
+        "ブルーアーカイブ",
+        "下江コハル",
+        "チンチンモンスター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147145229_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147145229",
+      "sourceCreatedAt": "2026-07-12T21:57:20.000Z"
+    },
+    {
       "id": "50e3991a",
       "filename": "pixiv_147172781_p0.jpg",
       "path": "uploads/2026/07/9dd59125.jpg",
