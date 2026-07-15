@@ -3,6 +3,36 @@
   "shardId": "02",
   "images": [
     {
+      "id": "cc575ade",
+      "filename": "pixiv_147146193_p0.jpg",
+      "path": "uploads/2026/07/70cd634e.jpg",
+      "size": 1048499,
+      "width": 1200,
+      "height": 720,
+      "mimeType": "image/jpeg",
+      "hash": "f861a5cec6b20bf7096a1db2de77c2f806705219797c58c138255f0ebe322679",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:11:08.862Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Lucy's dream",
+      "tags": [
+        "鸣潮",
+        "サイバーパンク:エッジランナーズ",
+        "ルーシー(エッジランナーズ)",
+        "漂泊者",
+        "ルシラー",
+        "莫宁",
+        "リンネー",
+        "レベッカ(エッジランナーズ)",
+        "デイビッド・マルティネス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147146193_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147146193",
+      "sourceCreatedAt": "2026-07-12T22:51:19.000Z"
+    },
+    {
       "id": "2e629281",
       "filename": "pixiv_147191468_p0.jpg",
       "path": "uploads/2026/07/36a08b7e.jpg",
