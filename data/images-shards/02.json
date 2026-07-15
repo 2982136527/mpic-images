@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "0f87d5b1",
+      "filename": "pixiv_147184207_p0.jpg",
+      "path": "uploads/2026/07/b178cf08.jpg",
+      "size": 505604,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6297b5369a4188166156c9deacfc772e4587b53266a5d03016d0146fb5710201",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:12:46.090Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "リヴァプール",
+      "tags": [
+        "アズールレーン",
+        "リヴァプール(アズールレーン)",
+        "悶々ロッカーシークレット",
+        "赤ビキニ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147184207_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147184207",
+      "sourceCreatedAt": "2026-07-14T00:53:03.000Z"
+    },
+    {
       "id": "7e4fe540",
       "filename": "pixiv_147135962_p0.jpg",
       "path": "uploads/2026/07/843818af.jpg",
