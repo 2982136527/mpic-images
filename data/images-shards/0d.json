@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "604c47bf",
+      "filename": "pixiv_147168622_p0.jpg",
+      "path": "uploads/2026/07/1d36f3b7.jpg",
+      "size": 1650910,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7403e46747a13234af9fc080b20551224308ac5c702559fa56abab5782d50560",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:12:02.248Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "헬싱 라만차",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "HELLSING"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147168622_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147168622",
+      "sourceCreatedAt": "2026-07-13T13:28:16.000Z"
+    },
+    {
       "id": "c74acec2",
       "filename": "pixiv_147092156_p0.jpg",
       "path": "uploads/2026/07/980efa58.jpg",
