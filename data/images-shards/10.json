@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "9d932773",
+      "filename": "pixiv_147156817_p0.jpg",
+      "path": "uploads/2026/07/eb63b53b.jpg",
+      "size": 640983,
+      "width": 700,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "204900f9b16fb17308824ec82e14689cad126c061b4d53a320854569feb0e672",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:13:05.112Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "메이드 젤라",
+      "tags": [
+        "Limbus_Company",
+        "LobotomyCorporation",
+        "림버스컴퍼니"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147156817_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147156817",
+      "sourceCreatedAt": "2026-07-13T08:18:41.000Z"
+    },
+    {
       "id": "004577b0",
       "filename": "pixiv_147108622_p0.jpg",
       "path": "uploads/2026/07/4404e316.jpg",
