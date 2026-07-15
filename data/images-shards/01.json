@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "a1587bc1",
+      "filename": "pixiv_147171989_p0.jpg",
+      "path": "uploads/2026/07/6cf885dc.jpg",
+      "size": 1954305,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "74f29c02e51ee6ecd900d3c2a7e7a86d233f13c307708c894dc54f28c3f74f12",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T17:25:04.151Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "オウギバト",
+      "tags": [
+        "bluetone",
+        "オリジナル",
+        "創作",
+        "人外",
+        "OC"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147171989_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147171989",
+      "sourceCreatedAt": "2026-07-13T14:45:20.000Z"
+    },
+    {
       "id": "8257ee27",
       "filename": "pixiv_147197671_p0.jpg",
       "path": "uploads/2026/07/fc73b920.jpg",
