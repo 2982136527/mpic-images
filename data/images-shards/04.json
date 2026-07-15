@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "a352afdf",
+      "filename": "pixiv_147202143_p0.jpg",
+      "path": "uploads/2026/07/c4e9e6d9.jpg",
+      "size": 1108373,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "1f21e22d25a22ccbc0dbb73c00ff3808209df9aa641af73073ebd75b1532cc3a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:18:23.597Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "[CARD] Sandrone",
+      "tags": [
+        "キャラ配布(コイカツ)",
+        "サンドローネ(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147202143_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147202143",
+      "sourceCreatedAt": "2026-07-14T12:41:41.000Z"
+    },
+    {
       "id": "d0497ff5",
       "filename": "pixiv_146058485_p0.jpg",
       "path": "uploads/2026/07/8ff0e82c.jpg",
