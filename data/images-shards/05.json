@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "892983d6",
+      "filename": "pixiv_147113230_p0.jpg",
+      "path": "uploads/2026/07/a470c90f.jpg",
+      "size": 846767,
+      "width": 1200,
+      "height": 1039,
+      "mimeType": "image/jpeg",
+      "hash": "bb052a14dff7be6df479c0db5ae501ae43782181490398b0c9f96f7f014cbd68",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T03:15:58.778Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "なんかゆるいFGO",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147113230_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147113230",
+      "sourceCreatedAt": "2026-07-12T06:02:13.000Z"
+    },
+    {
       "id": "d8eb8b09",
       "filename": "pixiv_147141096_p0.jpg",
       "path": "uploads/2026/07/972e2cc0.jpg",
