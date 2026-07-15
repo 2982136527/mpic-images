@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "08f70319",
+      "filename": "pixiv_147192911_p0.jpg",
+      "path": "uploads/2026/07/75e0f3a9.jpg",
+      "size": 857035,
+      "width": 899,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "850d07050de6fce6cfce4e6004c5bc990d365c898d339415c3db7b49734779cb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:17:51.312Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "勝利の女神:NIKKE"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147192911_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147192911",
+      "sourceCreatedAt": "2026-07-14T08:31:11.000Z"
+    },
+    {
       "id": "efd5227a",
       "filename": "pixiv_147138167_p0.jpg",
       "path": "uploads/2026/07/1db2df7b.jpg",
