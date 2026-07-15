@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "c81eb8d2",
+      "filename": "pixiv_146098522_p0.jpg",
+      "path": "uploads/2026/07/06752de6.jpg",
+      "size": 989643,
+      "width": 896,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "81887a5a4d954c30a0576b22602b3229af464cac70172fe876f8eb94764eb4ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:17:19.436Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "grunge",
+      "tags": [
+        "オリキャラ",
+        "オリジナル",
+        "Minah",
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146098522_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146098522",
+      "sourceCreatedAt": "2026-06-16T16:40:01.000Z"
+    },
+    {
       "id": "d83f6b87",
       "filename": "pixiv_146130484_p0.jpg",
       "path": "uploads/2026/07/c457d193.jpg",
