@@ -3,6 +3,32 @@
   "shardId": "14",
   "images": [
     {
+      "id": "1ec533b5",
+      "filename": "pixiv_146981666_p0.jpg",
+      "path": "uploads/2026/07/b6deef5a.jpg",
+      "size": 1201426,
+      "width": 618,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "730631ce9f1c924eed8f26fabc31d06af53defeb319be2a22d5139a56c68b995",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T17:32:55.665Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "真紅",
+      "tags": [
+        "真紅",
+        "NTE",
+        "NTEネバエバ",
+        "pixivGlowEffect",
+        "真紅(NTE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146981666_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146981666",
+      "sourceCreatedAt": "2026-07-08T15:45:44.000Z"
+    },
+    {
       "id": "eadc8e7a",
       "filename": "pixiv_147185234_p0.jpg",
       "path": "uploads/2026/07/c5061599.jpg",
