@@ -3,6 +3,35 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "4da3c1b1",
+      "filename": "pixiv_146132220_p0.jpg",
+      "path": "uploads/2026/07/a3900c7f.jpg",
+      "size": 562588,
+      "width": 784,
+      "height": 980,
+      "mimeType": "image/jpeg",
+      "hash": "25306afdc6cfb611ce5eef647f3407456ef947784409d12c5e8b6fe4f02aaaf8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T17:33:18.746Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "「飯を食え。銀狼",
+      "tags": [
+        "銀狼(スターレイル)",
+        "崩壊スターレイル",
+        "刃",
+        "刃(スターレイル)",
+        "崩壊:スターレイル5000users入り",
+        "「ぷー」とふくらんで",
+        "ふくれっ面",
+        "オープンフィンガーグローブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146132220_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146132220",
+      "sourceCreatedAt": "2026-06-17T15:00:09.000Z"
+    },
+    {
       "id": "cec4b1bd",
       "filename": "pixiv_147161768_p0.jpg",
       "path": "uploads/2026/07/9b58a578.jpg",
