@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "e27f143c",
+      "filename": "pixiv_147172706_p0.jpg",
+      "path": "uploads/2026/07/4dd8239a.jpg",
+      "size": 1166358,
+      "width": 796,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "86fd132b1a0084b38a4f4d3e210845c7778470c1e379e586963515b6fbbe6adf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T17:29:13.799Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "メイド胡桃",
+      "tags": [
+        "原神",
+        "胡桃(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147172706_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147172706",
+      "sourceCreatedAt": "2026-07-13T15:00:10.000Z"
+    },
+    {
       "id": "a5b7611a",
       "filename": "pixiv_147185342_p0.jpg",
       "path": "uploads/2026/07/ddce2c23.jpg",
