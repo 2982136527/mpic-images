@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "c9417597",
+      "filename": "pixiv_147153744_p0.jpg",
+      "path": "uploads/2026/07/36745bcb.jpg",
+      "size": 1101644,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "04630c873db565a89886f04bf2ae6cb0245f6d4b2859fb35f1eaab5e680b9407",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T03:16:04.720Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "双葉",
+      "tags": [
+        "ペルソナ5",
+        "洗濯機",
+        "佐倉双葉",
+        "ペルソナ500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147153744_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147153744",
+      "sourceCreatedAt": "2026-07-13T05:57:26.000Z"
+    },
+    {
       "id": "1cdbf89f",
       "filename": "pixiv_146063320_p0.jpg",
       "path": "uploads/2026/07/d2313f1d.jpg",
