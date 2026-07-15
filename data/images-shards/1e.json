@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "d52b342d",
+      "filename": "pixiv_147136450_p0.jpg",
+      "path": "uploads/2026/07/21c29b24.jpg",
+      "size": 908042,
+      "width": 1165,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8beb97550e1547d60cc560e2c8f8dc1f0f0b8af5f19dedfc8265ecef3e220642",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T03:22:46.853Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "青",
+      "tags": [
+        "女の子",
+        "ぱんつ",
+        "長手袋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147136450_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147136450",
+      "sourceCreatedAt": "2026-07-12T15:02:31.000Z"
+    },
+    {
       "id": "f4d13c21",
       "filename": "pixiv_147092233_p0.jpg",
       "path": "uploads/2026/07/4b6402b7.jpg",
