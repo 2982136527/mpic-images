@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "f46287ee",
+      "filename": "pixiv_147192525_p0.jpg",
+      "path": "uploads/2026/07/07125e30.jpg",
+      "size": 855791,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d0237df4bee246a18954372151775f915f0ab2bf289f2282c6a5e78821c859b4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:10:23.992Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "落ちてる",
+      "tags": [
+        "背景",
+        "女の子",
+        "風景",
+        "海"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147192525_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147192525",
+      "sourceCreatedAt": "2026-07-14T08:15:16.000Z"
+    },
+    {
       "id": "288f57bf",
       "filename": "pixiv_147152467_p0.jpg",
       "path": "uploads/2026/07/de72fa03.jpg",
