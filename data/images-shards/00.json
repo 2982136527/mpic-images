@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "630c4d96",
+      "filename": "pixiv_147176644_p0.jpg",
+      "path": "uploads/2026/07/7a4dc6e0.jpg",
+      "size": 954261,
+      "width": 1200,
+      "height": 966,
+      "mimeType": "image/jpeg",
+      "hash": "d2ae152c838182dbea92a5207e178224eab769cde46ec4d2c8839b90ee7c51e7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:15:37.492Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "フランちゃんとこいしちゃん",
+      "tags": [
+        "フランドール・スカーレット",
+        "古明地こいし",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147176644_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147176644",
+      "sourceCreatedAt": "2026-07-13T16:47:03.000Z"
+    },
+    {
       "id": "d149c8ee",
       "filename": "pixiv_147205158_p0.jpg",
       "path": "uploads/2026/07/3b84a1a3.jpg",
