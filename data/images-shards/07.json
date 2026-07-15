@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "40d00edd",
+      "filename": "pixiv_147174613_p0.jpg",
+      "path": "uploads/2026/07/0baaa733.jpg",
+      "size": 1371037,
+      "width": 1144,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "73631c60f618087c55b0e97a11c37da5dca2352021564c1e1d31d1b8d33eab2b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:14:04.687Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ウマ娘まとめ2024",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "01世代(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147174613_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147174613",
+      "sourceCreatedAt": "2026-07-13T15:36:06.000Z"
+    },
+    {
       "id": "d49d0f81",
       "filename": "pixiv_147160110_p0.jpg",
       "path": "uploads/2026/07/42bf0f01.jpg",
