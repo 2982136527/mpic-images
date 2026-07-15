@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "50e3991a",
+      "filename": "pixiv_147172781_p0.jpg",
+      "path": "uploads/2026/07/9dd59125.jpg",
+      "size": 1180354,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "6bfcee412506ce603fb15cbfc8d13c975f91b9e7441243831c5ed7321e6cc292",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:09:32.901Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【裏干支】",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147172781_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147172781",
+      "sourceCreatedAt": "2026-07-13T15:00:23.000Z"
+    },
+    {
       "id": "df1702b7",
       "filename": "pixiv_147136492_p0.jpg",
       "path": "uploads/2026/07/f0cc1ef3.jpg",
