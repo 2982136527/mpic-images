@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "d622d810",
+      "filename": "pixiv_147137339_p0.jpg",
+      "path": "uploads/2026/07/22d39bf8.jpg",
+      "size": 466788,
+      "width": 828,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0018ea2bd1613bef262c3ac37a7a3072a0deee3f7a41e1178aa46939a89df6cf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T17:24:49.483Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "白夜",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "サンドローネ(原神)",
+        "sandrone",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147137339_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147137339",
+      "sourceCreatedAt": "2026-07-12T15:20:01.000Z"
+    },
+    {
       "id": "825c2608",
       "filename": "pixiv_146031498_p0.jpg",
       "path": "uploads/2026/07/f5b659c5.jpg",
