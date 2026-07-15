@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "da0ea05b",
+      "filename": "pixiv_147179966_p0.jpg",
+      "path": "uploads/2026/07/624bb51d.jpg",
+      "size": 1021830,
+      "width": 1179,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3c6e5176e3b4020db11f0a6fb4a8b2a28e5511b226cfe96d069f2cf07b575b58",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T17:31:03.192Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Columbina",
+      "tags": [
+        "原神",
+        "コロンビーナ(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147179966_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147179966",
+      "sourceCreatedAt": "2026-07-13T20:20:24.000Z"
+    },
+    {
       "id": "a1587bc1",
       "filename": "pixiv_147171989_p0.jpg",
       "path": "uploads/2026/07/6cf885dc.jpg",
