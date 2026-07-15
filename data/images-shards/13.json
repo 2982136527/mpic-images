@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "e889d994",
+      "filename": "pixiv_147173654_p0.jpg",
+      "path": "uploads/2026/07/06450369.jpg",
+      "size": 300017,
+      "width": 900,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "e55ede461cad9c76365780d8a28ad317abcac546c4928f44609419c340944675",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:10:50.430Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【予告】繋[イト]",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147173654_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147173654",
+      "sourceCreatedAt": "2026-07-13T15:12:23.000Z"
+    },
+    {
       "id": "d32b0068",
       "filename": "pixiv_147127905_p0.jpg",
       "path": "uploads/2026/07/293b5305.jpg",
