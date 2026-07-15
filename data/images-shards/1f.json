@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "97ab44d6",
+      "filename": "pixiv_147178036_p0.jpg",
+      "path": "uploads/2026/07/e2811fc6.jpg",
+      "size": 677057,
+      "width": 1200,
+      "height": 892,
+      "mimeType": "image/jpeg",
+      "hash": "e01de0cbcd7bb291182dc1897d15f6cad7b8cc65f4d2109571ebba8cc3f81a5b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:14:15.431Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "アイシャ",
+      "tags": [
+        "無職転生",
+        "アイシャ・グレイラット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147178036_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147178036",
+      "sourceCreatedAt": "2026-07-13T17:58:37.000Z"
+    },
+    {
       "id": "caa775a5",
       "filename": "pixiv_147143908_p0.jpg",
       "path": "uploads/2026/07/15049ead.jpg",
