@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "fe855e08",
+      "filename": "pixiv_147167329_p0.jpg",
+      "path": "uploads/2026/07/b751e4e2.jpg",
+      "size": 838015,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "49921b2ace028e8add6f674190f29ce0266de0fdcc8c39b277414b8a4730b817",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:11:56.621Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "hers.",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147167329_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147167329",
+      "sourceCreatedAt": "2026-07-13T13:00:03.000Z"
+    },
+    {
       "id": "21b8a3ef",
       "filename": "pixiv_147130915_p0.jpg",
       "path": "uploads/2026/07/7f652890.jpg",
