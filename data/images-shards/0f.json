@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "26a21e16",
+      "filename": "pixiv_147139365_p0.jpg",
+      "path": "uploads/2026/07/6d05857d.jpg",
+      "size": 1189910,
+      "width": 1200,
+      "height": 886,
+      "mimeType": "image/jpeg",
+      "hash": "59de09bd2bd13e0ed73e47bf01940b968ac2d91d1d5f90782fb95e19e29d4038",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T03:19:12.075Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Honglu and Ishmael",
+      "tags": [
+        "Limbus_Company",
+        "LimbusCompany"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147139365_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147139365",
+      "sourceCreatedAt": "2026-07-12T16:12:47.000Z"
+    },
+    {
       "id": "229bf6c6",
       "filename": "pixiv_147159238_p0.jpg",
       "path": "uploads/2026/07/8e8e0c84.jpg",
