@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "3292eabb",
+      "filename": "pixiv_146060034_p0.jpg",
+      "path": "uploads/2026/07/631d94a0.jpg",
+      "size": 766202,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2240cdb6cf3d2972822a31d53c138ca3d7873600a9bc8d215d70efab162f34c9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T17:33:36.826Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Evie",
+      "tags": [
+        "evie",
+        "Stellar_Blade",
+        "ステラーブレイド",
+        "tomboy",
+        "ボーイッシュ",
+        "Twitter"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146060034_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146060034",
+      "sourceCreatedAt": "2026-06-15T16:05:58.000Z"
+    },
+    {
       "id": "4da3c1b1",
       "filename": "pixiv_146132220_p0.jpg",
       "path": "uploads/2026/07/a3900c7f.jpg",
