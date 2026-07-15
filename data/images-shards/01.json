@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "8257ee27",
+      "filename": "pixiv_147197671_p0.jpg",
+      "path": "uploads/2026/07/fc73b920.jpg",
+      "size": 1075347,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c097da5748e9b7a1b1f12190726a691574fe873b1a4079962515205c96c4179c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:13:53.602Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "帰宅すると10%くらいの確率で寝室に出現する妖怪",
+      "tags": [
+        "ウマ娘",
+        "ヴィブロス(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147197671_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147197671",
+      "sourceCreatedAt": "2026-07-14T11:00:14.000Z"
+    },
+    {
       "id": "5efd9edc",
       "filename": "pixiv_147151264_p0.jpg",
       "path": "uploads/2026/07/2e62cdfe.jpg",
