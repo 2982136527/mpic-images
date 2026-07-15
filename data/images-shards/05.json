@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "3ceeb6cc",
+      "filename": "pixiv_147162924_p0.jpg",
+      "path": "uploads/2026/07/e1248d5f.jpg",
+      "size": 1205936,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1c96a27f54bd6aaf85c94aefebda7ed12397540b0b2f4cd62cc2008726f7e867",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:15:22.003Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "シェリハン",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "橘シェリー",
+        "遠野ハンナ",
+        "シェリハン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147162924_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147162924",
+      "sourceCreatedAt": "2026-07-13T11:19:06.000Z"
+    },
+    {
       "id": "85862edf",
       "filename": "pixiv_147173423_p0.jpg",
       "path": "uploads/2026/07/8095deb8.jpg",
