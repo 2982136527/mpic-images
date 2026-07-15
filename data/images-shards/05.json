@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "85862edf",
+      "filename": "pixiv_147173423_p0.jpg",
+      "path": "uploads/2026/07/8095deb8.jpg",
+      "size": 808150,
+      "width": 863,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8174f99f1717857cdb51e36206ab8fe74282e3aac41278434265424a052d3cf0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:14:21.176Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": ":D :O",
+      "tags": [
+        "ブルーアーカイブ",
+        "橘ヒカリ",
+        "橘ノゾミ",
+        "ブルアカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147173423_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147173423",
+      "sourceCreatedAt": "2026-07-13T15:07:27.000Z"
+    },
+    {
       "id": "76c79412",
       "filename": "pixiv_147174471_p0.jpg",
       "path": "uploads/2026/07/6027b3d4.jpg",
