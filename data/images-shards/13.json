@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "3fca27ed",
+      "filename": "pixiv_147170348_p0.jpg",
+      "path": "uploads/2026/07/c654452f.jpg",
+      "size": 445811,
+      "width": 763,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f296c3bedb6cbb00cde1ccd1d5eb4aebf73c28ef35ce42b37dbb3e36bd6c7049",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:12:40.978Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "猫咪",
+      "tags": [
+        "火焔猫燐",
+        "東方Project",
+        "東方",
+        "霊烏路空"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147170348_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147170348",
+      "sourceCreatedAt": "2026-07-13T14:06:30.000Z"
+    },
+    {
       "id": "e889d994",
       "filename": "pixiv_147173654_p0.jpg",
       "path": "uploads/2026/07/06450369.jpg",
