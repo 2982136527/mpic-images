@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "5e8f3bcd",
+      "filename": "pixiv_147153512_p0.jpg",
+      "path": "uploads/2026/07/b93f296e.jpg",
+      "size": 914275,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2fe33fd54e1bf63ef221c57c624c4e1732f7f09cda6f86f7104628815d0490ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:11:32.736Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Day86 Веточки",
+      "tags": [
+        "100日チャレンジ",
+        "アークナイツ",
+        "明日方舟",
+        "Arknights",
+        "ヴェトチキ(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147153512_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147153512",
+      "sourceCreatedAt": "2026-07-13T05:45:18.000Z"
+    },
+    {
       "id": "0cba82d2",
       "filename": "pixiv_147136871_p0.jpg",
       "path": "uploads/2026/07/7a53ddd9.jpg",
