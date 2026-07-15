@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "27d8ac30",
+      "filename": "pixiv_147187820_p0.jpg",
+      "path": "uploads/2026/07/252003f3.jpg",
+      "size": 946676,
+      "width": 1200,
+      "height": 1130,
+      "mimeType": "image/jpeg",
+      "hash": "68be37e397d8a2b625bc4c632fa37cfc12cf8aed820cf1c96d83aa88e437889d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:11:26.957Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "イヤイヤ期（8000歳）",
+      "tags": [
+        "超かぐや姫!",
+        "かぐや(超かぐや姫!)",
+        "月見ヤチヨ",
+        "ヤチかぐ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147187820_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147187820",
+      "sourceCreatedAt": "2026-07-14T04:10:17.000Z"
+    },
+    {
       "id": "15177522",
       "filename": "pixiv_147120633_p0.jpg",
       "path": "uploads/2026/07/f3813633.jpg",
