@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "c7928e34",
+      "filename": "pixiv_147161165_p0.jpg",
+      "path": "uploads/2026/07/e0c15283.jpg",
+      "size": 1486135,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df9c840b1b7777f087f036bac9e1616d6e6fc270665fd9586368658e1d5264e8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:18:10.859Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "20",
+      "tags": [
+        "本田菊",
+        "ヘタリア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147161165_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147161165",
+      "sourceCreatedAt": "2026-07-13T10:36:29.000Z"
+    },
+    {
       "id": "4c8f1819",
       "filename": "pixiv_146094954_p0.jpg",
       "path": "uploads/2026/07/6aa1d7e4.jpg",
