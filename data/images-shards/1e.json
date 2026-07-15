@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "efd5227a",
+      "filename": "pixiv_147138167_p0.jpg",
+      "path": "uploads/2026/07/1db2df7b.jpg",
+      "size": 803429,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "533e5ca3150934889e9eb9ff2b9b9ad8b343b31f163ea9ed45e0e50dd807f62a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:10:57.600Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夏開き",
+      "tags": [
+        "ブルーアーカイブ",
+        "女の子",
+        "小鳥遊ホシノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147138167_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147138167",
+      "sourceCreatedAt": "2026-07-12T15:38:23.000Z"
+    },
+    {
       "id": "d52b342d",
       "filename": "pixiv_147136450_p0.jpg",
       "path": "uploads/2026/07/21c29b24.jpg",
