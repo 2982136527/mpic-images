@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "fa574ef4",
+      "filename": "pixiv_147175731_p0.jpg",
+      "path": "uploads/2026/07/1bcddfea.jpg",
+      "size": 996696,
+      "width": 1200,
+      "height": 971,
+      "mimeType": "image/jpeg",
+      "hash": "3f4c30663f6dc0cd4e4ca2b0824b2b0583c7e8b4c56d4166fe2424178f7b813e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T17:28:18.820Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "낙서함",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "リズム天国"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147175731_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147175731",
+      "sourceCreatedAt": "2026-07-14T00:04:45.000Z"
+    },
+    {
       "id": "2180b91a",
       "filename": "pixiv_147154179_p0.jpg",
       "path": "uploads/2026/07/10e99274.jpg",
