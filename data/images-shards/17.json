@@ -3,6 +3,33 @@
   "shardId": "17",
   "images": [
     {
+      "id": "dc43d640",
+      "filename": "pixiv_147169425_p0.jpg",
+      "path": "uploads/2026/07/6638bc61.jpg",
+      "size": 1134135,
+      "width": 924,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a51cfa2bc4c6a52172912db0d99813e74058102acc76bc7f8099e9bb0ad5102d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:15:09.048Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "幽冥组",
+      "tags": [
+        "東方",
+        "東方Project",
+        "眼镜",
+        "魂魄妖夢",
+        "西行寺幽々子",
+        "東方妖々夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147169425_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147169425",
+      "sourceCreatedAt": "2026-07-13T13:46:08.000Z"
+    },
+    {
       "id": "ba32d61c",
       "filename": "pixiv_147194252_p0.jpg",
       "path": "uploads/2026/07/8d9d4587.jpg",
