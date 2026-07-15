@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "5a76e3ab",
+      "filename": "pixiv_147137444_p0.jpg",
+      "path": "uploads/2026/07/45d7beca.jpg",
+      "size": 449582,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4900c6d3d15c143ccb8f4e7afa94941ee3282e00bad104869d83020c8172b134",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T03:22:04.663Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "水着鹿島",
+      "tags": [
+        "鹿島",
+        "艦これ",
+        "鹿島(艦隊これくしょん)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147137444_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147137444",
+      "sourceCreatedAt": "2026-07-12T15:22:19.000Z"
+    },
+    {
       "id": "4667fddd",
       "filename": "pixiv_147136117_p0.jpg",
       "path": "uploads/2026/07/0d220de4.jpg",
