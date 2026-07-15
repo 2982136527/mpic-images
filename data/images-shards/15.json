@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "a755b764",
+      "filename": "pixiv_147159607_p0.jpg",
+      "path": "uploads/2026/07/864db3a7.jpg",
+      "size": 1645550,
+      "width": 1007,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b5b415ea6ac32306187df9d9bcee7678094751870a2cc86dbdb4bdc33bba2a6c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T03:16:15.599Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Lunae",
+      "tags": [
+        "崩壊スターレイル",
+        "饮月",
+        "丹恒",
+        "HonkaiStarRail"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147159607_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147159607",
+      "sourceCreatedAt": "2026-07-13T09:52:04.000Z"
+    },
+    {
       "id": "91a96913",
       "filename": "pixiv_147148924_p0.jpg",
       "path": "uploads/2026/07/6a77969d.jpg",
