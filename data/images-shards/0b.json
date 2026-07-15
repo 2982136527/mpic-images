@@ -3,6 +3,35 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "13cd8ac2",
+      "filename": "pixiv_147127664_p0.jpg",
+      "path": "uploads/2026/07/9bc48413.jpg",
+      "size": 732336,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a50b080e1710d0552e8f4463121408d752ce7b5f956a5c10fa0229948418228c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T03:15:45.644Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ウマ落書きまとめ25",
+      "tags": [
+        "擬獣化",
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "落書き",
+        "ジェンティルドンナ(ウマ娘)",
+        "アーモンドアイ(ウマ娘)",
+        "おフス",
+        "フォーエバーヤング(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147127664_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147127664",
+      "sourceCreatedAt": "2026-07-12T12:17:06.000Z"
+    },
+    {
       "id": "8e5ad40b",
       "filename": "pixiv_146088918_p0.jpg",
       "path": "uploads/2026/07/0eebb436.jpg",
