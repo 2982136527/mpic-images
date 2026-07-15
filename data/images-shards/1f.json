@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "ffce8e82",
+      "filename": "pixiv_147162559_p0.jpg",
+      "path": "uploads/2026/07/291c6507.jpg",
+      "size": 659979,
+      "width": 855,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ac06a7fe3a2b7bdd2527b69b0e144df6bf9583347e8766d9daa4c4412da37a3e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:14:36.535Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "commission",
+      "tags": [
+        "ケモノ",
+        "メスケモ",
+        "furry",
+        "獣人",
+        "commission"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147162559_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147162559",
+      "sourceCreatedAt": "2026-07-13T11:10:32.000Z"
+    },
+    {
       "id": "97ab44d6",
       "filename": "pixiv_147178036_p0.jpg",
       "path": "uploads/2026/07/e2811fc6.jpg",
