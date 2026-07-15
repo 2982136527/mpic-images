@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "79d44ad4",
+      "filename": "pixiv_147187681_p0.jpg",
+      "path": "uploads/2026/07/0e183402.jpg",
+      "size": 1033548,
+      "width": 970,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "13c0951c7ed644bdf0336e88d465856c34e3870ec7ddd07c5c3b87b4725127d9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T17:30:09.016Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "brazilian miku",
+      "tags": [
+        "HatsuneMiku",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147187681_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147187681",
+      "sourceCreatedAt": "2026-07-14T04:03:18.000Z"
+    },
+    {
       "id": "c2615e99",
       "filename": "pixiv_147172179_p0.jpg",
       "path": "uploads/2026/07/be7e30d2.jpg",
