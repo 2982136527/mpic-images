@@ -3,6 +3,36 @@
   "shardId": "16",
   "images": [
     {
+      "id": "f91d9ac2",
+      "filename": "pixiv_147117080_p0.jpg",
+      "path": "uploads/2026/07/4eaef667.jpg",
+      "size": 1094638,
+      "width": 1200,
+      "height": 913,
+      "mimeType": "image/jpeg",
+      "hash": "c90b0d307ec1f1c407cb71446cdfaaf5e75543f5f42cc229b88a06bad52d54c2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T03:19:23.079Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "HappyBirthday!",
+      "tags": [
+        "超かぐや姫!",
+        "かぐや",
+        "月見ヤチヨ",
+        "酒寄彩葉",
+        "帝アキラ",
+        "駒沢雷",
+        "駒沢乃依",
+        "綾紬芦花",
+        "諌山真実"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147117080_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147117080",
+      "sourceCreatedAt": "2026-07-12T08:10:57.000Z"
+    },
+    {
       "id": "542e10a1",
       "filename": "pixiv_147154831_p0.jpg",
       "path": "uploads/2026/07/72bdac99.jpg",
