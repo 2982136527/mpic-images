@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "7a177f6d",
+      "filename": "pixiv_147181861_p0.jpg",
+      "path": "uploads/2026/07/9685193c.jpg",
+      "size": 776151,
+      "width": 691,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "054bba1cf8688712fe270be3f516fb5fc3f9b341d725bef5624b7664c85cd774",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-15T10:19:14.539Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Chisa",
+      "tags": [
+        "鳴潮",
+        "千咲(鳴潮)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147181861_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147181861",
+      "sourceCreatedAt": "2026-07-13T22:23:01.000Z"
+    },
+    {
       "id": "205d0b17",
       "filename": "pixiv_147043650_p0.jpg",
       "path": "uploads/2026/07/e82b0ec6.jpg",
