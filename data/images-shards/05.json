@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "3aad8888",
+      "filename": "pixiv_147225553_p0.jpg",
+      "path": "uploads/2026/07/6c13c41e.jpg",
+      "size": 1431601,
+      "width": 669,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9799616a006c76fd2aa39f8c2a98f4e72ac14891b9087dad7de8aca573c848cb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:22:46.131Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "爱芮",
+      "tags": [
+        "绝区零",
+        "ZenlessZoneZero",
+        "爱芮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147225553_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147225553",
+      "sourceCreatedAt": "2026-07-15T05:57:08.000Z"
+    },
+    {
       "id": "16f627ab",
       "filename": "pixiv_147198069_p0.jpg",
       "path": "uploads/2026/07/f04e2130.jpg",
