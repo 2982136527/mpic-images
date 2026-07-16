@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "6ed893e3",
+      "filename": "pixiv_147172817_p0.jpg",
+      "path": "uploads/2026/07/6aa37900.jpg",
+      "size": 779482,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d90d9f4b765076d81376cfe30101935e26bd46750f5d52a74ee71dcdc32aeb79",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T03:23:01.072Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "コロサン",
+      "tags": [
+        "コロサン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147172817_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147172817",
+      "sourceCreatedAt": "2026-07-13T15:00:29.000Z"
+    },
+    {
       "id": "79d44ad4",
       "filename": "pixiv_147187681_p0.jpg",
       "path": "uploads/2026/07/0e183402.jpg",
