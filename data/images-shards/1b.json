@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "56aa0b40",
+      "filename": "pixiv_147218240_p0.jpg",
+      "path": "uploads/2026/07/e726b3c5.jpg",
+      "size": 1313723,
+      "width": 553,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "58501e080f9d095faf3f6ea282dc36d10145a4a1b2d803c378aeca037ca78618",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T17:26:33.690Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "⭐",
+      "tags": [
+        "スターレイル",
+        "姫子・旅立ち",
+        "HonkaiStarRai",
+        "HonkaiStarRail"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147218240_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147218240",
+      "sourceCreatedAt": "2026-07-14T23:00:05.000Z"
+    },
+    {
       "id": "4075fb42",
       "filename": "pixiv_147180514_p0.jpg",
       "path": "uploads/2026/07/0ed98041.jpg",
