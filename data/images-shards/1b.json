@@ -3,6 +3,34 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "4075fb42",
+      "filename": "pixiv_147180514_p0.jpg",
+      "path": "uploads/2026/07/0ed98041.jpg",
+      "size": 698961,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c2961148238cd3e821317498722e018687bdc28ee8f9dbb3f0e6a7281e036423",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T03:22:02.885Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "個人メモ：半袖を描くポイント",
+      "tags": [
+        "漫画素材工房",
+        "描き方",
+        "人体",
+        "人物",
+        "服",
+        "服のシワ",
+        "Tシャツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147180514_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147180514",
+      "sourceCreatedAt": "2026-07-13T21:00:10.000Z"
+    },
+    {
       "id": "3292eabb",
       "filename": "pixiv_146060034_p0.jpg",
       "path": "uploads/2026/07/631d94a0.jpg",
