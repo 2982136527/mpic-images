@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "5b3ad54e",
+      "filename": "pixiv_147193151_p0.jpg",
+      "path": "uploads/2026/07/5a00cedb.jpg",
+      "size": 1059261,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "794a254eee7f4cf990c9a3fa6a78b7801d6a8eb91f52bc6241f8d0c817510417",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T17:31:08.706Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Cantarella",
+      "tags": [
+        "WutheringWaves",
+        "Cantarella"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147193151_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147193151",
+      "sourceCreatedAt": "2026-07-14T08:43:08.000Z"
+    },
+    {
       "id": "b25323e4",
       "filename": "pixiv_147201656_p0.jpg",
       "path": "uploads/2026/07/d76daab4.jpg",
