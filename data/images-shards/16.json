@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "83ea4a7f",
+      "filename": "pixiv_147176579_p0.jpg",
+      "path": "uploads/2026/07/653ad96e.jpg",
+      "size": 856647,
+      "width": 722,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cbf2cd784a854e92a6aabbbb26cc6bc43f5a5eb2091cef751fc400c6236a74ed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:26:43.061Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "4th of July Rogue",
+      "tags": [
+        "rogue",
+        "MarvelRivals",
+        "Marvel"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147176579_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147176579",
+      "sourceCreatedAt": "2026-07-13T16:44:13.000Z"
+    },
+    {
       "id": "b0ebdc76",
       "filename": "pixiv_147222943_p0.jpg",
       "path": "uploads/2026/07/ad9d05b8.jpg",
