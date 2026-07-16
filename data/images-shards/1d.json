@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "b553039b",
+      "filename": "pixiv_147220086_p0.jpg",
+      "path": "uploads/2026/07/b1945489.jpg",
+      "size": 640809,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dbbc1751de147cd535778fc26c0b093309c0240b3fa2a80f3a64609fc9b049db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T17:33:41.538Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Summer",
+      "tags": [
+        "ポケモン人間絵",
+        "オカルトマニア",
+        "オカマニちゃんの日常"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147220086_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147220086",
+      "sourceCreatedAt": "2026-07-15T01:00:04.000Z"
+    },
+    {
       "id": "4793d110",
       "filename": "pixiv_146219276_p0.jpg",
       "path": "uploads/2026/07/fa22f0ee.jpg",
