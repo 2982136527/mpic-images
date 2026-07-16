@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "482eba69",
+      "filename": "pixiv_147210499_p0.jpg",
+      "path": "uploads/2026/07/d59c568d.jpg",
+      "size": 1501232,
+      "width": 718,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "108e67c58f8939f0bd774093d5912aa67eaf9b9f94a1b5e855644490a3842065",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:21:08.885Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🎂",
+      "tags": [
+        "原神",
+        "胡桃",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147210499_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147210499",
+      "sourceCreatedAt": "2026-07-14T15:49:05.000Z"
+    },
+    {
       "id": "3a2ae4bd",
       "filename": "pixiv_147189704_p0.jpg",
       "path": "uploads/2026/07/e6c6d1b6.jpg",
