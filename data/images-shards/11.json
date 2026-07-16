@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "1eeea7ad",
+      "filename": "pixiv_147199836_p0.jpg",
+      "path": "uploads/2026/07/7ea95752.jpg",
+      "size": 769535,
+      "width": 650,
+      "height": 919,
+      "mimeType": "image/jpeg",
+      "hash": "89fdf3dd5d7e08036799d4df754dd607de5f647df930aa77f554a7fdae1bc394",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T03:22:33.433Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "秘密のペンギン古書堂",
+      "tags": [
+        "オリジナル",
+        "本",
+        "ペンギン",
+        "植物",
+        "小説",
+        "観葉植物"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147199836_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147199836",
+      "sourceCreatedAt": "2026-07-14T11:52:25.000Z"
+    },
+    {
       "id": "0393552d",
       "filename": "pixiv_147165597_p0.jpg",
       "path": "uploads/2026/07/577410d9.jpg",
