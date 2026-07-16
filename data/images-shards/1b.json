@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "177cfe4c",
+      "filename": "pixiv_147174887_p0.jpg",
+      "path": "uploads/2026/07/1f3e3023.jpg",
+      "size": 955876,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "79a351a20db27b4a6d4e95cdd18a6218db1a3da3aa493ecb7fdfcf0dcf2a3f78",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T17:27:01.720Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "practice",
+      "tags": [
+        "背景",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147174887_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147174887",
+      "sourceCreatedAt": "2026-07-13T15:43:47.000Z"
+    },
+    {
       "id": "56aa0b40",
       "filename": "pixiv_147218240_p0.jpg",
       "path": "uploads/2026/07/e726b3c5.jpg",
