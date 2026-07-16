@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "b35ce60b",
+      "filename": "pixiv_146156414_p0.jpg",
+      "path": "uploads/2026/07/4ecb03ab.jpg",
+      "size": 2590505,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "06deb812aa7abacc40c576e6e3db92cbfbbebb12a301f0716997fc64c4899814",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:25:41.329Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "新約エクシア",
+      "tags": [
+        "明日方舟",
+        "アークナイツ",
+        "新約エクシア",
+        "アークナイツ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146156414_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146156414",
+      "sourceCreatedAt": "2026-06-18T10:04:49.000Z"
+    },
+    {
       "id": "3695bb09",
       "filename": "pixiv_147232470_p0.jpg",
       "path": "uploads/2026/07/8193c2e9.jpg",
