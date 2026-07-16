@@ -3,6 +3,32 @@
   "shardId": "07",
   "images": [
     {
+      "id": "5cf85851",
+      "filename": "pixiv_147159842_p0.jpg",
+      "path": "uploads/2026/07/34fd0831.jpg",
+      "size": 856913,
+      "width": 1200,
+      "height": 469,
+      "mimeType": "image/jpeg",
+      "hash": "d87f2e048f1dd34f202e6080a3816bccc14c4f74a65d4dcd55ae60036fa37d8c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T03:23:56.941Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "착영휘도 산초",
+      "tags": [
+        "Limbus_Company",
+        "산초",
+        "돈키호테",
+        "ドンキホーテ(LCB)",
+        "sancho"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147159842_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147159842",
+      "sourceCreatedAt": "2026-07-13T10:00:04.000Z"
+    },
+    {
       "id": "d5941318",
       "filename": "pixiv_147190459_p0.jpg",
       "path": "uploads/2026/07/15635283.jpg",
