@@ -3,6 +3,37 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "c2c47c67",
+      "filename": "pixiv_147136554_p0.jpg",
+      "path": "uploads/2026/07/741f0058.jpg",
+      "size": 450033,
+      "width": 600,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "06bdcbdf79b70fd68af90a6d399c8572a648f122c8acc9e189b8a2362e14cb61",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T03:21:57.205Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ねっぷう",
+      "tags": [
+        "イラスト",
+        "ポケモン",
+        "カフェライチュウ",
+        "リザードン",
+        "作画解放",
+        "ライチュウも楽しそうですね",
+        "ドライヤー",
+        "なにこの仔たちかわいい",
+        "やはり偏るアンケート",
+        "ねっぷう"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147136554_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147136554",
+      "sourceCreatedAt": "2026-07-12T15:03:35.000Z"
+    },
+    {
       "id": "a5701d64",
       "filename": "pixiv_146106898_p0.jpg",
       "path": "uploads/2026/07/7ea200f3.jpg",
