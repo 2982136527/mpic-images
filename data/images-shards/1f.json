@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "e47229e3",
+      "filename": "pixiv_147205350_p0.jpg",
+      "path": "uploads/2026/07/39558f85.jpg",
+      "size": 736189,
+      "width": 948,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3063827f877de61b53016d5a7eec0330a0405f985ade3e935b4b0ccc9cabd3fd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T03:28:24.955Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ツインテシオン",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "ウインバリアシオン(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147205350_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147205350",
+      "sourceCreatedAt": "2026-07-14T13:58:02.000Z"
+    },
+    {
       "id": "01d21a23",
       "filename": "pixiv_147180975_p0.jpg",
       "path": "uploads/2026/07/484aee6a.jpg",
