@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "a58e1198",
+      "filename": "pixiv_147208327_p0.jpg",
+      "path": "uploads/2026/07/d035c271.jpg",
+      "size": 909805,
+      "width": 975,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "62cd9406756f163acb09adb968086c3cd7ce7bb0c2028413ed1917896ab492a5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:21:21.038Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🐱🌊",
+      "tags": [
+        "オリジナル",
+        "ケモミミ",
+        "水着",
+        "浮き輪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147208327_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147208327",
+      "sourceCreatedAt": "2026-07-14T15:00:25.000Z"
+    },
+    {
       "id": "1e429d02",
       "filename": "pixiv_147230808_p0.jpg",
       "path": "uploads/2026/07/12f6f037.jpg",
