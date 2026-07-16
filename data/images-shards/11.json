@@ -3,6 +3,37 @@
   "shardId": "11",
   "images": [
     {
+      "id": "2b25b9cd",
+      "filename": "pixiv_147208405_p0.jpg",
+      "path": "uploads/2026/07/dc7a70fb.jpg",
+      "size": 1291872,
+      "width": 821,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3c41e4d0db7a98645c600601aaaa50c30002125e6c5e87077ad9d887e3696111",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:26:49.230Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ウマ娘まとめ2",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ヴィブロス(ウマ娘)",
+        "ウマ娘",
+        "おへそ",
+        "ブルマ",
+        "水着ウマ娘",
+        "ヴィルシーナ(ウマ娘)",
+        "ファインモーション(ウマ娘)",
+        "ミホノブルボン(ウマ娘)",
+        "体育着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147208405_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147208405",
+      "sourceCreatedAt": "2026-07-14T15:00:44.000Z"
+    },
+    {
       "id": "45d47f59",
       "filename": "pixiv_147228831_p0.jpg",
       "path": "uploads/2026/07/b73a7b5f.jpg",
