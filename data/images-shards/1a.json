@@ -3,6 +3,36 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "d593f5a8",
+      "filename": "pixiv_147208328_p0.jpg",
+      "path": "uploads/2026/07/68544fef.jpg",
+      "size": 826804,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "2a75ab41e9983c3f7fbfbc9140a64160a1ca5a68ef01c67eeb3a1541ca3b7d55",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:20:32.559Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "星蛍",
+      "tags": [
+        "pixivGlowEffect",
+        "オリジナル",
+        "風景",
+        "幻想",
+        "女の子",
+        "星空",
+        "天の川",
+        "蛍",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147208328_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147208328",
+      "sourceCreatedAt": "2026-07-14T15:00:25.000Z"
+    },
+    {
       "id": "a1f0a5aa",
       "filename": "pixiv_146202800_p0.jpg",
       "path": "uploads/2026/07/3536dc84.jpg",
