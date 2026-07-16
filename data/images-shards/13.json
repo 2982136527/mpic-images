@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "3b1dc2e1",
+      "filename": "pixiv_147188409_p0.jpg",
+      "path": "uploads/2026/07/5b85924e.jpg",
+      "size": 891212,
+      "width": 1067,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "792fa896e34bd16c08e9527b7de2439ae187765178dbe54a744cb09019587bc7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:23:35.035Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "巫女さん！",
+      "tags": [
+        "ロリ",
+        "アルティナ・フィアラード",
+        "巫女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147188409_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147188409",
+      "sourceCreatedAt": "2026-07-14T04:42:01.000Z"
+    },
+    {
       "id": "c59cbb3d",
       "filename": "pixiv_147207655_p0.jpg",
       "path": "uploads/2026/07/f8e8888f.jpg",
