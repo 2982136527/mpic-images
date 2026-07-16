@@ -3,6 +3,28 @@
   "shardId": "01",
   "images": [
     {
+      "id": "85fd1807",
+      "filename": "pixiv_146154259_p0.jpg",
+      "path": "uploads/2026/07/30326ea7.jpg",
+      "size": 1383394,
+      "width": 1200,
+      "height": 852,
+      "mimeType": "image/jpeg",
+      "hash": "d7adf3f69d0121f2e553e0e6ed8513382c4352b17a04a0f24cd5239304ec253f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:26:09.658Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ボカコレ2026夏",
+      "tags": [
+        "ボカコレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146154259_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146154259",
+      "sourceCreatedAt": "2026-06-18T09:02:04.000Z"
+    },
+    {
       "id": "17cef3cd",
       "filename": "pixiv_147234482_p0.jpg",
       "path": "uploads/2026/07/802b8129.jpg",
