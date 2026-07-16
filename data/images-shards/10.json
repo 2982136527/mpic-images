@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "48f46969",
+      "filename": "pixiv_147243199_p0.jpg",
+      "path": "uploads/2026/07/3524842c.jpg",
+      "size": 1789609,
+      "width": 1128,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9f8bfa5502b47e4b775f86b9a634f77ba9f53e9460b4c602a1f8267f65bd3446",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:23:06.739Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "イリヤスフィール・フォン・アインツベルン",
+        "イリヤスフィール(プリズマ☆イリヤ)",
+        "プリズマ☆イリヤ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147243199_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147243199",
+      "sourceCreatedAt": "2026-07-15T14:33:34.000Z"
+    },
+    {
       "id": "f01dfb75",
       "filename": "pixiv_147221504_p0.jpg",
       "path": "uploads/2026/07/56b4933a.jpg",
