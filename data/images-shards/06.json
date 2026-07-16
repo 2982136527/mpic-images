@@ -3,6 +3,35 @@
   "shardId": "06",
   "images": [
     {
+      "id": "53a8bde9",
+      "filename": "pixiv_147196207_p0.jpg",
+      "path": "uploads/2026/07/6180b329.jpg",
+      "size": 1249263,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "41625f03d3e249a55e67f9b521e9ce77a529c3d7902dbb1a3598ecd86663d580",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T17:26:50.625Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "终末地半周年快乐！",
+      "tags": [
+        "明日方舟终末地",
+        "终末地",
+        "莱万汀",
+        "Laevatain",
+        "ArknightsEndfield",
+        "アークナイツエンドフィールド",
+        "アークナイツ:エンドフィールド",
+        "レーヴァテイン(エンドフィールド)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147196207_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147196207",
+      "sourceCreatedAt": "2026-07-14T10:19:06.000Z"
+    },
+    {
       "id": "22accdef",
       "filename": "pixiv_147177453_p0.jpg",
       "path": "uploads/2026/07/dbf36003.jpg",
