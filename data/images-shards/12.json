@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "12e8156d",
+      "filename": "pixiv_147222390_p0.jpg",
+      "path": "uploads/2026/07/3ca18020.jpg",
+      "size": 843231,
+      "width": 726,
+      "height": 1077,
+      "mimeType": "image/jpeg",
+      "hash": "0a6f3c85a88f1975b4de0814e09535fe9af19b4b90e440560bec2d799eac4c6b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T17:27:21.818Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ダイヤの7",
+      "tags": [
+        "オリジナル",
+        "トランプ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147222390_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147222390",
+      "sourceCreatedAt": "2026-07-15T03:06:24.000Z"
+    },
+    {
       "id": "64d610ee",
       "filename": "pixiv_147213372_p0.jpg",
       "path": "uploads/2026/07/a7fca82b.jpg",
