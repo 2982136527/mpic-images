@@ -3,6 +3,37 @@
   "shardId": "03",
   "images": [
     {
+      "id": "62a44fa0",
+      "filename": "pixiv_147193987_p0.jpg",
+      "path": "uploads/2026/07/d24c7255.jpg",
+      "size": 574188,
+      "width": 911,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "33944b0246deaa523a666029445348c54f7261496652b466b1be5d8a1ecadc5c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:23:12.581Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "귀엽고 착한 악의 여간부들",
+      "tags": [
+        "블루아카이브",
+        "BlueArchive",
+        "ブルーアーカイブ",
+        "天童アリス",
+        "아리스",
+        "Aris",
+        "Key(ブルーアーカイブ)",
+        "ケイ",
+        "케이",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147193987_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147193987",
+      "sourceCreatedAt": "2026-07-14T09:07:37.000Z"
+    },
+    {
       "id": "482eba69",
       "filename": "pixiv_147210499_p0.jpg",
       "path": "uploads/2026/07/d59c568d.jpg",
