@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "40606c65",
+      "filename": "pixiv_147236354_p0.jpg",
+      "path": "uploads/2026/07/c0574efb.jpg",
+      "size": 753131,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9e5c7368f5d129960bd1fc2ee09c8eee65f7025d5075405ff0bd143f10eadd5f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T17:34:03.705Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "今日の当番はケイちゃんです",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "天童ケイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147236354_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147236354",
+      "sourceCreatedAt": "2026-07-15T12:00:02.000Z"
+    },
+    {
       "id": "9c28d70e",
       "filename": "pixiv_147233730_p0.jpg",
       "path": "uploads/2026/07/18fb4f2a.jpg",
