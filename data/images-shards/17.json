@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "b450c361",
+      "filename": "pixiv_147204473_p0.jpg",
+      "path": "uploads/2026/07/a311a6dc.jpg",
+      "size": 1795480,
+      "width": 1009,
+      "height": 1009,
+      "mimeType": "image/jpeg",
+      "hash": "b51ba77448968e74b73e0d0ace0c130102ded8d504e054a7c3745f2b970b1fbf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T17:30:42.429Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "찢상",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147204473_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147204473",
+      "sourceCreatedAt": "2026-07-14T13:34:01.000Z"
+    },
+    {
       "id": "42237507",
       "filename": "pixiv_147175823_p0.jpg",
       "path": "uploads/2026/07/1e252a66.jpg",
