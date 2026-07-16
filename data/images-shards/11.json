@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "d01ddce5",
+      "filename": "pixiv_147208265_p0.jpg",
+      "path": "uploads/2026/07/b208621a.jpg",
+      "size": 880425,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b349e4b97173d180d458f9d531bb3c9666965373a1907a7170f4649b0d44478d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:19:45.404Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "リオ",
+      "tags": [
+        "ブルアカ",
+        "調月リオ",
+        "マニキュア",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147208265_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147208265",
+      "sourceCreatedAt": "2026-07-14T15:00:16.000Z"
+    },
+    {
       "id": "b009869e",
       "filename": "pixiv_147172769_p0.jpg",
       "path": "uploads/2026/07/ec9b945e.jpg",
