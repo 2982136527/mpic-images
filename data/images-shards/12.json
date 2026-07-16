@@ -3,6 +3,37 @@
   "shardId": "12",
   "images": [
     {
+      "id": "094b8578",
+      "filename": "pixiv_147186305_p0.jpg",
+      "path": "uploads/2026/07/0a52c26e.jpg",
+      "size": 978235,
+      "width": 1087,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3372bf3260ec34798d255ec612ce027d178d646148a741b107c671c311b411e9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T17:31:27.181Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "デレマス漫画2609",
+      "tags": [
+        "漫画",
+        "アイドルマスターシンデレラガールズ",
+        "島村卯月",
+        "夢見りあむ",
+        "白坂小梅",
+        "ケツデカピングー",
+        "HOTLIMIT",
+        "THEFIRSTTAKE",
+        "シマムラ的にもオールオーケー!",
+        "INM@S"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147186305_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147186305",
+      "sourceCreatedAt": "2026-07-14T03:00:13.000Z"
+    },
+    {
       "id": "12e8156d",
       "filename": "pixiv_147222390_p0.jpg",
       "path": "uploads/2026/07/3ca18020.jpg",
