@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "17cef3cd",
+      "filename": "pixiv_147234482_p0.jpg",
+      "path": "uploads/2026/07/802b8129.jpg",
+      "size": 1491551,
+      "width": 916,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a8c34207987e3ba39a9b31c1a8624c6a77014d9d2736f3d821c9ceb2bc435c66",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:18:46.669Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "崩坏星穹铁道",
+        "崩壊スターレイル",
+        "姬子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147234482_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147234482",
+      "sourceCreatedAt": "2026-07-15T11:13:26.000Z"
+    },
+    {
       "id": "da0ea05b",
       "filename": "pixiv_147179966_p0.jpg",
       "path": "uploads/2026/07/624bb51d.jpg",
