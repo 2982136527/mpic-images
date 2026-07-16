@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "ff98666a",
+      "filename": "pixiv_147195175_p0.jpg",
+      "path": "uploads/2026/07/4e4e91d3.jpg",
+      "size": 508432,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "618dbf1cca142cfdb1281d5ac089087622e95d67f5b1670b8bf074accdda8ea1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:27:28.638Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ぐーちゃんつめあわせ",
+      "tags": [
+        "グローグー",
+        "STARWARS500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147195175_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147195175",
+      "sourceCreatedAt": "2026-07-14T09:52:06.000Z"
+    },
+    {
       "id": "127e5bc2",
       "filename": "pixiv_147223601_p0.jpg",
       "path": "uploads/2026/07/07ef0860.jpg",
