@@ -3,6 +3,34 @@
   "shardId": "11",
   "images": [
     {
+      "id": "db7e6491",
+      "filename": "pixiv_147082057_p0.jpg",
+      "path": "uploads/2026/07/16596894.jpg",
+      "size": 1031386,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6299c151a9e886b8170c31da8100b9a4103a1a47289ee8303ff11b9b100b341d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:27:55.452Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "桑多涅",
+      "tags": [
+        "女の子",
+        "少女",
+        "原神",
+        "桑多涅",
+        "サンドローネ",
+        "插图",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147082057_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147082057",
+      "sourceCreatedAt": "2026-07-11T11:14:43.000Z"
+    },
+    {
       "id": "2b25b9cd",
       "filename": "pixiv_147208405_p0.jpg",
       "path": "uploads/2026/07/dc7a70fb.jpg",
