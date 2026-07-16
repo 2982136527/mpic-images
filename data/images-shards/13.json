@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "d66e80f8",
+      "filename": "pixiv_147199297_p0.jpg",
+      "path": "uploads/2026/07/478aeb22.jpg",
+      "size": 674590,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "926451770dd425a9b0c81bab438376b59c1daa743dadac167172ab5c1d49450e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T03:29:03.108Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "SKEB",
+      "tags": [
+        "Skeb",
+        "女騎士",
+        "乳暖簾",
+        "マント"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147199297_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147199297",
+      "sourceCreatedAt": "2026-07-14T11:37:06.000Z"
+    },
+    {
       "id": "9f4bd765",
       "filename": "pixiv_146094844_p0.jpg",
       "path": "uploads/2026/07/3d9f2d15.jpg",
