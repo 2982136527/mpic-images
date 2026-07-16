@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "01d21a23",
+      "filename": "pixiv_147180975_p0.jpg",
+      "path": "uploads/2026/07/484aee6a.jpg",
+      "size": 824894,
+      "width": 795,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ff9183c6da528ad1677021a9c8ec5b0d99d2a048f8e37d1bec7c9d6bf5d21859",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T03:28:18.362Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "白鳳",
+      "tags": [
+        "AzurLane",
+        "アズールレーン",
+        "白鳳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147180975_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147180975",
+      "sourceCreatedAt": "2026-07-13T21:28:27.000Z"
+    },
+    {
       "id": "0db8fed3",
       "filename": "pixiv_146095020_p0.jpg",
       "path": "uploads/2026/07/9307b580.jpg",
