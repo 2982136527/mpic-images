@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "4fa5c220",
+      "filename": "pixiv_147195109_p0.jpg",
+      "path": "uploads/2026/07/57bfd44a.jpg",
+      "size": 745791,
+      "width": 717,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1ce1a547d00ea5a0938602aeaea66968735303fcf38ad829bc765b3a1322fe33",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T17:28:50.021Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ギミックで挟まったサンドローネ",
+      "tags": [
+        "原神",
+        "サンドローネ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147195109_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147195109",
+      "sourceCreatedAt": "2026-07-14T09:49:49.000Z"
+    },
+    {
       "id": "62a44fa0",
       "filename": "pixiv_147193987_p0.jpg",
       "path": "uploads/2026/07/d24c7255.jpg",
