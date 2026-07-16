@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "e2e8004d",
+      "filename": "pixiv_147199692_p0.jpg",
+      "path": "uploads/2026/07/a91bcd41.jpg",
+      "size": 518468,
+      "width": 885,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6d8c9190bac50dcb01e78a8af1b61c8a03a18b24d8f9eb9b0548ad357bad5d1d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:22:07.283Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "メラまり　すぐ顔に出る",
+      "tags": [
+        "メラまり",
+        "まりんとメラン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147199692_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147199692",
+      "sourceCreatedAt": "2026-07-14T11:47:49.000Z"
+    },
+    {
       "id": "4f0f5ba8",
       "filename": "pixiv_147172716_p0.jpg",
       "path": "uploads/2026/07/e9cc5819.jpg",
