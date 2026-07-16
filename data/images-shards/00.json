@@ -3,6 +3,37 @@
   "shardId": "00",
   "images": [
     {
+      "id": "bb670410",
+      "filename": "pixiv_147172787_p0.jpg",
+      "path": "uploads/2026/07/354cd9fc.jpg",
+      "size": 841012,
+      "width": 636,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "9674559b295de66ed9bd08fea181296636a6ed010a5e17c0117ce0024432b11f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:24:05.902Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "チア姉妹",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "シュヴァルグラン(ウマ娘)",
+        "ヴィルシーナ(ウマ娘)",
+        "ヴィブロス(ウマ娘)",
+        "チア服",
+        "チアリーダー",
+        "紙吹雪",
+        "ウインク",
+        "限界までPom_Pon!!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147172787_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147172787",
+      "sourceCreatedAt": "2026-07-13T15:00:24.000Z"
+    },
+    {
       "id": "21c92d41",
       "filename": "pixiv_147233022_p0.jpg",
       "path": "uploads/2026/07/d7154c36.jpg",
