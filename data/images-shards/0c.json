@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "2857b381",
+      "filename": "pixiv_147194851_p0.jpg",
+      "path": "uploads/2026/07/ef523968.jpg",
+      "size": 609783,
+      "width": 782,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8f20fd91cbd09ae1f01b52eacefc109cdeae9f6300ab17d435937d06db9a28fa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:22:29.595Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "忍",
+      "tags": [
+        "少年",
+        "ショタ",
+        "男の子",
+        "仙石忍",
+        "あんスタ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147194851_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147194851",
+      "sourceCreatedAt": "2026-07-14T09:39:51.000Z"
+    },
+    {
       "id": "0c725281",
       "filename": "pixiv_147235759_p0.jpg",
       "path": "uploads/2026/07/1a716c2a.jpg",
