@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "c45bddfb",
+      "filename": "pixiv_147228343_p0.jpg",
+      "path": "uploads/2026/07/78c1bf80.jpg",
+      "size": 1575541,
+      "width": 1051,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b896d68926009011143c88ecd226e2d1b120bb8b9b4d37c836e52f9557131b5c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-16T10:21:49.988Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "からくりピエロ",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "からくりピエロ",
+        "40mP"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147228343_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147228343",
+      "sourceCreatedAt": "2026-07-15T08:03:53.000Z"
+    },
+    {
       "id": "3c691929",
       "filename": "pixiv_147135982_p0.jpg",
       "path": "uploads/2026/07/d3141240.jpg",
