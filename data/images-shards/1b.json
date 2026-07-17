@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "dd2c0e9c",
+      "filename": "pixiv_147224645_p0.jpg",
+      "path": "uploads/2026/07/3c01015b.jpg",
+      "size": 679945,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a1ae3348cb263e8284bb5a974becc4dfe037ac76c7e6e55a15e82f53f12616a9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T03:27:27.622Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "skeb",
+      "tags": [
+        "女の子",
+        "Skeb",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147224645_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147224645",
+      "sourceCreatedAt": "2026-07-15T05:08:43.000Z"
+    },
+    {
       "id": "47f75d7e",
       "filename": "pixiv_147211581_p0.jpg",
       "path": "uploads/2026/07/28550e2a.jpg",
