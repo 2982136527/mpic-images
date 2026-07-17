@@ -3,6 +3,33 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "3d246b9b",
+      "filename": "pixiv_147260607_p0.jpg",
+      "path": "uploads/2026/07/6eeb90a1.jpg",
+      "size": 421705,
+      "width": 701,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1362ef9bcdce0393107a00a5ea5266458c641245d7aa55920c085a3de5e5dbce",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:22:44.005Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "SwallowTail ILLUST #5",
+      "tags": [
+        "百合",
+        "GL",
+        "BOOTH",
+        "創作",
+        "連載",
+        "Swallowtail"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147260607_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147260607",
+      "sourceCreatedAt": "2026-07-16T05:21:03.000Z"
+    },
+    {
       "id": "2fa9b3f2",
       "filename": "pixiv_147261908_p0.jpg",
       "path": "uploads/2026/07/318774f6.jpg",
