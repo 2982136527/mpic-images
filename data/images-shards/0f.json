@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "e3afabb5",
+      "filename": "pixiv_147227027_p0.jpg",
+      "path": "uploads/2026/07/af1b526a.jpg",
+      "size": 1502750,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ef0c4f9bec97f67a8baeee9bc7d60ddf1218def86c1d3508699328a017f78521",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T10:06:52.037Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ホロドリマリンちゃん",
+      "tags": [
+        "宝鐘マリン",
+        "マリンのお宝"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147227027_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147227027",
+      "sourceCreatedAt": "2026-07-15T07:07:05.000Z"
+    },
+    {
       "id": "870bec8a",
       "filename": "pixiv_147233253_p0.jpg",
       "path": "uploads/2026/07/36beb5b3.jpg",
