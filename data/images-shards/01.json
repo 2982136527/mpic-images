@@ -3,6 +3,36 @@
   "shardId": "01",
   "images": [
     {
+      "id": "30e2aebf",
+      "filename": "pixiv_147254504_p0.jpg",
+      "path": "uploads/2026/07/c08bd0fc.jpg",
+      "size": 1025920,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "cf014dcc18e2f908a9691178b5186af8f84020341b113fbe468e58818efb3e18",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:22:07.508Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "TVアニメ 攻殻機動隊 エンドカード",
+      "tags": [
+        "攻殻機動隊",
+        "草薙素子",
+        "ニーソ",
+        "長手袋",
+        "チョーカー",
+        "ビール",
+        "攻殻機動隊THE_GHOST_IN_THE_SHELL",
+        "仕事絵",
+        "エンドカード"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147254504_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147254504",
+      "sourceCreatedAt": "2026-07-15T23:35:24.000Z"
+    },
+    {
       "id": "cd123033",
       "filename": "pixiv_146132244_p0.jpg",
       "path": "uploads/2026/07/ff4a3909.jpg",
