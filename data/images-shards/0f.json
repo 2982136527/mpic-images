@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "603c9913",
+      "filename": "pixiv_147272414_p0.jpg",
+      "path": "uploads/2026/07/ae930398.jpg",
+      "size": 908040,
+      "width": 756,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8f824b2b28d911adae7c2f41dd7d8d17ec3d39187e600162d5577138f0209c5b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T10:11:52.549Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ドキドキナース",
+      "tags": [
+        "女の子",
+        "マニキュア",
+        "ピアス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147272414_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147272414",
+      "sourceCreatedAt": "2026-07-16T12:18:50.000Z"
+    },
+    {
       "id": "e3afabb5",
       "filename": "pixiv_147227027_p0.jpg",
       "path": "uploads/2026/07/af1b526a.jpg",
