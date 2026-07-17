@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "b77c7758",
+      "filename": "pixiv_147258387_p0.jpg",
+      "path": "uploads/2026/07/cfc9be82.jpg",
+      "size": 894481,
+      "width": 1200,
+      "height": 1033,
+      "mimeType": "image/jpeg",
+      "hash": "86131e283f04775cfed0189af586dea9e4317f0da96c3a57e8cdd2df535df4b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:22:14.445Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "サヨと花",
+      "tags": [
+        "百合の花",
+        "猫"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147258387_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147258387",
+      "sourceCreatedAt": "2026-07-16T03:18:05.000Z"
+    },
+    {
       "id": "cacb80f3",
       "filename": "pixiv_147244387_p0.jpg",
       "path": "uploads/2026/07/5574006c.jpg",
