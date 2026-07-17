@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "cd2cb438",
+      "filename": "pixiv_147274558_p0.jpg",
+      "path": "uploads/2026/07/5b0278d1.jpg",
+      "size": 1381006,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2d751686a6f4f313520405359bc467c11bc645b653117297fad97cb8df20fc85",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T10:10:22.324Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【東京最終開催のお知らせ】",
+      "tags": [
+        "お知らせ",
+        "トランプ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147274558_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147274558",
+      "sourceCreatedAt": "2026-07-16T13:05:51.000Z"
+    },
+    {
       "id": "9e683583",
       "filename": "pixiv_147212317_p0.jpg",
       "path": "uploads/2026/07/8cfdecc0.jpg",
