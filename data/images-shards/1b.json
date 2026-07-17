@@ -3,6 +3,36 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "8ebe48ca",
+      "filename": "pixiv_147209062_p0.jpg",
+      "path": "uploads/2026/07/a79948bf.jpg",
+      "size": 1225300,
+      "width": 1200,
+      "height": 1011,
+      "mimeType": "image/jpeg",
+      "hash": "3859cc894334e75b1c5be64cdf088a3c83ee70de32684b32efea87f2c0a8f0d5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T03:30:14.799Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ヴ姉妹",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "シュヴァルグラン(ウマ娘)",
+        "ヴィブロス(ウマ娘)",
+        "ヴィルシーナ(ウマ娘)",
+        "ヴ姉妹",
+        "水着ウマ娘",
+        "夏凪ネイビードロップ",
+        "Éclat_d'été"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147209062_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147209062",
+      "sourceCreatedAt": "2026-07-14T15:09:37.000Z"
+    },
+    {
       "id": "dd2c0e9c",
       "filename": "pixiv_147224645_p0.jpg",
       "path": "uploads/2026/07/3c01015b.jpg",
