@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "a0831a62",
+      "filename": "pixiv_147256997_p0.jpg",
+      "path": "uploads/2026/07/c58347e9.jpg",
+      "size": 651648,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d6c0378ac3ab7fec34f1c3d97a8df65c6be751f9c3b95b0aeec2728a7ebd5ab1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:28:24.196Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ブルアカ",
+        "月雪ミヤコ(水着)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147256997_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147256997",
+      "sourceCreatedAt": "2026-07-16T02:10:09.000Z"
+    },
+    {
       "id": "2c77ec2d",
       "filename": "pixiv_147221499_p0.jpg",
       "path": "uploads/2026/07/a50abf3c.jpg",
