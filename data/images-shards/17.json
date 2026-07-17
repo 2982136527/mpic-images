@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "43f113d4",
+      "filename": "pixiv_147224620_p0.jpg",
+      "path": "uploads/2026/07/48f6f91b.jpg",
+      "size": 1260282,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "d115d7910f2e10b396fc2e2ae7156e635a4a48bcd8e4575ed37fde112ed25632",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T10:10:45.202Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "commission",
+      "tags": [
+        "插画",
+        "足裏",
+        "ハイヒール",
+        "裸足"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147224620_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147224620",
+      "sourceCreatedAt": "2026-07-15T05:06:48.000Z"
+    },
+    {
       "id": "dd0b51c6",
       "filename": "pixiv_147244126_p0.jpg",
       "path": "uploads/2026/07/c81baf52.jpg",
