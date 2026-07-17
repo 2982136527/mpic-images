@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "7fe5f864",
+      "filename": "pixiv_147225589_p0.jpg",
+      "path": "uploads/2026/07/e438904b.jpg",
+      "size": 1103239,
+      "width": 778,
+      "height": 1100,
+      "mimeType": "image/jpeg",
+      "hash": "5f9864e993be5784f31d1ada204a01c1437d77f6b1183c3f4da44b5588569767",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:19:15.018Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ぐだ子",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "ぐだ子",
+        "藤丸立香",
+        "Fate/GO500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147225589_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147225589",
+      "sourceCreatedAt": "2026-07-15T05:59:16.000Z"
+    },
+    {
       "id": "dac9fdf6",
       "filename": "pixiv_147222396_p0.jpg",
       "path": "uploads/2026/07/24263ea7.jpg",
