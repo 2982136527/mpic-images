@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "def29f3a",
+      "filename": "pixiv_147258584_p0.jpg",
+      "path": "uploads/2026/07/4ca29619.jpg",
+      "size": 490623,
+      "width": 903,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5640c75c784e6a99d5d80470504e3360aeac9d00db1ad890a0205e0854c6758b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T10:12:22.765Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ミヨ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "桜井ミヨ",
+        "ミヨ(ブルーアーカイブ)",
+        "ぱんつ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147258584_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147258584",
+      "sourceCreatedAt": "2026-07-16T03:28:57.000Z"
+    },
+    {
       "id": "b4c74ae3",
       "filename": "pixiv_146210377_p0.jpg",
       "path": "uploads/2026/07/4ed4337f.jpg",
