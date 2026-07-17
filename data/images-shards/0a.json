@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "20eecfc3",
+      "filename": "pixiv_147244722_p0.jpg",
+      "path": "uploads/2026/07/9eaf2eea.jpg",
+      "size": 920762,
+      "width": 942,
+      "height": 1080,
+      "mimeType": "image/jpeg",
+      "hash": "f322142ee2b08eeee64bd3d96d7390b55b55b1dfbf940a71408c19facefe45e2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:23:12.359Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【VTuber】 Fio Furuyuki",
+      "tags": [
+        "バーチャルYouTuber",
+        "FioFuruyuki"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147244722_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147244722",
+      "sourceCreatedAt": "2026-07-15T15:02:33.000Z"
+    },
+    {
       "id": "ce5c3bd0",
       "filename": "pixiv_147041575_p0.jpg",
       "path": "uploads/2026/07/2531bdc0.jpg",
