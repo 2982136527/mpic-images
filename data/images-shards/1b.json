@@ -3,6 +3,35 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "a95cf0d1",
+      "filename": "pixiv_147219877_p0.jpg",
+      "path": "uploads/2026/07/6e1faee2.jpg",
+      "size": 1079280,
+      "width": 1200,
+      "height": 881,
+      "mimeType": "image/jpeg",
+      "hash": "8b6938259c03c53ed32d47f1d4cc794c87cc283747bf364d6dafdcdcb2821faf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T10:09:10.416Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "풍선",
+      "tags": [
+        "SD",
+        "アークナイツ:エンドフィールド",
+        "ロッシ(エンドフィールド)",
+        "명일방주",
+        "アークナイツ",
+        "명일방주엔드필드",
+        "endfield",
+        "ロッシーナ・ウルフパール・ルピーノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147219877_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147219877",
+      "sourceCreatedAt": "2026-07-15T00:46:43.000Z"
+    },
+    {
       "id": "46e8396f",
       "filename": "pixiv_147266120_p0.jpg",
       "path": "uploads/2026/07/acd596ff.jpg",
