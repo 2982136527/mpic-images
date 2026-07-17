@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "5dbc2d51",
+      "filename": "pixiv_147196539_p0.jpg",
+      "path": "uploads/2026/07/f90c3983.jpg",
+      "size": 1012366,
+      "width": 854,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09da3dadb2f55f16f1fe376c1612f6464e36668358e28d375a4f748db3b9c480",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T03:28:15.393Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "少女",
+        "猫と女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147196539_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147196539",
+      "sourceCreatedAt": "2026-07-14T10:29:42.000Z"
+    },
+    {
       "id": "9087ee34",
       "filename": "pixiv_147242381_p0.jpg",
       "path": "uploads/2026/07/4a34b29b.jpg",
