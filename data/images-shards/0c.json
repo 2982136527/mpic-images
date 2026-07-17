@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "2ec8eb94",
+      "filename": "pixiv_147237761_p0.jpg",
+      "path": "uploads/2026/07/68104710.jpg",
+      "size": 1000745,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ef5e4c45318aeea0c795fb8e142f7b17b35c4b1142020fe7949c101b01bc79ac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T03:30:19.426Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【再録】タソイラスト集",
+      "tags": [
+        "タソガレドキ",
+        "同人再録",
+        "押都長烈",
+        "雑渡昆奈門"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147237761_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147237761",
+      "sourceCreatedAt": "2026-07-15T12:27:54.000Z"
+    },
+    {
       "id": "f0025e89",
       "filename": "pixiv_147017636_p0.jpg",
       "path": "uploads/2026/07/f296e539.jpg",
