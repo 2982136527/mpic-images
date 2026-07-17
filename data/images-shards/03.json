@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "42b37069",
+      "filename": "pixiv_147256317_p0.jpg",
+      "path": "uploads/2026/07/6ff84024.jpg",
+      "size": 1551451,
+      "width": 1200,
+      "height": 1058,
+      "mimeType": "image/jpeg",
+      "hash": "060a877487624ffaeeb944bfa00974eb920cea9f38a5a593a6e7cf665f49c785",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T10:10:08.953Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "帯イラスト",
+      "tags": [
+        "夕焼け",
+        "街並み",
+        "魚眼",
+        "背景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147256317_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147256317",
+      "sourceCreatedAt": "2026-07-16T01:34:12.000Z"
+    },
+    {
       "id": "bac30398",
       "filename": "pixiv_147228036_p0.jpg",
       "path": "uploads/2026/07/09d5d019.jpg",
