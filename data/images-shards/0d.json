@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "33e499a4",
+      "filename": "pixiv_147220561_p0.jpg",
+      "path": "uploads/2026/07/4cf01492.jpg",
+      "size": 880945,
+      "width": 1200,
+      "height": 718,
+      "mimeType": "image/jpeg",
+      "hash": "5bbf85ac2a1ff9e6268e7bd464ea021657149cfe493242e68b86e7d42d51d772",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T10:06:21.871Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "メイド",
+      "tags": [
+        "女の子",
+        "背景",
+        "オリジナル",
+        "メイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147220561_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147220561",
+      "sourceCreatedAt": "2026-07-15T01:27:17.000Z"
+    },
+    {
       "id": "26dc244f",
       "filename": "pixiv_147191958_p0.jpg",
       "path": "uploads/2026/07/a7274a27.jpg",
