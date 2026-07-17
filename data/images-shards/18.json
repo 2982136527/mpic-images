@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "0f009c7b",
+      "filename": "pixiv_147237155_p0.jpg",
+      "path": "uploads/2026/07/ed856fad.jpg",
+      "size": 634540,
+      "width": 1200,
+      "height": 886,
+      "mimeType": "image/jpeg",
+      "hash": "02c759d3ce6e62785f34cbf275702dd2fd59ac593a9b7869d20ae0215ceb9db1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T10:13:03.536Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "たまったぜ",
+      "tags": [
+        "猫又おかゆ",
+        "戌神ころね",
+        "大空スバル",
+        "兎田ぺこら"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147237155_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147237155",
+      "sourceCreatedAt": "2026-07-15T12:13:13.000Z"
+    },
+    {
       "id": "58dc539e",
       "filename": "pixiv_147264497_p0.jpg",
       "path": "uploads/2026/07/e4df5bce.jpg",
