@@ -3,6 +3,32 @@
   "shardId": "06",
   "images": [
     {
+      "id": "d7198603",
+      "filename": "pixiv_147234203_p0.jpg",
+      "path": "uploads/2026/07/fe501512.jpg",
+      "size": 1692533,
+      "width": 1200,
+      "height": 1071,
+      "mimeType": "image/jpeg",
+      "hash": "41faf4f18b9cad9925132ebf69bf97079193045e1c00eee8815cdd106d180509",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:23:19.586Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "Vtuber",
+        "VirtuaReal",
+        "虚拟主播",
+        "海子姐",
+        "七海Nana7mi"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147234203_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147234203",
+      "sourceCreatedAt": "2026-07-15T11:06:02.000Z"
+    },
+    {
       "id": "89ed168a",
       "filename": "pixiv_147274040_p0.jpg",
       "path": "uploads/2026/07/4e7db9b9.jpg",
