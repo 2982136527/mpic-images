@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "509037df",
+      "filename": "pixiv_147240820_p0.jpg",
+      "path": "uploads/2026/07/6be8c68a.jpg",
+      "size": 538796,
+      "width": 741,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "43e29840e0262897050dacbff96c59119de0ea0f9ab4f0e0a2220b705b15fc83",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T03:26:48.363Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "M1895(ドールズフロントライン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147240820_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147240820",
+      "sourceCreatedAt": "2026-07-15T13:36:55.000Z"
+    },
+    {
       "id": "b553039b",
       "filename": "pixiv_147220086_p0.jpg",
       "path": "uploads/2026/07/b1945489.jpg",
