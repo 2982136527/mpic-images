@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "f3f3ef74",
+      "filename": "pixiv_147222951_p0.jpg",
+      "path": "uploads/2026/07/bdf17265.jpg",
+      "size": 1296044,
+      "width": 801,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "49cb08e86605cf424f4f7d91768358bce0f73660648dd055aeef90868a567c0a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:23:49.369Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "女の子",
+        "マニキュア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147222951_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147222951",
+      "sourceCreatedAt": "2026-07-15T03:36:04.000Z"
+    },
+    {
       "id": "51f26092",
       "filename": "pixiv_147232229_p0.jpg",
       "path": "uploads/2026/07/570f3af7.jpg",
