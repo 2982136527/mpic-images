@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "fece3aa4",
+      "filename": "pixiv_147257000_p0.jpg",
+      "path": "uploads/2026/07/a702f69d.jpg",
+      "size": 767386,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3e5b211ff8c820f47a09f996db6ddd4d056ab7f9173251219e1114d46eb8927d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:19:59.685Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "DAY77 希洛猫猫",
+      "tags": [
+        "萝莉",
+        "雪糕",
+        "白丝",
+        "猫耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147257000_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147257000",
+      "sourceCreatedAt": "2026-07-16T02:10:29.000Z"
+    },
+    {
       "id": "d106d5e2",
       "filename": "pixiv_147256545_p0.jpg",
       "path": "uploads/2026/07/cd1c1fa8.jpg",
