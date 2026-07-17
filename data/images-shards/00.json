@@ -3,6 +3,28 @@
   "shardId": "00",
   "images": [
     {
+      "id": "fce3005c",
+      "filename": "pixiv_147256910_p0.jpg",
+      "path": "uploads/2026/07/897796b0.jpg",
+      "size": 931630,
+      "width": 1200,
+      "height": 1105,
+      "mimeType": "image/jpeg",
+      "hash": "771731c2774beb20afb12a880ae6881f7996121c216de70a4920de3437534333",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:24:15.892Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "毛塚了一郎さんのこと。",
+      "tags": [
+        "丸岡九蔵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147256910_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147256910",
+      "sourceCreatedAt": "2026-07-16T02:05:10.000Z"
+    },
+    {
       "id": "0427ee95",
       "filename": "pixiv_147244388_p0.jpg",
       "path": "uploads/2026/07/39fea605.jpg",
