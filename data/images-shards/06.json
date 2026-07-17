@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "b25d4036",
+      "filename": "pixiv_147208254_p0.jpg",
+      "path": "uploads/2026/07/afb60730.jpg",
+      "size": 2022975,
+      "width": 809,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b38a4c20409429d2999f637184e67d67f49ac63038630f5ed365f344fa55a68f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:18:57.936Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "この夏の一瞬を永遠に",
+      "tags": [
+        "着物",
+        "夏",
+        "花火",
+        "風鈴"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147208254_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147208254",
+      "sourceCreatedAt": "2026-07-14T15:00:14.000Z"
+    },
+    {
       "id": "394f50f1",
       "filename": "pixiv_147237689_p0.jpg",
       "path": "uploads/2026/07/d6101867.jpg",
