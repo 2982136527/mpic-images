@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "bf2e111f",
+      "filename": "pixiv_147264721_p0.jpg",
+      "path": "uploads/2026/07/f297382d.jpg",
+      "size": 1111404,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "54cc1f652ac63ac1348fa6f219cfe8e14f438727d32060eb863cee493c3f57d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:20:58.619Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "明日方舟：Endfield 半週年",
+      "tags": [
+        "エンドフィールド",
+        "ネファリス",
+        "アルダシル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147264721_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147264721",
+      "sourceCreatedAt": "2026-07-16T08:43:23.000Z"
+    },
+    {
       "id": "d4afb800",
       "filename": "pixiv_147244407_p0.jpg",
       "path": "uploads/2026/07/ce682a18.jpg",
