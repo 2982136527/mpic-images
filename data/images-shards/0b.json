@@ -3,6 +3,28 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "dae2344c",
+      "filename": "pixiv_147276251_p0.jpg",
+      "path": "uploads/2026/07/f62bb3d7.jpg",
+      "size": 291137,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "184db8378aa4e69909cd161912fabec31e8eaccea826ea38be0fddea9368d2ab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:20:29.412Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "コナン夢⑤",
+      "tags": [
+        "decnプラス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147276251_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147276251",
+      "sourceCreatedAt": "2026-07-16T13:46:25.000Z"
+    },
+    {
       "id": "32387947",
       "filename": "pixiv_147227455_p0.jpg",
       "path": "uploads/2026/07/6ffd676f.jpg",
