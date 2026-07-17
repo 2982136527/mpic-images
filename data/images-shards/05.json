@@ -3,6 +3,33 @@
   "shardId": "05",
   "images": [
     {
+      "id": "3629bb55",
+      "filename": "pixiv_147254524_p0.jpg",
+      "path": "uploads/2026/07/b5ea83b4.jpg",
+      "size": 579270,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "febb0502036cd675cbeb42ef0ab9e32edb55f602ea489432c953d85c61ed9cc4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T10:07:24.774Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "縦ロールが描きたい人へ",
+      "tags": [
+        "上達法",
+        "ノウハウ",
+        "ハウツー",
+        "コツ",
+        "描き方",
+        "髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147254524_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147254524",
+      "sourceCreatedAt": "2026-07-15T23:36:40.000Z"
+    },
+    {
       "id": "4be7b6e0",
       "filename": "pixiv_147220161_p0.jpg",
       "path": "uploads/2026/07/bf3803d4.jpg",
