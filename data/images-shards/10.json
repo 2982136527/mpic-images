@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "37fcc6c5",
+      "filename": "pixiv_146141986_p0.jpg",
+      "path": "uploads/2026/07/74723564.jpg",
+      "size": 690887,
+      "width": 725,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14e25763c8a71a96db54d33046e434a813a9b5ac8cffd4440cd3757b384b4c42",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T03:29:38.986Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Lucilla",
+      "tags": [
+        "鳴潮",
+        "ルシラー",
+        "マニキュア",
+        "帽子",
+        "青髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146141986_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146141986",
+      "sourceCreatedAt": "2026-06-19T11:10:48.000Z"
+    },
+    {
       "id": "af35e4f6",
       "filename": "pixiv_147177390_p0.jpg",
       "path": "uploads/2026/07/b02d2496.jpg",
