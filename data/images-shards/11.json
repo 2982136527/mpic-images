@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "e3ed8cb9",
+      "filename": "pixiv_147231231_p0.jpg",
+      "path": "uploads/2026/07/7e42a16d.jpg",
+      "size": 832597,
+      "width": 1200,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "161d28f0e2dbae03f102196094836d0cd7df80feca2d54ec3ae7e421890d7bf4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:23:05.530Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "우유 열심히 먹는 탕탕이",
+      "tags": [
+        "アークナイツ:エンドフィールド",
+        "エンドフィールド",
+        "明日方舟",
+        "タンタン(エンドフィールド)",
+        "ミ・フ(エンドフィールド)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147231231_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147231231",
+      "sourceCreatedAt": "2026-07-15T09:44:33.000Z"
+    },
+    {
       "id": "b0babd74",
       "filename": "pixiv_147208271_p0.jpg",
       "path": "uploads/2026/07/35d2705f.jpg",
