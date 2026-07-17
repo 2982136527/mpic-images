@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "bbf5ae20",
+      "filename": "pixiv_147261470_p0.jpg",
+      "path": "uploads/2026/07/b79d02bb.jpg",
+      "size": 1052779,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "420db5286fd1cb1106f71f5aca9a41ac9642b8f98e633000601f78c741f54be0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:27:50.898Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "藤丸立香",
+        "ナイチンゲール(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147261470_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147261470",
+      "sourceCreatedAt": "2026-07-16T06:09:02.000Z"
+    },
+    {
       "id": "35e11d78",
       "filename": "pixiv_146192629_p0.jpg",
       "path": "uploads/2026/07/6c54241b.jpg",
