@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "55e43f3e",
+      "filename": "pixiv_147224622_p0.jpg",
+      "path": "uploads/2026/07/b32c80b6.jpg",
+      "size": 1240593,
+      "width": 1200,
+      "height": 1040,
+      "mimeType": "image/jpeg",
+      "hash": "1e8fcdd00a9b90b90c5b9117780754d964385ae8bccaf5bc4b28d0319f2f9d31",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T03:24:55.866Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Valko",
+      "tags": [
+        "LoveandDeepspace",
+        "valko"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147224622_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147224622",
+      "sourceCreatedAt": "2026-07-15T05:06:53.000Z"
+    },
+    {
       "id": "1a95df5c",
       "filename": "pixiv_147197900_p0.jpg",
       "path": "uploads/2026/07/c633ad51.jpg",
