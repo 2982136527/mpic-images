@@ -3,6 +3,36 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "b9e42207",
+      "filename": "pixiv_147226919_p0.jpg",
+      "path": "uploads/2026/07/683ac98d.jpg",
+      "size": 502115,
+      "width": 843,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "959755f9a6593e1d476691a9a67673cfe0189b1cc7fa9240a4a75f04e89d24e0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T10:13:11.048Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "キサキ❤先生47",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "블루아카이브",
+        "竜華キサキ",
+        "キサキ(ブルーアーカイブ)",
+        "キサキ",
+        "先生(ブルーアーカイブ)",
+        "キス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147226919_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147226919",
+      "sourceCreatedAt": "2026-07-15T07:02:04.000Z"
+    },
+    {
       "id": "2ae64d66",
       "filename": "pixiv_147244316_p0.jpg",
       "path": "uploads/2026/07/b9683234.jpg",
