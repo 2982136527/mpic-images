@@ -3,6 +3,37 @@
   "shardId": "01",
   "images": [
     {
+      "id": "0003f436",
+      "filename": "pixiv_146208212_p0.jpg",
+      "path": "uploads/2026/07/48d6a89c.jpg",
+      "size": 1250230,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6341716b725e540a78ea2c5d3730f720170b2e334fd85e512fca3230aa58d417",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:26:37.366Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ルーシー",
+      "tags": [
+        "女の子",
+        "少女",
+        "魅惑のふともも",
+        "水着",
+        "ルシアーナ・オクシスィース・テオドロ・デ・モンテフィーノ",
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ5000users入り",
+        "ピーチ",
+        "照れ顔",
+        "プリンセスの休日"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146208212_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146208212",
+      "sourceCreatedAt": "2026-06-19T15:00:16.000Z"
+    },
+    {
       "id": "220bbb02",
       "filename": "pixiv_147270740_p0.jpg",
       "path": "uploads/2026/07/cfe6c064.jpg",
