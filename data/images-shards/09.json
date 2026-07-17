@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "66ef2d44",
+      "filename": "pixiv_147238023_p0.jpg",
+      "path": "uploads/2026/07/eb90554e.jpg",
+      "size": 405917,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "990203164f35a8a781ae6251127b6a9244d0b3be8dc0adbe439cd49a1a8df3db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T10:12:49.711Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Questioning statue",
+      "tags": [
+        "Arknights",
+        "QuestioningStatue"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147238023_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147238023",
+      "sourceCreatedAt": "2026-07-15T12:33:24.000Z"
+    },
+    {
       "id": "3add666f",
       "filename": "pixiv_147260669_p0.jpg",
       "path": "uploads/2026/07/6c34f567.jpg",
