@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "b0babd74",
+      "filename": "pixiv_147208271_p0.jpg",
+      "path": "uploads/2026/07/35d2705f.jpg",
+      "size": 749863,
+      "width": 600,
+      "height": 1031,
+      "mimeType": "image/jpeg",
+      "hash": "1c947c3ceaae9027756eb5842c0d183f321b09bf5fc262859207cd5ad17d6c16",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T17:22:21.440Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "紅に息を継ぎ、",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147208271_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147208271",
+      "sourceCreatedAt": "2026-07-14T15:00:16.000Z"
+    },
+    {
       "id": "cd2cb438",
       "filename": "pixiv_147274558_p0.jpg",
       "path": "uploads/2026/07/5b0278d1.jpg",
