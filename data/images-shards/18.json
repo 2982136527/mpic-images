@@ -3,6 +3,28 @@
   "shardId": "18",
   "images": [
     {
+      "id": "07d7782d",
+      "filename": "pixiv_147209771_p0.jpg",
+      "path": "uploads/2026/07/ebbe3794.jpg",
+      "size": 563325,
+      "width": 843,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6d34460f49f91c5ab5c59e21994b739c89de53410d79e9fc5fda51ba4494d7a5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T03:27:37.022Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "雪",
+      "tags": [
+        "少女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147209771_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147209771",
+      "sourceCreatedAt": "2026-07-14T15:27:45.000Z"
+    },
+    {
       "id": "a3e32634",
       "filename": "pixiv_147236071_p0.jpg",
       "path": "uploads/2026/07/3c5c53d7.jpg",
