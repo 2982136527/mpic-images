@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "a7c54184",
+      "filename": "pixiv_147222495_p0.jpg",
+      "path": "uploads/2026/07/e3afa8ed.jpg",
+      "size": 1224335,
+      "width": 683,
+      "height": 976,
+      "mimeType": "image/jpeg",
+      "hash": "f075a00ea82df78d5575e79198a021c23f115ae7ef556394c12244fec0241213",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T03:28:30.077Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "オレンジジュース",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "擬人化",
+        "オレンジジュース"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147222495_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147222495",
+      "sourceCreatedAt": "2026-07-15T03:12:14.000Z"
+    },
+    {
       "id": "37eeb9b1",
       "filename": "pixiv_147231801_p0.jpg",
       "path": "uploads/2026/07/2184e003.jpg",
