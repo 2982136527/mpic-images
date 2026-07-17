@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "2333ea3d",
+      "filename": "pixiv_147237635_p0.jpg",
+      "path": "uploads/2026/07/a27fa613.jpg",
+      "size": 800860,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "33aaa0284230c1fcf2945f1e3f2f928c7cec01d356a825bb9436b59e902e0cd3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T03:27:14.285Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "創作",
+        "女の子",
+        "背景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147237635_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147237635",
+      "sourceCreatedAt": "2026-07-15T12:25:03.000Z"
+    },
+    {
       "id": "64865371",
       "filename": "pixiv_146169754_p0.jpg",
       "path": "uploads/2026/07/6855d9bb.jpg",
