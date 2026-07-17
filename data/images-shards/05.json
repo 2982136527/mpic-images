@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "37eeb9b1",
+      "filename": "pixiv_147231801_p0.jpg",
+      "path": "uploads/2026/07/2184e003.jpg",
+      "size": 1557461,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9c52219dc7406078ead70ca767b339074f503c90db2b721ec2e02ac2cb4795c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T03:25:03.435Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "福岡⇔大分Trip!",
+      "tags": [
+        "プロセカ",
+        "プロジェクトセカイ",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147231801_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147231801",
+      "sourceCreatedAt": "2026-07-15T10:00:35.000Z"
+    },
+    {
       "id": "485c8e8c",
       "filename": "pixiv_146132243_p0.jpg",
       "path": "uploads/2026/07/0bf090b8.jpg",
