@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "b16fd6cd",
+      "filename": "pixiv_147000332_p0.jpg",
+      "path": "uploads/2026/07/3c5faa7b.jpg",
+      "size": 1097732,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8f27541c33ff99abb2c3852b15f21f0455fa0836ec380f7af4759f307beda4a8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-17T03:31:18.638Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "苍苔",
+      "tags": [
+        "女の子",
+        "少女",
+        "トレンカ",
+        "ロリ",
+        "獣耳",
+        "白髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147000332_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147000332",
+      "sourceCreatedAt": "2026-07-09T08:46:01.000Z"
+    },
+    {
       "id": "dbb95170",
       "filename": "pixiv_147178024_p0.jpg",
       "path": "uploads/2026/07/e74133ff.jpg",
