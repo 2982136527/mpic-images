@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "1b00d2c3",
+      "filename": "pixiv_147257416_p0.jpg",
+      "path": "uploads/2026/07/8a17c78d.jpg",
+      "size": 1230458,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "40aa5ab7e1402dd473bfdc46a47cc156601a91c703b4a6e81e88ad2e1cea3e73",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:06:09.270Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "commission",
+      "tags": [
+        "插画",
+        "足裏",
+        "女の子",
+        "裸足",
+        "足指"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147257416_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147257416",
+      "sourceCreatedAt": "2026-07-16T02:35:51.000Z"
+    },
+    {
       "id": "4e83fbda",
       "filename": "pixiv_147271835_p0.jpg",
       "path": "uploads/2026/07/775efdf7.jpg",
