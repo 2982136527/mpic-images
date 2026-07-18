@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "3cdd9a23",
+      "filename": "pixiv_147229280_p0.jpg",
+      "path": "uploads/2026/07/61e36840.jpg",
+      "size": 765434,
+      "width": 527,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "30ce68e2b8bfef98b62d8806e3426b3433de42ea5d2c0522cf2b97404c9d32a7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T03:14:36.456Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "가위가위봊",
+      "tags": [
+        "Limbus_Company",
+        "LimbusCompany"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147229280_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147229280",
+      "sourceCreatedAt": "2026-07-15T08:41:06.000Z"
+    },
+    {
       "id": "a30d0efa",
       "filename": "pixiv_147239845_p0.jpg",
       "path": "uploads/2026/07/07e13576.jpg",
