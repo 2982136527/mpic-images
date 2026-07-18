@@ -3,6 +3,28 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "ba2696d6",
+      "filename": "pixiv_147281526_p0.jpg",
+      "path": "uploads/2026/07/119a19d3.jpg",
+      "size": 865668,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1d8a669d823489e44814a78666ecb7045516efa7671bd837cb59f1fefa418f23",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:41:08.721Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "愛しい者達",
+      "tags": [
+        "獣人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147281526_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147281526",
+      "sourceCreatedAt": "2026-07-16T15:42:31.000Z"
+    },
+    {
       "id": "18cfe5bb",
       "filename": "pixiv_147263099_p0.jpg",
       "path": "uploads/2026/07/e8453ae8.jpg",
