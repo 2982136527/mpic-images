@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "e4d71897",
+      "filename": "pixiv_147284757_p0.jpg",
+      "path": "uploads/2026/07/6dc4b3b0.jpg",
+      "size": 595194,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "5991aabbf2c96ed9288d0aac5a02061a3ef46a2196d911f193f60e208c95abe8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:11:59.080Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "コルフェン&フローレンス",
+      "tags": [
+        "ドールズフロントライン",
+        "ドルフロ",
+        "ドールズフロントライン2"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147284757_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147284757",
+      "sourceCreatedAt": "2026-07-16T17:52:41.000Z"
+    },
+    {
       "id": "a9ffd16f",
       "filename": "pixiv_147307108_p0.jpg",
       "path": "uploads/2026/07/e7a13106.jpg",
