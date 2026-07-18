@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "e249aefe",
+      "filename": "pixiv_147285472_p0.jpg",
+      "path": "uploads/2026/07/a05b6cd4.jpg",
+      "size": 1196810,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "3543725adee4e2bc180d1927df30b87dd704e9f62bf9e63c58c701b1de84b542",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:07:32.636Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "エンバー & ラストライト",
+      "tags": [
+        "エンバー",
+        "ラストライト",
+        "アークナイツエンドフィールド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147285472_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147285472",
+      "sourceCreatedAt": "2026-07-16T18:43:00.000Z"
+    },
+    {
       "id": "b60d2022",
       "filename": "pixiv_147302192_p0.jpg",
       "path": "uploads/2026/07/296319ba.jpg",
