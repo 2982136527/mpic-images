@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "ff63ab2c",
+      "filename": "pixiv_147200766_p0.jpg",
+      "path": "uploads/2026/07/752d680c.jpg",
+      "size": 617537,
+      "width": 986,
+      "height": 1110,
+      "mimeType": "image/jpeg",
+      "hash": "d18c687aea7b4c0bcffcd55b7310733a168d3abde995d66f4e390a6bc83183dc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T03:20:01.268Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "銀土log",
+      "tags": [
+        "銀土",
+        "腐向け",
+        "腐魂1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147200766_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147200766",
+      "sourceCreatedAt": "2026-07-14T12:09:55.000Z"
+    },
+    {
       "id": "c61a174d",
       "filename": "pixiv_147232914_p0.jpg",
       "path": "uploads/2026/07/603aefeb.jpg",
