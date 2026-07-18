@@ -3,6 +3,35 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "4eea9c2b",
+      "filename": "pixiv_147272496_p0.jpg",
+      "path": "uploads/2026/07/25268bc9.jpg",
+      "size": 760989,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bb425844c6876fff6a30b7f95203191a5b82ae6c3f5bb86ada4706f597d2128b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T03:20:24.337Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "アイドルマリー",
+      "tags": [
+        "伊落マリー(アイドル)",
+        "伊落マリー",
+        "BlueArchive",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "女の子",
+        "マリー",
+        "アイドル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147272496_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147272496",
+      "sourceCreatedAt": "2026-07-16T12:20:34.000Z"
+    },
+    {
       "id": "7b0269f7",
       "filename": "pixiv_147275193_p0.jpg",
       "path": "uploads/2026/07/5deeddee.jpg",
