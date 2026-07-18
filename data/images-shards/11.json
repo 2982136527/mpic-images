@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "9a2764e6",
+      "filename": "pixiv_147273550_p0.jpg",
+      "path": "uploads/2026/07/96a5b9a8.jpg",
+      "size": 1596650,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "9cf12124b96a2e2a5313e91414012114a03b7ee398deccffb33e2154e69c3186",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:47:36.467Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ヴェリナ・エガード",
+      "tags": [
+        "ヴェリナ・エガード",
+        "ゼンゼロ",
+        "ゼンレスゾーンゼロ",
+        "维琳娜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147273550_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147273550",
+      "sourceCreatedAt": "2026-07-16T12:45:00.000Z"
+    },
+    {
       "id": "a42de927",
       "filename": "pixiv_147273781_p0.jpg",
       "path": "uploads/2026/07/5d1ce7a5.jpg",
