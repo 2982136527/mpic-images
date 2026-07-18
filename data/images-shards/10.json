@@ -3,6 +3,28 @@
   "shardId": "10",
   "images": [
     {
+      "id": "1bf30d1a",
+      "filename": "pixiv_147281333_p0.jpg",
+      "path": "uploads/2026/07/ca1493bc.jpg",
+      "size": 828039,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "11e90fbd85427e177abe9410a72cb69aa510ccb139931ca5fdf583ae1da2b7f5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:41:41.071Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "わちゃわちゃ",
+      "tags": [
+        "獣人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147281333_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147281333",
+      "sourceCreatedAt": "2026-07-16T15:35:53.000Z"
+    },
+    {
       "id": "0a013be6",
       "filename": "pixiv_147226289_p0.jpg",
       "path": "uploads/2026/07/38f084dc.jpg",
