@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "edc130cd",
+      "filename": "pixiv_147290723_p0.jpg",
+      "path": "uploads/2026/07/34379bf5.jpg",
+      "size": 770356,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f79e3ffa4bd56c388a3c95fe37e7669f189a4b9b0a73720ce208184704e08f31",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:43:36.090Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "DAY86",
+      "tags": [
+        "HonkaiImpact3rd",
+        "Seele",
+        "崩坏3",
+        "希儿"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147290723_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147290723",
+      "sourceCreatedAt": "2026-07-17T00:23:00.000Z"
+    },
+    {
       "id": "e94c748e",
       "filename": "pixiv_147261210_p0.jpg",
       "path": "uploads/2026/07/a7241fce.jpg",
