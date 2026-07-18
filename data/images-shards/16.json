@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "b60d2022",
+      "filename": "pixiv_147302192_p0.jpg",
+      "path": "uploads/2026/07/296319ba.jpg",
+      "size": 1525155,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3ac1fa9b6308bfd8b6e0cf412b40f71b62ef4539cff7e3564f282c2e7b6d172d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:43:44.226Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "翡翠",
+      "tags": [
+        "コピック",
+        "オリジナル",
+        "女の子",
+        "アナログ",
+        "銀髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147302192_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147302192",
+      "sourceCreatedAt": "2026-07-17T09:27:20.000Z"
+    },
+    {
       "id": "0b9b544a",
       "filename": "pixiv_147285836_p0.jpg",
       "path": "uploads/2026/07/ee4b53f0.jpg",
