@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "28f2c1d7",
+      "filename": "pixiv_147266605_p0.jpg",
+      "path": "uploads/2026/07/185d28f5.jpg",
+      "size": 506092,
+      "width": 1185,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "63c99bb66950cd3252480f2f6b58fe4fefa2bcc8fb834b488dd64674a4b8554e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:42:56.182Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "一次創作百合log 10",
+      "tags": [
+        "オリジナル",
+        "一次創作",
+        "創作百合",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147266605_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147266605",
+      "sourceCreatedAt": "2026-07-16T09:46:47.000Z"
+    },
+    {
       "id": "fa303a55",
       "filename": "pixiv_147266057_p0.jpg",
       "path": "uploads/2026/07/966f2026.jpg",
