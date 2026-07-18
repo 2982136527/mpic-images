@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "a9ffd16f",
+      "filename": "pixiv_147307108_p0.jpg",
+      "path": "uploads/2026/07/e7a13106.jpg",
+      "size": 1090061,
+      "width": 1200,
+      "height": 953,
+      "mimeType": "image/jpeg",
+      "hash": "230b3a66421635ccfbd5edee1deb52b24ad20ec1bdb3e163961c95878b4007f6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:09:05.271Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夕阳",
+      "tags": [
+        "物語シリーズ",
+        "化物语",
+        "战场原黑仪",
+        "戦場ヶ原ひたぎ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147307108_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147307108",
+      "sourceCreatedAt": "2026-07-17T11:29:22.000Z"
+    },
+    {
       "id": "fc709251",
       "filename": "pixiv_147283586_p0.jpg",
       "path": "uploads/2026/07/acf54d96.jpg",
