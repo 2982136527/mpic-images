@@ -3,6 +3,32 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "b56f09b0",
+      "filename": "pixiv_147227358_p0.jpg",
+      "path": "uploads/2026/07/1abcdaa2.jpg",
+      "size": 462356,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "439da1f699303ecad14b7274526293c65813d8682a78d04c803813a9b5b8f96f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T03:15:13.191Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "31",
+      "tags": [
+        "拟人",
+        "女の子",
+        "立ち絵",
+        "人設",
+        "制服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147227358_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147227358",
+      "sourceCreatedAt": "2026-07-15T07:22:37.000Z"
+    },
+    {
       "id": "a80bad8d",
       "filename": "pixiv_147260930_p0.jpg",
       "path": "uploads/2026/07/8958d21d.jpg",
