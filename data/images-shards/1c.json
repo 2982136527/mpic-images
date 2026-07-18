@@ -3,6 +3,37 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "67fd4048",
+      "filename": "pixiv_147309067_p0.jpg",
+      "path": "uploads/2026/07/aef5c14b.jpg",
+      "size": 816355,
+      "width": 880,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09b7af6ece47d9d33c8babc40172ab578a149457498a628246695818336852a9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:04:40.840Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ブイズモチーフの装飾品（ポケモン）",
+      "tags": [
+        "装飾品",
+        "ブイズ",
+        "ブースター",
+        "シャワーズ",
+        "ニンフィア",
+        "サンダース",
+        "ブラッキー",
+        "エーフィ",
+        "グレイシア",
+        "リーフィア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147309067_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147309067",
+      "sourceCreatedAt": "2026-07-17T14:28:51.000Z"
+    },
+    {
       "id": "a226437b",
       "filename": "pixiv_147291509_p0.jpg",
       "path": "uploads/2026/07/de824b10.jpg",
