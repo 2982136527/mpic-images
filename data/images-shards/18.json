@@ -3,6 +3,33 @@
   "shardId": "18",
   "images": [
     {
+      "id": "629e3036",
+      "filename": "pixiv_147272442_p0.jpg",
+      "path": "uploads/2026/07/2c1b7075.jpg",
+      "size": 635878,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b06436c7b9ef822778218fb866c7fbcb32f760b8a490587f9a3cacad40f6d437",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T03:20:36.300Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "オトギ",
+      "tags": [
+        "天神山オトギ",
+        "オトギ",
+        "オトギ(ブルーアーカイブ)",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147272442_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147272442",
+      "sourceCreatedAt": "2026-07-16T12:19:22.000Z"
+    },
+    {
       "id": "f560aa44",
       "filename": "pixiv_146190584_p0.jpg",
       "path": "uploads/2026/07/2a8451f1.jpg",
