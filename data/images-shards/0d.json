@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "4c5c916a",
+      "filename": "pixiv_147306843_p0.jpg",
+      "path": "uploads/2026/07/4145a2c8.jpg",
+      "size": 2056831,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0d6c97a71f98fde8ccf102a588f482f3163c10616e6799465b78a380ec0f063c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:43:51.206Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "金魚",
+      "tags": [
+        "金魚",
+        "創作",
+        "オリジナル",
+        "創作男子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147306843_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147306843",
+      "sourceCreatedAt": "2026-07-17T11:23:10.000Z"
+    },
+    {
       "id": "176b3a1f",
       "filename": "pixiv_147272175_p0.jpg",
       "path": "uploads/2026/07/6422f587.jpg",
