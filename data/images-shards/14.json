@@ -3,6 +3,33 @@
   "shardId": "14",
   "images": [
     {
+      "id": "fbe7d9e2",
+      "filename": "pixiv_147248253_p0.jpg",
+      "path": "uploads/2026/07/6a03ea02.jpg",
+      "size": 1234473,
+      "width": 693,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "72805a1ff4b306b52d43945a447cbc8074a6356bb948fffedc90e79981091901",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:06:14.657Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Himeko Nova",
+      "tags": [
+        "HonkaiStarRail",
+        "HimekoNova",
+        "Himeko",
+        "Fanart",
+        "Valkyrie",
+        "姫子・旅立ち"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147248253_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147248253",
+      "sourceCreatedAt": "2026-07-15T16:46:00.000Z"
+    },
+    {
       "id": "93c17a57",
       "filename": "pixiv_146212144_p0.jpg",
       "path": "uploads/2026/07/19f3409b.jpg",
