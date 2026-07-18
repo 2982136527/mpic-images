@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "1f05e3f5",
+      "filename": "pixiv_147313312_p0.jpg",
+      "path": "uploads/2026/07/a1b71da2.jpg",
+      "size": 1048194,
+      "width": 970,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8d6acc07c05d5e4975bfa409d25ce673116df293b058d269bcef9a9ec51eade7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:48:30.924Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ちょかぐまとめ３",
+      "tags": [
+        "いろかぐ",
+        "いろヤチ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147313312_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147313312",
+      "sourceCreatedAt": "2026-07-17T13:42:51.000Z"
+    },
+    {
       "id": "4e86dc01",
       "filename": "pixiv_147303552_p0.jpg",
       "path": "uploads/2026/07/dbc65de6.jpg",
