@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "b61d399d",
+      "filename": "pixiv_146191524_p0.jpg",
+      "path": "uploads/2026/07/acc084b0.jpg",
+      "size": 784698,
+      "width": 735,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f5e018c91cf0c6710c917245b741b1185ab57dea5d436e7b63a675d846d2fb00",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T03:19:28.648Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "miku",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ツインテール",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146191524_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146191524",
+      "sourceCreatedAt": "2026-06-19T09:00:08.000Z"
+    },
+    {
       "id": "5fee2ef8",
       "filename": "pixiv_147255922_p0.jpg",
       "path": "uploads/2026/07/f551d542.jpg",
