@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "dcec5198",
+      "filename": "pixiv_147282011_p0.jpg",
+      "path": "uploads/2026/07/0871c5ec.jpg",
+      "size": 1350460,
+      "width": 736,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "20a55535d49957cb45e87c9dd2dcb8f29a9ca6ed268eee7516365e3b86be8770",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:08:33.982Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🌸",
+      "tags": [
+        "サクラチトセオー(ウマ娘)",
+        "ウマ娘プリティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147282011_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147282011",
+      "sourceCreatedAt": "2026-07-16T15:57:29.000Z"
+    },
+    {
       "id": "2c06b0d6",
       "filename": "pixiv_147262965_p0.jpg",
       "path": "uploads/2026/07/7f58cf67.jpg",
