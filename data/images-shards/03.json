@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "a5f14625",
+      "filename": "pixiv_147276681_p0.jpg",
+      "path": "uploads/2026/07/946fd84e.jpg",
+      "size": 854259,
+      "width": 1200,
+      "height": 740,
+      "mimeType": "image/jpeg",
+      "hash": "2f4a3bcdcc48fb6b7b78469ac38e93c437a4481241bb74b4d7de892c16ea8d50",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:45:06.638Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "あさひ",
+      "tags": [
+        "BanG_Dream!",
+        "Ave_Mujica",
+        "若葉睦",
+        "豊川祥子",
+        "むつさき"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147276681_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147276681",
+      "sourceCreatedAt": "2026-07-16T13:57:19.000Z"
+    },
+    {
       "id": "c5569970",
       "filename": "pixiv_147250929_p0.jpg",
       "path": "uploads/2026/07/9e133b19.jpg",
