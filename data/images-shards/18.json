@@ -3,6 +3,28 @@
   "shardId": "18",
   "images": [
     {
+      "id": "7fb6f0b8",
+      "filename": "pixiv_147295675_p0.jpg",
+      "path": "uploads/2026/07/8e4c98e4.jpg",
+      "size": 1005375,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f2ae5f41ad247a9a48176d6017f0b631f9d778454714a51bcf57321b0e059cc1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:46:43.641Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ペコギャル",
+      "tags": [
+        "ペコギャル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147295675_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147295675",
+      "sourceCreatedAt": "2026-07-17T04:52:15.000Z"
+    },
+    {
       "id": "026c3a01",
       "filename": "pixiv_147300196_p0.jpg",
       "path": "uploads/2026/07/83387fc0.jpg",
