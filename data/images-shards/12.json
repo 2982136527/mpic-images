@@ -3,6 +3,33 @@
   "shardId": "12",
   "images": [
     {
+      "id": "e94c748e",
+      "filename": "pixiv_147261210_p0.jpg",
+      "path": "uploads/2026/07/a7241fce.jpg",
+      "size": 778896,
+      "width": 1060,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6d10cabc31616291de78e1ff5aaa79dbf99ff4cb151de84dc18ca665db52a801",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T03:20:46.154Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "藤丸立香",
+        "獸耳",
+        "JeannedArcAlterAlter",
+        "ジャンヌ・オルタ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147261210_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147261210",
+      "sourceCreatedAt": "2026-07-16T05:57:05.000Z"
+    },
+    {
       "id": "b3c1dc84",
       "filename": "pixiv_147257711_p0.jpg",
       "path": "uploads/2026/07/e74d7259.jpg",
