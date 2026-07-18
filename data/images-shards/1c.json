@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "b51e19dc",
+      "filename": "pixiv_147222554_p0.jpg",
+      "path": "uploads/2026/07/9199abb7.jpg",
+      "size": 673225,
+      "width": 967,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1cdcbe78495987af15574af48c31f3d285218e35b0873336e3cfc0da987aa3d9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T03:16:30.702Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "약지 로쟈",
+      "tags": [
+        "LimbusCompany",
+        "Limbus_Company",
+        "ロージャ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147222554_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147222554",
+      "sourceCreatedAt": "2026-07-15T03:15:26.000Z"
+    },
+    {
       "id": "192366fb",
       "filename": "pixiv_146240264_p0.jpg",
       "path": "uploads/2026/07/56adde50.jpg",
