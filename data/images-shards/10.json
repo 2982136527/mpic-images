@@ -3,6 +3,28 @@
   "shardId": "10",
   "images": [
     {
+      "id": "5bb4ce82",
+      "filename": "pixiv_147260545_p0.jpg",
+      "path": "uploads/2026/07/67879923.jpg",
+      "size": 731861,
+      "width": 900,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "17cec2ed1222f4a2bd0cc4545791203c8902daae92291c7449cb715cedc9e4ef",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T03:17:44.662Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "2025年　創作イラストまとめ",
+      "tags": [
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147260545_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147260545",
+      "sourceCreatedAt": "2026-07-16T05:17:17.000Z"
+    },
+    {
       "id": "1521c662",
       "filename": "pixiv_147251921_p0.jpg",
       "path": "uploads/2026/07/f42633fa.jpg",
