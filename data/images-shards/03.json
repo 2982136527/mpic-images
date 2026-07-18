@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "c0304124",
+      "filename": "pixiv_147280028_p0.jpg",
+      "path": "uploads/2026/07/8d4c8bfa.jpg",
+      "size": 1592341,
+      "width": 1104,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b7de3b1e7d3950c1ab02c29ea463d62626c3617d614a218defb2b12d8340c49f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:09:12.993Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "6周年",
+      "tags": [
+        "擬人化",
+        "ペーパーマリオオリガミキング"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147280028_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147280028",
+      "sourceCreatedAt": "2026-07-16T15:04:13.000Z"
+    },
+    {
       "id": "b28d1157",
       "filename": "pixiv_147289044_p0.jpg",
       "path": "uploads/2026/07/e6bdbd46.jpg",
