@@ -3,6 +3,28 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "84c13995",
+      "filename": "pixiv_147266802_p0.jpg",
+      "path": "uploads/2026/07/565629e3.jpg",
+      "size": 758964,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9521c6f3d0413029b675a7034956751eb50b50ec6bbeea702448e5b055b40158",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:46:09.517Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "大就是好，好就是大",
+      "tags": [
+        "女孩子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147266802_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147266802",
+      "sourceCreatedAt": "2026-07-16T09:54:10.000Z"
+    },
+    {
       "id": "c4f35e05",
       "filename": "pixiv_147274436_p0.jpg",
       "path": "uploads/2026/07/ce857480.jpg",
