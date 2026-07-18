@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "7ed720f9",
+      "filename": "pixiv_147259101_p0.jpg",
+      "path": "uploads/2026/07/2b93b50b.jpg",
+      "size": 915477,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5450db0329607b5919fedd6aa5cf28177e25a426022e031a42ebf551007a4a10",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:43:29.015Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Day90 Perlica",
+      "tags": [
+        "100日チャレンジ",
+        "明日方舟终末地",
+        "ペリカ(エンドフィールド)",
+        "アークナイツ:エンドフィールド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147259101_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147259101",
+      "sourceCreatedAt": "2026-07-16T03:57:04.000Z"
+    },
+    {
       "id": "53bca520",
       "filename": "pixiv_147248094_p0.jpg",
       "path": "uploads/2026/07/89cabd66.jpg",
