@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "bfd240c4",
+      "filename": "pixiv_147298968_p0.jpg",
+      "path": "uploads/2026/07/aafb0df2.jpg",
+      "size": 1130824,
+      "width": 1123,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "502ed3449fde6e3b84b8b56f35a2cc86c32ded7d4a5db7c10b8706c5623ec1d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:44:27.339Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Yangyang",
+      "tags": [
+        "鳴潮",
+        "秧秧"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147298968_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147298968",
+      "sourceCreatedAt": "2026-07-17T07:35:18.000Z"
+    },
+    {
       "id": "289dd980",
       "filename": "pixiv_147279574_p0.jpg",
       "path": "uploads/2026/07/e8382e1b.jpg",
