@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "78858c37",
+      "filename": "pixiv_147238322_p0.jpg",
+      "path": "uploads/2026/07/ebd82535.jpg",
+      "size": 982815,
+      "width": 1200,
+      "height": 907,
+      "mimeType": "image/jpeg",
+      "hash": "6294afa797a0310ad11cf70687ea2512b310b205222721312c6bd89aa265b672",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T03:15:21.147Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "돈베카",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "donquixote"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147238322_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147238322",
+      "sourceCreatedAt": "2026-07-15T12:40:53.000Z"
+    },
+    {
       "id": "e3ed8cb9",
       "filename": "pixiv_147231231_p0.jpg",
       "path": "uploads/2026/07/7e42a16d.jpg",
