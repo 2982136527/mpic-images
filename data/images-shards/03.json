@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "075b7219",
+      "filename": "pixiv_147284010_p0.jpg",
+      "path": "uploads/2026/07/da4c75c9.jpg",
+      "size": 937910,
+      "width": 682,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "566eb1a8d8d169c322d9c668d71a91848d54973cedb56fdc2dbf7cd1f545e674",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:06:57.686Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Day72 秧秧玄翎",
+      "tags": [
+        "WutheringWaves",
+        "YangyangXuanling",
+        "秧秧玄翎",
+        "鳴潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147284010_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147284010",
+      "sourceCreatedAt": "2026-07-16T17:08:26.000Z"
+    },
+    {
       "id": "a5f14625",
       "filename": "pixiv_147276681_p0.jpg",
       "path": "uploads/2026/07/946fd84e.jpg",
