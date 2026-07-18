@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "8df8d567",
+      "filename": "pixiv_147284208_p0.jpg",
+      "path": "uploads/2026/07/de5c5520.jpg",
+      "size": 865171,
+      "width": 762,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c1d3a87f0a2f6a2c7237ceec2fdf1404951289317a8634c57bcb6009899294c4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:05:05.047Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "new skin",
+      "tags": [
+        "アークナイツ",
+        "エクシア(アークナイツ)",
+        "アークナイツ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147284208_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147284208",
+      "sourceCreatedAt": "2026-07-16T17:19:31.000Z"
+    },
+    {
       "id": "e53bd341",
       "filename": "pixiv_147275372_p0.jpg",
       "path": "uploads/2026/07/8c80d899.jpg",
