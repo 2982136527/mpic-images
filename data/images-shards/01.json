@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "6b88a79e",
+      "filename": "pixiv_147282110_p0.jpg",
+      "path": "uploads/2026/07/8f0e474b.jpg",
+      "size": 798590,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "35c4451e674b38d5da4ed0e9c85e5de51d4603f73f4b27d8a3ea15dce5548e30",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:44:41.853Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Kagamine Rin ~₊˚⊹",
+      "tags": [
+        "鏡音リン",
+        "ボーカロイド",
+        "VOCALOID",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147282110_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147282110",
+      "sourceCreatedAt": "2026-07-16T16:00:02.000Z"
+    },
+    {
       "id": "3cdd9a23",
       "filename": "pixiv_147229280_p0.jpg",
       "path": "uploads/2026/07/61e36840.jpg",
