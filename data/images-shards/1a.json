@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "d1ae0c2c",
+      "filename": "pixiv_147268594_p0.jpg",
+      "path": "uploads/2026/07/f8a1d2e7.jpg",
+      "size": 420475,
+      "width": 910,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0fcf3db54399817629036d811dd8b3087abd6a5a6915da80be30f77be115a1c8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:08:28.720Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Fen",
+      "tags": [
+        "アストラルパーティー",
+        "ヒメ",
+        "枫"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147268594_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147268594",
+      "sourceCreatedAt": "2026-07-16T10:45:28.000Z"
+    },
+    {
       "id": "1368423f",
       "filename": "pixiv_147250717_p0.jpg",
       "path": "uploads/2026/07/cf517742.jpg",
