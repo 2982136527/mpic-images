@@ -3,6 +3,34 @@
   "shardId": "19",
   "images": [
     {
+      "id": "9bdbf39d",
+      "filename": "pixiv_147279828_p0.jpg",
+      "path": "uploads/2026/07/66e9813c.jpg",
+      "size": 605083,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "658a51319bd3fcbd34bf7f281ccf2df4ca89d2e06019837d86fe04b4a7c718d5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:04:53.273Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ポケモンのイラスト漫画まとめ",
+      "tags": [
+        "ポケモン",
+        "ピカチュウ",
+        "ブイズ",
+        "イーブイ",
+        "ライチュウ",
+        "ピチュー",
+        "ポムケン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147279828_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147279828",
+      "sourceCreatedAt": "2026-07-16T15:02:03.000Z"
+    },
+    {
       "id": "ca76462b",
       "filename": "pixiv_146245066_p0.jpg",
       "path": "uploads/2026/07/ca62e27f.jpg",
