@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "750adee7",
+      "filename": "pixiv_147244370_p0.jpg",
+      "path": "uploads/2026/07/ff9369fc.jpg",
+      "size": 1123157,
+      "width": 627,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c46f2a5afd3aa371e366fb4aae140b04bc6d9133a18555c79fdeb06d26813e73",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:41:55.228Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "the Year of the Ox",
+      "tags": [
+        "女の子",
+        "裏干支"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147244370_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147244370",
+      "sourceCreatedAt": "2026-07-15T15:00:15.000Z"
+    },
+    {
       "id": "52c1f9d5",
       "filename": "pixiv_147261702_p0.jpg",
       "path": "uploads/2026/07/e4634d6c.jpg",
