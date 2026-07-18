@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "18fb9239",
+      "filename": "pixiv_147308897_p0.jpg",
+      "path": "uploads/2026/07/36abf63f.jpg",
+      "size": 1123196,
+      "width": 938,
+      "height": 937,
+      "mimeType": "image/jpeg",
+      "hash": "6bcc8a65034fe648eadcbd622ba6399aad067eb47f2cac0cc2e98609482b271a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:47:07.655Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "幽香",
+      "tags": [
+        "風見幽香",
+        "東方",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147308897_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147308897",
+      "sourceCreatedAt": "2026-07-17T12:06:28.000Z"
+    },
+    {
       "id": "c26b68ae",
       "filename": "pixiv_147232767_p0.jpg",
       "path": "uploads/2026/07/d6825f56.jpg",
