@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "2995596a",
+      "filename": "pixiv_147275977_p0.jpg",
+      "path": "uploads/2026/07/f2893663.jpg",
+      "size": 693781,
+      "width": 907,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4332c7d81b7569683978905613c713f75055a5d4d91827f4b5d63315e8fb3953",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:11:48.357Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "메이플 메이린",
+      "tags": [
+        "MapleStory",
+        "메이플스토리",
+        "메이플"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147275977_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147275977",
+      "sourceCreatedAt": "2026-07-16T13:39:38.000Z"
+    },
+    {
       "id": "4eea9c2b",
       "filename": "pixiv_147272496_p0.jpg",
       "path": "uploads/2026/07/25268bc9.jpg",
