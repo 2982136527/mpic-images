@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "a30d0efa",
+      "filename": "pixiv_147239845_p0.jpg",
+      "path": "uploads/2026/07/07e13576.jpg",
+      "size": 932239,
+      "width": 726,
+      "height": 1077,
+      "mimeType": "image/jpeg",
+      "hash": "cdadb10c6ff498aca2fbade7613b5607db4fccdbf4a077d78a7aa9f148ec03c1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T03:14:20.484Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "クラブの5",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "トランプ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147239845_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147239845",
+      "sourceCreatedAt": "2026-07-15T13:13:35.000Z"
+    },
+    {
       "id": "0003f436",
       "filename": "pixiv_146208212_p0.jpg",
       "path": "uploads/2026/07/48d6a89c.jpg",
