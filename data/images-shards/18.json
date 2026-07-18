@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "f8514aa5",
+      "filename": "pixiv_147265142_p0.jpg",
+      "path": "uploads/2026/07/5b7043b8.jpg",
+      "size": 697589,
+      "width": 693,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1795ed1385e3afe010532e7565e9c9ce176197244f7d8556985c7f4c74011619",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:06:47.169Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "浜辺",
+      "tags": [
+        "水着",
+        "女の子",
+        "赤水着",
+        "浜辺"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147265142_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147265142",
+      "sourceCreatedAt": "2026-07-16T09:00:13.000Z"
+    },
+    {
       "id": "7fb6f0b8",
       "filename": "pixiv_147295675_p0.jpg",
       "path": "uploads/2026/07/8e4c98e4.jpg",
