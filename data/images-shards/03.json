@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "ceb47c66",
+      "filename": "pixiv_147303336_p0.jpg",
+      "path": "uploads/2026/07/45732ec5.jpg",
+      "size": 840560,
+      "width": 674,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "886038d16554f150536b2d75c293a67b56c95af6c25b8e3232b23eff03b68919",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T17:09:34.776Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "レクイエム",
+      "tags": [
+        "女の子",
+        "レクイエム(NTE)",
+        "雨",
+        "傘",
+        "NTE"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147303336_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147303336",
+      "sourceCreatedAt": "2026-07-17T10:00:15.000Z"
+    },
+    {
       "id": "c0304124",
       "filename": "pixiv_147280028_p0.jpg",
       "path": "uploads/2026/07/8d4c8bfa.jpg",
