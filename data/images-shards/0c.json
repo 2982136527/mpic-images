@@ -3,6 +3,28 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "4b898bd1",
+      "filename": "pixiv_147281028_p0.jpg",
+      "path": "uploads/2026/07/9f025d0c.jpg",
+      "size": 788120,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bd891e2763355864fbee8d656a4d008df7a5b5c1f40d4c5efade069f61a0989e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T09:41:15.997Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "助けてもらったニキ",
+      "tags": [
+        "人外"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147281028_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147281028",
+      "sourceCreatedAt": "2026-07-16T15:27:53.000Z"
+    },
+    {
       "id": "de4b0d08",
       "filename": "pixiv_147232666_p0.jpg",
       "path": "uploads/2026/07/56dcf48b.jpg",
