@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "fd8d412b",
+      "filename": "pixiv_147263584_p0.jpg",
+      "path": "uploads/2026/07/998c7661.jpg",
+      "size": 1126777,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "12c1259a0a63c6aa1edc1801219572ba93be918d2482f235d51b07597eeae3fa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-18T03:14:25.320Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "エンドフィールド半周年",
+      "tags": [
+        "エンドフィールド",
+        "エンドフィールドハーフアニバ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147263584_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147263584",
+      "sourceCreatedAt": "2026-07-16T08:00:05.000Z"
+    },
+    {
       "id": "5ee15464",
       "filename": "pixiv_147266241_p0.jpg",
       "path": "uploads/2026/07/0279e9fc.jpg",
