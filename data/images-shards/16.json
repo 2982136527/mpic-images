@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "ed00119a",
+      "filename": "pixiv_147168620_p0.jpg",
+      "path": "uploads/2026/07/8459b8c6.jpg",
+      "size": 1273234,
+      "width": 754,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "725408e5ae9a45803816e8bdc57716f4255a8d145e4db5596f82c7c1841cfab9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T17:11:57.575Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "リクエスト",
+      "tags": [
+        "原神",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147168620_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147168620",
+      "sourceCreatedAt": "2026-07-13T13:28:11.000Z"
+    },
+    {
       "id": "aa83f3ae",
       "filename": "pixiv_147311128_p0.jpg",
       "path": "uploads/2026/07/84da6002.jpg",
