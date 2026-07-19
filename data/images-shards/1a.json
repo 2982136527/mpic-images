@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "4e89a275",
+      "filename": "pixiv_147322694_p0.jpg",
+      "path": "uploads/2026/07/34d23ac7.jpg",
+      "size": 1077687,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8b3cf01b011815c1b71350c1489d87bc94c9872c91a379f9f4bfadb398573ef1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T03:40:33.557Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "令新コーデボイス",
+      "tags": [
+        "リィン(アークナイツ)",
+        "アークナイツ",
+        "明日方舟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147322694_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147322694",
+      "sourceCreatedAt": "2026-07-17T18:27:32.000Z"
+    },
+    {
       "id": "baedaf71",
       "filename": "pixiv_147346178_p0.jpg",
       "path": "uploads/2026/07/4741ac6e.jpg",
