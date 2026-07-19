@@ -3,6 +3,28 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "bfa54d4a",
+      "filename": "pixiv_147280306_p0.jpg",
+      "path": "uploads/2026/07/ee6f1fa8.jpg",
+      "size": 716660,
+      "width": 1080,
+      "height": 1158,
+      "mimeType": "image/jpeg",
+      "hash": "e4c9221cd9c599594901e942fdd8e4a5db20fc02520af00a6d1f6628c7e6032d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T03:34:11.604Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ヴラド・グリムズ・ダンス",
+      "tags": [
+        "ノスフェラトゥさん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147280306_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147280306",
+      "sourceCreatedAt": "2026-07-18T20:01:46.000Z"
+    },
+    {
       "id": "cd246248",
       "filename": "pixiv_147101707_p0.jpg",
       "path": "uploads/2026/07/ea9b597f.jpg",
