@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "cde53317",
+      "filename": "pixiv_147322765_p0.jpg",
+      "path": "uploads/2026/07/24ea836e.jpg",
+      "size": 336961,
+      "width": 774,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2e2a676cfb36cd66122283f64edd60be6eae0955aa784fb6fca51019552cf77f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T10:03:06.996Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "グ～ちゃんかわいいまとめ",
+      "tags": [
+        "グローグー",
+        "マンダロリアン",
+        "STARWARS100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147322765_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147322765",
+      "sourceCreatedAt": "2026-07-17T18:33:00.000Z"
+    },
+    {
       "id": "dd956a76",
       "filename": "pixiv_147322543_p0.jpg",
       "path": "uploads/2026/07/a8181527.jpg",
