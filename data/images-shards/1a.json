@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "baedaf71",
+      "filename": "pixiv_147346178_p0.jpg",
+      "path": "uploads/2026/07/4741ac6e.jpg",
+      "size": 871960,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e7c7c7b57efcdb35ee88ed87f77882ad3d542644f0b67c4944ae6dbb5e173418",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T03:40:25.506Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "水着ミヤコ",
+      "tags": [
+        "月雪ミヤコ",
+        "月雪ミヤコ(水着)",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147346178_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147346178",
+      "sourceCreatedAt": "2026-07-18T11:00:08.000Z"
+    },
+    {
       "id": "dedb2422",
       "filename": "pixiv_147270075_p0.jpg",
       "path": "uploads/2026/07/35914272.jpg",
