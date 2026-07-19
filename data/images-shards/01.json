@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "3a7cea78",
+      "filename": "pixiv_147333523_p0.jpg",
+      "path": "uploads/2026/07/681d3bff.jpg",
+      "size": 1637460,
+      "width": 1200,
+      "height": 1164,
+      "mimeType": "image/jpeg",
+      "hash": "800e8c013292bec0381ea3df81c5310f547c27c509b987ce11c7f9f3e2ceb915",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T17:13:36.988Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "行列のできるラーメン",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "ナリタトップロード(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147333523_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147333523",
+      "sourceCreatedAt": "2026-07-18T03:49:04.000Z"
+    },
+    {
       "id": "a9d58a38",
       "filename": "pixiv_147322158_p0.jpg",
       "path": "uploads/2026/07/ef621e8f.jpg",
