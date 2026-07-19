@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "ffc05fb7",
+      "filename": "pixiv_147310152_p0.jpg",
+      "path": "uploads/2026/07/e81c207a.jpg",
+      "size": 1950903,
+      "width": 997,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0282241947163ca629b7d39cc66b48a6ed8a62d062c5981ae005def281a9622f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T09:58:30.777Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "pppp",
+      "tags": [
+        "pppp",
+        "重音テト",
+        "UTAU100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147310152_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147310152",
+      "sourceCreatedAt": "2026-07-17T12:33:53.000Z"
+    },
+    {
       "id": "7797d7e0",
       "filename": "pixiv_147294058_p0.jpg",
       "path": "uploads/2026/07/16396625.jpg",
