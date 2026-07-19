@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "dcb40b08",
+      "filename": "pixiv_147300743_p0.jpg",
+      "path": "uploads/2026/07/e634d9cb.jpg",
+      "size": 600105,
+      "width": 557,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7aed31eeda2f0974a6c8d973f6b5ef030f693feac6e4884a0de2bb51812c9eb4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T09:58:55.551Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "オルガマリーとアズライール",
+      "tags": [
+        "Fate/GrandOrder",
+        "オルガマリー・アニムスフィア",
+        "蒼きアズライール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147300743_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147300743",
+      "sourceCreatedAt": "2026-07-17T08:44:17.000Z"
+    },
+    {
       "id": "cad138e3",
       "filename": "pixiv_147349328_p0.jpg",
       "path": "uploads/2026/07/6423b8c6.jpg",
