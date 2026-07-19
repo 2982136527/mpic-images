@@ -3,6 +3,28 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "841e184a",
+      "filename": "pixiv_147280568_p0.jpg",
+      "path": "uploads/2026/07/5a8b0656.jpg",
+      "size": 645783,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "657edd7b39e7232e69f1bca56d6e16b490babc403e2ab0e30dbf4748d6746b9c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T03:34:36.195Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "穴ニキとマリン君",
+      "tags": [
+        "獣人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147280568_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147280568",
+      "sourceCreatedAt": "2026-07-16T15:15:57.000Z"
+    },
+    {
       "id": "bfa54d4a",
       "filename": "pixiv_147280306_p0.jpg",
       "path": "uploads/2026/07/ee6f1fa8.jpg",
