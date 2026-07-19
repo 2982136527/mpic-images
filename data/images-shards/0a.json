@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "b122166d",
+      "filename": "pixiv_147311470_p0.jpg",
+      "path": "uploads/2026/07/3a32593b.jpg",
+      "size": 1083161,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "795d0774b07a89beb570686cfbf8b329933a6068eb0dd88b4643efb78112290d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T10:03:14.868Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "サンセット",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "風景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147311470_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147311470",
+      "sourceCreatedAt": "2026-07-17T13:01:23.000Z"
+    },
+    {
       "id": "841e184a",
       "filename": "pixiv_147280568_p0.jpg",
       "path": "uploads/2026/07/5a8b0656.jpg",
