@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "a1c55a1f",
+      "filename": "pixiv_147312938_p0.jpg",
+      "path": "uploads/2026/07/13a1ae6a.jpg",
+      "size": 979565,
+      "width": 657,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f6ad338ffe8bce240a8422039dd7a13b7160760b2d52ea519aaf939348bc7ccf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T17:13:19.572Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "nagisa",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "桐藤ナギサ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147312938_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147312938",
+      "sourceCreatedAt": "2026-07-17T13:32:51.000Z"
+    },
+    {
       "id": "b032af66",
       "filename": "pixiv_147319290_p0.jpg",
       "path": "uploads/2026/07/4c55fdf5.jpg",
