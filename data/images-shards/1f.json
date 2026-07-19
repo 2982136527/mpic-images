@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "3efa8955",
+      "filename": "pixiv_147346693_p0.jpg",
+      "path": "uploads/2026/07/1845d995.jpg",
+      "size": 1406696,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "0e274a045b0bc50031810783ecc3152a1fbfa6360183cd4350fdcc546df4ab6a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T10:00:17.417Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "咕咕嘎嘎",
+      "tags": [
+        "ArknightsEndfield",
+        "Endfield"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147346693_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147346693",
+      "sourceCreatedAt": "2026-07-18T11:07:17.000Z"
+    },
+    {
       "id": "bb666291",
       "filename": "pixiv_147295397_p0.jpg",
       "path": "uploads/2026/07/70b4a6dc.jpg",
