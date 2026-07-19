@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "b7b8f844",
+      "filename": "pixiv_147299910_p0.jpg",
+      "path": "uploads/2026/07/b79ecd33.jpg",
+      "size": 781509,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b410dce735444c444f148f3da2e21a067ccf60a7fecfb21cbd10c3ab7dd6336b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T17:13:12.324Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ニコ",
+      "tags": [
+        "ブルーアーカイブ",
+        "吉野ニコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147299910_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147299910",
+      "sourceCreatedAt": "2026-07-17T08:11:18.000Z"
+    },
+    {
       "id": "1244c72a",
       "filename": "pixiv_147335222_p0.jpg",
       "path": "uploads/2026/07/f342231c.jpg",
