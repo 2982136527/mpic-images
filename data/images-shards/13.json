@@ -3,6 +3,33 @@
   "shardId": "13",
   "images": [
     {
+      "id": "2100725d",
+      "filename": "pixiv_147293689_p0.jpg",
+      "path": "uploads/2026/07/680ac950.jpg",
+      "size": 1273790,
+      "width": 721,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "97b91070ec9b70482539d9eea1976db6444408a649aeb00f87d5282fa8a3cbd0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T03:38:42.051Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "イヴォンヌ",
+      "tags": [
+        "少女",
+        "女の子",
+        "明日方舟",
+        "エンドフィールド工業",
+        "イヴォンヌ(エンドフィールド)",
+        "アークナイツ:エンドフィールド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147293689_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147293689",
+      "sourceCreatedAt": "2026-07-17T03:12:01.000Z"
+    },
+    {
       "id": "66570e52",
       "filename": "pixiv_147249426_p0.jpg",
       "path": "uploads/2026/07/26949502.jpg",
