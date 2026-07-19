@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "50d2ec4c",
+      "filename": "pixiv_147340761_p0.jpg",
+      "path": "uploads/2026/07/21618493.jpg",
+      "size": 972505,
+      "width": 1200,
+      "height": 707,
+      "mimeType": "image/jpeg",
+      "hash": "a9b176cdcdcad480462c37f09dce645812e0483289a9ac6bf7c999c300eedba0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T10:01:39.043Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "赤",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "オリキャラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147340761_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147340761",
+      "sourceCreatedAt": "2026-07-18T08:29:49.000Z"
+    },
+    {
       "id": "761e9d26",
       "filename": "pixiv_147333040_p0.jpg",
       "path": "uploads/2026/07/fb1f6464.jpg",
