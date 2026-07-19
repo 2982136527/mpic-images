@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "70ef0ecd",
+      "filename": "pixiv_147327891_p0.jpg",
+      "path": "uploads/2026/07/9814c3af.jpg",
+      "size": 1101576,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0cead8fb99403a901a6499a95f71f9e67516aef029146f9d7df008aa690e7135",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T09:58:43.671Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "個展 『POP QUEST』開催決定！",
+      "tags": [
+        "イラスト",
+        "個展"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147327891_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147327891",
+      "sourceCreatedAt": "2026-07-17T23:50:00.000Z"
+    },
+    {
       "id": "04eab9a0",
       "filename": "pixiv_147282000_p0.jpg",
       "path": "uploads/2026/07/cb3585bc.jpg",
