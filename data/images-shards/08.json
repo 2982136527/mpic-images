@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "05b03a23",
+      "filename": "pixiv_147350155_p0.jpg",
+      "path": "uploads/2026/07/55815dc7.jpg",
+      "size": 732651,
+      "width": 841,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c1915d3eacfc825b24cb439f25a4f9c871551555f0e9797068919a1d8ccffef2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T10:00:49.151Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "25 2B",
+      "tags": [
+        "アズールレーン",
+        "ヨルハ二号B型",
+        "NieR:Automata"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147350155_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147350155",
+      "sourceCreatedAt": "2026-07-18T12:25:58.000Z"
+    },
+    {
       "id": "19532bed",
       "filename": "pixiv_147349290_p0.jpg",
       "path": "uploads/2026/07/6be1e206.jpg",
