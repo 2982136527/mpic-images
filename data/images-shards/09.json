@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "e509268e",
+      "filename": "pixiv_147327424_p0.jpg",
+      "path": "uploads/2026/07/a55ff717.jpg",
+      "size": 673493,
+      "width": 510,
+      "height": 714,
+      "mimeType": "image/jpeg",
+      "hash": "e8e755313a447c7dd3178690fd5012eb4b7c76060cba8af5b6116c54d29eed91",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T17:10:57.858Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "千燈ゆうひ（クロスタTCG）",
+      "tags": [
+        "千燈ゆうひ",
+        "クロスタ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147327424_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147327424",
+      "sourceCreatedAt": "2026-07-17T23:28:37.000Z"
+    },
+    {
       "id": "1c2b193f",
       "filename": "pixiv_147329830_p0.jpg",
       "path": "uploads/2026/07/111a8d4a.jpg",
