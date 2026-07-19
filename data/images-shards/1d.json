@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "1aecea47",
+      "filename": "pixiv_147316937_p0.jpg",
+      "path": "uploads/2026/07/a9197ec1.jpg",
+      "size": 795552,
+      "width": 740,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "49a60c84621e040f6e87532dead8ad6e4034da8ae93c40ff4a25b1700729543c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T10:06:05.260Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ぼっちちゃん🤔",
+      "tags": [
+        "ぼっち・ざ・ろっく!",
+        "後藤ひとり",
+        "伊地知虹夏",
+        "ぼ虹"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147316937_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147316937",
+      "sourceCreatedAt": "2026-07-17T15:01:46.000Z"
+    },
+    {
       "id": "3c993316",
       "filename": "pixiv_147316685_p0.jpg",
       "path": "uploads/2026/07/c814b890.jpg",
