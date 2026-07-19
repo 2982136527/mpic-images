@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "3b5d5ed9",
+      "filename": "pixiv_147245378_p0.jpg",
+      "path": "uploads/2026/07/21e639b2.jpg",
+      "size": 416829,
+      "width": 752,
+      "height": 1062,
+      "mimeType": "image/jpeg",
+      "hash": "afe80c3d472c86b64dea97422f7d84e7d6eb331848a4423732afb98e727eaaaa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T03:37:22.312Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ロリガマリー",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "オルガマリー・アニムスフィア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147245378_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147245378",
+      "sourceCreatedAt": "2026-07-15T15:16:20.000Z"
+    },
+    {
       "id": "e208cd00",
       "filename": "pixiv_147308156_p0.jpg",
       "path": "uploads/2026/07/7c72b734.jpg",
