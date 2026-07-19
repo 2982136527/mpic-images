@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "4d2cc4e5",
+      "filename": "pixiv_147345797_p0.jpg",
+      "path": "uploads/2026/07/1a7aa55b.jpg",
+      "size": 323835,
+      "width": 674,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b53de982b1ce0ff050546b67e688463ab18c234ead236d15f8cad820ea5096db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T03:41:55.953Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "デニスカメガネガール",
+      "tags": [
+        "オリジナル",
+        "girl",
+        "ミニスカート"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147345797_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147345797",
+      "sourceCreatedAt": "2026-07-18T10:50:08.000Z"
+    },
+    {
       "id": "fec7959e",
       "filename": "pixiv_147316666_p0.jpg",
       "path": "uploads/2026/07/8c3539fd.jpg",
