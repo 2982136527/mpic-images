@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "7cac88fe",
+      "filename": "pixiv_147304099_p0.jpg",
+      "path": "uploads/2026/07/248920b4.jpg",
+      "size": 851320,
+      "width": 1050,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ac18a5b31bf3146231522951bcfed77e4ddb3dfc0613bc7b66c21e5e1aa96534",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T17:10:19.282Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "nooooo",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "ミニマリー",
+        "伊落マリー",
+        "猫あるある"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147304099_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147304099",
+      "sourceCreatedAt": "2026-07-17T10:17:39.000Z"
+    },
+    {
       "id": "1aecea47",
       "filename": "pixiv_147316937_p0.jpg",
       "path": "uploads/2026/07/a9197ec1.jpg",
