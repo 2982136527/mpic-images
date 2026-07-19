@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "31463fb8",
+      "filename": "pixiv_147279437_p0.jpg",
+      "path": "uploads/2026/07/c118dfde.jpg",
+      "size": 745766,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9e8b2a6f510c1fe7d8b6fcca9868cc4dd6455245a3602d179356e6796ee05a8a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T03:37:03.432Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "＋",
+      "tags": [
+        "女の子",
+        "銀髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147279437_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147279437",
+      "sourceCreatedAt": "2026-07-16T15:00:05.000Z"
+    },
+    {
       "id": "50ff92e8",
       "filename": "pixiv_147302547_p0.jpg",
       "path": "uploads/2026/07/6ea198a2.jpg",
