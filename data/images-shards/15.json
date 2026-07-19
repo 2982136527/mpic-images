@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "2b248d14",
+      "filename": "pixiv_147330981_p0.jpg",
+      "path": "uploads/2026/07/584887ca.jpg",
+      "size": 458779,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e714c2ad5de830727090233a32b1204ca22f0c0a51cd3d09cc2b7dca9cc05b72",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T10:02:48.395Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "OC立ち絵",
+      "tags": [
+        "OC",
+        "一次創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147330981_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147330981",
+      "sourceCreatedAt": "2026-07-18T02:12:51.000Z"
+    },
+    {
       "id": "d5461d55",
       "filename": "pixiv_147316875_p0.jpg",
       "path": "uploads/2026/07/45d4e9a1.jpg",
