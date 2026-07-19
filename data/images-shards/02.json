@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "2f80508d",
+      "filename": "pixiv_147348031_p0.jpg",
+      "path": "uploads/2026/07/b346cce4.jpg",
+      "size": 1220644,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7a24e15280749197a70a57ce12b196795b122c2560839e456478501253930c1c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T10:02:11.000Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "CM506",
+      "tags": [
+        "足指",
+        "濡れ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147348031_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147348031",
+      "sourceCreatedAt": "2026-07-18T11:40:36.000Z"
+    },
+    {
       "id": "05809d76",
       "filename": "pixiv_147279505_p0.jpg",
       "path": "uploads/2026/07/56c3dee9.jpg",
