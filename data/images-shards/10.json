@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "b4986b8f",
+      "filename": "pixiv_147317030_p0.jpg",
+      "path": "uploads/2026/07/93e7f2f6.jpg",
+      "size": 1854658,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7e4cd27ebccc844b6147f4bc7004d20fc3c8cb10e8307b0399ef62496ce99fb5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T10:03:54.531Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Two Faces of One",
+      "tags": [
+        "和服",
+        "男性",
+        "女形",
+        "日本舞踊",
+        "和風"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147317030_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147317030",
+      "sourceCreatedAt": "2026-07-17T15:02:32.000Z"
+    },
+    {
       "id": "ed2f9b19",
       "filename": "pixiv_147276734_p0.jpg",
       "path": "uploads/2026/07/c9e607c0.jpg",
