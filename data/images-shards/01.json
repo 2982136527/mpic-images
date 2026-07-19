@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "a9d58a38",
+      "filename": "pixiv_147322158_p0.jpg",
+      "path": "uploads/2026/07/ef621e8f.jpg",
+      "size": 798186,
+      "width": 778,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6aa68a3682bb639ef14e3a2bf8cdbcc572f5c3469e6ad6b2bbcd98199fe25d32",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T17:10:04.463Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Z",
+      "tags": [
+        "Limbus_Company",
+        "キラ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147322158_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147322158",
+      "sourceCreatedAt": "2026-07-17T17:55:28.000Z"
+    },
+    {
       "id": "4d8ff942",
       "filename": "pixiv_147333616_p0.jpg",
       "path": "uploads/2026/07/4dff3448.jpg",
