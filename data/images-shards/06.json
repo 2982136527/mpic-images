@@ -3,6 +3,28 @@
   "shardId": "06",
   "images": [
     {
+      "id": "dd956a76",
+      "filename": "pixiv_147322543_p0.jpg",
+      "path": "uploads/2026/07/a8181527.jpg",
+      "size": 1868498,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6cacdca87c2fedffe840ecc9042f3414f1509be7b656616129c6f612ec1c294b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T10:01:27.870Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "スタレまとめ",
+      "tags": [
+        "崩壊スターレイル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147322543_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147322543",
+      "sourceCreatedAt": "2026-07-17T18:18:15.000Z"
+    },
+    {
       "id": "9f0cb268",
       "filename": "pixiv_147336989_p0.jpg",
       "path": "uploads/2026/07/0c3d0072.jpg",
