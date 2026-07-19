@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "b8b6bbe8",
+      "filename": "pixiv_147316593_p0.jpg",
+      "path": "uploads/2026/07/7dc8fe57.jpg",
+      "size": 928241,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4b97c0d229b70e7b882ce84db3671b7fde9f255a46ae68f43574ac3518754382",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T10:04:11.650Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "シトラリ",
+      "tags": [
+        "シトラリ",
+        "原神",
+        "裸足",
+        "星と煙霧の夜話"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147316593_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147316593",
+      "sourceCreatedAt": "2026-07-17T15:00:07.000Z"
+    },
+    {
       "id": "4854e777",
       "filename": "pixiv_147283929_p0.jpg",
       "path": "uploads/2026/07/7fa227ea.jpg",
