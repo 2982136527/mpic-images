@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "a62616c1",
+      "filename": "pixiv_147319202_p0.jpg",
+      "path": "uploads/2026/07/c4285c53.jpg",
+      "size": 728158,
+      "width": 1200,
+      "height": 552,
+      "mimeType": "image/jpeg",
+      "hash": "82297272774f924082149371712c070b55617da54b00f74d16ef1a54c9a97654",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T17:10:35.751Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "7",
+      "tags": [
+        "背景",
+        "オリジナル",
+        "黒スト",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147319202_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147319202",
+      "sourceCreatedAt": "2026-07-17T15:55:13.000Z"
+    },
+    {
       "id": "e156d4cf",
       "filename": "pixiv_147279494_p0.jpg",
       "path": "uploads/2026/07/20440eec.jpg",
