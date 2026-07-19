@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "0251fb63",
+      "filename": "pixiv_147316828_p0.jpg",
+      "path": "uploads/2026/07/2608b40d.jpg",
+      "size": 523189,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f1a09532f86b70e95b469e676484fa7c20b2fcf2bfd835d729a27a125f7b27ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-19T17:13:02.573Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "スパッツフラン",
+      "tags": [
+        "東方Project",
+        "フランドール・スカーレット",
+        "スパッツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147316828_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147316828",
+      "sourceCreatedAt": "2026-07-17T15:00:56.000Z"
+    },
+    {
       "id": "2aee4f0c",
       "filename": "pixiv_147292918_p0.jpg",
       "path": "uploads/2026/07/84e22db6.jpg",
