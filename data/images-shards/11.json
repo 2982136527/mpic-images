@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "057e2232",
+      "filename": "pixiv_147341592_p0.jpg",
+      "path": "uploads/2026/07/bafef058.jpg",
+      "size": 590789,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b20d2e63921f32309eabd14ea024594b2002e33d8880798c912dd1e93df387be",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T11:13:34.423Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "エルフちゃん",
+      "tags": [
+        "エルフ",
+        "水着",
+        "ビキニ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147341592_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147341592",
+      "sourceCreatedAt": "2026-07-18T08:57:52.000Z"
+    },
+    {
       "id": "8257fdb4",
       "filename": "pixiv_147375008_p0.jpg",
       "path": "uploads/2026/07/498fd28b.jpg",
