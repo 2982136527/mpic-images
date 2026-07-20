@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "ab94e9cc",
+      "filename": "pixiv_147367482_p0.jpg",
+      "path": "uploads/2026/07/db95f65a.jpg",
+      "size": 733763,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9d4fb42bc9e601e2cd337813f73bdb018b293447eb60ae1d7c5f194057d6f6a4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T18:14:57.106Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "近年のウルトラマンについて",
+      "tags": [
+        "ウルトラマンブレーザー",
+        "ウルトラマンアーク",
+        "ウルトラマンオメガ",
+        "ウルトラマンテオ",
+        "新世代ヒーローズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147367482_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147367482",
+      "sourceCreatedAt": "2026-07-18T22:32:09.000Z"
+    },
+    {
       "id": "0ef9c77e",
       "filename": "pixiv_147359781_p0.jpg",
       "path": "uploads/2026/07/c28fd425.jpg",
