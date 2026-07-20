@@ -3,6 +3,28 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "37665d1f",
+      "filename": "pixiv_147393531_p0.jpg",
+      "path": "uploads/2026/07/098916c9.jpg",
+      "size": 951094,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "be744fae430b8c5101049423d9d31d049af7b00d3d25e9e0ba40d06db1f6d731",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T18:14:10.467Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ゼンレスゾーンゼロ",
+      "tags": [
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147393531_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147393531",
+      "sourceCreatedAt": "2026-07-19T12:33:28.000Z"
+    },
+    {
       "id": "1af63ddc",
       "filename": "pixiv_147208109_p0.jpg",
       "path": "uploads/2026/07/f3875d04.jpg",
