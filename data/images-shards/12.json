@@ -3,6 +3,37 @@
   "shardId": "12",
   "images": [
     {
+      "id": "11967807",
+      "filename": "pixiv_147376239_p0.jpg",
+      "path": "uploads/2026/07/7e373bc1.jpg",
+      "size": 403782,
+      "width": 600,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "0f5be07bca88cbbd4e89198384937f0b8a84756d90b4115f42802639b62ea38b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T18:11:54.557Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "反省",
+      "tags": [
+        "ポケモン",
+        "カフェライチュウ",
+        "マフォクシー",
+        "ワカシャモ",
+        "やはり偏るアンケート",
+        "門松",
+        "ライチュウも楽しそうですね",
+        "弾力性に定評のあるライチュウ",
+        "トーテムポール",
+        "違うそうじゃない"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147376239_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147376239",
+      "sourceCreatedAt": "2026-07-19T04:26:50.000Z"
+    },
+    {
       "id": "1bd3c509",
       "filename": "pixiv_147357210_p0.jpg",
       "path": "uploads/2026/07/2a87fdf4.jpg",
