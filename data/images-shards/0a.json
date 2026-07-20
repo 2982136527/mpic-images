@@ -3,6 +3,28 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "e1f4e31b",
+      "filename": "pixiv_147345262_p0.jpg",
+      "path": "uploads/2026/07/000f5797.jpg",
+      "size": 1481216,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b3db7623dad5d904e6d5e63d5383171477091deaa8027689f0e1f180ed5c38e8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:56:52.083Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "あくねこまとめ",
+      "tags": [
+        "aknkプラス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147345262_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147345262",
+      "sourceCreatedAt": "2026-07-18T10:33:45.000Z"
+    },
+    {
       "id": "1b63b544",
       "filename": "pixiv_147336036_p0.jpg",
       "path": "uploads/2026/07/9eb86728.jpg",
