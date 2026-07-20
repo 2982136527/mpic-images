@@ -3,6 +3,37 @@
   "shardId": "13",
   "images": [
     {
+      "id": "a933ade1",
+      "filename": "pixiv_147346089_p0.jpg",
+      "path": "uploads/2026/07/6f67f932.jpg",
+      "size": 1649008,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "48f0f6e4f010294d4560fca9fa742f75ca631e974343b38825825963e03882bd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:49:44.458Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "黒い森のアフタヌーンティー at TEAVRIL",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "食べ物",
+        "アフターヌーンティ",
+        "スイーツ",
+        "デジタル",
+        "ゴシック",
+        "アンティーク",
+        "クリスマスケーキ",
+        "クリスマス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147346089_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147346089",
+      "sourceCreatedAt": "2026-07-18T10:58:49.000Z"
+    },
+    {
       "id": "dee00a96",
       "filename": "pixiv_147322310_p0.jpg",
       "path": "uploads/2026/07/0ce47b07.jpg",
