@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "f853b642",
+      "filename": "pixiv_147388628_p0.jpg",
+      "path": "uploads/2026/07/d0791fd4.jpg",
+      "size": 360310,
+      "width": 863,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1d816b63bde1bdf943e16e8673bd43ba8cf137247f085971757ebe4bbb7a5f81",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T18:17:33.969Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ぎゆさね漫画・前編",
+      "tags": [
+        "腐滅の刃",
+        "ぎゆさね"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147388628_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147388628",
+      "sourceCreatedAt": "2026-07-19T10:50:35.000Z"
+    },
+    {
       "id": "42982523",
       "filename": "pixiv_147341321_p0.jpg",
       "path": "uploads/2026/07/e6969cb3.jpg",
