@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "b489fc57",
+      "filename": "pixiv_147380208_p0.jpg",
+      "path": "uploads/2026/07/99ff0d32.jpg",
+      "size": 390434,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "44130e288e136bf435bac28b9856396fc0119e575ad9b2cab374e9a0a098e54d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:51:41.386Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ボーイッシュな中学生",
+      "tags": [
+        "女の子",
+        "ボーイッシュ",
+        "制服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147380208_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147380208",
+      "sourceCreatedAt": "2026-07-19T06:54:36.000Z"
+    },
+    {
       "id": "156751e6",
       "filename": "pixiv_147321270_p0.jpg",
       "path": "uploads/2026/07/9c046d9c.jpg",
