@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "40fde5f9",
+      "filename": "pixiv_147345360_p0.jpg",
+      "path": "uploads/2026/07/9e450066.jpg",
+      "size": 2105565,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6daa5b4e7b1890a3a810067c9f502b8705f04b18984ce1f39debf134897ac1ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T11:10:36.431Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "止まらない",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147345360_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147345360",
+      "sourceCreatedAt": "2026-07-18T10:36:25.000Z"
+    },
+    {
       "id": "30a885eb",
       "filename": "pixiv_147373980_p0.jpg",
       "path": "uploads/2026/07/247c9964.jpg",
