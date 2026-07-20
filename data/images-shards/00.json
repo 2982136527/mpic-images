@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "b822c109",
+      "filename": "pixiv_147369328_p0.jpg",
+      "path": "uploads/2026/07/df4bf202.jpg",
+      "size": 1014521,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cca6b21e9b775723c5d903e5ca687c7118076f6ca6d90966493d6b96fa379bbc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T11:12:22.027Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "『リンバスFA』",
+      "tags": [
+        "LimbusCompany",
+        "グレゴール(LCB)",
+        "マティアス",
+        "レイホン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147369328_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147369328",
+      "sourceCreatedAt": "2026-07-19T00:00:49.000Z"
+    },
+    {
       "id": "425006b6",
       "filename": "pixiv_147329821_p0.jpg",
       "path": "uploads/2026/07/0274525d.jpg",
