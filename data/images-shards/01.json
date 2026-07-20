@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "073cbb9a",
+      "filename": "pixiv_147188411_p0.jpg",
+      "path": "uploads/2026/07/32d13f59.jpg",
+      "size": 795834,
+      "width": 575,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7c341d99dda75e868960b9e45e78271867e1f3aab67f5e4212a7d303419286c8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T11:16:40.858Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": ":D",
+      "tags": [
+        "原神",
+        "少女",
+        "同人",
+        "茜特菈莉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147188411_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147188411",
+      "sourceCreatedAt": "2026-07-14T04:42:08.000Z"
+    },
+    {
       "id": "eec6ea3f",
       "filename": "pixiv_147391102_p0.jpg",
       "path": "uploads/2026/07/67cc9b1d.jpg",
