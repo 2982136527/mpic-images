@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "753703b8",
+      "filename": "pixiv_147356948_p0.jpg",
+      "path": "uploads/2026/07/54dddcd8.jpg",
+      "size": 2036575,
+      "width": 862,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bb0e5becbf74c593cee907b3087234157242fa6b28132f61f61f69c546477ac8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:54:34.239Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ダーニャちゃん",
+      "tags": [
+        "鳴潮",
+        "WutheringWaves",
+        "ダーニャ",
+        "Denia"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147356948_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147356948",
+      "sourceCreatedAt": "2026-07-18T14:56:57.000Z"
+    },
+    {
       "id": "fa7f2ddf",
       "filename": "pixiv_147376879_p0.jpg",
       "path": "uploads/2026/07/62828cff.jpg",
