@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "b9c127bf",
+      "filename": "pixiv_147359408_p0.jpg",
+      "path": "uploads/2026/07/6fa26a2e.jpg",
+      "size": 341886,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "00fc53c703bada8bf9cccd82917e1306df13f3799e7034b8f9533beddd3268c8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T11:14:32.847Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ウサキャット",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147359408_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147359408",
+      "sourceCreatedAt": "2026-07-18T15:40:17.000Z"
+    },
+    {
       "id": "9eaf1676",
       "filename": "pixiv_147355023_p0.jpg",
       "path": "uploads/2026/07/e6350e3f.jpg",
