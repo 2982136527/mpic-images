@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "db937637",
+      "filename": "pixiv_147394075_p0.jpg",
+      "path": "uploads/2026/07/539f5989.jpg",
+      "size": 1887561,
+      "width": 910,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1890094740b6188604d9f11ae774b30327c12f626e892b1a52696310f46978d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T18:12:16.959Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "あついね",
+      "tags": [
+        "オリジナル",
+        "夏",
+        "創作男女",
+        "黒根さんはニャーと鳴かない"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147394075_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147394075",
+      "sourceCreatedAt": "2026-07-19T12:46:00.000Z"
+    },
+    {
       "id": "8bdfd3be",
       "filename": "pixiv_147384172_p0.jpg",
       "path": "uploads/2026/07/864cbb0e.jpg",
