@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "fa7f2ddf",
+      "filename": "pixiv_147376879_p0.jpg",
+      "path": "uploads/2026/07/62828cff.jpg",
+      "size": 1009985,
+      "width": 722,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c8a790a67a9f04447df8155200287f4fcad16fcd68fcb07584f34b23db55124a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:51:35.973Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "キュアエクレール",
+      "tags": [
+        "プリキュア",
+        "名探偵プリキュア!",
+        "キュアエクレール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147376879_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147376879",
+      "sourceCreatedAt": "2026-07-19T04:51:56.000Z"
+    },
+    {
       "id": "44788bf4",
       "filename": "pixiv_147382467_p0.jpg",
       "path": "uploads/2026/07/1b4f5558.jpg",
