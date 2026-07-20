@@ -3,6 +3,37 @@
   "shardId": "02",
   "images": [
     {
+      "id": "b2fe91ac",
+      "filename": "pixiv_147390487_p0.jpg",
+      "path": "uploads/2026/07/123172ba.jpg",
+      "size": 222603,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "ec8afbdab59df38bf7556df9889ad3e22024425029357b6bbc81f86a2d145394",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T18:12:02.203Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ねこクリームソーダ",
+      "tags": [
+        "オリジナル",
+        "クリームソーダ",
+        "ニャンクリーム",
+        "ソーダフロート",
+        "ニャイスクリーム",
+        "素晴らしきほっこりの世界",
+        "猫は液体",
+        "ソーダフローニャ",
+        "ガラスの中",
+        "すいーつねこ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147390487_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147390487",
+      "sourceCreatedAt": "2026-07-19T11:30:02.000Z"
+    },
+    {
       "id": "17590343",
       "filename": "pixiv_147350023_p0.jpg",
       "path": "uploads/2026/07/9e16b533.jpg",
