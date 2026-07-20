@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "d6c6c8e6",
+      "filename": "pixiv_147208074_p0.jpg",
+      "path": "uploads/2026/07/cf09812e.jpg",
+      "size": 1020633,
+      "width": 876,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "483a5dd3e4e490910c98c5c5130e6fe9f64153b44b7608be160955c1021c41d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T18:16:18.130Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ポケモンお絵描きまとめ",
+      "tags": [
+        "ポケモン",
+        "マグマラシ",
+        "イダイトウ",
+        "ラストの衝撃"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147208074_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147208074",
+      "sourceCreatedAt": "2026-07-14T14:58:42.000Z"
+    },
+    {
       "id": "37665d1f",
       "filename": "pixiv_147393531_p0.jpg",
       "path": "uploads/2026/07/098916c9.jpg",
