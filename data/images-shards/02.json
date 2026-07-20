@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "08a34c8d",
+      "filename": "pixiv_147393514_p0.jpg",
+      "path": "uploads/2026/07/5c259b2b.jpg",
+      "size": 1026408,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fdc8e5c1e867e89b04049ec51d9797cf6442392cd52eba157adf982a8421bf92",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:52:01.937Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "崩壊:スターレイル",
+      "tags": [
+        "崩壊:スターレイル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147393514_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147393514",
+      "sourceCreatedAt": "2026-07-19T12:33:05.000Z"
+    },
+    {
       "id": "c67a2262",
       "filename": "pixiv_147384204_p0.jpg",
       "path": "uploads/2026/07/db9995e4.jpg",
