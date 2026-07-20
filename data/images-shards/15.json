@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "6bbca10c",
+      "filename": "pixiv_147364914_p0.jpg",
+      "path": "uploads/2026/07/50a1c448.jpg",
+      "size": 611167,
+      "width": 1174,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c90895241b173d92012fbdcc969f643ed15a25c1b57942115daf8331218f08a3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:53:42.414Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Delilah OC - Pixiv request",
+      "tags": [
+        "oc",
+        "blondehair",
+        "shorthair"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147364914_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147364914",
+      "sourceCreatedAt": "2026-07-18T19:42:52.000Z"
+    },
+    {
       "id": "8b8eac18",
       "filename": "pixiv_147365289_p0.jpg",
       "path": "uploads/2026/07/3cd86847.jpg",
