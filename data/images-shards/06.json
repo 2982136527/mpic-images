@@ -3,6 +3,28 @@
   "shardId": "06",
   "images": [
     {
+      "id": "c27cd3ea",
+      "filename": "pixiv_147354927_p0.jpg",
+      "path": "uploads/2026/07/bfbc8c36.jpg",
+      "size": 485484,
+      "width": 536,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "4e630c13ea57e4fee18e4249c90bb1b05cbbe6d4080780369fd7f06a11b42219",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:54:29.349Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "丹星まとめ③",
+      "tags": [
+        "丹星"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147354927_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147354927",
+      "sourceCreatedAt": "2026-07-18T14:08:02.000Z"
+    },
+    {
       "id": "5c819462",
       "filename": "pixiv_147357975_p0.jpg",
       "path": "uploads/2026/07/200ceed1.jpg",
