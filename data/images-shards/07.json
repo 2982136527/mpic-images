@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "c52040ed",
+      "filename": "pixiv_147388632_p0.jpg",
+      "path": "uploads/2026/07/73324bcc.jpg",
+      "size": 745015,
+      "width": 1097,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aa36bfeec0fd2997cb8a64a9cba036998d67950cd3db4d6580fb292911f9a211",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:48:51.309Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "年齢逆転",
+      "tags": [
+        "カキタロ",
+        "ツバタロ",
+        "タロカキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147388632_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147388632",
+      "sourceCreatedAt": "2026-07-19T10:50:41.000Z"
+    },
+    {
       "id": "a62616c1",
       "filename": "pixiv_147319202_p0.jpg",
       "path": "uploads/2026/07/c4285c53.jpg",
