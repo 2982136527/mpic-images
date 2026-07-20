@@ -3,6 +3,37 @@
   "shardId": "18",
   "images": [
     {
+      "id": "a043d798",
+      "filename": "pixiv_147331403_p0.jpg",
+      "path": "uploads/2026/07/ba41cb4a.jpg",
+      "size": 660904,
+      "width": 1200,
+      "height": 1092,
+      "mimeType": "image/jpeg",
+      "hash": "9e993c450e1c4c3d0e50e1a4d6bca77089ab5d33893e5cf34b7c5ad2b01588fd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T18:13:19.730Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "MSVセイラ",
+      "tags": [
+        "MSV",
+        "いつものサッカン",
+        "ゼイラム",
+        "セイラ・マス",
+        "キノコ",
+        "セイラさん",
+        "人類には早すぎた絵",
+        "足なんて飾りです",
+        "グラン・ザム",
+        "ジオン脅威のメカニズム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147331403_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147331403",
+      "sourceCreatedAt": "2026-07-18T02:32:19.000Z"
+    },
+    {
       "id": "e274ff5e",
       "filename": "pixiv_147346716_p0.jpg",
       "path": "uploads/2026/07/48ac24bc.jpg",
