@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "53efcc13",
+      "filename": "pixiv_147357899_p0.jpg",
+      "path": "uploads/2026/07/006d67dc.jpg",
+      "size": 406663,
+      "width": 1100,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "15886796649ec104000262862293e450bde8c4ecdcffaae68194134912551701",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:49:57.033Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ふわり",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147357899_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147357899",
+      "sourceCreatedAt": "2026-07-18T15:06:45.000Z"
+    },
+    {
       "id": "aa4b381e",
       "filename": "pixiv_146251647_p0.jpg",
       "path": "uploads/2026/07/15cf53fb.jpg",
