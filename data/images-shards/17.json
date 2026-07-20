@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "1741c674",
+      "filename": "pixiv_147316706_p0.jpg",
+      "path": "uploads/2026/07/68b62c27.jpg",
+      "size": 1032090,
+      "width": 627,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7288e902cea7c73a508ebc31746c2a54949c1a7d8c0f160e43d31fc358f103b2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:48:46.864Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "the Year of the Tiger",
+      "tags": [
+        "女の子",
+        "裏干支"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147316706_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147316706",
+      "sourceCreatedAt": "2026-07-17T15:00:25.000Z"
+    },
+    {
       "id": "e56cb670",
       "filename": "pixiv_147350583_p0.jpg",
       "path": "uploads/2026/07/bdab0890.jpg",
