@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "98d8b335",
+      "filename": "pixiv_147186843_p0.jpg",
+      "path": "uploads/2026/07/1ef265ff.jpg",
+      "size": 615059,
+      "width": 732,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b43afa01ab1b287022298f6ddff5bac7f129877bd262dd3105920f163afb7ba1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:57:52.204Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "260714",
+      "tags": [
+        "女の子",
+        "原神",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147186843_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147186843",
+      "sourceCreatedAt": "2026-07-14T03:23:53.000Z"
+    },
+    {
       "id": "b8fb0bc0",
       "filename": "pixiv_147350930_p0.jpg",
       "path": "uploads/2026/07/bb8bfc91.jpg",
