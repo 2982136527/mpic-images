@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "8bdfbe10",
+      "filename": "pixiv_147379852_p0.jpg",
+      "path": "uploads/2026/07/6a3acdcc.jpg",
+      "size": 288666,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "36f3380a0a243bb57167253cf8347a91c2baa9fefa4318ad13a7663d75e5109f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T18:12:25.064Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "浮空",
+      "tags": [
+        "速写",
+        "oc"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147379852_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147379852",
+      "sourceCreatedAt": "2026-07-19T06:41:19.000Z"
+    },
+    {
       "id": "71a72c73",
       "filename": "pixiv_147334681_p0.jpg",
       "path": "uploads/2026/07/d8ba6fee.jpg",
