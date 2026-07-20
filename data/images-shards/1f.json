@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "cc14a94c",
+      "filename": "pixiv_147341392_p0.jpg",
+      "path": "uploads/2026/07/d4a070a3.jpg",
+      "size": 835090,
+      "width": 964,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7d31a2b4baa03ef2075c09a14c79fc34cbd8eedaf03a609035c81015acc3dd26",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:52:20.447Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "レミリア",
+      "tags": [
+        "レミリア・スカーレット",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147341392_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147341392",
+      "sourceCreatedAt": "2026-07-18T08:48:09.000Z"
+    },
+    {
       "id": "b029e597",
       "filename": "pixiv_147331750_p0.jpg",
       "path": "uploads/2026/07/8f02c388.jpg",
