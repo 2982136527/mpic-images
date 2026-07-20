@@ -3,6 +3,35 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "960ece80",
+      "filename": "pixiv_147355163_p0.jpg",
+      "path": "uploads/2026/07/92b2b236.jpg",
+      "size": 436414,
+      "width": 702,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a5e8dd4cdc7e9572a511af6130d904bbe1eddaf029153008b241ed60789d65ec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:52:41.745Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "別所で描いたウマ絵詰め合わせ(１月分)",
+      "tags": [
+        "筋肉娘",
+        "ウマ娘プリティーダービー",
+        "腹筋",
+        "常識改変",
+        "むちむち",
+        "ライスシャワー(ウマ娘)",
+        "アグネスデジタル(ウマ娘)",
+        "スペシャルウィーク(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147355163_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147355163",
+      "sourceCreatedAt": "2026-07-18T14:14:26.000Z"
+    },
+    {
       "id": "4df09a76",
       "filename": "pixiv_147323974_p0.jpg",
       "path": "uploads/2026/07/76b33184.jpg",
