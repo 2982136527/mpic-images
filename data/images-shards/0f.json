@@ -3,6 +3,33 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "c7e570cb",
+      "filename": "pixiv_147356332_p0.jpg",
+      "path": "uploads/2026/07/c980961b.jpg",
+      "size": 137884,
+      "width": 992,
+      "height": 992,
+      "mimeType": "image/jpeg",
+      "hash": "51e96a63be197fb24c0e1d875b93de4295acbac001ab7eff1001d784a939ca7d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:53:47.865Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "大きい桃とうさぎ",
+      "tags": [
+        "オリジナル",
+        "うさぎ",
+        "桃",
+        "白桃",
+        "果物",
+        "もも"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147356332_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147356332",
+      "sourceCreatedAt": "2026-07-18T14:41:59.000Z"
+    },
+    {
       "id": "8dde9b1e",
       "filename": "pixiv_147376895_p0.jpg",
       "path": "uploads/2026/07/5d8d96a5.jpg",
