@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "14831a63",
+      "filename": "pixiv_147344789_p0.jpg",
+      "path": "uploads/2026/07/36369ba1.jpg",
+      "size": 1389372,
+      "width": 756,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1b6da4b8312df1d35e02cef16d5968f44ed40d8a07fd528c4b44afbaa486ed4e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:49:14.480Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "初音ミク",
+      "tags": [
+        "初音ミク",
+        "初音未来",
+        "VOCALOID",
+        "Miku",
+        "女の子",
+        "可爱"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147344789_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147344789",
+      "sourceCreatedAt": "2026-07-18T10:21:19.000Z"
+    },
+    {
       "id": "b7b8f844",
       "filename": "pixiv_147299910_p0.jpg",
       "path": "uploads/2026/07/b79ecd33.jpg",
