@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "30a885eb",
+      "filename": "pixiv_147373980_p0.jpg",
+      "path": "uploads/2026/07/247c9964.jpg",
+      "size": 523805,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aca22dfd604d5af58f7c6d164682f32a246d71d61f8329d1639e4d271954a2cd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:54:18.811Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【仕事イラスト】いえすまちゃん",
+      "tags": [
+        "仕事絵",
+        "立ち絵",
+        "ハーフツインテール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147373980_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147373980",
+      "sourceCreatedAt": "2026-07-19T03:03:17.000Z"
+    },
+    {
       "id": "07892e46",
       "filename": "pixiv_147369210_p0.jpg",
       "path": "uploads/2026/07/d7555eb0.jpg",
