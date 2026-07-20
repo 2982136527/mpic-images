@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "64d91747",
+      "filename": "pixiv_147348288_p0.jpg",
+      "path": "uploads/2026/07/37f997c6.jpg",
+      "size": 2933377,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "68eaf9eae6fe073bd2089458f33eb01e4ba065c93fea6672874a58adf16b4d01",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T18:18:22.398Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "さねぎゆログ5",
+      "tags": [
+        "さねぎゆ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147348288_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147348288",
+      "sourceCreatedAt": "2026-07-18T11:47:54.000Z"
+    },
+    {
       "id": "bc4349ed",
       "filename": "pixiv_147393026_p0.jpg",
       "path": "uploads/2026/07/3f27759a.jpg",
