@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "8bdfd3be",
+      "filename": "pixiv_147384172_p0.jpg",
+      "path": "uploads/2026/07/864cbb0e.jpg",
+      "size": 669259,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "848b4033b35ed55777a58f922ce27a24b14e2ec5426ad54f9ea1101c0e7ca737",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T11:15:52.388Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "窓辺",
+      "tags": [
+        "女の子",
+        "窓辺"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147384172_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147384172",
+      "sourceCreatedAt": "2026-07-19T09:00:17.000Z"
+    },
+    {
       "id": "1bd12100",
       "filename": "pixiv_147375094_p0.jpg",
       "path": "uploads/2026/07/01bee64d.jpg",
