@@ -3,6 +3,36 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "d869ee85",
+      "filename": "pixiv_147336483_p0.jpg",
+      "path": "uploads/2026/07/4693a18a.jpg",
+      "size": 1131121,
+      "width": 1200,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "827aff4177e88a24e61f1017f862da67dc68be299c2279742d04140fe9351cbe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:54:39.631Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "アルコス",
+      "tags": [
+        "ポケモン",
+        "ポケモン人間絵",
+        "ポケマスEX",
+        "カルネ(トレーナー)",
+        "アルコス",
+        "ポケモンマスターズ",
+        "ポケモンリーグチャンピオン",
+        "ポケモン100users入り",
+        "オモダカ(トレーナー)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147336483_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147336483",
+      "sourceCreatedAt": "2026-07-18T05:51:31.000Z"
+    },
+    {
       "id": "14831a63",
       "filename": "pixiv_147344789_p0.jpg",
       "path": "uploads/2026/07/36369ba1.jpg",
