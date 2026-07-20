@@ -3,6 +3,28 @@
   "shardId": "06",
   "images": [
     {
+      "id": "5c819462",
+      "filename": "pixiv_147357975_p0.jpg",
+      "path": "uploads/2026/07/200ceed1.jpg",
+      "size": 702561,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "56f25bbf85c59b1abdeec308bda24ac20dc8ec095c395f9a57a3fbd949d09992",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:52:56.825Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "单春蛋治"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147357975_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147357975",
+      "sourceCreatedAt": "2026-07-19T02:06:11.000Z"
+    },
+    {
       "id": "c34a82d2",
       "filename": "pixiv_147364214_p0.jpg",
       "path": "uploads/2026/07/d287a753.jpg",
