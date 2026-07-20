@@ -3,6 +3,28 @@
   "shardId": "03",
   "images": [
     {
+      "id": "ddf73e13",
+      "filename": "pixiv_147357535_p0.jpg",
+      "path": "uploads/2026/07/3851197a.jpg",
+      "size": 411434,
+      "width": 900,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "hash": "a74f938a26fad8a87021d6c65a6245fb7e9e03cfcbd571a287c8005be4f54f80",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-20T03:53:52.699Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Illustration_2026.07.19",
+      "tags": [
+        "ConaEmber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147357535_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147357535",
+      "sourceCreatedAt": "2026-07-18T15:02:17.000Z"
+    },
+    {
       "id": "4fc3d9b3",
       "filename": "pixiv_147380590_p0.jpg",
       "path": "uploads/2026/07/00921700.jpg",
