@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "3614c98f",
+      "filename": "pixiv_147427807_p0.jpg",
+      "path": "uploads/2026/07/c796126c.jpg",
+      "size": 1467209,
+      "width": 1037,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2938f31e33c91ad45774a970ac5b63a727d10689d45e35f82b71573d334ef3f5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:34:09.820Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "息抜きに",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147427807_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147427807",
+      "sourceCreatedAt": "2026-07-20T09:14:15.000Z"
+    },
+    {
       "id": "9f4c6d0b",
       "filename": "pixiv_147333350_p0.jpg",
       "path": "uploads/2026/07/269604ff.jpg",
