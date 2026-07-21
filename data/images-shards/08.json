@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "f28977c7",
+      "filename": "pixiv_147435360_p0.jpg",
+      "path": "uploads/2026/07/1d3b0782.jpg",
+      "size": 1488887,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f802a843b774ac6cdfb4b2c2ed9ec0cd946495de41a12bacddb33a47f2a40cc9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T17:37:34.610Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "リクエスト",
+      "tags": [
+        "スターレイル",
+        "丹星",
+        "崩スタ男女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147435360_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147435360",
+      "sourceCreatedAt": "2026-07-20T12:12:23.000Z"
+    },
+    {
       "id": "e6043420",
       "filename": "pixiv_147382313_p0.jpg",
       "path": "uploads/2026/07/3954a599.jpg",
