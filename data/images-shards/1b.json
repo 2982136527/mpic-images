@@ -3,6 +3,37 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "8894a253",
+      "filename": "pixiv_147397822_p0.jpg",
+      "path": "uploads/2026/07/2b7bc912.jpg",
+      "size": 1250162,
+      "width": 1200,
+      "height": 1068,
+      "mimeType": "image/jpeg",
+      "hash": "12e34211f5360f010dfe1e042c96ef8d15a4757d60b4eedd03657e6b496a91a8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:34:36.162Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "コンテスト衣装 【バトルカットイン】",
+      "tags": [
+        "ポケモン",
+        "ポケモン人間絵",
+        "ポケモン女主人公",
+        "ORAS",
+        "ORASハルカ",
+        "ハルカ",
+        "ハルカ(トレーナー)",
+        "ルチア",
+        "ルチア(トレーナー)",
+        "コンテスト衣装"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147397822_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147397822",
+      "sourceCreatedAt": "2026-07-19T14:01:24.000Z"
+    },
+    {
       "id": "c5f5049e",
       "filename": "pixiv_147389424_p0.jpg",
       "path": "uploads/2026/07/507c5fe5.jpg",
