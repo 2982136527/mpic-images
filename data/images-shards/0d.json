@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "a2725884",
+      "filename": "pixiv_147419689_p0.jpg",
+      "path": "uploads/2026/07/8321872e.jpg",
+      "size": 1295993,
+      "width": 1200,
+      "height": 1123,
+      "mimeType": "image/jpeg",
+      "hash": "a52934ed3866f8d981841dd6d060e7263db0ffe5915fcfb36c071fc0aa379474",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T17:43:09.054Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "fesお姉ちゃん",
+      "tags": [
+        "パーシヴァル(Fate)",
+        "Fate/GrandOrder"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147419689_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147419689",
+      "sourceCreatedAt": "2026-07-20T04:34:51.000Z"
+    },
+    {
       "id": "b6f18707",
       "filename": "pixiv_147357558_p0.jpg",
       "path": "uploads/2026/07/1366e685.jpg",
