@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "0593b733",
+      "filename": "pixiv_147398628_p0.jpg",
+      "path": "uploads/2026/07/a1c1b480.jpg",
+      "size": 640606,
+      "width": 1181,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a0e22622fa983a90d3e2e2b6e31dbc0a4512ea3db27b75b741ffe5de44da33ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:36:26.967Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "モナ",
+      "tags": [
+        "水中",
+        "モナ",
+        "GenshinImpact",
+        "原神",
+        "Mona(GenshinImpact)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147398628_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147398628",
+      "sourceCreatedAt": "2026-07-20T03:39:32.000Z"
+    },
+    {
       "id": "47ea0f86",
       "filename": "pixiv_147425713_p0.jpg",
       "path": "uploads/2026/07/fcfb6979.jpg",
