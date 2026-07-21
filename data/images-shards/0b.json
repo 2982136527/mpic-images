@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "1bc20384",
+      "filename": "pixiv_147350334_p0.jpg",
+      "path": "uploads/2026/07/c5fb2187.jpg",
+      "size": 542832,
+      "width": 710,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c5cea3ca34ddeb913d96a0be65ef82332dc9751a0049575f0856255b6bdc8a2a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T03:32:26.813Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "OC",
+      "tags": [
+        "オリジナル",
+        "足裏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147350334_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147350334",
+      "sourceCreatedAt": "2026-07-18T12:29:39.000Z"
+    },
+    {
       "id": "3d6fa58b",
       "filename": "pixiv_147388656_p0.jpg",
       "path": "uploads/2026/07/00016aa5.jpg",
