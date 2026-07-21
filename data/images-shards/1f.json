@@ -3,6 +3,33 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "e69f2b54",
+      "filename": "pixiv_147360238_p0.jpg",
+      "path": "uploads/2026/07/dd497578.jpg",
+      "size": 907307,
+      "width": 865,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "157b6f218cdd02b8fb21ef2073d6b1862dbba0b1194c0d8990bc1df4ba3684a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T03:30:05.275Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ゼンゼロ",
+      "tags": [
+        "Sunna",
+        "千夏(ゼンゼロ)",
+        "ゼンゼロ",
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "ゼンゼロ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147360238_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147360238",
+      "sourceCreatedAt": "2026-07-18T16:00:49.000Z"
+    },
+    {
       "id": "67c6e3ea",
       "filename": "pixiv_147375030_p0.jpg",
       "path": "uploads/2026/07/048372fb.jpg",
