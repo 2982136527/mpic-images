@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "cd98d70e",
+      "filename": "pixiv_147421464_p0.jpg",
+      "path": "uploads/2026/07/40bef038.jpg",
+      "size": 687708,
+      "width": 920,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c3a1011eef20e32309f9d13b9491fb3706d9b9bcc87837a0aabc9fb98e48ecb8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:38:35.176Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "橙ちゃん",
+      "tags": [
+        "橙",
+        "橙(東方Project)",
+        "東方",
+        "東方Project",
+        "女の子",
+        "獣耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147421464_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147421464",
+      "sourceCreatedAt": "2026-07-20T05:48:53.000Z"
+    },
+    {
       "id": "8894a253",
       "filename": "pixiv_147397822_p0.jpg",
       "path": "uploads/2026/07/2b7bc912.jpg",
