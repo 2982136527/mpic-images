@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "a07c35ca",
+      "filename": "pixiv_147438270_p0.jpg",
+      "path": "uploads/2026/07/19a780ae.jpg",
+      "size": 308647,
+      "width": 665,
+      "height": 550,
+      "mimeType": "image/jpeg",
+      "hash": "9641179803d565627c36202163297ae2e43a2a1ce555759e2a85910e94ff7e20",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T17:46:25.898Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "マ&グまとめ①",
+      "tags": [
+        "マンダロリアン",
+        "グローグー",
+        "マンダロリアンアンドグローグー",
+        "STARWARS500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147438270_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147438270",
+      "sourceCreatedAt": "2026-07-20T13:11:19.000Z"
+    },
+    {
       "id": "a77a81db",
       "filename": "pixiv_147441792_p0.jpg",
       "path": "uploads/2026/07/689addab.jpg",
