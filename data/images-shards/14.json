@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "574da40e",
+      "filename": "pixiv_147317674_p0.jpg",
+      "path": "uploads/2026/07/597302f3.jpg",
+      "size": 566392,
+      "width": 728,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "f21e3416d56300a4ab223894b1a9adb007fa71df5a7fd94cd222799c9825be16",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T03:29:01.756Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Knight",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女性",
+        "シルクハット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147317674_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147317674",
+      "sourceCreatedAt": "2026-07-17T15:13:43.000Z"
+    },
+    {
       "id": "c84abbf6",
       "filename": "pixiv_147344337_p0.jpg",
       "path": "uploads/2026/07/4a332376.jpg",
