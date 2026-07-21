@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "4f8c1525",
+      "filename": "pixiv_147399610_p0.jpg",
+      "path": "uploads/2026/07/83849d50.jpg",
+      "size": 980402,
+      "width": 1200,
+      "height": 498,
+      "mimeType": "image/jpeg",
+      "hash": "adf4656d7189486547c125eef3d5f4cfeecdaf0f7c80ed3dac69fdccfbd6efaf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:31:27.122Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "村正",
+      "tags": [
+        "千子村正(Fate)",
+        "Fate/GrandOrder",
+        "FGO"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147399610_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147399610",
+      "sourceCreatedAt": "2026-07-19T14:41:28.000Z"
+    },
+    {
       "id": "49ad1f98",
       "filename": "pixiv_147361794_p0.jpg",
       "path": "uploads/2026/07/b22f7191.jpg",
