@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "b76bbda7",
+      "filename": "pixiv_147387389_p0.jpg",
+      "path": "uploads/2026/07/dcf50672.jpg",
+      "size": 1102542,
+      "width": 1200,
+      "height": 1083,
+      "mimeType": "image/jpeg",
+      "hash": "bf5b736b49bbfa3fc69c36a33c0ec295a8c6c527d996c28425f821777ad874b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T17:41:14.704Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ノルウェーの風景と狼",
+      "tags": [
+        "狼",
+        "ノルウェー",
+        "ロルブー",
+        "針葉樹"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147387389_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147387389",
+      "sourceCreatedAt": "2026-07-19T10:17:22.000Z"
+    },
+    {
       "id": "b2aa6cb8",
       "filename": "pixiv_147394558_p0.jpg",
       "path": "uploads/2026/07/7bb1bf25.jpg",
