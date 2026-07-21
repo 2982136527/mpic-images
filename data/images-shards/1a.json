@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "97bc6c43",
+      "filename": "pixiv_147435353_p0.jpg",
+      "path": "uploads/2026/07/9b9cbed0.jpg",
+      "size": 1429720,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c231cacfa94cb97aa7f8c7822d1fcfe442af17ee9b921e6d87928688c3975c2f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T17:38:51.059Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ブラッキー",
+      "tags": [
+        "ポケモン",
+        "ブラッキー",
+        "ブイズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147435353_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147435353",
+      "sourceCreatedAt": "2026-07-20T12:12:14.000Z"
+    },
+    {
       "id": "0593b733",
       "filename": "pixiv_147398628_p0.jpg",
       "path": "uploads/2026/07/a1c1b480.jpg",
