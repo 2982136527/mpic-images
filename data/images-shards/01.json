@@ -3,6 +3,34 @@
   "shardId": "01",
   "images": [
     {
+      "id": "42568bcc",
+      "filename": "pixiv_147425130_p0.jpg",
+      "path": "uploads/2026/07/8b967f28.jpg",
+      "size": 819403,
+      "width": 792,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "491b7d33ad8a12ea1e11f94ec0f6ae0f4be2f637e74ecfa88119f3f9a9cd4b86",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:39:35.336Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "メイド ロッシ",
+      "tags": [
+        "ロッシ(アークナイツエンドフィールド)",
+        "アークナイツ:エンドフィールド",
+        "ロッシ(エンドフィールド)",
+        "ロッシーナ・ウルフパール・ルピーノ",
+        "メイド",
+        "洛茜",
+        "明日方舟终末地"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147425130_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147425130",
+      "sourceCreatedAt": "2026-07-20T08:00:01.000Z"
+    },
+    {
       "id": "4360abfd",
       "filename": "pixiv_147392720_p0.jpg",
       "path": "uploads/2026/07/eecdd60c.jpg",
