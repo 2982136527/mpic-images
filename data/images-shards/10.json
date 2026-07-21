@@ -3,6 +3,28 @@
   "shardId": "10",
   "images": [
     {
+      "id": "1c9c484a",
+      "filename": "pixiv_147363746_p0.jpg",
+      "path": "uploads/2026/07/733a4326.jpg",
+      "size": 760237,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f5f4368e8943a73548307dbd45c79a8d75d7ee9b84c29b2bd452c894ad38f2fe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:38:44.474Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "刀らくがきつめまくり",
+      "tags": [
+        "刀剣乱舞"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147363746_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147363746",
+      "sourceCreatedAt": "2026-07-18T18:24:38.000Z"
+    },
+    {
       "id": "4f4dae8e",
       "filename": "pixiv_147375307_p0.jpg",
       "path": "uploads/2026/07/3ac81463.jpg",
