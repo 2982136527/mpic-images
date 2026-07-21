@@ -3,6 +3,33 @@
   "shardId": "05",
   "images": [
     {
+      "id": "b8bfaa0d",
+      "filename": "pixiv_147413461_p0.jpg",
+      "path": "uploads/2026/07/1bb944ea.jpg",
+      "size": 1318398,
+      "width": 990,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d01c97760ef3e4492f3275be8e858ad97bc8dfb3156cc2f85984ec8847591e9d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:35:16.498Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "グラスホッパー",
+      "tags": [
+        "CLIPSTUDIOPAINT",
+        "オリジナル",
+        "イラスト",
+        "女の子",
+        "創作",
+        "三つ編み"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147413461_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147413461",
+      "sourceCreatedAt": "2026-07-20T00:32:50.000Z"
+    },
+    {
       "id": "176f80a0",
       "filename": "pixiv_147374769_p0.jpg",
       "path": "uploads/2026/07/4b4df9d5.jpg",
