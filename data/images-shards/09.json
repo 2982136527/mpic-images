@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "ef95cc4a",
+      "filename": "pixiv_147386522_p0.jpg",
+      "path": "uploads/2026/07/e8add142.jpg",
+      "size": 1040850,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7cbbe1bc746634880a5142106dcdb4f896cb45ddb6961699aefe634cf9091598",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:30:57.090Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "春水レイ新衣装",
+      "tags": [
+        "春水レイ",
+        "絵になる春水",
+        "白髪",
+        "白ワンピ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147386522_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147386522",
+      "sourceCreatedAt": "2026-07-19T09:58:57.000Z"
+    },
+    {
       "id": "9bd93f10",
       "filename": "pixiv_147358524_p0.jpg",
       "path": "uploads/2026/07/91bf03d2.jpg",
