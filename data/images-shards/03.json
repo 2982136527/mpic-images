@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "e8de6a54",
+      "filename": "pixiv_147360525_p0.jpg",
+      "path": "uploads/2026/07/4266336f.jpg",
+      "size": 1398258,
+      "width": 718,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "847f9de55c79d403b69c6cdb158f859f27e289638340fcdedb59eacab7234b3e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T17:36:57.694Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Surprise",
+      "tags": [
+        "女の子",
+        "海伊",
+        "オリジナル1000users入り",
+        "サンダル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147360525_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147360525",
+      "sourceCreatedAt": "2026-07-18T16:08:53.000Z"
+    },
+    {
       "id": "31c95eb1",
       "filename": "pixiv_147397633_p0.jpg",
       "path": "uploads/2026/07/d3165df4.jpg",
