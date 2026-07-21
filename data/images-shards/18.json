@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "f1d0782f",
+      "filename": "pixiv_147401518_p0.jpg",
+      "path": "uploads/2026/07/f50d57ab.jpg",
+      "size": 1294990,
+      "width": 903,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9731fbc7e9761f478887abec7db80169ff1fd66ca8779f8c6604153643efb0e3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:32:02.361Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "学園アイドルマスター",
+        "倉本千奈"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147401518_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147401518",
+      "sourceCreatedAt": "2026-07-19T15:08:30.000Z"
+    },
+    {
       "id": "a043d798",
       "filename": "pixiv_147331403_p0.jpg",
       "path": "uploads/2026/07/ba41cb4a.jpg",
