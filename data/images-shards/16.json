@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "dcfd6c0f",
+      "filename": "pixiv_147358918_p0.jpg",
+      "path": "uploads/2026/07/2397b146.jpg",
+      "size": 961567,
+      "width": 832,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "297bd651c459b9d75c8f16928c45720cabe5756fd1802237675d4f57b909f57d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T17:40:45.589Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "推し活長夜月",
+      "tags": [
+        "崩壊スターレイル",
+        "長夜月"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147358918_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147358918",
+      "sourceCreatedAt": "2026-07-18T15:29:02.000Z"
+    },
+    {
       "id": "35916612",
       "filename": "pixiv_146445592_p0.jpg",
       "path": "uploads/2026/07/bec14b69.jpg",
