@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "a1c1bf5b",
+      "filename": "pixiv_147415537_p0.jpg",
+      "path": "uploads/2026/07/75bfab35.jpg",
+      "size": 1059713,
+      "width": 750,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "17c06eb50f3610eca2b2edf9a76d530f39805ea5789ac55aa1324a2f69c7133f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:39:21.222Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "毛玉inころさん",
+      "tags": [
+        "バーチャルYouTuber",
+        "ホロライブ",
+        "戌神ころね"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147415537_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147415537",
+      "sourceCreatedAt": "2026-07-20T02:04:36.000Z"
+    },
+    {
       "id": "12aea26b",
       "filename": "pixiv_147358141_p0.jpg",
       "path": "uploads/2026/07/15a1ccf5.jpg",
