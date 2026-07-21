@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "a160e9d3",
+      "filename": "pixiv_147397301_p0.jpg",
+      "path": "uploads/2026/07/2806851f.jpg",
+      "size": 817251,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9ef791f180b4134888689b45bca4d72c3d8f26d0641309186bff8e6ea1d6094c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:35:58.882Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "いぶき&ぼたん",
+      "tags": [
+        "上伊那ぼたん、酔へる姿は百合の花",
+        "上伊那ぼたん",
+        "砺波いぶき"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147397301_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147397301",
+      "sourceCreatedAt": "2026-07-19T13:52:26.000Z"
+    },
+    {
       "id": "a830f9e4",
       "filename": "pixiv_147375186_p0.jpg",
       "path": "uploads/2026/07/6414c11b.jpg",
