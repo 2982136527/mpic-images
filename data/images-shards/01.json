@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "4360abfd",
+      "filename": "pixiv_147392720_p0.jpg",
+      "path": "uploads/2026/07/eecdd60c.jpg",
+      "size": 945294,
+      "width": 808,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5888de1da418a00106e8578eb9f781b765199d2ac277fbf902713b294b5d53fb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:39:08.602Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "水着クリーク",
+      "tags": [
+        "スーパークリーク(ウマ娘)",
+        "ウマ娘",
+        "Skeb"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147392720_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147392720",
+      "sourceCreatedAt": "2026-07-19T12:14:49.000Z"
+    },
+    {
       "id": "d7db39e8",
       "filename": "pixiv_147394452_p0.jpg",
       "path": "uploads/2026/07/450124b5.jpg",
