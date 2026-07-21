@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "53e1247b",
+      "filename": "pixiv_147172776_p0.jpg",
+      "path": "uploads/2026/07/98e8ed84.jpg",
+      "size": 661139,
+      "width": 1027,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "825fddc245c7224ec95f9d4901eeeeaa6e4513860bb228169d425372c9a98a19",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T17:44:41.229Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "真昼の月",
+      "tags": [
+        "オリジナル",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147172776_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147172776",
+      "sourceCreatedAt": "2026-07-13T15:00:22.000Z"
+    },
+    {
       "id": "6724002f",
       "filename": "pixiv_147396478_p0.jpg",
       "path": "uploads/2026/07/7880c975.jpg",
