@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "c0ac35a7",
+      "filename": "pixiv_147369350_p0.jpg",
+      "path": "uploads/2026/07/d2c2db56.jpg",
+      "size": 1402576,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e8b3bce517954feaa08f1483caaeb4c759e436fdbc00e873cd59db5f34f74726",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T03:31:44.507Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "キュアエクレール",
+      "tags": [
+        "名探偵プリキュア!",
+        "プリキュア",
+        "キュアエクレール",
+        "帆羽くれあ",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147369350_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147369350",
+      "sourceCreatedAt": "2026-07-19T00:01:28.000Z"
+    },
+    {
       "id": "ac090664",
       "filename": "pixiv_147330495_p0.jpg",
       "path": "uploads/2026/07/a1d06cb9.jpg",
