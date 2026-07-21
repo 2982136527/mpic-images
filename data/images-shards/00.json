@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "75c2c20c",
+      "filename": "pixiv_147391903_p0.jpg",
+      "path": "uploads/2026/07/77d04a79.jpg",
+      "size": 805536,
+      "width": 722,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3f8afe74c5d9835a09d2abe6f69c1fda66431eae6c6e84a0d375f10846d3d296",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:32:45.863Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "大丈夫？",
+      "tags": [
+        "重音テト",
+        "処刑拍手",
+        "ファンアート",
+        "重音テトSV"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147391903_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147391903",
+      "sourceCreatedAt": "2026-07-19T12:00:29.000Z"
+    },
+    {
       "id": "a39c8381",
       "filename": "pixiv_147199527_p0.jpg",
       "path": "uploads/2026/07/f56805bf.jpg",
