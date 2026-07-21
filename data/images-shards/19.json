@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "a261896b",
+      "filename": "pixiv_147434263_p0.jpg",
+      "path": "uploads/2026/07/418a8cd1.jpg",
+      "size": 607027,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a76fde42d770ca2790f8f06963114ca2df4c0bd6efa63bfa54c1c893b8d2d849",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:38:49.637Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "チアネイチャ",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "ナイスネイチャ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147434263_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147434263",
+      "sourceCreatedAt": "2026-07-20T11:53:50.000Z"
+    },
+    {
       "id": "bb98075e",
       "filename": "pixiv_147419088_p0.jpg",
       "path": "uploads/2026/07/28ff9448.jpg",
