@@ -3,6 +3,28 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "49ad1f98",
+      "filename": "pixiv_147361794_p0.jpg",
+      "path": "uploads/2026/07/b22f7191.jpg",
+      "size": 783124,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "47bcdcf5f7c87e6233f35e1e197ba6ca6a39483c7a934203117ae0aaec2acf2c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T03:30:24.496Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Atropine",
+      "tags": [
+        "背景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147361794_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147361794",
+      "sourceCreatedAt": "2026-07-18T16:53:47.000Z"
+    },
+    {
       "id": "8bdfbe10",
       "filename": "pixiv_147379852_p0.jpg",
       "path": "uploads/2026/07/6a3acdcc.jpg",
