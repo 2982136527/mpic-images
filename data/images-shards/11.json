@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "af35634f",
+      "filename": "pixiv_146327664_p0.jpg",
+      "path": "uploads/2026/07/4e6b1dd8.jpg",
+      "size": 1362443,
+      "width": 714,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0c6c862beeaf1e66b1fa70db7818a39f2f37f2e151a96131fb5b498b848fc740",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:38:10.627Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "管理人",
+      "tags": [
+        "明日方舟终末地",
+        "Arknights:Endfield",
+        "アークナイツ:エンドフィールド",
+        "管理人(エンドフィールド)",
+        "Endministrator",
+        "女管理人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146327664_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146327664",
+      "sourceCreatedAt": "2026-06-22T11:30:01.000Z"
+    },
+    {
       "id": "a09fcdc8",
       "filename": "pixiv_147352833_p0.jpg",
       "path": "uploads/2026/07/4b0a7e22.jpg",
