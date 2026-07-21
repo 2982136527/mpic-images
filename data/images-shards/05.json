@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "bdcf49a1",
+      "filename": "pixiv_147361873_p0.jpg",
+      "path": "uploads/2026/07/6deb002d.jpg",
+      "size": 537050,
+      "width": 1200,
+      "height": 1012,
+      "mimeType": "image/jpeg",
+      "hash": "b5f293e59d732439ab6d6e8129e4d0b22c8e40f0bc094cd693fc18164ea50ecf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T03:35:23.484Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "hust夢まとめ",
+      "tags": [
+        "hustプラス",
+        "hust夢",
+        "崩スタ夢",
+        "hust夢500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147361873_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147361873",
+      "sourceCreatedAt": "2026-07-18T16:56:40.000Z"
+    },
+    {
       "id": "02b1c735",
       "filename": "pixiv_147390748_p0.jpg",
       "path": "uploads/2026/07/1202decf.jpg",
