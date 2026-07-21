@@ -3,6 +3,33 @@
   "shardId": "13",
   "images": [
     {
+      "id": "f53db88a",
+      "filename": "pixiv_147401905_p0.jpg",
+      "path": "uploads/2026/07/a2020950.jpg",
+      "size": 1095247,
+      "width": 764,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c3a6f5df117437eb3b1073278304014355eda413997cea5d49e61f0d1f2af5a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:32:40.535Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ローエン",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ローエン(原神)",
+        "ローエン",
+        "Lohen",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147401905_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147401905",
+      "sourceCreatedAt": "2026-07-19T15:16:07.000Z"
+    },
+    {
       "id": "f3fa6001",
       "filename": "pixiv_147355556_p0.jpg",
       "path": "uploads/2026/07/6190207a.jpg",
