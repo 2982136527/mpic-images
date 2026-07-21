@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "a77a81db",
+      "filename": "pixiv_147441792_p0.jpg",
+      "path": "uploads/2026/07/689addab.jpg",
+      "size": 1392989,
+      "width": 760,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c664c52a189933115901938aa0659ba1f9167c841c32f1a435e6ba9e9e11ab30",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T17:42:08.988Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "花礼",
+      "tags": [
+        "花礼",
+        "VirtuaReal"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147441792_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147441792",
+      "sourceCreatedAt": "2026-07-20T14:27:15.000Z"
+    },
+    {
       "id": "1e342588",
       "filename": "pixiv_147404624_p0.jpg",
       "path": "uploads/2026/07/ead308ea.jpg",
