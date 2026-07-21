@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "f3fa6001",
+      "filename": "pixiv_147355556_p0.jpg",
+      "path": "uploads/2026/07/6190207a.jpg",
+      "size": 739088,
+      "width": 934,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3b1e0650b670232a4a2e9c703d7515bb13f1afdd68f5fda35c2c25ae7853206e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T03:29:46.920Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "らくがきまとめ②",
+      "tags": [
+        "超かぐや姫!",
+        "かぐいろ",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147355556_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147355556",
+      "sourceCreatedAt": "2026-07-18T14:24:11.000Z"
+    },
+    {
       "id": "6cc6d891",
       "filename": "pixiv_147319817_p0.jpg",
       "path": "uploads/2026/07/6a74105f.jpg",
