@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "cd59eb3c",
+      "filename": "pixiv_147416403_p0.jpg",
+      "path": "uploads/2026/07/5728978b.jpg",
+      "size": 609591,
+      "width": 802,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d4a6d929a3fc8837510658a828c96ee4e4cce8ea9cca870d0095f42cebe750ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:32:59.891Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "スー",
+      "tags": [
+        "アークナイツ:エンドフィールド",
+        "明日方舟:终末地",
+        "ArknightsEndfield",
+        "スー(エンドフィールド)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147416403_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147416403",
+      "sourceCreatedAt": "2026-07-20T02:39:19.000Z"
+    },
+    {
       "id": "f53db88a",
       "filename": "pixiv_147401905_p0.jpg",
       "path": "uploads/2026/07/a2020950.jpg",
