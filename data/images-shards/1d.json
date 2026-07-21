@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "e2b9f802",
+      "filename": "pixiv_147428668_p0.jpg",
+      "path": "uploads/2026/07/8da61b3b.jpg",
+      "size": 857941,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b78c5cecfbc4101ab3679557dc9ba88fcaebd56d3abec516f655d78b8884aacd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T10:32:51.145Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "セーラー",
+      "tags": [
+        "女の子",
+        "イラスト",
+        "オリジナル",
+        "オリジナルキャラクター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147428668_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147428668",
+      "sourceCreatedAt": "2026-07-20T09:39:23.000Z"
+    },
+    {
       "id": "c4337f69",
       "filename": "pixiv_147333989_p0.jpg",
       "path": "uploads/2026/07/d8028e21.jpg",
