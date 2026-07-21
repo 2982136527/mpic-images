@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "acf2e324",
+      "filename": "pixiv_147349463_p0.jpg",
+      "path": "uploads/2026/07/2663f0b9.jpg",
+      "size": 378911,
+      "width": 700,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "4bbaf6dd7453fab4b4895fa51be7609cd3144c58d22da4b16601060135a2736f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T03:32:00.147Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "早凉",
+      "tags": [
+        "女の子",
+        "早凉",
+        "VUP",
+        "VTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147349463_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147349463",
+      "sourceCreatedAt": "2026-07-18T12:09:54.000Z"
+    },
+    {
       "id": "fcc7ffbc",
       "filename": "pixiv_147359551_p0.jpg",
       "path": "uploads/2026/07/4c6366f4.jpg",
