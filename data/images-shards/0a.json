@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "12aea26b",
+      "filename": "pixiv_147358141_p0.jpg",
+      "path": "uploads/2026/07/15a1ccf5.jpg",
+      "size": 1099681,
+      "width": 821,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5ffef14d242a23fbcf69e2967968e19e9d3a4bc964f89c7ffd60d9f9298e5492",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T03:31:22.632Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "相原舞 誕生日イラスト",
+      "tags": [
+        "雀魂",
+        "相原舞",
+        "女の子",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147358141_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147358141",
+      "sourceCreatedAt": "2026-07-18T15:10:55.000Z"
+    },
+    {
       "id": "87375bfc",
       "filename": "pixiv_147320907_p0.jpg",
       "path": "uploads/2026/07/85f8d8bc.jpg",
