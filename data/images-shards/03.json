@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "ff2c609d",
+      "filename": "pixiv_147393095_p0.jpg",
+      "path": "uploads/2026/07/60b4baec.jpg",
+      "size": 597797,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "18ba81acd300f2b6a1e4acd4908f0ec5e3656f27efe4feb7dc94ae49e2b02bcb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-21T03:31:03.874Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "『Voyager』",
+      "tags": [
+        "超かぐや姫!",
+        "月見ヤチヨ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147393095_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147393095",
+      "sourceCreatedAt": "2026-07-19T12:23:56.000Z"
+    },
+    {
       "id": "5f4bf4a4",
       "filename": "pixiv_147345701_p0.jpg",
       "path": "uploads/2026/07/0127d46a.jpg",
