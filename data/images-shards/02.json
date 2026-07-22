@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "da21381e",
+      "filename": "pixiv_147464977_p0.jpg",
+      "path": "uploads/2026/07/4003bbdd.jpg",
+      "size": 842409,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ca940c6cf25a62fe91becdad04c69ae6dc14fd1ec7c92ad4133c0f8ffe303bbd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T10:39:46.464Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "猫汰つな",
+      "tags": [
+        "猫汰つな",
+        "VTuber",
+        "バーチャルYouTuber",
+        "ぶいすぽっ!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147464977_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147464977",
+      "sourceCreatedAt": "2026-07-21T08:46:52.000Z"
+    },
+    {
       "id": "bd77e9eb",
       "filename": "pixiv_147466299_p0.jpg",
       "path": "uploads/2026/07/81516bbc.jpg",
