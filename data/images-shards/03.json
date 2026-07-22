@@ -3,6 +3,28 @@
   "shardId": "03",
   "images": [
     {
+      "id": "00c23b5b",
+      "filename": "pixiv_147208774_p0.jpg",
+      "path": "uploads/2026/07/95fb5ad9.jpg",
+      "size": 748103,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "bfccb38cf9127f076734a9ceb88f87a345c33e8ee18ab516d607d3d925b56339",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T10:41:18.629Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Phase Connect ALiAS 4周年キービジュアル",
+      "tags": [
+        "PhaseConnect"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147208774_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147208774",
+      "sourceCreatedAt": "2026-07-14T15:04:08.000Z"
+    },
+    {
       "id": "2a547296",
       "filename": "pixiv_147410478_p0.jpg",
       "path": "uploads/2026/07/5db41bf1.jpg",
