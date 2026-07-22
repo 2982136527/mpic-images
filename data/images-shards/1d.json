@@ -3,6 +3,34 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "a702045b",
+      "filename": "pixiv_147456328_p0.jpg",
+      "path": "uploads/2026/07/c84675c0.jpg",
+      "size": 1168957,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a2ba7d42ed848566fb59e2f2827f13b1e4182d0af2f3fb4252345833cf8c1f6e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:26:59.665Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "迷い猫探してます",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "イラスト",
+        "女の子",
+        "犬",
+        "猫",
+        "日常"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147456328_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147456328",
+      "sourceCreatedAt": "2026-07-21T01:49:30.000Z"
+    },
+    {
       "id": "ac8db020",
       "filename": "pixiv_147459864_p0.jpg",
       "path": "uploads/2026/07/5b2d0a1b.jpg",
