@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "1a10c2df",
+      "filename": "pixiv_147420426_p0.jpg",
+      "path": "uploads/2026/07/3ce3d576.jpg",
+      "size": 950357,
+      "width": 1200,
+      "height": 762,
+      "mimeType": "image/jpeg",
+      "hash": "e0cfe4e054304240be0d7309da4d4e4e5c1ae1681d85ff14402b3720395a5f45",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:26:54.108Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "洛蒂",
+      "tags": [
+        "kaguyano",
+        "白タイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147420426_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147420426",
+      "sourceCreatedAt": "2026-07-20T05:05:55.000Z"
+    },
+    {
       "id": "2fec5892",
       "filename": "pixiv_147443447_p0.jpg",
       "path": "uploads/2026/07/7489012f.jpg",
