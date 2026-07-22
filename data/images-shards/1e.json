@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "9941b7d0",
+      "filename": "pixiv_147400791_p0.jpg",
+      "path": "uploads/2026/07/4783ec6e.jpg",
+      "size": 1097066,
+      "width": 627,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9d71b0e68c36d8d75498d471a806017d8265ab500067d334d91fa3165e38552a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:26:48.993Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "the Year of the Rabbit",
+      "tags": [
+        "女の子",
+        "裏干支"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147400791_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147400791",
+      "sourceCreatedAt": "2026-07-19T15:00:32.000Z"
+    },
+    {
       "id": "05f3a717",
       "filename": "pixiv_147438912_p0.jpg",
       "path": "uploads/2026/07/4a6c9b42.jpg",
