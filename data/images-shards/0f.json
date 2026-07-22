@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "f9c91c2c",
+      "filename": "pixiv_147470026_p0.jpg",
+      "path": "uploads/2026/07/eb8156d4.jpg",
+      "size": 875592,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "07ecdd1078ade81b5d43f5b6bc0ca324a19db68699461779dfd6218b62499621",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:34:32.967Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "四万十ちゃん",
+      "tags": [
+        "アズールレーン",
+        "四万十(アズールレーン)",
+        "アズールレーン100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147470026_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147470026",
+      "sourceCreatedAt": "2026-07-21T11:10:25.000Z"
+    },
+    {
       "id": "34c2f29a",
       "filename": "pixiv_147468543_p0.jpg",
       "path": "uploads/2026/07/889ebb25.jpg",
