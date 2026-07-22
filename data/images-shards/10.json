@@ -3,6 +3,34 @@
   "shardId": "10",
   "images": [
     {
+      "id": "9a4e2b2e",
+      "filename": "pixiv_147403038_p0.jpg",
+      "path": "uploads/2026/07/e97a8b7d.jpg",
+      "size": 562556,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "fbb7b8424d482c0c8f93ceaa2516b88b2d69138888969b1a11bee1fa02e4ef0f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T10:35:27.464Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "싸인해주세요 선생님 !!!!!!!!!!(블루아카이브 애니)",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "블루아카이브",
+        "ブルアカ",
+        "殴りたい、この笑顔",
+        "アロナ(ブルーアーカイブ)",
+        "プラナ(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147403038_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147403038",
+      "sourceCreatedAt": "2026-07-19T15:42:02.000Z"
+    },
+    {
       "id": "73c1bdcf",
       "filename": "pixiv_147449314_p0.jpg",
       "path": "uploads/2026/07/0c53f14b.jpg",
