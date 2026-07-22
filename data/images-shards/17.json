@@ -3,6 +3,32 @@
   "shardId": "17",
   "images": [
     {
+      "id": "b1d8431e",
+      "filename": "pixiv_147459812_p0.jpg",
+      "path": "uploads/2026/07/8a1f22ae.jpg",
+      "size": 631604,
+      "width": 760,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a2b4a339832a56adbd5a49b5ab35804e7f5daffc59550707e44a240cdff9c0ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T10:36:39.091Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "人選ミス",
+      "tags": [
+        "東方Project",
+        "物部布都",
+        "蘇我屠自古",
+        "ふとじこ",
+        "さもありなん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147459812_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147459812",
+      "sourceCreatedAt": "2026-07-21T04:37:55.000Z"
+    },
+    {
       "id": "8cda970d",
       "filename": "pixiv_147436171_p0.jpg",
       "path": "uploads/2026/07/175aba03.jpg",
