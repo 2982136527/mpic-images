@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "eec124d0",
+      "filename": "pixiv_147438459_p0.jpg",
+      "path": "uploads/2026/07/6ae6686c.jpg",
+      "size": 1230247,
+      "width": 1200,
+      "height": 739,
+      "mimeType": "image/jpeg",
+      "hash": "c5227754a58a7fbe8cc29228000c417aee1fa8531723fddb4b099af4befb4eb9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:30:43.028Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "海の日",
+      "tags": [
+        "大慶直胤",
+        "柴犬"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147438459_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147438459",
+      "sourceCreatedAt": "2026-07-20T13:14:59.000Z"
+    },
+    {
       "id": "48edfe1b",
       "filename": "pixiv_147377896_p0.jpg",
       "path": "uploads/2026/07/0cd06f50.jpg",
