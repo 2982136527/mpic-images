@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "bbddce86",
+      "filename": "pixiv_147465223_p0.jpg",
+      "path": "uploads/2026/07/60360547.jpg",
+      "size": 1146284,
+      "width": 888,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c113f3df12ebb31e5bbc4ba72390f4d4aa43cabf564295c6f7c53cdb74fc8908",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:31:23.495Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "海の日",
+      "tags": [
+        "東方",
+        "東方Project",
+        "村紗水蜜",
+        "水中"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147465223_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147465223",
+      "sourceCreatedAt": "2026-07-21T08:56:35.000Z"
+    },
+    {
       "id": "81bf0403",
       "filename": "pixiv_147464661_p0.jpg",
       "path": "uploads/2026/07/6a4c6d85.jpg",
