@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "1703beee",
+      "filename": "pixiv_147476186_p0.jpg",
+      "path": "uploads/2026/07/8c709d95.jpg",
+      "size": 422375,
+      "width": 666,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "49668ceb0ec9d365c88bc91ef76a77cfc55aec8e126772f2304f2d4f10d72674",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:27:36.760Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "らくがき",
+      "tags": [
+        "水着",
+        "女の子",
+        "Vtuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147476186_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147476186",
+      "sourceCreatedAt": "2026-07-21T13:28:50.000Z"
+    },
+    {
       "id": "1c9cad81",
       "filename": "pixiv_147456258_p0.jpg",
       "path": "uploads/2026/07/6a1f0d7b.jpg",
