@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "f39bdbaf",
+      "filename": "pixiv_147437260_p0.jpg",
+      "path": "uploads/2026/07/b6327553.jpg",
+      "size": 1037359,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e735f778e61cefff214f9870dc99c2b7876b06cd18a9778b000be920f574cc36",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T10:31:55.491Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "陽だまりに解ける",
+      "tags": [
+        "ミラーリボンズ",
+        "オリジナル",
+        "双子",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147437260_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147437260",
+      "sourceCreatedAt": "2026-07-20T12:52:45.000Z"
+    },
+    {
       "id": "a9f87970",
       "filename": "pixiv_147401420_p0.jpg",
       "path": "uploads/2026/07/ce6e5dcb.jpg",
