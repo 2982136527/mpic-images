@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "b7597203",
+      "filename": "pixiv_147400735_p0.jpg",
+      "path": "uploads/2026/07/63132b05.jpg",
+      "size": 538757,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "99529fd140b2f7e984f4c5056220a65b21ec2b747b88d6d014e5551b82412a01",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T03:32:31.239Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "儀玄",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "儀玄",
+        "ゼンゼロ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147400735_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147400735",
+      "sourceCreatedAt": "2026-07-19T15:00:22.000Z"
+    },
+    {
       "id": "7789420e",
       "filename": "pixiv_147405414_p0.jpg",
       "path": "uploads/2026/07/f2014af4.jpg",
