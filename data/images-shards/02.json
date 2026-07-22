@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "f66a6ecc",
+      "filename": "pixiv_147402517_p0.jpg",
+      "path": "uploads/2026/07/530515b6.jpg",
+      "size": 410416,
+      "width": 777,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3af51b18d55d1e6c85396461a40e3eb02e951fb68dd4cb9781a1f8578b6fbbc9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T10:34:44.881Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "サマーチルノちゃん",
+      "tags": [
+        "東方Project",
+        "東方",
+        "チルノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147402517_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147402517",
+      "sourceCreatedAt": "2026-07-19T15:30:04.000Z"
+    },
+    {
       "id": "5fa2f31c",
       "filename": "pixiv_147443452_p0.jpg",
       "path": "uploads/2026/07/c478b5e4.jpg",
