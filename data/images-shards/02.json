@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "5489ac5c",
+      "filename": "pixiv_147429690_p0.jpg",
+      "path": "uploads/2026/07/2fcdef6d.jpg",
+      "size": 1241891,
+      "width": 1200,
+      "height": 720,
+      "mimeType": "image/jpeg",
+      "hash": "d95eb3ba6c55c828b68a2d40197b3f382e63fecdc1bcb63eaacd03dcfa42adca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T10:31:35.302Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "涼やか魔理沙と霊夢",
+      "tags": [
+        "博麗霊夢",
+        "東方",
+        "霧雨魔理沙",
+        "東方Project",
+        "金魚"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147429690_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147429690",
+      "sourceCreatedAt": "2026-07-20T10:04:27.000Z"
+    },
+    {
       "id": "957d6f9a",
       "filename": "pixiv_147398408_p0.jpg",
       "path": "uploads/2026/07/a88c1175.jpg",
