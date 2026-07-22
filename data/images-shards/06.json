@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "21ba9df8",
+      "filename": "pixiv_147431591_p0.jpg",
+      "path": "uploads/2026/07/ef68b905.jpg",
+      "size": 839385,
+      "width": 532,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2be15ad3496d57a800c1d416aeb6269927f8383893f4cb05ea72e3051bf34968",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:31:54.724Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "深海少女",
+      "tags": [
+        "深海少女",
+        "初音ミク",
+        "VOCALOID",
+        "水中"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147431591_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147431591",
+      "sourceCreatedAt": "2026-07-20T10:55:58.000Z"
+    },
+    {
       "id": "4db8f68b",
       "filename": "pixiv_147451666_p0.jpg",
       "path": "uploads/2026/07/aa9bbd36.jpg",
