@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "e4e084aa",
+      "filename": "pixiv_147441630_p0.jpg",
+      "path": "uploads/2026/07/1c50bb85.jpg",
+      "size": 872716,
+      "width": 1200,
+      "height": 880,
+      "mimeType": "image/jpeg",
+      "hash": "4fa91305c797818311a318bcb23ec3c27d3175a093fdc207c61577b650ee255c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:30:51.316Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "체리",
+        "カードキャプターさくら",
+        "プラチナ・スター・ドレス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147441630_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147441630",
+      "sourceCreatedAt": "2026-07-20T14:23:28.000Z"
+    },
+    {
       "id": "8c98dfb4",
       "filename": "pixiv_147448484_p0.jpg",
       "path": "uploads/2026/07/d54bf9c2.jpg",
