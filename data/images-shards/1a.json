@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "539a2f17",
+      "filename": "pixiv_147449168_p0.jpg",
+      "path": "uploads/2026/07/fa894c96.jpg",
+      "size": 1036912,
+      "width": 623,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f0e5003bee77cbf0ef99c290de9f43bf9477b5dc7531d75f8ede819d9dff93fb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:30:16.637Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "おい",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "NIKKE",
+        "ベヒモス(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147449168_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147449168",
+      "sourceCreatedAt": "2026-07-20T18:04:55.000Z"
+    },
+    {
       "id": "6c089ecb",
       "filename": "pixiv_147256050_p0.jpg",
       "path": "uploads/2026/07/c1a44ae8.jpg",
