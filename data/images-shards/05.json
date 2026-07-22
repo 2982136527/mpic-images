@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "3caa6140",
+      "filename": "pixiv_147471447_p0.jpg",
+      "path": "uploads/2026/07/8b2a4860.jpg",
+      "size": 303776,
+      "width": 437,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c74c8595a8a7fe11dcbf2b7601240a65caa31ad9c3b1ac67fb09812a7f56902a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T10:37:17.431Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ミク",
+      "tags": [
+        "初音ミク",
+        "魅惑の脚線美",
+        "VOCALOID500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147471447_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147471447",
+      "sourceCreatedAt": "2026-07-21T11:46:09.000Z"
+    },
+    {
       "id": "1c29e077",
       "filename": "pixiv_147433799_p0.jpg",
       "path": "uploads/2026/07/fdd522b8.jpg",
