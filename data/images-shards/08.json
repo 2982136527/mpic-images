@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "1bbf48a0",
+      "filename": "pixiv_147398848_p0.jpg",
+      "path": "uploads/2026/07/5a08f333.jpg",
+      "size": 2532490,
+      "width": 1100,
+      "height": 1100,
+      "mimeType": "image/jpeg",
+      "hash": "7fc15c176dad93f952bc982ba4665257ebdd32975d3e10e9e22638135501dc8d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T03:30:03.178Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ドラゴンフルーツ",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "デジタル",
+        "ドラゴンフルーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147398848_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147398848",
+      "sourceCreatedAt": "2026-07-19T14:24:27.000Z"
+    },
+    {
       "id": "4f39351d",
       "filename": "pixiv_147416498_p0.jpg",
       "path": "uploads/2026/07/c5caa421.jpg",
