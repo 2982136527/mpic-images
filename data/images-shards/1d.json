@@ -3,6 +3,37 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "d8e41522",
+      "filename": "pixiv_147408714_p0.jpg",
+      "path": "uploads/2026/07/edc26f3b.jpg",
+      "size": 1206800,
+      "width": 1200,
+      "height": 890,
+      "mimeType": "image/jpeg",
+      "hash": "0e6c02a01495c76b8762a7e2c43f2d3cae6de24991a0164f76ed74e097c8e2ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T03:30:58.412Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夏はアイス🍨",
+      "tags": [
+        "アイス",
+        "海の日",
+        "アイスバー",
+        "カップアイス",
+        "pixiv今日のお題",
+        "pixivGlowEffect",
+        "summer",
+        "夏",
+        "デザート",
+        "icecream"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147408714_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147408714",
+      "sourceCreatedAt": "2026-07-19T20:12:29.000Z"
+    },
+    {
       "id": "b0f61e74",
       "filename": "pixiv_147390080_p0.jpg",
       "path": "uploads/2026/07/567f9e8e.jpg",
