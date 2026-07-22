@@ -3,6 +3,33 @@
   "shardId": "13",
   "images": [
     {
+      "id": "13abc5ec",
+      "filename": "pixiv_147460886_p0.jpg",
+      "path": "uploads/2026/07/de861377.jpg",
+      "size": 458950,
+      "width": 1029,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "963f6a71a34dc81a681e55d715c8519580b58bb61e750c06896d083b108b2735",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T10:35:07.679Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "敬礼",
+      "tags": [
+        "女の子",
+        "創作",
+        "うちの子",
+        "ロボ娘",
+        "むちむち",
+        "すじ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147460886_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147460886",
+      "sourceCreatedAt": "2026-07-21T05:34:56.000Z"
+    },
+    {
       "id": "6034b5d1",
       "filename": "pixiv_147417382_p0.jpg",
       "path": "uploads/2026/07/5f4eb99a.jpg",
