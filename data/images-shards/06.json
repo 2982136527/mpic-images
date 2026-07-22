@@ -3,6 +3,33 @@
   "shardId": "06",
   "images": [
     {
+      "id": "9c5a9587",
+      "filename": "pixiv_147457699_p0.jpg",
+      "path": "uploads/2026/07/0669cb5c.jpg",
+      "size": 368369,
+      "width": 596,
+      "height": 735,
+      "mimeType": "image/jpeg",
+      "hash": "cb9016bbc1a0a1ad97fa4ce10764d26832058b541df5d6375b4797fc5cd87327",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:27:05.793Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "個人メモ：線の生き死に",
+      "tags": [
+        "漫画素材工房",
+        "描き方",
+        "人物",
+        "線画",
+        "ペン入れ",
+        "生き死に"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147457699_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147457699",
+      "sourceCreatedAt": "2026-07-21T03:00:26.000Z"
+    },
+    {
       "id": "e82e74d1",
       "filename": "pixiv_147454448_p0.jpg",
       "path": "uploads/2026/07/25921c4c.jpg",
