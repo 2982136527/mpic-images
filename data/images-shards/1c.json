@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "0ab7df2e",
+      "filename": "pixiv_147444111_p0.jpg",
+      "path": "uploads/2026/07/7c296f28.jpg",
+      "size": 356406,
+      "width": 1200,
+      "height": 720,
+      "mimeType": "image/jpeg",
+      "hash": "580cecefd513352d9a11d655dc1d3077b85d27c9a729c92ef57e45cc8976fb53",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:27:14.902Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "あっちゃんとあっくん",
+      "tags": [
+        "悪魔の赤ちゃんあっくん",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147444111_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147444111",
+      "sourceCreatedAt": "2026-07-20T15:08:11.000Z"
+    },
+    {
       "id": "ac7af514",
       "filename": "pixiv_147409055_p0.jpg",
       "path": "uploads/2026/07/9db7b006.jpg",
