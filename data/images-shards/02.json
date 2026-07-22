@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "48af119a",
+      "filename": "pixiv_147435501_p0.jpg",
+      "path": "uploads/2026/07/c036437f.jpg",
+      "size": 1142965,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "f28f457cd7fd60c29e2af891d8879bbc630e74b286a02274d0cbbb84f2020ff8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T03:31:31.554Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "デレステ風",
+      "tags": [
+        "アイドルマスターシンデレラガールズ",
+        "一ノ瀬志希",
+        "古賀小春",
+        "依田芳乃",
+        "デレラジ紹介作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147435501_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147435501",
+      "sourceCreatedAt": "2026-07-20T12:14:58.000Z"
+    },
+    {
       "id": "c2da2b28",
       "filename": "pixiv_147435132_p0.jpg",
       "path": "uploads/2026/07/fa59396e.jpg",
