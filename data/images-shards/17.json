@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "fc7be02b",
+      "filename": "pixiv_147414584_p0.jpg",
+      "path": "uploads/2026/07/14ffdd0e.jpg",
+      "size": 396872,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1a13be5d1ef7771006d7d781780ba7a08ae6772a0bbff79b484b16e5d78883cc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T03:35:36.610Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "厚さにまとめ",
+      "tags": [
+        "刀さに",
+        "厚さに",
+        "厚藤四郎"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147414584_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147414584",
+      "sourceCreatedAt": "2026-07-20T01:24:19.000Z"
+    },
+    {
       "id": "e7f40b0d",
       "filename": "pixiv_147400591_p0.jpg",
       "path": "uploads/2026/07/9c611103.jpg",
