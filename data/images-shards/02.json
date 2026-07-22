@@ -3,6 +3,34 @@
   "shardId": "02",
   "images": [
     {
+      "id": "3bfd2d83",
+      "filename": "pixiv_147465765_p0.jpg",
+      "path": "uploads/2026/07/e2f41b6e.jpg",
+      "size": 1297009,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "05c3780befa1233442d5eee8d1993724cd85237cc1a728991fae21a3d0a533ef",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:28:50.390Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "仕事中",
+      "tags": [
+        "作業部屋",
+        "建築",
+        "亀",
+        "机",
+        "背景",
+        "魚眼",
+        "部屋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147465765_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147465765",
+      "sourceCreatedAt": "2026-07-21T09:06:21.000Z"
+    },
+    {
       "id": "fa2a3e48",
       "filename": "pixiv_147441115_p0.jpg",
       "path": "uploads/2026/07/23a65ff6.jpg",
