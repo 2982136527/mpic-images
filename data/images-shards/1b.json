@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "856a320d",
+      "filename": "pixiv_147405155_p0.jpg",
+      "path": "uploads/2026/07/34723e8c.jpg",
+      "size": 849538,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "32d9323cb7a3530dc456f66a0ef7eea1a24da4f9788417f1e3ac7b02c799bc81",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T03:35:51.461Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "黒水着タルマエ",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "ホッコータルマエ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147405155_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147405155",
+      "sourceCreatedAt": "2026-07-19T16:48:15.000Z"
+    },
+    {
       "id": "ed0406ae",
       "filename": "pixiv_147403287_p0.jpg",
       "path": "uploads/2026/07/332a58be.jpg",
