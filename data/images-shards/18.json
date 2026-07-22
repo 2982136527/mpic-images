@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "94c99586",
+      "filename": "pixiv_147410758_p0.jpg",
+      "path": "uploads/2026/07/942106f7.jpg",
+      "size": 334148,
+      "width": 1200,
+      "height": 959,
+      "mimeType": "image/jpeg",
+      "hash": "2b0d4a4bb317f5c702bf0573ca263cdd5efce21af69a99db8653157332f97557",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T03:31:42.687Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Commission",
+      "tags": [
+        "girl",
+        "commission",
+        "superhero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147410758_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147410758",
+      "sourceCreatedAt": "2026-07-19T22:24:51.000Z"
+    },
+    {
       "id": "8f4609bc",
       "filename": "pixiv_147400941_p0.jpg",
       "path": "uploads/2026/07/404c5bec.jpg",
