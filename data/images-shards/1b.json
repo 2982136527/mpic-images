@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "d508ba5c",
+      "filename": "pixiv_147406037_p0.jpg",
+      "path": "uploads/2026/07/c8aa81db.jpg",
+      "size": 808457,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9dc1b635088c119e3cb9001746abcce801eb82528b56c9f243d2e30d1ff31418",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T10:33:33.289Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "エレン・ジョー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147406037_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147406037",
+      "sourceCreatedAt": "2026-07-19T17:25:36.000Z"
+    },
+    {
       "id": "08ea98db",
       "filename": "pixiv_147460384_p0.jpg",
       "path": "uploads/2026/07/8653b12c.jpg",
