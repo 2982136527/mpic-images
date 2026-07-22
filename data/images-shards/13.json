@@ -3,6 +3,32 @@
   "shardId": "13",
   "images": [
     {
+      "id": "2d9b3c80",
+      "filename": "pixiv_147438581_p0.jpg",
+      "path": "uploads/2026/07/0469d508.jpg",
+      "size": 1202519,
+      "width": 1115,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "77890a84e6b9cea83da40563cbfdbbb98cd06ad2f658bc7320c5bc1d8da344fa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:30:28.425Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "NARUTOまとめ35",
+      "tags": [
+        "NARUTO",
+        "うずまきナルト",
+        "九喇嘛",
+        "尾獣",
+        "BORUTO"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147438581_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147438581",
+      "sourceCreatedAt": "2026-07-20T13:17:28.000Z"
+    },
+    {
       "id": "53f9ed59",
       "filename": "pixiv_147420084_p0.jpg",
       "path": "uploads/2026/07/e13f4d4a.jpg",
