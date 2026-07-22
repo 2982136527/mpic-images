@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "e26cd9ac",
+      "filename": "pixiv_147272102_p0.jpg",
+      "path": "uploads/2026/07/fc9c2ea6.jpg",
+      "size": 773609,
+      "width": 769,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "41b6e9c92f30b2199b3afa0d9ad4c71e7cc1cb4640496c07abb396ef90ba30e6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:32:06.422Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "一緒に行こう✨",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147272102_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147272102",
+      "sourceCreatedAt": "2026-07-16T12:10:43.000Z"
+    },
+    {
       "id": "eec124d0",
       "filename": "pixiv_147438459_p0.jpg",
       "path": "uploads/2026/07/6ae6686c.jpg",
