@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "34c2f29a",
+      "filename": "pixiv_147468543_p0.jpg",
+      "path": "uploads/2026/07/889ebb25.jpg",
+      "size": 1214644,
+      "width": 982,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "63e9c215311110ade53ac90084dc6f485fb2f87bfc03a3f8ba2b03679d3d68ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:29:22.501Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "イラスト",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147468543_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147468543",
+      "sourceCreatedAt": "2026-07-21T10:33:39.000Z"
+    },
+    {
       "id": "f44ace16",
       "filename": "pixiv_147457240_p0.jpg",
       "path": "uploads/2026/07/cace6409.jpg",
