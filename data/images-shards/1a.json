@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "7989bc39",
+      "filename": "pixiv_147406460_p0.jpg",
+      "path": "uploads/2026/07/297ec85e.jpg",
+      "size": 1034753,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9db801cbe9b9a142cb11e79842f9135058cf42111fc6ecde7bfd66c155526890",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T03:29:22.258Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "HAPPYBIRTHDAY TARTAGLIA",
+      "tags": [
+        "タルタリヤ",
+        "原神",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147406460_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147406460",
+      "sourceCreatedAt": "2026-07-19T17:45:00.000Z"
+    },
+    {
       "id": "0d9dd032",
       "filename": "pixiv_147357092_p0.jpg",
       "path": "uploads/2026/07/008c018f.jpg",
