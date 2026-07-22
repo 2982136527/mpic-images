@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "8f4609bc",
+      "filename": "pixiv_147400941_p0.jpg",
+      "path": "uploads/2026/07/404c5bec.jpg",
+      "size": 765893,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cab2ff6c275e0d35b9ed701ebac010ed5d16b762e999904570c072b19cbeef2a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T03:29:41.041Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "かいすいよく。",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147400941_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147400941",
+      "sourceCreatedAt": "2026-07-19T15:01:17.000Z"
+    },
+    {
       "id": "5597329c",
       "filename": "pixiv_147400639_p0.jpg",
       "path": "uploads/2026/07/08777e8e.jpg",
