@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "71fd2f90",
+      "filename": "pixiv_147412589_p0.jpg",
+      "path": "uploads/2026/07/927b29d9.jpg",
+      "size": 588045,
+      "width": 711,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3d9e2d9227b13da8db53c57d82c82ac3ecc6006df065d9105b871cefd0fd3ae9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T17:34:20.981Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "スザルルまとめ",
+      "tags": [
+        "スザルル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147412589_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147412589",
+      "sourceCreatedAt": "2026-07-19T23:54:34.000Z"
+    },
+    {
       "id": "0ab7df2e",
       "filename": "pixiv_147444111_p0.jpg",
       "path": "uploads/2026/07/7c296f28.jpg",
