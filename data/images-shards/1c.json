@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "dcb9ca0f",
+      "filename": "pixiv_147464161_p0.jpg",
+      "path": "uploads/2026/07/e3494216.jpg",
+      "size": 807881,
+      "width": 864,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3f3f0811526a8962c5bbe96cc0fc8b7a5edba757a4eacf248dc889bd02f6a626",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T10:37:28.265Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "C108 表紙とサークル名についてのご案内！",
+      "tags": [
+        "超かぐや姫!",
+        "かぐいろ",
+        "百合",
+        "C108"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147464161_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147464161",
+      "sourceCreatedAt": "2026-07-21T08:12:04.000Z"
+    },
+    {
       "id": "420b8f3f",
       "filename": "pixiv_147430256_p0.jpg",
       "path": "uploads/2026/07/45ce086d.jpg",
