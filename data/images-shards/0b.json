@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "9197eb60",
+      "filename": "pixiv_147393621_p0.jpg",
+      "path": "uploads/2026/07/575ce2da.jpg",
+      "size": 2184038,
+      "width": 955,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f9d5251aacf78180355a863b56334fc31e00fd242ee0d88c4f77a89b91e730fa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-22T03:27:53.002Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ヤラララ",
+      "tags": [
+        "重音テト",
+        "ヤラララ",
+        "UTAU100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147393621_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147393621",
+      "sourceCreatedAt": "2026-07-19T12:35:32.000Z"
+    },
+    {
       "id": "b2ee265a",
       "filename": "pixiv_147415561_p0.jpg",
       "path": "uploads/2026/07/7c560f50.jpg",
