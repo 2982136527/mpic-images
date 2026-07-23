@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "49b0068e",
+      "filename": "pixiv_147470877_p0.jpg",
+      "path": "uploads/2026/07/528c19fd.jpg",
+      "size": 766719,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5e266a018ddae0280be6dcf8522ac36fb55b5896271e4c289d5bc026fd872352",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T17:46:04.837Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "佩丽卡监督",
+      "tags": [
+        "ペリカ",
+        "Perlica",
+        "アークナイツ:エンドフィールド",
+        "黒スト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147470877_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147470877",
+      "sourceCreatedAt": "2026-07-21T11:31:46.000Z"
+    },
+    {
       "id": "10c4963f",
       "filename": "pixiv_147475137_p0.jpg",
       "path": "uploads/2026/07/c3d49455.jpg",
