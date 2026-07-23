@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "ef4469ff",
+      "filename": "pixiv_147446226_p0.jpg",
+      "path": "uploads/2026/07/88b78598.jpg",
+      "size": 738641,
+      "width": 768,
+      "height": 1024,
+      "mimeType": "image/jpeg",
+      "hash": "d6a25f11b1f073fa6d6a7b80aa25e2b42a4dad65306d72bbbe158fbe8b2f2e75",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T03:35:24.702Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "PPPPミクテト",
+      "tags": [
+        "初音ミク",
+        "重音テト",
+        "PPPP",
+        "ミクテト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147446226_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147446226",
+      "sourceCreatedAt": "2026-07-20T16:02:28.000Z"
+    },
+    {
       "id": "d77871b1",
       "filename": "pixiv_147439554_p0.jpg",
       "path": "uploads/2026/07/ac98d724.jpg",
