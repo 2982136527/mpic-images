@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "b4700506",
+      "filename": "pixiv_147432256_p0.jpg",
+      "path": "uploads/2026/07/e6915288.jpg",
+      "size": 1479242,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "03a2d0908337af3f2e1da6bcc339ab5bdbe3388628f571df9a0e14b3932452ac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T03:33:22.734Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "A Little Break Between Ideas",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "少女",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147432256_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147432256",
+      "sourceCreatedAt": "2026-07-20T11:06:06.000Z"
+    },
+    {
       "id": "25daf0cd",
       "filename": "pixiv_147471288_p0.jpg",
       "path": "uploads/2026/07/b8ade309.jpg",
