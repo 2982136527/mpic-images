@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "7e8a2b0d",
+      "filename": "pixiv_147400816_p0.jpg",
+      "path": "uploads/2026/07/9839d0bc.jpg",
+      "size": 830872,
+      "width": 801,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7d38ec7864bb3e256e4ab31740fda315105f4f3698f9952ccefa19d21371a67e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T03:32:40.600Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "❤",
+      "tags": [
+        "猫又おかゆ",
+        "ホロライブ",
+        "バーチャルYouTuber1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147400816_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147400816",
+      "sourceCreatedAt": "2026-07-19T15:00:38.000Z"
+    },
+    {
       "id": "69f33282",
       "filename": "pixiv_147439383_p0.jpg",
       "path": "uploads/2026/07/cc8861ba.jpg",
