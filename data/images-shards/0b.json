@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "d006c804",
+      "filename": "pixiv_147506509_p0.jpg",
+      "path": "uploads/2026/07/5fcc45dd.jpg",
+      "size": 1117762,
+      "width": 835,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "95fa91cd2343d8b605150f83a4ebbe41f3464b6ce118362984ba08230fe4c98b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:37:46.027Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "waterfront",
+      "tags": [
+        "オリキャラ",
+        "オリジナル",
+        "Minah",
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147506509_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147506509",
+      "sourceCreatedAt": "2026-07-22T11:04:41.000Z"
+    },
+    {
       "id": "5266066f",
       "filename": "pixiv_147454219_p0.jpg",
       "path": "uploads/2026/07/1eeaa2d5.jpg",
