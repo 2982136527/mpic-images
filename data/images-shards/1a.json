@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "9c718d17",
+      "filename": "pixiv_147444708_p0.jpg",
+      "path": "uploads/2026/07/b4804f3a.jpg",
+      "size": 816292,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d6052e2636b0059f74333ec5b7dafdc7f2b0f6af97fce22ff07b9caec6ec2a2e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T03:40:14.658Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "カイ潔Log5",
+      "tags": [
+        "カイ潔",
+        "腐ルーロック",
+        "kiis"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147444708_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147444708",
+      "sourceCreatedAt": "2026-07-20T15:21:56.000Z"
+    },
+    {
       "id": "1802479d",
       "filename": "pixiv_146439098_p0.jpg",
       "path": "uploads/2026/07/23818430.jpg",
