@@ -3,6 +3,37 @@
   "shardId": "01",
   "images": [
     {
+      "id": "2e5afb3c",
+      "filename": "pixiv_147465951_p0.jpg",
+      "path": "uploads/2026/07/c7b6858d.jpg",
+      "size": 736590,
+      "width": 1015,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5130d5cad1029a561a3233fd5783d5618180e296a3651ba9cb8e22e8eb588dca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:36:08.712Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "メイドヒナちゃん",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "空崎ヒナ",
+        "ヒナ",
+        "メイド",
+        "才羽モモイ",
+        "才羽ミドリ",
+        "ミドリ",
+        "モモイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147465951_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147465951",
+      "sourceCreatedAt": "2026-07-21T09:13:20.000Z"
+    },
+    {
       "id": "f2b5fc9c",
       "filename": "pixiv_147492697_p0.jpg",
       "path": "uploads/2026/07/71ac6ef0.jpg",
