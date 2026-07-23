@@ -3,6 +3,33 @@
   "shardId": "03",
   "images": [
     {
+      "id": "cf195b7f",
+      "filename": "pixiv_147479178_p0.jpg",
+      "path": "uploads/2026/07/dd4aa9a8.jpg",
+      "size": 1185219,
+      "width": 798,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5a9edb86313441427be3331e429aa6b2af3f72e1c0f103c0ba712f084c5e8bb6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T17:45:20.938Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Missing Fulgora",
+      "tags": [
+        "武装少女",
+        "軍事",
+        "銃",
+        "ミリタリー",
+        "ベレー帽",
+        "fal"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147479178_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147479178",
+      "sourceCreatedAt": "2026-07-21T14:35:43.000Z"
+    },
+    {
       "id": "be04242f",
       "filename": "pixiv_147493704_p0.jpg",
       "path": "uploads/2026/07/0573915a.jpg",
