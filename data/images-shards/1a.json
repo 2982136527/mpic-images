@@ -3,6 +3,28 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "0d340380",
+      "filename": "pixiv_147430047_p0.jpg",
+      "path": "uploads/2026/07/24c8cab5.jpg",
+      "size": 702079,
+      "width": 1200,
+      "height": 816,
+      "mimeType": "image/jpeg",
+      "hash": "b4acf1a48b7a66f17e11512d4d27d7d02542f6a75da5c67beee4f2b415a00225",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T03:33:17.240Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "OC",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147430047_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147430047",
+      "sourceCreatedAt": "2026-07-20T10:13:39.000Z"
+    },
+    {
       "id": "539a2f17",
       "filename": "pixiv_147449168_p0.jpg",
       "path": "uploads/2026/07/fa894c96.jpg",
