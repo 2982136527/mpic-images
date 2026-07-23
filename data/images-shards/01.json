@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "f4aeda68",
+      "filename": "pixiv_147507771_p0.jpg",
+      "path": "uploads/2026/07/65cb1e8c.jpg",
+      "size": 417743,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ca832a61838f3cda57262ba554b3be876568e37aa7c551328a652fa3b5be92c9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T03:39:35.198Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ソニア",
+      "tags": [
+        "ソニア(ポケモン)",
+        "ポケットモンスター",
+        "ポケモン",
+        "pokemon",
+        "ポケモン人間絵",
+        "マイクロビキニ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147507771_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147507771",
+      "sourceCreatedAt": "2026-07-22T11:36:55.000Z"
+    },
+    {
       "id": "c2d3c6b9",
       "filename": "pixiv_147436757_p0.jpg",
       "path": "uploads/2026/07/da3e612a.jpg",
