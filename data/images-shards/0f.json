@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "c8a17864",
+      "filename": "pixiv_147502340_p0.jpg",
+      "path": "uploads/2026/07/c851e2ae.jpg",
+      "size": 753280,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6186c4895dacca326a632e29752dd97c2d73851c4ac4cca11e7db25147f9032f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:35:41.971Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "銀の髪の",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "銀髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147502340_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147502340",
+      "sourceCreatedAt": "2026-07-22T09:04:50.000Z"
+    },
+    {
       "id": "dbd5351a",
       "filename": "pixiv_147465009_p0.jpg",
       "path": "uploads/2026/07/30b10d10.jpg",
