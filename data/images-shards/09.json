@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "da0ce03b",
+      "filename": "pixiv_147457696_p0.jpg",
+      "path": "uploads/2026/07/78c3c34d.jpg",
+      "size": 1394923,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "71b64ae5a777c1e394136d21e0d45bd8c403ed706c961b79d73695b2a3a654ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T03:34:56.700Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "本日発売！『キャラクターイラストの演出大事典』",
+      "tags": [
+        "描き方",
+        "講座"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147457696_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147457696",
+      "sourceCreatedAt": "2026-07-21T03:00:25.000Z"
+    },
+    {
       "id": "e7e2fc15",
       "filename": "pixiv_147232123_p0.jpg",
       "path": "uploads/2026/07/b9bba262.jpg",
