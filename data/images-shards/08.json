@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "4dad91bf",
+      "filename": "pixiv_147498160_p0.jpg",
+      "path": "uploads/2026/07/e10e6892.jpg",
+      "size": 613933,
+      "width": 1040,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "95a9474a440806655cb01cfaf95018ac6b0068ae0bb734caa7a099ea645c95e6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:38:18.603Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ちょっと陽芽",
+      "tags": [
+        "私の百合はお仕事です!",
+        "わたゆり",
+        "白木陽芽",
+        "白鷺陽芽"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147498160_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147498160",
+      "sourceCreatedAt": "2026-07-22T06:09:29.000Z"
+    },
+    {
       "id": "1742b2b0",
       "filename": "pixiv_147506146_p0.jpg",
       "path": "uploads/2026/07/5907c080.jpg",
