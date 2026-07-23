@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "de390755",
+      "filename": "pixiv_147469161_p0.jpg",
+      "path": "uploads/2026/07/ff397c2a.jpg",
+      "size": 832422,
+      "width": 1125,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3637794ce2a31f814d4bdce1a6e398dcb2a2d8e90680583f4fc1e9ffc55fa258",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:34:34.880Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "Deltarune",
+        "Aqua(DELTARUNE)",
+        "Seth(Deltarune)",
+        "Flowery(Deltarune)",
+        "Ralsei",
+        "フララル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147469161_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147469161",
+      "sourceCreatedAt": "2026-07-21T10:52:59.000Z"
+    },
+    {
       "id": "b557a694",
       "filename": "pixiv_147472408_p0.jpg",
       "path": "uploads/2026/07/383bdb3a.jpg",
