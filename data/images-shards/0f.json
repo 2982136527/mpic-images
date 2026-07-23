@@ -3,6 +3,28 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "dbd5351a",
+      "filename": "pixiv_147465009_p0.jpg",
+      "path": "uploads/2026/07/30b10d10.jpg",
+      "size": 1081266,
+      "width": 912,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "044995eda23810b2c074dfc483abc02abe404965cf13a861a8a456e497354a64",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:32:44.863Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ジザイカイナ",
+      "tags": [
+        "メカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147465009_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147465009",
+      "sourceCreatedAt": "2026-07-21T08:48:01.000Z"
+    },
+    {
       "id": "263062f4",
       "filename": "pixiv_147461535_p0.jpg",
       "path": "uploads/2026/07/d8782ddf.jpg",
