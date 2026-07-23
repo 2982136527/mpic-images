@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "263062f4",
+      "filename": "pixiv_147461535_p0.jpg",
+      "path": "uploads/2026/07/d8782ddf.jpg",
+      "size": 750053,
+      "width": 797,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fe57249b966f26feab5b221a654db9582ce52642720247d8d462271f7c49a727",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T03:34:05.871Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🍀",
+      "tags": [
+        "skeb",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147461535_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147461535",
+      "sourceCreatedAt": "2026-07-21T06:09:02.000Z"
+    },
+    {
       "id": "f9c91c2c",
       "filename": "pixiv_147470026_p0.jpg",
       "path": "uploads/2026/07/eb8156d4.jpg",
