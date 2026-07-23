@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "3da49e49",
+      "filename": "pixiv_147480325_p0.jpg",
+      "path": "uploads/2026/07/0b4cb968.jpg",
+      "size": 1269473,
+      "width": 757,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "574796b053d0ada4f8f35f29b6c6480bbc15508de58a06fcf75a854f46536731",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T17:38:47.930Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "心贈",
+      "tags": [
+        "女の子",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147480325_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147480325",
+      "sourceCreatedAt": "2026-07-21T15:00:24.000Z"
+    },
+    {
       "id": "c6c6f9be",
       "filename": "pixiv_147476582_p0.jpg",
       "path": "uploads/2026/07/00bd8918.jpg",
