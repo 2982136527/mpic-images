@@ -3,6 +3,35 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "0b58fbd8",
+      "filename": "pixiv_147459321_p0.jpg",
+      "path": "uploads/2026/07/091903ad.jpg",
+      "size": 737398,
+      "width": 900,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "b45b8e3bc8ad2f10e58b63a4ae779967157cf544bec43fcc50c7f7a5d2a6fb72",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T03:36:20.532Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "テオ3話",
+      "tags": [
+        "ウルトラマン",
+        "ウルトラマンテオ",
+        "プチ怪獣プッチー",
+        "ソデラ",
+        "狙われたプチ怪獣",
+        "ヴィアロガⅡ",
+        "ウルトラ怪獣",
+        "テオ怪獣"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147459321_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147459321",
+      "sourceCreatedAt": "2026-07-21T04:12:52.000Z"
+    },
+    {
       "id": "bdb58eb4",
       "filename": "pixiv_147459008_p0.jpg",
       "path": "uploads/2026/07/d2110240.jpg",
