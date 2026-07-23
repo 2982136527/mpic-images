@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "e121c34e",
+      "filename": "pixiv_147280051_p0.jpg",
+      "path": "uploads/2026/07/5a5f8b5d.jpg",
+      "size": 1585329,
+      "width": 863,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0ebff5be3bc37d19ae3f461b5a8ee80cbc1bb8fd2a86f54b0d3eab13ac722a28",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:38:37.534Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "オーク英雄物語８巻",
+      "tags": [
+        "オーク英雄物語",
+        "牙"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147280051_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147280051",
+      "sourceCreatedAt": "2026-07-16T15:04:44.000Z"
+    },
+    {
       "id": "3f2d9c68",
       "filename": "pixiv_147459874_p0.jpg",
       "path": "uploads/2026/07/3eb87f6b.jpg",
