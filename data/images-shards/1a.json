@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "2ef24d2d",
+      "filename": "pixiv_147468048_p0.jpg",
+      "path": "uploads/2026/07/bb162791.jpg",
+      "size": 773157,
+      "width": 956,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e47ccefec390341bcce9d1d4fe3febbc975c0eadf7e5787882cce77dfc49c9aa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T03:37:01.737Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "gebura / 게부라",
+      "tags": [
+        "LobotomyCorporation",
+        "Library_Of_Ruina",
+        "gebura",
+        "Limbus_Company",
+        "女の子",
+        "fanart"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147468048_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147468048",
+      "sourceCreatedAt": "2026-07-21T10:19:10.000Z"
+    },
+    {
       "id": "0d340380",
       "filename": "pixiv_147430047_p0.jpg",
       "path": "uploads/2026/07/24c8cab5.jpg",
