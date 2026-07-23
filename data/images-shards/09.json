@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "778a3d66",
+      "filename": "pixiv_147502481_p0.jpg",
+      "path": "uploads/2026/07/b5e69aec.jpg",
+      "size": 640282,
+      "width": 906,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4601f9aed6113d2a6c0062f399ed1b08216ce8b2b0273010ec37e475d386d99d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:34:22.033Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ヒナ (先生のシャツ)",
+      "tags": [
+        "ブルーアーカイブ",
+        "空崎ヒナ",
+        "ブルーアーカイブ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147502481_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147502481",
+      "sourceCreatedAt": "2026-07-22T09:09:32.000Z"
+    },
+    {
       "id": "8ff906ee",
       "filename": "pixiv_147481122_p0.jpg",
       "path": "uploads/2026/07/e00007c2.jpg",
