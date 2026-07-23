@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "1cb99aa0",
+      "filename": "pixiv_147494906_p0.jpg",
+      "path": "uploads/2026/07/0c691d71.jpg",
+      "size": 1369714,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "da55312529373780776ec46de1848581771d89fdaaedee926ad025c20f58499b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T03:39:54.528Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "勝利ポーズ中の好きな表情集",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "マヤノトップガン(ウマ娘)",
+        "クロノジェネシス(ウマ娘)",
+        "シュヴァルグラン(ウマ娘)",
+        "ナイスネイチャ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147494906_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147494906",
+      "sourceCreatedAt": "2026-07-22T03:31:53.000Z"
+    },
+    {
       "id": "514b1968",
       "filename": "pixiv_146440705_p0.jpg",
       "path": "uploads/2026/07/7c6ba613.jpg",
