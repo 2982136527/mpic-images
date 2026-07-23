@@ -3,6 +3,33 @@
   "shardId": "03",
   "images": [
     {
+      "id": "be04242f",
+      "filename": "pixiv_147493704_p0.jpg",
+      "path": "uploads/2026/07/0573915a.jpg",
+      "size": 158051,
+      "width": 1025,
+      "height": 650,
+      "mimeType": "image/jpeg",
+      "hash": "46be3b4a7b324813e5908507c90ddac0e3c27255395f4de25bbf5dd05a4f9d45",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T17:43:36.417Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "FGO カルデニア編",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "ぐだ子",
+        "マシュ・キリエライト",
+        "エルキドゥ",
+        "子ギル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147493704_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147493704",
+      "sourceCreatedAt": "2026-07-22T02:38:17.000Z"
+    },
+    {
       "id": "47d42dd6",
       "filename": "pixiv_147460398_p0.jpg",
       "path": "uploads/2026/07/fd82e21b.jpg",
