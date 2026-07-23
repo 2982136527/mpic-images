@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "ef8f779e",
+      "filename": "pixiv_147501205_p0.jpg",
+      "path": "uploads/2026/07/694be47b.jpg",
+      "size": 2102182,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1d99f0116227d9d2197c919f0c99e326f461f62257c875c3f545ec533b8ddf5b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T17:41:45.564Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ひとやすみ",
+      "tags": [
+        "オリジナル",
+        "男の子",
+        "創作男子",
+        "スーパー銭湯",
+        "寝転び"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147501205_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147501205",
+      "sourceCreatedAt": "2026-07-22T08:29:06.000Z"
+    },
+    {
       "id": "6f5dde45",
       "filename": "pixiv_147495214_p0.jpg",
       "path": "uploads/2026/07/075c404f.jpg",
