@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "3f2d9c68",
+      "filename": "pixiv_147459874_p0.jpg",
+      "path": "uploads/2026/07/3eb87f6b.jpg",
+      "size": 788556,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "093e327ec121a3579b233f402f0264b0ad087d4d73ed71c1580e1733d25d08ec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:37:52.411Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🦈",
+      "tags": [
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147459874_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147459874",
+      "sourceCreatedAt": "2026-07-21T04:41:12.000Z"
+    },
+    {
       "id": "3eede9ca",
       "filename": "pixiv_147467560_p0.jpg",
       "path": "uploads/2026/07/10afc004.jpg",
