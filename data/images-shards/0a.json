@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "aa07660c",
+      "filename": "pixiv_147474253_p0.jpg",
+      "path": "uploads/2026/07/97e02ddf.jpg",
+      "size": 1062206,
+      "width": 1200,
+      "height": 764,
+      "mimeType": "image/jpeg",
+      "hash": "a83d3ee9f6bd44fbb29a537f534aa3bde047dd9e127617b34b146e95e1aa9ba4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:35:48.444Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "霧雨魔理沙",
+      "tags": [
+        "TouhouProject",
+        "とうほうプロジェクト",
+        "霧雨魔理沙"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147474253_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147474253",
+      "sourceCreatedAt": "2026-07-21T12:45:22.000Z"
+    },
+    {
       "id": "27075441",
       "filename": "pixiv_147460805_p0.jpg",
       "path": "uploads/2026/07/e68aa8e8.jpg",
