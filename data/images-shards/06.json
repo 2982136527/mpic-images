@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "8df475a5",
+      "filename": "pixiv_147459290_p0.jpg",
+      "path": "uploads/2026/07/92a5c605.jpg",
+      "size": 889931,
+      "width": 1200,
+      "height": 870,
+      "mimeType": "image/jpeg",
+      "hash": "ee52ae01a318668e7e145885d9b6551094d229ae8485b37c132eb39934b81543",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:32:53.689Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "World Cup Dance",
+      "tags": [
+        "初音ミク",
+        "HatsuneMiku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147459290_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147459290",
+      "sourceCreatedAt": "2026-07-21T04:11:15.000Z"
+    },
+    {
       "id": "c746db3b",
       "filename": "pixiv_147480728_p0.jpg",
       "path": "uploads/2026/07/85b77e64.jpg",
