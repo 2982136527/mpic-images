@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "30468d0e",
+      "filename": "pixiv_147484162_p0.jpg",
+      "path": "uploads/2026/07/900df034.jpg",
+      "size": 994601,
+      "width": 1200,
+      "height": 742,
+      "mimeType": "image/jpeg",
+      "hash": "bd0a4bf854c17b8cfce65813768d88a6ff28ed2c583730e204ea1871c9ecdc70",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:35:32.381Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夏空の下",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "男の子",
+        "空"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147484162_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147484162",
+      "sourceCreatedAt": "2026-07-21T16:43:55.000Z"
+    },
+    {
       "id": "a17877e3",
       "filename": "pixiv_147508282_p0.jpg",
       "path": "uploads/2026/07/9273a410.jpg",
