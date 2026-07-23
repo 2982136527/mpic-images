@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "3eede9ca",
+      "filename": "pixiv_147467560_p0.jpg",
+      "path": "uploads/2026/07/10afc004.jpg",
+      "size": 1267346,
+      "width": 785,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fa04efe21894a5d1eca4e9bd463e856860ab95993e5f3c7e99ba335b09101cfc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T03:33:43.231Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "❤",
+      "tags": [
+        "416",
+        "少女前线",
+        "HK416(ドールズフロントライン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147467560_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147467560",
+      "sourceCreatedAt": "2026-07-21T10:03:57.000Z"
+    },
+    {
       "id": "98c0bc5b",
       "filename": "pixiv_147426193_p0.jpg",
       "path": "uploads/2026/07/004628ca.jpg",
