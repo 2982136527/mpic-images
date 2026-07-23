@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "bf9f18a4",
+      "filename": "pixiv_147496549_p0.jpg",
+      "path": "uploads/2026/07/900e02e4.jpg",
+      "size": 785786,
+      "width": 784,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8d54efb134d50000bdbb5e87d9fb0622b2d13f61f7ef550f64c7585e932fff18",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:31:56.824Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "bring your warmer",
+      "tags": [
+        "lumine",
+        "GenshinImpact",
+        "原神",
+        "chilumi"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147496549_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147496549",
+      "sourceCreatedAt": "2026-07-22T04:49:47.000Z"
+    },
+    {
       "id": "9c718d17",
       "filename": "pixiv_147444708_p0.jpg",
       "path": "uploads/2026/07/b4804f3a.jpg",
