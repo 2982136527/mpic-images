@@ -3,6 +3,37 @@
   "shardId": "03",
   "images": [
     {
+      "id": "e6dbba04",
+      "filename": "pixiv_147471199_p0.jpg",
+      "path": "uploads/2026/07/f01c7d31.jpg",
+      "size": 1255923,
+      "width": 1200,
+      "height": 753,
+      "mimeType": "image/jpeg",
+      "hash": "3681a1f18f8400880635af45ca8c25233ed0a2a6a52d889b83a6ec263cb1edee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:33:29.385Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "THE SEVEN ARCHONS",
+      "tags": [
+        "原神",
+        "ウェンティ(原神)",
+        "鍾離",
+        "雷電将軍",
+        "ナヒーダ",
+        "フォカロルス",
+        "フリーナ",
+        "マーヴィカ",
+        "アナスターシャ・フョードロヴナ・スネージナヤ",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147471199_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147471199",
+      "sourceCreatedAt": "2026-07-21T11:40:06.000Z"
+    },
+    {
       "id": "440f2c38",
       "filename": "pixiv_147401603_p0.jpg",
       "path": "uploads/2026/07/d52ffd75.jpg",
