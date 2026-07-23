@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "3c4ab4dd",
+      "filename": "pixiv_147498506_p0.jpg",
+      "path": "uploads/2026/07/8594fe61.jpg",
+      "size": 674417,
+      "width": 761,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a316d9454fb625cc8a96661cac1a6619375ee26a721bc7e7eb081ec1c83b170c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:33:45.825Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "KENZENログ",
+      "tags": [
+        "ペルソナ5",
+        "ペルソナ4",
+        "ペルソナ3"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147498506_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147498506",
+      "sourceCreatedAt": "2026-07-22T06:26:33.000Z"
+    },
+    {
       "id": "0a5d3ce5",
       "filename": "pixiv_147457087_p0.jpg",
       "path": "uploads/2026/07/0e1cc391.jpg",
