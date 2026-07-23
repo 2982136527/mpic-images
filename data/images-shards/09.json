@@ -3,6 +3,32 @@
   "shardId": "09",
   "images": [
     {
+      "id": "81fad309",
+      "filename": "pixiv_147494371_p0.jpg",
+      "path": "uploads/2026/07/d03f671d.jpg",
+      "size": 718723,
+      "width": 1027,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "26330038bebf36634f7f9848c0e8599f5b80f1da456b8186b1a1adef75b8f2be",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T03:39:40.723Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "鈴谷さん",
+      "tags": [
+        "艦これ",
+        "艦隊これくしょん",
+        "鈴谷(艦隊これくしょん)",
+        "島風の服",
+        "島風服艦娘(重巡洋艦級)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147494371_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147494371",
+      "sourceCreatedAt": "2026-07-22T03:06:29.000Z"
+    },
+    {
       "id": "5e601062",
       "filename": "pixiv_147420130_p0.jpg",
       "path": "uploads/2026/07/61539d99.jpg",
