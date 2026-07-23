@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "55a5f550",
+      "filename": "pixiv_147432129_p0.jpg",
+      "path": "uploads/2026/07/62f72bbb.jpg",
+      "size": 765773,
+      "width": 605,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3d17d446329f5ab3c25bcd3ec0f9d216d7e0bd41b7b037d17b85b2ad5761d8c8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T03:36:06.421Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "桜ミク",
+      "tags": [
+        "桜ミク",
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147432129_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147432129",
+      "sourceCreatedAt": "2026-07-20T11:03:25.000Z"
+    },
+    {
       "id": "b7242aef",
       "filename": "pixiv_147469274_p0.jpg",
       "path": "uploads/2026/07/ac30e30e.jpg",
