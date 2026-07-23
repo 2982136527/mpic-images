@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "84e8f757",
+      "filename": "pixiv_147467307_p0.jpg",
+      "path": "uploads/2026/07/e19921a9.jpg",
+      "size": 1106481,
+      "width": 1200,
+      "height": 669,
+      "mimeType": "image/jpeg",
+      "hash": "6c197fe6850d03912dabbc825805d5ffcd29016a346a203789daf11d0031ebc6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T17:44:23.091Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "앵두",
+      "tags": [
+        "Limbus_Company",
+        "앵두"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147467307_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147467307",
+      "sourceCreatedAt": "2026-07-21T10:00:09.000Z"
+    },
+    {
       "id": "b4717882",
       "filename": "pixiv_147462817_p0.jpg",
       "path": "uploads/2026/07/f01e83b5.jpg",
