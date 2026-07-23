@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "40c7f51c",
+      "filename": "pixiv_147480629_p0.jpg",
+      "path": "uploads/2026/07/8b07fb70.jpg",
+      "size": 2475470,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "da2ac6505f390f349be8e6f83a32862d61d532e043f7550ac81d74669cce525e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T10:31:35.727Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "反魂蝶",
+      "tags": [
+        "東方",
+        "東方Project",
+        "西行寺幽々子",
+        "反魂蝶"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147480629_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147480629",
+      "sourceCreatedAt": "2026-07-21T15:02:53.000Z"
+    },
+    {
       "id": "c5630332",
       "filename": "pixiv_147479884_p0.jpg",
       "path": "uploads/2026/07/e045bfed.jpg",
