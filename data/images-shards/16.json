@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "5152db94",
+      "filename": "pixiv_147477031_p0.jpg",
+      "path": "uploads/2026/07/bd4f926d.jpg",
+      "size": 1325271,
+      "width": 1200,
+      "height": 770,
+      "mimeType": "image/jpeg",
+      "hash": "203bae90adcd1fa89c49ee6dece39eeb53a350d351355222b2803160876b6ebe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-23T17:44:57.957Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "IENOMI",
+      "tags": [
+        "Oriens",
+        "佐伯イッテツ",
+        "赤城ウェン",
+        "宇佐美リト",
+        "緋八マナ",
+        "四人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147477031_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147477031",
+      "sourceCreatedAt": "2026-07-21T13:48:33.000Z"
+    },
+    {
       "id": "e35fcd9d",
       "filename": "pixiv_147496146_p0.jpg",
       "path": "uploads/2026/07/7711f38a.jpg",
