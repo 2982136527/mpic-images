@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "6d5e62b1",
+      "filename": "pixiv_147482147_p0.jpg",
+      "path": "uploads/2026/07/e811f9d5.jpg",
+      "size": 896215,
+      "width": 725,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3dc9df53c215e256073bb45a9c7a8d4d26352dc1643ca6768f6264c3fd80abd6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:31:34.226Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "フリーレン",
+      "tags": [
+        "葬送のフリーレン",
+        "フリーレン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147482147_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147482147",
+      "sourceCreatedAt": "2026-07-21T15:35:46.000Z"
+    },
+    {
       "id": "b4bc020f",
       "filename": "pixiv_147498051_p0.jpg",
       "path": "uploads/2026/07/eddb285d.jpg",
