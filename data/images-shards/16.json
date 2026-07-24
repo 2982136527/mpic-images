@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "5cd0fb00",
+      "filename": "pixiv_147544399_p0.jpg",
+      "path": "uploads/2026/07/a7903892.jpg",
+      "size": 1956449,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cf76c423477e07b0dac54c4200751ba3f28eec145bcc128129dcc933249451ac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:28:41.564Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夜の来訪者",
+      "tags": [
+        "桜",
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147544399_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147544399",
+      "sourceCreatedAt": "2026-07-23T11:39:54.000Z"
+    },
+    {
       "id": "5152db94",
       "filename": "pixiv_147477031_p0.jpg",
       "path": "uploads/2026/07/bd4f926d.jpg",
