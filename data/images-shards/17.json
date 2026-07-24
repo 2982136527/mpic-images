@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "60739e52",
+      "filename": "pixiv_147521440_p0.jpg",
+      "path": "uploads/2026/07/50a5520f.jpg",
+      "size": 989898,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6681bea1758aecfe6b5ad209e4370e82895b7b76e3d60950025994c800ab92d9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T17:51:44.498Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "レッドディザイア",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "レッドディザイア(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147521440_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147521440",
+      "sourceCreatedAt": "2026-07-22T17:03:38.000Z"
+    },
+    {
       "id": "63337269",
       "filename": "pixiv_147517099_p0.jpg",
       "path": "uploads/2026/07/1971fb15.jpg",
