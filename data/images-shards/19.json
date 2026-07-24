@@ -3,6 +3,28 @@
   "shardId": "19",
   "images": [
     {
+      "id": "27baf8bc",
+      "filename": "pixiv_147545373_p0.jpg",
+      "path": "uploads/2026/07/54f1189b.jpg",
+      "size": 1132780,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dc5e5f837ebd75c7dc5cba17c747d6ca7c90de25b98cedc4a47b71c54cd17884",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:35:42.688Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "類司まとめ5",
+      "tags": [
+        "類司"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147545373_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147545373",
+      "sourceCreatedAt": "2026-07-23T12:01:16.000Z"
+    },
+    {
       "id": "17c2ba7b",
       "filename": "pixiv_147516417_p0.jpg",
       "path": "uploads/2026/07/264ca825.jpg",
