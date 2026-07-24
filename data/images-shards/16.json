@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "0b647380",
+      "filename": "pixiv_147531502_p0.jpg",
+      "path": "uploads/2026/07/440dc504.jpg",
+      "size": 914588,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "f6dbbe98afdd9be49ebb7c4a2a0021eee82cbd24822529af78466da7093be197",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:30:45.818Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "女の子",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "ブルアカ",
+        "天童ケイ",
+        "ケイ(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147531502_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147531502",
+      "sourceCreatedAt": "2026-07-23T03:25:01.000Z"
+    },
+    {
       "id": "077317cc",
       "filename": "pixiv_147502984_p0.jpg",
       "path": "uploads/2026/07/5374421d.jpg",
