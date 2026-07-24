@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "a4345f5a",
+      "filename": "pixiv_147493744_p0.jpg",
+      "path": "uploads/2026/07/98bd8df9.jpg",
+      "size": 461778,
+      "width": 645,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "46b8a40fa39a4b13751bbb2a08ab2d13c6c024e94603acf7b46d6f088ce1a0b2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:31:42.664Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "伊落マリー",
+      "tags": [
+        "伊落マリー",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147493744_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147493744",
+      "sourceCreatedAt": "2026-07-22T03:30:49.000Z"
+    },
+    {
       "id": "062e4f44",
       "filename": "pixiv_147530551_p0.jpg",
       "path": "uploads/2026/07/fe0a01d8.jpg",
