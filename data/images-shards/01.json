@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "1fca8886",
+      "filename": "pixiv_147510271_p0.jpg",
+      "path": "uploads/2026/07/d3663cb8.jpg",
+      "size": 233828,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "25c0956675f324125fa8eb4df12c81dc4971d21b6e3e644b4e73e1365cb6f4d1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T03:31:48.078Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "わたしに、負けはない",
+      "tags": [
+        "ウマ娘",
+        "アーモンドアイ(ウマ娘)",
+        "ウマ娘プリティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147510271_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147510271",
+      "sourceCreatedAt": "2026-07-22T12:31:58.000Z"
+    },
+    {
       "id": "b5b2577a",
       "filename": "pixiv_147480177_p0.jpg",
       "path": "uploads/2026/07/2171a399.jpg",
