@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "7298e25e",
+      "filename": "pixiv_147533272_p0.jpg",
+      "path": "uploads/2026/07/e03fc0fd.jpg",
+      "size": 509134,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "083754bcb580e6fea7bef11f9bee546bebb5050dffe4a1d4d38b07622a4e0d94",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T17:45:10.134Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": ":D",
+      "tags": [
+        "少女",
+        "千夏(ゼンゼロ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147533272_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147533272",
+      "sourceCreatedAt": "2026-07-23T04:54:59.000Z"
+    },
+    {
       "id": "614f0eb9",
       "filename": "pixiv_147489704_p0.jpg",
       "path": "uploads/2026/07/8a943d9f.jpg",
