@@ -3,6 +3,28 @@
   "shardId": "12",
   "images": [
     {
+      "id": "67642449",
+      "filename": "pixiv_147505595_p0.jpg",
+      "path": "uploads/2026/07/da0a89db.jpg",
+      "size": 1135188,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "45a89feb562c2eac9d80fd8a7825c9f905d2aaac23ee89b4df2ef45e9a3294ed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T17:47:59.928Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "大海を舞う姫君",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147505595_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147505595",
+      "sourceCreatedAt": "2026-07-22T10:44:26.000Z"
+    },
+    {
       "id": "ac412b79",
       "filename": "pixiv_147538250_p0.jpg",
       "path": "uploads/2026/07/64b48fa4.jpg",
