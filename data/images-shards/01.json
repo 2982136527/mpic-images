@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "b5b2577a",
+      "filename": "pixiv_147480177_p0.jpg",
+      "path": "uploads/2026/07/2171a399.jpg",
+      "size": 1650834,
+      "width": 833,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e105f25acb5b0486ad48f84d7ba9d19ba4e05f578861760d4e7ee9dd2d95143d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T03:29:07.486Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ちょっと休憩しよ",
+      "tags": [
+        "原神",
+        "シロネン",
+        "アイスクリーム",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147480177_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147480177",
+      "sourceCreatedAt": "2026-07-21T14:59:59.000Z"
+    },
+    {
       "id": "dc49aa03",
       "filename": "pixiv_147461879_p0.jpg",
       "path": "uploads/2026/07/0333d31f.jpg",
