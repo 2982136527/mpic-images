@@ -3,6 +3,34 @@
   "shardId": "06",
   "images": [
     {
+      "id": "ec6b2cf2",
+      "filename": "pixiv_147486106_p0.jpg",
+      "path": "uploads/2026/07/1f3c2b47.jpg",
+      "size": 605009,
+      "width": 1200,
+      "height": 793,
+      "mimeType": "image/jpeg",
+      "hash": "2a21dec08383d39fc4062098dbe495fb4224a0b36dcee155cb738b25628bc87d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:31:22.108Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "메이플",
+      "tags": [
+        "MapleStory",
+        "메이플스토리",
+        "아델",
+        "엔젤릭버스터",
+        "라라",
+        "AngelicBuster",
+        "三人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147486106_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147486106",
+      "sourceCreatedAt": "2026-07-22T13:49:01.000Z"
+    },
+    {
       "id": "5628dea1",
       "filename": "pixiv_147454225_p0.jpg",
       "path": "uploads/2026/07/f191443e.jpg",
