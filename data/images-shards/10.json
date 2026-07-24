@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "493d5998",
+      "filename": "pixiv_147464069_p0.jpg",
+      "path": "uploads/2026/07/58cb51ac.jpg",
+      "size": 298099,
+      "width": 936,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "55fbc052a90077cf1b7f8b53ecc87b7e94694f171bd493d1b004db6943a49d7e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T03:31:08.436Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ケロロ軍曹　不穏if 2",
+      "tags": [
+        "不穏if",
+        "ケロロ軍曹"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147464069_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147464069",
+      "sourceCreatedAt": "2026-07-21T08:07:13.000Z"
+    },
+    {
       "id": "49b0068e",
       "filename": "pixiv_147470877_p0.jpg",
       "path": "uploads/2026/07/528c19fd.jpg",
