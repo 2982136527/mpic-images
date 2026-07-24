@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "3bc9666c",
+      "filename": "pixiv_147532706_p0.jpg",
+      "path": "uploads/2026/07/80948f43.jpg",
+      "size": 650332,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0d15bd8c18c32d12c0dcd4ce4df56c48cfe80ecd65d74c2f36f9512b90c36991",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T17:47:03.426Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Rosetta and Stephano",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147532706_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147532706",
+      "sourceCreatedAt": "2026-07-23T04:24:54.000Z"
+    },
+    {
       "id": "3209489c",
       "filename": "pixiv_147505161_p0.jpg",
       "path": "uploads/2026/07/cbf28e36.jpg",
