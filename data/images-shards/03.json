@@ -3,6 +3,28 @@
   "shardId": "03",
   "images": [
     {
+      "id": "06138474",
+      "filename": "pixiv_147511099_p0.jpg",
+      "path": "uploads/2026/07/8e48dafa.jpg",
+      "size": 583298,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6dab4aa5e916ce8c096f94ec7d16e319b6cd31c6b1403526685a8930330bd174",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T17:44:52.871Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "エンドフィールドまとめ",
+      "tags": [
+        "アークナイツ:エンドフィールド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147511099_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147511099",
+      "sourceCreatedAt": "2026-07-22T12:51:23.000Z"
+    },
+    {
       "id": "8ff95100",
       "filename": "pixiv_147533833_p0.jpg",
       "path": "uploads/2026/07/2c257b5f.jpg",
