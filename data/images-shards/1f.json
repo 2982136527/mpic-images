@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "163924b3",
+      "filename": "pixiv_147490873_p0.jpg",
+      "path": "uploads/2026/07/1e77d60f.jpg",
+      "size": 601277,
+      "width": 854,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "acbdd5ae5de7a4edb7fb7391e9c08a133e52d24e5226172fc3f9cbb8709ecc46",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:30:33.865Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Sunbringer",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "Phaethon",
+        "Sunbringer"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147490873_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147490873",
+      "sourceCreatedAt": "2026-07-21T23:47:44.000Z"
+    },
+    {
       "id": "4f380631",
       "filename": "pixiv_147528883_p0.jpg",
       "path": "uploads/2026/07/bbac2ba1.jpg",
