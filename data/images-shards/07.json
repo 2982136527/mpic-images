@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "b31a8023",
+      "filename": "pixiv_147480270_p0.jpg",
+      "path": "uploads/2026/07/f78ff50b.jpg",
+      "size": 1351416,
+      "width": 854,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7f1295ada899984972c4a7fbf9e422f0fe9829efcd12f437414a162367600953",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T03:29:58.486Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "水キュレネ",
+      "tags": [
+        "崩壊スターレイル",
+        "キュレネ",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147480270_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147480270",
+      "sourceCreatedAt": "2026-07-21T15:00:15.000Z"
+    },
+    {
       "id": "856927b7",
       "filename": "pixiv_147443710_p0.jpg",
       "path": "uploads/2026/07/0c914187.jpg",
