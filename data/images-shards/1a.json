@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "7a8a474d",
+      "filename": "pixiv_147283048_p0.jpg",
+      "path": "uploads/2026/07/40a8fabf.jpg",
+      "size": 889893,
+      "width": 1200,
+      "height": 901,
+      "mimeType": "image/jpeg",
+      "hash": "a0fa880139f2cf28a605c75a93e77feb9d8a80fcead64173fa48a62e9c55d02e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T03:32:31.050Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "超かぐや姫",
+      "tags": [
+        "百合",
+        "女の子",
+        "超かぐや姫!",
+        "酒寄彩葉",
+        "かぐや(超かぐや姫!)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147283048_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147283048",
+      "sourceCreatedAt": "2026-07-16T16:28:16.000Z"
+    },
+    {
       "id": "34363568",
       "filename": "pixiv_147453749_p0.jpg",
       "path": "uploads/2026/07/a747e6d0.jpg",
