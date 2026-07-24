@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "49eafe10",
+      "filename": "pixiv_147527609_p0.jpg",
+      "path": "uploads/2026/07/5b9884dd.jpg",
+      "size": 594179,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "3025b3747df720d4e490635e734fff5601ba8f09c0cb0603434799a664c204eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:29:53.456Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "美人な顔が描けない人へ",
+      "tags": [
+        "上達法",
+        "ノウハウ",
+        "ハウツー",
+        "コツ",
+        "描き方"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147527609_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147527609",
+      "sourceCreatedAt": "2026-07-22T23:46:02.000Z"
+    },
+    {
       "id": "4b7ec494",
       "filename": "pixiv_146412934_p0.jpg",
       "path": "uploads/2026/07/ce1a2c42.jpg",
