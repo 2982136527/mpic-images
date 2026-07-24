@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "564f1284",
+      "filename": "pixiv_147504418_p0.jpg",
+      "path": "uploads/2026/07/7ad6cb2f.jpg",
+      "size": 893325,
+      "width": 1200,
+      "height": 819,
+      "mimeType": "image/jpeg",
+      "hash": "7ef4de59f4b6b83ace270b2f7aacd9be71daaec448e06d9edab64eafc23f3845",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T03:30:45.860Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "行かないで",
+      "tags": [
+        "女の子",
+        "少女",
+        "百合",
+        "きみが死ぬまで恋をしたい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147504418_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147504418",
+      "sourceCreatedAt": "2026-07-22T10:08:44.000Z"
+    },
+    {
       "id": "972a8ea5",
       "filename": "pixiv_147502940_p0.jpg",
       "path": "uploads/2026/07/98969787.jpg",
