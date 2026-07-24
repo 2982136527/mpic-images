@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "aeaa8a55",
+      "filename": "pixiv_147482200_p0.jpg",
+      "path": "uploads/2026/07/8d159f00.jpg",
+      "size": 1125890,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c0c25b6cb39b778d6e063d433f33a37034620aa7de8eb36dbe5cd44aa60b48c3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T03:28:56.917Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "レイマリ",
+      "tags": [
+        "東方Project",
+        "東方",
+        "霧雨魔理沙",
+        "博麗霊夢",
+        "レイマリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147482200_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147482200",
+      "sourceCreatedAt": "2026-07-21T15:37:11.000Z"
+    },
+    {
       "id": "b7b994f5",
       "filename": "pixiv_147480295_p0.jpg",
       "path": "uploads/2026/07/186e670c.jpg",
