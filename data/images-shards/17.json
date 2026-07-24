@@ -3,6 +3,36 @@
   "shardId": "17",
   "images": [
     {
+      "id": "eaf6ef0f",
+      "filename": "pixiv_147494082_p0.jpg",
+      "path": "uploads/2026/07/1c742491.jpg",
+      "size": 353630,
+      "width": 500,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "067adb15458cd29e4b9fbc07400fc949926e8a5ba9de64fbda2dd385544b3267",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T17:47:22.635Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "キキョウ（応援団）",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "桐生キキョウ",
+        "チアガール",
+        "チアリーダー",
+        "c108",
+        "コミックマーケット108",
+        "ブルーアーカイブ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147494082_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147494082",
+      "sourceCreatedAt": "2026-07-22T03:00:09.000Z"
+    },
+    {
       "id": "c565cff8",
       "filename": "pixiv_147506180_p0.jpg",
       "path": "uploads/2026/07/0c31b816.jpg",
