@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "c96bbc30",
+      "filename": "pixiv_147505299_p0.jpg",
+      "path": "uploads/2026/07/7f05782c.jpg",
+      "size": 1319819,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "17f7382f0a45addf92767690c13cdeb182c638cce6699d15febab95e112abb0a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:30:58.147Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "七星の剣",
+      "tags": [
+        "東方Project",
+        "東方",
+        "豊聡耳神子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147505299_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147505299",
+      "sourceCreatedAt": "2026-07-22T10:34:33.000Z"
+    },
+    {
       "id": "a05edaa1",
       "filename": "pixiv_147510585_p0.jpg",
       "path": "uploads/2026/07/3e44c64c.jpg",
