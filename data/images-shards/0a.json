@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "f96b353c",
+      "filename": "pixiv_147533939_p0.jpg",
+      "path": "uploads/2026/07/4d19c28a.jpg",
+      "size": 1772607,
+      "width": 735,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d5896d4aac320f936c0ec355e7f30777b3ce43b5945269007304e8673b6f64f8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:28:26.198Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "千咲",
+      "tags": [
+        "鳴潮",
+        "WutheringWaves",
+        "千咲"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147533939_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147533939",
+      "sourceCreatedAt": "2026-07-23T05:30:55.000Z"
+    },
+    {
       "id": "94663e64",
       "filename": "pixiv_147480340_p0.jpg",
       "path": "uploads/2026/07/54b4b2f7.jpg",
