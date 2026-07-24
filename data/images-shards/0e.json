@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "b359a9f5",
+      "filename": "pixiv_147498368_p0.jpg",
+      "path": "uploads/2026/07/ab1073d4.jpg",
+      "size": 1732181,
+      "width": 693,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57583cd4a8fa2c82442427094f2bfdde02ff94b1c6b83b4293d5f7d6e231905f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T17:50:01.489Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "玄翎衔风归，终是故人来",
+      "tags": [
+        "插画",
+        "鸣潮",
+        "秧秧・玄翎"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147498368_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147498368",
+      "sourceCreatedAt": "2026-07-22T06:19:35.000Z"
+    },
+    {
       "id": "456ccb4d",
       "filename": "pixiv_147522404_p0.jpg",
       "path": "uploads/2026/07/c303edc8.jpg",
