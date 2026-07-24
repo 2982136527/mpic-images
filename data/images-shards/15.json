@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "c2071a40",
+      "filename": "pixiv_147517103_p0.jpg",
+      "path": "uploads/2026/07/0be28d86.jpg",
+      "size": 736679,
+      "width": 1024,
+      "height": 1024,
+      "mimeType": "image/jpeg",
+      "hash": "2d3d62db5add8ecfccca6d4829e203700283dd7976324b08e9ad8baf0a514b39",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T17:46:27.455Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Black Nurse",
+      "tags": [
+        "ナース",
+        "看護師",
+        "下乳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147517103_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147517103",
+      "sourceCreatedAt": "2026-07-22T15:00:29.000Z"
+    },
+    {
       "id": "2730f3fe",
       "filename": "pixiv_147531341_p0.jpg",
       "path": "uploads/2026/07/e81ec890.jpg",
