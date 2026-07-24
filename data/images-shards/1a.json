@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "a8f658b7",
+      "filename": "pixiv_147501748_p0.jpg",
+      "path": "uploads/2026/07/494ba0fd.jpg",
+      "size": 890191,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1b184461f745090b59a3a2199216013cf15345761cae3fe1dba1064c539350e3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T17:45:43.633Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【お仕事】Rosalie",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "ボードゲーム",
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147501748_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147501748",
+      "sourceCreatedAt": "2026-07-22T08:53:00.000Z"
+    },
+    {
       "id": "f7ef3b0b",
       "filename": "pixiv_147530554_p0.jpg",
       "path": "uploads/2026/07/b7c725e0.jpg",
