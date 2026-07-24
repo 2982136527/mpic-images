@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "5c31c239",
+      "filename": "pixiv_147509343_p0.jpg",
+      "path": "uploads/2026/07/11e60789.jpg",
+      "size": 1997607,
+      "width": 1200,
+      "height": 1099,
+      "mimeType": "image/jpeg",
+      "hash": "3cd0d317997cc80ec9bfc405ca5bce8edb8ee41b0a1210c377079a862b2ec111",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T17:49:04.937Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Sisters of Ultramar",
+      "tags": [
+        "Warhammer40k",
+        "40K",
+        "ウォーハンマー40,000",
+        "armoredgirl"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147509343_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147509343",
+      "sourceCreatedAt": "2026-07-22T12:11:12.000Z"
+    },
+    {
       "id": "49774c5d",
       "filename": "pixiv_147521605_p0.jpg",
       "path": "uploads/2026/07/7a064dba.jpg",
