@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "ca2261db",
+      "filename": "pixiv_147472351_p0.jpg",
+      "path": "uploads/2026/07/12a3f813.jpg",
+      "size": 731121,
+      "width": 744,
+      "height": 1052,
+      "mimeType": "image/jpeg",
+      "hash": "6e9591553b6fbe09f61ef3b71aa5366d5260e03675be5813e10ae4b3d2867a96",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T03:31:39.500Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "레미엘 댄~",
+      "tags": [
+        "レミエール・ダン",
+        "zzzero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147472351_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147472351",
+      "sourceCreatedAt": "2026-07-21T12:03:35.000Z"
+    },
+    {
       "id": "493d5998",
       "filename": "pixiv_147464069_p0.jpg",
       "path": "uploads/2026/07/58cb51ac.jpg",
