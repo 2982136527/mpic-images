@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "01da28a6",
+      "filename": "pixiv_147520058_p0.jpg",
+      "path": "uploads/2026/07/ef5a8841.jpg",
+      "size": 671699,
+      "width": 1200,
+      "height": 811,
+      "mimeType": "image/jpeg",
+      "hash": "51e4d36d4f8c0394973fe88fe080e2eaf176b95dc9290133411c7bccf586df7c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:26:33.644Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "pkmnまとめ グリレ中心 04",
+      "tags": [
+        "ポケモン",
+        "グリレ",
+        "pkmn腐"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147520058_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147520058",
+      "sourceCreatedAt": "2026-07-22T16:09:13.000Z"
+    },
+    {
       "id": "dbc11a32",
       "filename": "pixiv_147480371_p0.jpg",
       "path": "uploads/2026/07/233b73ce.jpg",
