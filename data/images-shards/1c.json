@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "efe3d016",
+      "filename": "pixiv_147525391_p0.jpg",
+      "path": "uploads/2026/07/312c5f29.jpg",
+      "size": 1646809,
+      "width": 861,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "49eb4a906bd78ef57f061223a45dfb6e09e63d99642df63d9d5821b1c24b243a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:29:59.856Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "fanart",
+        "CosmicPrincessKaguya",
+        "かぐや",
+        "flower"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147525391_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147525391",
+      "sourceCreatedAt": "2026-07-22T21:28:34.000Z"
+    },
+    {
       "id": "564f1284",
       "filename": "pixiv_147504418_p0.jpg",
       "path": "uploads/2026/07/7ad6cb2f.jpg",
