@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "820701da",
+      "filename": "pixiv_147518869_p0.jpg",
+      "path": "uploads/2026/07/823fa8ec.jpg",
+      "size": 758297,
+      "width": 825,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4c887ec42b5b7be07e3f1532dc7333a9110f05a3eccd0750216cd1c129103652",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:32:26.500Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "穹ちゃん",
+      "tags": [
+        "女の子",
+        "春日野穹",
+        "ヨスガノソラ",
+        "缘之空"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147518869_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147518869",
+      "sourceCreatedAt": "2026-07-22T15:34:52.000Z"
+    },
+    {
       "id": "70756acd",
       "filename": "pixiv_147506006_p0.jpg",
       "path": "uploads/2026/07/06ae8fd0.jpg",
