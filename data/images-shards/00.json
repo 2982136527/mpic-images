@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "a05edaa1",
+      "filename": "pixiv_147510585_p0.jpg",
+      "path": "uploads/2026/07/3e44c64c.jpg",
+      "size": 1018047,
+      "width": 1029,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b6a3f6ac2d50c725bf8aec9051610ecc451db4b1070dc26aa964090e788805e3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:28:54.356Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "久しぶりのユズちゃん＆カズちゃん",
+      "tags": [
+        "百合",
+        "創作百合",
+        "姉妹",
+        "双子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147510585_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147510585",
+      "sourceCreatedAt": "2026-07-22T12:38:52.000Z"
+    },
+    {
       "id": "84eaedc2",
       "filename": "pixiv_147480263_p0.jpg",
       "path": "uploads/2026/07/766e9c6d.jpg",
