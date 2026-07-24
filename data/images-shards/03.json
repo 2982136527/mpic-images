@@ -3,6 +3,28 @@
   "shardId": "03",
   "images": [
     {
+      "id": "8ff95100",
+      "filename": "pixiv_147533833_p0.jpg",
+      "path": "uploads/2026/07/2c257b5f.jpg",
+      "size": 1097613,
+      "width": 625,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3b2e163d33e3e9c12341431d9cb7160de63279a8353c7c06bbb6ec1e8258f9b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:27:46.245Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "📃📃📃",
+      "tags": [
+        "白銀の城"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147533833_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147533833",
+      "sourceCreatedAt": "2026-07-23T05:23:40.000Z"
+    },
+    {
       "id": "ed1ff773",
       "filename": "pixiv_147477820_p0.jpg",
       "path": "uploads/2026/07/52ca5c7b.jpg",
