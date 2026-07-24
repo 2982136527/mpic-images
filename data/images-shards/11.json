@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "05600b79",
+      "filename": "pixiv_147509569_p0.jpg",
+      "path": "uploads/2026/07/83546b0c.jpg",
+      "size": 484470,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5b5bac013805c3e670c17e888e1904540ede9d5ae0c44cae614ab75bf97ec674",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:32:50.705Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "用餐礼仪",
+      "tags": [
+        "八幡海鈴",
+        "Ave_Mujica",
+        "祐天寺にゃむ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147509569_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147509569",
+      "sourceCreatedAt": "2026-07-22T12:16:45.000Z"
+    },
+    {
       "id": "c2ed2538",
       "filename": "pixiv_147531510_p0.jpg",
       "path": "uploads/2026/07/f43fd6f4.jpg",
