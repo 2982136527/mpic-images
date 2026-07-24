@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "062e4f44",
+      "filename": "pixiv_147530551_p0.jpg",
+      "path": "uploads/2026/07/fe0a01d8.jpg",
+      "size": 578472,
+      "width": 679,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f8db4620a1873ff5f65ffbf51918520dc934e06167e9241a203b8aae14a789dc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:26:55.300Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "おろさない",
+      "tags": [
+        "ステラソラ",
+        "StellaSora",
+        "女魔王(ステラソラ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147530551_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147530551",
+      "sourceCreatedAt": "2026-07-23T02:49:57.000Z"
+    },
+    {
       "id": "7acc3edf",
       "filename": "pixiv_147486117_p0.jpg",
       "path": "uploads/2026/07/e18b8648.jpg",
