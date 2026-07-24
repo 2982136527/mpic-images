@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "ed1ff773",
+      "filename": "pixiv_147477820_p0.jpg",
+      "path": "uploads/2026/07/52ca5c7b.jpg",
+      "size": 717285,
+      "width": 662,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "11a0b36cbfa6797ddc4e0cdd0938a4811bf1bb9cb92e6ef888a91093cc926e73",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T03:34:11.618Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "グリズリー",
+      "tags": [
+        "グリズリー(ドールズフロントライン)",
+        "ドールズフロントライン",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147477820_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147477820",
+      "sourceCreatedAt": "2026-07-21T14:04:46.000Z"
+    },
+    {
       "id": "2799aaef",
       "filename": "pixiv_147494418_p0.jpg",
       "path": "uploads/2026/07/d8527dcf.jpg",
