@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "1496cfcd",
+      "filename": "pixiv_147504739_p0.jpg",
+      "path": "uploads/2026/07/6fe0ba57.jpg",
+      "size": 625000,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "adfbcf069b9c49f5e19e9e0ef5240312caddfb2992f8caa4ee5487ffb9646ab1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:31:16.193Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "commissionイラスト",
+      "tags": [
+        "commission",
+        "Skeb",
+        "女の子",
+        "バニーガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147504739_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147504739",
+      "sourceCreatedAt": "2026-07-22T10:18:47.000Z"
+    },
+    {
       "id": "163924b3",
       "filename": "pixiv_147490873_p0.jpg",
       "path": "uploads/2026/07/1e77d60f.jpg",
