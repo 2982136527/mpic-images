@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "3f7c23c7",
+      "filename": "pixiv_147520931_p0.jpg",
+      "path": "uploads/2026/07/07ce7dc7.jpg",
+      "size": 1393606,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2ae71871c98c392daa76e388bf1d5d2ab82b4c72ed97a86f72019643d803d359",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T17:46:41.234Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "『崩壊世界の魔法杖職人3』",
+      "tags": [
+        "崩壊世界の魔法杖職人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147520931_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147520931",
+      "sourceCreatedAt": "2026-07-22T16:42:40.000Z"
+    },
+    {
       "id": "80f3807f",
       "filename": "pixiv_147502316_p0.jpg",
       "path": "uploads/2026/07/e78ee319.jpg",
