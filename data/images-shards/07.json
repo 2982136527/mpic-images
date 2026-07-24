@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "740fbdad",
+      "filename": "pixiv_147510441_p0.jpg",
+      "path": "uploads/2026/07/516c2e58.jpg",
+      "size": 804898,
+      "width": 715,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8bdbbfbb9bd2d3faf6c35d2abd407033e64daeb6d42f1395487be0aff38daef1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:28:04.770Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Lulla Pajamas",
+      "tags": [
+        "ランラ",
+        "lulla"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147510441_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147510441",
+      "sourceCreatedAt": "2026-07-22T12:35:39.000Z"
+    },
+    {
       "id": "b6e42349",
       "filename": "pixiv_147519916_p0.jpg",
       "path": "uploads/2026/07/56b4c6e6.jpg",
