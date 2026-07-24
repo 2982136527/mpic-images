@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "5c54c996",
+      "filename": "pixiv_147341169_p0.jpg",
+      "path": "uploads/2026/07/c739ea69.jpg",
+      "size": 1195588,
+      "width": 966,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1924843b5d2e57f68bb5af075b676476f6c803b61e77835794f300e1923a916d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:33:31.549Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ギャラドスのタトゥー",
+      "tags": [
+        "ギャラドス",
+        "ポケモン",
+        "ポケットモンスター",
+        "厚塗り",
+        "タトゥー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147341169_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147341169",
+      "sourceCreatedAt": "2026-07-18T08:41:30.000Z"
+    },
+    {
       "id": "0b647380",
       "filename": "pixiv_147531502_p0.jpg",
       "path": "uploads/2026/07/440dc504.jpg",
