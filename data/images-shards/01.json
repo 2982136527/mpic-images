@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "8c66a463",
+      "filename": "pixiv_147536789_p0.jpg",
+      "path": "uploads/2026/07/4f97b028.jpg",
+      "size": 1932595,
+      "width": 1200,
+      "height": 960,
+      "mimeType": "image/jpeg",
+      "hash": "dc9d2ec4dd41dcc5ed8a91f26a71400fc62e86c050b6463b721c9daac0ffa702",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:27:30.375Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "うさぎさんの夏☀️",
+      "tags": [
+        "色鉛筆",
+        "水彩画",
+        "rabbit",
+        "bunny",
+        "うさぎ",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147536789_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147536789",
+      "sourceCreatedAt": "2026-07-23T07:51:45.000Z"
+    },
+    {
       "id": "f50662d0",
       "filename": "pixiv_147532056_p0.jpg",
       "path": "uploads/2026/07/7170692c.jpg",
