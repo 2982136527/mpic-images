@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "299c7af5",
+      "filename": "pixiv_147516983_p0.jpg",
+      "path": "uploads/2026/07/caabd1cb.jpg",
+      "size": 904765,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e3563d4d6e0026e11581ff0e5d87a5d5869aa3f855778c35f19e15100e3d3349",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:26:26.838Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "LIVE AREA",
+      "tags": [
+        "しぐれうい",
+        "バーチャルYouTuber1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147516983_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147516983",
+      "sourceCreatedAt": "2026-07-22T15:00:07.000Z"
+    },
+    {
       "id": "84e8f757",
       "filename": "pixiv_147467307_p0.jpg",
       "path": "uploads/2026/07/e19921a9.jpg",
