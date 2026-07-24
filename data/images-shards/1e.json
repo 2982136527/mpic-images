@@ -3,6 +3,36 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "038ec6e2",
+      "filename": "pixiv_147496472_p0.jpg",
+      "path": "uploads/2026/07/5915f9d8.jpg",
+      "size": 1161109,
+      "width": 1200,
+      "height": 825,
+      "mimeType": "image/jpeg",
+      "hash": "6aefb5ff5996d8a05a027abc0007d43fc81cbe595e0f50a12cb9f91f2dbd75fc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-24T10:35:49.216Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ハナタレ獣人達ちょいまとめ",
+      "tags": [
+        "トリッカル",
+        "트릭컬",
+        "Trickcal",
+        "コミー(トリッカル)",
+        "バター(トリッカル)",
+        "ベニー(トリッカル)",
+        "ルポ(トリッカル)",
+        "ティグ(トリッカル)",
+        "ディアナ(トリッカル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147496472_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147496472",
+      "sourceCreatedAt": "2026-07-22T04:45:47.000Z"
+    },
+    {
       "id": "77e4a076",
       "filename": "pixiv_147483220_p0.jpg",
       "path": "uploads/2026/07/f3be2ce9.jpg",
