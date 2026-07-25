@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "0e9539cf",
+      "filename": "pixiv_147555837_p0.jpg",
+      "path": "uploads/2026/07/3215d20a.jpg",
+      "size": 581329,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f771230be14c389437178474f522b81f7deaa824317ee58c7c6cd29fcfa5ff5f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:14:51.187Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ぴーす",
+      "tags": [
+        "ブルーアーカイブ",
+        "女の子",
+        "小鳥遊ホシノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147555837_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147555837",
+      "sourceCreatedAt": "2026-07-23T15:58:44.000Z"
+    },
+    {
       "id": "c81c2b13",
       "filename": "pixiv_147517183_p0.jpg",
       "path": "uploads/2026/07/cda65ef4.jpg",
