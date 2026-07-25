@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "a1f978e4",
+      "filename": "pixiv_147568795_p0.jpg",
+      "path": "uploads/2026/07/97bb5131.jpg",
+      "size": 1156248,
+      "width": 739,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8334d95dbee4599aa703c2e2fa8ea135062194ef0f4ba66c2715ae82937048d0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T10:00:04.354Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "姉妹",
+      "tags": [
+        "鸣潮",
+        "WuWaFanart",
+        "穗穗",
+        "suisui"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147568795_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147568795",
+      "sourceCreatedAt": "2026-07-24T04:26:15.000Z"
+    },
+    {
       "id": "5951dd6d",
       "filename": "pixiv_147577996_p0.jpg",
       "path": "uploads/2026/07/2d83546c.jpg",
