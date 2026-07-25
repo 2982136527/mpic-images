@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "e4c60405",
+      "filename": "pixiv_147553239_p0.jpg",
+      "path": "uploads/2026/07/64c46007.jpg",
+      "size": 1157927,
+      "width": 649,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "38f2933d68494476c923f02bbe682fe018eb767ed514d0c0cc6f1093ba5fd40f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:10:18.240Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "涼影の月",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "風景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147553239_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147553239",
+      "sourceCreatedAt": "2026-07-23T15:00:18.000Z"
+    },
+    {
       "id": "ed6b1f5f",
       "filename": "pixiv_147517938_p0.jpg",
       "path": "uploads/2026/07/352418a1.jpg",
