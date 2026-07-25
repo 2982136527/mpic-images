@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "ec2e8cc4",
+      "filename": "pixiv_147502359_p0.jpg",
+      "path": "uploads/2026/07/b12d8613.jpg",
+      "size": 808676,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6613140dff5ab80e483ef89140203e712d834a65f7de995cbafe68ba985d8d27",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T03:28:38.649Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "有村麻央",
+        "学園アイドルマスター",
+        "十王星南",
+        "イケメン女子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147502359_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147502359",
+      "sourceCreatedAt": "2026-07-22T09:05:15.000Z"
+    },
+    {
       "id": "c2071a40",
       "filename": "pixiv_147517103_p0.jpg",
       "path": "uploads/2026/07/0be28d86.jpg",
