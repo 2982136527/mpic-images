@@ -3,6 +3,37 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "d5423868",
+      "filename": "pixiv_147529361_p0.jpg",
+      "path": "uploads/2026/07/fb4ab86b.jpg",
+      "size": 506035,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dce80e22af22573a278980ff7b95a58e7039e8415a94611122ce3eb31373fda1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T10:01:50.275Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "脱稿",
+      "tags": [
+        "どぼめじろう",
+        "メジロドーベル",
+        "ウマ娘",
+        "メジロドーベル(ウマ娘)",
+        "せやけどそれはただの夢や",
+        "存在しない記憶",
+        "進捗どうですか",
+        "ウマ娘プリティーダービー",
+        "誰てめ絵",
+        "という夢を見たんだ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147529361_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147529361",
+      "sourceCreatedAt": "2026-07-23T01:38:10.000Z"
+    },
+    {
       "id": "b5d35d4e",
       "filename": "pixiv_147507245_p0.jpg",
       "path": "uploads/2026/07/c9e56911.jpg",
