@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "3abc7b03",
+      "filename": "pixiv_147520748_p0.jpg",
+      "path": "uploads/2026/07/1c9314d9.jpg",
+      "size": 1279919,
+      "width": 1200,
+      "height": 996,
+      "mimeType": "image/jpeg",
+      "hash": "c46667539bbf60de6decd630316bcb302223d124b139be6f58cbc3eabad43d82",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T03:29:01.729Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "아이도루",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "キラ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147520748_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147520748",
+      "sourceCreatedAt": "2026-07-22T16:35:18.000Z"
+    },
+    {
       "id": "597fa6f1",
       "filename": "pixiv_147502381_p0.jpg",
       "path": "uploads/2026/07/803ff21a.jpg",
