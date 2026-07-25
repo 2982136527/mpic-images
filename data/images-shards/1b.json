@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "4fe7b407",
+      "filename": "pixiv_147531143_p0.jpg",
+      "path": "uploads/2026/07/f4ba2f73.jpg",
+      "size": 794924,
+      "width": 676,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "96d4674278432b6ce7f4efeb66dee9a52c5b6a60be4986f5a3bd835861a24528",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T09:56:24.190Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "天童アリス",
+      "tags": [
+        "BlueArchive",
+        "ブルーアーカイブ",
+        "天童アリス",
+        "天童アリス(臨戦)",
+        "ブルーアーカイブ5000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147531143_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147531143",
+      "sourceCreatedAt": "2026-07-23T03:08:51.000Z"
+    },
+    {
       "id": "48f08df1",
       "filename": "pixiv_147484466_p0.jpg",
       "path": "uploads/2026/07/7039acc2.jpg",
