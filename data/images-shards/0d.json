@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "05c35921",
+      "filename": "pixiv_147559921_p0.jpg",
+      "path": "uploads/2026/07/00fafbca.jpg",
+      "size": 1297163,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9fffbc8c1f83b30e788206b2fb0b1679aecdf7df393e4a84b3e7b093401d7980",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:08:30.493Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "goghミク",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "goghFA",
+        "goghonsteam"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147559921_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147559921",
+      "sourceCreatedAt": "2026-07-23T19:30:04.000Z"
+    },
+    {
       "id": "765c9db5",
       "filename": "pixiv_147543301_p0.jpg",
       "path": "uploads/2026/07/b119d45f.jpg",
