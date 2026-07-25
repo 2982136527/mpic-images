@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "c81c2b13",
+      "filename": "pixiv_147517183_p0.jpg",
+      "path": "uploads/2026/07/cda65ef4.jpg",
+      "size": 443926,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5f0410ca66858c9a03c158b3de89a2663739495d0d2793760176f6c4b49e293c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:11:57.897Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "聖園ミカ",
+        "タイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147517183_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147517183",
+      "sourceCreatedAt": "2026-07-22T15:00:54.000Z"
+    },
+    {
       "id": "c8e40cbd",
       "filename": "pixiv_147551010_p0.jpg",
       "path": "uploads/2026/07/80ddadcb.jpg",
