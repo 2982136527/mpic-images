@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "1b549f64",
+      "filename": "pixiv_147579199_p0.jpg",
+      "path": "uploads/2026/07/a170c2dc.jpg",
+      "size": 965192,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "837a6118fe4dc1c5a74138e688f5caf04923df2e7f2c1a76fbef98930e0010b5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:17:30.321Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "膝蹴り",
+      "tags": [
+        "プロレス",
+        "オリジナル",
+        "ミックスファイト",
+        "ミックスプロレス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147579199_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147579199",
+      "sourceCreatedAt": "2026-07-24T11:05:54.000Z"
+    },
+    {
       "id": "82a3b91d",
       "filename": "pixiv_147576541_p0.jpg",
       "path": "uploads/2026/07/b304699b.jpg",
