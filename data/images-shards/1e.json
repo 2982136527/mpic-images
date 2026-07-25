@@ -3,6 +3,35 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "7a6d1d2b",
+      "filename": "pixiv_147530297_p0.jpg",
+      "path": "uploads/2026/07/ef0c952e.jpg",
+      "size": 1316166,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4d22e052d584b52a603bcbaccdfeab8dcebdce8093a676ec9d9e355becaa0b2e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T09:57:28.505Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "スターレイルxFateコラボイラスト",
+      "tags": [
+        "Fate/staynight",
+        "崩壊スターレイル",
+        "セイバー(Fate)",
+        "銀狼(スターレイル)",
+        "セイバー(スターレイル)",
+        "銀狼LV.999",
+        "崩壊:スターレイル",
+        "お墨付き"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147530297_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147530297",
+      "sourceCreatedAt": "2026-07-23T02:37:04.000Z"
+    },
+    {
       "id": "d6dbfd6c",
       "filename": "pixiv_146468918_p0.jpg",
       "path": "uploads/2026/07/5abf33fa.jpg",
