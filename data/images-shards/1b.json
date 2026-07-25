@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "67c4c15f",
+      "filename": "pixiv_147574868_p0.jpg",
+      "path": "uploads/2026/07/dbbf86b9.jpg",
+      "size": 931022,
+      "width": 922,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "945c05dd4b6f0b4280c222a7ec32aebbc639be979c79a76e4a9c693c900b2c4e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:12:06.030Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "白ワンピモカちゃん",
+      "tags": [
+        "オリジナル",
+        "モカちゃん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147574868_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147574868",
+      "sourceCreatedAt": "2026-07-24T09:07:56.000Z"
+    },
+    {
       "id": "89241c14",
       "filename": "pixiv_147555756_p0.jpg",
       "path": "uploads/2026/07/b0b75a9f.jpg",
