@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "0b6d8b20",
+      "filename": "pixiv_147551931_p0.jpg",
+      "path": "uploads/2026/07/c1d02a84.jpg",
+      "size": 938417,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1d5808e4473eb500127773e66107276cf39c56840351021ec0e258d86cb0647a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T10:00:18.665Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "重そうな男と重い男",
+      "tags": [
+        "おうち彼氏",
+        "恋愛",
+        "漫画",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147551931_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147551931",
+      "sourceCreatedAt": "2026-07-23T14:31:47.000Z"
+    },
+    {
       "id": "bc1260ef",
       "filename": "pixiv_147529877_p0.jpg",
       "path": "uploads/2026/07/04630923.jpg",
