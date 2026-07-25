@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "9fda4bcb",
+      "filename": "pixiv_147568857_p0.jpg",
+      "path": "uploads/2026/07/869e5652.jpg",
+      "size": 594160,
+      "width": 972,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c70fc7a0d0a4cb7d2b583039d92e07cc3a245e53b14cde185a27c1e816b2d534",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:14:34.417Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "博麗霊夢",
+        "リリーホワイト",
+        "東方",
+        "東方Project",
+        "霊リリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147568857_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147568857",
+      "sourceCreatedAt": "2026-07-24T04:29:50.000Z"
+    },
+    {
       "id": "2d1ee3f5",
       "filename": "pixiv_147577800_p0.jpg",
       "path": "uploads/2026/07/3c8cbaf8.jpg",
