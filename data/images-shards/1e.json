@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "fbf9e068",
+      "filename": "pixiv_147578628_p0.jpg",
+      "path": "uploads/2026/07/eb99c780.jpg",
+      "size": 670931,
+      "width": 774,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57e5e05bda848ca5f833f2d4079e9e1f4e05bfb7ba5706ee39745f86325cff3d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T09:58:26.010Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "みんなで",
+      "tags": [
+        "ゴッドイーター2レイジバースト",
+        "ラケル・クラウディウス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147578628_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147578628",
+      "sourceCreatedAt": "2026-07-24T10:58:31.000Z"
+    },
+    {
       "id": "7a6d1d2b",
       "filename": "pixiv_147530297_p0.jpg",
       "path": "uploads/2026/07/ef0c952e.jpg",
