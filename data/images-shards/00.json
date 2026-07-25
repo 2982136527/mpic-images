@@ -3,6 +3,36 @@
   "shardId": "00",
   "images": [
     {
+      "id": "40306dc0",
+      "filename": "pixiv_147574627_p0.jpg",
+      "path": "uploads/2026/07/ca62744e.jpg",
+      "size": 1373893,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a36ae84450e56512582d66517517ce83cceb92d77564e8e9c2eb4a07244d39f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:11:10.046Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夏空フォトグラフなあんなちゃん",
+      "tags": [
+        "キュアアンサー",
+        "明智あんな",
+        "たんプリ",
+        "名探偵プリキュア",
+        "名探偵プリキュア!",
+        "precure",
+        "プリキュア",
+        "プリティストア",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147574627_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147574627",
+      "sourceCreatedAt": "2026-07-24T09:01:58.000Z"
+    },
+    {
       "id": "1d0aeac9",
       "filename": "pixiv_147524630_p0.jpg",
       "path": "uploads/2026/07/fe0a1401.jpg",
