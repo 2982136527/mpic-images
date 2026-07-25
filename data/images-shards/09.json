@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "1a372a2a",
+      "filename": "pixiv_147538561_p0.jpg",
+      "path": "uploads/2026/07/e5547861.jpg",
+      "size": 708429,
+      "width": 866,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f5ffde6e4eafb01df8e235467207ad2ef5294178d09d4abc86c0c1d62436d377",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:09:46.564Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "summer dream",
+      "tags": [
+        "原创"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147538561_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147538561",
+      "sourceCreatedAt": "2026-07-23T09:00:12.000Z"
+    },
+    {
       "id": "a5e445ba",
       "filename": "pixiv_147567485_p0.jpg",
       "path": "uploads/2026/07/822eaf09.jpg",
