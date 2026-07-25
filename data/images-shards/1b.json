@@ -3,6 +3,28 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "48f08df1",
+      "filename": "pixiv_147484466_p0.jpg",
+      "path": "uploads/2026/07/7039acc2.jpg",
+      "size": 1115553,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e3e2ba42fc00fd8f88267495a772c7968c64786d457039db363fef7845e22606",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T03:26:09.898Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "VV",
+      "tags": [
+        "一ノ瀬うるは"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147484466_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147484466",
+      "sourceCreatedAt": "2026-07-21T16:58:48.000Z"
+    },
+    {
       "id": "35b002f9",
       "filename": "pixiv_147509511_p0.jpg",
       "path": "uploads/2026/07/f341c5a0.jpg",
