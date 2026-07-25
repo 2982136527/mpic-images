@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "ff2d67a8",
+      "filename": "pixiv_147553203_p0.jpg",
+      "path": "uploads/2026/07/78b439cd.jpg",
+      "size": 1290034,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3f921042d1c25856f46acf5b5aaf92418b8e22fd9c71a222cbd40f7a2ab098e3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:12:17.811Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "簡易Skeb",
+      "tags": [
+        "仕事絵",
+        "Skeb",
+        "commission",
+        "天使",
+        "白"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147553203_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147553203",
+      "sourceCreatedAt": "2026-07-23T15:00:12.000Z"
+    },
+    {
       "id": "1c6f1f4b",
       "filename": "pixiv_147539039_p0.jpg",
       "path": "uploads/2026/07/f90221ac.jpg",
