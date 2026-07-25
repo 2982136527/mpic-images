@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "6d5cbb5a",
+      "filename": "pixiv_147548255_p0.jpg",
+      "path": "uploads/2026/07/e875eba8.jpg",
+      "size": 234717,
+      "width": 600,
+      "height": 621,
+      "mimeType": "image/jpeg",
+      "hash": "d585e44888cc94669094fbfd47abb42740776ce034dfd64e097110c8b6c1f012",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T03:25:47.447Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "セブンとコラボ",
+      "tags": [
+        "ウルトラセブン",
+        "ちいかわ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147548255_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147548255",
+      "sourceCreatedAt": "2026-07-23T13:06:00.000Z"
+    },
+    {
       "id": "0f4414dc",
       "filename": "pixiv_147539237_p0.jpg",
       "path": "uploads/2026/07/c8e43b9b.jpg",
