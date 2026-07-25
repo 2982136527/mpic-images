@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "68a7a259",
+      "filename": "pixiv_147541529_p0.jpg",
+      "path": "uploads/2026/07/b18ef6ca.jpg",
+      "size": 1356145,
+      "width": 914,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "603a872c5a0d1c412559dc0e97cfe13297e288907adce6ebfb278fd7ee2fa981",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:12:11.800Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ピース",
+      "tags": [
+        "インナーカラー",
+        "女の子",
+        "オリジナル",
+        "ベルト付きショートパンツ",
+        "キャップ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147541529_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147541529",
+      "sourceCreatedAt": "2026-07-23T10:29:13.000Z"
+    },
+    {
       "id": "67770e2c",
       "filename": "pixiv_147541343_p0.jpg",
       "path": "uploads/2026/07/c05a9cc2.jpg",
