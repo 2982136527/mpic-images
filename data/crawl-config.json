@@ -132,7 +132,7 @@
       "responseType": "redirect"
     }
   ],
-  "running": false,
+  "running": true,
   "lastRunAt": "2026-07-24T17:53:27.049Z",
   "continuation": {
     "lastScheduledAt": "2026-07-25T03:25:34.365Z",
@@ -141,5 +141,6 @@
     "lastAttemptAt": "2026-07-25T03:25:34.365Z",
     "lastAcceptedAt": "2026-07-24T17:53:28.473Z",
     "lastUrl": "https://github.com/2982136527/mpic/actions/runs/30142221694"
-  }
+  },
+  "runningSince": "2026-07-25T03:25:35.615Z"
 }
