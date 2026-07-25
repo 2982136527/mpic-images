@@ -3,6 +3,28 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "359fc14e",
+      "filename": "pixiv_147523362_p0.jpg",
+      "path": "uploads/2026/07/5e522b69.jpg",
+      "size": 495787,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "2401bba5dc78327dc43f27ce65b6602607d4f6364801e87c67ee7b159982b26c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T09:58:46.359Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ヤニパロタバコ組",
+      "tags": [
+        "VTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147523362_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147523362",
+      "sourceCreatedAt": "2026-07-22T18:52:33.000Z"
+    },
+    {
       "id": "1ce737ca",
       "filename": "pixiv_147540718_p0.jpg",
       "path": "uploads/2026/07/147a6fcf.jpg",
