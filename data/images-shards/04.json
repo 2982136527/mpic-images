@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "6a425e12",
+      "filename": "pixiv_147545857_p0.jpg",
+      "path": "uploads/2026/07/7d157cab.jpg",
+      "size": 1153439,
+      "width": 880,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aa61b260be48f60894d10a406bca809b9d13a3344c37b7141a8bcb733751a4f5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T10:00:25.442Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "「くれあ」",
+      "tags": [
+        "シュシュタン",
+        "帆羽くれあ",
+        "名探偵プリキュア!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147545857_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147545857",
+      "sourceCreatedAt": "2026-07-23T13:37:49.000Z"
+    },
+    {
       "id": "316346ab",
       "filename": "pixiv_147582509_p0.jpg",
       "path": "uploads/2026/07/9044702b.jpg",
