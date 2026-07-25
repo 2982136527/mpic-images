@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "c354a925",
+      "filename": "pixiv_147543915_p0.jpg",
+      "path": "uploads/2026/07/30474b63.jpg",
+      "size": 1319400,
+      "width": 1200,
+      "height": 788,
+      "mimeType": "image/jpeg",
+      "hash": "81c603f4c9cf7dc2456a0435dd9d46594466e5a45674881e0c664bac2badc65f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:10:43.553Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Bloom in the Dark!",
+      "tags": [
+        "Deltarune",
+        "デルタルーン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147543915_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147543915",
+      "sourceCreatedAt": "2026-07-23T11:28:31.000Z"
+    },
+    {
       "id": "d5171cfa",
       "filename": "pixiv_147567579_p0.jpg",
       "path": "uploads/2026/07/e3516a58.jpg",
