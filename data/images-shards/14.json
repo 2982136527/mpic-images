@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "6135f439",
+      "filename": "pixiv_147555556_p0.jpg",
+      "path": "uploads/2026/07/51e8e6aa.jpg",
+      "size": 928547,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "284894ee6d15bf655133a44188e76dfc634774a3811ac5f9b85f72d8a11e762e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:17:41.956Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "キャストリス",
+      "tags": [
+        "崩壊スターレイル",
+        "キャストリス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147555556_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147555556",
+      "sourceCreatedAt": "2026-07-23T15:48:50.000Z"
+    },
+    {
       "id": "df189494",
       "filename": "pixiv_147533338_p0.jpg",
       "path": "uploads/2026/07/84f67940.jpg",
