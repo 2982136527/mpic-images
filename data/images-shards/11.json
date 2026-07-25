@@ -3,6 +3,36 @@
   "shardId": "11",
   "images": [
     {
+      "id": "5908e4a9",
+      "filename": "pixiv_147517063_p0.jpg",
+      "path": "uploads/2026/07/b913b9b2.jpg",
+      "size": 1363198,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "6c25e9a13f2a6d7e59524908a156df47822c785ca7e9da19efff51ca7697f130",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T09:58:11.288Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【お仕事】 『The Story of Advent』エピローグ",
+      "tags": [
+        "hololive",
+        "HololiveEN",
+        "HoloAdvent",
+        "シオリ・ノヴェラ",
+        "古石ビジュー",
+        "ネリッサ・レイヴンクロフト",
+        "フワワ・アビスガード",
+        "モココ・アビスガード",
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147517063_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147517063",
+      "sourceCreatedAt": "2026-07-22T15:00:21.000Z"
+    },
+    {
       "id": "78bc7fd7",
       "filename": "pixiv_147563118_p0.jpg",
       "path": "uploads/2026/07/92438f2c.jpg",
