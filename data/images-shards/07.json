@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "6dbd2c9d",
+      "filename": "pixiv_147573749_p0.jpg",
+      "path": "uploads/2026/07/130f60b9.jpg",
+      "size": 1246868,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "60d563221dee1300be402ebae0e0947075ebc1625fd987ba22bb46587db3ea1b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T10:00:42.302Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "泳ぎ！",
+      "tags": [
+        "女の子",
+        "少女",
+        "百合",
+        "きみが死ぬまで恋をしたい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147573749_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147573749",
+      "sourceCreatedAt": "2026-07-24T08:35:19.000Z"
+    },
+    {
       "id": "1ff3a716",
       "filename": "pixiv_147553207_p0.jpg",
       "path": "uploads/2026/07/2fbcda41.jpg",
