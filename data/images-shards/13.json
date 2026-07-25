@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "0ad187a9",
+      "filename": "pixiv_147515994_p0.jpg",
+      "path": "uploads/2026/07/09592e8b.jpg",
+      "size": 858057,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "934a56f6871f05b7d669a15f00a94f7f90b7361452a7479ff7d840b1db4fa7eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T03:33:55.433Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "提丰",
+        "エンドフィールド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147515994_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147515994",
+      "sourceCreatedAt": "2026-07-22T14:36:28.000Z"
+    },
+    {
       "id": "5bb07632",
       "filename": "pixiv_147510591_p0.jpg",
       "path": "uploads/2026/07/2fcd3f70.jpg",
