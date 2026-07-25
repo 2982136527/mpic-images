@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "a5e445ba",
+      "filename": "pixiv_147567485_p0.jpg",
+      "path": "uploads/2026/07/822eaf09.jpg",
+      "size": 1686318,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b812fd4b0a146bd3dbfce42291c0bcce25063a56e9da0f7bc9058d5e745ea7d8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T10:03:53.339Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "パン屋",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "Flobullet",
+        "パン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147567485_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147567485",
+      "sourceCreatedAt": "2026-07-24T03:20:16.000Z"
+    },
+    {
       "id": "67cf9df6",
       "filename": "pixiv_147568367_p0.jpg",
       "path": "uploads/2026/07/43965abb.jpg",
