@@ -3,6 +3,33 @@
   "shardId": "08",
   "images": [
     {
+      "id": "bc4539bb",
+      "filename": "pixiv_147577460_p0.jpg",
+      "path": "uploads/2026/07/269de470.jpg",
+      "size": 1068830,
+      "width": 924,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7030e92cd41427c4e6b2957a5a0edffad565a5cb071a0bf58418ad6ed0c58c4b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:10:52.092Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ezra / 에즈라",
+      "tags": [
+        "Limbus_Company",
+        "Ezra",
+        "ProjectMoon",
+        "LimbusCompany",
+        "fanart",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147577460_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147577460",
+      "sourceCreatedAt": "2026-07-24T10:25:39.000Z"
+    },
+    {
       "id": "903ec0b5",
       "filename": "pixiv_147548843_p0.jpg",
       "path": "uploads/2026/07/389da42b.jpg",
