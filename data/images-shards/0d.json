@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "00a5bdb1",
+      "filename": "pixiv_147557808_p0.jpg",
+      "path": "uploads/2026/07/2b20c048.jpg",
+      "size": 1443534,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bf0acccfe76c28b342e5ffd3482d7779861567432dbe102b8fd30963a82a5984",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:17:24.075Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "V6ボタン",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "HatsuneMiku",
+        "へそ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147557808_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147557808",
+      "sourceCreatedAt": "2026-07-23T17:14:27.000Z"
+    },
+    {
       "id": "53e3b0fb",
       "filename": "pixiv_147560416_p0.jpg",
       "path": "uploads/2026/07/b24ae7dd.jpg",
