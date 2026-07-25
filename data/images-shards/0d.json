@@ -3,6 +3,32 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "193db4dc",
+      "filename": "pixiv_147536902_p0.jpg",
+      "path": "uploads/2026/07/2976a940.jpg",
+      "size": 1052304,
+      "width": 1129,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "72486c84934479e1aea481f5ea24f1fa8fc28a028b254655c4de44e8e2e83dd3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T03:33:23.756Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "어흐하는 코노카",
+      "tags": [
+        "블루아카이브",
+        "BlueArchive",
+        "ブルーアーカイブ",
+        "コノカ(ブルーアーカイブ)",
+        "志真コノカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147536902_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147536902",
+      "sourceCreatedAt": "2026-07-23T07:57:12.000Z"
+    },
+    {
       "id": "82b0935f",
       "filename": "pixiv_147547678_p0.jpg",
       "path": "uploads/2026/07/8db906e0.jpg",
