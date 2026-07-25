@@ -3,6 +3,35 @@
   "shardId": "10",
   "images": [
     {
+      "id": "07303e1e",
+      "filename": "pixiv_147539838_p0.jpg",
+      "path": "uploads/2026/07/11b036be.jpg",
+      "size": 920968,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fa8bcaa6c5d57af908305ec93de22d7661b77bae72b200f75f1f1526b02a5f10",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T10:03:31.736Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "超かぐや姫！ 17",
+      "tags": [
+        "超かぐや姫!",
+        "超かぐや姫",
+        "酒寄彩葉",
+        "かぐや(超かぐや姫!)",
+        "女の子",
+        "百合",
+        "いろかぐ",
+        "ray(楽曲)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147539838_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147539838",
+      "sourceCreatedAt": "2026-07-23T09:37:29.000Z"
+    },
+    {
       "id": "14e6fdb8",
       "filename": "pixiv_147531146_p0.jpg",
       "path": "uploads/2026/07/e30e1ffd.jpg",
