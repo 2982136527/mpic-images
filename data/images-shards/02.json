@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "35f49679",
+      "filename": "pixiv_147550180_p0.jpg",
+      "path": "uploads/2026/07/bbb4e1e4.jpg",
+      "size": 1327039,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "156b3d0fb4c7dce1dab3b11f85c9379df065255f9af9107baecc7fbace05e309",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:13:18.666Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "レーシングミク2016",
+      "tags": [
+        "初音ミク",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147550180_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147550180",
+      "sourceCreatedAt": "2026-07-23T13:51:43.000Z"
+    },
+    {
       "id": "a30eb3e4",
       "filename": "pixiv_147576445_p0.jpg",
       "path": "uploads/2026/07/b7a96365.jpg",
