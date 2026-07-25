@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "18b28730",
+      "filename": "pixiv_147546012_p0.jpg",
+      "path": "uploads/2026/07/e40f6ba8.jpg",
+      "size": 879184,
+      "width": 886,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1599f7dc5f13d987d85b3cb2589a81836e71f59973a7edebb38af46736877c17",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T09:57:14.210Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "自信家",
+      "tags": [
+        "重音テト",
+        "UTAU100users入り",
+        "ドヤ顔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147546012_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147546012",
+      "sourceCreatedAt": "2026-07-23T12:14:12.000Z"
+    },
+    {
       "id": "80fb95fc",
       "filename": "pixiv_147494688_p0.jpg",
       "path": "uploads/2026/07/6e474bef.jpg",
