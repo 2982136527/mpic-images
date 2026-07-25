@@ -3,6 +3,33 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "a9baa511",
+      "filename": "pixiv_147572997_p0.jpg",
+      "path": "uploads/2026/07/5e49260b.jpg",
+      "size": 1660557,
+      "width": 1050,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "405537162c80174e20e606c32211fe7089272da99f36aa030bef42e03f41f92d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T09:59:53.962Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ワールズエンド・ダンスホール",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "巡音ルカ",
+        "ワールズエンド・ダンスホール",
+        "wowaka",
+        "コンフリクト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147572997_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147572997",
+      "sourceCreatedAt": "2026-07-24T08:05:36.000Z"
+    },
+    {
       "id": "e2bb2e29",
       "filename": "pixiv_147531389_p0.jpg",
       "path": "uploads/2026/07/62baa8b3.jpg",
