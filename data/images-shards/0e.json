@@ -3,6 +3,33 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "40ea40ef",
+      "filename": "pixiv_146520001_p0.jpg",
+      "path": "uploads/2026/07/30e8e32b.jpg",
+      "size": 218199,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3b8d208d223f4004a9d55606f1407947ab2d7aed78f9e62dbc44c184b9455b2b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T10:05:28.653Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "問いかける彫像",
+      "tags": [
+        "落書き",
+        "arknights",
+        "明日方舟",
+        "アークナイツ",
+        "問いかける彫像",
+        "問いかける彫像(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146520001_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146520001",
+      "sourceCreatedAt": "2026-06-29T12:38:40.000Z"
+    },
+    {
       "id": "26c9eaa0",
       "filename": "pixiv_147575223_p0.jpg",
       "path": "uploads/2026/07/43f494f7.jpg",
