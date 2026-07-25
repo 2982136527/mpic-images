@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "1ce737ca",
+      "filename": "pixiv_147540718_p0.jpg",
+      "path": "uploads/2026/07/147a6fcf.jpg",
+      "size": 940581,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "41fcf24845987c52863fbcb66346f47aac43ffa2f2e3d21b98ae1fbe7a916573",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T09:57:07.258Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【落書き】あやれいむ",
+      "tags": [
+        "東方Project",
+        "博麗霊夢",
+        "射命丸文",
+        "あやれいむ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147540718_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147540718",
+      "sourceCreatedAt": "2026-07-23T10:03:14.000Z"
+    },
+    {
       "id": "318a100f",
       "filename": "pixiv_147529473_p0.jpg",
       "path": "uploads/2026/07/89e2cf3f.jpg",
