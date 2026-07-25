@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "8cf8f655",
+      "filename": "pixiv_147538751_p0.jpg",
+      "path": "uploads/2026/07/30ee59e1.jpg",
+      "size": 1471521,
+      "width": 977,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "02a1bbcc2d85985c2c75e6497322aa115e7af2a31a046f4595bc420c0f26bf97",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T03:25:41.295Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ラビットホール🐰",
+      "tags": [
+        "初音ミク",
+        "ラビットホール",
+        "VOCALOID",
+        "バニーガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147538751_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147538751",
+      "sourceCreatedAt": "2026-07-23T09:01:59.000Z"
+    },
+    {
       "id": "66c5d33d",
       "filename": "pixiv_147546052_p0.jpg",
       "path": "uploads/2026/07/dd6826e7.jpg",
