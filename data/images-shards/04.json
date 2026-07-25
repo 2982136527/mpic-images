@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "f7e3ab3f",
+      "filename": "pixiv_147318776_p0.jpg",
+      "path": "uploads/2026/07/9aac800d.jpg",
+      "size": 537595,
+      "width": 810,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ebe246ae35d23dfb49601b99975f664f84d1cdb6ffa5c66dda884f98d85e0bd8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-25T17:17:55.891Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "角楯カリン",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "角楯カリン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147318776_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147318776",
+      "sourceCreatedAt": "2026-07-17T15:42:25.000Z"
+    },
+    {
       "id": "9fda4bcb",
       "filename": "pixiv_147568857_p0.jpg",
       "path": "uploads/2026/07/869e5652.jpg",
