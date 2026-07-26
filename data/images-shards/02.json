@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "cf700de2",
+      "filename": "pixiv_147597084_p0.jpg",
+      "path": "uploads/2026/07/49b32ccd.jpg",
+      "size": 1188053,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "45cfe97e7100307633ad897f23ebeecfd625ce859a4b0bb61c484100a8ffd8a1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:45:55.589Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夏に沈んだ社の狐",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147597084_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147597084",
+      "sourceCreatedAt": "2026-07-24T20:32:28.000Z"
+    },
+    {
       "id": "0f049736",
       "filename": "pixiv_147578549_p0.jpg",
       "path": "uploads/2026/07/7afdcf22.jpg",
