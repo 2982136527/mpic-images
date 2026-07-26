@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "7823ddae",
+      "filename": "pixiv_147569779_p0.jpg",
+      "path": "uploads/2026/07/86141c7c.jpg",
+      "size": 751470,
+      "width": 845,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "99ba08e6eb1385816cea6e911a04d975d6f0c77261b9aa42892a212792953a70",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T10:08:43.247Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "イブキ",
+      "tags": [
+        "丹花イブキ",
+        "BlueArchive",
+        "ドルフィンパンツ",
+        "ロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147569779_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147569779",
+      "sourceCreatedAt": "2026-07-24T05:19:20.000Z"
+    },
+    {
       "id": "7ea8a611",
       "filename": "pixiv_147588114_p0.jpg",
       "path": "uploads/2026/07/2955f22d.jpg",
