@@ -3,6 +3,37 @@
   "shardId": "01",
   "images": [
     {
+      "id": "e37a0a1a",
+      "filename": "pixiv_147577626_p0.jpg",
+      "path": "uploads/2026/07/ca486082.jpg",
+      "size": 1631475,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "063d95bd2a1cee0c335ebc4953c36ed29b096099d31704b88b68d1628b99c1cc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:39:51.084Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "トップオブリリー",
+      "tags": [
+        "キュアアルカナ・シャドウ",
+        "名探偵プリキュア",
+        "百合",
+        "キュアエクレール",
+        "キュアアンサー",
+        "プリキュア",
+        "アンミスエクアル",
+        "名探偵プリキュア!",
+        "キュアミスティック",
+        "るるくれ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147577626_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147577626",
+      "sourceCreatedAt": "2026-07-24T10:30:08.000Z"
+    },
+    {
       "id": "91e6a80a",
       "filename": "pixiv_147541103_p0.jpg",
       "path": "uploads/2026/07/2fa1da2c.jpg",
