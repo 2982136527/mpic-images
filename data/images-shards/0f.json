@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "f31f384d",
+      "filename": "pixiv_147578001_p0.jpg",
+      "path": "uploads/2026/07/65bafa91.jpg",
+      "size": 421944,
+      "width": 1200,
+      "height": 451,
+      "mimeType": "image/jpeg",
+      "hash": "6236d456178d652d31c85e0b561d4f28e4430f30a452cce17e8bff2fa75a81f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:42:04.738Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "friend's oc 莉莉",
+      "tags": [
+        "少女",
+        "OC",
+        "足"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147578001_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147578001",
+      "sourceCreatedAt": "2026-07-24T10:40:41.000Z"
+    },
+    {
       "id": "f80130cb",
       "filename": "pixiv_147575344_p0.jpg",
       "path": "uploads/2026/07/c56f2e23.jpg",
