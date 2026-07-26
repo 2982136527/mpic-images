@@ -3,6 +3,33 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "a8faf210",
+      "filename": "pixiv_147563897_p0.jpg",
+      "path": "uploads/2026/07/6a15b2b9.jpg",
+      "size": 1825995,
+      "width": 1200,
+      "height": 1199,
+      "mimeType": "image/jpeg",
+      "hash": "4b86f8cf53e59885c02c6e983649fad2a36d4239f1edae08d9b9bd3ab31d31a9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:39:13.345Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "色紙絵まとめ",
+      "tags": [
+        "オリジナル",
+        "アナログ",
+        "色紙",
+        "オリキャラ",
+        "ぽよぺっぷ!",
+        "ぽよろいど"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147563897_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147563897",
+      "sourceCreatedAt": "2026-07-23T23:59:37.000Z"
+    },
+    {
       "id": "00a5bdb1",
       "filename": "pixiv_147557808_p0.jpg",
       "path": "uploads/2026/07/2b20c048.jpg",
