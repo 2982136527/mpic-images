@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "90d385ea",
+      "filename": "pixiv_147553257_p0.jpg",
+      "path": "uploads/2026/07/d4f6b015.jpg",
+      "size": 462407,
+      "width": 726,
+      "height": 894,
+      "mimeType": "image/jpeg",
+      "hash": "cf515f099d7437c82d3eea06fa8ed51fd59450f8b144c1fece8409507cf7e4cd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:40:42.342Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "まるくん",
+      "tags": [
+        "バンドリ!_ゆめ∞みた",
+        "仕事絵",
+        "まるくん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147553257_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147553257",
+      "sourceCreatedAt": "2026-07-23T15:00:20.000Z"
+    },
+    {
       "id": "17c5e6ee",
       "filename": "pixiv_147556266_p0.jpg",
       "path": "uploads/2026/07/93374510.jpg",
