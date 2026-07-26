@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "a62520ba",
+      "filename": "pixiv_147623666_p0.jpg",
+      "path": "uploads/2026/07/9c77bbda.jpg",
+      "size": 296930,
+      "width": 594,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e9469841b640d91c0a40088e8e59f4d0e74456c7ff2cc7980fa1256c0a206759",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T17:11:13.969Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ちょいギャルガール",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "女子校生",
+        "制服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147623666_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147623666",
+      "sourceCreatedAt": "2026-07-25T12:39:03.000Z"
+    },
+    {
       "id": "531b2fd0",
       "filename": "pixiv_147616248_p0.jpg",
       "path": "uploads/2026/07/458b1358.jpg",
