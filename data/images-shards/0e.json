@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "c512182b",
+      "filename": "pixiv_147597074_p0.jpg",
+      "path": "uploads/2026/07/07984ce1.jpg",
+      "size": 621721,
+      "width": 865,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a7f1f3568c5b1d7240a8c517969914acf387d2c1dd48a478a2aefa5fc3b06fdf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T17:13:32.021Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ひと夏の狐",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147597074_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147597074",
+      "sourceCreatedAt": "2026-07-24T20:31:47.000Z"
+    },
+    {
       "id": "86b0db9c",
       "filename": "pixiv_147604958_p0.jpg",
       "path": "uploads/2026/07/f63d5fe9.jpg",
