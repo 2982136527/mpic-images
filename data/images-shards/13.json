@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "d654ed65",
+      "filename": "pixiv_147570032_p0.jpg",
+      "path": "uploads/2026/07/72d2d53e.jpg",
+      "size": 1302667,
+      "width": 764,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "530dbbc97e10a3a574862f5ee749dd6ec94cb406537febd8dc151c92712efa71",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:41:43.097Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Gilgamesh",
+      "tags": [
+        "ギルガメッシュ",
+        "崩壊スターレイル",
+        "HonkaiStarRail",
+        "ギルガメッシュ(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147570032_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147570032",
+      "sourceCreatedAt": "2026-07-24T05:35:12.000Z"
+    },
+    {
       "id": "0ad187a9",
       "filename": "pixiv_147515994_p0.jpg",
       "path": "uploads/2026/07/09592e8b.jpg",
