@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "a242cb40",
+      "filename": "pixiv_147589510_p0.jpg",
+      "path": "uploads/2026/07/3169508e.jpg",
+      "size": 876535,
+      "width": 734,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df9fb0257b616ea81fbdc9e646d6f37cd44e14a28875de0d050af57f9bb896fe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T10:08:23.014Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "玲楼花影",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "黒髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147589510_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147589510",
+      "sourceCreatedAt": "2026-07-24T15:00:23.000Z"
+    },
+    {
       "id": "956ccaec",
       "filename": "pixiv_147618887_p0.jpg",
       "path": "uploads/2026/07/635b9eb3.jpg",
