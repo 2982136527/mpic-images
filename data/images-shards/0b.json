@@ -3,6 +3,35 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "4866c142",
+      "filename": "pixiv_147618163_p0.jpg",
+      "path": "uploads/2026/07/9bcaa7db.jpg",
+      "size": 806306,
+      "width": 1001,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dc340519a48262477c8c3e789a0696c994c33fecb341386e217af85c3df7da37",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T10:09:59.112Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "🌞",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "HatsuneMiku",
+        "ボカロ",
+        "Miku",
+        "ツインテール",
+        "ボーカロイド",
+        "ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147618163_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147618163",
+      "sourceCreatedAt": "2026-07-25T10:34:50.000Z"
+    },
+    {
       "id": "89243fa7",
       "filename": "pixiv_147587111_p0.jpg",
       "path": "uploads/2026/07/9ba7ebe5.jpg",
