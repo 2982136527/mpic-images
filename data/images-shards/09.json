@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "c3e4e272",
+      "filename": "pixiv_147587530_p0.jpg",
+      "path": "uploads/2026/07/df15741f.jpg",
+      "size": 516249,
+      "width": 1200,
+      "height": 1118,
+      "mimeType": "image/jpeg",
+      "hash": "fa77fbbf6800e42e1e61f932556e4811fd3176cfb3b443703bd301ef752a4a74",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:47:37.974Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "スターサファイア",
+        "東方",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147587530_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147587530",
+      "sourceCreatedAt": "2026-07-24T14:17:05.000Z"
+    },
+    {
       "id": "9e7ad0c0",
       "filename": "pixiv_147593281_p0.jpg",
       "path": "uploads/2026/07/2123b4d7.jpg",
