@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "c47e6505",
+      "filename": "pixiv_147588335_p0.jpg",
+      "path": "uploads/2026/07/2fce8885.jpg",
+      "size": 763508,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "e415009888569221b154047a86ee9406fbde973733e5e91a38324777a9b6a06f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T10:12:48.335Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "『近いのだけれども』",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "飛鳥馬トキ",
+        "調月リオ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147588335_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147588335",
+      "sourceCreatedAt": "2026-07-24T14:36:18.000Z"
+    },
+    {
       "id": "f22623e5",
       "filename": "pixiv_147577967_p0.jpg",
       "path": "uploads/2026/07/47ed5af8.jpg",
