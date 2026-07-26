@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "dcfa18d3",
+      "filename": "pixiv_147590120_p0.jpg",
+      "path": "uploads/2026/07/25783858.jpg",
+      "size": 1342053,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "e5373a9cd293d0e8f62aa237703a03443677b0ce44240c86c8d507c5663c8b7d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T10:08:17.112Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "幸祜 type-4th \"Aries\"",
+      "tags": [
+        "オリジナル",
+        "幸祜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147590120_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147590120",
+      "sourceCreatedAt": "2026-07-24T15:05:32.000Z"
+    },
+    {
       "id": "65b6ab61",
       "filename": "pixiv_147421262_p0.jpg",
       "path": "uploads/2026/07/66625e4c.jpg",
