@@ -3,6 +3,28 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "57f4270b",
+      "filename": "pixiv_147556233_p0.jpg",
+      "path": "uploads/2026/07/4c7cd609.jpg",
+      "size": 1013967,
+      "width": 918,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "44e12ee1ba98e78dc8357f653d6c362fa14867db51cc9192cf3ed2cccd6bc7a5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T10:07:49.213Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "じざいあんよ",
+      "tags": [
+        "メカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147556233_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147556233",
+      "sourceCreatedAt": "2026-07-23T16:09:41.000Z"
+    },
+    {
       "id": "9d2a22e1",
       "filename": "pixiv_147556483_p0.jpg",
       "path": "uploads/2026/07/344efb2f.jpg",
