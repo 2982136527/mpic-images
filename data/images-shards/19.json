@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "5f49e48c",
+      "filename": "pixiv_147619030_p0.jpg",
+      "path": "uploads/2026/07/c232f7a3.jpg",
+      "size": 1058161,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "057a3a14490e756a340212d31ced4142d66d42b1f2a2650ce4e73dfeccf8a157",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:46:11.741Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Hibiscus",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147619030_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147619030",
+      "sourceCreatedAt": "2026-07-25T11:00:04.000Z"
+    },
+    {
       "id": "531be459",
       "filename": "pixiv_147611552_p0.jpg",
       "path": "uploads/2026/07/e31cd8c8.jpg",
