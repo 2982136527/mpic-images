@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "bcc15e72",
+      "filename": "pixiv_147591670_p0.jpg",
+      "path": "uploads/2026/07/15217210.jpg",
+      "size": 458111,
+      "width": 707,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "d2cfe7a9fda6ff85f783c9db9220a9ab91db9bc0d7edf7d275b8e8439ff63208",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T17:13:14.007Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ギャル告白14",
+      "tags": [
+        "仕事絵",
+        "ギャル告白",
+        "ライトノベル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147591670_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147591670",
+      "sourceCreatedAt": "2026-07-24T15:45:31.000Z"
+    },
+    {
       "id": "3b23741c",
       "filename": "pixiv_147565144_p0.jpg",
       "path": "uploads/2026/07/3313d6ee.jpg",
