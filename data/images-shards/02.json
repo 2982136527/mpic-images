@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "0f049736",
+      "filename": "pixiv_147578549_p0.jpg",
+      "path": "uploads/2026/07/7afdcf22.jpg",
+      "size": 621366,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2b9a43390cdfca38ff3b89e349002c6ba08d363d12354d2de3e2b24697b83657",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:41:21.197Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "あいしてる",
+      "tags": [
+        "ルラトレ♀",
+        "ルーラーシップ(ウマ娘)",
+        "ウマ娘プリティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147578549_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147578549",
+      "sourceCreatedAt": "2026-07-24T10:56:28.000Z"
+    },
+    {
       "id": "35f49679",
       "filename": "pixiv_147550180_p0.jpg",
       "path": "uploads/2026/07/bbb4e1e4.jpg",
