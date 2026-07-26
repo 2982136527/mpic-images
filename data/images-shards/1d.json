@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "05101e82",
+      "filename": "pixiv_147589473_p0.jpg",
+      "path": "uploads/2026/07/c4ebaab9.jpg",
+      "size": 811857,
+      "width": 1200,
+      "height": 1080,
+      "mimeType": "image/jpeg",
+      "hash": "fc807a45f3735914b11ca77b944a9eb4c9c1f16cd732f0b3b7730ef3483262cf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:43:32.445Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夏休みを満喫していたらしい",
+      "tags": [
+        "少年",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147589473_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147589473",
+      "sourceCreatedAt": "2026-07-24T15:00:14.000Z"
+    },
+    {
       "id": "e6dfe5a8",
       "filename": "pixiv_147605941_p0.jpg",
       "path": "uploads/2026/07/7cba5504.jpg",
