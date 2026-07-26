@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "c425e0ac",
+      "filename": "pixiv_147624897_p0.jpg",
+      "path": "uploads/2026/07/516c0ab9.jpg",
+      "size": 803235,
+      "width": 906,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bcb35a0d8eb19610af2d53aeccca4a5dfcfae5b4801e89bd989cd8b12f44c42a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T17:10:21.897Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": ".",
+      "tags": [
+        "個展",
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147624897_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147624897",
+      "sourceCreatedAt": "2026-07-25T13:03:49.000Z"
+    },
+    {
       "id": "5f49e48c",
       "filename": "pixiv_147619030_p0.jpg",
       "path": "uploads/2026/07/c232f7a3.jpg",
