@@ -3,6 +3,35 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "e7e8a022",
+      "filename": "pixiv_147606488_p0.jpg",
+      "path": "uploads/2026/07/3aa3339d.jpg",
+      "size": 904510,
+      "width": 800,
+      "height": 1036,
+      "mimeType": "image/jpeg",
+      "hash": "f1caa74a13bd850f98f2559645d4c5ed3a47eca7417da2107dc881aaf4a51b13",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T10:11:52.195Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "FGO 絵まとめ",
+      "tags": [
+        "Fate/GrandOrder",
+        "ぐだ子",
+        "テノチティトラン(水着)",
+        "アルトリア・キャスター(水着)",
+        "スペース・エレシュキガル/エレシュキガル(水着)",
+        "バーヴァン・シー/ハベトロット/水妃モルガン/徐福(水着)",
+        "鈴鹿御前〔サマバケ〕/メリュジーヌ(水着)",
+        "U-オルガマリー/偽典ソロモン/ロマニ・アーキマン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147606488_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147606488",
+      "sourceCreatedAt": "2026-07-25T08:32:05.000Z"
+    },
+    {
       "id": "ababe425",
       "filename": "pixiv_147570860_p0.jpg",
       "path": "uploads/2026/07/83cb5392.jpg",
