@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "e9ac1d82",
+      "filename": "pixiv_147588513_p0.jpg",
+      "path": "uploads/2026/07/1906e78a.jpg",
+      "size": 942091,
+      "width": 794,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4282aeb48d92952edd285b6cc9ab5665158b8809deae5ee9ae2db75e15a4e3b8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:44:46.178Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "リクエストありがとうございました！",
+      "tags": [
+        "女の子",
+        "ウサギ",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147588513_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147588513",
+      "sourceCreatedAt": "2026-07-24T14:40:15.000Z"
+    },
+    {
       "id": "a1f7f689",
       "filename": "pixiv_147590212_p0.jpg",
       "path": "uploads/2026/07/780c9547.jpg",
