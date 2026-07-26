@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "8d95ca31",
+      "filename": "pixiv_147421055_p0.jpg",
+      "path": "uploads/2026/07/572b7f1c.jpg",
+      "size": 352033,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ebb53c38aed97bb0a0cba7ea435939374b0ab29ab8d2ffd0046b0e9a80bebfb3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:48:16.146Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Xまとめ③",
+      "tags": [
+        "星のカービィ",
+        "情報量が多い画像",
+        "覚悟しろ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147421055_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147421055",
+      "sourceCreatedAt": "2026-07-20T05:32:12.000Z"
+    },
+    {
       "id": "a46db987",
       "filename": "pixiv_147524446_p0.jpg",
       "path": "uploads/2026/07/afee7a6a.jpg",
