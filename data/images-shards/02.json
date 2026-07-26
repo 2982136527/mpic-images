@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "d109c600",
+      "filename": "pixiv_147603189_p0.jpg",
+      "path": "uploads/2026/07/970f198c.jpg",
+      "size": 849915,
+      "width": 801,
+      "height": 819,
+      "mimeType": "image/jpeg",
+      "hash": "038f8c5bd0d5fc15a76dda7fd3cd4c09857d35108539c99f96b86aaeb3809ed5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T17:09:44.514Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "たんていろぐ",
+      "tags": [
+        "名探偵プリキュア!",
+        "たんプリ100users入り",
+        "キュアエクレール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147603189_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147603189",
+      "sourceCreatedAt": "2026-07-25T01:58:47.000Z"
+    },
+    {
       "id": "c2692081",
       "filename": "pixiv_147590272_p0.jpg",
       "path": "uploads/2026/07/008727c1.jpg",
