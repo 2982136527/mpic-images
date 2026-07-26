@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "3a4855f2",
+      "filename": "pixiv_147556915_p0.jpg",
+      "path": "uploads/2026/07/de4284ea.jpg",
+      "size": 1138289,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "1c3094e542961bb804d1fc05b8b77c303868468c67e75105d5116f061af37235",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T10:09:11.917Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "DF-90KK76219",
+      "tags": [
+        "女の子",
+        "写真"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147556915_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147556915",
+      "sourceCreatedAt": "2026-07-23T16:37:20.000Z"
+    },
+    {
       "id": "57f4270b",
       "filename": "pixiv_147556233_p0.jpg",
       "path": "uploads/2026/07/4c7cd609.jpg",
