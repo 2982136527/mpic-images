@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "e47811da",
+      "filename": "pixiv_147602906_p0.jpg",
+      "path": "uploads/2026/07/13694589.jpg",
+      "size": 698062,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e6e7159a63cd7414587548e409ddc674c700843b001bf6c4aed63b799848be65",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:40:59.368Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "DAY86 希洛猫猫",
+      "tags": [
+        "萝莉",
+        "雪糕",
+        "白丝",
+        "插画",
+        "白裤袜",
+        "猫耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147602906_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147602906",
+      "sourceCreatedAt": "2026-07-25T01:45:16.000Z"
+    },
+    {
       "id": "40306dc0",
       "filename": "pixiv_147574627_p0.jpg",
       "path": "uploads/2026/07/ca62744e.jpg",
