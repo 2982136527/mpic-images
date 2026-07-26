@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "fdcbd8e7",
+      "filename": "pixiv_147606105_p0.jpg",
+      "path": "uploads/2026/07/2f99930a.jpg",
+      "size": 203427,
+      "width": 600,
+      "height": 443,
+      "mimeType": "image/jpeg",
+      "hash": "1c57e56d8d1ef2c3bbe87fdd19baa94f5391d05dba628d0a48ec201f83308411",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:46:04.395Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "落書きオカモモ22＋＠",
+      "tags": [
+        "ダンダダン",
+        "オカモモ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147606105_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147606105",
+      "sourceCreatedAt": "2026-07-25T03:51:40.000Z"
+    },
+    {
       "id": "5b270427",
       "filename": "pixiv_147619033_p0.jpg",
       "path": "uploads/2026/07/51efcec4.jpg",
