@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "74f5030d",
+      "filename": "pixiv_147562891_p0.jpg",
+      "path": "uploads/2026/07/6499e061.jpg",
+      "size": 765457,
+      "width": 956,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "67e7959f5623daeed07a15d9a885270cd9953a85a697f80aa2b0cf1c8ae74992",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T10:09:06.099Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "パーカー",
+      "tags": [
+        "氷の城壁",
+        "氷川小雪",
+        "雨宮湊"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147562891_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147562891",
+      "sourceCreatedAt": "2026-07-23T22:59:22.000Z"
+    },
+    {
       "id": "657020da",
       "filename": "pixiv_147614081_p0.jpg",
       "path": "uploads/2026/07/473384d8.jpg",
