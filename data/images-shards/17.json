@@ -3,6 +3,32 @@
   "shardId": "17",
   "images": [
     {
+      "id": "f49ce871",
+      "filename": "pixiv_147606816_p0.jpg",
+      "path": "uploads/2026/07/5c5707ae.jpg",
+      "size": 1588001,
+      "width": 656,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b17ac7face701731d360c7e622b96f22fd84ab5283e910e7d17ae75ee8aa92f5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:40:52.043Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "レミエール🪽",
+      "tags": [
+        "ゼンゼロ",
+        "レミエール",
+        "Remielle",
+        "zzzero",
+        "レミエール・ダン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147606816_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147606816",
+      "sourceCreatedAt": "2026-07-25T04:17:07.000Z"
+    },
+    {
       "id": "2c6cd26c",
       "filename": "pixiv_147565685_p0.jpg",
       "path": "uploads/2026/07/67180ccd.jpg",
