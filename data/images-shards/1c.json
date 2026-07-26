@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "72f4d763",
+      "filename": "pixiv_147567602_p0.jpg",
+      "path": "uploads/2026/07/22c4fefa.jpg",
+      "size": 805800,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b2b129d6133fad4c8846f42884fe9eb30e596c016aea6a09314ef313f45cdb31",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T17:11:36.693Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Day98 Death",
+      "tags": [
+        "100日チャレンジ",
+        "明日方舟终末地"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147567602_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147567602",
+      "sourceCreatedAt": "2026-07-24T03:26:51.000Z"
+    },
+    {
       "id": "4eeb8c7a",
       "filename": "pixiv_147604681_p0.jpg",
       "path": "uploads/2026/07/6e121f5c.jpg",
