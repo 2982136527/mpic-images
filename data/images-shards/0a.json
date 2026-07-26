@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "7e144a30",
+      "filename": "pixiv_147584710_p0.jpg",
+      "path": "uploads/2026/07/fe34ec82.jpg",
+      "size": 1085324,
+      "width": 864,
+      "height": 1080,
+      "mimeType": "image/jpeg",
+      "hash": "a48458c4f3fa8823259c06ae46854ba87b9c1eb6a26b53c9cfb0de40e1deb151",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:45:00.600Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "miyu",
+      "tags": [
+        "正反対な君と僕",
+        "鈴木みゆ",
+        "ファンアート"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147584710_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147584710",
+      "sourceCreatedAt": "2026-07-24T13:12:56.000Z"
+    },
+    {
       "id": "9dfedcb1",
       "filename": "pixiv_147570682_p0.jpg",
       "path": "uploads/2026/07/6d4ee679.jpg",
