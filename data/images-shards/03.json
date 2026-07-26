@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "8969e57b",
+      "filename": "pixiv_147570943_p0.jpg",
+      "path": "uploads/2026/07/f0479723.jpg",
+      "size": 1462344,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "72f0d6186697a541f8e3440ea03ad780c4bf9c30ddd696594446051bf8e35033",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:47:09.206Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ネムネムばあちゃん",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "シトラリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147570943_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147570943",
+      "sourceCreatedAt": "2026-07-24T06:28:00.000Z"
+    },
+    {
       "id": "e9ac1d82",
       "filename": "pixiv_147588513_p0.jpg",
       "path": "uploads/2026/07/1906e78a.jpg",
