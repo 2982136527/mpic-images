@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "0c52daca",
+      "filename": "pixiv_147581604_p0.jpg",
+      "path": "uploads/2026/07/df9920d0.jpg",
+      "size": 625728,
+      "width": 1200,
+      "height": 968,
+      "mimeType": "image/jpeg",
+      "hash": "858a73e5004894bca90128957c381674e9a61f56b60f62971777ee58447b2c0a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:42:12.021Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "お祭りがある日",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147581604_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147581604",
+      "sourceCreatedAt": "2026-07-24T12:02:42.000Z"
+    },
+    {
       "id": "2a8403df",
       "filename": "pixiv_147577828_p0.jpg",
       "path": "uploads/2026/07/9fb1e233.jpg",
