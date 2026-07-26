@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "0bf88a50",
+      "filename": "pixiv_147602336_p0.jpg",
+      "path": "uploads/2026/07/cd48a357.jpg",
+      "size": 387694,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d012771b3120cd0898a81ced3f76dc8f729f6ad9d0fccc3cf90d439cfbe24c98",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T17:13:03.090Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "狐耳",
+        "メイド",
+        "ごすメイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147602336_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147602336",
+      "sourceCreatedAt": "2026-07-25T01:19:08.000Z"
+    },
+    {
       "id": "a13925b9",
       "filename": "pixiv_147589303_p0.jpg",
       "path": "uploads/2026/07/6f4ace6d.jpg",
