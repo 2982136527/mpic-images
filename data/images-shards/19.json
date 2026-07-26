@@ -3,6 +3,36 @@
   "shardId": "19",
   "images": [
     {
+      "id": "7b5b13b8",
+      "filename": "pixiv_147604149_p0.jpg",
+      "path": "uploads/2026/07/dff2f9d4.jpg",
+      "size": 403466,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "c6bc7e204858201c04db1af4f1568776a02879645d0747a471ae5724204c55ba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:39:28.996Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "FGO雑多ログ30",
+      "tags": [
+        "FGO",
+        "カドアナ",
+        "アナスタシア・ニコラエヴナ・ロマノヴァ(Fate)",
+        "カドック・ゼムルプス",
+        "マシュ・キリエライト",
+        "テスカトリポカ(Fate)",
+        "アルトリア・キャスター",
+        "オベロン・ヴォーティガーン",
+        "リリス(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147604149_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147604149",
+      "sourceCreatedAt": "2026-07-25T02:40:22.000Z"
+    },
+    {
       "id": "8abd927e",
       "filename": "pixiv_147570025_p0.jpg",
       "path": "uploads/2026/07/b603ad8d.jpg",
