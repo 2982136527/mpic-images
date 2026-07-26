@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "e5b2043f",
+      "filename": "pixiv_147564183_p0.jpg",
+      "path": "uploads/2026/07/dc1af44c.jpg",
+      "size": 2149716,
+      "width": 1108,
+      "height": 1195,
+      "mimeType": "image/jpeg",
+      "hash": "9e4a96a4b7954ad4f451fb643fdb53f9d678d0ef041cd42273c44710d8430006",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:41:06.404Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "夏のセッション",
+      "tags": [
+        "オリジナル",
+        "透明水彩",
+        "くま",
+        "アナログ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147564183_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147564183",
+      "sourceCreatedAt": "2026-07-24T00:14:46.000Z"
+    },
+    {
       "id": "e47811da",
       "filename": "pixiv_147602906_p0.jpg",
       "path": "uploads/2026/07/13694589.jpg",
