@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "a27dfccd",
+      "filename": "pixiv_147626583_p0.jpg",
+      "path": "uploads/2026/07/c4964929.jpg",
+      "size": 571235,
+      "width": 825,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cebc5d3ac05ef0dc314d7c3f06966dc7b3786125f7ee4744bdb0f9736fb3a0b7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T03:47:45.361Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Mellow Wish",
+      "tags": [
+        "安洁莉娜",
+        "明日方舟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147626583_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147626583",
+      "sourceCreatedAt": "2026-07-25T16:47:16.000Z"
+    },
+    {
       "id": "20597ed2",
       "filename": "pixiv_147537783_p0.jpg",
       "path": "uploads/2026/07/d802e71a.jpg",
