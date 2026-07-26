@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "00a28c0c",
+      "filename": "pixiv_147588845_p0.jpg",
+      "path": "uploads/2026/07/42fe9aef.jpg",
+      "size": 625621,
+      "width": 1048,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7ce686c223b5dc2556db04a1f91b1061880d80096031838ac7e594ebcff5c2c6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-26T10:13:11.486Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ダンガンパ",
+      "tags": [
+        "スーパーダンガンロンパ2",
+        "小泉真昼",
+        "コマヒル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147588845_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147588845",
+      "sourceCreatedAt": "2026-07-24T14:47:37.000Z"
+    },
+    {
       "id": "5794236a",
       "filename": "pixiv_147571302_p0.jpg",
       "path": "uploads/2026/07/6f92e68f.jpg",
