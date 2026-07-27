@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "559eda85",
+      "filename": "pixiv_147670432_p0.jpg",
+      "path": "uploads/2026/07/0bf32d6d.jpg",
+      "size": 282236,
+      "width": 1123,
+      "height": 1123,
+      "mimeType": "image/jpeg",
+      "hash": "d682b7642d0139eea5ac4bb29721424d65450f8b57f1e2e2453003505aaee326",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T17:48:56.323Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【通販のお知らせ】",
+      "tags": [
+        "狐の窓",
+        "管狐のモナカ",
+        "BOOTH"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147670432_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147670432",
+      "sourceCreatedAt": "2026-07-26T13:41:40.000Z"
+    },
+    {
       "id": "73a34ecb",
       "filename": "pixiv_147648990_p0.jpg",
       "path": "uploads/2026/07/707c7ef2.jpg",
