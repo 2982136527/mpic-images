@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "6475993b",
+      "filename": "pixiv_147630155_p0.jpg",
+      "path": "uploads/2026/07/93f849fd.jpg",
+      "size": 1781147,
+      "width": 1200,
+      "height": 1030,
+      "mimeType": "image/jpeg",
+      "hash": "5fabfbb28e1c031fa1dfea944d701760aab433eec2b53a852e612406757754b8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T11:33:28.749Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "海浪Miku",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147630155_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147630155",
+      "sourceCreatedAt": "2026-07-25T15:00:23.000Z"
+    },
+    {
       "id": "839921be",
       "filename": "pixiv_147629114_p0.jpg",
       "path": "uploads/2026/07/f377bf28.jpg",
