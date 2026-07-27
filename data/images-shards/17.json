@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "c4ca8ee6",
+      "filename": "pixiv_147628485_p0.jpg",
+      "path": "uploads/2026/07/934259ac.jpg",
+      "size": 877504,
+      "width": 1198,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1f5c1caff0d54f075f02993e56e17a348fecc40ff7f3314bf4615d810b9f36f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:55:42.441Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Mon3tr Day~",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "Mon3tr"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147628485_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147628485",
+      "sourceCreatedAt": "2026-07-25T14:25:12.000Z"
+    },
+    {
       "id": "eed44a44",
       "filename": "pixiv_147621078_p0.jpg",
       "path": "uploads/2026/07/4fc9ba3e.jpg",
