@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "45f01b7c",
+      "filename": "pixiv_147646029_p0.jpg",
+      "path": "uploads/2026/07/b67866bf.jpg",
+      "size": 1379163,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "315579bad14d15ce0c50b2f2461b51d723116d802274bc0aa99d7a68bfca86f9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:57:28.498Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "サムス・アラン",
+      "tags": [
+        "ゼロスーツサムス",
+        "サムス・アラン",
+        "サムス",
+        "メトロイド",
+        "ショートヘア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147646029_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147646029",
+      "sourceCreatedAt": "2026-07-26T02:36:12.000Z"
+    },
+    {
       "id": "7a1b6565",
       "filename": "pixiv_147641535_p0.jpg",
       "path": "uploads/2026/07/d9e4f65a.jpg",
