@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "bdce2679",
+      "filename": "pixiv_147648317_p0.jpg",
+      "path": "uploads/2026/07/8b07c9d4.jpg",
+      "size": 470524,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f1fcc419ff0aa189f1bf341c1095283bbdbb63248bcac771d7dc702de28e9d3d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T11:35:41.674Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "上官と部下64",
+      "tags": [
+        "漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147648317_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147648317",
+      "sourceCreatedAt": "2026-07-26T03:59:59.000Z"
+    },
+    {
       "id": "04cc97a4",
       "filename": "pixiv_147623498_p0.jpg",
       "path": "uploads/2026/07/3aee7b4c.jpg",
