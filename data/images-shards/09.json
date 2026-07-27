@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "4a0f1722",
+      "filename": "pixiv_147616095_p0.jpg",
+      "path": "uploads/2026/07/a3ed6eed.jpg",
+      "size": 1384287,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0b8bcd09a0c4f07581d59dc7d028c41aeb026e8703b8d00b67d7755e3478bfa2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:53:29.621Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "灵梦梦",
+      "tags": [
+        "博麗霊夢",
+        "東方Project",
+        "脇"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147616095_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147616095",
+      "sourceCreatedAt": "2026-07-25T09:40:08.000Z"
+    },
+    {
       "id": "2e64bc1a",
       "filename": "pixiv_147630308_p0.jpg",
       "path": "uploads/2026/07/6265b51a.jpg",
