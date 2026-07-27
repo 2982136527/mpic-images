@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "35ada068",
+      "filename": "pixiv_147632638_p0.jpg",
+      "path": "uploads/2026/07/561bfa7b.jpg",
+      "size": 778318,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a538b5c61a44ce4d99971850bd0bc1b3a78495d72df539c9a5a27b52c2e359dc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:54:06.803Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "MHAログ",
+      "tags": [
+        "出茶",
+        "上耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147632638_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147632638",
+      "sourceCreatedAt": "2026-07-25T15:50:08.000Z"
+    },
+    {
       "id": "40c6016d",
       "filename": "pixiv_147618213_p0.jpg",
       "path": "uploads/2026/07/7d6b9d77.jpg",
