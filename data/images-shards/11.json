@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "e5102e68",
+      "filename": "pixiv_147636601_p0.jpg",
+      "path": "uploads/2026/07/50a5bf41.jpg",
+      "size": 893782,
+      "width": 816,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c322d06e4d221b955f402e123b1f73550c0021fdd1331b9c95afe542e87bb97a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:55:30.888Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Ada Achievements",
+      "tags": [
+        "adawong",
+        "RESIDENTEVIL",
+        "re",
+        "LEON"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147636601_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147636601",
+      "sourceCreatedAt": "2026-07-25T18:16:05.000Z"
+    },
+    {
       "id": "ab492086",
       "filename": "pixiv_147611398_p0.jpg",
       "path": "uploads/2026/07/8932ec56.jpg",
