@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "e05f8768",
+      "filename": "pixiv_147619584_p0.jpg",
+      "path": "uploads/2026/07/4ca17d6a.jpg",
+      "size": 1322674,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "522b37b5f629c17f4d02d8ddd73f5a5e4211dc463d4813b06ebe21731e4898ba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:53:48.108Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Fluorite",
+      "tags": [
+        "フローライト(エンドフィールド)",
+        "アークナイツ:エンドフィールド",
+        "エンドフィールド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147619584_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147619584",
+      "sourceCreatedAt": "2026-07-25T11:07:20.000Z"
+    },
+    {
       "id": "d43bd5db",
       "filename": "pixiv_147645451_p0.jpg",
       "path": "uploads/2026/07/17ba51e2.jpg",
