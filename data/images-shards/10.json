@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "6c8125f2",
+      "filename": "pixiv_147611472_p0.jpg",
+      "path": "uploads/2026/07/e9ea5057.jpg",
+      "size": 775814,
+      "width": 1200,
+      "height": 621,
+      "mimeType": "image/jpeg",
+      "hash": "5b1731d9047e05190e0db212604fd986019c7a1e97023e52787776286b1035c3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T11:36:37.133Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "【お仕事】 Eversoul エバーソウル",
+      "tags": [
+        "イラスト",
+        "女の子",
+        "仕事絵",
+        "オリジナル",
+        "Eversoul",
+        "エバーソウル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147611472_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147611472",
+      "sourceCreatedAt": "2026-07-25T07:16:42.000Z"
+    },
+    {
       "id": "4d5acb1e",
       "filename": "pixiv_147606478_p0.jpg",
       "path": "uploads/2026/07/37d3d5bd.jpg",
