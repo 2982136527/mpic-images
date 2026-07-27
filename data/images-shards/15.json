@@ -3,6 +3,33 @@
   "shardId": "15",
   "images": [
     {
+      "id": "0d0bb1ca",
+      "filename": "pixiv_147662107_p0.jpg",
+      "path": "uploads/2026/07/7d9ba4e4.jpg",
+      "size": 1470911,
+      "width": 900,
+      "height": 1189,
+      "mimeType": "image/jpeg",
+      "hash": "ab9c153b2d2d1c903ea6ecd5a2fbf6c1f45a424fa5da1636410f888b9a832dc4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:53:16.919Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "dmc",
+      "tags": [
+        "dmc",
+        "vergil",
+        "dante",
+        "DevilMayCry",
+        "バージル(デビルメイクライ)",
+        "ダンテ(デビルメイクライ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147662107_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147662107",
+      "sourceCreatedAt": "2026-07-26T10:53:55.000Z"
+    },
+    {
       "id": "15a01c7f",
       "filename": "pixiv_147619583_p0.jpg",
       "path": "uploads/2026/07/29822368.jpg",
