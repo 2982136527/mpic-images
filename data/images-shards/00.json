@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "d278b563",
+      "filename": "pixiv_147649810_p0.jpg",
+      "path": "uploads/2026/07/c38fc489.jpg",
+      "size": 759008,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7cb0322a329b73b5079e14a65eacd812a299ab6d4a4e6a93cae0019aaabf481f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T17:51:05.526Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Day100 Amiya",
+      "tags": [
+        "100日チャレンジ",
+        "アークナイツ",
+        "明日方舟",
+        "Arknights",
+        "アーミヤ(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147649810_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147649810",
+      "sourceCreatedAt": "2026-07-26T04:54:19.000Z"
+    },
+    {
       "id": "278f6e56",
       "filename": "pixiv_147626874_p0.jpg",
       "path": "uploads/2026/07/8168bd7f.jpg",
