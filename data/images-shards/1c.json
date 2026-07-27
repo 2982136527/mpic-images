@@ -3,6 +3,37 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "2fc18043",
+      "filename": "pixiv_147660602_p0.jpg",
+      "path": "uploads/2026/07/e85decae.jpg",
+      "size": 849067,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "4a2712761f6bfeb31fedb318929c7c53d1dd4f3bf5cae8c3fe116ce7c0ae0a8f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T17:56:34.245Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "MECHATU-A 漫画ログ ⑬",
+      "tags": [
+        "にじさんじ",
+        "伊波ライ",
+        "星導ショウ",
+        "小柳ロウ",
+        "叢雲カゲツ",
+        "Dytica",
+        "緋八マナ",
+        "赤城ウェン",
+        "宇佐美リト",
+        "佐伯イッテツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147660602_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147660602",
+      "sourceCreatedAt": "2026-07-26T10:14:23.000Z"
+    },
+    {
       "id": "3cd77c5a",
       "filename": "pixiv_147630722_p0.jpg",
       "path": "uploads/2026/07/df079225.jpg",
