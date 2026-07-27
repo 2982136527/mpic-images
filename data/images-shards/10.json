@@ -3,6 +3,34 @@
   "shardId": "10",
   "images": [
     {
+      "id": "264b24b1",
+      "filename": "pixiv_147666382_p0.jpg",
+      "path": "uploads/2026/07/9c70382d.jpg",
+      "size": 518330,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "87488219ad0ab3643de2545642e4644463ae565c4db47db1322b8c7acf871f3b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:49:39.849Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ヨワシモチーフの武器（ポケモン）",
+      "tags": [
+        "ヨワシ",
+        "ポケモン",
+        "ポケットモンスター",
+        "武器化",
+        "大剣",
+        "たんどくのすがた",
+        "むれたすがた"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147666382_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147666382",
+      "sourceCreatedAt": "2026-07-26T15:26:11.000Z"
+    },
+    {
       "id": "1cb251b6",
       "filename": "pixiv_147597145_p0.jpg",
       "path": "uploads/2026/07/21473977.jpg",
