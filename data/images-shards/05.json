@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "fd7af73e",
+      "filename": "pixiv_147633194_p0.jpg",
+      "path": "uploads/2026/07/7e58b1f2.jpg",
+      "size": 1262806,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "42603763bb5400dd8b584aeb7e0f0cf2aaeb0930f49dbc897df36ba6080d5e63",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:53:23.354Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "シトラリ",
+      "tags": [
+        "GenshinImpact",
+        "原神"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147633194_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147633194",
+      "sourceCreatedAt": "2026-07-25T16:04:03.000Z"
+    },
+    {
       "id": "0437a3bc",
       "filename": "pixiv_147653380_p0.jpg",
       "path": "uploads/2026/07/9492401e.jpg",
