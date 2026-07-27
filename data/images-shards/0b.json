@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "de27d2c4",
+      "filename": "pixiv_147624109_p0.jpg",
+      "path": "uploads/2026/07/37fca95d.jpg",
+      "size": 382725,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "8a03df43023342de1d9605ac81e029bb2ede375314c869af04d2e4d87e09b1b1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:50:03.386Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "土用の丑の日",
+      "tags": [
+        "オリジナル",
+        "満月珈琲店",
+        "食べ物",
+        "続き希望"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147624109_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147624109",
+      "sourceCreatedAt": "2026-07-25T12:49:41.000Z"
+    },
+    {
       "id": "db36f384",
       "filename": "pixiv_147577110_p0.jpg",
       "path": "uploads/2026/07/3b377379.jpg",
