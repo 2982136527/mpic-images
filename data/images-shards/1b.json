@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "ec497eb0",
+      "filename": "pixiv_147635696_p0.jpg",
+      "path": "uploads/2026/07/0f5af4a8.jpg",
+      "size": 980347,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c889bc3f2c047e706f9a64b1b644012746b3440227a3e8b5204be73118ac4839",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:54:33.223Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "虚ろ現",
+      "tags": [
+        "オリジナル",
+        "空",
+        "星空",
+        "夜空"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147635696_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147635696",
+      "sourceCreatedAt": "2026-07-25T17:34:31.000Z"
+    },
+    {
       "id": "ea8f882b",
       "filename": "pixiv_147618948_p0.jpg",
       "path": "uploads/2026/07/c2a42f54.jpg",
