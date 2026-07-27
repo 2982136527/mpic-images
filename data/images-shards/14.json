@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "9a9f1ee3",
+      "filename": "pixiv_147596299_p0.jpg",
+      "path": "uploads/2026/07/bd3c2804.jpg",
+      "size": 259432,
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/jpeg",
+      "hash": "0188ae5580c06c75e603a843b71e674c4c26c472b2f95b67aa5d6eeec8522ce6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:53:02.186Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "カンサイねこ",
+      "tags": [
+        "カンサイねこ",
+        "ヤニねこ",
+        "バニースーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147596299_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147596299",
+      "sourceCreatedAt": "2026-07-24T19:28:12.000Z"
+    },
+    {
       "id": "e8c5f420",
       "filename": "pixiv_147557616_p0.jpg",
       "path": "uploads/2026/07/d69340a8.jpg",
