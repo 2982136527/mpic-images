@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "520f1565",
+      "filename": "pixiv_147620911_p0.jpg",
+      "path": "uploads/2026/07/51cd5e49.jpg",
+      "size": 1335257,
+      "width": 837,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b24d610e097d37a67da1a8b712f1c84232e199e852a0b773b82d2867a5c88f12",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T17:51:54.207Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "おかっぱイラスト本表紙",
+      "tags": [
+        "コミティア157",
+        "COMITIA157",
+        "コミティア",
+        "ぱっつん",
+        "おかっぱ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147620911_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147620911",
+      "sourceCreatedAt": "2026-07-25T11:39:25.000Z"
+    },
+    {
       "id": "217abfb2",
       "filename": "pixiv_147656561_p0.jpg",
       "path": "uploads/2026/07/28d1a38d.jpg",
