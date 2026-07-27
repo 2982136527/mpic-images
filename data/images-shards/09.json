@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "15219401",
+      "filename": "pixiv_147602230_p0.jpg",
+      "path": "uploads/2026/07/248e1d5c.jpg",
+      "size": 1371278,
+      "width": 800,
+      "height": 1131,
+      "mimeType": "image/jpeg",
+      "hash": "301993943554888ec189f18458d5982e59df98d987def653ac7d7e63852b15bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:55:13.099Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "エクシア",
+      "tags": [
+        "アークナイツ",
+        "Arknights",
+        "明日方舟",
+        "エクシア(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147602230_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147602230",
+      "sourceCreatedAt": "2026-07-25T01:13:48.000Z"
+    },
+    {
       "id": "5bddd439",
       "filename": "pixiv_147658792_p0.jpg",
       "path": "uploads/2026/07/3aaf8229.jpg",
