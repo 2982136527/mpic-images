@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "5a501977",
+      "filename": "pixiv_147671204_p0.jpg",
+      "path": "uploads/2026/07/854c85dc.jpg",
+      "size": 883130,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a38fc335e7398f1402e6004b09dd2611f7ef6f4cc068a24c5c8250834fe3bd9b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:58:44.282Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "イブキ水着",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "丹花イブキ",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147671204_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147671204",
+      "sourceCreatedAt": "2026-07-26T13:58:15.000Z"
+    },
+    {
       "id": "4939e97a",
       "filename": "pixiv_147634177_p0.jpg",
       "path": "uploads/2026/07/ba9b05a6.jpg",
