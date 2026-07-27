@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "839921be",
+      "filename": "pixiv_147629114_p0.jpg",
+      "path": "uploads/2026/07/f377bf28.jpg",
+      "size": 437167,
+      "width": 1024,
+      "height": 736,
+      "mimeType": "image/jpeg",
+      "hash": "a92cb6f1afb549dba1546d5f5443d43c78905059670712c2d56d3ca90e3636d8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:58:38.958Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "うずさねログ",
+      "tags": [
+        "腐滅の刃",
+        "うずさね"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147629114_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147629114",
+      "sourceCreatedAt": "2026-07-25T14:40:07.000Z"
+    },
+    {
       "id": "a91a4935",
       "filename": "pixiv_147621121_p0.jpg",
       "path": "uploads/2026/07/2cba9943.jpg",
