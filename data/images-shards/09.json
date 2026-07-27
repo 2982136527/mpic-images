@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "5d622a32",
+      "filename": "pixiv_147638486_p0.jpg",
+      "path": "uploads/2026/07/e3bedd7b.jpg",
+      "size": 693461,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "97ccff0e7b9d62e1c0d0fed98cd0aa5bded3c5ca800b49dfb0de55c1bc942c31",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T17:50:58.148Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "わしゃわしゃ",
+      "tags": [
+        "超かぐや姫!",
+        "かぐいろ",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147638486_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147638486",
+      "sourceCreatedAt": "2026-07-25T20:24:14.000Z"
+    },
+    {
       "id": "7322a76d",
       "filename": "pixiv_147638127_p0.jpg",
       "path": "uploads/2026/07/e91284c4.jpg",
