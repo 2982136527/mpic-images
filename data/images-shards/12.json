@@ -3,6 +3,28 @@
   "shardId": "12",
   "images": [
     {
+      "id": "aa34b2e2",
+      "filename": "pixiv_147634667_p0.jpg",
+      "path": "uploads/2026/07/713cbaca.jpg",
+      "size": 765508,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8a47cf65e4f1ece801a28ed78ea007a25ffe39f38f50dc3093148b3c37bed32f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:58:33.188Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ブレマートン",
+      "tags": [
+        "ブレマートン(アズールレーン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147634667_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147634667",
+      "sourceCreatedAt": "2026-07-25T16:54:44.000Z"
+    },
+    {
       "id": "845b0935",
       "filename": "pixiv_147667021_p0.jpg",
       "path": "uploads/2026/07/8ce4bd04.jpg",
