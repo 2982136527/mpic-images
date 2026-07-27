@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "0a6e4ac5",
+      "filename": "pixiv_147633266_p0.jpg",
+      "path": "uploads/2026/07/1a7c6d19.jpg",
+      "size": 946130,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "19e73acdcc900cbbd85dc2b0546771cdb2ec66be316472ab5ec634db90958acc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:55:59.944Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "昔からずっとかわいい",
+      "tags": [
+        "AZエッテ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147633266_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147633266",
+      "sourceCreatedAt": "2026-07-25T16:06:18.000Z"
+    },
+    {
       "id": "2ba68009",
       "filename": "pixiv_147659478_p0.jpg",
       "path": "uploads/2026/07/cd779cca.jpg",
