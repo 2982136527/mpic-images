@@ -3,6 +3,28 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "95a983c2",
+      "filename": "pixiv_147607035_p0.jpg",
+      "path": "uploads/2026/07/fba6816e.jpg",
+      "size": 649062,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a5f816220041dfb100b63c82d1e2deacbedd5bb22654c2b37895c3d7b9e7fb8f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T17:56:10.442Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "GEGODIG.SUMMER4展示漫画",
+      "tags": [
+        "夏五"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147607035_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147607035",
+      "sourceCreatedAt": "2026-07-27T17:44:48.000Z"
+    },
+    {
       "id": "b5282506",
       "filename": "pixiv_147650350_p0.jpg",
       "path": "uploads/2026/07/d21d197d.jpg",
