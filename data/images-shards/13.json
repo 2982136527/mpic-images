@@ -3,6 +3,28 @@
   "shardId": "13",
   "images": [
     {
+      "id": "71adadd1",
+      "filename": "pixiv_147631163_p0.jpg",
+      "path": "uploads/2026/07/a6fce0a3.jpg",
+      "size": 1032324,
+      "width": 833,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7f29eb99d518d5192b3b74f93e73e87373832ee1b1b5248c08e144fdcead14b8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:57:57.640Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "boy",
+      "tags": [
+        "少年"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147631163_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147631163",
+      "sourceCreatedAt": "2026-07-25T15:13:02.000Z"
+    },
+    {
       "id": "09689282",
       "filename": "pixiv_147609175_p0.jpg",
       "path": "uploads/2026/07/2c703800.jpg",
