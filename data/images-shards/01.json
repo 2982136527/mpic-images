@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "98fe701b",
+      "filename": "pixiv_147630139_p0.jpg",
+      "path": "uploads/2026/07/57d8cc54.jpg",
+      "size": 744413,
+      "width": 819,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c56ac82f78f5f69885d56d6cf4b98b92fd03f2224a3a8f1bd04b33f1faf82668",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T11:32:57.884Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "頬杖",
+        "cutegirl",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147630139_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147630139",
+      "sourceCreatedAt": "2026-07-25T15:00:20.000Z"
+    },
+    {
       "id": "6e81746c",
       "filename": "pixiv_147554273_p0.jpg",
       "path": "uploads/2026/07/59c1197b.jpg",
