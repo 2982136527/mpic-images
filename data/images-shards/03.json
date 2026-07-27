@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "4a9321fd",
+      "filename": "pixiv_147621016_p0.jpg",
+      "path": "uploads/2026/07/784bebb0.jpg",
+      "size": 947163,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "480f6b277926c108c65a4ccb95e2280d2ab4399ea1219dac2e721165fc5e0758",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T11:34:21.903Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "赤い夢",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147621016_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147621016",
+      "sourceCreatedAt": "2026-07-25T11:42:39.000Z"
+    },
+    {
       "id": "c47e6505",
       "filename": "pixiv_147588335_p0.jpg",
       "path": "uploads/2026/07/2fce8885.jpg",
