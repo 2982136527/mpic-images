@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "845b0935",
+      "filename": "pixiv_147667021_p0.jpg",
+      "path": "uploads/2026/07/8ce4bd04.jpg",
+      "size": 968658,
+      "width": 883,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "56cd116ddc5d4b201ab2e703a506fa2ba565e51fd404a2d28e509444dcee1dc8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:52:17.623Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "まどか",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "鹿目まどか",
+        "まどか☆マギカ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147667021_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147667021",
+      "sourceCreatedAt": "2026-07-26T12:31:35.000Z"
+    },
+    {
       "id": "3806e32e",
       "filename": "pixiv_147606884_p0.jpg",
       "path": "uploads/2026/07/bf5f5776.jpg",
