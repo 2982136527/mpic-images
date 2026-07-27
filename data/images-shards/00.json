@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "3417f659",
+      "filename": "pixiv_147615432_p0.jpg",
+      "path": "uploads/2026/07/f65326d2.jpg",
+      "size": 881071,
+      "width": 1000,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d55dc466741972dcc6f3ac079cde77ec86de3d4c531d482ece6935b4f5606864",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:50:33.928Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Commission_260724",
+      "tags": [
+        "Phainon",
+        "ファイノン",
+        "白厄",
+        "HSR"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147615432_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147615432",
+      "sourceCreatedAt": "2026-07-25T09:20:56.000Z"
+    },
+    {
       "id": "1d5d2278",
       "filename": "pixiv_147620359_p0.jpg",
       "path": "uploads/2026/07/2ef076d3.jpg",
