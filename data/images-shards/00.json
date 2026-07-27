@@ -3,6 +3,34 @@
   "shardId": "00",
   "images": [
     {
+      "id": "9e7e1479",
+      "filename": "pixiv_147589591_p0.jpg",
+      "path": "uploads/2026/07/a6784b44.jpg",
+      "size": 1368630,
+      "width": 1037,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "475d6c861306e806f8d8ca752b4e88cb8f6e880414e8dc851a566bd7332ba3d1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:50:40.977Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "シンボリ家",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "スピードシンボリ(ウマ娘)",
+        "シンボリルドルフ(ウマ娘)",
+        "シリウスシンボリ(ウマ娘)",
+        "シンボリクリスエス(ウマ娘)",
+        "シンボリ家",
+        "イケメン女子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147589591_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147589591",
+      "sourceCreatedAt": "2026-07-24T15:00:38.000Z"
+    },
+    {
       "id": "3417f659",
       "filename": "pixiv_147615432_p0.jpg",
       "path": "uploads/2026/07/f65326d2.jpg",
