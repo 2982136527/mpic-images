@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "63989d0d",
+      "filename": "pixiv_147636496_p0.jpg",
+      "path": "uploads/2026/07/0eefd81a.jpg",
+      "size": 569892,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6e0b51fc5e1f8c9d4a4e6effb5e5bd202897ec0a80e3221a1cdc3dccd17b9d77",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:52:56.380Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "tnsrログ",
+      "tags": [
+        "ディアリム",
+        "リムディア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147636496_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147636496",
+      "sourceCreatedAt": "2026-07-25T18:10:02.000Z"
+    },
+    {
       "id": "51e3a063",
       "filename": "pixiv_147634219_p0.jpg",
       "path": "uploads/2026/07/54f77d46.jpg",
