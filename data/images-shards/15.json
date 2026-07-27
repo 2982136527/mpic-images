@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "15a01c7f",
+      "filename": "pixiv_147619583_p0.jpg",
+      "path": "uploads/2026/07/29822368.jpg",
+      "size": 964308,
+      "width": 760,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "2bc1115c6347b6544505fb917e7d777c83cc4c2daeff9843cd7eb066a5601161",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:51:01.620Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "新人ライバー",
+      "tags": [
+        "崩壊スターレイル",
+        "花火(スターレイル)",
+        "火花(スターレイル)",
+        "キャストリス",
+        "衣装チェンジ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147619583_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147619583",
+      "sourceCreatedAt": "2026-07-25T11:07:20.000Z"
+    },
+    {
       "id": "6e9567d3",
       "filename": "pixiv_147605249_p0.jpg",
       "path": "uploads/2026/07/69bbce4d.jpg",
