@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "f4456e65",
+      "filename": "pixiv_147658000_p0.jpg",
+      "path": "uploads/2026/07/bc88de87.jpg",
+      "size": 847660,
+      "width": 1098,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "50220c71a8150bb020c9b10457bd9febaf173c6b8de06efcd135ecb5d73bc9ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:53:54.216Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "skebまとめ",
+      "tags": [
+        "女の子",
+        "ゴシック",
+        "ゴスロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147658000_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147658000",
+      "sourceCreatedAt": "2026-07-26T09:07:08.000Z"
+    },
+    {
       "id": "62bd4a9d",
       "filename": "pixiv_147593406_p0.jpg",
       "path": "uploads/2026/07/9d4305a3.jpg",
