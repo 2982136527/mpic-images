@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "bdd1a76c",
+      "filename": "pixiv_147602812_p0.jpg",
+      "path": "uploads/2026/07/3f232502.jpg",
+      "size": 541447,
+      "width": 1030,
+      "height": 1179,
+      "mimeType": "image/jpeg",
+      "hash": "2c6f4b73273b8f9e8108c5b3236ac2474e38d9073c23da0e5a72342f1d1725b8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T17:52:31.409Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Paige eating! - Pixiv request",
+      "tags": [
+        "glasses",
+        "cartoon",
+        "oc",
+        "chibi"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147602812_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147602812",
+      "sourceCreatedAt": "2026-07-25T01:41:12.000Z"
+    },
+    {
       "id": "ac99b989",
       "filename": "pixiv_147650174_p0.jpg",
       "path": "uploads/2026/07/8c3d6573.jpg",
