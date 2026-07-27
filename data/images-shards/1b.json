@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "b79ce17a",
+      "filename": "pixiv_147630033_p0.jpg",
+      "path": "uploads/2026/07/f01ee2e1.jpg",
+      "size": 1123326,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "816cd50e78ea8676403c16e970db07a65fde20a6a917d6caacffa138870eb0b8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T11:32:46.620Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "しぐれういなつまつり",
+      "tags": [
+        "しぐれうい",
+        "巫女",
+        "バーチャルYouTuber1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147630033_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147630033",
+      "sourceCreatedAt": "2026-07-25T15:00:03.000Z"
+    },
+    {
       "id": "2e30b041",
       "filename": "pixiv_147636584_p0.jpg",
       "path": "uploads/2026/07/454d6db3.jpg",
