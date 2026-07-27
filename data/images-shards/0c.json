@@ -3,6 +3,34 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "f36c8848",
+      "filename": "pixiv_147616820_p0.jpg",
+      "path": "uploads/2026/07/9d3d63b5.jpg",
+      "size": 1068105,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "92d8fadefacc0e43b25cd68bf7c8785b1cf8f1091a8d88938b2abce7555364ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T17:55:44.074Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "アズレン9周年アート",
+      "tags": [
+        "アズールレーン",
+        "フリードリヒ・デア・グローセ(アズールレーン)",
+        "アズールレーン九周年記念",
+        "ウルリッヒ・フォン・フッテン(アズールレーン)",
+        "メークレンブルク(アズールレーン)",
+        "ヤーデ(アズールレーン)",
+        "エルベ(アズールレーン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147616820_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147616820",
+      "sourceCreatedAt": "2026-07-25T10:00:23.000Z"
+    },
+    {
       "id": "93da9606",
       "filename": "pixiv_147619993_p0.jpg",
       "path": "uploads/2026/07/bb68858b.jpg",
