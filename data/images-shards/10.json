@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "8aaaecf4",
+      "filename": "pixiv_147630683_p0.jpg",
+      "path": "uploads/2026/07/4c856ecd.jpg",
+      "size": 1282766,
+      "width": 737,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8c802304f1476469f7e92e0560191fb3ba38905e411a632ce9a01815a66cdadd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T17:48:47.047Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ときめいていたいの🪄",
+      "tags": [
+        "にじさんじ",
+        "バーチャルYouTuber500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147630683_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147630683",
+      "sourceCreatedAt": "2026-07-25T15:04:17.000Z"
+    },
+    {
       "id": "728d4f0d",
       "filename": "pixiv_147503351_p0.jpg",
       "path": "uploads/2026/07/f4f0971f.jpg",
