@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "2ba68009",
+      "filename": "pixiv_147659478_p0.jpg",
+      "path": "uploads/2026/07/cd779cca.jpg",
+      "size": 1140789,
+      "width": 731,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9256693e510c2029fc4fa4ee98595f562a654d8d21536e1a5b2fbfb78dfce773",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-27T03:52:44.274Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "しろは",
+      "tags": [
+        "女の子",
+        "サマポケ",
+        "SummerPockets",
+        "鳴瀬しろは"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147659478_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147659478",
+      "sourceCreatedAt": "2026-07-26T09:48:45.000Z"
+    },
+    {
       "id": "c84693ba",
       "filename": "pixiv_147613495_p0.jpg",
       "path": "uploads/2026/07/8305139b.jpg",
