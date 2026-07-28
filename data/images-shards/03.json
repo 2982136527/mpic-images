@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "1127dc29",
+      "filename": "pixiv_147695445_p0.jpg",
+      "path": "uploads/2026/07/a891a2f3.jpg",
+      "size": 945287,
+      "width": 1057,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9c81380c005cdd00b28bae789576befd25851769ab57e46c7279f60c285fe83f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T17:45:20.429Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "球",
+      "tags": [
+        "空間",
+        "部屋",
+        "作業部屋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147695445_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147695445",
+      "sourceCreatedAt": "2026-07-27T08:06:51.000Z"
+    },
+    {
       "id": "2e735b36",
       "filename": "pixiv_147630109_p0.jpg",
       "path": "uploads/2026/07/dd2627e4.jpg",
