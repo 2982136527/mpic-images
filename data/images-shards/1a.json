@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "dcb515c4",
+      "filename": "pixiv_147678528_p0.jpg",
+      "path": "uploads/2026/07/9be63ea0.jpg",
+      "size": 1042472,
+      "width": 730,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "86a8be8aacfac3f7c31e2f75edfc6bfabb9b631e133dea498154ec6cb5a1d935",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:50:57.527Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "羊妈妈",
+      "tags": [
+        "明日方舟",
+        "Arknights",
+        "アークナイツ",
+        "艾雅法拉",
+        "マグナ・ナウマン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147678528_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147678528",
+      "sourceCreatedAt": "2026-07-26T16:48:01.000Z"
+    },
+    {
       "id": "986d2a49",
       "filename": "pixiv_147678207_p0.jpg",
       "path": "uploads/2026/07/e3d3bbd7.jpg",
