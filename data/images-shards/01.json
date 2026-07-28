@@ -3,6 +3,28 @@
   "shardId": "01",
   "images": [
     {
+      "id": "b95471bf",
+      "filename": "pixiv_147675269_p0.jpg",
+      "path": "uploads/2026/07/37a80654.jpg",
+      "size": 1574975,
+      "width": 902,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1de2f187429ca0c7034411021b27b371ca268038770eec39ec196b514b184ab2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:44:48.634Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "お前ごときがミクに勝てると思うか？",
+      "tags": [
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147675269_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147675269",
+      "sourceCreatedAt": "2026-07-26T15:13:26.000Z"
+    },
+    {
       "id": "233e0f4d",
       "filename": "pixiv_147674360_p0.jpg",
       "path": "uploads/2026/07/3059b24a.jpg",
