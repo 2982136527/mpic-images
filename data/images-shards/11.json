@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "80d0ab97",
+      "filename": "pixiv_147705149_p0.jpg",
+      "path": "uploads/2026/07/21e84096.jpg",
+      "size": 531450,
+      "width": 879,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8472625804901000d5bf10e9c15b47ba563a2ca2404ffd76ee22747c3b618c61",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:44:12.674Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ちいかわ見たよ…",
+      "tags": [
+        "ちいかわ",
+        "ちいかわファンアート"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147705149_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147705149",
+      "sourceCreatedAt": "2026-07-27T12:33:54.000Z"
+    },
+    {
       "id": "904b3382",
       "filename": "pixiv_147655808_p0.jpg",
       "path": "uploads/2026/07/03f1153b.jpg",
