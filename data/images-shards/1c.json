@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "22fdfd0b",
+      "filename": "pixiv_147483671_p0.jpg",
+      "path": "uploads/2026/07/81ab378f.jpg",
+      "size": 1065222,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "ca3591935d8c207505fd58d840a95b07f36eb088eb9f78a9c98721cd2f1f192a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:49:30.752Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "👻",
+      "tags": [
+        "霞(アズールレーン)",
+        "アズールレーン",
+        "AzurLane",
+        "饅頭(アズールレーン)",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147483671_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147483671",
+      "sourceCreatedAt": "2026-07-21T16:25:40.000Z"
+    },
+    {
       "id": "48cef9da",
       "filename": "pixiv_147700984_p0.jpg",
       "path": "uploads/2026/07/50b57d0e.jpg",
