@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "17a78e8b",
+      "filename": "pixiv_147647735_p0.jpg",
+      "path": "uploads/2026/07/2bdfd5d2.jpg",
+      "size": 664093,
+      "width": 830,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ea7c9cd6e1618c07f6c8d04f6ae823b61187a24bdbc13192a3c79e41cface670",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T03:20:19.736Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ふぁけ",
+      "tags": [
+        "リチャアヤ",
+        "笑劇のラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147647735_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147647735",
+      "sourceCreatedAt": "2026-07-26T03:35:53.000Z"
+    },
+    {
       "id": "a24d3180",
       "filename": "pixiv_147668551_p0.jpg",
       "path": "uploads/2026/07/6be5b8bc.jpg",
