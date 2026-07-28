@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "dfe42817",
+      "filename": "pixiv_147674327_p0.jpg",
+      "path": "uploads/2026/07/14ae4212.jpg",
+      "size": 1724716,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "63787326a9004686ddbf3c78492d9630d20772cd44788ce1018d42e89b04ef47",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:46:11.759Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "絆ダイアローグ Vol.26「キキョウ」",
+      "tags": [
+        "ブルーアーカイブ",
+        "桐生キキョウ",
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147674327_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147674327",
+      "sourceCreatedAt": "2026-07-26T15:00:29.000Z"
+    },
+    {
       "id": "b95471bf",
       "filename": "pixiv_147675269_p0.jpg",
       "path": "uploads/2026/07/37a80654.jpg",
