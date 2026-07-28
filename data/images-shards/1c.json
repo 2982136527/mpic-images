@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "ff8c65d1",
+      "filename": "pixiv_147675785_p0.jpg",
+      "path": "uploads/2026/07/10fbd467.jpg",
+      "size": 2648552,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5538650cf34869ee7acd87bfee2a6cbb531124fcdbb5de7fa3a82647e049298c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T17:45:08.468Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "巨人",
+      "tags": [
+        "巨人",
+        "車",
+        "風景画",
+        "ガリバー",
+        "Highway"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147675785_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147675785",
+      "sourceCreatedAt": "2026-07-26T15:24:48.000Z"
+    },
+    {
       "id": "bd671007",
       "filename": "pixiv_147671827_p0.jpg",
       "path": "uploads/2026/07/68d06d44.jpg",
