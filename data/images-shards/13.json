@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "7ec2a061",
+      "filename": "pixiv_147674160_p0.jpg",
+      "path": "uploads/2026/07/6788a815.jpg",
+      "size": 1759787,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c9b3c46dbff7dd28e6697bed4c6121ba935bb2822261536e45c570c4bf5636c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:46:00.041Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "きらきらうさぎちゃん",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作",
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147674160_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147674160",
+      "sourceCreatedAt": "2026-07-26T15:00:02.000Z"
+    },
+    {
       "id": "a42ebd95",
       "filename": "pixiv_147709826_p0.jpg",
       "path": "uploads/2026/07/9791535a.jpg",
