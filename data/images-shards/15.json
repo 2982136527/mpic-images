@@ -3,6 +3,37 @@
   "shardId": "15",
   "images": [
     {
+      "id": "6267c50c",
+      "filename": "pixiv_147672220_p0.jpg",
+      "path": "uploads/2026/07/752f936f.jpg",
+      "size": 831615,
+      "width": 885,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "be47a67b76d27d0663d880c820e05b3c55297640564242001c000685fd438af4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T17:46:51.213Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "東方Xコンピレーション",
+      "tags": [
+        "東方Project",
+        "八雲紫",
+        "霧雨魔理沙",
+        "十六夜咲夜",
+        "霍青娥",
+        "レミリア・スカーレット",
+        "フランドールスカーレット",
+        "パチュリー・ノーレッジ",
+        "紅美鈴",
+        "にゃんぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147672220_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147672220",
+      "sourceCreatedAt": "2026-07-26T14:17:35.000Z"
+    },
+    {
       "id": "5e13f548",
       "filename": "pixiv_147704403_p0.jpg",
       "path": "uploads/2026/07/a477a94b.jpg",
