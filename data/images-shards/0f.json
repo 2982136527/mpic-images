@@ -3,6 +3,36 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "abe6ed4b",
+      "filename": "pixiv_147630165_p0.jpg",
+      "path": "uploads/2026/07/87ac6401.jpg",
+      "size": 1050748,
+      "width": 674,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cca898d872f450b1bf04250a85ad131dd8b639878146e74d6246ebcd46365dde",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T17:44:57.214Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "受け継がれるもの",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "エアグルーヴ(ウマ娘)",
+        "アドマイヤグルーヴ(ウマ娘)",
+        "ルーラーシップ(ウマ娘)",
+        "たわ家",
+        "五十歩百歩",
+        "おまいう",
+        "めんどくサラブレッド",
+        "史実姉弟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147630165_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147630165",
+      "sourceCreatedAt": "2026-07-25T15:00:25.000Z"
+    },
+    {
       "id": "9ba7bd32",
       "filename": "pixiv_147698983_p0.jpg",
       "path": "uploads/2026/07/9314fc50.jpg",
