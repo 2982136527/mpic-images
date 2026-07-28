@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "2e735b36",
+      "filename": "pixiv_147630109_p0.jpg",
+      "path": "uploads/2026/07/dd2627e4.jpg",
+      "size": 969772,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "08e11c69a887805a374398f59859d8c1bee8e5f36a12222edd687aeb5f52fae4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T17:41:57.505Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "レミエール",
+      "tags": [
+        "レミエール",
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ",
+        "ZenlessZoneZero",
+        "高跟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147630109_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147630109",
+      "sourceCreatedAt": "2026-07-25T15:00:15.000Z"
+    },
+    {
       "id": "dc303fca",
       "filename": "pixiv_147702956_p0.jpg",
       "path": "uploads/2026/07/89fd6741.jpg",
