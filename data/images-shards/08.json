@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "d22a41d6",
+      "filename": "pixiv_147682875_p0.jpg",
+      "path": "uploads/2026/07/84244a4a.jpg",
+      "size": 982581,
+      "width": 1200,
+      "height": 1035,
+      "mimeType": "image/jpeg",
+      "hash": "428ad63547cb57b49e28417c0efd0f31101eecb038861b33ae6fb1df990f7849",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T17:42:33.379Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "X放置rkgk",
+      "tags": [
+        "落書き",
+        "フリータイム",
+        "銀河鉄道999"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147682875_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147682875",
+      "sourceCreatedAt": "2026-07-26T21:07:20.000Z"
+    },
+    {
       "id": "f09b564c",
       "filename": "pixiv_147682461_p0.jpg",
       "path": "uploads/2026/07/eaf17417.jpg",
