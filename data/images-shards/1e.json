@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "4e4cff1b",
+      "filename": "pixiv_147607419_p0.jpg",
+      "path": "uploads/2026/07/44673c2e.jpg",
+      "size": 1160859,
+      "width": 1109,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "37616f9bb414d4265d79105dc37a55f03267a570c1f64a92c7ba26372a9aed14",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T03:27:50.489Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "カイ潔ログ",
+      "tags": [
+        "カイ潔",
+        "腐ルーロック",
+        "腐ルーロック1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147607419_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147607419",
+      "sourceCreatedAt": "2026-07-25T04:41:34.000Z"
+    },
+    {
       "id": "a47485d4",
       "filename": "pixiv_147630709_p0.jpg",
       "path": "uploads/2026/07/bc0eb977.jpg",
