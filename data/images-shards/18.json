@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "8f48c1d7",
+      "filename": "pixiv_147678396_p0.jpg",
+      "path": "uploads/2026/07/374590cc.jpg",
+      "size": 672320,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6399d8fdc7408e75f0fd0ab2a39dc535ba89a4260c697826c4a3896c094b25f0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:44:37.043Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "イロハ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ニヤニヤ教授"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147678396_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147678396",
+      "sourceCreatedAt": "2026-07-26T16:42:10.000Z"
+    },
+    {
       "id": "7a54dba4",
       "filename": "pixiv_147638086_p0.jpg",
       "path": "uploads/2026/07/b5384ad6.jpg",
