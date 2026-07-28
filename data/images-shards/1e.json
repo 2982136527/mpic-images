@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "0eda9df2",
+      "filename": "pixiv_147706009_p0.jpg",
+      "path": "uploads/2026/07/128dc8a1.jpg",
+      "size": 642898,
+      "width": 1200,
+      "height": 847,
+      "mimeType": "image/jpeg",
+      "hash": "928336c515d038f82f61c045cd0169ed0387377026e0aeb0510d308b2f24fd59",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:50:47.294Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "RKRN夢log④",
+      "tags": [
+        "rkrn夢",
+        "忍玉-夢",
+        "RKRNプラス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147706009_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147706009",
+      "sourceCreatedAt": "2026-07-27T12:55:32.000Z"
+    },
+    {
       "id": "b1d9f7d4",
       "filename": "pixiv_147683982_p0.jpg",
       "path": "uploads/2026/07/0646b96f.jpg",
