@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "42f66305",
+      "filename": "pixiv_147682204_p0.jpg",
+      "path": "uploads/2026/07/270199bd.jpg",
+      "size": 838696,
+      "width": 720,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "12c94a7873378ecfc2c3918541f279d99228971530e0b25d85a9abfa1406795e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:47:26.680Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "Bridget",
+      "tags": [
+        "ギルティギア",
+        "ブリジット",
+        "ブリジット(ギルティギア)",
+        "男の娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147682204_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147682204",
+      "sourceCreatedAt": "2026-07-26T20:21:54.000Z"
+    },
+    {
       "id": "b0c83e69",
       "filename": "pixiv_147630188_p0.jpg",
       "path": "uploads/2026/07/31324dfe.jpg",
