@@ -3,6 +3,28 @@
   "shardId": "12",
   "images": [
     {
+      "id": "d048d163",
+      "filename": "pixiv_147675219_p0.jpg",
+      "path": "uploads/2026/07/60381603.jpg",
+      "size": 943283,
+      "width": 627,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d113a5b3a2085234cf561c87cb36126b29603eb6bec3b84b661bc72c3d575855",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T17:41:49.257Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "the Year of the Snake",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147675219_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147675219",
+      "sourceCreatedAt": "2026-07-26T15:12:25.000Z"
+    },
+    {
       "id": "496bab22",
       "filename": "pixiv_147667958_p0.jpg",
       "path": "uploads/2026/07/98d3651d.jpg",
