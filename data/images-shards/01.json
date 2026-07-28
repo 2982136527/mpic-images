@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "4eb02371",
+      "filename": "pixiv_147661089_p0.jpg",
+      "path": "uploads/2026/07/3c980c00.jpg",
+      "size": 1353511,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "60f813e4d005e10734489fae1dd84866371d0a36996ed82980721bb651e35a7f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:46:45.160Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "結末へ至るアーミヤ",
+      "tags": [
+        "アーミヤ(アークナイツ)",
+        "明日方舟",
+        "アークナイツ",
+        "阿米娅",
+        "Arknights"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147661089_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147661089",
+      "sourceCreatedAt": "2026-07-26T10:27:36.000Z"
+    },
+    {
       "id": "dfe42817",
       "filename": "pixiv_147674327_p0.jpg",
       "path": "uploads/2026/07/14ae4212.jpg",
