@@ -3,6 +3,37 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "0ac5df4a",
+      "filename": "pixiv_147648533_p0.jpg",
+      "path": "uploads/2026/07/f10a41c6.jpg",
+      "size": 1657003,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2bd7b82dddb9dc31eac3c28ca4de70f833d017ce5560b635d44f4e19c5b29012",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:42:07.449Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "F&F",
+      "tags": [
+        "Fate/GrandOrder",
+        "イラスト",
+        "FGO",
+        "女の子",
+        "Fate/GO",
+        "Fate/strangefake",
+        "フランチェスカ(Fate)",
+        "フランチェスカ・プレラーティ",
+        "白髪",
+        "Fate/strangeFake"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147648533_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147648533",
+      "sourceCreatedAt": "2026-07-26T04:05:22.000Z"
+    },
+    {
       "id": "66210ae7",
       "filename": "pixiv_147630145_p0.jpg",
       "path": "uploads/2026/07/96be0771.jpg",
