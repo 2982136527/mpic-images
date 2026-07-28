@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "090057c9",
+      "filename": "pixiv_147681426_p0.jpg",
+      "path": "uploads/2026/07/60c89a60.jpg",
+      "size": 463858,
+      "width": 1060,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5f50cb9184d95fee716d11f7f45b5b86dc4d9b90ccee5ccd54bd565efbbd5512",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:43:36.518Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "落書き",
+        "ヤニねこ",
+        "綺麗なヤニカス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147681426_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147681426",
+      "sourceCreatedAt": "2026-07-26T19:18:49.000Z"
+    },
+    {
       "id": "4c98325a",
       "filename": "pixiv_147638380_p0.jpg",
       "path": "uploads/2026/07/731ccfa8.jpg",
