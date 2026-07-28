@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "85d5d629",
+      "filename": "pixiv_147674189_p0.jpg",
+      "path": "uploads/2026/07/46156665.jpg",
+      "size": 1150389,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "40b90f3541d464768cfcee1350d88c952a38b6ae82e07820daadbbd5954e9c46",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T17:43:15.117Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "マックス・インメルマン",
+      "tags": [
+        "アズールレーン",
+        "マックス・インメルマン(アズールレーン)",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147674189_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147674189",
+      "sourceCreatedAt": "2026-07-27T00:58:08.000Z"
+    },
+    {
       "id": "d048d163",
       "filename": "pixiv_147675219_p0.jpg",
       "path": "uploads/2026/07/60381603.jpg",
