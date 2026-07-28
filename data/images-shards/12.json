@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "b8cc1ad2",
+      "filename": "pixiv_147671290_p0.jpg",
+      "path": "uploads/2026/07/e3a8a8fa.jpg",
+      "size": 727617,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "35e5ab732cdbc512e51212b4851dd915bac9f9ace7f76f771bf11bb02889c59e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T17:46:09.064Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏-26",
+      "tags": [
+        "女の子",
+        "丽塔",
+        "リタ・ロスヴァイセ",
+        "崩壊3rd"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147671290_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147671290",
+      "sourceCreatedAt": "2026-07-26T14:00:01.000Z"
+    },
+    {
       "id": "f008617c",
       "filename": "pixiv_147694511_p0.jpg",
       "path": "uploads/2026/07/044b10fb.jpg",
