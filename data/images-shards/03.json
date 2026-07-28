@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "dc303fca",
+      "filename": "pixiv_147702956_p0.jpg",
+      "path": "uploads/2026/07/89fd6741.jpg",
+      "size": 803038,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2e60dcb9415666f1f837b0ff02e44e6eb5ab6fcbcaaf54647e69676b135f64ec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:47:49.646Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "ジル・バレンタイン",
+        "バイオハザード",
+        "バイオハザード3"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147702956_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147702956",
+      "sourceCreatedAt": "2026-07-27T11:47:22.000Z"
+    },
+    {
       "id": "b2bcfc09",
       "filename": "pixiv_147690672_p0.jpg",
       "path": "uploads/2026/07/36e66f1e.jpg",
