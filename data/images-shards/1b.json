@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "8f7c0135",
+      "filename": "pixiv_147655721_p0.jpg",
+      "path": "uploads/2026/07/ebb6eb58.jpg",
+      "size": 923283,
+      "width": 1200,
+      "height": 636,
+      "mimeType": "image/jpeg",
+      "hash": "99d1345f01652aae9d5f3175c3a62ae365470befb67f0e04630af24c88e29825",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T17:45:02.899Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "秧秧",
+      "tags": [
+        "鸣潮",
+        "WutheringWaves"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147655721_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147655721",
+      "sourceCreatedAt": "2026-07-26T08:11:04.000Z"
+    },
+    {
       "id": "d1b56b3d",
       "filename": "pixiv_147658622_p0.jpg",
       "path": "uploads/2026/07/5c32da0f.jpg",
