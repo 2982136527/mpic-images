@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "51d1a7e6",
+      "filename": "pixiv_147589525_p0.jpg",
+      "path": "uploads/2026/07/a02b50e8.jpg",
+      "size": 333436,
+      "width": 620,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "749bb56520e6100f11dba9ff87f08412a3d6e713895af2926edddb48254e355b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T03:19:35.677Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "雨衣ちゃんまとめ",
+      "tags": [
+        "雨衣",
+        "雨衣(VoiSona)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147589525_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147589525",
+      "sourceCreatedAt": "2026-07-24T15:00:25.000Z"
+    },
+    {
       "id": "a1cfba5b",
       "filename": "pixiv_147574280_p0.jpg",
       "path": "uploads/2026/07/2b39134b.jpg",
