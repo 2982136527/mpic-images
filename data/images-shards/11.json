@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "6d555fa7",
+      "filename": "pixiv_147705615_p0.jpg",
+      "path": "uploads/2026/07/da4e1cbb.jpg",
+      "size": 810762,
+      "width": 884,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2a022e0d7be0252d0fc2a0be08b990e8a1a27c4b7836b461095655021a083d2b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:47:37.567Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "大羊妈",
+      "tags": [
+        "明日方舟",
+        "アークナイツ",
+        "Arknights"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147705615_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147705615",
+      "sourceCreatedAt": "2026-07-27T12:45:41.000Z"
+    },
+    {
       "id": "80d0ab97",
       "filename": "pixiv_147705149_p0.jpg",
       "path": "uploads/2026/07/21e84096.jpg",
