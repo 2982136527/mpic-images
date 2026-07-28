@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "87385f5e",
+      "filename": "pixiv_147676985_p0.jpg",
+      "path": "uploads/2026/07/04f9302a.jpg",
+      "size": 1192806,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2f3deb19ebfc4097ae203ff00c387ae98a13b0b5b8d7f62929b075dde8946d2d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:43:03.163Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "11周年フラッグイラスト",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "FGO11周年"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147676985_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147676985",
+      "sourceCreatedAt": "2026-07-26T15:56:56.000Z"
+    },
+    {
       "id": "00e99f8f",
       "filename": "pixiv_147650272_p0.jpg",
       "path": "uploads/2026/07/a9cfb0e0.jpg",
