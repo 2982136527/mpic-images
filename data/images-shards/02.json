@@ -3,6 +3,37 @@
   "shardId": "02",
   "images": [
     {
+      "id": "55a8be36",
+      "filename": "pixiv_147651768_p0.jpg",
+      "path": "uploads/2026/07/e9cfffa2.jpg",
+      "size": 1349730,
+      "width": 1067,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f9e341ffc28194cb4b6aef29a876bfd8991fb4216f20d2f2b393a8d19c624cdb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T03:27:39.374Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "フレーメンおかゆん",
+      "tags": [
+        "ホロライブ",
+        "バーチャルYouTuber",
+        "hololive",
+        "VTuber",
+        "女の子",
+        "Vtuber",
+        "猫又おかゆ",
+        "絵かゆ",
+        "ラプラス・ダークネス",
+        "laplus_Artdesu"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147651768_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147651768",
+      "sourceCreatedAt": "2026-07-26T06:05:12.000Z"
+    },
+    {
       "id": "ed248b1c",
       "filename": "pixiv_147613879_p0.jpg",
       "path": "uploads/2026/07/ab806d88.jpg",
