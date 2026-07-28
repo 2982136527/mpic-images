@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "5e13f548",
+      "filename": "pixiv_147704403_p0.jpg",
+      "path": "uploads/2026/07/a477a94b.jpg",
+      "size": 709710,
+      "width": 1200,
+      "height": 1066,
+      "mimeType": "image/jpeg",
+      "hash": "de62c25746dc4d8dc430dc4c81b3448398333ce317b38fb05c3518b6a88d0b53",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T17:46:41.418Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "なななな",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "七七",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147704403_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147704403",
+      "sourceCreatedAt": "2026-07-27T12:17:09.000Z"
+    },
+    {
       "id": "4a787aa3",
       "filename": "pixiv_147677366_p0.jpg",
       "path": "uploads/2026/07/39bc660a.jpg",
