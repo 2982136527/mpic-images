@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "e12ccce9",
+      "filename": "pixiv_147698337_p0.jpg",
+      "path": "uploads/2026/07/776e1bc1.jpg",
+      "size": 907448,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fd866032cf8456684fc22be2b1e4e5b88acb9b157d9ed8b0d78d307002828fbf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T17:45:47.851Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "新年信浓",
+      "tags": [
+        "碧蓝航线",
+        "同人",
+        "信浓"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147698337_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147698337",
+      "sourceCreatedAt": "2026-07-27T09:45:22.000Z"
+    },
+    {
       "id": "6b783444",
       "filename": "pixiv_147643840_p0.jpg",
       "path": "uploads/2026/07/13f6f3e1.jpg",
