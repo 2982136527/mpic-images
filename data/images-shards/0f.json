@@ -3,6 +3,33 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "9ba7bd32",
+      "filename": "pixiv_147698983_p0.jpg",
+      "path": "uploads/2026/07/9314fc50.jpg",
+      "size": 936270,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bb4162a63e475fcaaf0297e5bb40283ff4c072f2f310628526aa215475c4f9da",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T17:42:18.546Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "ねこ天使",
+      "tags": [
+        "女の子",
+        "イラスト",
+        "オリジナル",
+        "オリジナルキャラクター",
+        "猫耳",
+        "ケモ耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147698983_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147698983",
+      "sourceCreatedAt": "2026-07-27T10:01:45.000Z"
+    },
+    {
       "id": "843dc76e",
       "filename": "pixiv_147668025_p0.jpg",
       "path": "uploads/2026/07/32bd183d.jpg",
