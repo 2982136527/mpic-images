@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "5631663e",
+      "filename": "pixiv_147690941_p0.jpg",
+      "path": "uploads/2026/07/cedd35f9.jpg",
+      "size": 1133513,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "400a1f4284fa5119b6bfdadde81dc62c41ad1438cde111e2dc0cd08445d03003",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:43:19.735Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "goghまとめ",
+      "tags": [
+        "gogh",
+        "goghOnSteam",
+        "goghFA"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147690941_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147690941",
+      "sourceCreatedAt": "2026-07-27T04:25:44.000Z"
+    },
+    {
       "id": "3c3b7372",
       "filename": "pixiv_147685252_p0.jpg",
       "path": "uploads/2026/07/d6dfa513.jpg",
