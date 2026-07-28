@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "10bf4c19",
+      "filename": "pixiv_147692785_p0.jpg",
+      "path": "uploads/2026/07/231256b9.jpg",
+      "size": 546874,
+      "width": 1200,
+      "height": 960,
+      "mimeType": "image/jpeg",
+      "hash": "950e4321c461ac169259df4a03ba5c17e7166a0fa14ea03c05d9f070698f5596",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:51:11.576Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "艦隊これくしょん",
+        "艦これ",
+        "アトランタ(艦隊これくしょん)",
+        "ローアングル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147692785_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147692785",
+      "sourceCreatedAt": "2026-07-27T06:02:46.000Z"
+    },
+    {
       "id": "cff4b7d4",
       "filename": "pixiv_147671245_p0.jpg",
       "path": "uploads/2026/07/aedef7c9.jpg",
