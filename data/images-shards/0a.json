@@ -3,6 +3,37 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "18c33c88",
+      "filename": "pixiv_147642245_p0.jpg",
+      "path": "uploads/2026/07/012ca881.jpg",
+      "size": 1873964,
+      "width": 1026,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "869a36c4916192763e7dbf25c082114eccb146d448bb2807a2abedd407eeca47",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T03:23:54.440Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "『 いつかこんな、笑顔の未来を 』",
+      "tags": [
+        "プリキュア",
+        "名探偵プリキュア!",
+        "たんプリ",
+        "帆羽くれあ",
+        "キュアエクレール",
+        "森亜るるか",
+        "キュアアルカナ・シャドウ",
+        "へそキュア",
+        "くれるる",
+        "るるくれ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147642245_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147642245",
+      "sourceCreatedAt": "2026-07-25T23:58:29.000Z"
+    },
+    {
       "id": "95a983c2",
       "filename": "pixiv_147607035_p0.jpg",
       "path": "uploads/2026/07/fba6816e.jpg",
