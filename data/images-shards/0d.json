@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "1faff0ba",
+      "filename": "pixiv_147702395_p0.jpg",
+      "path": "uploads/2026/07/cc2ed364.jpg",
+      "size": 747720,
+      "width": 906,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09ca5dc796c966fe73ffa944579af61101368d0911e504a3dcd41c08c68a801e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T10:48:14.568Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "リクエスト編②",
+      "tags": [
+        "Countryhumans",
+        "カントリーヒューマンズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147702395_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147702395",
+      "sourceCreatedAt": "2026-07-27T11:32:04.000Z"
+    },
+    {
       "id": "3b70b2ea",
       "filename": "pixiv_147630241_p0.jpg",
       "path": "uploads/2026/07/bf016de6.jpg",
