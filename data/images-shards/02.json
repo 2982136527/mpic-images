@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "d063bb3d",
+      "filename": "pixiv_147635699_p0.jpg",
+      "path": "uploads/2026/07/16d12f13.jpg",
+      "size": 1049727,
+      "width": 646,
+      "height": 1056,
+      "mimeType": "image/jpeg",
+      "hash": "7230e2072b990b136114f082a6fca2607384d1447fb66ca973a760d190c0503d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-28T03:19:48.766Z",
+      "repo": "mpic-images-2",
+      "isPublic": true,
+      "title": "KSP",
+      "tags": [
+        "女の子",
+        "少女",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147635699_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147635699",
+      "sourceCreatedAt": "2026-07-25T17:34:33.000Z"
+    },
+    {
       "id": "cd33307d",
       "filename": "pixiv_147630161_p0.jpg",
       "path": "uploads/2026/07/c4674867.jpg",
