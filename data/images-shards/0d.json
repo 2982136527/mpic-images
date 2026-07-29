@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "f1dfee52",
+      "filename": "pixiv_147690960_p0.jpg",
+      "path": "uploads/2026/07/e7ce7994.jpg",
+      "size": 339411,
+      "width": 1200,
+      "height": 878,
+      "mimeType": "image/jpeg",
+      "hash": "b08cc100fb1ddefe7141626ff9cc209b070e94beab3dfae97bfe054363ffe7f7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T03:22:29.844Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": ".",
+      "tags": [
+        "RKGK",
+        "バニーボーイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147690960_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147690960",
+      "sourceCreatedAt": "2026-07-27T04:26:51.000Z"
+    },
+    {
       "id": "dfcb7c72",
       "filename": "pixiv_147677284_p0.jpg",
       "path": "uploads/2026/07/13c5a6f6.jpg",
