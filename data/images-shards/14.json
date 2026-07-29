@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "3e3d0f36",
+      "filename": "pixiv_147696452_p0.jpg",
+      "path": "uploads/2026/07/3b2a202d.jpg",
+      "size": 561231,
+      "width": 999,
+      "height": 930,
+      "mimeType": "image/jpeg",
+      "hash": "e655de7fa56586603fa5d49be232c160494e58a70f7181a1f7db2571691df3ea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T03:21:21.793Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "X放置rkgk",
+      "tags": [
+        "落書き",
+        "ぼっち・ざ・ろっく!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147696452_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147696452",
+      "sourceCreatedAt": "2026-07-27T08:48:12.000Z"
+    },
+    {
       "id": "970b8832",
       "filename": "pixiv_147691739_p0.jpg",
       "path": "uploads/2026/07/958d6ad2.jpg",
