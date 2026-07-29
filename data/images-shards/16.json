@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "a3e0ee81",
+      "filename": "pixiv_147722719_p0.jpg",
+      "path": "uploads/2026/07/1b9b581d.jpg",
+      "size": 1650598,
+      "width": 836,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3abbf663546aae1c333858a81b5cda3bff5b9784be3ce9c732ffbbf6bb78d91a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T17:29:06.909Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "メディアワークス文庫「下町曳舟 お直し処ぼたん」　装画",
+      "tags": [
+        "風景",
+        "背景",
+        "オリジナル",
+        "装画",
+        "仕事絵",
+        "街"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147722719_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147722719",
+      "sourceCreatedAt": "2026-07-28T00:19:22.000Z"
+    },
+    {
       "id": "ec89e470",
       "filename": "pixiv_147742960_p0.jpg",
       "path": "uploads/2026/07/0143eb13.jpg",
