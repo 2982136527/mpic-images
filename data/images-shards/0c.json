@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "3940efbf",
+      "filename": "pixiv_147630113_p0.jpg",
+      "path": "uploads/2026/07/d8622c52.jpg",
+      "size": 718167,
+      "width": 1200,
+      "height": 1011,
+      "mimeType": "image/jpeg",
+      "hash": "c58e3eec20aaebcded679ac61369cd06f46a54179b02d08b02db387802287b98",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T03:26:00.321Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "シトラリ　コミケのテーブルクロス用",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "シトラリ",
+        "Citlali"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147630113_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147630113",
+      "sourceCreatedAt": "2026-07-25T15:00:15.000Z"
+    },
+    {
       "id": "6a52d866",
       "filename": "pixiv_147698287_p0.jpg",
       "path": "uploads/2026/07/43f59e42.jpg",
