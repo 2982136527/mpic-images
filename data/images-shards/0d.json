@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "cd99e4da",
+      "filename": "pixiv_147702439_p0.jpg",
+      "path": "uploads/2026/07/ae250258.jpg",
+      "size": 453092,
+      "width": 869,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3304c42a923f708936beef25432170bf1fde85c0f09f99b0f0636537e20e8da9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T17:25:14.019Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ほぼセイレーンちゃんログ",
+      "tags": [
+        "ちいかわ",
+        "セイレーン(ちいかわ)",
+        "ハチワレ(でかつよ)",
+        "シーサー(ちいかわ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147702439_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147702439",
+      "sourceCreatedAt": "2026-07-27T11:33:01.000Z"
+    },
+    {
       "id": "90f14316",
       "filename": "pixiv_147680402_p0.jpg",
       "path": "uploads/2026/07/705779a4.jpg",
