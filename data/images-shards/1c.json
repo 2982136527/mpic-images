@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "da8bd01b",
+      "filename": "pixiv_147683051_p0.jpg",
+      "path": "uploads/2026/07/77fd4eff.jpg",
+      "size": 500113,
+      "width": 1096,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "25c1a987b92a11a970fe50a608962adcf303ba31c074218f6e50b9925b3632c8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T10:46:05.377Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "X放置rkgk",
+      "tags": [
+        "落書き",
+        "フリータイム",
+        "可愛いは正義",
+        "オリジナル500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147683051_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147683051",
+      "sourceCreatedAt": "2026-07-26T21:19:19.000Z"
+    },
+    {
       "id": "ff8c65d1",
       "filename": "pixiv_147675785_p0.jpg",
       "path": "uploads/2026/07/10fbd467.jpg",
