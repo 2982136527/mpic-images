@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "6169697f",
+      "filename": "pixiv_147669778_p0.jpg",
+      "path": "uploads/2026/07/821ec069.jpg",
+      "size": 1058931,
+      "width": 896,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2916b384c02628e86c1a9bc9622d0b8da9af97e6cc4ee6c93e70aa057a1465c2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T03:24:04.619Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "静寂に咲く",
+      "tags": [
+        "ケモ耳",
+        "こむぎちゃん",
+        "漢服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147669778_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147669778",
+      "sourceCreatedAt": "2026-07-26T13:29:12.000Z"
+    },
+    {
       "id": "dcb515c4",
       "filename": "pixiv_147678528_p0.jpg",
       "path": "uploads/2026/07/9be63ea0.jpg",
