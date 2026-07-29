@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "80d3a2af",
+      "filename": "pixiv_147721612_p0.jpg",
+      "path": "uploads/2026/07/10613fb6.jpg",
+      "size": 763044,
+      "width": 900,
+      "height": 912,
+      "mimeType": "image/jpeg",
+      "hash": "1f4271f42ff31ff398db2436a1e82ec721de44c950ee9d967c3cba93963d373a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T17:27:57.713Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "グーテンベルク",
+      "tags": [
+        "本好きの下剋上",
+        "ローゼマイン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147721612_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147721612",
+      "sourceCreatedAt": "2026-07-27T23:09:12.000Z"
+    },
+    {
       "id": "245e1bb5",
       "filename": "pixiv_147672205_p0.jpg",
       "path": "uploads/2026/07/a481899f.jpg",
