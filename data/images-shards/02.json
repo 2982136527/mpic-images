@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "ef22faad",
+      "filename": "pixiv_147701996_p0.jpg",
+      "path": "uploads/2026/07/184828c8.jpg",
+      "size": 668963,
+      "width": 750,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "12c521a9a4e7c30505b6817b591d8cb81e65baed2e004ff01c2d0d7649765c90",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T03:23:57.208Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "CM-508",
+      "tags": [
+        "制服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147701996_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147701996",
+      "sourceCreatedAt": "2026-07-27T11:22:28.000Z"
+    },
+    {
       "id": "e12ccce9",
       "filename": "pixiv_147698337_p0.jpg",
       "path": "uploads/2026/07/776e1bc1.jpg",
