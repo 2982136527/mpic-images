@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "0d00efb1",
+      "filename": "pixiv_147731652_p0.jpg",
+      "path": "uploads/2026/07/4a1e4f6c.jpg",
+      "size": 386723,
+      "width": 740,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f884985176ad642550c68f2a0496b4565955b90fc8eb077ce64a3c3edf32a4a1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T17:24:05.700Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "棗イロハ",
+      "tags": [
+        "棗イロハ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147731652_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147731652",
+      "sourceCreatedAt": "2026-07-28T07:56:29.000Z"
+    },
+    {
       "id": "126b1e25",
       "filename": "pixiv_147702522_p0.jpg",
       "path": "uploads/2026/07/6171dc59.jpg",
