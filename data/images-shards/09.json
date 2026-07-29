@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "5ecd1005",
+      "filename": "pixiv_147658211_p0.jpg",
+      "path": "uploads/2026/07/befe9989.jpg",
+      "size": 208076,
+      "width": 1135,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0008ce816001bde7612fcb84545dd5dbdbf7afa2cce5e167d61e983acb4649a4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T03:29:04.360Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "スタゼノ ログ３",
+      "tags": [
+        "スタゼノ",
+        "dcst腐向け100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147658211_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147658211",
+      "sourceCreatedAt": "2026-07-26T09:13:11.000Z"
+    },
+    {
       "id": "49d4a145",
       "filename": "pixiv_147630253_p0.jpg",
       "path": "uploads/2026/07/7f44e4ff.jpg",
