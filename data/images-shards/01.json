@@ -3,6 +3,36 @@
   "shardId": "01",
   "images": [
     {
+      "id": "218dd17e",
+      "filename": "pixiv_147714728_p0.jpg",
+      "path": "uploads/2026/07/ecd3c713.jpg",
+      "size": 1127774,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6a599e1b473b49572e4fc56c9f3c795d064ae1e9a9f8d3c70e7b92f4d87c199f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T10:47:26.452Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "雑 +ミュルホル",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "ミュルホル",
+        "ミュルジス(アークナイツ)",
+        "ホルハイヤ(アークナイツ)",
+        "チェン・センユー",
+        "アルトリア(アークナイツ)",
+        "スペクター(アークナイツ)",
+        "アークナイツ:エンドフィールド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147714728_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147714728",
+      "sourceCreatedAt": "2026-07-27T16:19:06.000Z"
+    },
+    {
       "id": "92ea0390",
       "filename": "pixiv_147631226_p0.jpg",
       "path": "uploads/2026/07/3d1ce213.jpg",
