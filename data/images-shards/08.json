@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "dc56e08f",
+      "filename": "pixiv_147709655_p0.jpg",
+      "path": "uploads/2026/07/1b12a6e8.jpg",
+      "size": 532167,
+      "width": 1035,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "01d19fe1b1bedfe12971fe80ed2c86859ea247bc772fe92caade1e8feb56914e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T10:52:46.649Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "創作詰め37",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147709655_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147709655",
+      "sourceCreatedAt": "2026-07-27T14:17:43.000Z"
+    },
+    {
       "id": "7ab7947e",
       "filename": "pixiv_147737718_p0.jpg",
       "path": "uploads/2026/07/c7f364b6.jpg",
