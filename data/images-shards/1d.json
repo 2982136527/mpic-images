@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "7ac8169a",
+      "filename": "pixiv_147682693_p0.jpg",
+      "path": "uploads/2026/07/3fc1bb2d.jpg",
+      "size": 1056328,
+      "width": 806,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9f58f25e40f025830535d48338928cb8e7835809fc2fed673397ea7b56a6d61a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T03:25:24.953Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "さきゆず🍨",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "百合",
+        "アイス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147682693_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147682693",
+      "sourceCreatedAt": "2026-07-26T21:00:08.000Z"
+    },
+    {
       "id": "839d00a2",
       "filename": "pixiv_147704560_p0.jpg",
       "path": "uploads/2026/07/13752dc7.jpg",
