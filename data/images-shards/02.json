@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "2f5e6dcf",
+      "filename": "pixiv_147729630_p0.jpg",
+      "path": "uploads/2026/07/c534c774.jpg",
+      "size": 493558,
+      "width": 535,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c567e9d166c16dd4accc4f952bbc885b131db9f64f5035439f434950e66517cc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T10:52:22.783Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "剣を持ったメイド",
+      "tags": [
+        "女の子",
+        "金髪",
+        "少女",
+        "オリジナル",
+        "メイド",
+        "メイド服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147729630_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147729630",
+      "sourceCreatedAt": "2026-07-28T06:17:23.000Z"
+    },
+    {
       "id": "ef22faad",
       "filename": "pixiv_147701996_p0.jpg",
       "path": "uploads/2026/07/184828c8.jpg",
