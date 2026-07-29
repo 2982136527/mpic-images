@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "d8dfb744",
+      "filename": "pixiv_147703658_p0.jpg",
+      "path": "uploads/2026/07/c906beb9.jpg",
+      "size": 1366092,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "da543ebea869771c2a2652dd5b1fa8f723fb6cfac28c28d6e7df97afaf0f629b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T17:27:01.157Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "commision",
+      "tags": [
+        "女の子",
+        "依頼",
+        "commission"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147703658_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147703658",
+      "sourceCreatedAt": "2026-07-27T12:01:33.000Z"
+    },
+    {
       "id": "e2b9491f",
       "filename": "pixiv_147682654_p0.jpg",
       "path": "uploads/2026/07/3b31f193.jpg",
