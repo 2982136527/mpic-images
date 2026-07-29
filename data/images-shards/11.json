@@ -3,6 +3,34 @@
   "shardId": "11",
   "images": [
     {
+      "id": "ccbee97b",
+      "filename": "pixiv_147701963_p0.jpg",
+      "path": "uploads/2026/07/d0178aef.jpg",
+      "size": 638847,
+      "width": 710,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "15af215b769769d2c069fc7ed3b63e1681fff8523b3f2fd007b0275a2f3d1aa3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T17:26:25.426Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ポケモンまとめ",
+      "tags": [
+        "ポケモン",
+        "ゲーチス",
+        "N(トレーナー)",
+        "アカギ(ポケモン)",
+        "カラスバ",
+        "ポケモン100users入り",
+        "カラスバ(トレーナー)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147701963_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147701963",
+      "sourceCreatedAt": "2026-07-27T11:21:44.000Z"
+    },
+    {
       "id": "20319dac",
       "filename": "pixiv_147699926_p0.jpg",
       "path": "uploads/2026/07/c95c3dd4.jpg",
