@@ -3,6 +3,36 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "50583dde",
+      "filename": "pixiv_147698575_p0.jpg",
+      "path": "uploads/2026/07/b3225d64.jpg",
+      "size": 1367935,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7fd379397f6123a3efc18d6462f0cc2e5aa9a176cb449ff395009f80b9d82ff6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T17:22:32.124Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ミライ",
+      "tags": [
+        "初音ミク",
+        "夏コミ",
+        "pixivGlowEffect",
+        "風景",
+        "女の子",
+        "空",
+        "背景",
+        "ボカロ",
+        "未来"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147698575_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147698575",
+      "sourceCreatedAt": "2026-07-27T09:53:18.000Z"
+    },
+    {
       "id": "e02d2385",
       "filename": "pixiv_147711636_p0.jpg",
       "path": "uploads/2026/07/b993113f.jpg",
