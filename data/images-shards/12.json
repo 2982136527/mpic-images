@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "fa33615d",
+      "filename": "pixiv_147711670_p0.jpg",
+      "path": "uploads/2026/07/2f4cde13.jpg",
+      "size": 2136801,
+      "width": 1156,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6113ea54b4293ab6be01093ad384420efe7a1dafab06e53109a18040e480d1ea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T10:46:29.777Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "血月",
+      "tags": [
+        "重音テト",
+        "重音テトSV",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147711670_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147711670",
+      "sourceCreatedAt": "2026-07-27T15:00:23.000Z"
+    },
+    {
       "id": "c3ddda12",
       "filename": "pixiv_147681878_p0.jpg",
       "path": "uploads/2026/07/f58ab2ad.jpg",
