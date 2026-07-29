@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "d42bab0c",
+      "filename": "pixiv_147692123_p0.jpg",
+      "path": "uploads/2026/07/a4b0f734.jpg",
+      "size": 822579,
+      "width": 1200,
+      "height": 1031,
+      "mimeType": "image/jpeg",
+      "hash": "463a5e48021db9f0f05d69c57f32e46bd745fd6e305f417491601ac8665c308d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T17:26:13.587Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "わかさぎ姫",
+      "tags": [
+        "東方",
+        "わかさぎ姫",
+        "水中"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147692123_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147692123",
+      "sourceCreatedAt": "2026-07-27T05:28:18.000Z"
+    },
+    {
       "id": "0d3d2578",
       "filename": "pixiv_147696804_p0.jpg",
       "path": "uploads/2026/07/a9c744d0.jpg",
