@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "7912dd07",
+      "filename": "pixiv_147713195_p0.jpg",
+      "path": "uploads/2026/07/2b4b546c.jpg",
+      "size": 675582,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "518876f66eb48f210db9a13080bb8fd9aee8db27d5605f8840d90ead5ea29c42",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T17:31:22.117Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ブルーアーカイブ",
+        "京極サツキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147713195_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147713195",
+      "sourceCreatedAt": "2026-07-27T15:30:19.000Z"
+    },
+    {
       "id": "79567111",
       "filename": "pixiv_147711673_p0.jpg",
       "path": "uploads/2026/07/6d9dc870.jpg",
