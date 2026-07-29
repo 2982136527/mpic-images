@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "c10acb1b",
+      "filename": "pixiv_147690028_p0.jpg",
+      "path": "uploads/2026/07/f85a3d6b.jpg",
+      "size": 869525,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9d1c62b41366675aba81b950bc8732eb6ad498e8abc518bb907e875e0e62f0e5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T10:47:34.031Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "『Fate/Samurai Remnant』更新告知",
+      "tags": [
+        "Fate/SamuraiRemnant",
+        "セイバー(Fate/SamuraiRemnant)",
+        "宮本伊織(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147690028_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147690028",
+      "sourceCreatedAt": "2026-07-27T03:40:15.000Z"
+    },
+    {
       "id": "074bb59b",
       "filename": "pixiv_147712446_p0.jpg",
       "path": "uploads/2026/07/2c347cfc.jpg",
