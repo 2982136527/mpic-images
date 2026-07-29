@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "1a4dfd65",
+      "filename": "pixiv_147724247_p0.jpg",
+      "path": "uploads/2026/07/b242e19b.jpg",
+      "size": 868233,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "44310311f33149b5fc89fc8097e870b055ae39fb1d60398150b2cc7dc5b0295f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T10:50:04.890Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "DAY89@ 凌dust",
+      "tags": [
+        "萝莉",
+        "雪糕",
+        "白丝",
+        "插画",
+        "白裤袜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147724247_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147724247",
+      "sourceCreatedAt": "2026-07-28T01:49:49.000Z"
+    },
+    {
       "id": "f022dbac",
       "filename": "pixiv_147670116_p0.jpg",
       "path": "uploads/2026/07/62cdf2f6.jpg",
