@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "614a64e1",
+      "filename": "pixiv_147662920_p0.jpg",
+      "path": "uploads/2026/07/47549485.jpg",
+      "size": 767735,
+      "width": 1098,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df7232ff7d66f419410c098ec72dbb8dcc50ccd151f8ec3aac590982d1a0b4ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T03:29:56.828Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Sunbringer",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "zzzero",
+        "ゼンゼロ",
+        "サンブリンガー",
+        "sunbringer"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147662920_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147662920",
+      "sourceCreatedAt": "2026-07-26T11:07:26.000Z"
+    },
+    {
       "id": "e5061318",
       "filename": "pixiv_147630133_p0.jpg",
       "path": "uploads/2026/07/cc6ccc50.jpg",
