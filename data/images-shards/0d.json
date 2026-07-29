@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "90f14316",
+      "filename": "pixiv_147680402_p0.jpg",
+      "path": "uploads/2026/07/705779a4.jpg",
+      "size": 590728,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4b0322d06d010802c2128451ae205c938f451392eee8fed9e117f42809ac996a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T10:51:01.351Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "逢瑠ちゃん",
+      "tags": [
+        "オリジナル",
+        "渡殿逢瑠"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147680402_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147680402",
+      "sourceCreatedAt": "2026-07-26T18:13:17.000Z"
+    },
+    {
       "id": "82529dfc",
       "filename": "pixiv_147696453_p0.jpg",
       "path": "uploads/2026/07/610a6171.jpg",
