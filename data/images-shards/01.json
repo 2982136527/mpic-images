@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "ba2c2024",
+      "filename": "pixiv_147681637_p0.jpg",
+      "path": "uploads/2026/07/f1afbab6.jpg",
+      "size": 380662,
+      "width": 1200,
+      "height": 925,
+      "mimeType": "image/jpeg",
+      "hash": "f1d697e14be2f9a9b0d65fa70c00cce118dcf51ade4ae79af3d719f434192102",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T03:22:08.487Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "X放置rkgk",
+      "tags": [
+        "落書き",
+        "フリータイム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147681637_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147681637",
+      "sourceCreatedAt": "2026-07-26T19:37:16.000Z"
+    },
+    {
       "id": "b91a32d5",
       "filename": "pixiv_147705622_p0.jpg",
       "path": "uploads/2026/07/1bc749f2.jpg",
