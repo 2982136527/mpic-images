@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "97fc2bbc",
+      "filename": "pixiv_147711702_p0.jpg",
+      "path": "uploads/2026/07/a4ca46ca.jpg",
+      "size": 822172,
+      "width": 788,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "74faa5a529164fca0909ed25f573a306cc746273f9fab7fd72362bbeeda74a0d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T17:28:58.680Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "シロコ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "砂狼シロコ",
+        "シロコ(ブルーアーカイブ)",
+        "兽耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147711702_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147711702",
+      "sourceCreatedAt": "2026-07-27T15:00:29.000Z"
+    },
+    {
       "id": "19bec78d",
       "filename": "pixiv_147704441_p0.jpg",
       "path": "uploads/2026/07/1be492d8.jpg",
