@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "355cea07",
+      "filename": "pixiv_147738466_p0.jpg",
+      "path": "uploads/2026/07/9fddaa71.jpg",
+      "size": 467209,
+      "width": 759,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "487da79a2ad8b1905dd7c514de27703ed600500f9c5dbd7ae59f134f3f8c1d87",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T17:31:29.147Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ルラっち",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "ルーラーシップ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147738466_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147738466",
+      "sourceCreatedAt": "2026-07-28T11:17:50.000Z"
+    },
+    {
       "id": "dc50e6ec",
       "filename": "pixiv_147681731_p0.jpg",
       "path": "uploads/2026/07/62820a89.jpg",
