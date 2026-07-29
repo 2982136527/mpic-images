@@ -3,6 +3,33 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "4123dd0e",
+      "filename": "pixiv_147698136_p0.jpg",
+      "path": "uploads/2026/07/407a8714.jpg",
+      "size": 792342,
+      "width": 600,
+      "height": 847,
+      "mimeType": "image/jpeg",
+      "hash": "1f729f52e074accffdd2f93660951e63fd1ba55644b3102f2f6bdc960552af93",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T10:54:19.730Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【C108新刊①】画集線画本",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子",
+        "夏コミ",
+        "C108",
+        "pixiv_C108"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147698136_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147698136",
+      "sourceCreatedAt": "2026-07-27T09:39:16.000Z"
+    },
+    {
       "id": "7ac8169a",
       "filename": "pixiv_147682693_p0.jpg",
       "path": "uploads/2026/07/3fc1bb2d.jpg",
