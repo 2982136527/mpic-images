@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "126b1e25",
+      "filename": "pixiv_147702522_p0.jpg",
+      "path": "uploads/2026/07/6171dc59.jpg",
+      "size": 960612,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a36d8aef5107c0a8c25b5ae59274ede6d542767ca2c463d5012b2e6698bc2626",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T10:51:52.024Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "噂の雪女",
+      "tags": [
+        "御稜ナグサ",
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "サンダル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147702522_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147702522",
+      "sourceCreatedAt": "2026-07-27T11:34:54.000Z"
+    },
+    {
       "id": "2f3f6d96",
       "filename": "pixiv_147674849_p0.jpg",
       "path": "uploads/2026/07/95ff74bd.jpg",
