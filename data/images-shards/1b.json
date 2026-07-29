@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "eea3b8c3",
+      "filename": "pixiv_147711608_p0.jpg",
+      "path": "uploads/2026/07/cbf31453.jpg",
+      "size": 1318160,
+      "width": 785,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "89905572f911883903263c23fcfa905785db746f287b4e29f6bfb217fcd793ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T17:24:51.843Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "水キャストリス",
+      "tags": [
+        "崩壊スターレイル",
+        "キャストリス",
+        "夕焼け",
+        "海"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147711608_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147711608",
+      "sourceCreatedAt": "2026-07-27T15:00:13.000Z"
+    },
+    {
       "id": "064a01c4",
       "filename": "pixiv_147695636_p0.jpg",
       "path": "uploads/2026/07/da25484c.jpg",
