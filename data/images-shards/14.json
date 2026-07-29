@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "f0a46279",
+      "filename": "pixiv_147703884_p0.jpg",
+      "path": "uploads/2026/07/b469d25e.jpg",
+      "size": 559651,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4cf47f78823ac851df4622270a184ffb92e43bf888b4beaee4f5aeeb95045d23",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T17:26:33.635Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "珊比",
+      "tags": [
+        "明日方舟",
+        "Arknights",
+        "珊比"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147703884_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147703884",
+      "sourceCreatedAt": "2026-07-27T12:05:26.000Z"
+    },
+    {
       "id": "4d750114",
       "filename": "pixiv_147674258_p0.jpg",
       "path": "uploads/2026/07/bd32780c.jpg",
