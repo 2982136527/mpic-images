@@ -3,6 +3,34 @@
   "shardId": "01",
   "images": [
     {
+      "id": "a9839a35",
+      "filename": "pixiv_147695387_p0.jpg",
+      "path": "uploads/2026/07/77394e11.jpg",
+      "size": 2075984,
+      "width": 1200,
+      "height": 960,
+      "mimeType": "image/jpeg",
+      "hash": "15c6a5ed53b2135df492ed2caea563139c348598c3b5ddd6c236d2ca8a15c48d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T03:23:38.244Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "うさぎさんの夏休み",
+      "tags": [
+        "VeryBerry",
+        "bunny",
+        "うさぎ",
+        "アナログ絵",
+        "水彩",
+        "夏",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147695387_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147695387",
+      "sourceCreatedAt": "2026-07-27T08:04:35.000Z"
+    },
+    {
       "id": "ba2c2024",
       "filename": "pixiv_147681637_p0.jpg",
       "path": "uploads/2026/07/f1afbab6.jpg",
