@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "50ba8073",
+      "filename": "pixiv_147688279_p0.jpg",
+      "path": "uploads/2026/07/a46d2dd1.jpg",
+      "size": 427752,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d38613cc89d15de3926e294abf6acc4d1400c01a8751625f93059d62bc922461",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T03:28:58.182Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バニースイレン",
+      "tags": [
+        "ポケモン人間絵",
+        "ポケットモンスター",
+        "スイレン(トレーナー)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147688279_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147688279",
+      "sourceCreatedAt": "2026-07-27T02:23:14.000Z"
+    },
+    {
       "id": "422f9698",
       "filename": "pixiv_147682402_p0.jpg",
       "path": "uploads/2026/07/87e3dea7.jpg",
