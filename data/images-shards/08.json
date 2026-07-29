@@ -3,6 +3,32 @@
   "shardId": "08",
   "images": [
     {
+      "id": "6bdc246a",
+      "filename": "pixiv_147631119_p0.jpg",
+      "path": "uploads/2026/07/871df2df.jpg",
+      "size": 1482985,
+      "width": 1200,
+      "height": 869,
+      "mimeType": "image/jpeg",
+      "hash": "9afce0128152f587a79597e1d66f1703cd8e636e33e0c5db9dca67c7a497febc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-29T03:25:53.044Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "카르멘",
+      "tags": [
+        "StarSavior",
+        "스타세이비어",
+        "スターセイヴァー",
+        "イラスト",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147631119_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147631119",
+      "sourceCreatedAt": "2026-07-25T15:12:11.000Z"
+    },
+    {
       "id": "0bc964f0",
       "filename": "pixiv_146649289_p0.jpg",
       "path": "uploads/2026/07/7946d064.jpg",
