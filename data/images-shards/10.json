@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "52c28e46",
+      "filename": "pixiv_147553254_p0.jpg",
+      "path": "uploads/2026/07/7d8b82cc.jpg",
+      "size": 949332,
+      "width": 1200,
+      "height": 1114,
+      "mimeType": "image/jpeg",
+      "hash": "ba4454f848c9a9bc081158b978ea3530a68bdff9adf4a35581ad30471de65bc9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T10:38:25.948Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ヴィルヘルミーナ",
+      "tags": [
+        "ヴィルヘルミーナ",
+        "browndust2",
+        "ブラウンダスト2",
+        "ストレッチ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147553254_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147553254",
+      "sourceCreatedAt": "2026-07-23T15:00:20.000Z"
+    },
+    {
       "id": "48d67521",
       "filename": "pixiv_147743679_p0.jpg",
       "path": "uploads/2026/07/0a573994.jpg",
