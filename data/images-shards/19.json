@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "84d87de6",
+      "filename": "pixiv_147769516_p0.jpg",
+      "path": "uploads/2026/07/a2dbf21a.jpg",
+      "size": 1255229,
+      "width": 885,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "311519fc1148f978ad04bb6fedfe760702b549bfe88126ee821e0fc522b56971",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T17:52:16.471Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "NTE",
+        "异环",
+        "イロヒ",
+        "真紅(NTE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147769516_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147769516",
+      "sourceCreatedAt": "2026-07-29T09:00:13.000Z"
+    },
+    {
       "id": "c24ba4b0",
       "filename": "pixiv_147756537_p0.jpg",
       "path": "uploads/2026/07/0e531a55.jpg",
