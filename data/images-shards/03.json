@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "988db57c",
+      "filename": "pixiv_147559045_p0.jpg",
+      "path": "uploads/2026/07/0ba13e3b.jpg",
+      "size": 627111,
+      "width": 797,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "167aad8c05342e2cf01a8127ce54a6fec6afa7697a6c597e3b84f193bf1c4c36",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T10:38:42.489Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "A Woman of Faith",
+      "tags": [
+        "シーメール",
+        "ニューハーフ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147559045_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147559045",
+      "sourceCreatedAt": "2026-07-23T18:21:50.000Z"
+    },
+    {
       "id": "022ea5e1",
       "filename": "pixiv_147744759_p0.jpg",
       "path": "uploads/2026/07/76a320fe.jpg",
