@@ -3,6 +3,28 @@
   "shardId": "00",
   "images": [
     {
+      "id": "f8e0d812",
+      "filename": "pixiv_147728804_p0.jpg",
+      "path": "uploads/2026/07/edb49ee4.jpg",
+      "size": 390966,
+      "width": 500,
+      "height": 707,
+      "mimeType": "image/jpeg",
+      "hash": "a1498559958cd15886eb420a6299611c59deea09890395d27237746f6e51f05e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T10:33:29.894Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ネムノキ(式典の礼装)",
+      "tags": [
+        "フラワーナイトガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147728804_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147728804",
+      "sourceCreatedAt": "2026-07-28T05:41:29.000Z"
+    },
+    {
       "id": "957109ac",
       "filename": "pixiv_147744839_p0.jpg",
       "path": "uploads/2026/07/f6e0244e.jpg",
