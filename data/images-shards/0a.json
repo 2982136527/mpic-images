@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "e967e343",
+      "filename": "pixiv_147747837_p0.jpg",
+      "path": "uploads/2026/07/b05f918a.jpg",
+      "size": 868248,
+      "width": 1021,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "47f95da32d7205b74662c0fbc0eb10592f7b60c43509d5e3f13de8120853f8e0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T10:33:50.440Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C107 D-day illust",
+      "tags": [
+        "zzzero",
+        "リン(ゼンゼロ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147747837_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147747837",
+      "sourceCreatedAt": "2026-07-28T15:00:51.000Z"
+    },
+    {
       "id": "5178bbc9",
       "filename": "pixiv_147747937_p0.jpg",
       "path": "uploads/2026/07/4f80688d.jpg",
