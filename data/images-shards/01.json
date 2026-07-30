@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "7c757365",
+      "filename": "pixiv_147740384_p0.jpg",
+      "path": "uploads/2026/07/685010b9.jpg",
+      "size": 772483,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7f86979fc088a0425f9ac5700697007d9332bfd08c9cbae4df7bbd7e487e9e84",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T02:56:33.460Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "藍一log",
+      "tags": [
+        "藍一",
+        "腐向け"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147740384_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147740384",
+      "sourceCreatedAt": "2026-07-28T12:03:56.000Z"
+    },
+    {
       "id": "205fa48e",
       "filename": "pixiv_147674253_p0.jpg",
       "path": "uploads/2026/07/d0aa5632.jpg",
