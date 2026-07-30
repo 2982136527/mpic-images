@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "b51e314c",
+      "filename": "pixiv_147706613_p0.jpg",
+      "path": "uploads/2026/07/20b5f1be.jpg",
+      "size": 929494,
+      "width": 1068,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3ca525c3fcac4409752cbd53aaab337f74225c539f9b39986281f118d1280454",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T02:57:24.616Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "자공",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147706613_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147706613",
+      "sourceCreatedAt": "2026-07-27T13:07:24.000Z"
+    },
+    {
       "id": "d19f2045",
       "filename": "pixiv_147684482_p0.jpg",
       "path": "uploads/2026/07/9b25b873.jpg",
