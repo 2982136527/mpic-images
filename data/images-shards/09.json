@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "0afd7239",
+      "filename": "pixiv_147697060_p0.jpg",
+      "path": "uploads/2026/07/2ae11619.jpg",
+      "size": 686050,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a755eb3c3339d6e7adfa07d79090aa836f24652f446f181c957107cc4647b525",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T02:57:19.077Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "猫カフェ編②",
+      "tags": [
+        "猫カフェ",
+        "インナーカラー彼女",
+        "ぐるぐる目",
+        "ねこみみ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147697060_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147697060",
+      "sourceCreatedAt": "2026-07-27T09:03:38.000Z"
+    },
+    {
       "id": "4bdf06aa",
       "filename": "pixiv_147713560_p0.jpg",
       "path": "uploads/2026/07/c21ccb4e.jpg",
