@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "6ad6f57d",
+      "filename": "pixiv_147748566_p0.jpg",
+      "path": "uploads/2026/07/a69f0951.jpg",
+      "size": 756280,
+      "width": 553,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1223f66d69e57fa7185b08a6bb32c6ddc2b42e66ccc9fdcc67e5a5cb3faf8560",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T10:40:23.337Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ヴェリナ",
+      "tags": [
+        "ゼンゼロ",
+        "ゼンレスゾーンゼロ",
+        "ヴェリナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147748566_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147748566",
+      "sourceCreatedAt": "2026-07-28T15:12:47.000Z"
+    },
+    {
       "id": "557a9aa7",
       "filename": "pixiv_147752858_p0.jpg",
       "path": "uploads/2026/07/082ea7fd.jpg",
