@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "49213fce",
+      "filename": "pixiv_147680489_p0.jpg",
+      "path": "uploads/2026/07/8914527e.jpg",
+      "size": 1044892,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "43656bc86a0a6d69e3e557860ba70206a42ae86849b543f4f6e124dade0fb7b6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T02:58:26.777Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "知更鸟晴歌",
+      "tags": [
+        "pixivGlowEffect",
+        "女の子",
+        "崩坏星穹铁道"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147680489_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147680489",
+      "sourceCreatedAt": "2026-07-26T18:18:39.000Z"
+    },
+    {
       "id": "dacf2d63",
       "filename": "pixiv_147675608_p0.jpg",
       "path": "uploads/2026/07/7dcb6ac7.jpg",
