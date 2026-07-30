@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "ef68bd82",
+      "filename": "pixiv_147751410_p0.jpg",
+      "path": "uploads/2026/07/af5e1246.jpg",
+      "size": 1017323,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e5ae814f29787ca7711c846a787ed8ee853a1e9f0c4f81b87c1aeb4c41546d9a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T17:48:39.381Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "さようなら、そしておはよう",
+      "tags": [
+        "風景",
+        "背景",
+        "オリジナル",
+        "コンセプトアート"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147751410_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147751410",
+      "sourceCreatedAt": "2026-07-28T16:36:53.000Z"
+    },
+    {
       "id": "5610cc73",
       "filename": "pixiv_147775042_p0.jpg",
       "path": "uploads/2026/07/ec4a9d9b.jpg",
