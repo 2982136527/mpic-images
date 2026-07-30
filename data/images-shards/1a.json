@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "ce4e8897",
+      "filename": "pixiv_147749226_p0.jpg",
+      "path": "uploads/2026/07/5d4d856b.jpg",
+      "size": 1565671,
+      "width": 1200,
+      "height": 960,
+      "mimeType": "image/jpeg",
+      "hash": "5853acc4ba3fe16d16d7d9e9db1a39ed5343383bd7142987606dda82f61df8a5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T17:48:51.268Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "deltarune log [1]",
+      "tags": [
+        "Deltarune",
+        "フラウリィ",
+        "Flowery(Deltarune)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147749226_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147749226",
+      "sourceCreatedAt": "2026-07-28T15:29:25.000Z"
+    },
+    {
       "id": "6c74d159",
       "filename": "pixiv_147712720_p0.jpg",
       "path": "uploads/2026/07/a5989f98.jpg",
