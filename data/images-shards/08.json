@@ -3,6 +3,28 @@
   "shardId": "08",
   "images": [
     {
+      "id": "d63e5f37",
+      "filename": "pixiv_147728766_p0.jpg",
+      "path": "uploads/2026/07/2f740428.jpg",
+      "size": 244100,
+      "width": 500,
+      "height": 707,
+      "mimeType": "image/jpeg",
+      "hash": "2496f4be622604c8a3fc3179f5e6b04a9731853d8281f0c5a0a8ec14e66251ce",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T10:37:17.778Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リリ(イースター)",
+      "tags": [
+        "フラワーナイトガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147728766_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147728766",
+      "sourceCreatedAt": "2026-07-28T05:39:47.000Z"
+    },
+    {
       "id": "352e27fd",
       "filename": "pixiv_147704858_p0.jpg",
       "path": "uploads/2026/07/07219f6d.jpg",
