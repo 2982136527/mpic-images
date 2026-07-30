@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "b52909eb",
+      "filename": "pixiv_147751367_p0.jpg",
+      "path": "uploads/2026/07/6880cafc.jpg",
+      "size": 377150,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "409e93ac229edba0689d5352e4d76444562f8c429b0bf368257416c278ba2c93",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T17:51:59.712Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "尾刃カンナ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "尾刃カンナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147751367_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147751367",
+      "sourceCreatedAt": "2026-07-28T16:35:11.000Z"
+    },
+    {
       "id": "601d21c1",
       "filename": "pixiv_147751169_p0.jpg",
       "path": "uploads/2026/07/4c93472e.jpg",
