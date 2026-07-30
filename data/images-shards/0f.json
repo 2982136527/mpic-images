@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "91ac8387",
+      "filename": "pixiv_147761418_p0.jpg",
+      "path": "uploads/2026/07/fd9bca59.jpg",
+      "size": 669367,
+      "width": 1146,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a40936720b58aff0776895637b7aa43233e759afcaa58bbc62ab88b6388113c6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T10:40:36.047Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "大丈夫だマリュー",
+      "tags": [
+        "ガンダム",
+        "ストライクガンダム",
+        "デルフィニウム",
+        "デルフィニウム(MS)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147761418_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147761418",
+      "sourceCreatedAt": "2026-07-29T02:47:18.000Z"
+    },
+    {
       "id": "d01ca00c",
       "filename": "pixiv_147753633_p0.jpg",
       "path": "uploads/2026/07/21a2a5e2.jpg",
