@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "bb381069",
+      "filename": "pixiv_147771348_p0.jpg",
+      "path": "uploads/2026/07/a9ed3ac9.jpg",
+      "size": 1097620,
+      "width": 1200,
+      "height": 712,
+      "mimeType": "image/jpeg",
+      "hash": "128b3e9eac2c62708b5d660093dae96c8d8a7fc6a08fed1549a708b7b174392e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T17:47:51.685Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "蕾米埃尔",
+      "tags": [
+        "绝区零",
+        "高跟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147771348_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147771348",
+      "sourceCreatedAt": "2026-07-29T09:59:38.000Z"
+    },
+    {
       "id": "b1b79e3c",
       "filename": "pixiv_147759807_p0.jpg",
       "path": "uploads/2026/07/b192224e.jpg",
