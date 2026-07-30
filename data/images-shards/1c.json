@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "2ea2606e",
+      "filename": "pixiv_147750997_p0.jpg",
+      "path": "uploads/2026/07/a111c418.jpg",
+      "size": 1011521,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "64d6b94c54a8bcae4ff76af31409d9966cfa4ea1d4055fa9d9559dc69efb2de5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T17:50:59.394Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ミクソフト・エッジ",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "Microsoft",
+        "天才の発想"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147750997_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147750997",
+      "sourceCreatedAt": "2026-07-28T16:21:20.000Z"
+    },
+    {
       "id": "b3d72f31",
       "filename": "pixiv_147771678_p0.jpg",
       "path": "uploads/2026/07/43bb9854.jpg",
