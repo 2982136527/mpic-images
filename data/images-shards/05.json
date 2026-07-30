@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "5e871f80",
+      "filename": "pixiv_147750674_p0.jpg",
+      "path": "uploads/2026/07/dda841a5.jpg",
+      "size": 971568,
+      "width": 712,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "404d0bf00719b91aeab0cffd67fecc071daa0ea460dc3dbd0022935d53b47f7b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T17:43:15.904Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "エイメス",
+      "tags": [
+        "鳴潮",
+        "エイメス",
+        "サンダル",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147750674_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147750674",
+      "sourceCreatedAt": "2026-07-28T16:10:22.000Z"
+    },
+    {
       "id": "fb931bec",
       "filename": "pixiv_147716318_p0.jpg",
       "path": "uploads/2026/07/9623bfa6.jpg",
