@@ -3,6 +3,28 @@
   "shardId": "06",
   "images": [
     {
+      "id": "d2471583",
+      "filename": "pixiv_147728630_p0.jpg",
+      "path": "uploads/2026/07/a71a3b4a.jpg",
+      "size": 480555,
+      "width": 500,
+      "height": 707,
+      "mimeType": "image/jpeg",
+      "hash": "31531a9e48246a4b00c3b8668a86bc416c0df8ca11cdc78716f19e845310def6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T10:34:28.468Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ネムノキ(10th Anniversary)",
+      "tags": [
+        "フラワーナイトガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147728630_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147728630",
+      "sourceCreatedAt": "2026-07-28T05:32:48.000Z"
+    },
+    {
       "id": "2cfc0ba3",
       "filename": "pixiv_147761998_p0.jpg",
       "path": "uploads/2026/07/6196ce91.jpg",
