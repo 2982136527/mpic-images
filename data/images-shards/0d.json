@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "a6505e5b",
+      "filename": "pixiv_147714820_p0.jpg",
+      "path": "uploads/2026/07/19296ca4.jpg",
+      "size": 569916,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4333b017314647ff66506972ae75a960169b7bdc4ee67ad93b232afd9abeeb1c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-30T02:56:02.643Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ブルーアーカイブ",
+        "棗イロハ",
+        "棗イロハ(水着)",
+        "サンダル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147714820_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147714820",
+      "sourceCreatedAt": "2026-07-27T16:21:48.000Z"
+    },
+    {
       "id": "cd99e4da",
       "filename": "pixiv_147702439_p0.jpg",
       "path": "uploads/2026/07/ae250258.jpg",
