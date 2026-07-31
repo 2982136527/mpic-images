@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "80169473",
+      "filename": "pixiv_147819167_p0.jpg",
+      "path": "uploads/2026/07/e2209097.jpg",
+      "size": 575054,
+      "width": 800,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "9fd1bc9ae94eb7dfe92c5f153ea0013570435d02b0b028b56a28dfc779204d5e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T17:53:47.350Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "しっとりヘリオス",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "ダイタクヘリオス(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147819167_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147819167",
+      "sourceCreatedAt": "2026-07-30T14:14:58.000Z"
+    },
+    {
       "id": "b098424c",
       "filename": "pixiv_147787837_p0.jpg",
       "path": "uploads/2026/07/cea0cd99.jpg",
