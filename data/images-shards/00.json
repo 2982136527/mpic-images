@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "9b75ccaa",
+      "filename": "pixiv_147795324_p0.jpg",
+      "path": "uploads/2026/07/2a39fc0e.jpg",
+      "size": 526017,
+      "width": 956,
+      "height": 679,
+      "mimeType": "image/jpeg",
+      "hash": "87059405b283d3b6adb9f5653cb32a6601c00530d31ab05c6e290ac1f63499b0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:38:40.354Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "絵",
+      "tags": [
+        "オリジナル",
+        "創作男女",
+        "使われ日記",
+        "竜娘",
+        "メイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147795324_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147795324",
+      "sourceCreatedAt": "2026-07-29T23:59:23.000Z"
+    },
+    {
       "id": "bbe987b6",
       "filename": "pixiv_147767689_p0.jpg",
       "path": "uploads/2026/07/9b3b8526.jpg",
