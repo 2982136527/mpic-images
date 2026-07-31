@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "94408432",
+      "filename": "pixiv_147807636_p0.jpg",
+      "path": "uploads/2026/07/9d9767ff.jpg",
+      "size": 971499,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cc5b57be60e23fb1977ed5b65c67a7a8ac2b79dbf03fd9cd78928f125c93d35a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:39:26.934Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "声夏",
+      "tags": [
+        "風景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147807636_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147807636",
+      "sourceCreatedAt": "2026-07-30T09:35:27.000Z"
+    },
+    {
       "id": "10c4797d",
       "filename": "pixiv_147812461_p0.jpg",
       "path": "uploads/2026/07/d559feef.jpg",
