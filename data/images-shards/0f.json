@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "be8ccc7a",
+      "filename": "pixiv_147784295_p0.jpg",
+      "path": "uploads/2026/07/5c6d780b.jpg",
+      "size": 1109438,
+      "width": 1200,
+      "height": 734,
+      "mimeType": "image/jpeg",
+      "hash": "e3f968b8b34aaa732d8ee374b1db1bb60ec66e66cba525be22a852a2a37f070d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T10:53:50.498Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "桃太郎祐定",
+      "tags": [
+        "刀剣乱舞",
+        "桃太郎祐定",
+        "桃太郎祐定(刀剣乱舞)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147784295_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147784295",
+      "sourceCreatedAt": "2026-07-29T15:00:36.000Z"
+    },
+    {
       "id": "26cc0301",
       "filename": "pixiv_147784175_p0.jpg",
       "path": "uploads/2026/07/50865c2b.jpg",
