@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "ec4b66f4",
+      "filename": "pixiv_147769424_p0.jpg",
+      "path": "uploads/2026/07/bd7b4632.jpg",
+      "size": 758682,
+      "width": 1200,
+      "height": 1154,
+      "mimeType": "image/jpeg",
+      "hash": "7741dd9184d2f2377b877bb543f98cf212e1c3cd417281d81498c727bd920bf7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T17:54:20.880Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "gnsn夢絵まとめ⑫",
+      "tags": [
+        "gnsn夢",
+        "夢絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147769424_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147769424",
+      "sourceCreatedAt": "2026-07-29T08:59:00.000Z"
+    },
+    {
       "id": "5e52b47d",
       "filename": "pixiv_147811778_p0.jpg",
       "path": "uploads/2026/07/cfd721c2.jpg",
