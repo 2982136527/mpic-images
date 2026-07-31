@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "1ad49a24",
+      "filename": "pixiv_147796994_p0.jpg",
+      "path": "uploads/2026/07/50dc0534.jpg",
+      "size": 1499454,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f885f4e8f281a88f4670b6337815cf14c27c91ac446f89aba418b4aa3bdb29cd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:43:40.289Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "スト６イラストまとめ",
+      "tags": [
+        "ストリートファイター6",
+        "ラシード",
+        "ストリートファイター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147796994_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147796994",
+      "sourceCreatedAt": "2026-07-30T01:36:37.000Z"
+    },
+    {
       "id": "b4343c96",
       "filename": "pixiv_147813436_p0.jpg",
       "path": "uploads/2026/07/6a6fd1a9.jpg",
