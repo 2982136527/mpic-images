@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "1ae31099",
+      "filename": "pixiv_147785152_p0.jpg",
+      "path": "uploads/2026/07/29b72443.jpg",
+      "size": 722610,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "74c47d9d04a2ce786569ebb8cb84aa90986c304d89b7ba5241f892937ea6f0c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T17:49:54.023Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "しまい。",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147785152_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147785152",
+      "sourceCreatedAt": "2026-07-29T15:13:38.000Z"
+    },
+    {
       "id": "4854c275",
       "filename": "pixiv_147794961_p0.jpg",
       "path": "uploads/2026/07/4a8ec9d9.jpg",
