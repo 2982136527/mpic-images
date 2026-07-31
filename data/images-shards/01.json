@@ -3,6 +3,37 @@
   "shardId": "01",
   "images": [
     {
+      "id": "aee46996",
+      "filename": "pixiv_147785242_p0.jpg",
+      "path": "uploads/2026/07/7f5c9639.jpg",
+      "size": 1605019,
+      "width": 998,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "affded1fa8a7502b24ed251866f7b20a0ec20705d2a7c562cd1dfa9dc7bad291",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T10:50:46.510Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "きらめきタイム",
+      "tags": [
+        "precure",
+        "プリキュア",
+        "名探偵プリキュア!",
+        "たんプリ",
+        "帆羽くれあ",
+        "キュアエクレール",
+        "きらめきタイム",
+        "キュアエクレールの復活!",
+        "オッドアイ",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147785242_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147785242",
+      "sourceCreatedAt": "2026-07-29T15:15:30.000Z"
+    },
+    {
       "id": "c0df63f4",
       "filename": "pixiv_147769003_p0.jpg",
       "path": "uploads/2026/07/b1934a49.jpg",
