@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "7749fd2b",
+      "filename": "pixiv_147788519_p0.jpg",
+      "path": "uploads/2026/07/a5931543.jpg",
+      "size": 1315032,
+      "width": 763,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c9eeb4d0b67e3745d99d7c2c6e9bb7c3fa6e077f4fabdb2849a52fe8eda490d0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T10:51:06.082Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ルーシー×双子",
+      "tags": [
+        "リバース:1999",
+        "AtomicHeart",
+        "ルーシー(リバース:1999)",
+        "双子(リバース:1999)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147788519_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147788519",
+      "sourceCreatedAt": "2026-07-29T16:56:58.000Z"
+    },
+    {
       "id": "402cc4cf",
       "filename": "pixiv_147803538_p0.jpg",
       "path": "uploads/2026/07/042c9dbf.jpg",
