@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "0f8e9c17",
+      "filename": "pixiv_147780803_p0.jpg",
+      "path": "uploads/2026/07/80de4567.jpg",
+      "size": 437941,
+      "width": 1026,
+      "height": 977,
+      "mimeType": "image/jpeg",
+      "hash": "ac189f448b70c1eaf58d67e317081aa1417fe046c402663696a4d3bb3a439966",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T10:52:47.827Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "映画見たよ",
+      "tags": [
+        "セイレーン(ちいかわ)",
+        "ちいかわ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147780803_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147780803",
+      "sourceCreatedAt": "2026-07-29T13:41:35.000Z"
+    },
+    {
       "id": "4a484dae",
       "filename": "pixiv_147784984_p0.jpg",
       "path": "uploads/2026/07/0a79b73f.jpg",
