@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "a4220a0d",
+      "filename": "pixiv_147763080_p0.jpg",
+      "path": "uploads/2026/07/911500d0.jpg",
+      "size": 1292563,
+      "width": 1200,
+      "height": 640,
+      "mimeType": "image/jpeg",
+      "hash": "2e6282095565c9f68851c652f3a1e89045769d87856904987f88de79b5081cc5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T10:47:36.860Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Denia",
+      "tags": [
+        "达尼娅",
+        "Denia",
+        "鳴潮",
+        "ダーニャ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147763080_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147763080",
+      "sourceCreatedAt": "2026-07-29T04:00:52.000Z"
+    },
+    {
       "id": "3b559d07",
       "filename": "pixiv_147763518_p0.jpg",
       "path": "uploads/2026/07/51361850.jpg",
