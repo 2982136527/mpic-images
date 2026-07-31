@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "d8acc8c0",
+      "filename": "pixiv_147773243_p0.jpg",
+      "path": "uploads/2026/07/cc4d8e5c.jpg",
+      "size": 1368816,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "a1f645c357d1d1d6cbec87a0d0bbd07dcba0bf0141c6031e1f344a2317c95d11",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T17:50:02.926Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "スー",
+      "tags": [
+        "アークナイツ:エンドフィールド",
+        "スー(エンドフィールド)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147773243_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147773243",
+      "sourceCreatedAt": "2026-07-29T10:52:07.000Z"
+    },
+    {
       "id": "be8ccc7a",
       "filename": "pixiv_147784295_p0.jpg",
       "path": "uploads/2026/07/5c6d780b.jpg",
