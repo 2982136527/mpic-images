@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "2c0ad4e9",
+      "filename": "pixiv_147784151_p0.jpg",
+      "path": "uploads/2026/07/5d8ef4ad.jpg",
+      "size": 892648,
+      "width": 788,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "af9d343dfaa63a13cf80b09b3b83b811b2d4c9a4d85fdf8505917324dcb0b8e0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:38:12.528Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リオ",
+      "tags": [
+        "調月リオ",
+        "ブルアカ",
+        "競泳水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147784151_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147784151",
+      "sourceCreatedAt": "2026-07-29T15:00:11.000Z"
+    },
+    {
       "id": "a100e3f0",
       "filename": "pixiv_147719742_p0.jpg",
       "path": "uploads/2026/07/ed8d613f.jpg",
