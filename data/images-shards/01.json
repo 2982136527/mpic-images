@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "c0df63f4",
+      "filename": "pixiv_147769003_p0.jpg",
+      "path": "uploads/2026/07/b1934a49.jpg",
+      "size": 580321,
+      "width": 751,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e51cec328b132f2f3a2bcf8a06b59dd6eefb94b603335ad5540e5e9be70ca68c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T10:48:24.993Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "重返未来1999",
+        "リバース:1999",
+        "ヴェルティ(リバース:1999)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147769003_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147769003",
+      "sourceCreatedAt": "2026-07-29T08:42:31.000Z"
+    },
+    {
       "id": "fcc2f11a",
       "filename": "pixiv_147748723_p0.jpg",
       "path": "uploads/2026/07/a25bcf7a.jpg",
