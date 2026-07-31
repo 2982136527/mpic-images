@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "b9fe76d2",
+      "filename": "pixiv_147761187_p0.jpg",
+      "path": "uploads/2026/07/f31cf055.jpg",
+      "size": 869249,
+      "width": 828,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "026dae8cae5ec474f9e815d4d426e1c64425402bf2b1d1f88c8cccd17c420160",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T10:52:06.593Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Nangong Yu",
+      "tags": [
+        "南宮羽",
+        "ゼンゼロ",
+        "ZenlessZoneZero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147761187_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147761187",
+      "sourceCreatedAt": "2026-07-29T02:35:17.000Z"
+    },
+    {
       "id": "aee46996",
       "filename": "pixiv_147785242_p0.jpg",
       "path": "uploads/2026/07/7f5c9639.jpg",
