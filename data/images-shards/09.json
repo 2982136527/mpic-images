@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "ad65a8e8",
+      "filename": "pixiv_147772294_p0.jpg",
+      "path": "uploads/2026/07/a3cadfcd.jpg",
+      "size": 487709,
+      "width": 751,
+      "height": 744,
+      "mimeType": "image/jpeg",
+      "hash": "13de833d712f325d15781dfcc929f8bcc438a05b2f27023c02e9463bd610a0bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:43:54.996Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "X凍結しました",
+      "tags": [
+        "お知らせ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147772294_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147772294",
+      "sourceCreatedAt": "2026-07-29T10:22:15.000Z"
+    },
+    {
       "id": "8be0129a",
       "filename": "pixiv_147787499_p0.jpg",
       "path": "uploads/2026/07/9ac76976.jpg",
