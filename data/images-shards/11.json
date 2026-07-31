@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "9fa458b9",
+      "filename": "pixiv_147767423_p0.jpg",
+      "path": "uploads/2026/07/64ba083f.jpg",
+      "size": 1123169,
+      "width": 1120,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f6273cbe5084775572c0c76196884b166161fd6bac2c9470da7b526e6bf7f795",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T10:49:58.498Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "※擬人化※",
+      "tags": [
+        "ちいかわ擬人化",
+        "セイレーン(ちいかわ)",
+        "あのこ(ちいかわ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147767423_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147767423",
+      "sourceCreatedAt": "2026-07-29T07:39:11.000Z"
+    },
+    {
       "id": "839b2a22",
       "filename": "pixiv_147762805_p0.jpg",
       "path": "uploads/2026/07/d4d42421.jpg",
