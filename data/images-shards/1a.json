@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "2295c9f5",
+      "filename": "pixiv_147805625_p0.jpg",
+      "path": "uploads/2026/07/65323716.jpg",
+      "size": 1629365,
+      "width": 961,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c7a565d7ba9be31e04c6d47cf939045a49823e8a6d98feb75466bed6f6b02293",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:44:01.643Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Endless Waltz",
+      "tags": [
+        "長夜月",
+        "崩壊:スターレイル",
+        "HonkaiStarRail",
+        "Evernight"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147805625_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147805625",
+      "sourceCreatedAt": "2026-07-30T08:32:55.000Z"
+    },
+    {
       "id": "efefc448",
       "filename": "pixiv_147789940_p0.jpg",
       "path": "uploads/2026/07/976f1641.jpg",
