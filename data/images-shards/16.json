@@ -3,6 +3,34 @@
   "shardId": "16",
   "images": [
     {
+      "id": "5594542e",
+      "filename": "pixiv_147785634_p0.jpg",
+      "path": "uploads/2026/07/2c24ce7a.jpg",
+      "size": 178410,
+      "width": 768,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "48b94d41d94075c88a4862224542d741790afccb2238fd984d46c057b5fca967",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:45:08.382Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "今日の日記",
+      "tags": [
+        "オリジナル",
+        "絵日記",
+        "日記",
+        "1日1枚",
+        "一日一絵",
+        "リズム天国",
+        "ゲーム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147785634_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147785634",
+      "sourceCreatedAt": "2026-07-29T15:24:07.000Z"
+    },
+    {
       "id": "6fd25001",
       "filename": "pixiv_147783431_p0.jpg",
       "path": "uploads/2026/07/19e11a2f.jpg",
