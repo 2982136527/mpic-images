@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "465a1ac9",
+      "filename": "pixiv_147784218_p0.jpg",
+      "path": "uploads/2026/07/8db1bf26.jpg",
+      "size": 746629,
+      "width": 1200,
+      "height": 854,
+      "mimeType": "image/jpeg",
+      "hash": "b87dd8e0c26900d82a15a3331c1c51049077f55b6da3b9a8289174498e2f0f9c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T10:53:04.934Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ホタル",
+      "tags": [
+        "崩壊スターレイル",
+        "HonkaiStarRail",
+        "崩壊:スターレイル",
+        "ホタル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147784218_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147784218",
+      "sourceCreatedAt": "2026-07-29T15:00:22.000Z"
+    },
+    {
       "id": "b9fe76d2",
       "filename": "pixiv_147761187_p0.jpg",
       "path": "uploads/2026/07/f31cf055.jpg",
