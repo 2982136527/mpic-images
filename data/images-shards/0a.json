@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "49cecd85",
+      "filename": "pixiv_147800991_p0.jpg",
+      "path": "uploads/2026/07/9ceeab82.jpg",
+      "size": 1438927,
+      "width": 1200,
+      "height": 789,
+      "mimeType": "image/jpeg",
+      "hash": "9a354763f8ef9bd38cdb66c9f3853affe65bc48100bec1c3e6296b1d47b2f61e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:41:36.722Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ニコ・リヤン",
+      "tags": [
+        "ニコ",
+        "原神",
+        "ニコ・リヤン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147800991_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147800991",
+      "sourceCreatedAt": "2026-07-30T04:52:59.000Z"
+    },
+    {
       "id": "1c7fd346",
       "filename": "pixiv_147723523_p0.jpg",
       "path": "uploads/2026/07/8fbd2910.jpg",
