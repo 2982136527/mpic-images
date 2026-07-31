@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "cb52aa4f",
+      "filename": "pixiv_147807420_p0.jpg",
+      "path": "uploads/2026/07/785429c6.jpg",
+      "size": 1143110,
+      "width": 871,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "38a3e80f20d886bc98a443a41d43f00a8d179b7b89dede389152f2ac13ff0cd7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:39:51.129Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "こっち向いて？",
+      "tags": [
+        "VOCALOID",
+        "こっち向いてBaby",
+        "ProjectDIVA",
+        "鏡音リン",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147807420_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147807420",
+      "sourceCreatedAt": "2026-07-30T09:29:33.000Z"
+    },
+    {
       "id": "041bec8d",
       "filename": "pixiv_147767887_p0.jpg",
       "path": "uploads/2026/07/79dfe2f1.jpg",
