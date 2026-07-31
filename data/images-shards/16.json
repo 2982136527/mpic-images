@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "61d0f890",
+      "filename": "pixiv_147747754_p0.jpg",
+      "path": "uploads/2026/07/3302db95.jpg",
+      "size": 1507586,
+      "width": 863,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6cdf9265aa94135d420415d2533418e446ee25831c6e292fa5da61e98237836a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:42:00.010Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ギャルサー！",
+      "tags": [
+        "オリジナル",
+        "ライトノベル",
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147747754_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147747754",
+      "sourceCreatedAt": "2026-07-28T15:00:31.000Z"
+    },
+    {
       "id": "2a8cd667",
       "filename": "pixiv_147784953_p0.jpg",
       "path": "uploads/2026/07/2a7b1b8f.jpg",
