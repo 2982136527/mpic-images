@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "baea0299",
+      "filename": "pixiv_147803553_p0.jpg",
+      "path": "uploads/2026/07/ca6b5b3f.jpg",
+      "size": 1287196,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e0e82a1ef3b2af5dd4194107384b83dff54e7ddd03335fc3039ae33aabe4f489",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:42:51.906Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "CM-501",
+      "tags": [
+        "崩壊スターレイル",
+        "花火(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147803553_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147803553",
+      "sourceCreatedAt": "2026-07-30T07:01:20.000Z"
+    },
+    {
       "id": "04a68cbd",
       "filename": "pixiv_147711720_p0.jpg",
       "path": "uploads/2026/07/c02a7eaa.jpg",
