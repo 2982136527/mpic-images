@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "172c2c5a",
+      "filename": "pixiv_147798251_p0.jpg",
+      "path": "uploads/2026/07/751b3818.jpg",
+      "size": 818325,
+      "width": 790,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "8ea2665fd063c033612cc8f104b7cb2d245bdd3112adf96cd07855761f16317f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:44:09.057Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ボラクチン",
+        "天幕のジャードゥーガル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147798251_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147798251",
+      "sourceCreatedAt": "2026-07-30T02:50:38.000Z"
+    },
+    {
       "id": "4447344f",
       "filename": "pixiv_147798161_p0.jpg",
       "path": "uploads/2026/07/b4d0e730.jpg",
