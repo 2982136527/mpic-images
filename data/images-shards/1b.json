@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "1164c89d",
+      "filename": "pixiv_147805862_p0.jpg",
+      "path": "uploads/2026/07/0a0bdeeb.jpg",
+      "size": 1121488,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "6c031087ec3c14708545eb83ee847d7d7a654c51b3b0bb0330b9835ef06c16bd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T17:46:39.040Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "「私の悲しみは水でできている」",
+      "tags": [
+        "VTuber",
+        "莓",
+        "雨",
+        "レインコート",
+        "台湾VTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147805862_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147805862",
+      "sourceCreatedAt": "2026-07-30T08:43:00.000Z"
+    },
+    {
       "id": "36ec6064",
       "filename": "pixiv_147761406_p0.jpg",
       "path": "uploads/2026/07/01145558.jpg",
