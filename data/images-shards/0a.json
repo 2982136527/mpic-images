@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "4a484dae",
+      "filename": "pixiv_147784984_p0.jpg",
+      "path": "uploads/2026/07/0a79b73f.jpg",
+      "size": 834225,
+      "width": 1200,
+      "height": 756,
+      "mimeType": "image/jpeg",
+      "hash": "210367b73d790752bd3050cf364e2a77e759f6d80d059311628d00b2f898b6fe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T10:49:28.319Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "rooftop",
+      "tags": [
+        "ラバースーツ",
+        "ぴっちりスーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147784984_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147784984",
+      "sourceCreatedAt": "2026-07-29T15:10:03.000Z"
+    },
+    {
       "id": "787abc14",
       "filename": "pixiv_147797565_p0.jpg",
       "path": "uploads/2026/07/e0e7d293.jpg",
