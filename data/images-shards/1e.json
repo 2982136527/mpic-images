@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "f4a119d6",
+      "filename": "pixiv_147749835_p0.jpg",
+      "path": "uploads/2026/07/320251ba.jpg",
+      "size": 800510,
+      "width": 842,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c9d44b858ca3b92f5526dba6f25ee4d2ead959f4b630baa8fec8f9e49425ebc1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T10:52:32.025Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "クオン",
+      "tags": [
+        "Shadowverse",
+        "シャドウバース",
+        "シャドバ",
+        "クオン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147749835_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147749835",
+      "sourceCreatedAt": "2026-07-28T15:44:35.000Z"
+    },
+    {
       "id": "e27d810e",
       "filename": "pixiv_147761094_p0.jpg",
       "path": "uploads/2026/07/ad163c0e.jpg",
