@@ -3,6 +3,34 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "45ba448b",
+      "filename": "pixiv_147785789_p0.jpg",
+      "path": "uploads/2026/07/ec9ffeb5.jpg",
+      "size": 726096,
+      "width": 1029,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8b7c87e687c26fb432be1a2bd022ac72cedb6eff4daf5d475e75c341c0fd6ecd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T17:47:16.260Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "でかつよズ",
+      "tags": [
+        "ちいかわ",
+        "あのこ(ちいかわ)",
+        "セイレーン(ちいかわ)",
+        "ハチワレ(でかつよ)",
+        "うさぎ(でかつよ)",
+        "でかつよ",
+        "コワイイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147785789_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147785789",
+      "sourceCreatedAt": "2026-07-29T15:27:36.000Z"
+    },
+    {
       "id": "670f4296",
       "filename": "pixiv_147607658_p0.jpg",
       "path": "uploads/2026/07/cd8e7d6f.jpg",
