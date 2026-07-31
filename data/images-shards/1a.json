@@ -3,6 +3,37 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "f086656d",
+      "filename": "pixiv_147789165_p0.jpg",
+      "path": "uploads/2026/07/8160decb.jpg",
+      "size": 1146623,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8b6a4bd086a3b7307c85c2554b1e4f0d6af38a6cf819b5ba0b53f54734d5557a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T10:50:24.173Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "The Long Goodbye",
+      "tags": [
+        "レミエール・ダン",
+        "ラミル",
+        "リン(ゼンゼロ)",
+        "Belle",
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ",
+        "绝区零",
+        "ZenlessZoneZero",
+        "Remielle",
+        "月光"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147789165_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147789165",
+      "sourceCreatedAt": "2026-07-29T18:24:58.000Z"
+    },
+    {
       "id": "2295c9f5",
       "filename": "pixiv_147805625_p0.jpg",
       "path": "uploads/2026/07/65323716.jpg",
