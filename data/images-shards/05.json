@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "d411f6f0",
+      "filename": "pixiv_147804067_p0.jpg",
+      "path": "uploads/2026/07/859a9fdb.jpg",
+      "size": 409428,
+      "width": 772,
+      "height": 772,
+      "mimeType": "image/jpeg",
+      "hash": "8f30feac68374713d66f1ce100d26299b1ced67fb83dba1caf99a325b864aa17",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T17:51:41.908Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "僕の、最初の願いはなんだっけ……",
+      "tags": [
+        "宝石の国",
+        "フォスフォフィライト",
+        "ラピフォス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147804067_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147804067",
+      "sourceCreatedAt": "2026-07-30T07:28:33.000Z"
+    },
+    {
       "id": "51a41798",
       "filename": "pixiv_147792151_p0.jpg",
       "path": "uploads/2026/07/cda03fea.jpg",
