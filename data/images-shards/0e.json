@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "ea4f90c0",
+      "filename": "pixiv_147801237_p0.jpg",
+      "path": "uploads/2026/07/03b0c031.jpg",
+      "size": 1255203,
+      "width": 1200,
+      "height": 789,
+      "mimeType": "image/jpeg",
+      "hash": "2665c25fbcc19d17f6025570bc7f584b12baba6572eb72316716811e2db2e141",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:42:37.694Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "兹白",
+      "tags": [
+        "兹白",
+        "原神"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147801237_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147801237",
+      "sourceCreatedAt": "2026-07-30T05:05:03.000Z"
+    },
+    {
       "id": "9eedfe80",
       "filename": "pixiv_147751200_p0.jpg",
       "path": "uploads/2026/07/bf47da54.jpg",
