@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "0a4c9e99",
+      "filename": "pixiv_147806300_p0.jpg",
+      "path": "uploads/2026/07/075299ef.jpg",
+      "size": 1601082,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "77b8d853ca14b160dfb3196c2c729538ea12faa5e7bd53b1b085b775cd5ae411",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:40:44.338Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "鳴潮　穂穂",
+      "tags": [
+        "鳴潮",
+        "WutheringWaves",
+        "穂穂",
+        "suisui",
+        "チャイナドレス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147806300_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147806300",
+      "sourceCreatedAt": "2026-07-30T09:00:06.000Z"
+    },
+    {
       "id": "b0b04483",
       "filename": "pixiv_147729383_p0.jpg",
       "path": "uploads/2026/07/d427c561.jpg",
