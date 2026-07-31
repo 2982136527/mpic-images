@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "fcc2f11a",
+      "filename": "pixiv_147748723_p0.jpg",
+      "path": "uploads/2026/07/a25bcf7a.jpg",
+      "size": 606886,
+      "width": 759,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d10320cb62de82f61c3693c8ca119774e65a38bcac6b8f6486d7cc872de63b9e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T10:47:05.526Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "yes！",
+      "tags": [
+        "少女",
+        "都市",
+        "現代",
+        "未来",
+        "夜景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147748723_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147748723",
+      "sourceCreatedAt": "2026-07-28T15:16:09.000Z"
+    },
+    {
       "id": "a2af1c68",
       "filename": "pixiv_147768855_p0.jpg",
       "path": "uploads/2026/07/5da0f6b1.jpg",
