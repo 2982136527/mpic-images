@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "f46a9adb",
+      "filename": "pixiv_147805824_p0.jpg",
+      "path": "uploads/2026/07/38100edc.jpg",
+      "size": 889144,
+      "width": 803,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7d64d3ef30e37ae729fd84a3a6c7e7adb03df8de010a5001c14eca3dc3f7cdec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T03:44:46.168Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ゼンゼロ明治コラボ",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ明治",
+        "甘くとろける夏の出会い"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147805824_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147805824",
+      "sourceCreatedAt": "2026-07-30T08:41:26.000Z"
+    },
+    {
       "id": "40551be1",
       "filename": "pixiv_147779446_p0.jpg",
       "path": "uploads/2026/07/1ea8b09d.jpg",
