@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "910d779f",
+      "filename": "pixiv_147761242_p0.jpg",
+      "path": "uploads/2026/07/29e3e4fa.jpg",
+      "size": 1021483,
+      "width": 1200,
+      "height": 660,
+      "mimeType": "image/jpeg",
+      "hash": "207785c3698a490cdaa0da3828d639f8cf04d4b129ea92785f3e0ccd06a69fdf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T10:53:22.867Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "cms",
+      "tags": [
+        "commission",
+        "トレンカ",
+        "アウラ(FF14)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147761242_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147761242",
+      "sourceCreatedAt": "2026-07-29T02:37:59.000Z"
+    },
+    {
       "id": "4bb52094",
       "filename": "pixiv_147764820_p0.jpg",
       "path": "uploads/2026/07/13280316.jpg",
