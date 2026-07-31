@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "2ed5f402",
+      "filename": "pixiv_147772956_p0.jpg",
+      "path": "uploads/2026/07/27ccb723.jpg",
+      "size": 737291,
+      "width": 627,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6164d926244ff402b43757a5bc112045c9722daf00eaa99ab2676d46205a20a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-07-31T17:50:42.017Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "阿斯缇亚",
+      "tags": [
+        "少女前线2",
+        "girlsfrontline"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147772956_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147772956",
+      "sourceCreatedAt": "2026-07-29T10:42:41.000Z"
+    },
+    {
       "id": "7643a0fe",
       "filename": "pixiv_147769369_p0.jpg",
       "path": "uploads/2026/07/c0788256.jpg",
