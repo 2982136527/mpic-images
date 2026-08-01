@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "2ba48bd5",
+      "filename": "pixiv_147808382_p0.jpg",
+      "path": "uploads/2026/08/fd92ef4e.jpg",
+      "size": 1427246,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9d1656993a2ce45453e5b5b9d026281d22618c640c56bf16d3686c071355c73f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T17:11:23.714Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "놀아줄래?",
+      "tags": [
+        "Limbus_Company",
+        "ドンキホーテ(LCB)",
+        "돈키호테"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147808382_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147808382",
+      "sourceCreatedAt": "2026-07-30T10:00:11.000Z"
+    },
+    {
       "id": "b1e87a60",
       "filename": "pixiv_147821257_p0.jpg",
       "path": "uploads/2026/08/512b4b2a.jpg",
