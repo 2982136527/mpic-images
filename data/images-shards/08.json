@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "e42c60f4",
+      "filename": "pixiv_147842775_p0.jpg",
+      "path": "uploads/2026/08/6f0bae54.jpg",
+      "size": 1486874,
+      "width": 891,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b722567b0f0718ba067930433ea3342eea29f49d828eeb6db634b848dfcb4f4c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:06:58.649Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【C108】夏コミ表紙",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147842775_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147842775",
+      "sourceCreatedAt": "2026-07-31T08:12:55.000Z"
+    },
+    {
       "id": "0d21fb56",
       "filename": "pixiv_147824028_p0.jpg",
       "path": "uploads/2026/08/03fda752.jpg",
