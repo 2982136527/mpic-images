@@ -3,6 +3,35 @@
   "shardId": "10",
   "images": [
     {
+      "id": "a8bdcee3",
+      "filename": "pixiv_147784389_p0.jpg",
+      "path": "uploads/2026/08/81d79758.jpg",
+      "size": 741588,
+      "width": 1200,
+      "height": 936,
+      "mimeType": "image/jpeg",
+      "hash": "050f7ab15a699b9fc18a64dac8f5cb4d1bf167d037fab80b9f386820157bca14",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T17:15:12.106Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ヴェクターはあなたと一緒に映画を観ます",
+      "tags": [
+        "ドルフロ2",
+        "ドルフロ",
+        "ルズフロントライン",
+        "少前2:追放",
+        "girlsfrontline",
+        "ドールズフロントライン2",
+        "ヴェクター",
+        "Vector(ドールズフロントライン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147784389_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147784389",
+      "sourceCreatedAt": "2026-07-29T15:01:03.000Z"
+    },
+    {
       "id": "b39fd0b8",
       "filename": "pixiv_147828717_p0.jpg",
       "path": "uploads/2026/08/86f05160.jpg",
