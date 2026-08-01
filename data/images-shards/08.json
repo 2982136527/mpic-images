@@ -3,6 +3,33 @@
   "shardId": "08",
   "images": [
     {
+      "id": "5be3bd37",
+      "filename": "pixiv_147796429_p0.jpg",
+      "path": "uploads/2026/08/240ed223.jpg",
+      "size": 1375855,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d9fcb5d503405ad3e363781687cea93a062905d838f64a6bafedd1ced99ed185",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:05:54.030Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "水魔導の図書館",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "創作",
+        "少女",
+        "白髪",
+        "pixiv_C108"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147796429_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147796429",
+      "sourceCreatedAt": "2026-07-30T01:00:46.000Z"
+    },
+    {
       "id": "02e0c3f6",
       "filename": "pixiv_147817119_p0.jpg",
       "path": "uploads/2026/08/97d6119b.jpg",
