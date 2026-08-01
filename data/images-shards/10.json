@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "8c0e0f89",
+      "filename": "pixiv_147830592_p0.jpg",
+      "path": "uploads/2026/08/246a8a34.jpg",
+      "size": 427760,
+      "width": 1200,
+      "height": 287,
+      "mimeType": "image/jpeg",
+      "hash": "bc7d95920c0cae07cd27d9c3e9c84037d074ed0770e98c9fed68510e93915285",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T17:09:07.375Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Fuwawamoco 3rd Anniversary",
+      "tags": [
+        "バーチャルYouTuber",
+        "HololiveEN",
+        "ホロライブ",
+        "HoloAdvent",
+        "fuwawa",
+        "mococo",
+        "フワモコ",
+        "フワワ・アビスガード",
+        "モココ・アビスガード",
+        "バーチャルYouTuber1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147830592_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147830592",
+      "sourceCreatedAt": "2026-07-30T22:25:58.000Z"
+    },
+    {
       "id": "74c57347",
       "filename": "pixiv_147803907_p0.jpg",
       "path": "uploads/2026/08/f8404bf3.jpg",
