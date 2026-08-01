@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "eca81c8b",
+      "filename": "pixiv_147788155_p0.jpg",
+      "path": "uploads/2026/08/73f71046.jpg",
+      "size": 835551,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ddc81035d397364f119e40636d0236275e686f5d58236dfbfcec23c585d9b529",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T17:09:34.506Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🐰💛",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147788155_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147788155",
+      "sourceCreatedAt": "2026-07-29T16:41:47.000Z"
+    },
+    {
       "id": "487e874e",
       "filename": "pixiv_147838257_p0.jpg",
       "path": "uploads/2026/08/48616b6e.jpg",
