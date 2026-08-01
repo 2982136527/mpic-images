@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "740c0228",
+      "filename": "pixiv_147819230_p0.jpg",
+      "path": "uploads/2026/08/4bf12c0a.jpg",
+      "size": 974564,
+      "width": 1200,
+      "height": 790,
+      "mimeType": "image/jpeg",
+      "hash": "5a38082a7b77b85b917b2bcd94c40a70a153729c3ca799124e632dfe7592f849",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T03:36:55.533Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ウマまとめ6",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "ステゴ一族",
+        "スターブロッサム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147819230_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147819230",
+      "sourceCreatedAt": "2026-07-30T14:16:17.000Z"
+    },
+    {
       "id": "fce6813e",
       "filename": "pixiv_147752004_p0.jpg",
       "path": "uploads/2026/07/3c84f658.jpg",
