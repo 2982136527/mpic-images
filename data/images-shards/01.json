@@ -3,6 +3,37 @@
   "shardId": "01",
   "images": [
     {
+      "id": "fd3685b9",
+      "filename": "pixiv_147826127_p0.jpg",
+      "path": "uploads/2026/08/79940580.jpg",
+      "size": 300098,
+      "width": 702,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "954a7958dcd5d6df1b2b3b6016b55db70a236a4b3430ef64a900dc4b64664d5b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T17:14:35.232Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Summer date🍫💘",
+      "tags": [
+        "水着",
+        "女の子",
+        "橘ひなの",
+        "VTuber",
+        "バーチャルYouTuber",
+        "ぶいすぽ!",
+        "ぶいすぽっ!",
+        "ひなのの絵なの",
+        "おへそ",
+        "バーチャルYouTuber100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147826127_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147826127",
+      "sourceCreatedAt": "2026-07-30T17:27:51.000Z"
+    },
+    {
       "id": "88d9bcbb",
       "filename": "pixiv_147803558_p0.jpg",
       "path": "uploads/2026/08/63652db4.jpg",
