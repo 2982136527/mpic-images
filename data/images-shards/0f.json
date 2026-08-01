@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "24b5fe02",
+      "filename": "pixiv_147811536_p0.jpg",
+      "path": "uploads/2026/08/1594b646.jpg",
+      "size": 1051177,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "4860db4b9febbd01b5a6875ad5dcba8e325633d0af079211935a6544b5db4501",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:08:18.862Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "FGO11周年！！！",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "坂本龍馬(Fate)",
+        "岡田以蔵(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147811536_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147811536",
+      "sourceCreatedAt": "2026-07-30T11:20:42.000Z"
+    },
+    {
       "id": "b1540707",
       "filename": "pixiv_147784128_p0.jpg",
       "path": "uploads/2026/08/5b9d0c09.jpg",
