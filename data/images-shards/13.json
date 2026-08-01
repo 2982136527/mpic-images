@@ -3,6 +3,28 @@
   "shardId": "13",
   "images": [
     {
+      "id": "dc35ab73",
+      "filename": "pixiv_147810011_p0.jpg",
+      "path": "uploads/2026/08/6169d622.jpg",
+      "size": 876219,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7241bb83670f58523b78f05fec1f183ce3172c70b9a52ce045e4e5986948494c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:11:09.858Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "稿 感谢约稿哇",
+      "tags": [
+        "魔物娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147810011_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147810011",
+      "sourceCreatedAt": "2026-07-30T10:43:42.000Z"
+    },
+    {
       "id": "e28f295f",
       "filename": "pixiv_147834398_p0.jpg",
       "path": "uploads/2026/08/132f89aa.jpg",
