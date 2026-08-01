@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "4a0b07ab",
+      "filename": "pixiv_147821138_p0.jpg",
+      "path": "uploads/2026/08/eda78164.jpg",
+      "size": 1391465,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b9666dbfbec36252905c364e4c12c5a7e1f126ffdf6cf1cedff5ebb21105ef65",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:07:34.700Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リオ",
+      "tags": [
+        "ブルアカ",
+        "調月リオ",
+        "クールビューティー",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147821138_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147821138",
+      "sourceCreatedAt": "2026-07-30T15:00:17.000Z"
+    },
+    {
       "id": "465a1ac9",
       "filename": "pixiv_147784218_p0.jpg",
       "path": "uploads/2026/07/8db1bf26.jpg",
