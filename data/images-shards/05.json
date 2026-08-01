@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "cd07353a",
+      "filename": "pixiv_147816754_p0.jpg",
+      "path": "uploads/2026/08/eca1a3ea.jpg",
+      "size": 2251263,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d46c2ec271e3533f33fa8d0ed40331d62bbfa6540496fc03097351cdd195f508",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:11:24.464Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ラベンダー",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "創作",
+        "ラベンダー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147816754_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147816754",
+      "sourceCreatedAt": "2026-07-30T13:18:07.000Z"
+    },
+    {
       "id": "85f49e51",
       "filename": "pixiv_147811328_p0.jpg",
       "path": "uploads/2026/08/2e61ba43.jpg",
