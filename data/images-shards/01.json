@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "6063f6fd",
+      "filename": "pixiv_147803082_p0.jpg",
+      "path": "uploads/2026/08/c22499a8.jpg",
+      "size": 1058985,
+      "width": 1077,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "97d276ea4e8ec0308feb6c7828fdb37fe30fb2380ee9774bcdb1eb1ab406cf8e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:08:08.186Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "20260730",
+      "tags": [
+        "ヒマリ",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "明星ヒマリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147803082_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147803082",
+      "sourceCreatedAt": "2026-07-30T06:40:12.000Z"
+    },
+    {
       "id": "4a0b07ab",
       "filename": "pixiv_147821138_p0.jpg",
       "path": "uploads/2026/08/eda78164.jpg",
