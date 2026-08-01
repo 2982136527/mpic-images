@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "80dca2d1",
+      "filename": "pixiv_147776934_p0.jpg",
+      "path": "uploads/2026/08/9b9fa3e7.jpg",
+      "size": 501542,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "641b0d750349a4bbddec865a17d76597a1e37883f76fc33c0f2d0bb86bb1c079",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T03:39:34.550Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "SOYO",
+      "tags": [
+        "長崎そよ",
+        "Ave_Mujica",
+        "MyGO!!!!!",
+        "BanG_Dream!_It's_MyGO!!!!!",
+        "BanG_Dream!",
+        "バンドリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147776934_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147776934",
+      "sourceCreatedAt": "2026-07-29T12:14:21.000Z"
+    },
+    {
       "id": "fca7caf2",
       "filename": "pixiv_147784452_p0.jpg",
       "path": "uploads/2026/08/93fc7bd8.jpg",
