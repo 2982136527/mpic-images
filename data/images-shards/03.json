@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "d983d338",
+      "filename": "pixiv_147801017_p0.jpg",
+      "path": "uploads/2026/08/01cc915d.jpg",
+      "size": 733599,
+      "width": 995,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "05f111d7a5cacbaf640fa1ae42577da80f3f8f06f571b113d5891342b2896b77",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:11:40.028Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "レミ",
+      "tags": [
+        "レミエール・ダン",
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147801017_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147801017",
+      "sourceCreatedAt": "2026-07-30T04:54:30.000Z"
+    },
+    {
       "id": "379adb53",
       "filename": "pixiv_147800323_p0.jpg",
       "path": "uploads/2026/08/78a6cf8b.jpg",
