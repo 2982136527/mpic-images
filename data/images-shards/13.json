@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "e28f295f",
+      "filename": "pixiv_147834398_p0.jpg",
+      "path": "uploads/2026/08/132f89aa.jpg",
+      "size": 1623706,
+      "width": 1079,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "55cd65fc7325fef4aa001f5896defe19649f23f4074ae32adc132729f5972ec8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:07:10.072Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Skebまとめ4",
+      "tags": [
+        "女の子",
+        "Skeb"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147834398_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147834398",
+      "sourceCreatedAt": "2026-07-31T01:59:54.000Z"
+    },
+    {
       "id": "4d7c802f",
       "filename": "pixiv_147835422_p0.jpg",
       "path": "uploads/2026/08/4de19d72.jpg",
