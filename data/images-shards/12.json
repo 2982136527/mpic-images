@@ -3,6 +3,33 @@
   "shardId": "12",
   "images": [
     {
+      "id": "a69eeca3",
+      "filename": "pixiv_147784172_p0.jpg",
+      "path": "uploads/2026/08/3334e47a.jpg",
+      "size": 2126438,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b52c4694830f95a72df184c04c75caafb723ab02c5c472789a283eb2e9ac91c4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T03:38:45.150Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "いつもの3人",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "ゴルドルフ・ムジーク",
+        "シャーロック・ホームズ(Fate)",
+        "レオナルド・ダ・ヴィンチ(Fate)",
+        "ロリンチ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147784172_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147784172",
+      "sourceCreatedAt": "2026-07-29T15:00:14.000Z"
+    },
+    {
       "id": "1f5f58c7",
       "filename": "pixiv_147768747_p0.jpg",
       "path": "uploads/2026/07/f48088de.jpg",
