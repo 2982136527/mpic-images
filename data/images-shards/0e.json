@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "4d58107e",
+      "filename": "pixiv_147821063_p0.jpg",
+      "path": "uploads/2026/08/f25c8cea.jpg",
+      "size": 1083994,
+      "width": 1200,
+      "height": 712,
+      "mimeType": "image/jpeg",
+      "hash": "031fb8cbd40263fddd6c14d6669d3207566af6dfe4261c5afb9e7f2e0051aa5c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:10:15.497Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【 Work 】 hololive EN -Advent-",
+      "tags": [
+        "HololiveEN"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147821063_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147821063",
+      "sourceCreatedAt": "2026-07-30T15:00:06.000Z"
+    },
+    {
       "id": "374827ae",
       "filename": "pixiv_147821539_p0.jpg",
       "path": "uploads/2026/08/4a7356f9.jpg",
