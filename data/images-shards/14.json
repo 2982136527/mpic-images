@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "31ecf6eb",
+      "filename": "pixiv_147848474_p0.jpg",
+      "path": "uploads/2026/08/0418811e.jpg",
+      "size": 494364,
+      "width": 842,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fe30356561a01744ecf0f0566fa2aa4ce322532581123fe299a38b48796823fb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:09:04.041Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "オンシジューム",
+      "tags": [
+        "オリジナル",
+        "猫"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147848474_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147848474",
+      "sourceCreatedAt": "2026-07-31T10:50:16.000Z"
+    },
+    {
       "id": "584083a4",
       "filename": "pixiv_147808949_p0.jpg",
       "path": "uploads/2026/08/aa5db729.jpg",
