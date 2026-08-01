@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "2af6b78f",
+      "filename": "pixiv_147850379_p0.jpg",
+      "path": "uploads/2026/08/75ba7d98.jpg",
+      "size": 517846,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "2f11eb184ee9ef710b45ae9f396f6c00fba873e6c72ab6287dba2b42da9b39f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T17:08:17.510Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "レム",
+      "tags": [
+        "オリジナル",
+        "レム",
+        "レム(プロジェクトセカイ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147850379_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147850379",
+      "sourceCreatedAt": "2026-07-31T11:30:02.000Z"
+    },
+    {
       "id": "7c4045e0",
       "filename": "pixiv_147784171_p0.jpg",
       "path": "uploads/2026/08/ac793218.jpg",
