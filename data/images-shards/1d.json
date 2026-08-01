@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "360a4b2d",
+      "filename": "pixiv_147761702_p0.jpg",
+      "path": "uploads/2026/08/7881e6ad.jpg",
+      "size": 1089154,
+      "width": 647,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6bf5a29fdcb8106390f7e41b4f1537c22c0a5f3a1eb02754cdbf09395a406e56",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T03:39:45.862Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "レミエール・ダン",
+      "tags": [
+        "レミエール・ダン",
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147761702_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147761702",
+      "sourceCreatedAt": "2026-07-29T03:00:09.000Z"
+    },
+    {
       "id": "723c8b90",
       "filename": "pixiv_147777201_p0.jpg",
       "path": "uploads/2026/07/6f594fb7.jpg",
