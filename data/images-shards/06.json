@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "1fc9517c",
+      "filename": "pixiv_147845514_p0.jpg",
+      "path": "uploads/2026/08/e6dd60e1.jpg",
+      "size": 1509909,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2c320e268824e472ca2f44a55495fbf27b62e51aa04d3607493d53f0845bb061",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T17:12:38.580Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ララアンセムFA",
+      "tags": [
+        "Shadowverse",
+        "シャドバWB",
+        "シャドウバース",
+        "ララアンセム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147845514_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147845514",
+      "sourceCreatedAt": "2026-07-31T09:36:20.000Z"
+    },
+    {
       "id": "5bdd1c9d",
       "filename": "pixiv_147841078_p0.jpg",
       "path": "uploads/2026/08/4b5959e5.jpg",
