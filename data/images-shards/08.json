@@ -3,6 +3,28 @@
   "shardId": "08",
   "images": [
     {
+      "id": "0a333275",
+      "filename": "pixiv_147788506_p0.jpg",
+      "path": "uploads/2026/08/b0ad2846.jpg",
+      "size": 1202394,
+      "width": 803,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9da48cc7452a1d890132c809ad9620c7f30b0d08b96b50e7925f3db743a98873",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T03:39:00.849Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Shyfruits",
+      "tags": [
+        "shyfruits"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147788506_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147788506",
+      "sourceCreatedAt": "2026-07-29T16:56:10.000Z"
+    },
+    {
       "id": "496d4594",
       "filename": "pixiv_147755362_p0.jpg",
       "path": "uploads/2026/07/45bbe253.jpg",
