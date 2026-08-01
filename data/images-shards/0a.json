@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "588c35a4",
+      "filename": "pixiv_147850197_p0.jpg",
+      "path": "uploads/2026/08/6bf4ac58.jpg",
+      "size": 615788,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a7d563eeb7d9058bab7cd1d5a1a32b5fa855bc96c04564c61d61b2d2b45af21b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T17:09:51.967Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "8月のカレンダー",
+      "tags": [
+        "おばちぇ",
+        "創作",
+        "オリジナル",
+        "カレンダーリマインダー",
+        "カレンダー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147850197_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147850197",
+      "sourceCreatedAt": "2026-07-31T11:25:30.000Z"
+    },
+    {
       "id": "82c4c231",
       "filename": "pixiv_147842928_p0.jpg",
       "path": "uploads/2026/08/cd092180.jpg",
