@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "dd9099ae",
+      "filename": "pixiv_147843092_p0.jpg",
+      "path": "uploads/2026/08/2e04301f.jpg",
+      "size": 451980,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2f4d4a761d7421916659d2a69bc10e9ea6b97ab7149e7f841c473613061fc292",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:13:25.087Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "8・蜘・ま",
+      "tags": [
+        "Limbus_Company",
+        "LimbusCompany",
+        "蜘蛛の巣"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147843092_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147843092",
+      "sourceCreatedAt": "2026-07-31T08:26:32.000Z"
+    },
+    {
       "id": "d983d338",
       "filename": "pixiv_147801017_p0.jpg",
       "path": "uploads/2026/08/01cc915d.jpg",
