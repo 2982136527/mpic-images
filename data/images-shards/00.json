@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "059440d3",
+      "filename": "pixiv_147818687_p0.jpg",
+      "path": "uploads/2026/08/39ea921f.jpg",
+      "size": 951548,
+      "width": 845,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dd80c53ce4c6de74ebf240060da23993f8ba7219000fd55528ddb1bb9b1fc1f6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:07:52.845Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "「私と遊んでくれるの？」",
+      "tags": [
+        "東方Project",
+        "フランドール・スカーレット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147818687_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147818687",
+      "sourceCreatedAt": "2026-07-30T14:03:03.000Z"
+    },
+    {
       "id": "12506e00",
       "filename": "pixiv_147644820_p0.jpg",
       "path": "uploads/2026/08/4be6819e.jpg",
