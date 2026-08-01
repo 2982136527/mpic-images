@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "82c4c231",
+      "filename": "pixiv_147842928_p0.jpg",
+      "path": "uploads/2026/08/cd092180.jpg",
+      "size": 952818,
+      "width": 844,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "50de12fae7b4713b58f3900fca0ea04bc44013dedbd2087fc9c4d25b5a3d5ad0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:08:00.520Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "商業BL「嫌いにならないでね」2",
+      "tags": [
+        "商業BL",
+        "創作BL"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147842928_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147842928",
+      "sourceCreatedAt": "2026-07-31T08:18:45.000Z"
+    },
+    {
       "id": "4f2276f1",
       "filename": "pixiv_147834693_p0.jpg",
       "path": "uploads/2026/08/d882c3fd.jpg",
