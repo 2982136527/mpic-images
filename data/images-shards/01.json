@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "9c916d4c",
+      "filename": "pixiv_147821844_p0.jpg",
+      "path": "uploads/2026/08/c090fd73.jpg",
+      "size": 860390,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a9630af1c4106e128f17daae117ada22613fd26cfc4985b60bce49dfefa57476",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T17:14:18.013Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ライザリン・シュタウト拘束",
+      "tags": [
+        "ライザのアトリエ",
+        "猿轡",
+        "拘束",
+        "ライザリン・シュタウト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147821844_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147821844",
+      "sourceCreatedAt": "2026-07-30T15:08:06.000Z"
+    },
+    {
       "id": "67f166aa",
       "filename": "pixiv_147831398_p0.jpg",
       "path": "uploads/2026/08/d75c2eac.jpg",
