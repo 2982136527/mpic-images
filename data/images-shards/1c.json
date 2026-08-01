@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "76b9c5e6",
+      "filename": "pixiv_147822544_p0.jpg",
+      "path": "uploads/2026/08/0064861c.jpg",
+      "size": 786365,
+      "width": 1200,
+      "height": 728,
+      "mimeType": "image/jpeg",
+      "hash": "31f08af799edab37aa5751cc9edd87f364ee692ba777145d231abb67ad839c56",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:11:17.112Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Shiver",
+      "tags": [
+        "スプラトゥーン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147822544_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147822544",
+      "sourceCreatedAt": "2026-07-30T15:24:09.000Z"
+    },
+    {
       "id": "1db3fdc1",
       "filename": "pixiv_147845838_p0.jpg",
       "path": "uploads/2026/08/ce966060.jpg",
