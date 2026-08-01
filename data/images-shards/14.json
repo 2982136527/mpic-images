@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "584083a4",
+      "filename": "pixiv_147808949_p0.jpg",
+      "path": "uploads/2026/08/aa5db729.jpg",
+      "size": 1074237,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "23a85879ab9a01f428e2ff14362774b144bc76cad1ec6c25ca0430f9f8c870ab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T03:41:29.953Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【動画絵】夏霞の魔女",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "夏霞の魔女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147808949_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147808949",
+      "sourceCreatedAt": "2026-07-30T10:14:13.000Z"
+    },
+    {
       "id": "aec9080f",
       "filename": "pixiv_147810589_p0.jpg",
       "path": "uploads/2026/07/7c88c5f6.jpg",
