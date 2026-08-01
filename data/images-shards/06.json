@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "02ba3720",
+      "filename": "pixiv_147803783_p0.jpg",
+      "path": "uploads/2026/08/5ddc726a.jpg",
+      "size": 832350,
+      "width": 1173,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ec7b820b1a9a021d7eec154db662d07c008915c0daea700debc832d76f09bbd7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T03:43:55.098Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "五悠ログ10",
+      "tags": [
+        "腐術廻戦",
+        "五悠",
+        "漫画",
+        "BL"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147803783_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147803783",
+      "sourceCreatedAt": "2026-07-30T07:34:01.000Z"
+    },
+    {
       "id": "a424cd45",
       "filename": "pixiv_147809313_p0.jpg",
       "path": "uploads/2026/07/6fbb383e.jpg",
