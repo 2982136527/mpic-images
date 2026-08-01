@@ -3,6 +3,28 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "3ee4983c",
+      "filename": "pixiv_147808302_p0.jpg",
+      "path": "uploads/2026/08/b3c91350.jpg",
+      "size": 972685,
+      "width": 842,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e2238162d7ff3518412a995ff058563a58bdc6a1ad99d44d6bfcdaf383e73c44",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:12:45.673Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "吸血姫ちゃん",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147808302_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147808302",
+      "sourceCreatedAt": "2026-07-30T09:58:58.000Z"
+    },
+    {
       "id": "4fe65dfc",
       "filename": "pixiv_147842703_p0.jpg",
       "path": "uploads/2026/08/284dc4ba.jpg",
