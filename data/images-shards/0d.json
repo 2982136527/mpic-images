@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "dc90fec4",
+      "filename": "pixiv_147821078_p0.jpg",
+      "path": "uploads/2026/08/a5803523.jpg",
+      "size": 912885,
+      "width": 700,
+      "height": 979,
+      "mimeType": "image/jpeg",
+      "hash": "3252bc0c34788d4a2070533e19ca4199a6bb07527c1d6d77f1e4a7a32b463f83",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:10:59.291Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Clarté Pure",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147821078_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147821078",
+      "sourceCreatedAt": "2026-07-30T15:00:08.000Z"
+    },
+    {
       "id": "1d5e7592",
       "filename": "pixiv_147848561_p0.jpg",
       "path": "uploads/2026/08/bbd11131.jpg",
