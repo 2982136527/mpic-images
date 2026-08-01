@@ -3,6 +3,34 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "1db3fdc1",
+      "filename": "pixiv_147845838_p0.jpg",
+      "path": "uploads/2026/08/ce966060.jpg",
+      "size": 1452733,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "63ad903543197058ec59fbaf81ea254a5752b54eae49c59492f51d1b7ae71fc6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:10:51.666Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "日常①",
+      "tags": [
+        "原创",
+        "女の子",
+        "うちの子",
+        "くすぐり",
+        "制服",
+        "百合",
+        "日常"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147845838_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147845838",
+      "sourceCreatedAt": "2026-07-31T09:46:29.000Z"
+    },
+    {
       "id": "317adb0a",
       "filename": "pixiv_147846571_p0.jpg",
       "path": "uploads/2026/08/285e973f.jpg",
