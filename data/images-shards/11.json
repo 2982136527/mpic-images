@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "0b188290",
+      "filename": "pixiv_147813905_p0.jpg",
+      "path": "uploads/2026/08/43211b41.jpg",
+      "size": 981544,
+      "width": 859,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "427db6df065736d20edbd2c739a6932bc8c8cf396e15ec6da9c60e09083d1161",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T03:39:51.391Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "サクラコ",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "ブルアカ",
+        "歌住サクラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147813905_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147813905",
+      "sourceCreatedAt": "2026-07-30T12:15:06.000Z"
+    },
+    {
       "id": "3e7bec0e",
       "filename": "pixiv_147813106_p0.jpg",
       "path": "uploads/2026/08/735a0dbb.jpg",
