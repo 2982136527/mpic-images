@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "ecba0768",
+      "filename": "pixiv_147825859_p0.jpg",
+      "path": "uploads/2026/08/ecf6fb97.jpg",
+      "size": 1163079,
+      "width": 1200,
+      "height": 725,
+      "mimeType": "image/jpeg",
+      "hash": "a50db0873f7b4076603be82bfce18f862669f889ef4e474529e8a123e604406b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:09:41.413Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "美",
+      "tags": [
+        "ゴッドイーター2レイジバースト",
+        "ヴィーナス(ゴッドイーター)",
+        "アラガミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147825859_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147825859",
+      "sourceCreatedAt": "2026-07-30T17:13:57.000Z"
+    },
+    {
       "id": "24b5fe02",
       "filename": "pixiv_147811536_p0.jpg",
       "path": "uploads/2026/08/1594b646.jpg",
