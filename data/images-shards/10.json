@@ -3,6 +3,35 @@
   "shardId": "10",
   "images": [
     {
+      "id": "74c57347",
+      "filename": "pixiv_147803907_p0.jpg",
+      "path": "uploads/2026/08/f8404bf3.jpg",
+      "size": 910411,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9c0fefcae95a3bb7a87780561edaf6a3496fcfecbbd00781ba9be9083b1244fd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:10:29.907Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ビビアンちゃんコラボ衣装",
+      "tags": [
+        "ビビアン(ゼンゼロ)",
+        "ビビアン・バンシー",
+        "VivianBanshee",
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "ゼンゼロ",
+        "绝区零",
+        "ZOZOTOWN"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147803907_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147803907",
+      "sourceCreatedAt": "2026-07-30T07:19:47.000Z"
+    },
+    {
       "id": "19351d37",
       "filename": "pixiv_147784179_p0.jpg",
       "path": "uploads/2026/08/3295ddd0.jpg",
