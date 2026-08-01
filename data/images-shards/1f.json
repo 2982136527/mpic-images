@@ -3,6 +3,35 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "35c5839d",
+      "filename": "pixiv_147821117_p0.jpg",
+      "path": "uploads/2026/08/ba59625f.jpg",
+      "size": 459189,
+      "width": 785,
+      "height": 990,
+      "mimeType": "image/jpeg",
+      "hash": "e2ebf8e95e8c264f39229d2bc46b13a4fc415d85d1a57e42dc60d6c12b5ca1cb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:06:01.134Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "春の終わりに君を待つ",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "蒼きアズライール",
+        "グレイ・リリィ",
+        "ゴルドルフ・ムジーク",
+        "オルガマリー・アニムスフィア",
+        "アスカラポス(Fate)",
+        "そこまでにしておけよロバーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147821117_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147821117",
+      "sourceCreatedAt": "2026-07-30T15:00:13.000Z"
+    },
+    {
       "id": "4ae2c0f0",
       "filename": "pixiv_147794148_p0.jpg",
       "path": "uploads/2026/07/901dc504.jpg",
