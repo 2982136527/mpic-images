@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "b1540707",
+      "filename": "pixiv_147784128_p0.jpg",
+      "path": "uploads/2026/08/5b9d0c09.jpg",
+      "size": 1143590,
+      "width": 860,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "47573d42b9f1914d1e2b28bd42f9fe643e7f0457277473ef20549856df7bb82a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:06:18.332Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Alice",
+      "tags": [
+        "オリジナル",
+        "イヴちゃん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147784128_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147784128",
+      "sourceCreatedAt": "2026-07-29T15:00:08.000Z"
+    },
+    {
       "id": "1e5e339d",
       "filename": "pixiv_147826722_p0.jpg",
       "path": "uploads/2026/08/9ccec42f.jpg",
