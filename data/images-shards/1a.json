@@ -3,6 +3,35 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "b5847cc9",
+      "filename": "pixiv_147837890_p0.jpg",
+      "path": "uploads/2026/08/46b27f6a.jpg",
+      "size": 845730,
+      "width": 975,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a8c879c76e9f389e65eedd45c7dd4014549481ee3156b967b9e956ae056ca581",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T17:14:40.330Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "remielle~",
+      "tags": [
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ",
+        "绝区零",
+        "ゼンゼロ",
+        "zzzero",
+        "RemielleDan",
+        "レミエール・ダン",
+        "ラミル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147837890_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147837890",
+      "sourceCreatedAt": "2026-07-31T04:38:26.000Z"
+    },
+    {
       "id": "f0be51ab",
       "filename": "pixiv_147824188_p0.jpg",
       "path": "uploads/2026/08/0f240674.jpg",
