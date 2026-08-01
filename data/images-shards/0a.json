@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "8694ac42",
+      "filename": "pixiv_147840803_p0.jpg",
+      "path": "uploads/2026/08/5a30b124.jpg",
+      "size": 785323,
+      "width": 708,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "c1f0c502b0b402a599ebe0402a08a65d5da4d5584753495cc31826185257b850",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T17:10:24.849Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【お仕事】『めめんともりと奇妙なゲーム2』",
+      "tags": [
+        "お仕事",
+        "めめ村",
+        "めめんともり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147840803_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147840803",
+      "sourceCreatedAt": "2026-07-31T06:57:21.000Z"
+    },
+    {
       "id": "588c35a4",
       "filename": "pixiv_147850197_p0.jpg",
       "path": "uploads/2026/08/6bf4ac58.jpg",
