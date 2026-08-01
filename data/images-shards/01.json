@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "88d9bcbb",
+      "filename": "pixiv_147803558_p0.jpg",
+      "path": "uploads/2026/08/63652db4.jpg",
+      "size": 513807,
+      "width": 1200,
+      "height": 663,
+      "mimeType": "image/jpeg",
+      "hash": "c91a61028055566caf386ca60d38e4690b56ecb12c7a8580dfe6481dfb150af1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T17:14:22.988Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "마마아아앙",
+      "tags": [
+        "노조미",
+        "블루아카이브",
+        "BlueArchive",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147803558_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147803558",
+      "sourceCreatedAt": "2026-07-30T07:02:00.000Z"
+    },
+    {
       "id": "9c916d4c",
       "filename": "pixiv_147821844_p0.jpg",
       "path": "uploads/2026/08/c090fd73.jpg",
