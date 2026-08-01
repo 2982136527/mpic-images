@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "a001943e",
+      "filename": "pixiv_147786539_p0.jpg",
+      "path": "uploads/2026/08/d7e938a4.jpg",
+      "size": 1031947,
+      "width": 777,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a741d511834bf3eef5ba7f68cd6caf34e5a8f82eeba1970662af956eb5810f6b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T17:11:18.509Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Cyrene",
+      "tags": [
+        "崩壊スターレイル",
+        "キュレネ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147786539_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147786539",
+      "sourceCreatedAt": "2026-07-29T15:48:22.000Z"
+    },
+    {
       "id": "f83ce1e1",
       "filename": "pixiv_147855943_p0.jpg",
       "path": "uploads/2026/08/5e99c6ee.jpg",
