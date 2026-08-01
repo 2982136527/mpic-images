@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "d707a5c7",
+      "filename": "pixiv_147840604_p0.jpg",
+      "path": "uploads/2026/08/b02a62b3.jpg",
+      "size": 376725,
+      "width": 902,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3498a6eae8bd09f3e331070d0b7859d8ed6c79967aa82353c67d7bb8d57b64d5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:11:47.107Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Cms July",
+      "tags": [
+        "皮モノ",
+        "TSF",
+        "Skinsuit"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147840604_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147840604",
+      "sourceCreatedAt": "2026-07-31T06:47:52.000Z"
+    },
+    {
       "id": "7c8e98de",
       "filename": "pixiv_147795051_p0.jpg",
       "path": "uploads/2026/08/3416d8b1.jpg",
