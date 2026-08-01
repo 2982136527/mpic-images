@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "e87d1cc7",
+      "filename": "pixiv_147834122_p0.jpg",
+      "path": "uploads/2026/08/b9f99197.jpg",
+      "size": 1440794,
+      "width": 1200,
+      "height": 929,
+      "mimeType": "image/jpeg",
+      "hash": "6cb71c5a960a9eae7a2e624be716af9e152902ca2ceb9ac2a477129710ee797c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T17:10:15.377Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Commission",
+      "tags": [
+        "女の子",
+        "ピンク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147834122_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147834122",
+      "sourceCreatedAt": "2026-07-31T01:42:51.000Z"
+    },
+    {
       "id": "02ba3720",
       "filename": "pixiv_147803783_p0.jpg",
       "path": "uploads/2026/08/5ddc726a.jpg",
