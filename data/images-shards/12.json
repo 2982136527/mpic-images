@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "d32a38c5",
+      "filename": "pixiv_147801591_p0.jpg",
+      "path": "uploads/2026/08/54e1987c.jpg",
+      "size": 747721,
+      "width": 803,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "19320d4d94638d3ebce02eeb9fc451bf834f005b0cf3a3632590c52b40746d9d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T03:40:38.693Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "初星ファンタジア　姫崎莉波",
+      "tags": [
+        "学園アイドルマスター",
+        "学マス",
+        "初星ファンタジア",
+        "姫崎莉波"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147801591_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147801591",
+      "sourceCreatedAt": "2026-07-30T05:24:03.000Z"
+    },
+    {
       "id": "2c629305",
       "filename": "pixiv_147802561_p0.jpg",
       "path": "uploads/2026/08/96ddac03.jpg",
