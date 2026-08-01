@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "fca7caf2",
+      "filename": "pixiv_147784452_p0.jpg",
+      "path": "uploads/2026/08/93fc7bd8.jpg",
+      "size": 1075680,
+      "width": 686,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "879ca43342ebf79a6561807b1df32b05c71541ef3cc10e457b9bebe08b863d4c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T03:37:15.243Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "「一瞬だって, 永遠になる。」",
+      "tags": [
+        "女の子",
+        "ゼンゼロ",
+        "ゼンレスゾーンゼロ",
+        "レミエール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147784452_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147784452",
+      "sourceCreatedAt": "2026-07-29T15:01:30.000Z"
+    },
+    {
       "id": "2dbf76f5",
       "filename": "pixiv_147784251_p0.jpg",
       "path": "uploads/2026/07/530b9cf8.jpg",
