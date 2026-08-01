@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "379adb53",
+      "filename": "pixiv_147800323_p0.jpg",
+      "path": "uploads/2026/08/78a6cf8b.jpg",
+      "size": 680214,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a141b3a29516e27654f360b7e0942c686d96c697bc79f7fc69bd1c6135ac6c62",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T10:10:22.811Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "古明地こいし",
+        "古明地さとり",
+        "東方",
+        "東方Project",
+        "古明地姉妹"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147800323_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147800323",
+      "sourceCreatedAt": "2026-07-30T04:18:12.000Z"
+    },
+    {
       "id": "08f39bd4",
       "filename": "pixiv_147845041_p0.jpg",
       "path": "uploads/2026/08/631e975a.jpg",
