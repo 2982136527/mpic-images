@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "7c4045e0",
+      "filename": "pixiv_147784171_p0.jpg",
+      "path": "uploads/2026/08/ac793218.jpg",
+      "size": 1031993,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "add80126de694d5a8f908c79f94fab4bb20daa0be343be9d4f941442ce0a1e97",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-01T03:40:55.437Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "兎田ぺこら",
+      "tags": [
+        "バーチャルYouTuber",
+        "VTuber",
+        "ホロライブ",
+        "hololive",
+        "兎田ぺこら",
+        "バーチャルYouTuber500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147784171_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147784171",
+      "sourceCreatedAt": "2026-07-29T15:00:14.000Z"
+    },
+    {
       "id": "17a1db4e",
       "filename": "pixiv_147774350_p0.jpg",
       "path": "uploads/2026/08/150cdc49.jpg",
