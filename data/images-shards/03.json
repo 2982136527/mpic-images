@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "44254840",
+      "filename": "pixiv_147860865_p0.jpg",
+      "path": "uploads/2026/08/0bcae612.jpg",
+      "size": 1254277,
+      "width": 726,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bce72ecdb7ab4efa4ff5fcaf2790d6264327b34140206970e2f99c3c663d67b1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:08:07.631Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "シトラリ　パジャマ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "シトラリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147860865_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147860865",
+      "sourceCreatedAt": "2026-07-31T15:00:25.000Z"
+    },
+    {
       "id": "b5e5df5e",
       "filename": "pixiv_147821061_p0.jpg",
       "path": "uploads/2026/08/7dc46b0d.jpg",
