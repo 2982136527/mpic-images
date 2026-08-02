@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "1c47cd29",
+      "filename": "pixiv_147844858_p0.jpg",
+      "path": "uploads/2026/08/6c348e22.jpg",
+      "size": 1653771,
+      "width": 1000,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "756da632ff82c0e6385eae739718be2133028b610b994c488427d4d0c5e51505",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T17:10:57.266Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "歪なる進歩",
+      "tags": [
+        "仕事絵",
+        "Shadowverse",
+        "EVOLVE"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147844858_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147844858",
+      "sourceCreatedAt": "2026-07-31T09:17:42.000Z"
+    },
+    {
       "id": "dfeff0a2",
       "filename": "pixiv_147896314_p0.jpg",
       "path": "uploads/2026/08/941b3dd4.jpg",
