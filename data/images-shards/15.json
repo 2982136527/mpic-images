@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "e0525d61",
+      "filename": "pixiv_147859967_p0.jpg",
+      "path": "uploads/2026/08/60e6ff0a.jpg",
+      "size": 768003,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "67e39de2ca5e00693a4385902ea45e0c5da614ba2f0ef3ae07ee751e889e2489",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:05:09.892Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "かわいい",
+      "tags": [
+        "The_Amazing_Digital_Circus",
+        "Pomni",
+        "Jax",
+        "JaxxPomni"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147859967_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147859967",
+      "sourceCreatedAt": "2026-07-31T14:47:09.000Z"
+    },
+    {
       "id": "9679c18c",
       "filename": "pixiv_147864402_p0.jpg",
       "path": "uploads/2026/08/50cc8358.jpg",
