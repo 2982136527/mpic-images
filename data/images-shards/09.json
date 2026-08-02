@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "dd4cf4fe",
+      "filename": "pixiv_147844995_p0.jpg",
+      "path": "uploads/2026/08/0ea2b542.jpg",
+      "size": 453193,
+      "width": 1200,
+      "height": 801,
+      "mimeType": "image/jpeg",
+      "hash": "d614919441dcb688320ebffb9e00f34dcdccc18b5acda4c8b45c6e0dbcd751dd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:06:20.743Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "落書きスタレ日記",
+      "tags": [
+        "崩壊スターレイル",
+        "落書き"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147844995_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147844995",
+      "sourceCreatedAt": "2026-07-31T09:22:19.000Z"
+    },
+    {
       "id": "7d29f86f",
       "filename": "pixiv_147895139_p0.jpg",
       "path": "uploads/2026/08/bf336af6.jpg",
