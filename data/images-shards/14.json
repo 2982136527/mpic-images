@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "fd762524",
+      "filename": "pixiv_147860577_p0.jpg",
+      "path": "uploads/2026/08/07e149a5.jpg",
+      "size": 1205044,
+      "width": 1200,
+      "height": 806,
+      "mimeType": "image/jpeg",
+      "hash": "7b4a8afa08fc908b324e8e542bf26478b65de8e810c897cc19fca5f534524491",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:04:32.705Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "トレモロ",
+      "tags": [
+        "天月",
+        "トレモロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147860577_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147860577",
+      "sourceCreatedAt": "2026-07-31T14:59:07.000Z"
+    },
+    {
       "id": "03aa1a09",
       "filename": "pixiv_147853024_p0.jpg",
       "path": "uploads/2026/08/cec464d0.jpg",
