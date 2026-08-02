@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "218bdb29",
+      "filename": "pixiv_147869790_p0.jpg",
+      "path": "uploads/2026/08/4ece8d75.jpg",
+      "size": 571950,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5601a7f2a939dcc82fee5a39e48dee7880af721daece35545dc1fd640fa0b428",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T17:12:26.533Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ミクコス一歌",
+      "tags": [
+        "プロセカ",
+        "プロジェクトセカイ",
+        "星乃一歌",
+        "ふともも",
+        "いっちゃん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147869790_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147869790",
+      "sourceCreatedAt": "2026-07-31T20:54:52.000Z"
+    },
+    {
       "id": "89b2908d",
       "filename": "pixiv_147869472_p0.jpg",
       "path": "uploads/2026/08/ebeda8fc.jpg",
