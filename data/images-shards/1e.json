@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "0dcc328a",
+      "filename": "pixiv_147634408_p0.jpg",
+      "path": "uploads/2026/08/70235aa5.jpg",
+      "size": 695796,
+      "width": 515,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "abc01f71026a4930922afcc3208042afd303011fd270e80b8cf49e704799b5a6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T17:15:30.626Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "DAY100",
+      "tags": [
+        "HonkaiImpact3rd",
+        "Elysia",
+        "崩坏3rd",
+        "爱莉希雅"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147634408_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147634408",
+      "sourceCreatedAt": "2026-07-25T16:44:20.000Z"
+    },
+    {
       "id": "f0a21457",
       "filename": "pixiv_147890958_p0.jpg",
       "path": "uploads/2026/08/9718ec99.jpg",
