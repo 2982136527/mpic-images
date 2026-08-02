@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "c3c2d335",
+      "filename": "pixiv_147888063_p0.jpg",
+      "path": "uploads/2026/08/097b59ba.jpg",
+      "size": 299497,
+      "width": 931,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e724581c61da137f1d41f9c652f0b2a9085785c797a5b06f42690fdfb39a46e4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:07:39.307Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "水着ハベにゃん実装めでたい。",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "ハベトロット(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147888063_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147888063",
+      "sourceCreatedAt": "2026-08-01T08:59:56.000Z"
+    },
+    {
       "id": "c44f3016",
       "filename": "pixiv_147822082_p0.jpg",
       "path": "uploads/2026/08/a2a1cd4a.jpg",
