@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "7f9786a1",
+      "filename": "pixiv_147801399_p0.jpg",
+      "path": "uploads/2026/08/67dd9a44.jpg",
+      "size": 931687,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "29a5208ac0ebd9ae66d7bf01aaadb35627fb426e6610f395d689b9ce3c51fccb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T03:36:49.800Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Manato ZZZ",
+      "tags": [
+        "ZZZ(ズィー・ゼー・ゾー)",
+        "manato"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147801399_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147801399",
+      "sourceCreatedAt": "2026-07-30T05:13:26.000Z"
+    },
+    {
       "id": "f8d006df",
       "filename": "pixiv_147834414_p0.jpg",
       "path": "uploads/2026/08/0c4b1438.jpg",
