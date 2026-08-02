@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "e8e57aef",
+      "filename": "pixiv_147853447_p0.jpg",
+      "path": "uploads/2026/08/3ce11c8a.jpg",
+      "size": 364256,
+      "width": 839,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d94068dced420323f51a4c4385dd073972f76dc7cb6f2c6e16142ad5188334bb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T17:15:05.665Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "dcst LOG",
+      "tags": [
+        "dcst腐向け",
+        "SAI龍"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147853447_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147853447",
+      "sourceCreatedAt": "2026-07-31T12:32:50.000Z"
+    },
+    {
       "id": "37fb9ee2",
       "filename": "pixiv_147895130_p0.jpg",
       "path": "uploads/2026/08/a3345b0c.jpg",
