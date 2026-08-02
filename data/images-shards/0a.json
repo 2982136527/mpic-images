@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "ae263e92",
+      "filename": "pixiv_147876217_p0.jpg",
+      "path": "uploads/2026/08/01cd3218.jpg",
+      "size": 944605,
+      "width": 1024,
+      "height": 691,
+      "mimeType": "image/jpeg",
+      "hash": "e8988e7d941a57817340650cce15809ab297f4e9c8beeb30178e883dd8e9279d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T17:14:34.814Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "遠坂凛",
+      "tags": [
+        "女の子",
+        "遠坂凛",
+        "Fate",
+        "Fate/staynight"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147876217_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147876217",
+      "sourceCreatedAt": "2026-08-01T01:51:09.000Z"
+    },
+    {
       "id": "723593e3",
       "filename": "pixiv_147860666_p0.jpg",
       "path": "uploads/2026/08/421ef896.jpg",
