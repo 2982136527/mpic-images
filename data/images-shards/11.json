@@ -3,6 +3,35 @@
   "shardId": "11",
   "images": [
     {
+      "id": "c415fc38",
+      "filename": "pixiv_147837706_p0.jpg",
+      "path": "uploads/2026/08/8e3d002f.jpg",
+      "size": 1002255,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a4dda5c38bfbf6a0574ee635ec2a306b6896cf8933b9716068f7dc849545e64a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T03:38:37.593Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Witch's Garden",
+      "tags": [
+        "女の子",
+        "少女",
+        "魔女",
+        "イラスト",
+        "魔女帽子",
+        "OC",
+        "原创",
+        "ハイヒール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147837706_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147837706",
+      "sourceCreatedAt": "2026-07-31T04:29:55.000Z"
+    },
+    {
       "id": "c327f5d6",
       "filename": "pixiv_147800290_p0.jpg",
       "path": "uploads/2026/08/af04debb.jpg",
