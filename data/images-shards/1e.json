@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "c8f8b11a",
+      "filename": "pixiv_147848111_p0.jpg",
+      "path": "uploads/2026/08/fb2e7579.jpg",
+      "size": 1276632,
+      "width": 744,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b6a6de8dcc5355a6828f92233144da388fecc5dfb25a4c5c125febb072c98f7f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:11:04.225Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Client OC - Arachne ver",
+      "tags": [
+        "アラクネ",
+        "蜘蛛娘",
+        "Skeb"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147848111_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147848111",
+      "sourceCreatedAt": "2026-07-31T10:40:56.000Z"
+    },
+    {
       "id": "c1179893",
       "filename": "pixiv_147866420_p0.jpg",
       "path": "uploads/2026/08/333a1dcb.jpg",
