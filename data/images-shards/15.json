@@ -3,6 +3,33 @@
   "shardId": "15",
   "images": [
     {
+      "id": "368fee34",
+      "filename": "pixiv_147797446_p0.jpg",
+      "path": "uploads/2026/08/d0dbc96f.jpg",
+      "size": 1232160,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a5debc4e81544338922a91965d8392d750767d3f55ca2017f213671262d80cb5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T03:38:20.660Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "秧秧・玄翎",
+      "tags": [
+        "WutheringWaves",
+        "명조",
+        "鳴潮",
+        "鸣潮",
+        "YangyangXuanling",
+        "秧秧・玄翎"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147797446_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147797446",
+      "sourceCreatedAt": "2026-07-30T02:01:26.000Z"
+    },
+    {
       "id": "ccf7d19b",
       "filename": "pixiv_147801368_p0.jpg",
       "path": "uploads/2026/08/69307ccf.jpg",
