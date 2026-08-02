@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "0bd70d6a",
+      "filename": "pixiv_147863012_p0.jpg",
+      "path": "uploads/2026/08/56a39ad7.jpg",
+      "size": 802546,
+      "width": 806,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7a98c8b661d41493868ca48a497149097ec2b5b197e9e2b65be9b123c2d89ab2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:05:02.677Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "原神/GenshinImpact - Lumine",
+      "tags": [
+        "GenshinImpact",
+        "蛍(原神)",
+        "原神",
+        "Lumine",
+        "冬の夜を狩る者",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147863012_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147863012",
+      "sourceCreatedAt": "2026-07-31T15:33:58.000Z"
+    },
+    {
       "id": "2cab59eb",
       "filename": "pixiv_147704699_p0.jpg",
       "path": "uploads/2026/08/f9996cf8.jpg",
