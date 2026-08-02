@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "543ca64f",
+      "filename": "pixiv_147877948_p0.jpg",
+      "path": "uploads/2026/08/7108c05a.jpg",
+      "size": 1527236,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "646e72d786633d0e85785afa303c04e4b0fd75a9cda621d8cf7d31d76f2150df",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:10:49.755Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Nikke Anchor(アンカー)",
+      "tags": [
+        "female",
+        "fanart",
+        "NIKKE",
+        "勝利の女神:NIKKE",
+        "アンカー(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147877948_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147877948",
+      "sourceCreatedAt": "2026-08-01T03:00:13.000Z"
+    },
+    {
       "id": "749cd507",
       "filename": "pixiv_147862448_p0.jpg",
       "path": "uploads/2026/08/67be08ff.jpg",
