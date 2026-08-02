@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "c44f3016",
+      "filename": "pixiv_147822082_p0.jpg",
+      "path": "uploads/2026/08/a2a1cd4a.jpg",
+      "size": 851629,
+      "width": 807,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1658acc3057a9b13e99489fbbec76f79d0c8b38ac99d7b48ea91490e6491cf1e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:04:00.964Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "キャストリス・グレープスカッシュ",
+      "tags": [
+        "崩壊スターレイル",
+        "女の子",
+        "HonkaiStarRail",
+        "キャストリス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147822082_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147822082",
+      "sourceCreatedAt": "2026-07-30T15:13:03.000Z"
+    },
+    {
       "id": "431d711f",
       "filename": "pixiv_147816592_p0.jpg",
       "path": "uploads/2026/08/fd2d532a.jpg",
