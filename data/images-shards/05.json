@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "937f9127",
+      "filename": "pixiv_147847082_p0.jpg",
+      "path": "uploads/2026/08/7e24dae3.jpg",
+      "size": 737668,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2e018a27295974529bb787e352618ba6c45ff9ad4faf54d792aa280cc4e671f9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:08:41.524Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "、",
+      "tags": [
+        "アークナイツ",
+        "エンドフィールド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147847082_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147847082",
+      "sourceCreatedAt": "2026-07-31T10:14:17.000Z"
+    },
+    {
       "id": "a7bcb58e",
       "filename": "pixiv_147842931_p0.jpg",
       "path": "uploads/2026/08/a282f0b6.jpg",
