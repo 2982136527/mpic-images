@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "ecf4197a",
+      "filename": "pixiv_147850433_p0.jpg",
+      "path": "uploads/2026/08/59133776.jpg",
+      "size": 795834,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7b5e1f498b63777e63181ba88d895e01af046f4d188972ed9af72cc450cb4c36",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T03:36:38.910Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ゼクロム",
+      "tags": [
+        "ゼクロム",
+        "ポケットモンスター",
+        "ポケモン",
+        "厚塗り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147850433_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147850433",
+      "sourceCreatedAt": "2026-07-31T11:30:21.000Z"
+    },
+    {
       "id": "3476feb7",
       "filename": "pixiv_147853148_p0.jpg",
       "path": "uploads/2026/08/66e84a73.jpg",
