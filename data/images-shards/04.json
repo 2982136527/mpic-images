@@ -3,6 +3,28 @@
   "shardId": "04",
   "images": [
     {
+      "id": "78dcc732",
+      "filename": "pixiv_147850949_p0.jpg",
+      "path": "uploads/2026/08/35edd088.jpg",
+      "size": 410684,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3ad00dbe25c9cbb6e06e9d29d8ebc20d74ef5e2f15cc0cef2a937c565c0440e5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:06:13.503Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "621、スイカだ",
+      "tags": [
+        "621(犬)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147850949_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147850949",
+      "sourceCreatedAt": "2026-07-31T11:42:28.000Z"
+    },
+    {
       "id": "9bf2d87d",
       "filename": "pixiv_147844743_p0.jpg",
       "path": "uploads/2026/08/d6ab1e39.jpg",
