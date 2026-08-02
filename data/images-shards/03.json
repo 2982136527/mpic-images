@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "b5e5df5e",
+      "filename": "pixiv_147821061_p0.jpg",
+      "path": "uploads/2026/08/7dc46b0d.jpg",
+      "size": 574528,
+      "width": 462,
+      "height": 653,
+      "mimeType": "image/jpeg",
+      "hash": "4cdba7672fa95a8b67169e1d5964e1d2ee7fba70350d0ad706e6eb66aa5b4e38",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T03:39:47.907Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リリィ",
+      "tags": [
+        "パルワールド",
+        "リリィ(パルワールド)",
+        "美少女",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147821061_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147821061",
+      "sourceCreatedAt": "2026-07-30T15:00:06.000Z"
+    },
+    {
       "id": "dd9099ae",
       "filename": "pixiv_147843092_p0.jpg",
       "path": "uploads/2026/08/2e04301f.jpg",
