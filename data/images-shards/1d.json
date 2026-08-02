@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "ed40810c",
+      "filename": "pixiv_147824470_p0.jpg",
+      "path": "uploads/2026/08/88033339.jpg",
+      "size": 436061,
+      "width": 631,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5f362b895cf1bf5f0d2dbcb0fae2596ba10e3f76dd4ad250ea6f7f6f1f572df7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T17:14:58.356Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "외모지상주의"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147824470_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147824470",
+      "sourceCreatedAt": "2026-07-30T16:20:38.000Z"
+    },
+    {
       "id": "1c47cd29",
       "filename": "pixiv_147844858_p0.jpg",
       "path": "uploads/2026/08/6c348e22.jpg",
