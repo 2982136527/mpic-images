@@ -3,6 +3,33 @@
   "shardId": "08",
   "images": [
     {
+      "id": "8ae540b2",
+      "filename": "pixiv_147884253_p0.jpg",
+      "path": "uploads/2026/08/bd0e7de3.jpg",
+      "size": 651331,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3a76e0e8dc19fdd9885bd4b73b9590311e36e7867558b45c6e0e79d341fd41a7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T03:41:10.626Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "マリチル",
+      "tags": [
+        "東方Project",
+        "チルノ",
+        "霧雨魔理沙",
+        "チルマリ",
+        "ドロワーズ",
+        "ドロチラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147884253_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147884253",
+      "sourceCreatedAt": "2026-08-01T06:50:42.000Z"
+    },
+    {
       "id": "865ca057",
       "filename": "pixiv_147838722_p0.jpg",
       "path": "uploads/2026/08/fa135054.jpg",
