@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "3a515ea5",
+      "filename": "pixiv_147831818_p0.jpg",
+      "path": "uploads/2026/08/2ff95c2b.jpg",
+      "size": 899420,
+      "width": 964,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dd8324f9bf50d67403538140b0542c697feb0df3d520de400e919328365b822e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T03:37:02.190Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "7月のskeb",
+      "tags": [
+        "ケモミミ",
+        "桜田シロ",
+        "ぱんつ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147831818_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147831818",
+      "sourceCreatedAt": "2026-07-30T23:32:03.000Z"
+    },
+    {
       "id": "2e0bd8ee",
       "filename": "pixiv_147847363_p0.jpg",
       "path": "uploads/2026/08/9d8dc463.jpg",
