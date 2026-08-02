@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "2cab59eb",
+      "filename": "pixiv_147704699_p0.jpg",
+      "path": "uploads/2026/08/f9996cf8.jpg",
+      "size": 841770,
+      "width": 790,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9b9bed6482587d7a5513e4fad628835b762e51c7a2e4d3bbbc7a6b33bd75d872",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T03:43:32.745Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "26",
+      "tags": [
+        "アズールレーン",
+        "プリマス(アズールレーン)",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147704699_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147704699",
+      "sourceCreatedAt": "2026-07-27T12:24:36.000Z"
+    },
+    {
       "id": "72c83fb0",
       "filename": "pixiv_147827581_p0.jpg",
       "path": "uploads/2026/08/978fac7e.jpg",
