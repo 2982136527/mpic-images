@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "03aa1a09",
+      "filename": "pixiv_147853024_p0.jpg",
+      "path": "uploads/2026/08/cec464d0.jpg",
+      "size": 2368562,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "613b1b06707b1cac2fcda83f9ab17a410600d3a6e69001cda7e2bc602dcb5154",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T03:40:07.732Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "７月まとめ",
+      "tags": [
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147853024_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147853024",
+      "sourceCreatedAt": "2026-07-31T12:25:17.000Z"
+    },
+    {
       "id": "3af0e8e8",
       "filename": "pixiv_147784146_p0.jpg",
       "path": "uploads/2026/08/1c40923c.jpg",
