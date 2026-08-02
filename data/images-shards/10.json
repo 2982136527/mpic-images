@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "6d055478",
+      "filename": "pixiv_147787220_p0.jpg",
+      "path": "uploads/2026/08/db0fd208.jpg",
+      "size": 1374800,
+      "width": 649,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "00b7b574052084cba778fcd733f343375b8f6a0897b4661dd8b67e0053c0bbc7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T03:39:30.825Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "女の子",
+        "ゼンゼロ",
+        "zzzero",
+        "绝区零",
+        "ドラキナ・サンブリンガー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147787220_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147787220",
+      "sourceCreatedAt": "2026-07-29T16:06:58.000Z"
+    },
+    {
       "id": "a8bdcee3",
       "filename": "pixiv_147784389_p0.jpg",
       "path": "uploads/2026/08/81d79758.jpg",
