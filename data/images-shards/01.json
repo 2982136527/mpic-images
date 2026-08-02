@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "55d5b5b6",
+      "filename": "pixiv_147848879_p0.jpg",
+      "path": "uploads/2026/08/d0e82ba4.jpg",
+      "size": 1448679,
+      "width": 1200,
+      "height": 709,
+      "mimeType": "image/jpeg",
+      "hash": "0f7f7315a9d7e36c3dd6c2d9cf5f8e7278f31f0f29e6406c20f7b1e47568ba9e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:09:38.388Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "運命の紡ぎ手",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "ウルズ(Fate)",
+        "第二再臨"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147848879_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147848879",
+      "sourceCreatedAt": "2026-07-31T11:00:07.000Z"
+    },
+    {
       "id": "7d1099fe",
       "filename": "pixiv_147834910_p0.jpg",
       "path": "uploads/2026/08/219c18e8.jpg",
