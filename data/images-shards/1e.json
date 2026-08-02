@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "f1e8bdc0",
+      "filename": "pixiv_147862470_p0.jpg",
+      "path": "uploads/2026/08/0d2b97a2.jpg",
+      "size": 898912,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6b5c3fa33c4eee9a244cf32d5c6d8aa57a67eb356f47c83d16a9b2e5192dc23d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:11:11.437Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏チルノ",
+      "tags": [
+        "東方",
+        "チルノ",
+        "夏",
+        "東方紅魔郷NewClassic"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147862470_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147862470",
+      "sourceCreatedAt": "2026-07-31T15:22:14.000Z"
+    },
+    {
       "id": "c8f8b11a",
       "filename": "pixiv_147848111_p0.jpg",
       "path": "uploads/2026/08/fb2e7579.jpg",
