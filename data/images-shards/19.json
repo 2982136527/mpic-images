@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "20a86214",
+      "filename": "pixiv_147891845_p0.jpg",
+      "path": "uploads/2026/08/ba79d731.jpg",
+      "size": 569480,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4c13a4593f3d487be629bc29e633c4a15fab8dc3454c5e9e244720b8c66d039a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:10:40.045Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "梓夢",
+      "tags": [
+        "オリジナル",
+        "一次創作夢",
+        "創作夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147891845_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147891845",
+      "sourceCreatedAt": "2026-08-01T10:33:20.000Z"
+    },
+    {
       "id": "beeeedab",
       "filename": "pixiv_147868425_p0.jpg",
       "path": "uploads/2026/08/f6ea3c4e.jpg",
