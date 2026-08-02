@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "157de44a",
+      "filename": "pixiv_147869115_p0.jpg",
+      "path": "uploads/2026/08/09ef8cf3.jpg",
+      "size": 1035466,
+      "width": 1000,
+      "height": 707,
+      "mimeType": "image/jpeg",
+      "hash": "153fa2e613407dbe787b6bd16fa0a0ab8b120d8c1192f4b66888f03bbf0074e6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:05:59.430Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "スケブ依頼⑨",
+      "tags": [
+        "スケブ",
+        "skeb"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147869115_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147869115",
+      "sourceCreatedAt": "2026-07-31T20:05:55.000Z"
+    },
+    {
       "id": "51404191",
       "filename": "pixiv_147828658_p0.jpg",
       "path": "uploads/2026/08/c95cc327.jpg",
