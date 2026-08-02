@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "ccd5c279",
+      "filename": "pixiv_147893473_p0.jpg",
+      "path": "uploads/2026/08/1c2e9726.jpg",
+      "size": 1567550,
+      "width": 791,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "43e512fe77538e803cbffd99fc70045f96916fa31dc96baf1afd59d35d53d47c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T03:40:02.752Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ペリカ",
+      "tags": [
+        "Arknights:Endfield",
+        "明日方舟终末地",
+        "アークナイツ:エンドフィールド",
+        "ペリカ(エンドフィールド)",
+        "Perlica"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147893473_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147893473",
+      "sourceCreatedAt": "2026-08-01T11:10:10.000Z"
+    },
+    {
       "id": "86141700",
       "filename": "pixiv_147841812_p0.jpg",
       "path": "uploads/2026/08/a5c4097a.jpg",
