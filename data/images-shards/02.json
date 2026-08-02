@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "dbdb8d2d",
+      "filename": "pixiv_147863927_p0.jpg",
+      "path": "uploads/2026/08/bf79fbc0.jpg",
+      "size": 1569390,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "38e97e86f6e8d872d9579ac596ce7e227cbc372d86700df71c6849697cd8afcf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:11:21.898Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "幸せを願ってごめんなさい",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "夏目アンアン",
+        "ココロノクライ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147863927_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147863927",
+      "sourceCreatedAt": "2026-07-31T15:59:28.000Z"
+    },
+    {
       "id": "f38dd19c",
       "filename": "pixiv_147850153_p0.jpg",
       "path": "uploads/2026/08/c4cf8b9c.jpg",
