@@ -3,6 +3,33 @@
   "shardId": "05",
   "images": [
     {
+      "id": "a7bcb58e",
+      "filename": "pixiv_147842931_p0.jpg",
+      "path": "uploads/2026/08/a282f0b6.jpg",
+      "size": 1232767,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "425885b5009c75376fa73fd2707ad3202a545b13238cb5d8a62e9343b379b93f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:06:30.332Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "PJSK",
+      "tags": [
+        "プロジェクトセカイ",
+        "鳳えむ",
+        "星乃一歌",
+        "望月穂波",
+        "foodplay",
+        "天馬咲希"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147842931_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147842931",
+      "sourceCreatedAt": "2026-07-31T08:19:22.000Z"
+    },
+    {
       "id": "d23dff0a",
       "filename": "pixiv_147689452_p0.jpg",
       "path": "uploads/2026/08/acc3851d.jpg",
