@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "81a1b2b3",
+      "filename": "pixiv_147864752_p0.jpg",
+      "path": "uploads/2026/08/9f50dd47.jpg",
+      "size": 733654,
+      "width": 1000,
+      "height": 563,
+      "mimeType": "image/jpeg",
+      "hash": "bcbd001d4089ac32e56c10986048b74a97b0c4169ad021f5aa45cd341d85e4bb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T03:40:55.687Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "指揮官様…♡",
+      "tags": [
+        "アズールレーン",
+        "フランドル(アズールレーン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147864752_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147864752",
+      "sourceCreatedAt": "2026-07-31T16:24:35.000Z"
+    },
+    {
       "id": "024387e4",
       "filename": "pixiv_147817535_p0.jpg",
       "path": "uploads/2026/08/e14f98dc.jpg",
