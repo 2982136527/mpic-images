@@ -3,6 +3,33 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "723593e3",
+      "filename": "pixiv_147860666_p0.jpg",
+      "path": "uploads/2026/08/421ef896.jpg",
+      "size": 928546,
+      "width": 1200,
+      "height": 653,
+      "mimeType": "image/jpeg",
+      "hash": "2a91bf26fd99bc5d05c7d97cb2a27fb4c221d363ec88482681c632ab41b9af8c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:04:07.504Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "镜世界-中立区-20-安息之地",
+      "tags": [
+        "風景",
+        "背景",
+        "场景",
+        "少女",
+        "女の子",
+        "水鏡"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147860666_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147860666",
+      "sourceCreatedAt": "2026-07-31T15:00:01.000Z"
+    },
+    {
       "id": "664c0f67",
       "filename": "pixiv_147814765_p0.jpg",
       "path": "uploads/2026/08/ca2b2f7b.jpg",
