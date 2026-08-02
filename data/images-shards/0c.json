@@ -3,6 +3,28 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "5da02cb5",
+      "filename": "pixiv_147860723_p0.jpg",
+      "path": "uploads/2026/08/f79ce91d.jpg",
+      "size": 1986565,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e46cc4229eecf6e2becc6e62036ab28cc2143a0a7a8d3616538c70b4385d5ea4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:10:16.277Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "HonkaiStarRail -1 【 Work 】",
+      "tags": [
+        "HonkaiStarRail"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147860723_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147860723",
+      "sourceCreatedAt": "2026-07-31T15:00:07.000Z"
+    },
+    {
       "id": "96b0cd84",
       "filename": "pixiv_147855725_p0.jpg",
       "path": "uploads/2026/08/942556da.jpg",
