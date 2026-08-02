@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "0120aaa5",
+      "filename": "pixiv_147795968_p0.jpg",
+      "path": "uploads/2026/08/43f10647.jpg",
+      "size": 1248112,
+      "width": 845,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2530a532242b87b903a09444387073963dcc53a837ec1934a759926380727beb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T03:39:53.064Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【C108新刊&お品書き】",
+      "tags": [
+        "コミックマーケット108",
+        "C108",
+        "空崎ヒナ",
+        "ブルアカ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147795968_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147795968",
+      "sourceCreatedAt": "2026-07-30T00:33:02.000Z"
+    },
+    {
       "id": "0b684fb2",
       "filename": "pixiv_147814163_p0.jpg",
       "path": "uploads/2026/08/f0b9df39.jpg",
