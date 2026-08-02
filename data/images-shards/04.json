@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "a3300511",
+      "filename": "pixiv_147826503_p0.jpg",
+      "path": "uploads/2026/08/5b41a15e.jpg",
+      "size": 420756,
+      "width": 500,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "983969efad4f1e1e6aa6a753d3172671443306b5c948522c82582849e2edf8be",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T17:10:15.105Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "綾波レイ",
+      "tags": [
+        "綾波レイ",
+        "新世紀エヴァンゲリオン",
+        "エヴァンゲリオン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147826503_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147826503",
+      "sourceCreatedAt": "2026-07-30T17:50:37.000Z"
+    },
+    {
       "id": "94665fb7",
       "filename": "pixiv_147852327_p0.jpg",
       "path": "uploads/2026/08/81ec5c6c.jpg",
