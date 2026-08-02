@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "ab98a36e",
+      "filename": "pixiv_147901810_p0.jpg",
+      "path": "uploads/2026/08/6e6fa0b1.jpg",
+      "size": 963246,
+      "width": 772,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "21a1fa455fae0785650b948be43ce109dcce0b07190aa651199b8e3e30ef1d49",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T17:08:24.606Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "アシッド",
+      "tags": [
+        "maimai",
+        "女の子",
+        "アシッド(maimai)",
+        "花と女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147901810_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147901810",
+      "sourceCreatedAt": "2026-08-01T14:06:49.000Z"
+    },
+    {
       "id": "3426b397",
       "filename": "pixiv_147867792_p0.jpg",
       "path": "uploads/2026/08/5788149a.jpg",
