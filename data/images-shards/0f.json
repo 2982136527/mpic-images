@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "621ffc4e",
+      "filename": "pixiv_147893975_p0.jpg",
+      "path": "uploads/2026/08/05f70b3d.jpg",
+      "size": 920553,
+      "width": 789,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "affa5f1e38a22a019eb52e4322a41950e456bb79be168605502b54f33dfe0558",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:07:24.628Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "27",
+      "tags": [
+        "アズールレーン",
+        "グリフィン(アズールレーン)",
+        "饅頭(アズールレーン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147893975_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147893975",
+      "sourceCreatedAt": "2026-08-01T11:22:37.000Z"
+    },
+    {
       "id": "05c25bbf",
       "filename": "pixiv_147882333_p0.jpg",
       "path": "uploads/2026/08/16467f96.jpg",
