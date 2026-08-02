@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "7d1099fe",
+      "filename": "pixiv_147834910_p0.jpg",
+      "path": "uploads/2026/08/219c18e8.jpg",
+      "size": 1016412,
+      "width": 676,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "837b354220108ef03b736fabedd9e3d8574cdcd03c8853b32f0b7c5e5a33c96d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T10:09:17.306Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "今日份小吱噢",
+      "tags": [
+        "小吱",
+        "异环"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147834910_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147834910",
+      "sourceCreatedAt": "2026-07-31T02:27:22.000Z"
+    },
+    {
       "id": "fd3685b9",
       "filename": "pixiv_147826127_p0.jpg",
       "path": "uploads/2026/08/79940580.jpg",
