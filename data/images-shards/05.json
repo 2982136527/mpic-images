@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "d23dff0a",
+      "filename": "pixiv_147689452_p0.jpg",
+      "path": "uploads/2026/08/acc3851d.jpg",
+      "size": 299950,
+      "width": 624,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "857b3e364db22ad7c11e35f3b3d724345586a37b52488afd2d4e6b969036ca64",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-02T03:43:56.215Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リリス（ミニキャラ）",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "リリス",
+        "リリス(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147689452_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147689452",
+      "sourceCreatedAt": "2026-07-27T03:14:22.000Z"
+    },
+    {
       "id": "cf38eb2f",
       "filename": "pixiv_147897046_p0.jpg",
       "path": "uploads/2026/08/113d8a63.jpg",
