@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "8c610a14",
+      "filename": "pixiv_147899780_p0.jpg",
+      "path": "uploads/2026/08/09d95e7f.jpg",
+      "size": 931289,
+      "width": 1200,
+      "height": 588,
+      "mimeType": "image/jpeg",
+      "hash": "4a54623c09a26bbd7a10f36075e9762f63ef126624794bd1615c63aa5a1bb62b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:38:12.913Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "絆",
+      "tags": [
+        "デジモン",
+        "8/1"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147899780_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147899780",
+      "sourceCreatedAt": "2026-08-01T13:25:17.000Z"
+    },
+    {
       "id": "948f3975",
       "filename": "pixiv_147860848_p0.jpg",
       "path": "uploads/2026/08/2db5dd6f.jpg",
