@@ -3,6 +3,28 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "708fb821",
+      "filename": "pixiv_147893637_p0.jpg",
+      "path": "uploads/2026/08/31cf21ea.jpg",
+      "size": 1227948,
+      "width": 959,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "158a044a5e491d6ffc1201498ba7414cc22dc8fbb5a569c361d2c4bb4577026e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:44:12.929Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "副シャンlog⑧",
+      "tags": [
+        "副シャン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147893637_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147893637",
+      "sourceCreatedAt": "2026-08-01T11:14:12.000Z"
+    },
+    {
       "id": "8c610a14",
       "filename": "pixiv_147899780_p0.jpg",
       "path": "uploads/2026/08/09d95e7f.jpg",
