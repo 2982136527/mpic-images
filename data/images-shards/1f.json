@@ -3,6 +3,37 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "411381c7",
+      "filename": "pixiv_147882519_p0.jpg",
+      "path": "uploads/2026/08/60e0d2d2.jpg",
+      "size": 564769,
+      "width": 792,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9b4df32a333db695ef197eba95ede96180762887f486a80411c4ad9452dfe3ef",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:35:47.993Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "銀狼",
+      "tags": [
+        "銀狼(スターレイル)",
+        "ラバースーツ",
+        "ぴっちりスーツ",
+        "競泳水着",
+        "HonkaiStarRail",
+        "星穹铁道",
+        "崩壊:スターレイル",
+        "ハイレグ",
+        "風船ガム",
+        "崩壊:スターレイル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147882519_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147882519",
+      "sourceCreatedAt": "2026-08-01T05:47:02.000Z"
+    },
+    {
       "id": "191944a5",
       "filename": "pixiv_147895000_p0.jpg",
       "path": "uploads/2026/08/70171ff4.jpg",
