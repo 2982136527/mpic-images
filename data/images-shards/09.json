@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "9bdfcc88",
+      "filename": "pixiv_147924261_p0.jpg",
+      "path": "uploads/2026/08/670c9dd1.jpg",
+      "size": 1067188,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "5c55a07dea959a1b264de0148bbe526c7adb9e8d798a3523621c9430d03b2dab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T17:59:12.614Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "子非鱼",
+      "tags": [
+        "少女",
+        "裸足",
+        "原创",
+        "泳装"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147924261_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147924261",
+      "sourceCreatedAt": "2026-08-02T04:37:05.000Z"
+    },
+    {
       "id": "12253379",
       "filename": "pixiv_147901591_p0.jpg",
       "path": "uploads/2026/08/2c81b4d7.jpg",
