@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "c76deeb2",
+      "filename": "pixiv_147878796_p0.jpg",
+      "path": "uploads/2026/08/728e8814.jpg",
+      "size": 1225625,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f8baea8e21db8b435c01a9e613f2fa59287ae57c7c0ac2403f4663c38e086199",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T17:58:48.841Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ブラックウッドの遺言",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "白髪",
+        "TRPG",
+        "クトゥルフ神話TRPG"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147878796_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147878796",
+      "sourceCreatedAt": "2026-08-01T03:25:42.000Z"
+    },
+    {
       "id": "533d3ac1",
       "filename": "pixiv_147731100_p0.jpg",
       "path": "uploads/2026/08/07843541.jpg",
