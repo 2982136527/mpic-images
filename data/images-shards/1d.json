@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "05e705bb",
+      "filename": "pixiv_147847273_p0.jpg",
+      "path": "uploads/2026/08/e896788e.jpg",
+      "size": 656343,
+      "width": 1001,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d5f8c0393904a14c48a7a35509e7681d810733c713b05251047b65ee7613aff1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:39:42.335Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "しゃぼん",
+      "tags": [
+        "しゃぼん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147847273_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147847273",
+      "sourceCreatedAt": "2026-07-31T10:19:20.000Z"
+    },
+    {
       "id": "ed40810c",
       "filename": "pixiv_147824470_p0.jpg",
       "path": "uploads/2026/08/88033339.jpg",
