@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "cb57088d",
+      "filename": "pixiv_147891144_p0.jpg",
+      "path": "uploads/2026/08/1e3aee84.jpg",
+      "size": 840684,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "636a1445f6e39b79da4e64a1f2caa321e33d72f2ce8fe6c98378c292f9c5a16d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:40:37.242Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "うちの子水着絵",
+      "tags": [
+        "オリジナル",
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147891144_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147891144",
+      "sourceCreatedAt": "2026-08-01T10:15:53.000Z"
+    },
+    {
       "id": "43e71387",
       "filename": "pixiv_147936408_p0.jpg",
       "path": "uploads/2026/08/827960c8.jpg",
