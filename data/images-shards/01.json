@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "f746506a",
+      "filename": "pixiv_147739480_p0.jpg",
+      "path": "uploads/2026/08/1320ffe5.jpg",
+      "size": 1342361,
+      "width": 876,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d8a9cce33fd72c4c42f3f233a70e21681337795ba0e16ec22a3e909078ed0e5f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:42:07.153Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ゼンゼロコラボ🍫",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "イヴリン・シェヴァリエ",
+        "女の子",
+        "ゼンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147739480_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147739480",
+      "sourceCreatedAt": "2026-07-28T11:45:14.000Z"
+    },
+    {
       "id": "a4520940",
       "filename": "pixiv_147866101_p0.jpg",
       "path": "uploads/2026/08/154000aa.jpg",
