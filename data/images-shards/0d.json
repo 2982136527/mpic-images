@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "c2a865f7",
+      "filename": "pixiv_147904332_p0.jpg",
+      "path": "uploads/2026/08/75ecb99e.jpg",
+      "size": 825764,
+      "width": 748,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14f634f009d2c92c8fa45875af2e08fa57d57482458d008ce5dde5079170179f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:41:19.346Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "nikke Helm fanart",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "水着",
+        "ヘルム(勝利の女神:NIKKE)",
+        "青髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147904332_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147904332",
+      "sourceCreatedAt": "2026-08-01T15:00:14.000Z"
+    },
+    {
       "id": "442f355d",
       "filename": "pixiv_147874064_p0.jpg",
       "path": "uploads/2026/08/447c336b.jpg",
