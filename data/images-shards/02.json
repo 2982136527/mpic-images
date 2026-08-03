@@ -3,6 +3,37 @@
   "shardId": "02",
   "images": [
     {
+      "id": "cfcb08a5",
+      "filename": "pixiv_147919142_p0.jpg",
+      "path": "uploads/2026/08/dfa587af.jpg",
+      "size": 385429,
+      "width": 540,
+      "height": 540,
+      "mimeType": "image/jpeg",
+      "hash": "a0e6c3a736f669c16da07e878adcc0f800d7e2dbfeda48f53e59037352b541bc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T18:00:27.762Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "杉ブラシ(森兼用)ブラシ",
+      "tags": [
+        "漫画素材工房",
+        "ClipStudioPaint",
+        "ComicStudio",
+        "クリップスタジオ",
+        "コミックスタジオ",
+        "素材",
+        "ブラシ素材",
+        "樹木",
+        "森",
+        "背景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147919142_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147919142",
+      "sourceCreatedAt": "2026-08-02T01:38:17.000Z"
+    },
+    {
       "id": "c76deeb2",
       "filename": "pixiv_147878796_p0.jpg",
       "path": "uploads/2026/08/728e8814.jpg",
