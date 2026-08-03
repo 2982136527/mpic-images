@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "b52156b4",
+      "filename": "pixiv_147904352_p0.jpg",
+      "path": "uploads/2026/08/46742d1b.jpg",
+      "size": 513837,
+      "width": 823,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "34708bc1a02c1efdd1e8228fb57713785b6bba51976deed1f3c5afe2301cd7a8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:45:40.195Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "百鬼あやめ",
+      "tags": [
+        "百鬼あやめ",
+        "バーチャルYouTuber",
+        "VTuber",
+        "ホロライブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147904352_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147904352",
+      "sourceCreatedAt": "2026-08-01T15:00:16.000Z"
+    },
+    {
       "id": "e5e1a994",
       "filename": "pixiv_147832019_p0.jpg",
       "path": "uploads/2026/08/a29f611a.jpg",
