@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "a59b7782",
+      "filename": "pixiv_147921262_p0.jpg",
+      "path": "uploads/2026/08/1502f9b7.jpg",
+      "size": 756093,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "d432ecb6f354eb17613ad6501e09b466595af58b0836d0ee5249fcb33be94c5f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:35:53.877Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "skeb",
+      "tags": [
+        "イラスト",
+        "背景",
+        "フリル",
+        "リボン",
+        "黒髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147921262_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147921262",
+      "sourceCreatedAt": "2026-08-02T02:59:08.000Z"
+    },
+    {
       "id": "fdfce601",
       "filename": "pixiv_147940570_p0.jpg",
       "path": "uploads/2026/08/f6b4ebfa.jpg",
