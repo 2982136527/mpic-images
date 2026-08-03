@@ -3,6 +3,33 @@
   "shardId": "03",
   "images": [
     {
+      "id": "a2ea6ad8",
+      "filename": "pixiv_147919093_p0.jpg",
+      "path": "uploads/2026/08/fece6711.jpg",
+      "size": 936176,
+      "width": 926,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4c43a1f58277091dfb1e51be4076f1d985128102cc312fe8111ac5dbe088d5c4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:43:44.481Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "エージェント2",
+      "tags": [
+        "エージェント(ドールズフロントライン)",
+        "ドールズフロントライン",
+        "ドルフロ",
+        "少女前線",
+        "소녀전선",
+        "鉄血工造"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147919093_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147919093",
+      "sourceCreatedAt": "2026-08-02T01:36:19.000Z"
+    },
+    {
       "id": "43e25869",
       "filename": "pixiv_147923504_p0.jpg",
       "path": "uploads/2026/08/e0581888.jpg",
