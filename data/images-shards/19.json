@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "2bafbbe6",
+      "filename": "pixiv_147931324_p0.jpg",
+      "path": "uploads/2026/08/1329b54b.jpg",
+      "size": 1051495,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "becd76abb888cbef5661bae4f3801e9f5c57d589a8c04e0a9dda8a080354d325",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:36:42.408Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "香川ミクさん",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147931324_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147931324",
+      "sourceCreatedAt": "2026-08-02T08:30:04.000Z"
+    },
+    {
       "id": "c8b709e3",
       "filename": "pixiv_147889797_p0.jpg",
       "path": "uploads/2026/08/43e6a517.jpg",
