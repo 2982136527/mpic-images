@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "ea1e72a4",
+      "filename": "pixiv_147921402_p0.jpg",
+      "path": "uploads/2026/08/22478b68.jpg",
+      "size": 790539,
+      "width": 619,
+      "height": 1086,
+      "mimeType": "image/jpeg",
+      "hash": "12aada1e491258a722eef164791ded08c079673d38d3e3357e03df9054823a5e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:41:46.757Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "白星 みづき",
+      "tags": [
+        "VTuber",
+        "白星みづき"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147921402_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147921402",
+      "sourceCreatedAt": "2026-08-02T03:00:26.000Z"
+    },
+    {
       "id": "0dcc328a",
       "filename": "pixiv_147634408_p0.jpg",
       "path": "uploads/2026/08/70235aa5.jpg",
