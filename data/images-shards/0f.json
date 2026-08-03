@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "30d8b6f6",
+      "filename": "pixiv_147847023_p0.jpg",
+      "path": "uploads/2026/08/004b77e0.jpg",
+      "size": 639416,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "08923ca94130c5aa1c007028dc9cfaf1ebf73481e625d3e006e128fd35cbe33e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:39:15.459Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "午后",
+      "tags": [
+        "少女",
+        "cat"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147847023_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147847023",
+      "sourceCreatedAt": "2026-07-31T10:12:37.000Z"
+    },
+    {
       "id": "93f56bcc",
       "filename": "pixiv_147879576_p0.jpg",
       "path": "uploads/2026/08/afeb4e9f.jpg",
