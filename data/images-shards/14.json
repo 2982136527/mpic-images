@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "35dd213e",
+      "filename": "pixiv_147922131_p0.jpg",
+      "path": "uploads/2026/08/bcd5ee39.jpg",
+      "size": 608643,
+      "width": 795,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "89f09dea5e621578093b5ed3957c9d5686e258e2fda52dfc487f1437619fd4ab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:40:59.991Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": ".",
+      "tags": [
+        "白銀の城",
+        "白银之城",
+        "gratia"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147922131_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147922131",
+      "sourceCreatedAt": "2026-08-02T03:21:58.000Z"
+    },
+    {
       "id": "482f6d7c",
       "filename": "pixiv_147864796_p0.jpg",
       "path": "uploads/2026/08/e1e2aa79.jpg",
