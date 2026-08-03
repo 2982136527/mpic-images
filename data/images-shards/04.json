@@ -3,6 +3,28 @@
   "shardId": "04",
   "images": [
     {
+      "id": "fec533ae",
+      "filename": "pixiv_147928769_p0.jpg",
+      "path": "uploads/2026/08/31cf5d8a.jpg",
+      "size": 909889,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7870d57d92073f8e16e735cb05887c91da64ac20e24d3b2f736640ca44c16438",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:38:23.969Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "しりとり",
+      "tags": [
+        "アスカガ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147928769_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147928769",
+      "sourceCreatedAt": "2026-08-02T07:12:03.000Z"
+    },
+    {
       "id": "a3300511",
       "filename": "pixiv_147826503_p0.jpg",
       "path": "uploads/2026/08/5b41a15e.jpg",
