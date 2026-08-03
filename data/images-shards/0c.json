@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "c830e062",
+      "filename": "pixiv_147905575_p0.jpg",
+      "path": "uploads/2026/08/69183921.jpg",
+      "size": 1674898,
+      "width": 1096,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "40ea3c34cb91d36940f8a6dfed404495eba74f1eafff1d3c11286f6cc0901832",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:43:02.695Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Aria",
+      "tags": [
+        "绝区零",
+        "爱芮",
+        "女の子",
+        "aria"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147905575_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147905575",
+      "sourceCreatedAt": "2026-08-01T15:15:06.000Z"
+    },
+    {
       "id": "20d42062",
       "filename": "pixiv_147837904_p0.jpg",
       "path": "uploads/2026/08/e05a2c7c.jpg",
