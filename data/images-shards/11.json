@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "1eb227e2",
+      "filename": "pixiv_147931037_p0.jpg",
+      "path": "uploads/2026/08/00e8a358.jpg",
+      "size": 627413,
+      "width": 755,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "11fa6316ae50b0c468dad1879d293278b6f056fc8e60ea0ba0d89a6770016c25",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:41:13.917Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "女の子",
+        "アークナイツ",
+        "明日方舟",
+        "アンブリエル(アークナイツ)",
+        "安比尔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147931037_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147931037",
+      "sourceCreatedAt": "2026-08-02T08:21:06.000Z"
+    },
+    {
       "id": "51b5031d",
       "filename": "pixiv_147939367_p0.jpg",
       "path": "uploads/2026/08/44a34c9d.jpg",
