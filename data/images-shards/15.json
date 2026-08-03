@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "d27c3dbb",
+      "filename": "pixiv_147874658_p0.jpg",
+      "path": "uploads/2026/08/018af3f2.jpg",
+      "size": 344496,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0c912a5efae1940258b43fc7b3604593db4345a92c4bd69135ca3379c03558c4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:45:17.310Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "2607きりたんとゆかりさんまとめ",
+      "tags": [
+        "東北きりたん",
+        "結月ゆかり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147874658_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147874658",
+      "sourceCreatedAt": "2026-08-01T00:50:17.000Z"
+    },
+    {
       "id": "999cfa48",
       "filename": "pixiv_147906047_p0.jpg",
       "path": "uploads/2026/08/bad9e714.jpg",
