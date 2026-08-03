@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "72fe927c",
+      "filename": "pixiv_147925427_p0.jpg",
+      "path": "uploads/2026/08/c9ba1490.jpg",
+      "size": 1659131,
+      "width": 640,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "71f7467e931b450f6f9527da7c4beda0970fd57ff4de7a4fcbfbd6e2ae8326db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T18:01:23.632Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Sigrid",
+      "tags": [
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ",
+        "绝区零",
+        "シグリッド・ドゥ・ラズール",
+        "リン(ゼンゼロ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147925427_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147925427",
+      "sourceCreatedAt": "2026-08-02T05:18:41.000Z"
+    },
+    {
       "id": "469a585b",
       "filename": "pixiv_147891689_p0.jpg",
       "path": "uploads/2026/08/0b56475c.jpg",
