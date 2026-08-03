@@ -3,6 +3,28 @@
   "shardId": "04",
   "images": [
     {
+      "id": "cef5fef8",
+      "filename": "pixiv_147924362_p0.jpg",
+      "path": "uploads/2026/08/813ad33d.jpg",
+      "size": 471044,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d3e819557cc7436a93b4459762fb0f80aa9d9cce1c26f0ce8f2357dccf179621",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:43:18.207Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "斉Ψ夢２",
+      "tags": [
+        "斉Ψ夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147924362_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147924362",
+      "sourceCreatedAt": "2026-08-02T04:41:02.000Z"
+    },
+    {
       "id": "4e750aab",
       "filename": "pixiv_147896965_p0.jpg",
       "path": "uploads/2026/08/f761ae39.jpg",
