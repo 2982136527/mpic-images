@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "c923a3ed",
+      "filename": "pixiv_147926461_p0.jpg",
+      "path": "uploads/2026/08/9071af1d.jpg",
+      "size": 1213742,
+      "width": 855,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "67775263d1d30cf384344b995f2f95e18955382b893134daba9224b8517e0b05",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:35:25.159Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "静かなる灯火を込めて",
+      "tags": [
+        "VTuber",
+        "虎眼ぼん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147926461_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147926461",
+      "sourceCreatedAt": "2026-08-02T05:53:57.000Z"
+    },
+    {
       "id": "ea1e72a4",
       "filename": "pixiv_147921402_p0.jpg",
       "path": "uploads/2026/08/22478b68.jpg",
