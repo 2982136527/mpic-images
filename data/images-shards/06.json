@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "db565bec",
+      "filename": "pixiv_147860840_p0.jpg",
+      "path": "uploads/2026/08/0a3e9d08.jpg",
+      "size": 1084552,
+      "width": 627,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0ad667deb0dd464170c357b6fc8e87c78e6d560f0d62d763560c4219269a4229",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T17:59:06.654Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "the Year of the Goat",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147860840_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147860840",
+      "sourceCreatedAt": "2026-07-31T15:00:21.000Z"
+    },
+    {
       "id": "dfafaad9",
       "filename": "pixiv_147895621_p0.jpg",
       "path": "uploads/2026/08/ca3e97d8.jpg",
