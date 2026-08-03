@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "74fda7c4",
+      "filename": "pixiv_147904415_p0.jpg",
+      "path": "uploads/2026/08/1d9bcf92.jpg",
+      "size": 755401,
+      "width": 905,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d013833bd63b2277a5a5d7f6a49d83a4cb12dc55abfcac6835b65b4298a0ca11",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T17:58:33.489Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "...",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "朝霧スオウ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147904415_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147904415",
+      "sourceCreatedAt": "2026-08-01T15:00:26.000Z"
+    },
+    {
       "id": "1eb227e2",
       "filename": "pixiv_147931037_p0.jpg",
       "path": "uploads/2026/08/00e8a358.jpg",
