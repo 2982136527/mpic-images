@@ -3,6 +3,32 @@
   "shardId": "19",
   "images": [
     {
+      "id": "f1af7e69",
+      "filename": "pixiv_147827271_p0.jpg",
+      "path": "uploads/2026/08/6412928a.jpg",
+      "size": 231769,
+      "width": 603,
+      "height": 642,
+      "mimeType": "image/jpeg",
+      "hash": "f0a2b9ed9d7b71f3f179048d789b33a0c77db364dae3709ea4d9fccff5309e3e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:40:48.561Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "飛鳥馬トキ",
+        "かんたんトキ",
+        "飛鳥馬トキ(制服)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147827271_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147827271",
+      "sourceCreatedAt": "2026-07-30T18:39:00.000Z"
+    },
+    {
       "id": "20a86214",
       "filename": "pixiv_147891845_p0.jpg",
       "path": "uploads/2026/08/ba79d731.jpg",
