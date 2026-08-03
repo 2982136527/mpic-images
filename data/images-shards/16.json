@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "dba96b8a",
+      "filename": "pixiv_147904385_p0.jpg",
+      "path": "uploads/2026/08/363b089e.jpg",
+      "size": 1179786,
+      "width": 876,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d0656cc921e73e69733063fadc4fab6362c8bf44f9a53ccb74323df0050ae62d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:38:07.188Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "あなたと見られてよかった",
+      "tags": [
+        "TwinBox学園",
+        "花火",
+        "浴衣",
+        "稲垣みなみ",
+        "ほんわか"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147904385_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147904385",
+      "sourceCreatedAt": "2026-08-01T15:00:21.000Z"
+    },
+    {
       "id": "ec607798",
       "filename": "pixiv_147882566_p0.jpg",
       "path": "uploads/2026/08/c703fda0.jpg",
