@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "999cfa48",
+      "filename": "pixiv_147906047_p0.jpg",
+      "path": "uploads/2026/08/bad9e714.jpg",
+      "size": 939586,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0d4e0653467dcf15150b8857f7f88f58c969dc9b41158926a667237c7898dcc6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:43:34.373Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ネコ水着",
+      "tags": [
+        "女の子",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147906047_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147906047",
+      "sourceCreatedAt": "2026-08-01T15:27:06.000Z"
+    },
+    {
       "id": "534cc6e9",
       "filename": "pixiv_147885522_p0.jpg",
       "path": "uploads/2026/08/b37926ac.jpg",
