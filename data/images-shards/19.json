@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "daa19538",
+      "filename": "pixiv_147919827_p0.jpg",
+      "path": "uploads/2026/08/3ad078e1.jpg",
+      "size": 894334,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "2b2d19700b0f85b2d5e752d1940c6f4d0d53e28a308b4f881977a7b6f3e9f7ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T18:01:58.488Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Nephernya",
+      "tags": [
+        "illustration",
+        "CLIPSTUDIOPAINT",
+        "commission",
+        "girl"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147919827_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147919827",
+      "sourceCreatedAt": "2026-08-02T02:04:46.000Z"
+    },
+    {
       "id": "3ea75be7",
       "filename": "pixiv_147938009_p0.jpg",
       "path": "uploads/2026/08/608aa726.jpg",
