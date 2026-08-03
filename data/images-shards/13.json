@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "4f6456be",
+      "filename": "pixiv_147937555_p0.jpg",
+      "path": "uploads/2026/08/445036fa.jpg",
+      "size": 1474760,
+      "width": 1200,
+      "height": 709,
+      "mimeType": "image/jpeg",
+      "hash": "31b9c9cd314b0d021488e22c814941d37e72533df0b3be4ce35ae85e084c3cec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T18:02:09.235Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "神を斬る剣",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "河上彦斎(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147937555_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147937555",
+      "sourceCreatedAt": "2026-08-02T11:00:03.000Z"
+    },
+    {
       "id": "2f7b1b3a",
       "filename": "pixiv_147878285_p0.jpg",
       "path": "uploads/2026/08/fa7390b8.jpg",
