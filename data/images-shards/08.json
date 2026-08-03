@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "d12ec6f7",
+      "filename": "pixiv_147875372_p0.jpg",
+      "path": "uploads/2026/08/089919e5.jpg",
+      "size": 1366489,
+      "width": 723,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "91f640f209762b653c60a632d36d4a8b7b55fc9af835802df89938c1913eae7d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:41:07.031Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Suisui",
+      "tags": [
+        "鳴潮",
+        "穂穂"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147875372_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147875372",
+      "sourceCreatedAt": "2026-08-01T01:16:48.000Z"
+    },
+    {
       "id": "d61c8d5d",
       "filename": "pixiv_147841219_p0.jpg",
       "path": "uploads/2026/08/6c909d86.jpg",
