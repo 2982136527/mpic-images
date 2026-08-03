@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "2be7daad",
+      "filename": "pixiv_147892791_p0.jpg",
+      "path": "uploads/2026/08/bcb67eb4.jpg",
+      "size": 1876814,
+      "width": 1200,
+      "height": 709,
+      "mimeType": "image/jpeg",
+      "hash": "6f41d4988acabe4421dc508306829bfe5c662465d068e7c51dcb2d302026245f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T18:02:15.487Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "旧き過去を紡ぐ糸",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "ウルズ(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147892791_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147892791",
+      "sourceCreatedAt": "2026-08-01T11:00:03.000Z"
+    },
+    {
       "id": "d61625c7",
       "filename": "pixiv_147732949_p0.jpg",
       "path": "uploads/2026/08/ed0796eb.jpg",
