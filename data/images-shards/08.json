@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "b690c8d6",
+      "filename": "pixiv_147861070_p0.jpg",
+      "path": "uploads/2026/08/f690d17b.jpg",
+      "size": 597774,
+      "width": 639,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8b8a0ebf2aad9812d7c3ec211164ff60c691cb72a8f69237c311ac99413b80d9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T17:59:36.331Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "サンキュバス",
+      "tags": [
+        "女の子",
+        "原神",
+        "GenshinImpact",
+        "サンドローネ(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147861070_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147861070",
+      "sourceCreatedAt": "2026-07-31T15:01:07.000Z"
+    },
+    {
       "id": "e85a1c68",
       "filename": "pixiv_147877157_p0.jpg",
       "path": "uploads/2026/08/bc46d4aa.jpg",
