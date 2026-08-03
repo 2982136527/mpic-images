@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "8e504678",
+      "filename": "pixiv_147892187_p0.jpg",
+      "path": "uploads/2026/08/bd33d9ae.jpg",
+      "size": 2137162,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57f876349beeb08a4700e71bb33c9aff36d2557611c5555d96dfb9de864ba1f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:42:14.328Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "에고뫼",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147892187_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147892187",
+      "sourceCreatedAt": "2026-08-01T10:42:57.000Z"
+    },
+    {
       "id": "dbdb8d2d",
       "filename": "pixiv_147863927_p0.jpg",
       "path": "uploads/2026/08/bf79fbc0.jpg",
