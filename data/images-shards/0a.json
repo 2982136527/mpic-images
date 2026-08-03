@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "f634c3d1",
+      "filename": "pixiv_147932072_p0.jpg",
+      "path": "uploads/2026/08/69b40f17.jpg",
+      "size": 909916,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a50a75513ffe574c1bf69887296b9f1883a5d95ac2f898465dca33e540754d9e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:41:51.830Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バニーの日",
+      "tags": [
+        "漫画",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147932072_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147932072",
+      "sourceCreatedAt": "2026-08-02T08:51:05.000Z"
+    },
+    {
       "id": "ae263e92",
       "filename": "pixiv_147876217_p0.jpg",
       "path": "uploads/2026/08/01cd3218.jpg",
