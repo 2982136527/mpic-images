@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "3785a0bc",
+      "filename": "pixiv_147902436_p0.jpg",
+      "path": "uploads/2026/08/e1ba46d0.jpg",
+      "size": 779014,
+      "width": 829,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6341fd2bb9e8798c594365cd2b51f3af1c63373aa7b3857a62dfb77210db7ed4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:39:21.031Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "bunny",
+      "tags": [
+        "人外",
+        "ロボ娘",
+        "Eurica",
+        "バニーガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147902436_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147902436",
+      "sourceCreatedAt": "2026-08-01T14:20:45.000Z"
+    },
+    {
       "id": "c4710048",
       "filename": "pixiv_147918128_p0.jpg",
       "path": "uploads/2026/08/b628d221.jpg",
