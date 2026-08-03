@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "c8b709e3",
+      "filename": "pixiv_147889797_p0.jpg",
+      "path": "uploads/2026/08/43e6a517.jpg",
+      "size": 936263,
+      "width": 1200,
+      "height": 1064,
+      "mimeType": "image/jpeg",
+      "hash": "0f5385d9fa6d14551694a3d777af2586e853d55ddb62801727e5621a65c6ee3a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:45:32.859Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "すくみずめたん",
+      "tags": [
+        "VOICEVOX",
+        "四国めたん",
+        "VOICEROID",
+        "ソフトウェアトーク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147889797_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147889797",
+      "sourceCreatedAt": "2026-08-01T09:44:52.000Z"
+    },
+    {
       "id": "1624d546",
       "filename": "pixiv_147905795_p0.jpg",
       "path": "uploads/2026/08/6a6d8522.jpg",
