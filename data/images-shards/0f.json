@@ -3,6 +3,28 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "5a221968",
+      "filename": "pixiv_147944812_p0.jpg",
+      "path": "uploads/2026/08/976c03d2.jpg",
+      "size": 221939,
+      "width": 745,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8e8893d7cb1dbe01f95635d2f3545624c53af628f30e8eeb51d7f9b9800e7790",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:42:36.836Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "小黑裙",
+      "tags": [
+        "oc"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147944812_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147944812",
+      "sourceCreatedAt": "2026-08-02T13:13:23.000Z"
+    },
+    {
       "id": "30d8b6f6",
       "filename": "pixiv_147847023_p0.jpg",
       "path": "uploads/2026/08/004b77e0.jpg",
