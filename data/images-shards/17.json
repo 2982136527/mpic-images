@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "e2aedbea",
+      "filename": "pixiv_147879288_p0.jpg",
+      "path": "uploads/2026/08/ddb1fd3e.jpg",
+      "size": 1354602,
+      "width": 707,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "87b2c2dfb827a80e375ac045b74b64c820ed01625096a0fe2c3496231eafff11",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:41:31.375Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リンネー",
+      "tags": [
+        "WutheringWaves",
+        "鸣潮",
+        "リンネー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147879288_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147879288",
+      "sourceCreatedAt": "2026-08-01T03:42:01.000Z"
+    },
+    {
       "id": "dfd61439",
       "filename": "pixiv_147861687_p0.jpg",
       "path": "uploads/2026/08/a554f8ba.jpg",
