@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "eb99f028",
+      "filename": "pixiv_147930706_p0.jpg",
+      "path": "uploads/2026/08/d56323a2.jpg",
+      "size": 829461,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8a9b910508857ceda3d2316ca0b3c90f2b985a110f5adf4d52c650b927d4a56b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T18:06:21.209Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "舜",
+      "tags": [
+        "giantess",
+        "巨大娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147930706_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147930706",
+      "sourceCreatedAt": "2026-08-02T08:11:18.000Z"
+    },
+    {
       "id": "08f3ecaa",
       "filename": "pixiv_147916698_p0.jpg",
       "path": "uploads/2026/08/44e2299c.jpg",
