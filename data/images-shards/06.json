@@ -3,6 +3,32 @@
   "shardId": "06",
   "images": [
     {
+      "id": "aee07d2a",
+      "filename": "pixiv_147922330_p0.jpg",
+      "path": "uploads/2026/08/f1bd62af.jpg",
+      "size": 515976,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "0dab4a2e3c344d3e9f7e2b403b2d2ccc8e0d34b2d2e07bb6e7579660778c2c03",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:39:51.177Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "男性の手がうまく描けない人へ",
+      "tags": [
+        "講座",
+        "ハウツー",
+        "ノウハウ",
+        "練習法",
+        "描き方"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147922330_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147922330",
+      "sourceCreatedAt": "2026-08-02T03:29:23.000Z"
+    },
+    {
       "id": "c2a3806f",
       "filename": "pixiv_147880638_p0.jpg",
       "path": "uploads/2026/08/7949dfdb.jpg",
