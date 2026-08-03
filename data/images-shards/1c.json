@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "fdfce601",
+      "filename": "pixiv_147940570_p0.jpg",
+      "path": "uploads/2026/08/f6b4ebfa.jpg",
+      "size": 700249,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2ce54e36018c42b7d97bc63d52864de708d2cf11bf5244bb5dc6fe2ed72486e0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:45:03.869Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "キサキ　好感度可視化するやつ",
+      "tags": [
+        "漫画",
+        "BlueArchive",
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "竜華キサキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147940570_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147940570",
+      "sourceCreatedAt": "2026-08-02T11:59:36.000Z"
+    },
+    {
       "id": "d5c5578b",
       "filename": "pixiv_147711848_p0.jpg",
       "path": "uploads/2026/08/0de169ea.jpg",
