@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "14a648e0",
+      "filename": "pixiv_147931323_p0.jpg",
+      "path": "uploads/2026/08/498fd21e.jpg",
+      "size": 760719,
+      "width": 1119,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "adbbf733add42af2d5f7e097d4cdd2ceb3136c8196863a7e052901d1958dc3a1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:40:54.170Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "アサナ探索紀行　キャラクター",
+      "tags": [
+        "オリジナル",
+        "義眼",
+        "オリジナル100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147931323_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147931323",
+      "sourceCreatedAt": "2026-08-02T08:30:04.000Z"
+    },
+    {
       "id": "33084be3",
       "filename": "pixiv_147922754_p0.jpg",
       "path": "uploads/2026/08/ad97d90a.jpg",
