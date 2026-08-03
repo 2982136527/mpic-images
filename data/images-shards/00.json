@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "8e47c527",
+      "filename": "pixiv_147890168_p0.jpg",
+      "path": "uploads/2026/08/ffc9e896.jpg",
+      "size": 635744,
+      "width": 914,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "623df4775ecaa0cb33fd9c22075694ea4efe113520440b07071b6c4ec1020b98",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:37:55.800Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ルーミア",
+      "tags": [
+        "イラスト",
+        "東方",
+        "東方Project",
+        "ルーミア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147890168_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147890168",
+      "sourceCreatedAt": "2026-08-01T09:55:32.000Z"
+    },
+    {
       "id": "c1fe6981",
       "filename": "pixiv_147893388_p0.jpg",
       "path": "uploads/2026/08/3ae22ec8.jpg",
