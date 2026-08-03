@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "51b5031d",
+      "filename": "pixiv_147939367_p0.jpg",
+      "path": "uploads/2026/08/44a34c9d.jpg",
+      "size": 1289076,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "43f91b2ca54a1cad06d70b1a20c34a5dd1066e83ff36b3732847bb91495c3be7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:39:12.803Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "黒うさぎさん",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "うさみみ",
+        "黒髪",
+        "ゴスロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147939367_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147939367",
+      "sourceCreatedAt": "2026-08-02T11:32:14.000Z"
+    },
+    {
       "id": "44113e86",
       "filename": "pixiv_147930651_p0.jpg",
       "path": "uploads/2026/08/c47971db.jpg",
