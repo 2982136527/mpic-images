@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "531ac5b9",
+      "filename": "pixiv_147909206_p0.jpg",
+      "path": "uploads/2026/08/881c0662.jpg",
+      "size": 822402,
+      "width": 1200,
+      "height": 1144,
+      "mimeType": "image/jpeg",
+      "hash": "d8ac1131c90237741cac78824b952c2d31ff0db252130386abf9bfa712638f66",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:35:20.161Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "九日",
+      "tags": [
+        "NineSols",
+        "九日"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147909206_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147909206",
+      "sourceCreatedAt": "2026-08-01T17:02:17.000Z"
+    },
+    {
       "id": "c830e062",
       "filename": "pixiv_147905575_p0.jpg",
       "path": "uploads/2026/08/69183921.jpg",
