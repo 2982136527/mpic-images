@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "c04e21fa",
+      "filename": "pixiv_147929033_p0.jpg",
+      "path": "uploads/2026/08/a97dc269.jpg",
+      "size": 1289195,
+      "width": 1200,
+      "height": 811,
+      "mimeType": "image/jpeg",
+      "hash": "81f31b715982f283ea1232a8d0f74338fcccdc1ba593e7a139323ad291b4442b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:38:49.446Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Immortalize a moment",
+      "tags": [
+        "男の子",
+        "少年"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147929033_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147929033",
+      "sourceCreatedAt": "2026-08-02T07:20:17.000Z"
+    },
+    {
       "id": "18f38d66",
       "filename": "pixiv_147904906_p0.jpg",
       "path": "uploads/2026/08/186cd839.jpg",
