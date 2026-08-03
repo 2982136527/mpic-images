@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "bc701112",
+      "filename": "pixiv_147898162_p0.jpg",
+      "path": "uploads/2026/08/c313218e.jpg",
+      "size": 1013864,
+      "width": 978,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "331575ebae47bf0dba4f3b0dca2d0a7290698a3d866e7117ad199ca569177f5c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T18:00:00.689Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "かまってほしいテトさん",
+      "tags": [
+        "重音テト",
+        "腕組み",
+        "UTAU100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147898162_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147898162",
+      "sourceCreatedAt": "2026-08-01T12:51:29.000Z"
+    },
+    {
       "id": "e3fcf3ca",
       "filename": "pixiv_147896063_p0.jpg",
       "path": "uploads/2026/08/46684616.jpg",
