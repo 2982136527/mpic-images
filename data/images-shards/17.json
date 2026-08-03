@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "c72fc586",
+      "filename": "pixiv_147921474_p0.jpg",
+      "path": "uploads/2026/08/efdf0f16.jpg",
+      "size": 967604,
+      "width": 781,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d0d9be95524fb88d425fe41118fb2df9fc7494004c4d0cb2d3dd25357c90e8df",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T17:58:39.693Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "skeb",
+      "tags": [
+        "イラスト",
+        "白髪",
+        "吸血鬼"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147921474_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147921474",
+      "sourceCreatedAt": "2026-08-02T03:01:16.000Z"
+    },
+    {
       "id": "cb57088d",
       "filename": "pixiv_147891144_p0.jpg",
       "path": "uploads/2026/08/1e3aee84.jpg",
