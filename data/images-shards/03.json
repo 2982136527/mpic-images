@@ -3,6 +3,33 @@
   "shardId": "03",
   "images": [
     {
+      "id": "43e25869",
+      "filename": "pixiv_147923504_p0.jpg",
+      "path": "uploads/2026/08/e0581888.jpg",
+      "size": 2176723,
+      "width": 1057,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0559c940b4f99597a52f18f5b9e6eae84970b0e8c5ee9cc2cf295254f62a6f2a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:37:10.778Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "VTee × hololive Collection",
+      "tags": [
+        "ホロライブ",
+        "宝鐘マリン",
+        "兎田ぺこら",
+        "戌神ころね",
+        "猫又おかゆ",
+        "VTee"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147923504_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147923504",
+      "sourceCreatedAt": "2026-08-02T04:08:34.000Z"
+    },
+    {
       "id": "5f9984b9",
       "filename": "pixiv_147871465_p0.jpg",
       "path": "uploads/2026/08/18ad4d86.jpg",
