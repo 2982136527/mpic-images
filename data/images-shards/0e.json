@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "a8ef811e",
+      "filename": "pixiv_147899018_p0.jpg",
+      "path": "uploads/2026/08/5413be12.jpg",
+      "size": 480429,
+      "width": 1080,
+      "height": 1080,
+      "mimeType": "image/jpeg",
+      "hash": "3e72d7397992289889bc7fcc8bf8a4d58e26c7f28156acf17663f4be571a1362",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:43:55.449Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "hrak夢log 3",
+      "tags": [
+        "夢アカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147899018_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147899018",
+      "sourceCreatedAt": "2026-08-01T13:07:18.000Z"
+    },
+    {
       "id": "6d1e646c",
       "filename": "pixiv_147936562_p0.jpg",
       "path": "uploads/2026/08/f54fcc5b.jpg",
