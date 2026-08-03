@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "de6970d7",
+      "filename": "pixiv_147934124_p0.jpg",
+      "path": "uploads/2026/08/10de618e.jpg",
+      "size": 650142,
+      "width": 1118,
+      "height": 1080,
+      "mimeType": "image/jpeg",
+      "hash": "58a60d47318f32ea58107c167421480122fa1cbcabeb62639eb5e5aac3256a2e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T18:06:14.826Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バニーの日",
+      "tags": [
+        "バニーガール",
+        "白石ウタハ",
+        "ブルアカ",
+        "BlueArchive",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147934124_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147934124",
+      "sourceCreatedAt": "2026-08-02T09:38:16.000Z"
+    },
+    {
       "id": "72fe927c",
       "filename": "pixiv_147925427_p0.jpg",
       "path": "uploads/2026/08/c9ba1490.jpg",
