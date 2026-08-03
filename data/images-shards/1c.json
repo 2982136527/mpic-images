@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "993c4f54",
+      "filename": "pixiv_147898866_p0.jpg",
+      "path": "uploads/2026/08/c57b12b0.jpg",
+      "size": 926321,
+      "width": 893,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f69657e604c3a8898e2922d9d76b5bd06749d0d0db944df51f5c08d6a046e96c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:37:04.967Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "思ひ出",
+      "tags": [
+        "ゼンゼロ",
+        "クレタ・ベロボーグ",
+        "グレース・ハワード",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147898866_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147898866",
+      "sourceCreatedAt": "2026-08-01T13:03:47.000Z"
+    },
+    {
       "id": "49f09411",
       "filename": "pixiv_147919146_p0.jpg",
       "path": "uploads/2026/08/c8c1dd65.jpg",
