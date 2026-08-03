@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "11309d90",
+      "filename": "pixiv_147865366_p0.jpg",
+      "path": "uploads/2026/08/f6747322.jpg",
+      "size": 1144990,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "39e13a2d027bf02152b02d5ff79d1aa5386955b4334f69e170e82e5c545748cf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:39:40.231Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "イオリ",
+      "tags": [
+        "ブルーアーカイブ",
+        "銀鏡イオリ",
+        "ブルアカ",
+        "BlueArchive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147865366_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147865366",
+      "sourceCreatedAt": "2026-07-31T16:43:25.000Z"
+    },
+    {
       "id": "92646abd",
       "filename": "pixiv_147941420_p0.jpg",
       "path": "uploads/2026/08/0ea5a075.jpg",
