@@ -3,6 +3,34 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "469a585b",
+      "filename": "pixiv_147891689_p0.jpg",
+      "path": "uploads/2026/08/0b56475c.jpg",
+      "size": 1080705,
+      "width": 1200,
+      "height": 630,
+      "mimeType": "image/jpeg",
+      "hash": "78517c1958a77246d0e05c4f1cfa6b96609f2c222f66e3ae172013cf05f1349b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T17:58:21.214Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "風景",
+        "背景",
+        "海",
+        "女の子",
+        "スロープ",
+        "苔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147891689_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147891689",
+      "sourceCreatedAt": "2026-08-01T10:30:09.000Z"
+    },
+    {
       "id": "a0028e18",
       "filename": "pixiv_147749703_p0.jpg",
       "path": "uploads/2026/08/ba398af1.jpg",
