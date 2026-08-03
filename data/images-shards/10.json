@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "92c403cb",
+      "filename": "pixiv_147912451_p0.jpg",
+      "path": "uploads/2026/08/5022f92e.jpg",
+      "size": 267304,
+      "width": 1200,
+      "height": 766,
+      "mimeType": "image/jpeg",
+      "hash": "7187abb21d8dba4e69b73ba3682403a23a4aac7537832fa9f891262af8f96024",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:41:21.800Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "4-g0-10.",
+      "tags": [
+        "重音テト",
+        "ボーカロイド",
+        "デルタルーン",
+        "deltarune"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147912451_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147912451",
+      "sourceCreatedAt": "2026-08-01T20:07:59.000Z"
+    },
+    {
       "id": "e8e57aef",
       "filename": "pixiv_147853447_p0.jpg",
       "path": "uploads/2026/08/3ce11c8a.jpg",
