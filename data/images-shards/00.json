@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "ef15b4c9",
+      "filename": "pixiv_147909680_p0.jpg",
+      "path": "uploads/2026/08/43574498.jpg",
+      "size": 1017366,
+      "width": 1200,
+      "height": 649,
+      "mimeType": "image/jpeg",
+      "hash": "d885d4c0586009bcc80d72aa9f4731fbbcbdd6d9c77aa06c2eea930e757608e8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T18:03:00.534Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "鳴潮",
+        "WutheringWaves"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147909680_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147909680",
+      "sourceCreatedAt": "2026-08-01T17:24:52.000Z"
+    },
+    {
       "id": "957bd7cb",
       "filename": "pixiv_147941432_p0.jpg",
       "path": "uploads/2026/08/0fc75ce0.jpg",
