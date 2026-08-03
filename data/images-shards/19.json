@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "a350ae62",
+      "filename": "pixiv_147908965_p0.jpg",
+      "path": "uploads/2026/08/8b527fda.jpg",
+      "size": 687048,
+      "width": 861,
+      "height": 598,
+      "mimeType": "image/jpeg",
+      "hash": "5d681fbdbb1e65673da89e71ccc4eb91f5439175e76bfb35bf1f899af975a317",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T11:43:23.609Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ロエ蛍まとめ",
+      "tags": [
+        "ロエ蛍",
+        "Lohenlumi"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147908965_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147908965",
+      "sourceCreatedAt": "2026-08-01T16:53:54.000Z"
+    },
+    {
       "id": "2bafbbe6",
       "filename": "pixiv_147931324_p0.jpg",
       "path": "uploads/2026/08/1329b54b.jpg",
