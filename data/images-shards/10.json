@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "bb1ec019",
+      "filename": "pixiv_147913296_p0.jpg",
+      "path": "uploads/2026/08/a62a515b.jpg",
+      "size": 1075975,
+      "width": 1200,
+      "height": 1054,
+      "mimeType": "image/jpeg",
+      "hash": "289a1cb18c413be8b56f13e6244eaff05606e67bef9c6418b265a247846dd801",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-03T03:43:08.040Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Arbok Line",
+      "tags": [
+        "ラミア",
+        "モンスター娘",
+        "ポケモン",
+        "アーボック",
+        "アーボ",
+        "擬人化"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147913296_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147913296",
+      "sourceCreatedAt": "2026-08-01T21:05:28.000Z"
+    },
+    {
       "id": "34df1df7",
       "filename": "pixiv_147891980_p0.jpg",
       "path": "uploads/2026/08/c75b35c3.jpg",
