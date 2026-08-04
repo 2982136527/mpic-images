@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "e62f3850",
+      "filename": "pixiv_147928228_p0.jpg",
+      "path": "uploads/2026/08/9c8f2649.jpg",
+      "size": 1053424,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fe54cb576b3c906efc4991fe4c955b292a96c2e36935667191850415138566d6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T18:01:35.749Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "オデット",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "オデット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147928228_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147928228",
+      "sourceCreatedAt": "2026-08-02T06:55:21.000Z"
+    },
+    {
       "id": "7fbbbfdf",
       "filename": "pixiv_147928521_p0.jpg",
       "path": "uploads/2026/08/8b6d239b.jpg",
