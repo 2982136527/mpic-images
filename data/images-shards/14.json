@@ -3,6 +3,37 @@
   "shardId": "14",
   "images": [
     {
+      "id": "4f6dbd2e",
+      "filename": "pixiv_147899130_p0.jpg",
+      "path": "uploads/2026/08/8ed8eaab.jpg",
+      "size": 985232,
+      "width": 1200,
+      "height": 511,
+      "mimeType": "image/jpeg",
+      "hash": "a48c5ca5d76e2dede1ad65a893bdc56e6b89c912abf2c6ace6dc79a76c90cfc6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T03:23:50.153Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "神代",
+      "tags": [
+        "風景",
+        "背景",
+        "オリジナル",
+        "空",
+        "イラスト",
+        "illustration",
+        "雲",
+        "ファンタジー",
+        "コンセプトアート",
+        "ドラゴン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147899130_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147899130",
+      "sourceCreatedAt": "2026-08-01T13:09:46.000Z"
+    },
+    {
       "id": "e55689f9",
       "filename": "pixiv_147894348_p0.jpg",
       "path": "uploads/2026/08/09853074.jpg",
