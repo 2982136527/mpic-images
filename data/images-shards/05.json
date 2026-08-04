@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "a94b70d8",
+      "filename": "pixiv_147940537_p0.jpg",
+      "path": "uploads/2026/08/86075f90.jpg",
+      "size": 1185577,
+      "width": 1200,
+      "height": 831,
+      "mimeType": "image/jpeg",
+      "hash": "a4f80e296c0afe52d087ee0cdb1436b8a751528d710f84b8417a1a06dd009b50",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T10:49:15.151Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "c108新刊サンプル",
+      "tags": [
+        "百合",
+        "バンドリ",
+        "BanG_Dream!",
+        "むつさき"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147940537_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147940537",
+      "sourceCreatedAt": "2026-08-02T11:58:47.000Z"
+    },
+    {
       "id": "61d9afe3",
       "filename": "pixiv_147898249_p0.jpg",
       "path": "uploads/2026/08/ceb29b29.jpg",
