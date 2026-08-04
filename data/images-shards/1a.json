@@ -3,6 +3,37 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "2769caa9",
+      "filename": "pixiv_147948092_p0.jpg",
+      "path": "uploads/2026/08/1807217e.jpg",
+      "size": 1301039,
+      "width": 1200,
+      "height": 950,
+      "mimeType": "image/jpeg",
+      "hash": "cd28d12a83356c92d2ef0bdacb590566255d3ae0c20cf9644f43ea8e28075c09",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T18:00:49.804Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "アローラガールズ 【バトルカットイン】",
+      "tags": [
+        "ポケモン",
+        "ポケモン人間絵",
+        "アローラガールズ",
+        "リーリエ",
+        "リーリエ(ポケモン)",
+        "がんばリーリエ",
+        "マオ",
+        "マオ(トレーナー)",
+        "スイレン",
+        "スイレン(トレーナー)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147948092_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147948092",
+      "sourceCreatedAt": "2026-08-02T14:15:19.000Z"
+    },
+    {
       "id": "0b0db3c1",
       "filename": "pixiv_147973362_p0.jpg",
       "path": "uploads/2026/08/3797ac6f.jpg",
