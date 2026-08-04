@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "192583c6",
+      "filename": "pixiv_147977999_p0.jpg",
+      "path": "uploads/2026/08/01aaa1e6.jpg",
+      "size": 1358245,
+      "width": 1200,
+      "height": 709,
+      "mimeType": "image/jpeg",
+      "hash": "afa3c0fb1ac239bc1333a6b691d07aae416d1f49c43849b25e10012442b963c0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T18:01:48.865Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "人斬り彦斎",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "河上彦斎(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147977999_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147977999",
+      "sourceCreatedAt": "2026-08-03T11:00:02.000Z"
+    },
+    {
       "id": "2769caa9",
       "filename": "pixiv_147948092_p0.jpg",
       "path": "uploads/2026/08/1807217e.jpg",
