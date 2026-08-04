@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "d40bc987",
+      "filename": "pixiv_147912555_p0.jpg",
+      "path": "uploads/2026/08/b24123eb.jpg",
+      "size": 919585,
+      "width": 738,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4e5afc2121361db18fd85ff8c76b3471edcad34b2cfdf95d7e496cf9a0803c43",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T10:53:32.468Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "doob",
+      "tags": [
+        "dooby",
+        "バーチャルYouTuber",
+        "女の子",
+        "バニーガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147912555_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147912555",
+      "sourceCreatedAt": "2026-08-01T20:17:13.000Z"
+    },
+    {
       "id": "778f9655",
       "filename": "pixiv_147938771_p0.jpg",
       "path": "uploads/2026/08/f1555662.jpg",
