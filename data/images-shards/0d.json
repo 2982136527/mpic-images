@@ -3,6 +3,28 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "009c7e0e",
+      "filename": "pixiv_147904474_p0.jpg",
+      "path": "uploads/2026/08/9464536f.jpg",
+      "size": 437521,
+      "width": 986,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e1b6ae87230b3293b54c71c9cc5bd819fe3654a12d68443ffd95f4f203cc7108",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T03:23:17.357Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Diamond",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147904474_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147904474",
+      "sourceCreatedAt": "2026-08-01T15:00:35.000Z"
+    },
+    {
       "id": "f5ecb217",
       "filename": "pixiv_147900163_p0.jpg",
       "path": "uploads/2026/08/6c5ca697.jpg",
