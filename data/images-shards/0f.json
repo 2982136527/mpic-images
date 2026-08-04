@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "567c581e",
+      "filename": "pixiv_147950570_p0.jpg",
+      "path": "uploads/2026/08/a6e08345.jpg",
+      "size": 1293783,
+      "width": 829,
+      "height": 1199,
+      "mimeType": "image/jpeg",
+      "hash": "a64af3f585d9ea95810c6d184e6914769802e9c44643448287da4371d8587dc8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T18:02:07.398Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "HonkaiStarRail -3 【 Work 】",
+      "tags": [
+        "HonkaiStarRail",
+        "銀狼(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147950570_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147950570",
+      "sourceCreatedAt": "2026-08-02T15:00:01.000Z"
+    },
+    {
       "id": "c70ae33a",
       "filename": "pixiv_147918799_p0.jpg",
       "path": "uploads/2026/08/104d1a0b.jpg",
