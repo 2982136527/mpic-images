@@ -3,6 +3,32 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "818ed1e6",
+      "filename": "pixiv_147931617_p0.jpg",
+      "path": "uploads/2026/08/d808c4d5.jpg",
+      "size": 588983,
+      "width": 694,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e9c59d08e7a64e6b23f0a3ebbc86596763750acae6bce74e9a7ea62517ca38ac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T10:52:34.430Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Iroha",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "棗イロハ",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147931617_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147931617",
+      "sourceCreatedAt": "2026-08-02T08:37:51.000Z"
+    },
+    {
       "id": "fce5ed81",
       "filename": "pixiv_147934482_p0.jpg",
       "path": "uploads/2026/08/a41d7336.jpg",
