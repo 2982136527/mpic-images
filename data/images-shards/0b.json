@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "dc06cda6",
+      "filename": "pixiv_147933074_p0.jpg",
+      "path": "uploads/2026/08/0852dddd.jpg",
+      "size": 1567201,
+      "width": 1200,
+      "height": 786,
+      "mimeType": "image/jpeg",
+      "hash": "defdcdf52a64f4f8861d640eb52fdedeb7b8dc5ac1e2d52db6027db0733949a4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T10:49:46.668Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "vivi",
+      "tags": [
+        "ビビアン(ゼンゼロ)",
+        "ビビアン・バンシー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147933074_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147933074",
+      "sourceCreatedAt": "2026-08-02T09:11:03.000Z"
+    },
+    {
       "id": "02fcd5a3",
       "filename": "pixiv_147735104_p0.jpg",
       "path": "uploads/2026/08/ebc19b90.jpg",
