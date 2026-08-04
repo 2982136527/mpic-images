@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "dfd6d543",
+      "filename": "pixiv_147904400_p0.jpg",
+      "path": "uploads/2026/08/74e573ca.jpg",
+      "size": 899705,
+      "width": 774,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0f26ca15377c3412a3600e5004ab6341f9c7c650bb3a55ccffc5383667796516",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T03:23:24.041Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ひとみ",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "ぱんつ",
+        "白タイツ",
+        "すじ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147904400_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147904400",
+      "sourceCreatedAt": "2026-08-01T15:00:24.000Z"
+    },
+    {
       "id": "53d11b46",
       "filename": "pixiv_147920110_p0.jpg",
       "path": "uploads/2026/08/ecf7c9b4.jpg",
