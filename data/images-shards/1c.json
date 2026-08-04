@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "56fa6ea2",
+      "filename": "pixiv_147927434_p0.jpg",
+      "path": "uploads/2026/08/d8ebaad9.jpg",
+      "size": 451332,
+      "width": 758,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6623bdcb4a10b9389d0009f176b94c9dd8890644765a48fca6318295a30ea658",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T03:24:21.171Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "バニーガール",
+        "女の子",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147927434_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147927434",
+      "sourceCreatedAt": "2026-08-02T06:27:31.000Z"
+    },
+    {
       "id": "720f6386",
       "filename": "pixiv_147931973_p0.jpg",
       "path": "uploads/2026/08/cbb4fb88.jpg",
