@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "db3f5789",
+      "filename": "pixiv_147964249_p0.jpg",
+      "path": "uploads/2026/08/02692694.jpg",
+      "size": 829104,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6697956b60b261f7a50f0a87cff7478c0d5573bc97b72e9bf4324c56008ad303",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T10:50:05.872Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "DAY95@ 梦言喵喵",
+      "tags": [
+        "雪糕",
+        "萝莉",
+        "白丝",
+        "插画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147964249_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147964249",
+      "sourceCreatedAt": "2026-08-03T01:32:30.000Z"
+    },
+    {
       "id": "2d39f97c",
       "filename": "pixiv_147933757_p0.jpg",
       "path": "uploads/2026/08/f9be95a0.jpg",
