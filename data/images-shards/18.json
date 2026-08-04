@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "e2f6439f",
+      "filename": "pixiv_147933548_p0.jpg",
+      "path": "uploads/2026/08/1a027b8a.jpg",
+      "size": 1604224,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "eb7df1ebde353e7a0abc3340855035a1c395f3e3a5c870ae59254b0db6d6a2da",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T03:25:20.577Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏と白ワンピース",
+      "tags": [
+        "重音テト",
+        "UTAU",
+        "白ワンピース"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147933548_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147933548",
+      "sourceCreatedAt": "2026-08-02T09:23:50.000Z"
+    },
+    {
       "id": "ac7a1ec6",
       "filename": "pixiv_147909174_p0.jpg",
       "path": "uploads/2026/08/a2b5eac2.jpg",
