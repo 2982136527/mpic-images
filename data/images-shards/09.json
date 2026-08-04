@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "e06ed78a",
+      "filename": "pixiv_147905555_p0.jpg",
+      "path": "uploads/2026/08/d2820a9d.jpg",
+      "size": 1077065,
+      "width": 860,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4edb2d1b55467952fcedd1399e1d6e1e788ff93d7346fae696fcf025f9e2e1f6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T10:47:39.340Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "白いワンピース",
+      "tags": [
+        "ワンピース服",
+        "麦わら帽子",
+        "ひまわり",
+        "金髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147905555_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147905555",
+      "sourceCreatedAt": "2026-08-01T15:14:36.000Z"
+    },
+    {
       "id": "f8df0096",
       "filename": "pixiv_147860838_p0.jpg",
       "path": "uploads/2026/08/ee7ebb72.jpg",
