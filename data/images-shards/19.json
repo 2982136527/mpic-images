@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "85fce089",
+      "filename": "pixiv_147954493_p0.jpg",
+      "path": "uploads/2026/08/1f76fb43.jpg",
+      "size": 305461,
+      "width": 1195,
+      "height": 905,
+      "mimeType": "image/jpeg",
+      "hash": "c074fc5499568bff7d7484bbc85e3238a0bf7a9f2a5dac018168fe072a681342",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T10:46:25.984Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "クロスオーバーまとめ",
+      "tags": [
+        "チェンソーマン",
+        "ちいかわ",
+        "クロスオーバー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147954493_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147954493",
+      "sourceCreatedAt": "2026-08-02T16:20:39.000Z"
+    },
+    {
       "id": "d776f960",
       "filename": "pixiv_147910700_p0.jpg",
       "path": "uploads/2026/08/fb4bcf0e.jpg",
