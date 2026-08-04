@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "f0bb0fe5",
+      "filename": "pixiv_147950228_p0.jpg",
+      "path": "uploads/2026/08/f7e5dea2.jpg",
+      "size": 1474163,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "10574fdbe595950641c5dd7428e1f3658f1e2a0b650f0d34a1be3ea10c9ef011",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T18:02:45.152Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "時空異邦人KYOKO",
+      "tags": [
+        "時空異邦人KYOKO"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147950228_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147950228",
+      "sourceCreatedAt": "2026-08-02T14:55:10.000Z"
+    },
+    {
       "id": "2b00294b",
       "filename": "pixiv_147934188_p0.jpg",
       "path": "uploads/2026/08/1707de24.jpg",
