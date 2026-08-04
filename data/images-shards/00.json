@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "9a9c745a",
+      "filename": "pixiv_147953201_p0.jpg",
+      "path": "uploads/2026/08/a0db67e5.jpg",
+      "size": 415206,
+      "width": 839,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e8a4bb2473be5d54993e09c89b171213060db11754d6b3a8b704e14874e8d927",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T18:03:07.096Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "鍵後輩",
+      "tags": [
+        "漫画",
+        "女の子",
+        "制服",
+        "長身女性",
+        "事前"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147953201_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147953201",
+      "sourceCreatedAt": "2026-08-02T15:46:39.000Z"
+    },
+    {
       "id": "677279c8",
       "filename": "pixiv_147908375_p0.jpg",
       "path": "uploads/2026/08/5aa88199.jpg",
