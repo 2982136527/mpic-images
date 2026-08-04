@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "3d30195d",
+      "filename": "pixiv_147976040_p0.jpg",
+      "path": "uploads/2026/08/008c523a.jpg",
+      "size": 790461,
+      "width": 820,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "251181665a2700f07dabfe2a0aa34a23e23357280f32eac0ba7a55e23b5cf762",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T10:48:55.643Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "あわもこ",
+      "tags": [
+        "女の子",
+        "イラスト",
+        "オリジナル",
+        "オリジナルキャラクター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147976040_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147976040",
+      "sourceCreatedAt": "2026-08-03T10:01:51.000Z"
+    },
+    {
       "id": "c224d8ce",
       "filename": "pixiv_147948451_p0.jpg",
       "path": "uploads/2026/08/6f4cb04b.jpg",
