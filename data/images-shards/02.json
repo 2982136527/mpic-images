@@ -3,6 +3,35 @@
   "shardId": "02",
   "images": [
     {
+      "id": "6c7515f2",
+      "filename": "pixiv_147904478_p0.jpg",
+      "path": "uploads/2026/08/88eb425f.jpg",
+      "size": 906720,
+      "width": 712,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a6b4457befa97974763c757ec1c57b4c9e5b6136160a18d0e27bc9d5192a4e94",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T10:47:49.867Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "いつまでも絶えることなく",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "トランセンド(ウマ娘)",
+        "映画館",
+        "キンキの煮付け",
+        "ちいかわ",
+        "結婚してらっしゃる?",
+        "今日の日はさようなら",
+        "一生の友達"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147904478_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147904478",
+      "sourceCreatedAt": "2026-08-01T15:00:36.000Z"
+    },
+    {
       "id": "ae68f8bb",
       "filename": "pixiv_147925526_p0.jpg",
       "path": "uploads/2026/08/f0502c39.jpg",
