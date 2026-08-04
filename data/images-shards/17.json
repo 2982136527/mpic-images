@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "1075f030",
+      "filename": "pixiv_147911009_p0.jpg",
+      "path": "uploads/2026/08/c557c665.jpg",
+      "size": 653095,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09049fca12677e5803449a02f772ccb4791cd9e4ad548a1a5068076e077198b6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T10:53:39.584Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バニー",
+      "tags": [
+        "バニーガール",
+        "バニーの日",
+        "星街すいせい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147911009_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147911009",
+      "sourceCreatedAt": "2026-08-01T18:28:23.000Z"
+    },
+    {
       "id": "3da60a30",
       "filename": "pixiv_147941869_p0.jpg",
       "path": "uploads/2026/08/1f621b03.jpg",
