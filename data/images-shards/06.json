@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "abb70cec",
+      "filename": "pixiv_147941384_p0.jpg",
+      "path": "uploads/2026/08/7aab3606.jpg",
+      "size": 496129,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "796e34601e94766938018975a29b76f15208fe09f57d26bdf0eeb8f88dac5ec5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T10:53:18.266Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バニーボーイ",
+      "tags": [
+        "鏡音レン",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147941384_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147941384",
+      "sourceCreatedAt": "2026-08-02T12:10:35.000Z"
+    },
+    {
       "id": "2d04cea9",
       "filename": "pixiv_147965411_p0.jpg",
       "path": "uploads/2026/08/b8bcbeca.jpg",
