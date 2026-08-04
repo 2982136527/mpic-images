@@ -3,6 +3,28 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "8d7cf713",
+      "filename": "pixiv_147934645_p0.jpg",
+      "path": "uploads/2026/08/d8601f2e.jpg",
+      "size": 865805,
+      "width": 767,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "03f0b1c5cdbc5aba78151d7ac8bcc0276c45fb5f99c6f88a25b49258f5daf302",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T03:30:38.773Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Xまとめ⑦",
+      "tags": [
+        "有村麻央"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147934645_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147934645",
+      "sourceCreatedAt": "2026-08-02T09:51:49.000Z"
+    },
+    {
       "id": "c1a34f0e",
       "filename": "pixiv_147935716_p0.jpg",
       "path": "uploads/2026/08/319937cf.jpg",
