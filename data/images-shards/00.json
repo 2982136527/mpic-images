@@ -3,6 +3,35 @@
   "shardId": "00",
   "images": [
     {
+      "id": "7ff06ae1",
+      "filename": "pixiv_147929466_p0.jpg",
+      "path": "uploads/2026/08/96215125.jpg",
+      "size": 896372,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "85a2a81acc4eac70a608e92446c2ed3fdc2124747277b56fc327dc6baa535b22",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T10:47:23.468Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "びしょうじょエージェント（年齢不詳）",
+      "tags": [
+        "攻殻機動隊",
+        "草薙素子",
+        "真希波・マリ・イラストリアス",
+        "坂本真綾",
+        "声優ネタ",
+        "異作品コスプレ",
+        "中の人ネタ",
+        "エヴァンゲリオン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147929466_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147929466",
+      "sourceCreatedAt": "2026-08-02T07:35:24.000Z"
+    },
+    {
       "id": "82810784",
       "filename": "pixiv_147918179_p0.jpg",
       "path": "uploads/2026/08/c53fde49.jpg",
