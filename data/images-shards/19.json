@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "7ebc532d",
+      "filename": "pixiv_147948505_p0.jpg",
+      "path": "uploads/2026/08/859bcd7d.jpg",
+      "size": 505148,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dde0746bdd02ca0a433179001f5429cd03b9e0dcbddfa4bd6447a02b37cd6b80",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T10:52:55.397Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バニーテトさん",
+      "tags": [
+        "重音テト",
+        "バニーガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147948505_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147948505",
+      "sourceCreatedAt": "2026-08-02T14:23:12.000Z"
+    },
+    {
       "id": "40d48f85",
       "filename": "pixiv_147953556_p0.jpg",
       "path": "uploads/2026/08/99540530.jpg",
