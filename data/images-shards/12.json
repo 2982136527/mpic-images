@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "318ffe5e",
+      "filename": "pixiv_147963057_p0.jpg",
+      "path": "uploads/2026/08/4950eb7f.jpg",
+      "size": 726008,
+      "width": 711,
+      "height": 1106,
+      "mimeType": "image/jpeg",
+      "hash": "5ecc775ac8467d498565eacd470ccf1f953aced6510af0446c246116da0cbabb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T10:50:31.901Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "清夏",
+      "tags": [
+        "学園アイドルマスター",
+        "紫雲清夏",
+        "体育座り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147963057_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147963057",
+      "sourceCreatedAt": "2026-08-03T00:25:30.000Z"
+    },
+    {
       "id": "9dd38510",
       "filename": "pixiv_147911460_p0.jpg",
       "path": "uploads/2026/08/0fe7a7e7.jpg",
