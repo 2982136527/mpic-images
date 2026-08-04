@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "929ce421",
+      "filename": "pixiv_147931487_p0.jpg",
+      "path": "uploads/2026/08/82fa3cd5.jpg",
+      "size": 1048967,
+      "width": 1200,
+      "height": 682,
+      "mimeType": "image/jpeg",
+      "hash": "0ad4c13df637ad4e49915f729a0603586234115774b43dcd34864d3e0a202e12",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T18:02:36.656Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "ア一クナイツ",
+        "Arknights",
+        "明日方舟",
+        "予愿安洁莉娜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147931487_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147931487",
+      "sourceCreatedAt": "2026-08-02T08:34:00.000Z"
+    },
+    {
       "id": "e62f3850",
       "filename": "pixiv_147928228_p0.jpg",
       "path": "uploads/2026/08/9c8f2649.jpg",
