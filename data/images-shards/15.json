@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "8e13990c",
+      "filename": "pixiv_147925384_p0.jpg",
+      "path": "uploads/2026/08/3795d621.jpg",
+      "size": 964551,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "66e4f348a41d7c8548db2de4d5866cbe6a9990b7a625885c222de5de98c77baa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T03:24:14.243Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "しろ",
+      "tags": [
+        "ノーゲーム・ノーライフ",
+        "白",
+        "白(NGNL)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147925384_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147925384",
+      "sourceCreatedAt": "2026-08-02T05:16:52.000Z"
+    },
+    {
       "id": "76d76f94",
       "filename": "pixiv_147877203_p0.jpg",
       "path": "uploads/2026/08/245d77a6.jpg",
