@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "f8df0096",
+      "filename": "pixiv_147860838_p0.jpg",
+      "path": "uploads/2026/08/ee7ebb72.jpg",
+      "size": 770560,
+      "width": 479,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "457760e546ba69838b8de5a8f8c3761ad90634ff1e9eb0eb27fe189547d13b19",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-04T03:24:33.376Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108 メイドシノン",
+      "tags": [
+        "C108",
+        "SAO",
+        "ソードアート・オンライン",
+        "シノン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147860838_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147860838",
+      "sourceCreatedAt": "2026-07-31T15:00:20.000Z"
+    },
+    {
       "id": "9bdfcc88",
       "filename": "pixiv_147924261_p0.jpg",
       "path": "uploads/2026/08/670c9dd1.jpg",
