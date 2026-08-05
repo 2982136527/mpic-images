@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "0cf2eeb1",
+      "filename": "pixiv_147988294_p0.jpg",
+      "path": "uploads/2026/08/e7543587.jpg",
+      "size": 864352,
+      "width": 1200,
+      "height": 565,
+      "mimeType": "image/jpeg",
+      "hash": "11345decd3528be85e3e9543e6c50f31cfac8d8667a2cc4237f26b7db061156d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:48:31.975Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Decaying city",
+      "tags": [
+        "オリジナル",
+        "背景",
+        "風景",
+        "コンセプトアート",
+        "サイバーパンク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147988294_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147988294",
+      "sourceCreatedAt": "2026-08-03T14:48:32.000Z"
+    },
+    {
       "id": "f9eecad9",
       "filename": "pixiv_147970498_p0.jpg",
       "path": "uploads/2026/08/aa78864a.jpg",
