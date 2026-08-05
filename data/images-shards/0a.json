@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "d1db5b68",
+      "filename": "pixiv_147994165_p0.jpg",
+      "path": "uploads/2026/08/a0f459cb.jpg",
+      "size": 1181534,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "6b0d156580d5527ca766159a71c2e03223b309e5d839a1a7ecdc9d42abc7bf77",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:48:24.483Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ひぐらしの声が聴こえる",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "空",
+        "男の子",
+        "風景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147994165_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147994165",
+      "sourceCreatedAt": "2026-08-03T17:48:45.000Z"
+    },
+    {
       "id": "be13c3f7",
       "filename": "pixiv_147969774_p0.jpg",
       "path": "uploads/2026/08/66b2cd35.jpg",
