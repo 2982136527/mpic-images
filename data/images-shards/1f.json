@@ -3,6 +3,37 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "1a2b876f",
+      "filename": "pixiv_147950749_p0.jpg",
+      "path": "uploads/2026/08/969c9a9c.jpg",
+      "size": 907497,
+      "width": 829,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "432372fb7622b0f917c71dba65b94c9b74a01a6969a67e7b03c9553832135ae7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:49:21.074Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ラプラス・ダークネス",
+      "tags": [
+        "ラプラス・ダークネス",
+        "Laplus_Artdesu",
+        "ホロライブ",
+        "laplus_artdesu",
+        "hololive",
+        "バーチャルYouTuber",
+        "VTuber",
+        "holoX",
+        "Vtuber",
+        "おっぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147950749_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147950749",
+      "sourceCreatedAt": "2026-08-02T15:00:26.000Z"
+    },
+    {
       "id": "de017c91",
       "filename": "pixiv_147988480_p0.jpg",
       "path": "uploads/2026/08/6031bcf0.jpg",
