@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "ee534be4",
+      "filename": "pixiv_147985974_p0.jpg",
+      "path": "uploads/2026/08/08961944.jpg",
+      "size": 666704,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d50728d7bbd5679ddcf01d723fd1d2478d3c260dfd482b27fdaa989121b9df58",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:49:05.324Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "伊吹",
+      "tags": [
+        "ロリ",
+        "丹花イブキ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147985974_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147985974",
+      "sourceCreatedAt": "2026-08-03T13:56:45.000Z"
+    },
+    {
       "id": "95bfa3c6",
       "filename": "pixiv_147760668_p0.jpg",
       "path": "uploads/2026/08/5b0eb7ad.jpg",
