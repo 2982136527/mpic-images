@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "e136fe3f",
+      "filename": "pixiv_147985883_p0.jpg",
+      "path": "uploads/2026/08/bc162f12.jpg",
+      "size": 766745,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "49cd711af772baae6f927661c88a1b8a5ef7eaefe5397d0146fedd4e26afc862",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:46:11.533Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "レーシングSummer",
+      "tags": [
+        "summerfestival",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147985883_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147985883",
+      "sourceCreatedAt": "2026-08-03T13:54:49.000Z"
+    },
+    {
       "id": "a8b231a8",
       "filename": "pixiv_148000989_p0.jpg",
       "path": "uploads/2026/08/ab63ab22.jpg",
