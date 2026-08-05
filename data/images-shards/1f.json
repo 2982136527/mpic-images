@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "3935d4ab",
+      "filename": "pixiv_147904421_p0.jpg",
+      "path": "uploads/2026/08/c8ce43bd.jpg",
+      "size": 980017,
+      "width": 834,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fbadba8fd7c9190367f0248b3ed0c7d70aff0144439908a4ecec91f40551debe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T03:18:24.608Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "いいたげ",
+      "tags": [
+        "ブルーアーカイブ",
+        "天童ケイ",
+        "白髪",
+        "ケイ(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147904421_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147904421",
+      "sourceCreatedAt": "2026-08-01T15:00:27.000Z"
+    },
+    {
       "id": "dcf133ef",
       "filename": "pixiv_147968748_p0.jpg",
       "path": "uploads/2026/08/0fcca801.jpg",
