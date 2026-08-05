@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "cba656a7",
+      "filename": "pixiv_147983210_p0.jpg",
+      "path": "uploads/2026/08/11ab083b.jpg",
+      "size": 764168,
+      "width": 726,
+      "height": 1077,
+      "mimeType": "image/jpeg",
+      "hash": "3a3071b6559356d348f9adacdd82a46ea89b2d025760c49157286e7a127270a3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:45:03.354Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ハートの2",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147983210_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147983210",
+      "sourceCreatedAt": "2026-08-03T12:56:13.000Z"
+    },
+    {
       "id": "149acf1e",
       "filename": "pixiv_147711642_p0.jpg",
       "path": "uploads/2026/08/dce0eb2f.jpg",
