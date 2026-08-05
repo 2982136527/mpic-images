@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "51334252",
+      "filename": "pixiv_147989030_p0.jpg",
+      "path": "uploads/2026/08/4da82cbb.jpg",
+      "size": 823598,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "52b6f07a50e2188275d5d2ff739134bc310b072b3877fcd18b572d6871f0da51",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:44:41.691Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "8月4日",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "アンデルセン(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147989030_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147989030",
+      "sourceCreatedAt": "2026-08-03T15:00:50.000Z"
+    },
+    {
       "id": "485b973a",
       "filename": "pixiv_147933094_p0.jpg",
       "path": "uploads/2026/08/61cd583c.jpg",
