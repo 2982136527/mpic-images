@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "0d9baa1a",
+      "filename": "pixiv_147995997_p0.jpg",
+      "path": "uploads/2026/08/3d4732cc.jpg",
+      "size": 798891,
+      "width": 1200,
+      "height": 703,
+      "mimeType": "image/jpeg",
+      "hash": "5cde96017675e47d7685eaccfc52b5966ebc53f7912d64b2f3ec09ed7743498c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:51:20.629Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "tiny giant",
+      "tags": [
+        "ゼンゼロ",
+        "ニコ・デマラ",
+        "レミエール・ダン",
+        "月城柳",
+        "ジェーン・ドゥ",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147995997_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147995997",
+      "sourceCreatedAt": "2026-08-03T19:54:42.000Z"
+    },
+    {
       "id": "d3ab75fe",
       "filename": "pixiv_147988103_p0.jpg",
       "path": "uploads/2026/08/39158a11.jpg",
