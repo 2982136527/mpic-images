@@ -3,6 +3,34 @@
   "shardId": "12",
   "images": [
     {
+      "id": "446a9bb2",
+      "filename": "pixiv_147969195_p0.jpg",
+      "path": "uploads/2026/08/a4e98f79.jpg",
+      "size": 977137,
+      "width": 1200,
+      "height": 937,
+      "mimeType": "image/jpeg",
+      "hash": "29e51b6f6da6bb75a30ea6c906e1d571b9b8d116aa335fb8466dcc62d7f6a07a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T03:18:40.634Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "イイコのドキドキマジック",
+      "tags": [
+        "アズールレーン",
+        "AzurLane",
+        "ヤーデ(アズールレーン)",
+        "仕事絵",
+        "本家",
+        "饅頭(アズールレーン)",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147969195_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147969195",
+      "sourceCreatedAt": "2026-08-03T07:18:18.000Z"
+    },
+    {
       "id": "e7d45b3b",
       "filename": "pixiv_147938137_p0.jpg",
       "path": "uploads/2026/08/a432f6a1.jpg",
