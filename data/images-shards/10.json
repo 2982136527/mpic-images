@@ -3,6 +3,28 @@
   "shardId": "10",
   "images": [
     {
+      "id": "48501f50",
+      "filename": "pixiv_147992486_p0.jpg",
+      "path": "uploads/2026/08/a985048b.jpg",
+      "size": 708516,
+      "width": 955,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aeeaac0f01ff4f419f15f1f5581256606bfed4d911f70d22563fec8ce05c2ff5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:45:29.296Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "直近オリキャラまとめ",
+      "tags": [
+        "オリキャラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147992486_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147992486",
+      "sourceCreatedAt": "2026-08-03T16:33:20.000Z"
+    },
+    {
       "id": "ae1c2a69",
       "filename": "pixiv_147970680_p0.jpg",
       "path": "uploads/2026/08/19065c84.jpg",
