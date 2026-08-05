@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "ff2877df",
+      "filename": "pixiv_147954121_p0.jpg",
+      "path": "uploads/2026/08/8ce6ecf0.jpg",
+      "size": 1416862,
+      "width": 649,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "59dc400c38621dca3efa2fd9f67bee460652985f7c1491f2cbb7c0211a375e2e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T03:19:01.981Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "维琳娜",
+      "tags": [
+        "绝区零",
+        "ZenlessZoneZero",
+        "维琳娜",
+        "ゼンレスゾーンゼロ",
+        "ヴェリナ・エガード"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147954121_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147954121",
+      "sourceCreatedAt": "2026-08-02T16:09:46.000Z"
+    },
+    {
       "id": "f74e762b",
       "filename": "pixiv_147955565_p0.jpg",
       "path": "uploads/2026/08/10aa6f10.jpg",
