@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "189afb6f",
+      "filename": "pixiv_148015418_p0.jpg",
+      "path": "uploads/2026/08/6e8b51c3.jpg",
+      "size": 905886,
+      "width": 744,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "72428bf2d8cbd5d9069f97842f180086b17cbff3bde26fa54e8a655dc2347680",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:47:03.265Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ポケモン絵とかまとめ13",
+      "tags": [
+        "ポケモン",
+        "ポケモン御三家",
+        "ヒスイジュナイパー",
+        "ブリガロン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148015418_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148015418",
+      "sourceCreatedAt": "2026-08-04T11:00:44.000Z"
+    },
+    {
       "id": "f217d969",
       "filename": "pixiv_147954024_p0.jpg",
       "path": "uploads/2026/08/5364cbf9.jpg",
