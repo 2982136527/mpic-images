@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "07037e16",
+      "filename": "pixiv_148024084_p0.jpg",
+      "path": "uploads/2026/08/4b61a8dd.jpg",
+      "size": 1064339,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8f6616c05756aa93e1e378156c0e0f82229f33cd3729d466a43b1c04a5a55a66",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:51:44.091Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "チアノア",
+      "tags": [
+        "生塩ノア",
+        "ブルアカ",
+        "BlueArchive",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148024084_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148024084",
+      "sourceCreatedAt": "2026-08-04T14:17:08.000Z"
+    },
+    {
       "id": "fcd996f7",
       "filename": "pixiv_148011505_p0.jpg",
       "path": "uploads/2026/08/3548351e.jpg",
