@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "122643ba",
+      "filename": "pixiv_147978491_p0.jpg",
+      "path": "uploads/2026/08/8f1a1025.jpg",
+      "size": 1721806,
+      "width": 1000,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0b6d8f6935f6e31a404be6841a4309cfa09042a3a214e3b15d2698688dc4901b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:50:32.695Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "虫風花・ミロク",
+      "tags": [
+        "仕事絵",
+        "シャドバWB",
+        "シャドウバースご本人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147978491_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147978491",
+      "sourceCreatedAt": "2026-08-03T11:06:47.000Z"
+    },
+    {
       "id": "5d12472c",
       "filename": "pixiv_147924901_p0.jpg",
       "path": "uploads/2026/08/c40f43e8.jpg",
