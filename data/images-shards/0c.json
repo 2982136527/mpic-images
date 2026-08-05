@@ -3,6 +3,33 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "1c9d9ba9",
+      "filename": "pixiv_147969582_p0.jpg",
+      "path": "uploads/2026/08/5b3b7efa.jpg",
+      "size": 584156,
+      "width": 727,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "496c702657f603fa318d786608d2a9b42b6ae7980959234c5d2ffd0a30f616c2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:43:49.678Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "dace",
+      "tags": [
+        "デイス(艦隊これくしょん)",
+        "艦これ",
+        "艦隊これくしょん",
+        "ラバースーツ",
+        "ぴっちりスーツ",
+        "艦ラバー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147969582_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147969582",
+      "sourceCreatedAt": "2026-08-03T05:54:52.000Z"
+    },
+    {
       "id": "d3d8984d",
       "filename": "pixiv_147752609_p0.jpg",
       "path": "uploads/2026/08/41790f72.jpg",
