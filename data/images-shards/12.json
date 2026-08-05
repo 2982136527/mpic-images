@@ -3,6 +3,36 @@
   "shardId": "12",
   "images": [
     {
+      "id": "e2aababe",
+      "filename": "pixiv_147973751_p0.jpg",
+      "path": "uploads/2026/08/7236f413.jpg",
+      "size": 1012036,
+      "width": 686,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "237fd1988a067bacff1a5b02d9b79e47b94271933f03023d034caac3dcdf5b1c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T03:21:45.605Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Aemeath",
+      "tags": [
+        "Aemeath",
+        "AIイラスト",
+        "美少女",
+        "WutheringWaves",
+        "鸣潮",
+        "鳴潮",
+        "NovelAIDiffusionV5",
+        "爱弥斯",
+        "エイメス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147973751_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147973751",
+      "sourceCreatedAt": "2026-08-03T09:11:37.000Z"
+    },
+    {
       "id": "446a9bb2",
       "filename": "pixiv_147969195_p0.jpg",
       "path": "uploads/2026/08/a4e98f79.jpg",
