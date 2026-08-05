@@ -3,6 +3,37 @@
   "shardId": "14",
   "images": [
     {
+      "id": "a49c967a",
+      "filename": "pixiv_147768431_p0.jpg",
+      "path": "uploads/2026/08/e02f6064.jpg",
+      "size": 2027549,
+      "width": 899,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a373ff14308927e8cec761ed429b244b54d2d1a61b6aa60a2af134ee4179cf6d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T03:22:43.756Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏星 × 星街すいせい",
+      "tags": [
+        "pixivGlowEffect",
+        "星街すいせい",
+        "風景",
+        "夏コミ",
+        "ホロライブ",
+        "背景",
+        "星空",
+        "星",
+        "イラスト",
+        "バーチャルYouTuber500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147768431_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147768431",
+      "sourceCreatedAt": "2026-07-29T08:19:02.000Z"
+    },
+    {
       "id": "ea58b4c0",
       "filename": "pixiv_147747677_p0.jpg",
       "path": "uploads/2026/08/5c50e02a.jpg",
