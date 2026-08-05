@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "c60e23a4",
+      "filename": "pixiv_147980833_p0.jpg",
+      "path": "uploads/2026/08/3777886e.jpg",
+      "size": 1309232,
+      "width": 1200,
+      "height": 1199,
+      "mimeType": "image/jpeg",
+      "hash": "21febc812520294c923c2c0ff25e66002d51187c76c08ffc6acd6a533f613a63",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:45:21.975Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "セイレーンちゃん",
+      "tags": [
+        "セイレーン(ちいかわ)",
+        "マーこれ可愛い"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147980833_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147980833",
+      "sourceCreatedAt": "2026-08-03T12:00:56.000Z"
+    },
+    {
       "id": "a640f018",
       "filename": "pixiv_147957653_p0.jpg",
       "path": "uploads/2026/08/eb34bf44.jpg",
