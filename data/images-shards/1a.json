@@ -3,6 +3,35 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "2ac4a5c0",
+      "filename": "pixiv_148016142_p0.jpg",
+      "path": "uploads/2026/08/cbf1f786.jpg",
+      "size": 1167719,
+      "width": 873,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "328e136d960ea5aa3fe212946b8723bb58dfd1bbd1539b084e4ed417565e73a7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:49:28.881Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "插画",
+        "原创",
+        "设定",
+        "人设",
+        "創作",
+        "イラスト",
+        "女の子",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148016142_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148016142",
+      "sourceCreatedAt": "2026-08-04T11:16:24.000Z"
+    },
+    {
       "id": "fdccb13e",
       "filename": "pixiv_147964692_p0.jpg",
       "path": "uploads/2026/08/c3de5e20.jpg",
