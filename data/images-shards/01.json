@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "9d632967",
+      "filename": "pixiv_147984966_p0.jpg",
+      "path": "uploads/2026/08/fe80aab6.jpg",
+      "size": 1081288,
+      "width": 912,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e611ced4d365919f403584c82058854754cd2f50ff84ea029f09efd6ee86cdd4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T10:48:08.639Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "昨日はバニーの日だったとかなんとか。",
+      "tags": [
+        "ゼンゼロ",
+        "クレタ・ベロボーグ",
+        "美甘ネル",
+        "アリア(ゼンゼロ)",
+        "船上のバニーチェイサー",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147984966_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147984966",
+      "sourceCreatedAt": "2026-08-03T13:33:13.000Z"
+    },
+    {
       "id": "189afb6f",
       "filename": "pixiv_148015418_p0.jpg",
       "path": "uploads/2026/08/6e8b51c3.jpg",
