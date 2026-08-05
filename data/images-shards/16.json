@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "07e883fb",
+      "filename": "pixiv_147955252_p0.jpg",
+      "path": "uploads/2026/08/00d5cc3c.jpg",
+      "size": 1388189,
+      "width": 1131,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "338c91ed7863606cef7c70928ca2cdfa46ce77ab52e3fe0e5e4435303e57a928",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-05T03:20:12.189Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "놀아줄래 키라",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "キラ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147955252_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147955252",
+      "sourceCreatedAt": "2026-08-02T16:51:16.000Z"
+    },
+    {
       "id": "adab5713",
       "filename": "pixiv_147906449_p0.jpg",
       "path": "uploads/2026/08/6eeed045.jpg",
