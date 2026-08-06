@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "68f0c04f",
+      "filename": "pixiv_147990020_p0.jpg",
+      "path": "uploads/2026/08/b310020a.jpg",
+      "size": 563920,
+      "width": 742,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "362c0e342c9a5f7e15e5dbae37b73c63b8692a103fc7f611b7f154ee10b9b361",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T01:59:56.851Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リリス",
+      "tags": [
+        "Fate/GrandOrder",
+        "リリス(Fate)",
+        "バニーガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147990020_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147990020",
+      "sourceCreatedAt": "2026-08-03T15:19:28.000Z"
+    },
+    {
       "id": "ca8f83e5",
       "filename": "pixiv_148015292_p0.jpg",
       "path": "uploads/2026/08/6c15a7c1.jpg",
