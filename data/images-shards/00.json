@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "c9b95519",
+      "filename": "pixiv_148026792_p0.jpg",
+      "path": "uploads/2026/08/410c0022.jpg",
+      "size": 1106339,
+      "width": 862,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3df1f64fa1b2312c1298515f518212f585303daceea55936152b3e7cee482deb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:51:30.156Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "「嫌だ、なんて言ってませんから…」",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "天童ケイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148026792_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148026792",
+      "sourceCreatedAt": "2026-08-04T15:09:43.000Z"
+    },
+    {
       "id": "4667b0e7",
       "filename": "pixiv_148048887_p0.jpg",
       "path": "uploads/2026/08/ea484d63.jpg",
