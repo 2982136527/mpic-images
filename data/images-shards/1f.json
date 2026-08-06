@@ -3,6 +3,35 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "27232f21",
+      "filename": "pixiv_148024969_p0.jpg",
+      "path": "uploads/2026/08/0b343d4d.jpg",
+      "size": 949737,
+      "width": 1200,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "74bd642f58cd97bea1af5ec3575d3dc351a76e6b74b396fa994e4c4058105120",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:51:40.258Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "風景",
+        "背景",
+        "橋",
+        "闇夜",
+        "夜景",
+        "街灯",
+        "タワーマンション"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148024969_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148024969",
+      "sourceCreatedAt": "2026-08-04T14:37:59.000Z"
+    },
+    {
       "id": "cbac85f8",
       "filename": "pixiv_148010474_p0.jpg",
       "path": "uploads/2026/08/c4e65087.jpg",
