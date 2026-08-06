@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "70401017",
+      "filename": "pixiv_148047047_p0.jpg",
+      "path": "uploads/2026/08/666d92e0.jpg",
+      "size": 390967,
+      "width": 761,
+      "height": 1132,
+      "mimeType": "image/jpeg",
+      "hash": "3862a1704b3f8c8469e0cb70e59dc6a760f2993abb4f2849565ff72180dce7ef",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:54:08.757Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "シュロちゃん！",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "シュロ",
+        "箭吹シュロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148047047_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148047047",
+      "sourceCreatedAt": "2026-08-05T08:12:03.000Z"
+    },
+    {
       "id": "06421fb9",
       "filename": "pixiv_148038600_p0.jpg",
       "path": "uploads/2026/08/8511cdea.jpg",
