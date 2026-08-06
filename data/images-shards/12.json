@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "dd154829",
+      "filename": "pixiv_148053400_p0.jpg",
+      "path": "uploads/2026/08/70d917b9.jpg",
+      "size": 955774,
+      "width": 763,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7ee8c9a1b959e77fd18791b552f7077134b05fff3537dd41a344654c9a515333",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:54:14.354Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Lulla 🧸🐱",
+      "tags": [
+        "lulla",
+        "ランラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148053400_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148053400",
+      "sourceCreatedAt": "2026-08-05T11:11:49.000Z"
+    },
+    {
       "id": "8d04c3c6",
       "filename": "pixiv_148054969_p0.jpg",
       "path": "uploads/2026/08/f8db24ac.jpg",
