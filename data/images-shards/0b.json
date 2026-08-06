@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "1bec13ac",
+      "filename": "pixiv_147992560_p0.jpg",
+      "path": "uploads/2026/08/eefd0ab3.jpg",
+      "size": 1251959,
+      "width": 1200,
+      "height": 1098,
+      "mimeType": "image/jpeg",
+      "hash": "02c9e767becefa87504870c6c6728837686b17e4b2335b9f4994e20f07870281",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:48:40.750Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "国旗娘まとめ一",
+      "tags": [
+        "百合",
+        "国旗娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147992560_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147992560",
+      "sourceCreatedAt": "2026-08-03T16:35:59.000Z"
+    },
+    {
       "id": "5810b237",
       "filename": "pixiv_148035674_p0.jpg",
       "path": "uploads/2026/08/518f82cf.jpg",
