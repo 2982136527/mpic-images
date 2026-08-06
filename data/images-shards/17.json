@@ -3,6 +3,36 @@
   "shardId": "17",
   "images": [
     {
+      "id": "d13e0c7c",
+      "filename": "pixiv_147989901_p0.jpg",
+      "path": "uploads/2026/08/86c774a7.jpg",
+      "size": 185385,
+      "width": 768,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "210208c851f1f3f5fb12dae7f1b9130d4ddaec3372e11481367fee47920972d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T01:56:53.536Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "今日の日記",
+      "tags": [
+        "うさぎ",
+        "日記",
+        "絵日記",
+        "1日1枚",
+        "一日一絵",
+        "映画",
+        "ちいかわ",
+        "人魚の島のひみつ",
+        "うさぎ(ちいかわ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147989901_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147989901",
+      "sourceCreatedAt": "2026-08-03T15:16:44.000Z"
+    },
+    {
       "id": "30ba7af5",
       "filename": "pixiv_147984346_p0.jpg",
       "path": "uploads/2026/08/510a56f6.jpg",
