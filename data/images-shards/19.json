@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "5e077741",
+      "filename": "pixiv_147994009_p0.jpg",
+      "path": "uploads/2026/08/70caca90.jpg",
+      "size": 908706,
+      "width": 1200,
+      "height": 1067,
+      "mimeType": "image/jpeg",
+      "hash": "3e63f1fd27d50c6ed680401867dd74405002eb90107dac5af093479500e4d143",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T01:53:49.835Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "올가미카",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "어금니_사무소"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147994009_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147994009",
+      "sourceCreatedAt": "2026-08-03T17:41:49.000Z"
+    },
+    {
       "id": "35934272",
       "filename": "pixiv_147987102_p0.jpg",
       "path": "uploads/2026/08/b453e892.jpg",
