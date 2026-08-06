@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "53b20483",
+      "filename": "pixiv_148046910_p0.jpg",
+      "path": "uploads/2026/08/dff61642.jpg",
+      "size": 902573,
+      "width": 1048,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "05ee7bbbb6408eefd9bc19c6bd32d086c93fb7b070b97cff86266ab4ea3ebc3d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:56:51.829Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "一次創作夢3",
+      "tags": [
+        "創作男子",
+        "ヤンデレ",
+        "夢漫画",
+        "創作男女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148046910_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148046910",
+      "sourceCreatedAt": "2026-08-05T08:06:03.000Z"
+    },
+    {
       "id": "dd154829",
       "filename": "pixiv_148053400_p0.jpg",
       "path": "uploads/2026/08/70d917b9.jpg",
