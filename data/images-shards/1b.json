@@ -3,6 +3,37 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "70abfba2",
+      "filename": "pixiv_148011286_p0.jpg",
+      "path": "uploads/2026/08/8b327d79.jpg",
+      "size": 1510017,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "89889c152bf908d8da5a37f54238af020a83cdf11fa28f799313ddcd415fc8b7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T01:52:19.688Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "キュアエクレール",
+      "tags": [
+        "プリキュア",
+        "precure",
+        "名探偵プリキュア!",
+        "名探偵プリキュア",
+        "たんプリ",
+        "キュアエクレール",
+        "帆羽くれあ",
+        "きらめきタイム",
+        "オッドアイ",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148011286_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148011286",
+      "sourceCreatedAt": "2026-08-04T09:02:38.000Z"
+    },
+    {
       "id": "82dd7bae",
       "filename": "pixiv_147974395_p0.jpg",
       "path": "uploads/2026/08/c126a7b7.jpg",
