@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "2862dcd0",
+      "filename": "pixiv_147953357_p0.jpg",
+      "path": "uploads/2026/08/856d5502.jpg",
+      "size": 1240510,
+      "width": 1200,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "380a93f4a9510e155a86d3e1bb836d36713ad862d7e1445c7e8d34187e87e8f7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T01:54:51.664Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "梦",
+      "tags": [
+        "東方Project",
+        "東方",
+        "博麗霊夢",
+        "花と女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147953357_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147953357",
+      "sourceCreatedAt": "2026-08-02T15:50:52.000Z"
+    },
+    {
       "id": "5e077741",
       "filename": "pixiv_147994009_p0.jpg",
       "path": "uploads/2026/08/70caca90.jpg",
