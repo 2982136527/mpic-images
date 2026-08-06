@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "96b15fa2",
+      "filename": "pixiv_147997710_p0.jpg",
+      "path": "uploads/2026/08/0ab8628f.jpg",
+      "size": 1327702,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d6a4e1b0a67361fc5d24387d6d1f72a674037c95be984e6fa504a4ac84eeaf3b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T02:00:04.122Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Jalter",
+      "tags": [
+        "ジャンヌ・オルタ",
+        "FGO",
+        "Fate/GrandOrder",
+        "TYPE-MOON"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147997710_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147997710",
+      "sourceCreatedAt": "2026-08-03T21:52:09.000Z"
+    },
+    {
       "id": "af2d4b7a",
       "filename": "pixiv_147979919_p0.jpg",
       "path": "uploads/2026/08/967c458a.jpg",
