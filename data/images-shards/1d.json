@@ -3,6 +3,34 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "a0fdf21d",
+      "filename": "pixiv_146968049_p0.jpg",
+      "path": "uploads/2026/08/bb368a17.jpg",
+      "size": 1431135,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "862419723c3552a3595f4acb085b80e9d80a98b77e70038d05bfbd6aa116547b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T01:58:31.905Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "レディ",
+      "tags": [
+        "女の子",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "勇美カエデ",
+        "背中",
+        "うなじ",
+        "ブルーアーカイブ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "146968049_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/146968049",
+      "sourceCreatedAt": "2026-07-08T10:30:05.000Z"
+    },
+    {
       "id": "83785285",
       "filename": "pixiv_147988899_p0.jpg",
       "path": "uploads/2026/08/cb28280f.jpg",
