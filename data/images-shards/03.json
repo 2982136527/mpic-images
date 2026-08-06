@@ -3,6 +3,34 @@
   "shardId": "03",
   "images": [
     {
+      "id": "402e10cc",
+      "filename": "pixiv_148036105_p0.jpg",
+      "path": "uploads/2026/08/dc4b5755.jpg",
+      "size": 365702,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "56bed998f01595b1ab90b810972c8d3aaf9f7cce7bfb8cdf4148cb67a07d2e92",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:55:59.891Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Babydoll Weine ~",
+      "tags": [
+        "Hololive",
+        "Reinessance",
+        "fanart",
+        "girl",
+        "VTuber",
+        "illustration",
+        "HololiveID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148036105_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148036105",
+      "sourceCreatedAt": "2026-08-04T22:55:15.000Z"
+    },
+    {
       "id": "0b673c32",
       "filename": "pixiv_147990521_p0.jpg",
       "path": "uploads/2026/08/1e2a9a16.jpg",
