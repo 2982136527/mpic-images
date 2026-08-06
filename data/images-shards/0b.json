@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "5810b237",
+      "filename": "pixiv_148035674_p0.jpg",
+      "path": "uploads/2026/08/518f82cf.jpg",
+      "size": 1462916,
+      "width": 855,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f5e8eae33db2981f165486e98a62c49c59478a74c46c4fbf6abd89a1bd68c02e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:47:40.529Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "このままいっそ漂流したい",
+      "tags": [
+        "創作",
+        "SOS"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148035674_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148035674",
+      "sourceCreatedAt": "2026-08-04T22:30:04.000Z"
+    },
+    {
       "id": "909ec12d",
       "filename": "pixiv_147997436_p0.jpg",
       "path": "uploads/2026/08/be63f381.jpg",
