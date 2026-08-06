@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "b01ae5e1",
+      "filename": "pixiv_147996760_p0.jpg",
+      "path": "uploads/2026/08/9faa9e1b.jpg",
+      "size": 714230,
+      "width": 819,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a6142308fc40f18b505f144ce29f33b34078e85321054b0f6e85a3b2d8f27797",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T01:54:59.375Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リコリス・リコイル_90",
+      "tags": [
+        "リコリス・リコイル",
+        "錦木千束",
+        "タイツ",
+        "黒タイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147996760_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147996760",
+      "sourceCreatedAt": "2026-08-03T20:46:16.000Z"
+    },
+    {
       "id": "60e6c6fc",
       "filename": "pixiv_147972392_p0.jpg",
       "path": "uploads/2026/08/13179da4.jpg",
