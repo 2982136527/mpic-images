@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "2efb10f3",
+      "filename": "pixiv_148042271_p0.jpg",
+      "path": "uploads/2026/08/ed12ca0a.jpg",
+      "size": 869752,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fd9ddd6faf653736db04d852c1b7d8d570d2c04681ef48b3f04f33db519b0084",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:48:17.746Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": ":D",
+      "tags": [
+        "少女",
+        "绝区零",
+        "レミエール・ダン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148042271_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148042271",
+      "sourceCreatedAt": "2026-08-05T04:19:13.000Z"
+    },
+    {
       "id": "8f8e6b69",
       "filename": "pixiv_148011139_p0.jpg",
       "path": "uploads/2026/08/d0096fc8.jpg",
