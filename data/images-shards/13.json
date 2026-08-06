@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "c3276f2d",
+      "filename": "pixiv_147990051_p0.jpg",
+      "path": "uploads/2026/08/110c5ddb.jpg",
+      "size": 415502,
+      "width": 1200,
+      "height": 1016,
+      "mimeType": "image/jpeg",
+      "hash": "f17065bf363a35a559df9b0cf2bcc125acfbe6107019078180bb7bfe5ed78239",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T01:59:49.452Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "なんかそんな世界があるらしい",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ブエナビスタ(ウマ娘)",
+        "ファインモーション(ウマ娘)",
+        "サクラローレル(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147990051_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147990051",
+      "sourceCreatedAt": "2026-08-03T15:20:17.000Z"
+    },
+    {
       "id": "638424c5",
       "filename": "pixiv_147966989_p0.jpg",
       "path": "uploads/2026/08/f33575c8.jpg",
