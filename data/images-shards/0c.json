@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "0729723f",
+      "filename": "pixiv_147993357_p0.jpg",
+      "path": "uploads/2026/08/a142d5c7.jpg",
+      "size": 1305252,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "d0b50760d8ca4e6fbb07f14b818750003612b401665a9d15b0b03d618d234b6e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T01:51:11.348Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🪽",
+      "tags": [
+        "VTuber",
+        "イラスト",
+        "神楽めあ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147993357_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147993357",
+      "sourceCreatedAt": "2026-08-03T17:08:54.000Z"
+    },
+    {
       "id": "6bd0dbd7",
       "filename": "pixiv_148000926_p0.jpg",
       "path": "uploads/2026/08/67aff913.jpg",
