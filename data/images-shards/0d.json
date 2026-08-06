@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "8fe61877",
+      "filename": "pixiv_148007289_p0.jpg",
+      "path": "uploads/2026/08/2153436b.jpg",
+      "size": 950962,
+      "width": 957,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d3ba723e69e814b15c274b09fb06e0d1ad967612fdc443a086ee51648ad13774",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:49:15.169Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "레미!",
+      "tags": [
+        "zzzero",
+        "レミエール・ダン",
+        "ゼンゼロ",
+        "ビビアン・バンシー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148007289_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148007289",
+      "sourceCreatedAt": "2026-08-04T06:16:51.000Z"
+    },
+    {
       "id": "56e72ae4",
       "filename": "pixiv_148011666_p0.jpg",
       "path": "uploads/2026/08/eeeffc8f.jpg",
