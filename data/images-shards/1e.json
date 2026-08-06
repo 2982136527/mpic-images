@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "d44818c6",
+      "filename": "pixiv_148004635_p0.jpg",
+      "path": "uploads/2026/08/3cd9eb49.jpg",
+      "size": 447590,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ee050bee67e165874ab1dba7d7aeb1ae78aa16e5c3d53ce57f5ad4c3924bd2ec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:56:25.795Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "白石ウタハ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "白石ウタハ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148004635_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148004635",
+      "sourceCreatedAt": "2026-08-04T04:02:39.000Z"
+    },
+    {
       "id": "85e9e8ec",
       "filename": "pixiv_148016024_p0.jpg",
       "path": "uploads/2026/08/95f1dd74.jpg",
