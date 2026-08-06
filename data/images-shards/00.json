@@ -3,6 +3,36 @@
   "shardId": "00",
   "images": [
     {
+      "id": "022c8002",
+      "filename": "pixiv_148014148_p0.jpg",
+      "path": "uploads/2026/08/5d76b177.jpg",
+      "size": 598623,
+      "width": 824,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "782f767778391950e2b236ba6b60601de3356f266cbc56d6439ad8f61dcf1fa8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:52:55.722Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "コミックマーケット108　新刊『ハーフオアハーフ Summer』",
+      "tags": [
+        "東方",
+        "漫画",
+        "C108",
+        "魂魄妖夢",
+        "半霊",
+        "森近霖之助",
+        "西行寺幽々子",
+        "サンプル",
+        "普通の魔法使いがアップを始めました"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148014148_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148014148",
+      "sourceCreatedAt": "2026-08-04T10:29:23.000Z"
+    },
+    {
       "id": "c9b95519",
       "filename": "pixiv_148026792_p0.jpg",
       "path": "uploads/2026/08/410c0022.jpg",
