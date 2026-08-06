@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "ee4309ce",
+      "filename": "pixiv_147999944_p0.jpg",
+      "path": "uploads/2026/08/11506cf3.jpg",
+      "size": 617920,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9cfa928a1328ca33992b48f61db1a8c32121e0b5add58dda98d0d7b4bf8cd634",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:53:01.055Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "愛莉",
+      "tags": [
+        "プロセカ",
+        "プロジェクトセカイ",
+        "落書き",
+        "桃井愛莉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147999944_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147999944",
+      "sourceCreatedAt": "2026-08-03T23:53:26.000Z"
+    },
+    {
       "id": "add49f40",
       "filename": "pixiv_148060817_p0.jpg",
       "path": "uploads/2026/08/ccd79bc8.jpg",
