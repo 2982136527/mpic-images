@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "8dec5167",
+      "filename": "pixiv_148001757_p0.jpg",
+      "path": "uploads/2026/08/1f45fc95.jpg",
+      "size": 424037,
+      "width": 1000,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7d0242827d8c0c4eaf9f98f0308e49580ea4902da84276155f330df10631bf4c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:50:15.226Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "vantoma",
+      "tags": [
+        "ロリ",
+        "オリキャラ",
+        "original",
+        "originalcharacter"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148001757_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148001757",
+      "sourceCreatedAt": "2026-08-04T01:42:20.000Z"
+    },
+    {
       "id": "d89ba8f0",
       "filename": "pixiv_148051728_p0.jpg",
       "path": "uploads/2026/08/d9156eb9.jpg",
