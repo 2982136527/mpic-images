@@ -3,6 +3,37 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "8f031cda",
+      "filename": "pixiv_148016890_p0.jpg",
+      "path": "uploads/2026/08/90038f42.jpg",
+      "size": 1129346,
+      "width": 1200,
+      "height": 884,
+      "mimeType": "image/jpeg",
+      "hash": "b565310ee755f4812694047c2cc1f29c1c271bd234fa31d7e01f6ed36eb905fd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:49:23.615Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "♡cm♡",
+      "tags": [
+        "少女",
+        "painting",
+        "drawing",
+        "draw",
+        "創作",
+        "イラスト",
+        "ドレス",
+        "女の子",
+        "dress",
+        "ロココ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148016890_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148016890",
+      "sourceCreatedAt": "2026-08-04T11:34:25.000Z"
+    },
+    {
       "id": "2ac4a5c0",
       "filename": "pixiv_148016142_p0.jpg",
       "path": "uploads/2026/08/cbf1f786.jpg",
