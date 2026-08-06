@@ -3,6 +3,34 @@
   "shardId": "04",
   "images": [
     {
+      "id": "d324627b",
+      "filename": "pixiv_148026441_p0.jpg",
+      "path": "uploads/2026/08/6ea0c576.jpg",
+      "size": 1671183,
+      "width": 1200,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "d574a5d1662d3ef9a186b083a5472e88ee50ff12801abaff98dae60e02f6be87",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:53:51.517Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "落英无声",
+      "tags": [
+        "女の子",
+        "鸣潮",
+        "WutheringWaves",
+        "千咲",
+        "桜",
+        "風景",
+        "着物"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148026441_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148026441",
+      "sourceCreatedAt": "2026-08-04T15:03:40.000Z"
+    },
+    {
       "id": "9b2800a9",
       "filename": "pixiv_148026003_p0.jpg",
       "path": "uploads/2026/08/d751611b.jpg",
