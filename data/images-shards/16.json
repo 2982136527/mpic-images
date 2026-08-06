@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "ddff4eb5",
+      "filename": "pixiv_148033037_p0.jpg",
+      "path": "uploads/2026/08/e70b221b.jpg",
+      "size": 862918,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6e7fbe213e4a7c4a171714fe86ff52377739bdeb20117cc673b7dea84d9d8b11",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:53:09.201Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "スターサファイア",
+        "ルナチャイルド",
+        "サニーミルク",
+        "東方",
+        "東方Project",
+        "三妖精"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148033037_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148033037",
+      "sourceCreatedAt": "2026-08-04T19:44:07.000Z"
+    },
+    {
       "id": "60e1eeb5",
       "filename": "pixiv_148017239_p0.jpg",
       "path": "uploads/2026/08/1ba3d150.jpg",
