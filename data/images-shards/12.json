@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "d501f643",
+      "filename": "pixiv_148056752_p0.jpg",
+      "path": "uploads/2026/08/18d8e52a.jpg",
+      "size": 1139889,
+      "width": 986,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "27265e9c2f340853fa48368d423a0f4d8108b64c03997d1e2149ec4381812dd4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:52:27.099Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "호시노 키라",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "キラ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148056752_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148056752",
+      "sourceCreatedAt": "2026-08-05T12:28:17.000Z"
+    },
+    {
       "id": "a4598509",
       "filename": "pixiv_148015817_p0.jpg",
       "path": "uploads/2026/08/c9761bbd.jpg",
