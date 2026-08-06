@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "6cd14618",
+      "filename": "pixiv_147988944_p0.jpg",
+      "path": "uploads/2026/08/4333f853.jpg",
+      "size": 844683,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d0b87cd5337772a9936b15174d3a3635368d0529b337f5605b2942d78d161025",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T01:56:38.587Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "アルカナ",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "アルカナ:フォーチュンメイト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147988944_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147988944",
+      "sourceCreatedAt": "2026-08-03T15:00:25.000Z"
+    },
+    {
       "id": "60cf0c8b",
       "filename": "pixiv_147989291_p0.jpg",
       "path": "uploads/2026/08/ecd30aea.jpg",
