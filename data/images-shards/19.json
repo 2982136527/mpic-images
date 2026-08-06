@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "d90929b2",
+      "filename": "pixiv_148050023_p0.jpg",
+      "path": "uploads/2026/08/38ac770d.jpg",
+      "size": 483498,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7da7179c00f5d477ea0643fce8b91243befbcd7072293d220a23359e690d5d67",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:50:34.765Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ドラキナ",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ドラキナ・サンブリンガー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148050023_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148050023",
+      "sourceCreatedAt": "2026-08-05T09:48:28.000Z"
+    },
+    {
       "id": "0d3599c6",
       "filename": "pixiv_148050590_p0.jpg",
       "path": "uploads/2026/08/f44c8039.jpg",
