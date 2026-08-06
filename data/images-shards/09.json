@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "add49f40",
+      "filename": "pixiv_148060817_p0.jpg",
+      "path": "uploads/2026/08/ccd79bc8.jpg",
+      "size": 729045,
+      "width": 1076,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "afa5a3a89e81fb18742fc0827d69c48ff3e5fe961d825550b1c9819c93e7514d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-06T10:50:28.761Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "てるちゃん",
+        "あおいとり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148060817_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148060817",
+      "sourceCreatedAt": "2026-08-05T13:59:20.000Z"
+    },
+    {
       "id": "f6775633",
       "filename": "pixiv_147982486_p0.jpg",
       "path": "uploads/2026/08/0ce18641.jpg",
