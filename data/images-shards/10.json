@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "51eebe21",
+      "filename": "pixiv_148030890_p0.jpg",
+      "path": "uploads/2026/08/b79b86d9.jpg",
+      "size": 907790,
+      "width": 690,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9ef046a267a2c1ea4d07fbc5ee5f52177e388bc1fbb0e25964dc647c4a844ebc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:13:45.609Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "うぃ～",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "古関ウイ",
+        "ジト目",
+        "ヘイロー(ブルーアーカイブ)",
+        "ブルーアーカイブ500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148030890_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148030890",
+      "sourceCreatedAt": "2026-08-04T17:17:01.000Z"
+    },
+    {
       "id": "973cd93c",
       "filename": "pixiv_148007771_p0.jpg",
       "path": "uploads/2026/08/e821d460.jpg",
