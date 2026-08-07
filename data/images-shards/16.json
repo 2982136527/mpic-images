@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "b06e4813",
+      "filename": "pixiv_148086125_p0.jpg",
+      "path": "uploads/2026/08/78bd1c80.jpg",
+      "size": 1317649,
+      "width": 844,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c0b63bfe04095da1b5c505a2c5aeb1ef32ccae5128b466155776468a6f765959",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:05:29.371Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【C108】新刊 「CheckMate」イラスト集",
+      "tags": [
+        "C108",
+        "イラスト集",
+        "原神",
+        "GenshinImpact",
+        "魔女会",
+        "魔女会(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148086125_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148086125",
+      "sourceCreatedAt": "2026-08-06T09:06:02.000Z"
+    },
+    {
       "id": "0864428d",
       "filename": "pixiv_148052604_p0.jpg",
       "path": "uploads/2026/08/7a3cf369.jpg",
