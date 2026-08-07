@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "7aca1c6e",
+      "filename": "pixiv_148075694_p0.jpg",
+      "path": "uploads/2026/08/803c27ac.jpg",
+      "size": 362083,
+      "width": 945,
+      "height": 945,
+      "mimeType": "image/jpeg",
+      "hash": "19a1a6e9cc0fe1f6284f77991ad05a1b400729c33db25d6eb81cafeb893b0244",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:08:08.047Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "summertime!",
+      "tags": [
+        "oc",
+        "yunayu",
+        "SD"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148075694_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148075694",
+      "sourceCreatedAt": "2026-08-06T01:07:15.000Z"
+    },
+    {
       "id": "096e55c9",
       "filename": "pixiv_148048842_p0.jpg",
       "path": "uploads/2026/08/3ebd0f29.jpg",
