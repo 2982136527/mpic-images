@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "011617ff",
+      "filename": "pixiv_148026842_p0.jpg",
+      "path": "uploads/2026/08/5b2e04e3.jpg",
+      "size": 805880,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d4f4de54a8c07160d26888737c05ebfe22836f7949ce643530a8a4943adf469c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:20:40.223Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "何か言われたらしいカフェ",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "マンハッタンカフェ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148026842_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148026842",
+      "sourceCreatedAt": "2026-08-04T15:10:45.000Z"
+    },
+    {
       "id": "0ffb5b7c",
       "filename": "pixiv_148026659_p0.jpg",
       "path": "uploads/2026/08/ed6893f4.jpg",
