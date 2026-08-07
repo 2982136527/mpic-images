@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "364c2168",
+      "filename": "pixiv_148030835_p0.jpg",
+      "path": "uploads/2026/08/9294f3ee.jpg",
+      "size": 825179,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "732ce0d6fdfc327199b4c0dce2325676a68205e5e95159515150a0a40063fea1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:15:22.113Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "大河さん",
+      "tags": [
+        "オリジナル",
+        "宇佐美大河",
+        "大河さん",
+        "うちの子",
+        "ぱんつ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148030835_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148030835",
+      "sourceCreatedAt": "2026-08-04T17:14:38.000Z"
+    },
+    {
       "id": "b181b833",
       "filename": "pixiv_148008226_p0.jpg",
       "path": "uploads/2026/08/16546e64.jpg",
