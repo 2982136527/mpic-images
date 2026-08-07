@@ -3,6 +3,34 @@
   "shardId": "00",
   "images": [
     {
+      "id": "e4c8d3a1",
+      "filename": "pixiv_148048389_p0.jpg",
+      "path": "uploads/2026/08/4e999b5f.jpg",
+      "size": 1221701,
+      "width": 859,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2a108d19c691448d3e22547959fed9f441777a2efa540dbc3b5ebb11fbdb953b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:13:49.198Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108 1日目 新刊イラスト本「妄想Addiction」",
+      "tags": [
+        "ゼンゼロ",
+        "ゼンレスゾーンゼロ",
+        "妄想エンジェル",
+        "C108",
+        "千夏(ゼンゼロ)",
+        "アリア(ゼンゼロ)",
+        "南宮羽"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148048389_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148048389",
+      "sourceCreatedAt": "2026-08-05T09:00:17.000Z"
+    },
+    {
       "id": "022c8002",
       "filename": "pixiv_148014148_p0.jpg",
       "path": "uploads/2026/08/5d76b177.jpg",
