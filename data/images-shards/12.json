@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "7b29134b",
+      "filename": "pixiv_147990269_p0.jpg",
+      "path": "uploads/2026/08/91c7b1e0.jpg",
+      "size": 740764,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "031389734a9157968a6f14c37f1f0fccd8f98bee0e475c8bd972a42e69c0094c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:19:09.505Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ホメメテオ×ビリーヴ",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "ビリーヴ(ウマ娘)",
+        "ホメメテオ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147990269_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147990269",
+      "sourceCreatedAt": "2026-08-03T15:26:00.000Z"
+    },
+    {
       "id": "877b225b",
       "filename": "pixiv_148026751_p0.jpg",
       "path": "uploads/2026/08/41ea9128.jpg",
