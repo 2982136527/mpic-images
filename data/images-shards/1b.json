@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "de69d357",
+      "filename": "pixiv_148075146_p0.jpg",
+      "path": "uploads/2026/08/68729b31.jpg",
+      "size": 774975,
+      "width": 857,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1ad9b15dbe7fbcb6ca27e85197a93a601272366d61c683fcfb45c1532e1887a7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:16:18.791Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "機械",
+        "青髪",
+        "義手"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148075146_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148075146",
+      "sourceCreatedAt": "2026-08-06T00:36:53.000Z"
+    },
+    {
       "id": "587d82f5",
       "filename": "pixiv_148023068_p0.jpg",
       "path": "uploads/2026/08/c6e97964.jpg",
