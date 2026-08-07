@@ -3,6 +3,28 @@
   "shardId": "04",
   "images": [
     {
+      "id": "3d38eb76",
+      "filename": "pixiv_148050079_p0.jpg",
+      "path": "uploads/2026/08/f07b75f8.jpg",
+      "size": 2044212,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "51011a90fa48c3c8fe31a8fdf7359d8b9185deaad468102bea3a604241724bc7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:13:26.165Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "別の道があったのかな",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148050079_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148050079",
+      "sourceCreatedAt": "2026-08-05T09:50:21.000Z"
+    },
+    {
       "id": "ba0ee0ff",
       "filename": "pixiv_148025961_p0.jpg",
       "path": "uploads/2026/08/a7752bb4.jpg",
