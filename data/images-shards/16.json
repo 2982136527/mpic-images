@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "c7c7ac4a",
+      "filename": "pixiv_148025989_p0.jpg",
+      "path": "uploads/2026/08/e91d2208.jpg",
+      "size": 1640265,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9602ed5cb406dd1e266f5ca4a635ea190d454025ff468e4c4faae89da10c9d81",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:10:36.066Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ブルアカ5.5周年おめでとうございます",
+      "tags": [
+        "ブルアカ",
+        "桜井ミヨ",
+        "ブルーアーカイブ",
+        "耳かき"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148025989_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148025989",
+      "sourceCreatedAt": "2026-08-04T15:00:14.000Z"
+    },
+    {
       "id": "164e1b78",
       "filename": "pixiv_148033597_p0.jpg",
       "path": "uploads/2026/08/1ec7d254.jpg",
