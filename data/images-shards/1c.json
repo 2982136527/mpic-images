@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "11ce97bc",
+      "filename": "pixiv_148063553_p0.jpg",
+      "path": "uploads/2026/08/b7452f4c.jpg",
+      "size": 1260422,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b67c2ef0676868e3704233eeec74f6db80f83b76c88d2543bf162aab9419147c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:13:14.021Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リオ",
+      "tags": [
+        "ブルーアーカイブ",
+        "調月リオ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148063553_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148063553",
+      "sourceCreatedAt": "2026-08-05T15:00:20.000Z"
+    },
+    {
       "id": "a79bb032",
       "filename": "pixiv_148009968_p0.jpg",
       "path": "uploads/2026/08/0f5e8506.jpg",
