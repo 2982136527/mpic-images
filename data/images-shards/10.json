@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "28b0e24d",
+      "filename": "pixiv_148029689_p0.jpg",
+      "path": "uploads/2026/08/8999ec26.jpg",
+      "size": 366463,
+      "width": 989,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9ae24cfb7c3021361ea3fc524970a53be95039c355db10fc34fb2f50adf71c1a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:14:39.627Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "warm toast",
+      "tags": [
+        "NanashiMumei",
+        "七詩ムメイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148029689_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148029689",
+      "sourceCreatedAt": "2026-08-04T16:30:00.000Z"
+    },
+    {
       "id": "51eebe21",
       "filename": "pixiv_148030890_p0.jpg",
       "path": "uploads/2026/08/b79b86d9.jpg",
