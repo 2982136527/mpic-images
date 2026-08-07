@@ -3,6 +3,37 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "1621ad3e",
+      "filename": "pixiv_148025949_p0.jpg",
+      "path": "uploads/2026/08/0990bf60.jpg",
+      "size": 790693,
+      "width": 627,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "585b293a72da6d5c6ccca72651e83e512f67cf31a3ae1af05f2cc8d71de26e99",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:06:41.243Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "水着アイちゃん",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "アーモンドアイ(ウマ娘)",
+        "キューまる",
+        "麦わら帽子",
+        "へそ",
+        "おなか",
+        "水着",
+        "ビキニ",
+        "水着ウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148025949_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148025949",
+      "sourceCreatedAt": "2026-08-04T15:00:08.000Z"
+    },
+    {
       "id": "1c338a92",
       "filename": "pixiv_148009377_p0.jpg",
       "path": "uploads/2026/08/5526985e.jpg",
