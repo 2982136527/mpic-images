@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "1ff3d2a3",
+      "filename": "pixiv_148096796_p0.jpg",
+      "path": "uploads/2026/08/88c23fe3.jpg",
+      "size": 937449,
+      "width": 1200,
+      "height": 746,
+      "mimeType": "image/jpeg",
+      "hash": "528611866ab88ab02e4d068e890153614484368725bf61447c1f15043f679c91",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:08:17.958Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "简社",
+      "tags": [
+        "女の子",
+        "绝区零"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148096796_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148096796",
+      "sourceCreatedAt": "2026-08-06T13:31:27.000Z"
+    },
+    {
       "id": "81c56971",
       "filename": "pixiv_148085261_p0.jpg",
       "path": "uploads/2026/08/be34fd50.jpg",
