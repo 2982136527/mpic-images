@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "0cee48ff",
+      "filename": "pixiv_148076342_p0.jpg",
+      "path": "uploads/2026/08/0fac3eee.jpg",
+      "size": 649048,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "277d0bde9e46d9ee5b4b136288b5799fc982e7011f0ca2eb040e2791b042d4cb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:03:08.634Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "DAY98@ 爱听故事的小幽灵",
+      "tags": [
+        "萝莉",
+        "雪糕",
+        "插画",
+        "黑丝"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148076342_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148076342",
+      "sourceCreatedAt": "2026-08-06T01:42:09.000Z"
+    },
+    {
       "id": "b42fcfc0",
       "filename": "pixiv_148042025_p0.jpg",
       "path": "uploads/2026/08/7aa5bf1a.jpg",
