@@ -3,6 +3,28 @@
   "shardId": "12",
   "images": [
     {
+      "id": "877b225b",
+      "filename": "pixiv_148026751_p0.jpg",
+      "path": "uploads/2026/08/41ea9128.jpg",
+      "size": 804682,
+      "width": 891,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "17dc3b74bd96046ab79e147658f17ec9ab5a27dc7951be78f5c7b327407645f6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:15:59.917Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "122話無料公開",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148026751_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148026751",
+      "sourceCreatedAt": "2026-08-04T15:08:47.000Z"
+    },
+    {
       "id": "57a989ee",
       "filename": "pixiv_147991361_p0.jpg",
       "path": "uploads/2026/08/0b93087a.jpg",
