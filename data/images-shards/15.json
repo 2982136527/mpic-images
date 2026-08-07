@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "8b82a3c7",
+      "filename": "pixiv_148089754_p0.jpg",
+      "path": "uploads/2026/08/088afa47.jpg",
+      "size": 391112,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "761b64e5b809e827ff898d00325450c684d4a62379618dc5c4ab359444d11efb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:11:09.720Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ハルカ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "伊草ハルカ",
+        "大人化"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148089754_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148089754",
+      "sourceCreatedAt": "2026-08-06T14:22:20.000Z"
+    },
+    {
       "id": "118127c3",
       "filename": "pixiv_148053965_p0.jpg",
       "path": "uploads/2026/08/6a553426.jpg",
