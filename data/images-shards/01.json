@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "0353dbfb",
+      "filename": "pixiv_148058187_p0.jpg",
+      "path": "uploads/2026/08/c1fb193d.jpg",
+      "size": 379600,
+      "width": 700,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "9f292cbb148f89523b040f167b7182c6e1368b269786600c20fd715b0532d170",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:17:04.763Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "カンサイねこ",
+      "tags": [
+        "カンサイねこ",
+        "ヤニねこ",
+        "おっぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148058187_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148058187",
+      "sourceCreatedAt": "2026-08-05T12:59:18.000Z"
+    },
+    {
       "id": "832040af",
       "filename": "pixiv_148086039_p0.jpg",
       "path": "uploads/2026/08/0ff6e67d.jpg",
