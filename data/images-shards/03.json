@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "0535fbae",
+      "filename": "pixiv_148064309_p0.jpg",
+      "path": "uploads/2026/08/1b324efe.jpg",
+      "size": 587504,
+      "width": 1200,
+      "height": 547,
+      "mimeType": "image/jpeg",
+      "hash": "4fa0958621548b28ad123d2082a4e089348423473df849a1b805a10ff26055fa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:16:35.418Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "洒水车",
+      "tags": [
+        "軍事",
+        "插画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148064309_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148064309",
+      "sourceCreatedAt": "2026-08-05T15:09:59.000Z"
+    },
+    {
       "id": "27f2af76",
       "filename": "pixiv_148017579_p0.jpg",
       "path": "uploads/2026/08/faec677d.jpg",
