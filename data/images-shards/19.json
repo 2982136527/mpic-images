@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "ad9cc36e",
+      "filename": "pixiv_148092644_p0.jpg",
+      "path": "uploads/2026/08/8bcb6fe9.jpg",
+      "size": 438690,
+      "width": 854,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "44d75305733f82e6b2d986402cc40a28627ed3983b3090fa00d86586029b9e65",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:21:16.530Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【WEB再録】Firsts 描き下ろし狂聡漫画",
+      "tags": [
+        "狂聡",
+        "web再録"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148092644_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148092644",
+      "sourceCreatedAt": "2026-08-06T12:01:01.000Z"
+    },
+    {
       "id": "6dd7edd7",
       "filename": "pixiv_148079956_p0.jpg",
       "path": "uploads/2026/08/da44769d.jpg",
