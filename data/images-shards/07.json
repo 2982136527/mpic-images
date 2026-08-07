@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "70658d3b",
+      "filename": "pixiv_148004327_p0.jpg",
+      "path": "uploads/2026/08/e22ae795.jpg",
+      "size": 475154,
+      "width": 1200,
+      "height": 1143,
+      "mimeType": "image/jpeg",
+      "hash": "20c3d22e217daf13c3666d48291502baaf154ede0954e9537e297e3046971fb5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:19:03.868Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リベ夢ログ26",
+      "tags": [
+        "tkrvプラス",
+        "東卍夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148004327_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148004327",
+      "sourceCreatedAt": "2026-08-04T03:47:36.000Z"
+    },
+    {
       "id": "94fa336c",
       "filename": "pixiv_148037963_p0.jpg",
       "path": "uploads/2026/08/a52ff014.jpg",
