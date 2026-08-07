@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "46731918",
+      "filename": "pixiv_148068421_p0.jpg",
+      "path": "uploads/2026/08/e7c3af0e.jpg",
+      "size": 1025228,
+      "width": 803,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dc1a8be678aa955ef2e2a8f8f3af98aeadbeeb728e50f9b4bf41969c967cad5b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:11:35.634Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "カズサ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "杏山カズサ",
+        "杏山カズサ(バンド)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148068421_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148068421",
+      "sourceCreatedAt": "2026-08-05T17:28:48.000Z"
+    },
+    {
       "id": "e0ea7283",
       "filename": "pixiv_148065142_p0.jpg",
       "path": "uploads/2026/08/9eec19aa.jpg",
