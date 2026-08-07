@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "f69ad081",
+      "filename": "pixiv_148026041_p0.jpg",
+      "path": "uploads/2026/08/b115fa74.jpg",
+      "size": 1880633,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "321d740a364832b37b7dfc346347bf71e8cd9b9259cb2100db19cbb0d85a022f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:14:19.445Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "岐路",
+      "tags": [
+        "文スト【腐】",
+        "太中"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148026041_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148026041",
+      "sourceCreatedAt": "2026-08-04T15:00:21.000Z"
+    },
+    {
       "id": "19832800",
       "filename": "pixiv_148020482_p0.jpg",
       "path": "uploads/2026/08/9c8e717b.jpg",
