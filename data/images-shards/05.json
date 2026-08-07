@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "12e01686",
+      "filename": "pixiv_148078282_p0.jpg",
+      "path": "uploads/2026/08/03737a30.jpg",
+      "size": 960835,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "34f4b6c58651260528ba3ac904745f5d656fa2390c6b2161773484aadf085fc3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:17:57.912Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ゼンゼロ",
+      "tags": [
+        "ルシアーナ・デ・モンテフィーノ",
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "ゼンゼロ",
+        "lucy"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148078282_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148078282",
+      "sourceCreatedAt": "2026-08-06T03:17:36.000Z"
+    },
+    {
       "id": "b889c0ec",
       "filename": "pixiv_148032990_p0.jpg",
       "path": "uploads/2026/08/e96e8e7e.jpg",
