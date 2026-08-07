@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "c024e2b8",
+      "filename": "pixiv_148029241_p0.jpg",
+      "path": "uploads/2026/08/4a549f62.jpg",
+      "size": 1691921,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "176364a005b7eeb44c0124205452e7f118f9d5200d425cd9299852d0528477b1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:17:04.931Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "❤",
+      "tags": [
+        "刀剣乱舞",
+        "肥前忠広(刀剣乱舞)",
+        "本家"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148029241_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148029241",
+      "sourceCreatedAt": "2026-08-04T16:15:04.000Z"
+    },
+    {
       "id": "7d318011",
       "filename": "pixiv_148024219_p0.jpg",
       "path": "uploads/2026/08/dc4f7357.jpg",
