@@ -3,6 +3,33 @@
   "shardId": "14",
   "images": [
     {
+      "id": "b4030428",
+      "filename": "pixiv_148016074_p0.jpg",
+      "path": "uploads/2026/08/6e79bc6b.jpg",
+      "size": 1362268,
+      "width": 873,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "01218a8c672eb022cdc9d2afb13a32efb9bd9910ca2e779475b7b847aa7a4c09",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:15:10.332Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "插画",
+        "原创",
+        "设定",
+        "人设",
+        "創作",
+        "男の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148016074_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148016074",
+      "sourceCreatedAt": "2026-08-04T11:14:34.000Z"
+    },
+    {
       "id": "cbf7e536",
       "filename": "pixiv_148054147_p0.jpg",
       "path": "uploads/2026/08/34b2b5c8.jpg",
