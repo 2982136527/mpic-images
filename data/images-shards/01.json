@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "9b3a3f00",
+      "filename": "pixiv_148049042_p0.jpg",
+      "path": "uploads/2026/08/cccff216.jpg",
+      "size": 1645758,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "f3abfa3c9387701a535c950af06face5485f6b677b93c18fbebf6a3e1dbdda0c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:14:03.028Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "鼓童×初音ミク 響演 ～和楽器スペシャルライブ～",
+      "tags": [
+        "鼓童",
+        "初音ミク",
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148049042_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148049042",
+      "sourceCreatedAt": "2026-08-05T09:17:29.000Z"
+    },
+    {
       "id": "a1deb9af",
       "filename": "pixiv_148063588_p0.jpg",
       "path": "uploads/2026/08/cb5c16e7.jpg",
