@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "a3a98a48",
+      "filename": "pixiv_148026236_p0.jpg",
+      "path": "uploads/2026/08/f9baa034.jpg",
+      "size": 842684,
+      "width": 868,
+      "height": 868,
+      "mimeType": "image/jpeg",
+      "hash": "5dde135a687c389f956964d1f055303a28db0e40e04c1638145ddab5b945ef54",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:19:45.818Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "仲良し",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "カレンブーケドール(ウマ娘)",
+        "アーモンドアイ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148026236_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148026236",
+      "sourceCreatedAt": "2026-08-04T15:01:27.000Z"
+    },
+    {
       "id": "70401017",
       "filename": "pixiv_148047047_p0.jpg",
       "path": "uploads/2026/08/666d92e0.jpg",
