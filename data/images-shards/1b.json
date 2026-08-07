@@ -3,6 +3,37 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "587d82f5",
+      "filename": "pixiv_148023068_p0.jpg",
+      "path": "uploads/2026/08/c6e97964.jpg",
+      "size": 922942,
+      "width": 1200,
+      "height": 694,
+      "mimeType": "image/jpeg",
+      "hash": "99ba801c40dbc908da8fae68d6c5c1ffdd0c2fbb4eb47ea95e6d559b261694ab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:16:41.492Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "赤く染まる",
+      "tags": [
+        "插画",
+        "少女",
+        "女の子",
+        "阿米娅",
+        "明日方舟",
+        "アーミヤ(アークナイツ)",
+        "Amiya",
+        "アークナイツ",
+        "Arknights",
+        "ロスモンティス(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148023068_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148023068",
+      "sourceCreatedAt": "2026-08-04T13:55:47.000Z"
+    },
+    {
       "id": "eacc4b0c",
       "filename": "pixiv_148048537_p0.jpg",
       "path": "uploads/2026/08/7f91e16b.jpg",
