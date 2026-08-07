@@ -3,6 +3,36 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "eacc4b0c",
+      "filename": "pixiv_148048537_p0.jpg",
+      "path": "uploads/2026/08/7f91e16b.jpg",
+      "size": 1282106,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0c9082869e71b4128a558404c81d13b7145b2d64aae7496102dcf85c31e09853",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:15:54.717Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏空フォトグラフなみくるちゃん",
+      "tags": [
+        "プリキュア",
+        "precure",
+        "名探偵プリキュア!",
+        "名探偵プリキュア",
+        "たんプリ",
+        "小林みくる",
+        "キュアミスティック",
+        "プリティストア",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148048537_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148048537",
+      "sourceCreatedAt": "2026-08-05T09:01:59.000Z"
+    },
+    {
       "id": "f88f6c75",
       "filename": "pixiv_148051020_p0.jpg",
       "path": "uploads/2026/08/2bff64ce.jpg",
