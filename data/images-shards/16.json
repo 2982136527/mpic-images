@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "3fe269bb",
+      "filename": "pixiv_148057243_p0.jpg",
+      "path": "uploads/2026/08/cabdc087.jpg",
+      "size": 819965,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dd06107f7a18dcc9f0b5c33367a5dbee209bb52a5641d75d31dfae5389e02246",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:07:32.249Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "えま",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "桜羽エマ",
+        "まのさば"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148057243_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148057243",
+      "sourceCreatedAt": "2026-08-05T12:38:19.000Z"
+    },
+    {
       "id": "b06e4813",
       "filename": "pixiv_148086125_p0.jpg",
       "path": "uploads/2026/08/78bd1c80.jpg",
