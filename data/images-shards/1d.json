@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "7c9c0e68",
+      "filename": "pixiv_148075789_p0.jpg",
+      "path": "uploads/2026/08/0c385f6a.jpg",
+      "size": 1135603,
+      "width": 1080,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b5b7ed3dc6bf30e116a49bc0eb9c185e0d4fac976fa9a4e2504ab5ddd740e872",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:07:09.308Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "落書き",
+      "tags": [
+        "女の子",
+        "着物"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148075789_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148075789",
+      "sourceCreatedAt": "2026-08-06T01:11:41.000Z"
+    },
+    {
       "id": "646b1c49",
       "filename": "pixiv_148076091_p0.jpg",
       "path": "uploads/2026/08/79b87443.jpg",
