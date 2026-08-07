@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "9081c275",
+      "filename": "pixiv_148038649_p0.jpg",
+      "path": "uploads/2026/08/e41649f4.jpg",
+      "size": 798648,
+      "width": 1067,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e25cb4b0bebec6abe06a73f420467bb4482ab4ed133a7333138988a369bdd4cc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:17:15.453Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "セイレーンちゃん夢",
+      "tags": [
+        "セイレーン(ちいかわ)",
+        "ちいかわ",
+        "ちいかわ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148038649_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148038649",
+      "sourceCreatedAt": "2026-08-05T01:24:45.000Z"
+    },
+    {
       "id": "a31b66ae",
       "filename": "pixiv_148036205_p0.jpg",
       "path": "uploads/2026/08/1273be75.jpg",
