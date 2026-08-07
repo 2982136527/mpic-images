@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "c6d4d85e",
+      "filename": "pixiv_148047142_p0.jpg",
+      "path": "uploads/2026/08/e34110b8.jpg",
+      "size": 831713,
+      "width": 831,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "92a10851e118eabbbf09bca8a67e96d873947d78c722ebef637989f93602390f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:18:37.026Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ミカ",
+      "tags": [
+        "聖園ミカ",
+        "百合園セイア",
+        "桐藤ナギサ",
+        "ブルーアーカイブ",
+        "BlueArchive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148047142_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148047142",
+      "sourceCreatedAt": "2026-08-05T08:16:36.000Z"
+    },
+    {
       "id": "fb1545b8",
       "filename": "pixiv_148062301_p0.jpg",
       "path": "uploads/2026/08/69547de6.jpg",
