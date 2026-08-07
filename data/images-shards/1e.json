@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "cf0eccd3",
+      "filename": "pixiv_148028296_p0.jpg",
+      "path": "uploads/2026/08/32810517.jpg",
+      "size": 1591271,
+      "width": 1200,
+      "height": 744,
+      "mimeType": "image/jpeg",
+      "hash": "3b806ada1b9a15edad8123b4bb244e143f8be73a17e8660d857d977d0f22c096",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:12:28.288Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "TADCバトル概念",
+      "tags": [
+        "The_Amazing_Digital_Circus",
+        "Pomni",
+        "Jax",
+        "Ragatha"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148028296_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148028296",
+      "sourceCreatedAt": "2026-08-04T15:47:42.000Z"
+    },
+    {
       "id": "d44818c6",
       "filename": "pixiv_148004635_p0.jpg",
       "path": "uploads/2026/08/3cd9eb49.jpg",
