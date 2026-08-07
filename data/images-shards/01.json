@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "a1deb9af",
+      "filename": "pixiv_148063588_p0.jpg",
+      "path": "uploads/2026/08/cb5c16e7.jpg",
+      "size": 895539,
+      "width": 999,
+      "height": 999,
+      "mimeType": "image/jpeg",
+      "hash": "af1385d16fdde60f44ba31c1ba138640b067e1d52049443df90e9bda3378004f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:12:39.018Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏2026-ベリル・メイザース",
+      "tags": [
+        "仕事絵",
+        "ポーカーチェイス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148063588_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148063588",
+      "sourceCreatedAt": "2026-08-05T15:00:26.000Z"
+    },
+    {
       "id": "14c611e3",
       "filename": "pixiv_147845684_p0.jpg",
       "path": "uploads/2026/08/6839b269.jpg",
