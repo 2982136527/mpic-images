@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "646b1c49",
+      "filename": "pixiv_148076091_p0.jpg",
+      "path": "uploads/2026/08/79b87443.jpg",
+      "size": 786136,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e6ed17fa81e9fad33a681abfbf59a9c149b6859bc008c9493428ac978dde5d72",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:02:07.796Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "お揃っち",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "メフィストフェレス(Fate)",
+        "アスカラポス(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148076091_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148076091",
+      "sourceCreatedAt": "2026-08-06T01:28:10.000Z"
+    },
+    {
       "id": "634c175a",
       "filename": "pixiv_148096843_p0.jpg",
       "path": "uploads/2026/08/e8ed2217.jpg",
