@@ -3,6 +3,32 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "096e55c9",
+      "filename": "pixiv_148048842_p0.jpg",
+      "path": "uploads/2026/08/3ebd0f29.jpg",
+      "size": 868158,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e8b981645e6e82c5b2d82bf74c0f9ccf6a477a1937eaf7f294a797f1e5b79d56",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:05:00.851Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "女の子",
+        "モンスター娘",
+        "人外娘",
+        "角娘",
+        "竜娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148048842_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148048842",
+      "sourceCreatedAt": "2026-08-05T09:10:11.000Z"
+    },
+    {
       "id": "67ee427b",
       "filename": "pixiv_148025930_p0.jpg",
       "path": "uploads/2026/08/6a1b97fa.jpg",
