@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "839b3106",
+      "filename": "pixiv_148069529_p0.jpg",
+      "path": "uploads/2026/08/29effb9a.jpg",
+      "size": 475835,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "431489c1d317f93aca7509a6cfd17f477370a10cf3f47213c22eb7675e5e9eda",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:04:45.519Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "霧雨魔理沙",
+        "博麗霊夢",
+        "東方Project",
+        "東方"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148069529_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148069529",
+      "sourceCreatedAt": "2026-08-05T18:34:34.000Z"
+    },
+    {
       "id": "03a808d3",
       "filename": "pixiv_148047232_p0.jpg",
       "path": "uploads/2026/08/69a2f5ac.jpg",
