@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "df3d7ae9",
+      "filename": "pixiv_148048776_p0.jpg",
+      "path": "uploads/2026/08/d6767d89.jpg",
+      "size": 1225550,
+      "width": 1200,
+      "height": 980,
+      "mimeType": "image/jpeg",
+      "hash": "4d4fbfaf83fc030a320d332ea7294ea84a676c71f4c387d34a0200cdbd7baa54",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:05:15.533Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "休憩中",
+      "tags": [
+        "Backrooms",
+        "怪異",
+        "人外"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148048776_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148048776",
+      "sourceCreatedAt": "2026-08-05T09:07:42.000Z"
+    },
+    {
       "id": "28b21d18",
       "filename": "pixiv_148039745_p0.jpg",
       "path": "uploads/2026/08/2f2393fa.jpg",
