@@ -3,6 +3,28 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "ad1141f6",
+      "filename": "pixiv_148077707_p0.jpg",
+      "path": "uploads/2026/08/f0f96efb.jpg",
+      "size": 1087459,
+      "width": 1200,
+      "height": 688,
+      "mimeType": "image/jpeg",
+      "hash": "45ac70d288e3d167bf2990ff3df36dad864dafe8685013157f6e3d145bb7f468",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:14:45.031Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "Arknights"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148077707_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148077707",
+      "sourceCreatedAt": "2026-08-06T02:58:41.000Z"
+    },
+    {
       "id": "5be8da95",
       "filename": "pixiv_148042500_p0.jpg",
       "path": "uploads/2026/08/8b1ff9aa.jpg",
