@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "af0abc2a",
+      "filename": "pixiv_148055144_p0.jpg",
+      "path": "uploads/2026/08/d1044192.jpg",
+      "size": 665514,
+      "width": 732,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0f65e0f4453cd68adefe9eb833d2b20aa877e6ca5b858071b3f8dd4f3414a482",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:06:03.811Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "260801...",
+      "tags": [
+        "女の子",
+        "化物語",
+        "千石撫子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148055144_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148055144",
+      "sourceCreatedAt": "2026-08-05T11:53:37.000Z"
+    },
+    {
       "id": "0c69e391",
       "filename": "pixiv_148063663_p0.jpg",
       "path": "uploads/2026/08/5e50b6cb.jpg",
