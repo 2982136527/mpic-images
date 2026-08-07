@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "832040af",
+      "filename": "pixiv_148086039_p0.jpg",
+      "path": "uploads/2026/08/0ff6e67d.jpg",
+      "size": 423830,
+      "width": 636,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1edade152ad2678230c5e8f88880fad5dc9c74cf25f589db86e92ff8ec8b6274",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:16:24.569Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "ブルーアーカイブ",
+        "聖園ミカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148086039_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148086039",
+      "sourceCreatedAt": "2026-08-06T09:03:35.000Z"
+    },
+    {
       "id": "9b3a3f00",
       "filename": "pixiv_148049042_p0.jpg",
       "path": "uploads/2026/08/cccff216.jpg",
