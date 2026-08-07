@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "7d318011",
+      "filename": "pixiv_148024219_p0.jpg",
+      "path": "uploads/2026/08/dc4f7357.jpg",
+      "size": 674465,
+      "width": 908,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a263bbafce7f67756b17bf751e92aa19187441042bd70eafbb63c1a38927c6a6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:15:36.786Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "the other",
+      "tags": [
+        "ヰ世界情緒",
+        "神椿"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148024219_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148024219",
+      "sourceCreatedAt": "2026-08-04T14:20:22.000Z"
+    },
+    {
       "id": "2e5f846d",
       "filename": "pixiv_148051240_p0.jpg",
       "path": "uploads/2026/08/89547c28.jpg",
