@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "b42fcfc0",
+      "filename": "pixiv_148042025_p0.jpg",
+      "path": "uploads/2026/08/7aa5bf1a.jpg",
+      "size": 805905,
+      "width": 1200,
+      "height": 947,
+      "mimeType": "image/jpeg",
+      "hash": "ccb630e609f82a0e36c74edfa41dd5e912971c16ccb90d187dedf07356e79b05",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:18:25.988Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Family Vacation",
+      "tags": [
+        "chainsawman",
+        "チェンソーマン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148042025_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148042025",
+      "sourceCreatedAt": "2026-08-05T04:06:02.000Z"
+    },
+    {
       "id": "91c3e495",
       "filename": "pixiv_148074068_p0.jpg",
       "path": "uploads/2026/08/cb4266c3.jpg",
