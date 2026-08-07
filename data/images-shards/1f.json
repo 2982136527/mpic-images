@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "24b5cbb6",
+      "filename": "pixiv_148042733_p0.jpg",
+      "path": "uploads/2026/08/d0137bce.jpg",
+      "size": 902945,
+      "width": 1200,
+      "height": 656,
+      "mimeType": "image/jpeg",
+      "hash": "0264f3f36dca0c3ca475ac9d568ea1c1fca71ff7d6eee0b525d248c8d2d91428",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:05:56.598Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "梨诺",
+      "tags": [
+        "endfield",
+        "ArknightsEndfield",
+        "梨诺"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148042733_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148042733",
+      "sourceCreatedAt": "2026-08-05T04:41:53.000Z"
+    },
+    {
       "id": "d27a4b46",
       "filename": "pixiv_147016733_p0.jpg",
       "path": "uploads/2026/08/3b68e5d7.jpg",
