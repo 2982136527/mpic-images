@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "4d456d79",
+      "filename": "pixiv_148026045_p0.jpg",
+      "path": "uploads/2026/08/50dcfb58.jpg",
+      "size": 849493,
+      "width": 634,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "c9a81163823a89a385c69f7090ef7f453e056a5b358bb165a7c2ced5e5ff937e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:20:31.452Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ジャンヌ（サムライレムナント）描きました！",
+      "tags": [
+        "ジャンヌ",
+        "C108",
+        "ランサー(Fate/SamuraiRemnant)",
+        "Fate/SamuraiRemnant"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148026045_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148026045",
+      "sourceCreatedAt": "2026-08-04T15:00:22.000Z"
+    },
+    {
       "id": "7b29134b",
       "filename": "pixiv_147990269_p0.jpg",
       "path": "uploads/2026/08/91c7b1e0.jpg",
