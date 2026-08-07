@@ -3,6 +3,28 @@
   "shardId": "13",
   "images": [
     {
+      "id": "73236d2d",
+      "filename": "pixiv_148050116_p0.jpg",
+      "path": "uploads/2026/08/09ffe24c.jpg",
+      "size": 1591893,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "b77fd8d9c1c55247e86e330364ee78381da8888cb31b3750aa894dbd601f2844",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T09:14:14.215Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "あなたが見えなくて良かった",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148050116_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148050116",
+      "sourceCreatedAt": "2026-08-05T09:51:21.000Z"
+    },
+    {
       "id": "a3a98a48",
       "filename": "pixiv_148026236_p0.jpg",
       "path": "uploads/2026/08/f9baa034.jpg",
