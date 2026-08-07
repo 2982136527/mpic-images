@@ -3,6 +3,28 @@
   "shardId": "03",
   "images": [
     {
+      "id": "b5942a02",
+      "filename": "pixiv_148097064_p0.jpg",
+      "path": "uploads/2026/08/1db63a76.jpg",
+      "size": 235157,
+      "width": 1200,
+      "height": 826,
+      "mimeType": "image/jpeg",
+      "hash": "6f6fc66b3f5d0a6828ba41e3c45a8aa74383cdc6aee5c0e371dedfd13484135d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T17:04:38.952Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "髪の毛結んでほしい初音ミク",
+      "tags": [
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148097064_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148097064",
+      "sourceCreatedAt": "2026-08-06T13:37:13.000Z"
+    },
+    {
       "id": "059280fc",
       "filename": "pixiv_148087056_p0.jpg",
       "path": "uploads/2026/08/bd6c6434.jpg",
