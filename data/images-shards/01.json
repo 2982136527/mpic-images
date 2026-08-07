@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "9c6e975d",
+      "filename": "pixiv_147988934_p0.jpg",
+      "path": "uploads/2026/08/c763b47f.jpg",
+      "size": 843125,
+      "width": 681,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fd9749fcf8af58e1e8eb6345d7276764b0b8e58d603dc2f1cd9012f99d7b89a6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-07T03:15:26.427Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "みやび",
+      "tags": [
+        "ゼンゼロ",
+        "绝区零",
+        "ゼンレスゾーンゼロ",
+        "星見雅"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147988934_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147988934",
+      "sourceCreatedAt": "2026-08-03T15:00:23.000Z"
+    },
+    {
       "id": "4064b275",
       "filename": "pixiv_148038812_p0.jpg",
       "path": "uploads/2026/08/ef2cfc49.jpg",
