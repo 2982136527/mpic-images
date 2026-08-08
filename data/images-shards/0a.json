@@ -3,6 +3,33 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "cd1e3384",
+      "filename": "pixiv_148080195_p0.jpg",
+      "path": "uploads/2026/08/94d361ee.jpg",
+      "size": 884344,
+      "width": 1200,
+      "height": 952,
+      "mimeType": "image/jpeg",
+      "hash": "c204059d7e9c6d7c73889619a500e94c8fd16ce70f2fba5cee6120753bd64df6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T09:00:41.425Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "盼归",
+      "tags": [
+        "原画",
+        "厚涂",
+        "板绘",
+        "角色设计",
+        "原创",
+        "插画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148080195_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148080195",
+      "sourceCreatedAt": "2026-08-06T04:49:02.000Z"
+    },
+    {
       "id": "fe26235b",
       "filename": "pixiv_148101053_p0.jpg",
       "path": "uploads/2026/08/e4121aaa.jpg",
