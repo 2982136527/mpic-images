@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "fbf17576",
+      "filename": "pixiv_148054055_p0.jpg",
+      "path": "uploads/2026/08/ff5eebe7.jpg",
+      "size": 150824,
+      "width": 480,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "6f9f179855baa587aa5469071f33033e05a010b6832efe7a340eb9baa02060de",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T02:15:06.869Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "らくがき女の子",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "パーカー",
+        "ショートカット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148054055_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148054055",
+      "sourceCreatedAt": "2026-08-05T11:27:25.000Z"
+    },
+    {
       "id": "599c78ff",
       "filename": "pixiv_148041237_p0.jpg",
       "path": "uploads/2026/08/273b8d02.jpg",
