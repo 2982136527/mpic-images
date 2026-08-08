@@ -3,6 +3,33 @@
   "shardId": "07",
   "images": [
     {
+      "id": "3c5ebbb4",
+      "filename": "pixiv_148097947_p0.jpg",
+      "path": "uploads/2026/08/20548daf.jpg",
+      "size": 410685,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "000540ead85ac17c818fbcde6e7e5ee1124694720987d16105dc4207195f629f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T08:55:00.743Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "鏡音リン",
+      "tags": [
+        "イラスト",
+        "VOCALOID",
+        "鏡音リン",
+        "女の子",
+        "ボーカロイド",
+        "ボカロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148097947_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148097947",
+      "sourceCreatedAt": "2026-08-06T13:57:58.000Z"
+    },
+    {
       "id": "8e3896c2",
       "filename": "pixiv_148050411_p0.jpg",
       "path": "uploads/2026/08/125048af.jpg",
