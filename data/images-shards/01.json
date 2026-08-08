@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "53f63406",
+      "filename": "pixiv_148063694_p0.jpg",
+      "path": "uploads/2026/08/5f80f9d4.jpg",
+      "size": 1164315,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "fc287f80c81f77e6328855bfea3c4484084a1a4c2c4cc15e606a7fe729b3072a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T08:54:06.395Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108 新刊サンプル",
+      "tags": [
+        "C108",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "アビドスリゾート復旧対策委員会",
+        "夏空のやくそく",
+        "嵐過天晴"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148063694_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148063694",
+      "sourceCreatedAt": "2026-08-05T15:02:20.000Z"
+    },
+    {
       "id": "f498663d",
       "filename": "pixiv_148129694_p0.jpg",
       "path": "uploads/2026/08/513e9a37.jpg",
