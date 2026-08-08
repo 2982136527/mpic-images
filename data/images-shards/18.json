@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "ce4cc208",
+      "filename": "pixiv_148063604_p0.jpg",
+      "path": "uploads/2026/08/d09e2190.jpg",
+      "size": 906683,
+      "width": 627,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1c3ab1f76abe85e796d84cfbba29624ce1dac3562ab56e6cb0e3e60b14ca09db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T02:11:44.492Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "the Year of the Dog",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148063604_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148063604",
+      "sourceCreatedAt": "2026-08-05T15:00:29.000Z"
+    },
+    {
       "id": "1ff3d2a3",
       "filename": "pixiv_148096796_p0.jpg",
       "path": "uploads/2026/08/88c23fe3.jpg",
