@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "1dc04d95",
+      "filename": "pixiv_148112756_p0.jpg",
+      "path": "uploads/2026/08/54ed8efd.jpg",
+      "size": 834276,
+      "width": 1200,
+      "height": 780,
+      "mimeType": "image/jpeg",
+      "hash": "f61bdb94e81062718bce07606c204ae53052c2db4455b8ab0cb0caccba596c31",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T16:49:57.412Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リバーレリオ",
+      "tags": [
+        "リバーレリオ",
+        "nikke",
+        "勝利の女神:NIKKE",
+        "リバーレリオ(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148112756_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148112756",
+      "sourceCreatedAt": "2026-08-07T00:36:44.000Z"
+    },
+    {
       "id": "cf697227",
       "filename": "pixiv_148094977_p0.jpg",
       "path": "uploads/2026/08/590a712c.jpg",
