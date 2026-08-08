@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "ee542e3c",
+      "filename": "pixiv_148110640_p0.jpg",
+      "path": "uploads/2026/08/be9873ab.jpg",
+      "size": 1235700,
+      "width": 853,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c937289fd01fab1edcf7fab78f4446203faa37618d1afee4127e37b3be3f3115",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T08:54:28.939Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "暑すぎて夏",
+      "tags": [
+        "創作",
+        "目玉焼き",
+        "猛暑"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148110640_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148110640",
+      "sourceCreatedAt": "2026-08-06T22:30:03.000Z"
+    },
+    {
       "id": "9d50a749",
       "filename": "pixiv_148064972_p0.jpg",
       "path": "uploads/2026/08/247127da.jpg",
