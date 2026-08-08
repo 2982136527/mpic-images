@@ -3,6 +3,37 @@
   "shardId": "19",
   "images": [
     {
+      "id": "2ea80a24",
+      "filename": "pixiv_148100916_p0.jpg",
+      "path": "uploads/2026/08/5fb80c43.jpg",
+      "size": 796270,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "470146a1308e2bee7b57e3835709799bc9c0241603f0a98aeb91cfe92ca93f58",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T09:00:34.870Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ザ・レディ",
+      "tags": [
+        "特撮",
+        "仮面ライダー",
+        "仮面ライダーゼッツ",
+        "ファントムゴアナイトメア",
+        "ザ・レディ",
+        "特撮ヒロイン",
+        "ナイトメア(仮面ライダーゼッツ)",
+        "ライダー怪人",
+        "ゴアナイトメア",
+        "女怪人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148100916_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148100916",
+      "sourceCreatedAt": "2026-08-06T15:00:49.000Z"
+    },
+    {
       "id": "acf5234b",
       "filename": "pixiv_148135078_p0.jpg",
       "path": "uploads/2026/08/9fb90ffc.jpg",
