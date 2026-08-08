@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "f76742c9",
+      "filename": "pixiv_148121960_p0.jpg",
+      "path": "uploads/2026/08/e72d907b.jpg",
+      "size": 681484,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8b44a6c6d89ff021f68219b2e30f97969abf0d09528229ca9454060e61a0cc15",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T16:51:51.029Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "アリサにゃん",
+      "tags": [
+        "紫藤アリサ",
+        "まのさば",
+        "魔法少女の魔女裁判",
+        "魔法少女ノ魔女裁判"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148121960_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148121960",
+      "sourceCreatedAt": "2026-08-07T08:01:56.000Z"
+    },
+    {
       "id": "1e43d940",
       "filename": "pixiv_148112734_p0.jpg",
       "path": "uploads/2026/08/ce7b620d.jpg",
