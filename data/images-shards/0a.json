@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "e32a2aa4",
+      "filename": "pixiv_148122522_p0.jpg",
+      "path": "uploads/2026/08/d682de2a.jpg",
+      "size": 798601,
+      "width": 755,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "221e561d5c284cd7a1d9fe0f3f86b3d6db14fc78a9af754efc5edf95342bcc72",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T16:52:17.394Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "commissionイラスト",
+      "tags": [
+        "commission",
+        "女の子",
+        "Skeb",
+        "ケモミミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148122522_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148122522",
+      "sourceCreatedAt": "2026-08-07T08:24:46.000Z"
+    },
+    {
       "id": "92704541",
       "filename": "pixiv_148137083_p0.jpg",
       "path": "uploads/2026/08/43abe013.jpg",
