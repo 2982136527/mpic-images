@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "bdc6b7ca",
+      "filename": "pixiv_148091769_p0.jpg",
+      "path": "uploads/2026/08/a095b45a.jpg",
+      "size": 2992902,
+      "width": 1100,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "25b7eea85dfea9632c8f6a4d5685f92a896342e1e3217e125aa1683040f43fc4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T16:49:03.681Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "17時のチャイムが鳴った",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "イラスト",
+        "異形"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148091769_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148091769",
+      "sourceCreatedAt": "2026-08-06T11:43:08.000Z"
+    },
+    {
       "id": "bd29f125",
       "filename": "pixiv_148106926_p0.jpg",
       "path": "uploads/2026/08/89706812.jpg",
