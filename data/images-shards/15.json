@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "fb301a93",
+      "filename": "pixiv_148123556_p0.jpg",
+      "path": "uploads/2026/08/ea1225f6.jpg",
+      "size": 1356565,
+      "width": 984,
+      "height": 1167,
+      "mimeType": "image/jpeg",
+      "hash": "e3c60eb8dd6e34368564db15d824280e7b78f03f52a5c7ef6e692a757059904c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T09:00:54.488Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "王冠",
+      "tags": [
+        "東方Project",
+        "フランドール・スカーレット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148123556_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148123556",
+      "sourceCreatedAt": "2026-08-07T09:00:14.000Z"
+    },
+    {
       "id": "927c76b7",
       "filename": "pixiv_148123310_p0.jpg",
       "path": "uploads/2026/08/ce8b4c53.jpg",
