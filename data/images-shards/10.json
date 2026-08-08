@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "1e43d940",
+      "filename": "pixiv_148112734_p0.jpg",
+      "path": "uploads/2026/08/ce7b620d.jpg",
+      "size": 530192,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "4c975f967428d796b8dcdd4032b1a83a14604c10c6ae5357cc5272aeffacf15d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T08:59:47.777Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "しゃがんだポーズが崩れる人へ",
+      "tags": [
+        "描き方",
+        "コツ",
+        "ノウハウ",
+        "上達法",
+        "練習法",
+        "講座"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148112734_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148112734",
+      "sourceCreatedAt": "2026-08-07T00:34:46.000Z"
+    },
+    {
       "id": "af0abc2a",
       "filename": "pixiv_148055144_p0.jpg",
       "path": "uploads/2026/08/d1044192.jpg",
