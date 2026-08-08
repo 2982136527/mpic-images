@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "c83baf2c",
+      "filename": "pixiv_148123403_p0.jpg",
+      "path": "uploads/2026/08/858b0cbe.jpg",
+      "size": 1229244,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0be4396d061914a773a84990a811a618aa02888d24f01a7269fbe5bfc1a02591",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T08:55:56.136Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "古明地さとり",
+      "tags": [
+        "古明地さとり",
+        "東方project",
+        "東方",
+        "東方イラスト",
+        "絶対領域"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148123403_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148123403",
+      "sourceCreatedAt": "2026-08-07T08:57:37.000Z"
+    },
+    {
       "id": "ee542e3c",
       "filename": "pixiv_148110640_p0.jpg",
       "path": "uploads/2026/08/be9873ab.jpg",
