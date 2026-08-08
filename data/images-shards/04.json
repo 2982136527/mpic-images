@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "10680fc1",
+      "filename": "pixiv_148045971_p0.jpg",
+      "path": "uploads/2026/08/bbf8c422.jpg",
+      "size": 699173,
+      "width": 672,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5bf9d4d86e08c89c1178df9365f1ab916ec3ab2e28dbfc3793e5b961b01c5c4a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T02:15:38.245Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "我出剪刀，你呢？",
+      "tags": [
+        "边狱巴士",
+        "Limbus_Company",
+        "堂吉诃德"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148045971_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148045971",
+      "sourceCreatedAt": "2026-08-05T07:27:24.000Z"
+    },
+    {
       "id": "51e92138",
       "filename": "pixiv_148090669_p0.jpg",
       "path": "uploads/2026/08/2541ceb6.jpg",
