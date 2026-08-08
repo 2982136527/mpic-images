@@ -3,6 +3,32 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "74f76ecd",
+      "filename": "pixiv_148025998_p0.jpg",
+      "path": "uploads/2026/08/17031984.jpg",
+      "size": 826169,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ca2cfb320c07e6034adae5426029d1d0f4fc6ef324974beacdafa08b5a805d8e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T02:15:14.929Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ひんやり響",
+      "tags": [
+        "艦これ",
+        "艦隊これくしょん",
+        "響(艦隊これくしょん)",
+        "セーラー服",
+        "アイスキャンディー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148025998_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148025998",
+      "sourceCreatedAt": "2026-08-04T15:00:15.000Z"
+    },
+    {
       "id": "a8eafde4",
       "filename": "pixiv_148059300_p0.jpg",
       "path": "uploads/2026/08/32418ef2.jpg",
