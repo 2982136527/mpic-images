@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "b97e98da",
+      "filename": "pixiv_148125095_p0.jpg",
+      "path": "uploads/2026/08/1c40cef3.jpg",
+      "size": 1231518,
+      "width": 1200,
+      "height": 1104,
+      "mimeType": "image/jpeg",
+      "hash": "5370abb3b1eb5fb98f85ea9019daecc152b7dc8b1fc1706517bd71098bcacf66",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T08:58:46.464Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "一张摸鱼",
+      "tags": [
+        "女の子",
+        "萌花Moeka"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148125095_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148125095",
+      "sourceCreatedAt": "2026-08-07T09:40:56.000Z"
+    },
+    {
       "id": "d221c3f2",
       "filename": "pixiv_148078067_p0.jpg",
       "path": "uploads/2026/08/872655d2.jpg",
