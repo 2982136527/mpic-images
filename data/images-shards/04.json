@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "b4ea9a99",
+      "filename": "pixiv_148128513_p0.jpg",
+      "path": "uploads/2026/08/c4f8addd.jpg",
+      "size": 467206,
+      "width": 881,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "412e196c175a06aaed1fe89284389d736f5664902a3560930ac02bdd22d9a623",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T08:55:36.958Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "創作ネタいろいろ",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148128513_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148128513",
+      "sourceCreatedAt": "2026-08-07T11:02:46.000Z"
+    },
+    {
       "id": "b4dab126",
       "filename": "pixiv_148127664_p0.jpg",
       "path": "uploads/2026/08/be1a5602.jpg",
