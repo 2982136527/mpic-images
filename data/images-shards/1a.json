@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "7b3ca5fe",
+      "filename": "pixiv_148082978_p0.jpg",
+      "path": "uploads/2026/08/4a8e2802.jpg",
+      "size": 1326097,
+      "width": 931,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "012489fc782cb6216c517fab84f2a4ce0bd6a4b0f4a9db16e98dd1cc80dc7e6f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T02:16:13.357Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Castorice",
+      "tags": [
+        "崩坏星穹铁道",
+        "Castorice",
+        "キャストリス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148082978_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148082978",
+      "sourceCreatedAt": "2026-08-06T07:03:35.000Z"
+    },
+    {
       "id": "02d5f8ee",
       "filename": "pixiv_148050286_p0.jpg",
       "path": "uploads/2026/08/063c6093.jpg",
