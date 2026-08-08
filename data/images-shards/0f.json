@@ -3,6 +3,33 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "18f1212f",
+      "filename": "pixiv_148126077_p0.jpg",
+      "path": "uploads/2026/08/cb6be24e.jpg",
+      "size": 1179045,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "cf50d0583301858fac2243c854cbb69a1da47bfcb31aa802d0d35f874bbe21e8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T16:48:53.373Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "レミエール",
+      "tags": [
+        "ゼンゼロ",
+        "レミエール・ダン",
+        "レミエール",
+        "リン(ゼンゼロ)",
+        "ゼンレスゾーンゼロ",
+        "レミリン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148126077_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148126077",
+      "sourceCreatedAt": "2026-08-07T10:04:22.000Z"
+    },
+    {
       "id": "d1628501",
       "filename": "pixiv_148102983_p0.jpg",
       "path": "uploads/2026/08/bb586cac.jpg",
