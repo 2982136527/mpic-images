@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "8e3896c2",
+      "filename": "pixiv_148050411_p0.jpg",
+      "path": "uploads/2026/08/125048af.jpg",
+      "size": 649383,
+      "width": 1200,
+      "height": 880,
+      "mimeType": "image/jpeg",
+      "hash": "d3bb219a8a4b5c36ffa52e856d9aa7cd44b8eb8ba575258654f2180e22031806",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T02:18:44.677Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "はい、あーんして？",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "ブルアカ",
+        "杏山カズサ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148050411_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148050411",
+      "sourceCreatedAt": "2026-08-05T10:00:07.000Z"
+    },
+    {
       "id": "42d50ef6",
       "filename": "pixiv_148054363_p0.jpg",
       "path": "uploads/2026/08/6564ee35.jpg",
