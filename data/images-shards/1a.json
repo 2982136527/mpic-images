@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "6100987a",
+      "filename": "pixiv_148128703_p0.jpg",
+      "path": "uploads/2026/08/a62fe892.jpg",
+      "size": 1367369,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "99d69d55dea8f474a759a1bd66043aee6a599592be9c1c42878b82d75f35dc84",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T08:59:34.467Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🎀🦊",
+      "tags": [
+        "百合",
+        "ゆからん",
+        "八雲藍",
+        "八雲紫",
+        "東方project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148128703_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148128703",
+      "sourceCreatedAt": "2026-08-07T11:06:31.000Z"
+    },
+    {
       "id": "7b3ca5fe",
       "filename": "pixiv_148082978_p0.jpg",
       "path": "uploads/2026/08/4a8e2802.jpg",
