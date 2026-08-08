@@ -3,6 +3,34 @@
   "shardId": "12",
   "images": [
     {
+      "id": "a05c1058",
+      "filename": "pixiv_148084101_p0.jpg",
+      "path": "uploads/2026/08/840932c2.jpg",
+      "size": 576246,
+      "width": 889,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "87106d12146fba1cad3ae4ffd0ca163792679fa4073dd8a0d88a6c53908bdbe3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T02:11:56.603Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "おっきくなっちゃっただけだよ",
+      "tags": [
+        "ちいかわ",
+        "ハチワレ(ちいかわ)",
+        "うさぎ(ちいかわ)",
+        "でかつよ",
+        "あのこ(ちいかわ)",
+        "ちいかわ100users入り",
+        "強くなったハチワレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148084101_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148084101",
+      "sourceCreatedAt": "2026-08-06T07:57:01.000Z"
+    },
+    {
       "id": "f876728b",
       "filename": "pixiv_148026420_p0.jpg",
       "path": "uploads/2026/08/55e42953.jpg",
