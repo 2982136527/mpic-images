@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "9ed74b19",
+      "filename": "pixiv_148079606_p0.jpg",
+      "path": "uploads/2026/08/4554cad0.jpg",
+      "size": 1531290,
+      "width": 834,
+      "height": 1194,
+      "mimeType": "image/jpeg",
+      "hash": "2fc4730fb850d400cc96ec8fea4015ca93f1df3b9684b2a7072af797698e33d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T16:46:58.951Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "火垂るの夏休み🍉",
+      "tags": [
+        "ジブリ",
+        "火垂るの墓"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148079606_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148079606",
+      "sourceCreatedAt": "2026-08-06T04:19:49.000Z"
+    },
+    {
       "id": "bc24cbc8",
       "filename": "pixiv_148101690_p0.jpg",
       "path": "uploads/2026/08/b9913371.jpg",
