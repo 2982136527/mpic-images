@@ -3,6 +3,32 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "bc24cbc8",
+      "filename": "pixiv_148101690_p0.jpg",
+      "path": "uploads/2026/08/b9913371.jpg",
+      "size": 1302106,
+      "width": 1200,
+      "height": 724,
+      "mimeType": "image/jpeg",
+      "hash": "379ab0b3b264624b27366b144ebc0787489a358b80443b13735207eda0ea06b8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T09:00:47.973Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "明るく見えた明日",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "クリーチャー",
+        "風景",
+        "勝てる気が全くしない"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148101690_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148101690",
+      "sourceCreatedAt": "2026-08-06T15:11:56.000Z"
+    },
+    {
       "id": "7aca1c6e",
       "filename": "pixiv_148075694_p0.jpg",
       "path": "uploads/2026/08/803c27ac.jpg",
