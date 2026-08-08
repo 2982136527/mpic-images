@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "c2beb7d5",
+      "filename": "pixiv_148111122_p0.jpg",
+      "path": "uploads/2026/08/791bc4b4.jpg",
+      "size": 1027292,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6b942296df5f328c89c06a9b3922abe67f927e8329570ce960779d427ec491d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T08:53:54.153Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "でっかい愛をありったけ この歌に詰め込んで",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148111122_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148111122",
+      "sourceCreatedAt": "2026-08-06T23:00:02.000Z"
+    },
+    {
       "id": "3daf0f64",
       "filename": "pixiv_148085893_p0.jpg",
       "path": "uploads/2026/08/1ac6fe0d.jpg",
