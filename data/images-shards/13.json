@@ -3,6 +3,28 @@
   "shardId": "13",
   "images": [
     {
+      "id": "0fd2bbe9",
+      "filename": "pixiv_148123423_p0.jpg",
+      "path": "uploads/2026/08/9dd73a33.jpg",
+      "size": 373633,
+      "width": 797,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d83edcbb5986db29bbedae350fca68bd44ecf37492dc31278dd438ab1e1b25f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T16:50:10.911Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ファームガール",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148123423_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148123423",
+      "sourceCreatedAt": "2026-08-07T08:58:18.000Z"
+    },
+    {
       "id": "76bbbad5",
       "filename": "pixiv_148125454_p0.jpg",
       "path": "uploads/2026/08/2e1dcb04.jpg",
