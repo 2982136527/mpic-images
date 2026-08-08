@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "ae742f9c",
+      "filename": "pixiv_148074070_p0.jpg",
+      "path": "uploads/2026/08/61667294.jpg",
+      "size": 759462,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "79c6fa0e0017dfdcdf32d6260b3b9a38928fac01f7770bb685f4215624fcb75f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T02:11:05.662Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "攻略したいのはお前だよ落書き2",
+      "tags": [
+        "創作",
+        "じじい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148074070_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148074070",
+      "sourceCreatedAt": "2026-08-05T23:34:02.000Z"
+    },
+    {
       "id": "9022380d",
       "filename": "pixiv_148039377_p0.jpg",
       "path": "uploads/2026/08/25b44a18.jpg",
