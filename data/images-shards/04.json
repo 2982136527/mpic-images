@@ -3,6 +3,25 @@
   "shardId": "04",
   "images": [
     {
+      "id": "1f4c1af5",
+      "filename": "pixiv_148104151_p0.jpg",
+      "path": "uploads/2026/08/6e7f3001.jpg",
+      "size": 1150038,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14de1f9dde57b802bfb6e904119ea4ab2c048e8be0fb8ef6471798286298655c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T08:53:35.102Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【ch】にっぽんつめ28",
+      "sourceProvider": "pixiv",
+      "sourceId": "148104151_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148104151",
+      "sourceCreatedAt": "2026-08-06T16:19:14.000Z"
+    },
+    {
       "id": "87d13223",
       "filename": "pixiv_148085064_p0.jpg",
       "path": "uploads/2026/08/1b6f9a4b.jpg",
