@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "6c061c24",
+      "filename": "pixiv_148098063_p0.jpg",
+      "path": "uploads/2026/08/68685635.jpg",
+      "size": 540617,
+      "width": 540,
+      "height": 960,
+      "mimeType": "image/jpeg",
+      "hash": "1d9142bc6d26579e38fc2b755cfee7927ed760ff31a9f018b38ec4a47221f564",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T16:50:32.274Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "注视",
+      "tags": [
+        "绝区零",
+        "ゼンレスゾーンゼロ",
+        "レミエール・ダン",
+        "蕾米埃尔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148098063_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148098063",
+      "sourceCreatedAt": "2026-08-07T10:52:32.000Z"
+    },
+    {
       "id": "9fb073ce",
       "filename": "pixiv_148077450_p0.jpg",
       "path": "uploads/2026/08/54734b57.jpg",
