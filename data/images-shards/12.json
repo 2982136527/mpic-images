@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "aa9ebb4b",
+      "filename": "pixiv_148113922_p0.jpg",
+      "path": "uploads/2026/08/51a8d020.jpg",
+      "size": 689313,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7e4974dd962dfa7ddbd84fc10611e7d0b228105bd3725518c39ec5d03cf33195",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T08:54:40.668Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "DAY99@ 盐焗蛋糕",
+      "tags": [
+        "雪糕",
+        "萝莉",
+        "插画",
+        "白丝",
+        "白裤袜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148113922_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148113922",
+      "sourceCreatedAt": "2026-08-07T01:47:46.000Z"
+    },
+    {
       "id": "caa5a546",
       "filename": "pixiv_148055437_p0.jpg",
       "path": "uploads/2026/08/2c2c041c.jpg",
