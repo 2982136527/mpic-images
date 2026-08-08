@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "f498663d",
+      "filename": "pixiv_148129694_p0.jpg",
+      "path": "uploads/2026/08/513e9a37.jpg",
+      "size": 287349,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "8ee6d71dd4106c29aea83355b572fd2837ea4bcd326f3a3c287217c0298701b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T08:53:40.878Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "メロン",
+      "tags": [
+        "オリジナル",
+        "メロン",
+        "素晴らしきほっこりの世界",
+        "すっぽり",
+        "猫は液体"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148129694_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148129694",
+      "sourceCreatedAt": "2026-08-07T11:30:03.000Z"
+    },
+    {
       "id": "13c1eb5c",
       "filename": "pixiv_147860785_p0.jpg",
       "path": "uploads/2026/08/47009f86.jpg",
