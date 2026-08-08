@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "27a35501",
+      "filename": "pixiv_148111695_p0.jpg",
+      "path": "uploads/2026/08/3c64cd12.jpg",
+      "size": 643641,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ff5a87c08d01779d254dab699f9e1be070dfca4638ce12f7042388cd29358cea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T08:55:49.771Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "パチェ",
+      "tags": [
+        "東方Project",
+        "東方",
+        "パチュリー・ノーレッジ",
+        "パチュリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148111695_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148111695",
+      "sourceCreatedAt": "2026-08-06T23:32:29.000Z"
+    },
+    {
       "id": "e23c2d6e",
       "filename": "pixiv_148053615_p0.jpg",
       "path": "uploads/2026/08/2158f41e.jpg",
