@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "866c32a9",
+      "filename": "pixiv_148123333_p0.jpg",
+      "path": "uploads/2026/08/0d801773.jpg",
+      "size": 1232241,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4b567e188750bacd302fd8b25fb1c78ebcc145dc65f75a58039bad3cd3bd8ce9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-08T08:57:32.981Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108夏の新刊表紙",
+      "tags": [
+        "ブルーアーカイブ",
+        "水着",
+        "一之瀬アスナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148123333_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148123333",
+      "sourceCreatedAt": "2026-08-07T08:55:14.000Z"
+    },
+    {
       "id": "e792d8d4",
       "filename": "pixiv_148095101_p0.jpg",
       "path": "uploads/2026/08/0dc3f2b4.jpg",
