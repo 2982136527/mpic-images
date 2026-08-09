@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "4c5f81ea",
+      "filename": "pixiv_148162722_p0.jpg",
+      "path": "uploads/2026/08/cb4d7ef2.jpg",
+      "size": 1073890,
+      "width": 1014,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c34f65bd3eedb5efa1ae019c297e9ddab5e6a11a5d270872c585e47f91351e2b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T08:57:29.315Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "雄っぱい",
+        "狛野真斗",
+        "ZenlessZoneZero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148162722_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148162722",
+      "sourceCreatedAt": "2026-08-08T06:55:19.000Z"
+    },
+    {
       "id": "e32364da",
       "filename": "pixiv_148071460_p0.jpg",
       "path": "uploads/2026/08/919ea29c.jpg",
