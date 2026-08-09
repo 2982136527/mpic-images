@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "2eda2df8",
+      "filename": "pixiv_148152239_p0.jpg",
+      "path": "uploads/2026/08/17d3e7cf.jpg",
+      "size": 436647,
+      "width": 808,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2a2b495fc5d25644552da428dfdbae47b4f3c49032dc914a39092d9470236ca6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T09:02:45.589Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "트릭컬",
+        "シオン・ザ・DB"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148152239_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148152239",
+      "sourceCreatedAt": "2026-08-07T23:56:52.000Z"
+    },
+    {
       "id": "98b0e810",
       "filename": "pixiv_148115485_p0.jpg",
       "path": "uploads/2026/08/390c9bef.jpg",
