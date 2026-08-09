@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "9150a480",
+      "filename": "pixiv_148117792_p0.jpg",
+      "path": "uploads/2026/08/08daa52e.jpg",
+      "size": 662189,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a70046ebba458839dd3dd151c0a870e872f0d9027a8c9e2d9e60346c78d30aaf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T16:51:39.600Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "rkgk",
+      "tags": [
+        "낙서",
+        "그림",
+        "오버워치",
+        "overwatch",
+        "D.Va"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148117792_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148117792",
+      "sourceCreatedAt": "2026-08-07T04:51:23.000Z"
+    },
+    {
       "id": "6d689f74",
       "filename": "pixiv_148173235_p0.jpg",
       "path": "uploads/2026/08/1ea4bad9.jpg",
