@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "cb46f3b6",
+      "filename": "pixiv_148126412_p0.jpg",
+      "path": "uploads/2026/08/d8a14cc6.jpg",
+      "size": 445073,
+      "width": 676,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d0ad0393ed44f8035a7751eac3add693521b32f2cd21efbe9956f6e811f43c99",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T16:50:54.494Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "你老帕我可是很强的",
+      "tags": [
+        "アメイジング・デジタル・サーカス",
+        "ポムニ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148126412_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148126412",
+      "sourceCreatedAt": "2026-08-07T10:13:05.000Z"
+    },
+    {
       "id": "fa660625",
       "filename": "pixiv_148138865_p0.jpg",
       "path": "uploads/2026/08/64ba7666.jpg",
