@@ -3,6 +3,35 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "22b12a90",
+      "filename": "pixiv_148101596_p0.jpg",
+      "path": "uploads/2026/08/8adf29c8.jpg",
+      "size": 933761,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f34f87fc37d3a47e508930d1dbe222819315778ed6342a4461c6c26254123afd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T02:30:22.454Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "蒼斬しのぶちゃん",
+      "tags": [
+        "デュエルマスターズ",
+        "デュエル・マスターズ",
+        "デュエマ",
+        "ドラゴン娘になりたくないっ!",
+        "ドラゴン娘",
+        "斬隠蒼頭龍バイケン",
+        "蒼斬しのぶ",
+        "褐色"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148101596_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148101596",
+      "sourceCreatedAt": "2026-08-06T15:09:45.000Z"
+    },
+    {
       "id": "e613c892",
       "filename": "pixiv_148122458_p0.jpg",
       "path": "uploads/2026/08/4bcec819.jpg",
