@@ -3,6 +3,28 @@
   "shardId": "08",
   "images": [
     {
+      "id": "0ec8d52f",
+      "filename": "pixiv_148118304_p0.jpg",
+      "path": "uploads/2026/08/99516356.jpg",
+      "size": 694142,
+      "width": 874,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d3858420c152906bf947e6ac02790b3cdc3a2b0b8dff573e3eb30d359004c009",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T02:22:54.165Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "CM-507",
+      "tags": [
+        "黒タイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148118304_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148118304",
+      "sourceCreatedAt": "2026-08-07T05:19:24.000Z"
+    },
+    {
       "id": "e4f49a00",
       "filename": "pixiv_148127834_p0.jpg",
       "path": "uploads/2026/08/2d3fb4df.jpg",
