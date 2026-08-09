@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "d213782d",
+      "filename": "pixiv_147962819_p0.jpg",
+      "path": "uploads/2026/08/822588ae.jpg",
+      "size": 804508,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d09d646f2df8cb7936b46a268e5b2ced43e30e2429f8f23b87910f092c062a7c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T02:31:44.869Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "海だー！！！",
+      "tags": [
+        "女の子",
+        "水着",
+        "オリジナル",
+        "白ビキニ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147962819_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147962819",
+      "sourceCreatedAt": "2026-08-03T00:08:37.000Z"
+    },
+    {
       "id": "04eb468c",
       "filename": "pixiv_148075639_p0.jpg",
       "path": "uploads/2026/08/68cd12ff.jpg",
