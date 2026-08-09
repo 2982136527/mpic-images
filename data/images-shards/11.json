@@ -3,6 +3,28 @@
   "shardId": "11",
   "images": [
     {
+      "id": "3e675fce",
+      "filename": "pixiv_148121714_p0.jpg",
+      "path": "uploads/2026/08/4cdf80d0.jpg",
+      "size": 769994,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3eb18474208e02fce889eca3db5caecc36bca27e7c354a4a84cb5d6b0f7d3ccc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T16:47:22.008Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "敗戦国へようこそ！　その3",
+      "tags": [
+        "漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148121714_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148121714",
+      "sourceCreatedAt": "2026-08-07T07:55:07.000Z"
+    },
+    {
       "id": "b329b7cf",
       "filename": "pixiv_148153062_p0.jpg",
       "path": "uploads/2026/08/a483c31d.jpg",
