@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "2d70e4ac",
+      "filename": "pixiv_148144730_p0.jpg",
+      "path": "uploads/2026/08/97545544.jpg",
+      "size": 905251,
+      "width": 769,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "712a7836302d9610cf2940987bee398a669d5024b0ed05c2e8de2a9484b3dcd5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T16:53:52.529Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "OC",
+      "tags": [
+        "furry",
+        "獸人",
+        "ケモノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148144730_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148144730",
+      "sourceCreatedAt": "2026-08-07T16:58:32.000Z"
+    },
+    {
       "id": "0b92fd09",
       "filename": "pixiv_148100747_p0.jpg",
       "path": "uploads/2026/08/1f7ceec9.jpg",
