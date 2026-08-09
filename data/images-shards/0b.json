@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "68dca051",
+      "filename": "pixiv_148083334_p0.jpg",
+      "path": "uploads/2026/08/632af1ec.jpg",
+      "size": 632552,
+      "width": 1200,
+      "height": 811,
+      "mimeType": "image/jpeg",
+      "hash": "9a796b0b2d416345895454895690f5cecffd8aed60a91582439e786458d521fc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T02:22:47.002Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "胡瓜の丸かじりミクさん🥒",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "胡瓜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148083334_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148083334",
+      "sourceCreatedAt": "2026-08-06T07:20:33.000Z"
+    },
+    {
       "id": "ad783aa2",
       "filename": "pixiv_148122018_p0.jpg",
       "path": "uploads/2026/08/69aaec9b.jpg",
