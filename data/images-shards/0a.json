@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "6e146898",
+      "filename": "pixiv_148130449_p0.jpg",
+      "path": "uploads/2026/08/83588e41.jpg",
+      "size": 798505,
+      "width": 1200,
+      "height": 931,
+      "mimeType": "image/jpeg",
+      "hash": "ea5f3b0e0060918cfafc23df2e1d6509be7615ab4158e685c178ca7f01803f8e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T16:50:18.148Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "実装おめでとうございます",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "蒼きアズライール",
+        "アズライール(Fate)",
+        "ぐだ子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148130449_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148130449",
+      "sourceCreatedAt": "2026-08-09T16:10:22.000Z"
+    },
+    {
       "id": "085ff36d",
       "filename": "pixiv_148122890_p0.jpg",
       "path": "uploads/2026/08/a5ce31d3.jpg",
