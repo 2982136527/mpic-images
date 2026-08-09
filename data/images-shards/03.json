@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "00d034db",
+      "filename": "pixiv_148131638_p0.jpg",
+      "path": "uploads/2026/08/87b8b79c.jpg",
+      "size": 828224,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d4c26f941c7c41ffc9437f52f2ed50432062d07ca8e92e8a1c8413b5ea46ac51",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T09:00:39.457Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "教授",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "ニヤニヤ教授",
+        "水着",
+        "BlueArchive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148131638_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148131638",
+      "sourceCreatedAt": "2026-08-07T12:05:31.000Z"
+    },
+    {
       "id": "443397ff",
       "filename": "pixiv_148138648_p0.jpg",
       "path": "uploads/2026/08/360f21b8.jpg",
