@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "0d309348",
+      "filename": "pixiv_148141136_p0.jpg",
+      "path": "uploads/2026/08/faaa1e2c.jpg",
+      "size": 511948,
+      "width": 702,
+      "height": 945,
+      "mimeType": "image/jpeg",
+      "hash": "b359c1b3fc475d75ccf31dbfff0ec981ffb09bb865256cf971abbedf3d506d4f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T16:48:48.051Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "しぐぴこ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "シグウィン",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148141136_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148141136",
+      "sourceCreatedAt": "2026-08-07T15:14:36.000Z"
+    },
+    {
       "id": "3e675fce",
       "filename": "pixiv_148121714_p0.jpg",
       "path": "uploads/2026/08/4cdf80d0.jpg",
