@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "c5d4fa36",
+      "filename": "pixiv_147972954_p0.jpg",
+      "path": "uploads/2026/08/45d41dfd.jpg",
+      "size": 1200378,
+      "width": 869,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f4518cc39c5e871b1a26e8c018bd1dcbfac361aabe8cea2989ea42453d5683fc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T09:01:52.701Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "冒険者ローエン",
+      "tags": [
+        "原神",
+        "ローエン(原神)",
+        "Lohen",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147972954_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147972954",
+      "sourceCreatedAt": "2026-08-03T08:26:39.000Z"
+    },
+    {
       "id": "7e9766c2",
       "filename": "pixiv_148128485_p0.jpg",
       "path": "uploads/2026/08/bbd0b2e7.jpg",
