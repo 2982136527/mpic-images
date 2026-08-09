@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "b92e3f24",
+      "filename": "pixiv_148131894_p0.jpg",
+      "path": "uploads/2026/08/c2d8b356.jpg",
+      "size": 751275,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3747a9c3efc6a341f9c5db6af11d86c2539133476781e16dfd714bdadd7b5644",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T08:58:31.913Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "「もちもちしててかわいいよ、大好きなサンドローネ」",
+      "tags": [
+        "原神",
+        "コロンビーナ(原神)",
+        "サンドローネ(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148131894_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148131894",
+      "sourceCreatedAt": "2026-08-07T12:11:30.000Z"
+    },
+    {
       "id": "fb1f6c8c",
       "filename": "pixiv_148123964_p0.jpg",
       "path": "uploads/2026/08/42fc7f22.jpg",
