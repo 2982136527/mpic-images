@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "fb1f6c8c",
+      "filename": "pixiv_148123964_p0.jpg",
+      "path": "uploads/2026/08/42fc7f22.jpg",
+      "size": 951060,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6e73797c74a277f7d597f5545341bf6a16c6ac83b4bf1745f1f4f035f12f381c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T08:57:23.944Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バーヴァン・シー　他",
+      "tags": [
+        "Fate/GrandOrder",
+        "バーヴァン・シー(Fate)",
+        "BB",
+        "BB(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148123964_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148123964",
+      "sourceCreatedAt": "2026-08-07T09:05:08.000Z"
+    },
+    {
       "id": "5e20f567",
       "filename": "pixiv_148137754_p0.jpg",
       "path": "uploads/2026/08/2dda2f76.jpg",
