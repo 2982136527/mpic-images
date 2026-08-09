@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "cd79ed0c",
+      "filename": "pixiv_148118688_p0.jpg",
+      "path": "uploads/2026/08/eb88fd3a.jpg",
+      "size": 431361,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df1c77e1d3b3063778bb4b23d5aaca19f475d12375daa478077f3f84a3d64ca4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T09:00:13.036Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ルーミア",
+        "東方",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148118688_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148118688",
+      "sourceCreatedAt": "2026-08-07T05:37:42.000Z"
+    },
+    {
       "id": "a6bcaeb0",
       "filename": "pixiv_148123165_p0.jpg",
       "path": "uploads/2026/08/f3d24512.jpg",
