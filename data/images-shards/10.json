@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "18b98869",
+      "filename": "pixiv_148136129_p0.jpg",
+      "path": "uploads/2026/08/2c331269.jpg",
+      "size": 613631,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b89b6313da5eb0e7771753f07de96f89d6c92e4b4ec559af9a8bf360500dfda8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T16:50:49.577Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "猫エマヒロ",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "桜羽エマ",
+        "二階堂ヒロ",
+        "百合",
+        "エマヒロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148136129_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148136129",
+      "sourceCreatedAt": "2026-08-07T13:40:59.000Z"
+    },
+    {
       "id": "7e3098c4",
       "filename": "pixiv_148142887_p0.jpg",
       "path": "uploads/2026/08/e3a47f15.jpg",
