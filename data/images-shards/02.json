@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "91e59b78",
+      "filename": "pixiv_148109410_p0.jpg",
+      "path": "uploads/2026/08/6b473dc2.jpg",
+      "size": 726841,
+      "width": 912,
+      "height": 908,
+      "mimeType": "image/jpeg",
+      "hash": "b76f4c5178bf987c79541a7241560c094fba9fc3c381150b87700fda1fcb0a05",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T02:25:02.897Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "cinema.",
+      "tags": [
+        "葬送のフリーレン",
+        "フリーレン",
+        "フェルン(葬送のフリーレン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148109410_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148109410",
+      "sourceCreatedAt": "2026-08-06T21:18:30.000Z"
+    },
+    {
       "id": "c15ced53",
       "filename": "pixiv_148108818_p0.jpg",
       "path": "uploads/2026/08/a958aacf.jpg",
