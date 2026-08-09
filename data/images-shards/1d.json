@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "a426ec26",
+      "filename": "pixiv_148082869_p0.jpg",
+      "path": "uploads/2026/08/80d484c2.jpg",
+      "size": 920864,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "02e9e71290c56f804e80897e95325a703b7cbdb50b64eed75959b6210345dabd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T02:28:02.607Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "8월 리퀘 오르페브르",
+      "tags": [
+        "オルフェーヴル(ウマ娘)",
+        "ウマ娘プリティーダービ",
+        "UmaMusume"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148082869_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148082869",
+      "sourceCreatedAt": "2026-08-06T07:00:01.000Z"
+    },
+    {
       "id": "16616cb5",
       "filename": "pixiv_148090890_p0.jpg",
       "path": "uploads/2026/08/bca73768.jpg",
