@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "5f07f46e",
+      "filename": "pixiv_148161630_p0.jpg",
+      "path": "uploads/2026/08/6232bf52.jpg",
+      "size": 566478,
+      "width": 827,
+      "height": 1169,
+      "mimeType": "image/jpeg",
+      "hash": "c33e77b639fb524fafe889b161feaa7abeb289ee6e9da45286f803d64078aa5d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T16:51:11.723Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "にごーちゃん。",
+      "tags": [
+        "亜人",
+        "ケモミミ",
+        "メカ娘",
+        "義足"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148161630_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148161630",
+      "sourceCreatedAt": "2026-08-08T06:11:59.000Z"
+    },
+    {
       "id": "18b98869",
       "filename": "pixiv_148136129_p0.jpg",
       "path": "uploads/2026/08/2c331269.jpg",
