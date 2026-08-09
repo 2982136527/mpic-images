@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "b35da729",
+      "filename": "pixiv_148153599_p0.jpg",
+      "path": "uploads/2026/08/ee06d073.jpg",
+      "size": 941766,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aef32b0e1ee46313653694e24099cfc25cd9296eab66b8a535e82c54acbcd2a0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T16:54:15.098Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "マルチャーナ",
+      "tags": [
+        "マルチャーナ(勝利の女神:NIKKE)",
+        "勝利の女神:NIKKE",
+        "NIKKE",
+        "スリングショット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148153599_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148153599",
+      "sourceCreatedAt": "2026-08-08T12:29:03.000Z"
+    },
+    {
       "id": "41254ff4",
       "filename": "pixiv_148004020_p0.jpg",
       "path": "uploads/2026/08/0104f833.jpg",
