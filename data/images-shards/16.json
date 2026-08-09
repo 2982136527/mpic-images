@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "ee5b5602",
+      "filename": "pixiv_148145309_p0.jpg",
+      "path": "uploads/2026/08/0aee931b.jpg",
+      "size": 1034404,
+      "width": 1200,
+      "height": 521,
+      "mimeType": "image/jpeg",
+      "hash": "6d0396d604369796f2763eeba7b8160a2c9b61f770f4f2e07d78fb9dcfe8cd9b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T08:58:04.579Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Остатки",
+      "tags": [
+        "原创",
+        "场景",
+        "風景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148145309_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148145309",
+      "sourceCreatedAt": "2026-08-07T17:22:02.000Z"
+    },
+    {
       "id": "79c7c0e2",
       "filename": "pixiv_148127636_p0.jpg",
       "path": "uploads/2026/08/a0b78101.jpg",
