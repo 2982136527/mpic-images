@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "79c7c0e2",
+      "filename": "pixiv_148127636_p0.jpg",
+      "path": "uploads/2026/08/a0b78101.jpg",
+      "size": 2682813,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d1a70b4157c152d85bfb5841f561c52590865fb67f431521f3c5182274e549b3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T08:57:39.032Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "FATE in Full BLOOM",
+      "tags": [
+        "東方",
+        "東方Project",
+        "イラスト",
+        "女の子",
+        "レミリア・スカーレット",
+        "レミリア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148127636_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148127636",
+      "sourceCreatedAt": "2026-08-07T10:46:19.000Z"
+    },
+    {
       "id": "e16fc5cd",
       "filename": "pixiv_148096499_p0.jpg",
       "path": "uploads/2026/08/e48e734e.jpg",
