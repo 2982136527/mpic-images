@@ -3,6 +3,37 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "d1dbba94",
+      "filename": "pixiv_148140357_p0.jpg",
+      "path": "uploads/2026/08/b5b0a95d.jpg",
+      "size": 546596,
+      "width": 600,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "586f40ea4886bfecbb2b015b239331d2b1b53e093c8e265775e5297b965aef22",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T16:47:36.538Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "一事が万事",
+      "tags": [
+        "ポケモン",
+        "カフェライチュウ",
+        "謎の疾走感",
+        "ライチュウも楽しそうですね",
+        "なるほどわからん",
+        "どういうことなの",
+        "バンジー!!",
+        "長い尻尾のライチュウ",
+        "やはり偏るアンケート",
+        "バンジージャンプ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148140357_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148140357",
+      "sourceCreatedAt": "2026-08-07T15:02:50.000Z"
+    },
+    {
       "id": "b2f06b4a",
       "filename": "pixiv_148140020_p0.jpg",
       "path": "uploads/2026/08/85bf4457.jpg",
