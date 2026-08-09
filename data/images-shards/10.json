@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "80b97a20",
+      "filename": "pixiv_148141599_p0.jpg",
+      "path": "uploads/2026/08/36422edf.jpg",
+      "size": 998215,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09045348c5190680706feb977f2964a145729468d248c1a5644483ecbb37668b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T08:58:27.020Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ねこ",
+      "tags": [
+        "女の子",
+        "ぱんつ",
+        "隙パン",
+        "ショートパンツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148141599_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148141599",
+      "sourceCreatedAt": "2026-08-07T15:25:49.000Z"
+    },
+    {
       "id": "f76742c9",
       "filename": "pixiv_148121960_p0.jpg",
       "path": "uploads/2026/08/e72d907b.jpg",
