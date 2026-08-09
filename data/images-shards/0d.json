@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "889a51a5",
+      "filename": "pixiv_148094027_p0.jpg",
+      "path": "uploads/2026/08/26421c05.jpg",
+      "size": 908318,
+      "width": 703,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bb200a0c28f6a88c8dd537cbde77e2532f2caefc1e044d320f5adcc43ad153e7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T02:25:45.381Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "イドメタ",
+      "tags": [
+        "シャドウバース",
+        "シャドバ",
+        "Shadowverse",
+        "イドメタ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148094027_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148094027",
+      "sourceCreatedAt": "2026-08-06T12:30:35.000Z"
+    },
+    {
       "id": "74f76ecd",
       "filename": "pixiv_148025998_p0.jpg",
       "path": "uploads/2026/08/17031984.jpg",
