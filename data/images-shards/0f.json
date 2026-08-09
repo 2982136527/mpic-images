@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "240cda91",
+      "filename": "pixiv_148100786_p0.jpg",
+      "path": "uploads/2026/08/df88416f.jpg",
+      "size": 1630555,
+      "width": 992,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0a6068871bf555fc8149be892fdfc246746af833f827680d2b5fb0a5d04a94e0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T08:55:48.431Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "☆",
+      "tags": [
+        "オリジナル",
+        "C108",
+        "魔女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148100786_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148100786",
+      "sourceCreatedAt": "2026-08-06T15:00:20.000Z"
+    },
+    {
       "id": "06760463",
       "filename": "pixiv_148164264_p0.jpg",
       "path": "uploads/2026/08/6fc0f5ab.jpg",
