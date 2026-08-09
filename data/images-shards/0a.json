@@ -3,6 +3,33 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "82eb56f4",
+      "filename": "pixiv_148148805_p0.jpg",
+      "path": "uploads/2026/08/3f8f2390.jpg",
+      "size": 685776,
+      "width": 920,
+      "height": 1164,
+      "mimeType": "image/jpeg",
+      "hash": "0b7e99add871483a96986ace219e5f1be60b417f98a9127621d5bfbdbb9244d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T08:55:33.782Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "個人メモ：上腕の構造",
+      "tags": [
+        "漫画素材工房",
+        "描き方",
+        "人体",
+        "身体",
+        "美術解剖学",
+        "腕"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148148805_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148148805",
+      "sourceCreatedAt": "2026-08-07T21:00:15.000Z"
+    },
+    {
       "id": "22b12a90",
       "filename": "pixiv_148101596_p0.jpg",
       "path": "uploads/2026/08/8adf29c8.jpg",
