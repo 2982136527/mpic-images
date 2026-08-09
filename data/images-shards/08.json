@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "8fe30f72",
+      "filename": "pixiv_148166161_p0.jpg",
+      "path": "uploads/2026/08/f06ced50.jpg",
+      "size": 822335,
+      "width": 993,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e1ab3e8948300effbcc6d01dd339f0164a8cc24153e98efd1c8043e2ab3e5e2e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T09:03:35.340Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "勝デクとかまとめ",
+      "tags": [
+        "勝デク",
+        "茶出"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148166161_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148166161",
+      "sourceCreatedAt": "2026-08-08T08:46:17.000Z"
+    },
+    {
       "id": "21529ed5",
       "filename": "pixiv_148148601_p0.jpg",
       "path": "uploads/2026/08/a285fb0e.jpg",
