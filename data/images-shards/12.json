@@ -3,6 +3,33 @@
   "shardId": "12",
   "images": [
     {
+      "id": "b14db06a",
+      "filename": "pixiv_148171588_p0.jpg",
+      "path": "uploads/2026/08/99694cd7.jpg",
+      "size": 1467282,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d6d09a4522f1359be10394a8e21304a5f835172f5713350a8a1f794b5464e387",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T08:58:46.457Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108 新刊",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "蛍(原神)",
+        "フリーナ",
+        "水着",
+        "新刊サンプル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148171588_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148171588",
+      "sourceCreatedAt": "2026-08-08T11:01:35.000Z"
+    },
+    {
       "id": "b92e3f24",
       "filename": "pixiv_148131894_p0.jpg",
       "path": "uploads/2026/08/c2d8b356.jpg",
