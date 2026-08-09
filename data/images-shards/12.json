@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "27fbd634",
+      "filename": "pixiv_148155227_p0.jpg",
+      "path": "uploads/2026/08/7acb2c28.jpg",
+      "size": 1300793,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ba493f0275a52e4288c7b4ae423559624ed2e00eaf5686dba0eff75a215ca460",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T08:56:39.735Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "心の天秤",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "少女",
+        "創作",
+        "白髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148155227_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148155227",
+      "sourceCreatedAt": "2026-08-08T02:08:48.000Z"
+    },
+    {
       "id": "ef31cbd3",
       "filename": "pixiv_148107170_p0.jpg",
       "path": "uploads/2026/08/aba001e3.jpg",
