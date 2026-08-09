@@ -3,6 +3,33 @@
   "shardId": "12",
   "images": [
     {
+      "id": "41254ff4",
+      "filename": "pixiv_148004020_p0.jpg",
+      "path": "uploads/2026/08/0104f833.jpg",
+      "size": 641499,
+      "width": 1200,
+      "height": 1199,
+      "mimeType": "image/jpeg",
+      "hash": "66efb351f33c70f5dd9cd2fb400dd888f500e3acd3b19b42440bfc5e8e76c833",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-09T09:01:43.275Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "実装ありがとう",
+      "tags": [
+        "アズライール(Fate)",
+        "オルガマリー・アニムスフィア",
+        "Fate/GO",
+        "FGO",
+        "蒼きアズライール",
+        "Fate/GO1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148004020_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148004020",
+      "sourceCreatedAt": "2026-08-04T03:32:07.000Z"
+    },
+    {
       "id": "ba5afc24",
       "filename": "pixiv_148100898_p0.jpg",
       "path": "uploads/2026/08/46eb37df.jpg",
