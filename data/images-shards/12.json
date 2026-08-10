@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "b328e546",
+      "filename": "pixiv_148172901_p0.jpg",
+      "path": "uploads/2026/08/ec945373.jpg",
+      "size": 1293055,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c19a97e67407ba0d42cca7330e4dec737fed266adaebfbfd8102e8d59e26b8d4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:47:42.228Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "だらだらアイス",
+      "tags": [
+        "創作",
+        "女の子",
+        "制服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148172901_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148172901",
+      "sourceCreatedAt": "2026-08-08T11:30:29.000Z"
+    },
+    {
       "id": "734ff62a",
       "filename": "pixiv_148173826_p0.jpg",
       "path": "uploads/2026/08/028428e7.jpg",
