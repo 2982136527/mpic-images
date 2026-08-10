@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "e9382293",
+      "filename": "pixiv_148200116_p0.jpg",
+      "path": "uploads/2026/08/e8bde658.jpg",
+      "size": 1061974,
+      "width": 790,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c18da8c1c08d1e03a262441670708c68ba32c9b252810ce181b23a16e69b7c77",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T17:10:59.360Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リーノ",
+      "tags": [
+        "ArknightsEndfield",
+        "ComingHome",
+        "アークナイツ:エンドフィールド",
+        "リーノ(エンドフィールド)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148200116_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148200116",
+      "sourceCreatedAt": "2026-08-09T03:05:18.000Z"
+    },
+    {
       "id": "e82b6963",
       "filename": "pixiv_148023743_p0.jpg",
       "path": "uploads/2026/08/9c40db28.jpg",
