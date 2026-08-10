@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "45c1d13b",
+      "filename": "pixiv_147972700_p0.jpg",
+      "path": "uploads/2026/08/b4f19a7d.jpg",
+      "size": 1378139,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "188f974cc9445fcd3098c4ae4a5e9223cd7c20fa0aaeb84555ca536abd44aa39",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T02:33:34.956Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "淹れすぎ",
+      "tags": [
+        "創作",
+        "少女",
+        "背景",
+        "厚塗り",
+        "メイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147972700_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147972700",
+      "sourceCreatedAt": "2026-08-03T08:15:46.000Z"
+    },
+    {
       "id": "8708676e",
       "filename": "pixiv_148104345_p0.jpg",
       "path": "uploads/2026/08/f28ce4b9.jpg",
