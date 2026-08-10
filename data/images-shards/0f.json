@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "b0045bae",
+      "filename": "pixiv_148205115_p0.jpg",
+      "path": "uploads/2026/08/7ab670b5.jpg",
+      "size": 2022133,
+      "width": 1200,
+      "height": 995,
+      "mimeType": "image/jpeg",
+      "hash": "82a9fa5c01587e1a9455f912b663ff47a9821f945990932925e7adde6e19ace7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:47:03.234Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ハローワールド",
+      "tags": [
+        "Cyrene",
+        "キュレネ",
+        "崩壊スターレイル",
+        "崩壊:スターレイル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148205115_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148205115",
+      "sourceCreatedAt": "2026-08-09T06:07:59.000Z"
+    },
+    {
       "id": "1091dcbe",
       "filename": "pixiv_148168627_p0.jpg",
       "path": "uploads/2026/08/537840a4.jpg",
