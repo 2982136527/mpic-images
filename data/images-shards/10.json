@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "07e5a7c8",
+      "filename": "pixiv_148156123_p0.jpg",
+      "path": "uploads/2026/08/2b2e355c.jpg",
+      "size": 1417892,
+      "width": 915,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "504b8808ec9c23f19e875a68486b773dd1f4754b7b5abed92bb998a0f2969b29",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T02:30:34.269Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リクエスト",
+      "tags": [
+        "드림",
+        "oc",
+        "ツイステ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148156123_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148156123",
+      "sourceCreatedAt": "2026-08-08T02:46:05.000Z"
+    },
+    {
       "id": "815e0f62",
       "filename": "pixiv_148170995_p0.jpg",
       "path": "uploads/2026/08/706fd7bb.jpg",
