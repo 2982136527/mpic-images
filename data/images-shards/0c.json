@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "6762d852",
+      "filename": "pixiv_148183033_p0.jpg",
+      "path": "uploads/2026/08/bb97cd6f.jpg",
+      "size": 1569743,
+      "width": 874,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5fb61f683be91f28eee5565779e4908ff52b085cbb21c37a20be7afc1c4a66ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:43:56.676Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "海辺のレミエール",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ",
+        "レミエール・ダン",
+        "zzzero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148183033_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148183033",
+      "sourceCreatedAt": "2026-08-08T15:00:30.000Z"
+    },
+    {
       "id": "4a4ed2e0",
       "filename": "pixiv_148134686_p0.jpg",
       "path": "uploads/2026/08/a03ed4ec.jpg",
