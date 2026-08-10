@@ -3,6 +3,35 @@
   "shardId": "08",
   "images": [
     {
+      "id": "8f0394e7",
+      "filename": "pixiv_148170624_p0.jpg",
+      "path": "uploads/2026/08/a1bf3617.jpg",
+      "size": 1352459,
+      "width": 838,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4811975756016572ab95a83962357e5983a84910931d1f229a0a672c63d22cac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:48:47.120Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108新刊",
+      "tags": [
+        "C108",
+        "コミケ",
+        "GenshinImpact",
+        "原神",
+        "コロンビーナ(原神)",
+        "サンドローネ(原神)",
+        "コロサン",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148170624_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148170624",
+      "sourceCreatedAt": "2026-08-08T10:42:02.000Z"
+    },
+    {
       "id": "c455a9c7",
       "filename": "pixiv_148219437_p0.jpg",
       "path": "uploads/2026/08/a31faebf.jpg",
