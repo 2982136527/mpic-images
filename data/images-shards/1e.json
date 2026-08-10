@@ -3,6 +3,32 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "0af4eb12",
+      "filename": "pixiv_148108311_p0.jpg",
+      "path": "uploads/2026/08/76977521.jpg",
+      "size": 1076757,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a53b480ebaff8d44f7ed2879b0497ac5b9ece5282cec3202e162ff4ef166c3d0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T02:31:48.435Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏のシトラちゃん",
+      "tags": [
+        "白髪",
+        "オリジナル",
+        "女の子",
+        "水着",
+        "ビキニ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148108311_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148108311",
+      "sourceCreatedAt": "2026-08-06T20:07:57.000Z"
+    },
+    {
       "id": "d0d753a7",
       "filename": "pixiv_148125317_p0.jpg",
       "path": "uploads/2026/08/8044fb29.jpg",
