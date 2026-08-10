@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "4d17c0f2",
+      "filename": "pixiv_148142549_p0.jpg",
+      "path": "uploads/2026/08/b2353b8c.jpg",
+      "size": 635943,
+      "width": 789,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b51da439cdd20cf5ffd1cc320c4021ec72a97025b39cbe62449cfec36050a55b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:44:49.399Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "桐藤ナギサ",
+      "tags": [
+        "ブルーアーカイブ",
+        "桐藤ナギサ",
+        "バニーガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148142549_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148142549",
+      "sourceCreatedAt": "2026-08-07T15:48:40.000Z"
+    },
+    {
       "id": "368ccb56",
       "filename": "pixiv_148135820_p0.jpg",
       "path": "uploads/2026/08/70adb074.jpg",
