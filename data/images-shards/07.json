@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "4f115f15",
+      "filename": "pixiv_148139806_p0.jpg",
+      "path": "uploads/2026/08/a560f651.jpg",
+      "size": 1721515,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "78fac787bb54747cc42337565159ea8e2b8db955d8879081c016aab1ea1ce409",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:44:12.022Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🌸",
+      "tags": [
+        "Chinozo",
+        "さじま(歌い手)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148139806_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148139806",
+      "sourceCreatedAt": "2026-08-07T15:00:08.000Z"
+    },
+    {
       "id": "c02fa935",
       "filename": "pixiv_148139756_p0.jpg",
       "path": "uploads/2026/08/763f2b65.jpg",
