@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "4cefef34",
+      "filename": "pixiv_148139932_p0.jpg",
+      "path": "uploads/2026/08/69ff4e79.jpg",
+      "size": 1022976,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3f66a5e89c5cf01c396909687a926b750a1c3c69d784a3e348cacc0f61ec89c0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:43:13.709Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夕節の一時",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "風景",
+        "夕暮れ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148139932_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148139932",
+      "sourceCreatedAt": "2026-08-07T15:00:24.000Z"
+    },
+    {
       "id": "19ffe265",
       "filename": "pixiv_148144167_p0.jpg",
       "path": "uploads/2026/08/d2e335e9.jpg",
