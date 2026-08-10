@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "a50abaf3",
+      "filename": "pixiv_148201999_p0.jpg",
+      "path": "uploads/2026/08/130ba808.jpg",
+      "size": 1988115,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "998e200e61edcf3095adc67692f149f2b73d97cb3338bebb0e94a3a018a2e81e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:43:29.379Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "青いテーブル",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "夏",
+        "ティータイム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148201999_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148201999",
+      "sourceCreatedAt": "2026-08-09T04:13:23.000Z"
+    },
+    {
       "id": "b6260d2e",
       "filename": "pixiv_148140031_p0.jpg",
       "path": "uploads/2026/08/de5608e4.jpg",
