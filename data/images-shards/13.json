@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "23c3e8e3",
+      "filename": "pixiv_148165237_p0.jpg",
+      "path": "uploads/2026/08/e127de5e.jpg",
+      "size": 1280823,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3a954aaa89f757ed10e2c36e473127443ed94c4160ea3a3b8e7e728b7feaa026",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:50:45.299Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "チノちゃん",
+      "tags": [
+        "ご注文はうさぎですか?",
+        "香風智乃",
+        "チノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148165237_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148165237",
+      "sourceCreatedAt": "2026-08-08T08:17:37.000Z"
+    },
+    {
       "id": "096f3ddc",
       "filename": "pixiv_148183293_p0.jpg",
       "path": "uploads/2026/08/f6f0c696.jpg",
