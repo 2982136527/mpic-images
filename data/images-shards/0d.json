@@ -3,6 +3,28 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "ceba431e",
+      "filename": "pixiv_148181309_p0.jpg",
+      "path": "uploads/2026/08/12a34ec5.jpg",
+      "size": 1750251,
+      "width": 1020,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2272af305ba7351e4671e741a1721836c8d852e60a10f4acda3615545891ce20",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:49:26.516Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "자캐",
+      "tags": [
+        "OC"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148181309_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148181309",
+      "sourceCreatedAt": "2026-08-08T14:28:56.000Z"
+    },
+    {
       "id": "8a4a9688",
       "filename": "pixiv_148213015_p0.jpg",
       "path": "uploads/2026/08/111b205a.jpg",
