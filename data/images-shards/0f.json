@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "ce916bee",
+      "filename": "pixiv_148185946_p0.jpg",
+      "path": "uploads/2026/08/2f1030b2.jpg",
+      "size": 1279093,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "32ddf10e058e623644121599d598aca750cd63e29f5cd1914d02a7cfd1d0d4f9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:45:12.673Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Reveal",
+      "tags": [
+        "巫てんり",
+        "白髪",
+        "銀髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148185946_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148185946",
+      "sourceCreatedAt": "2026-08-08T16:00:48.000Z"
+    },
+    {
       "id": "132baeb7",
       "filename": "pixiv_147950745_p0.jpg",
       "path": "uploads/2026/08/e12ee4ed.jpg",
