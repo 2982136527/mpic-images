@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "b41e8650",
+      "filename": "pixiv_148135372_p0.jpg",
+      "path": "uploads/2026/08/43a5a206.jpg",
+      "size": 344958,
+      "width": 846,
+      "height": 971,
+      "mimeType": "image/jpeg",
+      "hash": "fcff17ff0647c615ec47fc20240de555c9722631c8161ede416954997fec0d6c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T02:31:09.240Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "プロセカ log",
+      "tags": [
+        "プロセカ",
+        "25時、ナイトコードで。",
+        "みずえな"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148135372_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148135372",
+      "sourceCreatedAt": "2026-08-07T13:24:45.000Z"
+    },
+    {
       "id": "0af5eb2f",
       "filename": "pixiv_148125737_p0.jpg",
       "path": "uploads/2026/08/69816feb.jpg",
