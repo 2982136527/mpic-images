@@ -3,6 +3,35 @@
   "shardId": "11",
   "images": [
     {
+      "id": "bc01efd7",
+      "filename": "pixiv_148178334_p0.jpg",
+      "path": "uploads/2026/08/d623693e.jpg",
+      "size": 1126989,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df3fb52eec532a99e2a1aabe0563b8cb63ea9983487a99013e7346f2cb6753d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:50:52.582Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108新刊①「STARGAZING2」",
+      "tags": [
+        "pixiv_C108",
+        "崩壊:スターレイル",
+        "HonkaiStarRail",
+        "崩坏星穹铁道",
+        "マダム・ヘルタ",
+        "星(スターレイル)",
+        "緋英",
+        "C108"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148178334_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148178334",
+      "sourceCreatedAt": "2026-08-08T13:23:18.000Z"
+    },
+    {
       "id": "161b9e51",
       "filename": "pixiv_148182837_p0.jpg",
       "path": "uploads/2026/08/80256808.jpg",
