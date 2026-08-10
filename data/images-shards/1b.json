@@ -3,6 +3,36 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "11cdfca5",
+      "filename": "pixiv_148202428_p0.jpg",
+      "path": "uploads/2026/08/5bb613f6.jpg",
+      "size": 543703,
+      "width": 635,
+      "height": 635,
+      "mimeType": "image/jpeg",
+      "hash": "6e2e8bcce4e43d95049c9797147273fe446ac24879badc2217325225c637b1cf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T17:05:35.533Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "レンガトーン08_アーチ状",
+      "tags": [
+        "漫画素材工房",
+        "ClipStudioPaint",
+        "ComicStudio",
+        "クリップスタジオ",
+        "コミックスタジオ",
+        "素材",
+        "トーン素材",
+        "レンガ",
+        "タイリング"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148202428_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148202428",
+      "sourceCreatedAt": "2026-08-09T04:30:39.000Z"
+    },
+    {
       "id": "7f113954",
       "filename": "pixiv_148204205_p0.jpg",
       "path": "uploads/2026/08/fa5780eb.jpg",
