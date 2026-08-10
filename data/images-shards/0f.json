@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "551409d8",
+      "filename": "pixiv_148171966_p0.jpg",
+      "path": "uploads/2026/08/87b95701.jpg",
+      "size": 533362,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b19de80a203fc5f9b6311936ca1079c6d75bf4d18a0a9bc0e521f52a136e9eea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T02:30:18.175Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "成長",
+      "tags": [
+        "宵崎奏",
+        "prsk_FA"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148171966_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148171966",
+      "sourceCreatedAt": "2026-08-08T11:08:34.000Z"
+    },
+    {
       "id": "71d99c83",
       "filename": "pixiv_148100762_p0.jpg",
       "path": "uploads/2026/08/38983c59.jpg",
