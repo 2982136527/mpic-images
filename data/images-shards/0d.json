@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "96becb4e",
+      "filename": "pixiv_148192736_p0.jpg",
+      "path": "uploads/2026/08/e5ce4797.jpg",
+      "size": 428969,
+      "width": 1079,
+      "height": 980,
+      "mimeType": "image/jpeg",
+      "hash": "833fe15942d394baca15f9247e83f17ecf38d049e913235d753bb27481e93ca9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T17:05:59.855Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "上官と部下66",
+      "tags": [
+        "漫画",
+        "上司と部下"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148192736_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148192736",
+      "sourceCreatedAt": "2026-08-08T21:50:04.000Z"
+    },
+    {
       "id": "e524bd26",
       "filename": "pixiv_148139921_p0.jpg",
       "path": "uploads/2026/08/e281332f.jpg",
