@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "ab2abc0d",
+      "filename": "pixiv_148140047_p0.jpg",
+      "path": "uploads/2026/08/04aeff61.jpg",
+      "size": 922508,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c4754de7bb90990e549eee7c7ac572e6b33e986558b1e27d271cc4f816f3a276",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T17:02:55.943Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "雛輪",
+      "tags": [
+        "オリジナル",
+        "和装TechGear",
+        "美脚"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148140047_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148140047",
+      "sourceCreatedAt": "2026-08-10T04:52:13.000Z"
+    },
+    {
       "id": "3bcb1a35",
       "filename": "pixiv_148166860_p0.jpg",
       "path": "uploads/2026/08/ec14c0c0.jpg",
