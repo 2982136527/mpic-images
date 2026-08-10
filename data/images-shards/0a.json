@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "9928e880",
+      "filename": "pixiv_148200089_p0.jpg",
+      "path": "uploads/2026/08/61f02dc3.jpg",
+      "size": 810537,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cde1c1dc2a64d8a12fc34a8e6faaf83097141c96b49ece2bc138f111ca37ef54",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:51:54.965Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "OC",
+        "女の子",
+        "苏筱白"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148200089_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148200089",
+      "sourceCreatedAt": "2026-08-09T03:04:07.000Z"
+    },
+    {
       "id": "17827d3f",
       "filename": "pixiv_148183131_p0.jpg",
       "path": "uploads/2026/08/56d42154.jpg",
