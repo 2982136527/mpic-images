@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "2d46fba8",
+      "filename": "pixiv_148218475_p0.jpg",
+      "path": "uploads/2026/08/677388ef.jpg",
+      "size": 1912465,
+      "width": 963,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a128eb261f1fbdcd7405af56757147d2af75c59fb762bb0d5249e8d96dddd845",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T17:07:01.424Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Silene",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "白髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148218475_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148218475",
+      "sourceCreatedAt": "2026-08-09T12:00:50.000Z"
+    },
+    {
       "id": "e352ff67",
       "filename": "pixiv_148157905_p0.jpg",
       "path": "uploads/2026/08/df6c281f.jpg",
