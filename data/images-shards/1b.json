@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "2f57ad5a",
+      "filename": "pixiv_148205001_p0.jpg",
+      "path": "uploads/2026/08/40d9023d.jpg",
+      "size": 974643,
+      "width": 782,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7e2d5b5946c84c1695d0189878ce8ea271a3253d246705f920f9b600cc4fb91a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:50:37.924Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "セイレンス",
+      "tags": [
+        "崩壊スターレイル",
+        "崩壊:スターレイル",
+        "HonkaiStarRail",
+        "セイレンス",
+        "Hysilens",
+        "水中"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148205001_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148205001",
+      "sourceCreatedAt": "2026-08-09T06:04:16.000Z"
+    },
+    {
       "id": "147169c2",
       "filename": "pixiv_148194600_p0.jpg",
       "path": "uploads/2026/08/23786b10.jpg",
