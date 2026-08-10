@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "78b3c1f2",
+      "filename": "pixiv_148207274_p0.jpg",
+      "path": "uploads/2026/08/c0311cab.jpg",
+      "size": 1301400,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2b5829e8ca7a3b43cda0329516dae2f0cfb62a2a6ad700abcb43e14bc6138028",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T17:04:42.246Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "💖",
+      "tags": [
+        "東方",
+        "東方Project",
+        "博麗霊夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148207274_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148207274",
+      "sourceCreatedAt": "2026-08-09T07:21:59.000Z"
+    },
+    {
       "id": "91b219a4",
       "filename": "pixiv_148139902_p0.jpg",
       "path": "uploads/2026/08/3bd2a403.jpg",
