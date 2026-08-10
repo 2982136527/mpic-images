@@ -3,6 +3,32 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "8a4a9688",
+      "filename": "pixiv_148213015_p0.jpg",
+      "path": "uploads/2026/08/111b205a.jpg",
+      "size": 1317190,
+      "width": 1200,
+      "height": 844,
+      "mimeType": "image/jpeg",
+      "hash": "de8103daeb9eca5966801665175addc6a32f84b277077c21799e8e375761848f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:46:48.336Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "日課",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ローエン",
+        "テオドール",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148213015_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148213015",
+      "sourceCreatedAt": "2026-08-09T10:01:31.000Z"
+    },
+    {
       "id": "4fe6914d",
       "filename": "pixiv_148193500_p0.jpg",
       "path": "uploads/2026/08/5d23b4f7.jpg",
