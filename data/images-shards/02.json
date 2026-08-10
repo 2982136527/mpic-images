@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "78df318d",
+      "filename": "pixiv_148182925_p0.jpg",
+      "path": "uploads/2026/08/1b8a8c49.jpg",
+      "size": 795501,
+      "width": 627,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "de158c98d66e4415f14fc222e8f2301abcf646b523d987fb3ca3cb6ee01696ab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:43:48.909Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "the Year of the Boar",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148182925_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148182925",
+      "sourceCreatedAt": "2026-08-08T15:00:14.000Z"
+    },
+    {
       "id": "55a241fa",
       "filename": "pixiv_148171932_p0.jpg",
       "path": "uploads/2026/08/c2b51a99.jpg",
