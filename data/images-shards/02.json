@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "f7226ac4",
+      "filename": "pixiv_148176453_p0.jpg",
+      "path": "uploads/2026/08/2b0e775e.jpg",
+      "size": 494109,
+      "width": 907,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "58cb8d86dd6af519a18f4cce8ff81df5a9bad5050245c9b7432d455a0edafc59",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T17:10:07.341Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "あずにゃ",
+      "tags": [
+        "アズライール(Fate)",
+        "擬獣化",
+        "蒼きアズライール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148176453_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148176453",
+      "sourceCreatedAt": "2026-08-08T12:43:54.000Z"
+    },
+    {
       "id": "8fd98374",
       "filename": "pixiv_148221914_p0.jpg",
       "path": "uploads/2026/08/b44194d1.jpg",
