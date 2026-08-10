@@ -3,6 +3,32 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "5dfaeb16",
+      "filename": "pixiv_148139997_p0.jpg",
+      "path": "uploads/2026/08/32a560d9.jpg",
+      "size": 1274399,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "84be33c179be4c3576c57d2f53c226f4b7f2618996400a2b87b296bd36a02c77",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T17:05:50.768Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "トワ様",
+      "tags": [
+        "常闇トワ",
+        "TOWART",
+        "ホロライブ",
+        "hololive",
+        "バーチャルYouTuber1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148139997_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148139997",
+      "sourceCreatedAt": "2026-08-07T15:00:32.000Z"
+    },
+    {
       "id": "6033520d",
       "filename": "pixiv_148180471_p0.jpg",
       "path": "uploads/2026/08/70624122.jpg",
