@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "2a9b3ee1",
+      "filename": "pixiv_148161166_p0.jpg",
+      "path": "uploads/2026/08/3cf1cd0d.jpg",
+      "size": 2007827,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7732fa195642b93d168bed5f88f9cabb8709c69fa7e25026dfce6963c5ed217f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T02:29:47.095Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【C108新刊】Happy Happy Melancholy",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "二階堂ヒロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148161166_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148161166",
+      "sourceCreatedAt": "2026-08-08T05:55:36.000Z"
+    },
+    {
       "id": "436739f2",
       "filename": "pixiv_148161896_p0.jpg",
       "path": "uploads/2026/08/c98541a0.jpg",
