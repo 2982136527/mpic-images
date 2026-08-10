@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "56f6a60f",
+      "filename": "pixiv_148200053_p0.jpg",
+      "path": "uploads/2026/08/12d5fcfd.jpg",
+      "size": 1049840,
+      "width": 862,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "16a00eeabac9bdb3e2f87d4d9c967bbd086ff57530e9231dbff35aab2b75a7e1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T17:09:30.470Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "OC",
+        "黑丝",
+        "女の子",
+        "苏筱白",
+        "白发",
+        "魔女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148200053_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148200053",
+      "sourceCreatedAt": "2026-08-09T03:03:02.000Z"
+    },
+    {
       "id": "c0b6d279",
       "filename": "pixiv_148163313_p0.jpg",
       "path": "uploads/2026/08/3b1ef940.jpg",
