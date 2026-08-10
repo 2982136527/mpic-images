@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "bb942787",
+      "filename": "pixiv_148161712_p0.jpg",
+      "path": "uploads/2026/08/c42c25cb.jpg",
+      "size": 924041,
+      "width": 944,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "145276526afd5103a7d726a95365141b93e4d4938d7d9063ec4ec06d07db37bc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:45:20.024Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "アンジェリーナ(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148161712_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148161712",
+      "sourceCreatedAt": "2026-08-08T06:15:29.000Z"
+    },
+    {
       "id": "083c660e",
       "filename": "pixiv_148157896_p0.jpg",
       "path": "uploads/2026/08/9b18848a.jpg",
