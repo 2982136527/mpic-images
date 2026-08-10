@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "436739f2",
+      "filename": "pixiv_148161896_p0.jpg",
+      "path": "uploads/2026/08/c98541a0.jpg",
+      "size": 709848,
+      "width": 950,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fe745b4b1dae75c8444f3ed3b9dd141d46218ba513b13a8a96f61c1317cf3815",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T02:29:15.362Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "マリーちゃん",
+      "tags": [
+        "ブルーアーカイブ",
+        "伊落マリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148161896_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148161896",
+      "sourceCreatedAt": "2026-08-08T06:22:11.000Z"
+    },
+    {
       "id": "cb46f3b6",
       "filename": "pixiv_148126412_p0.jpg",
       "path": "uploads/2026/08/d8a14cc6.jpg",
