@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "99931d07",
+      "filename": "pixiv_148200100_p0.jpg",
+      "path": "uploads/2026/08/1e30631f.jpg",
+      "size": 794137,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1536408f37692e1cb3564ced1d4e750a295a8d34d8819fa9f0798c2678f0fa49",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T17:10:51.069Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "魔法少女",
+      "tags": [
+        "苏筱白",
+        "女の子",
+        "黑丝",
+        "OC",
+        "魔法少女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148200100_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148200100",
+      "sourceCreatedAt": "2026-08-09T03:04:46.000Z"
+    },
+    {
       "id": "e924081c",
       "filename": "pixiv_148184680_p0.jpg",
       "path": "uploads/2026/08/7d59f4d7.jpg",
