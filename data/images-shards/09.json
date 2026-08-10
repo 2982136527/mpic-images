@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "de2c268f",
+      "filename": "pixiv_148118150_p0.jpg",
+      "path": "uploads/2026/08/4f087616.jpg",
+      "size": 910862,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "9ad3dc7694d8c0ee8dfd7ac770d4aa6052d4a5ea2f193979403eaf6926bc072b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T02:32:04.215Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "『한서린』work",
+      "tags": [
+        "仕事絵",
+        "VTuber",
+        "韓国VTuber",
+        "Dongtan"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148118150_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148118150",
+      "sourceCreatedAt": "2026-08-07T05:10:23.000Z"
+    },
+    {
       "id": "2a9b3ee1",
       "filename": "pixiv_148161166_p0.jpg",
       "path": "uploads/2026/08/3cf1cd0d.jpg",
