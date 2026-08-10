@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "d7250239",
+      "filename": "pixiv_148219371_p0.jpg",
+      "path": "uploads/2026/08/c369ec10.jpg",
+      "size": 1173439,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "94cb10dff37580592fe46cbab587f1153fba2001b52a56eeaa866c954a89ff9b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T17:09:52.337Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "SS0089A",
+      "tags": [
+        "女の子",
+        "写真"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148219371_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148219371",
+      "sourceCreatedAt": "2026-08-09T12:17:18.000Z"
+    },
+    {
       "id": "38551446",
       "filename": "pixiv_148175452_p0.jpg",
       "path": "uploads/2026/08/453c17b0.jpg",
