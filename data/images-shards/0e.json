@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "65a1e89c",
+      "filename": "pixiv_148150238_p0.jpg",
+      "path": "uploads/2026/08/720cf61c.jpg",
+      "size": 1125447,
+      "width": 853,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c8635f317995e4b2376dc08e3b2d20907ea1d35666a5a03905f6ed249b900816",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T02:30:41.029Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "お悩み…のあんけ〜",
+      "tags": [
+        "あんけ〜?"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148150238_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148150238",
+      "sourceCreatedAt": "2026-08-07T22:18:44.000Z"
+    },
+    {
       "id": "2d70e4ac",
       "filename": "pixiv_148144730_p0.jpg",
       "path": "uploads/2026/08/97545544.jpg",
