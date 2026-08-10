@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "bad4c4e4",
+      "filename": "pixiv_148211034_p0.jpg",
+      "path": "uploads/2026/08/65b442f0.jpg",
+      "size": 505959,
+      "width": 891,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3afe5898c1f73ff434a3e05abcc67a8a421a332f3bdb5d4de466735b5605519b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:44:37.705Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🍰",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "宝生マーゴ",
+        "沢渡ココ",
+        "おかえりなさい",
+        "マゴココ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148211034_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148211034",
+      "sourceCreatedAt": "2026-08-09T09:07:55.000Z"
+    },
+    {
       "id": "00b5dd1f",
       "filename": "pixiv_148141181_p0.jpg",
       "path": "uploads/2026/08/2a96d512.jpg",
