@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "4c77c0a6",
+      "filename": "pixiv_148212378_p0.jpg",
+      "path": "uploads/2026/08/d79747d7.jpg",
+      "size": 766330,
+      "width": 700,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f430d3d3873fab5324dc5cd9af624394a88fcbafe51d71fa33bdb3abbc9d5774",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T09:49:10.164Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "女の子",
+        "モンスター娘",
+        "獣娘",
+        "獣人",
+        "けもみみ",
+        "ギャル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148212378_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148212378",
+      "sourceCreatedAt": "2026-08-09T09:47:50.000Z"
+    },
+    {
       "id": "bb942787",
       "filename": "pixiv_148161712_p0.jpg",
       "path": "uploads/2026/08/c42c25cb.jpg",
