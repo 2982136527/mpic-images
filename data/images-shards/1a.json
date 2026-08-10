@@ -3,6 +3,37 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "bbffbec2",
+      "filename": "pixiv_148182485_p0.jpg",
+      "path": "uploads/2026/08/6323d2f6.jpg",
+      "size": 1121923,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f5ae2878cad4a90589ac950305a23fcf8171b43501f5fe8a0d6a40b04c881a1e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-10T17:08:05.202Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "きっと届くはず",
+      "tags": [
+        "初音ミク",
+        "バツミク",
+        "プロセカ",
+        "プロジェクトセカイ",
+        "VOCALOID",
+        "ボーカロイド",
+        "ボカロ",
+        "HatsuneMiku",
+        "カラフル",
+        "prsk_FA"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148182485_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148182485",
+      "sourceCreatedAt": "2026-08-08T14:53:46.000Z"
+    },
+    {
       "id": "4c77c0a6",
       "filename": "pixiv_148212378_p0.jpg",
       "path": "uploads/2026/08/d79747d7.jpg",
