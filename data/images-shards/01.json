@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "4fb3e5ef",
+      "filename": "pixiv_148222954_p0.jpg",
+      "path": "uploads/2026/08/58b03376.jpg",
+      "size": 519747,
+      "width": 657,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d66147f89a2ee3be04eb9bd5b2ae08d5126c0fcacba811e79b3f005b37ee7927",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:16:05.883Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Firefly",
+      "tags": [
+        "Firefly",
+        "スターレイル",
+        "ホタル(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148222954_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148222954",
+      "sourceCreatedAt": "2026-08-09T13:29:58.000Z"
+    },
+    {
       "id": "866a4a46",
       "filename": "pixiv_148255290_p0.jpg",
       "path": "uploads/2026/08/74222df2.jpg",
