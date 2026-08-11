@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "1dc08126",
+      "filename": "pixiv_148182847_p0.jpg",
+      "path": "uploads/2026/08/4ed3e657.jpg",
+      "size": 910268,
+      "width": 710,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e6f8f8af53fb0e181fd29b87f0585822f9ba7e7f16c229ab915170c10082fa71",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T02:24:42.926Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "💙",
+      "tags": [
+        "オリジナル",
+        "ケモミミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148182847_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148182847",
+      "sourceCreatedAt": "2026-08-08T15:00:03.000Z"
+    },
+    {
       "id": "ba557c6f",
       "filename": "pixiv_148197046_p0.jpg",
       "path": "uploads/2026/08/923bc5d3.jpg",
