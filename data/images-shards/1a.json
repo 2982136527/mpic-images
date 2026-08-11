@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "671ab343",
+      "filename": "pixiv_148197121_p0.jpg",
+      "path": "uploads/2026/08/b1bf1354.jpg",
+      "size": 755636,
+      "width": 949,
+      "height": 657,
+      "mimeType": "image/jpeg",
+      "hash": "a95f84e21a734bf98dff70f57661bdfbafa3c790a9595baca89d362986245614",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T02:20:47.589Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "日傘のなか",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "背景",
+        "風景",
+        "夏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148197121_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148197121",
+      "sourceCreatedAt": "2026-08-09T01:14:04.000Z"
+    },
+    {
       "id": "bbffbec2",
       "filename": "pixiv_148182485_p0.jpg",
       "path": "uploads/2026/08/6323d2f6.jpg",
