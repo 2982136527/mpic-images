@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "866a4a46",
+      "filename": "pixiv_148255290_p0.jpg",
+      "path": "uploads/2026/08/74222df2.jpg",
+      "size": 1358258,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "39341d161c7156719b951bafdaf285af034747c83c39460ac948126365179ae3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:15:57.966Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "西陽棚田",
+      "tags": [
+        "オリジナル",
+        "風景画",
+        "棚田",
+        "田舎",
+        "夕方",
+        "田んぼ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148255290_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148255290",
+      "sourceCreatedAt": "2026-08-10T10:21:19.000Z"
+    },
+    {
       "id": "4263df55",
       "filename": "pixiv_148188377_p0.jpg",
       "path": "uploads/2026/08/2c0803d0.jpg",
