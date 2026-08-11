@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "2e35fb00",
+      "filename": "pixiv_148260793_p0.jpg",
+      "path": "uploads/2026/08/70c779bd.jpg",
+      "size": 766678,
+      "width": 810,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5585e702a27c72315c8bf52d46957ba4f1449461b5abc1d716c85293131be9f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:18:18.285Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "蒸れ蒸れブリジット",
+      "tags": [
+        "ブリジット",
+        "ブリジット(ギルティギア)",
+        "男の娘",
+        "汗だく",
+        "扇風機"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148260793_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148260793",
+      "sourceCreatedAt": "2026-08-10T12:27:02.000Z"
+    },
+    {
       "id": "0c2dc63f",
       "filename": "pixiv_148255643_p0.jpg",
       "path": "uploads/2026/08/188d2867.jpg",
