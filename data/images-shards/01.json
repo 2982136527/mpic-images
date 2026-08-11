@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "4263df55",
+      "filename": "pixiv_148188377_p0.jpg",
+      "path": "uploads/2026/08/2c0803d0.jpg",
+      "size": 795551,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "af19ae8e474fe71e730fb484eb2b706fcd65275c13fd1a20ef3bda6c6558c7a0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T02:27:31.974Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108 新刊表紙絵",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "シュヴァルグラン(ウマ娘)",
+        "C108"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148188377_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148188377",
+      "sourceCreatedAt": "2026-08-08T17:29:09.000Z"
+    },
+    {
       "id": "3dcf66e3",
       "filename": "pixiv_148155477_p0.jpg",
       "path": "uploads/2026/08/be2e0e38.jpg",
