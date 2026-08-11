@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "032342ba",
+      "filename": "pixiv_148214304_p0.jpg",
+      "path": "uploads/2026/08/2f751a0d.jpg",
+      "size": 448518,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3199024d13e04b7ff536aa505f05c534889b1905be7b02afff77ea0d2203cdb8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T17:09:41.314Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ほの暮しの庭",
+      "tags": [
+        "ほの暮しの庭",
+        "誰もお前を愛さない"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148214304_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148214304",
+      "sourceCreatedAt": "2026-08-09T10:35:49.000Z"
+    },
+    {
       "id": "dc2cd050",
       "filename": "pixiv_148220631_p0.jpg",
       "path": "uploads/2026/08/ba93cfe5.jpg",
