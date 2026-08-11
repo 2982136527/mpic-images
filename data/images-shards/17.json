@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "3d4e09e5",
+      "filename": "pixiv_148198040_p0.jpg",
+      "path": "uploads/2026/08/916f0102.jpg",
+      "size": 370588,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "2da5228904395dbeb0d1a2ae08b8248245ab50912b7da5f4830d8bbc6a813426",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:11:05.954Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "セイレーンちゃんまとめ",
+      "tags": [
+        "セイレーン(ちいかわ)",
+        "ちいかわ",
+        "ちいかわ100users入り",
+        "ちいかわ500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148198040_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148198040",
+      "sourceCreatedAt": "2026-08-09T01:52:15.000Z"
+    },
+    {
       "id": "67d106e6",
       "filename": "pixiv_148170247_p0.jpg",
       "path": "uploads/2026/08/6dcc112c.jpg",
