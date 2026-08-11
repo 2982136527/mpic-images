@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "25e53e9a",
+      "filename": "pixiv_148159090_p0.jpg",
+      "path": "uploads/2026/08/015c1552.jpg",
+      "size": 1032063,
+      "width": 1200,
+      "height": 854,
+      "mimeType": "image/jpeg",
+      "hash": "6ccb9cf2f464224c430ce2c3b3aea0efb36c3029ee361cae947122ff68c8afdc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T02:26:32.729Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "紫式部",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "紫式部(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148159090_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148159090",
+      "sourceCreatedAt": "2026-08-08T04:32:41.000Z"
+    },
+    {
       "id": "debdfcf8",
       "filename": "pixiv_148061237_p0.jpg",
       "path": "uploads/2026/08/70393f43.jpg",
