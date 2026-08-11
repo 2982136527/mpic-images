@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "9c481501",
+      "filename": "pixiv_148227456_p0.jpg",
+      "path": "uploads/2026/08/a3a97c30.jpg",
+      "size": 918747,
+      "width": 627,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "76ee77cd85087d2717468067d89ce4ad9c4233edde7c51b75c40c780ce9f80a7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:10:33.772Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "the Year of the Cat?",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148227456_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148227456",
+      "sourceCreatedAt": "2026-08-09T15:00:27.000Z"
+    },
+    {
       "id": "909c4618",
       "filename": "pixiv_148182967_p0.jpg",
       "path": "uploads/2026/08/7dc2e113.jpg",
