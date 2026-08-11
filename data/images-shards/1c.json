@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "4183236e",
+      "filename": "pixiv_148253727_p0.jpg",
+      "path": "uploads/2026/08/c7733566.jpg",
+      "size": 2095033,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2db1f8adec4f108699243e22cd21bf7fbd3306345c20a5a14478dd0fc8d92c08",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:14:41.799Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "揺らめき",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "金魚",
+        "水彩"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148253727_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148253727",
+      "sourceCreatedAt": "2026-08-10T09:39:43.000Z"
+    },
+    {
       "id": "91a69b27",
       "filename": "pixiv_148256271_p0.jpg",
       "path": "uploads/2026/08/53b548f8.jpg",
