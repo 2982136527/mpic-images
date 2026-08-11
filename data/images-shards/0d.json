@@ -3,6 +3,35 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "c5394ff1",
+      "filename": "pixiv_148233203_p0.jpg",
+      "path": "uploads/2026/08/c134c5cf.jpg",
+      "size": 984920,
+      "width": 664,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3cd8da686bb1adbd2c81ff25cb289ecf755644bf21549d3ddd958db670f89ce9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:17:47.226Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "祥睦",
+      "tags": [
+        "Sakiko",
+        "Mutsumi",
+        "若葉睦",
+        "豐川祥子",
+        "mujica",
+        "BanG_Dream!",
+        "Ave_Mujica",
+        "むつさき"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148233203_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148233203",
+      "sourceCreatedAt": "2026-08-09T17:46:32.000Z"
+    },
+    {
       "id": "a27b7429",
       "filename": "pixiv_148207240_p0.jpg",
       "path": "uploads/2026/08/74670649.jpg",
