@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "ec40f7a3",
+      "filename": "pixiv_148014138_p0.jpg",
+      "path": "uploads/2026/08/40cac9e2.jpg",
+      "size": 349317,
+      "width": 658,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "556575e304ffbe2c41f9787eb5e38c83832b37191514572ed4301d66e69d465e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T02:25:35.772Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "真面目みつあみガール",
+      "tags": [
+        "オリジナル",
+        "水着",
+        "女子校生",
+        "横顔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148014138_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148014138",
+      "sourceCreatedAt": "2026-08-04T10:29:06.000Z"
+    },
+    {
       "id": "508981d9",
       "filename": "pixiv_148164733_p0.jpg",
       "path": "uploads/2026/08/905a9b8d.jpg",
