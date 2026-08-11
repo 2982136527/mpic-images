@@ -3,6 +3,35 @@
   "shardId": "03",
   "images": [
     {
+      "id": "5387f88b",
+      "filename": "pixiv_148242586_p0.jpg",
+      "path": "uploads/2026/08/3cdb5222.jpg",
+      "size": 609710,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1da2ee6507b5351f7240b429072529e2a3cb75b9cc93ca94e97b4c5fa9734aff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T17:16:43.624Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バニドーン",
+      "tags": [
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ",
+        "绝区零",
+        "ゼンゼロ",
+        "zzzero",
+        "パイパー・ウィール",
+        "ルシアーナ・オクシスィース・テオドロ・デ・モンテフィーノ",
+        "二人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148242586_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148242586",
+      "sourceCreatedAt": "2026-08-10T02:44:09.000Z"
+    },
+    {
       "id": "c99ea465",
       "filename": "pixiv_148198128_p0.jpg",
       "path": "uploads/2026/08/cb0109bf.jpg",
