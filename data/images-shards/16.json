@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "c9340a52",
+      "filename": "pixiv_148216739_p0.jpg",
+      "path": "uploads/2026/08/9efff173.jpg",
+      "size": 1996253,
+      "width": 806,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "95e1375a6e918083792b5fab1003110eb45595b971c3311036dba3760576b8ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T02:23:42.734Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ｳﾐｳｼちゃん",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "人外娘",
+        "モンスター娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148216739_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148216739",
+      "sourceCreatedAt": "2026-08-09T11:27:53.000Z"
+    },
+    {
       "id": "ab2abc0d",
       "filename": "pixiv_148140047_p0.jpg",
       "path": "uploads/2026/08/04aeff61.jpg",
