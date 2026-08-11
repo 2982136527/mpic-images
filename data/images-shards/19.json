@@ -3,6 +3,34 @@
   "shardId": "19",
   "images": [
     {
+      "id": "1fafa32b",
+      "filename": "pixiv_148207392_p0.jpg",
+      "path": "uploads/2026/08/dc0a57d1.jpg",
+      "size": 644413,
+      "width": 836,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2449bf830356918083fc7cf28441c39ce0f35c2901c3df0da5be88c5ed9d84e9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T02:23:01.366Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ぽっぷんパーラー",
+      "tags": [
+        "バーチャルYouTuber",
+        "にじさんじ",
+        "VTuber",
+        "ぷりん・らら・もーど",
+        "ぽっぷん・パーラー",
+        "ぽめろ・ぱんち",
+        "バーチャルYouTuber100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148207392_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148207392",
+      "sourceCreatedAt": "2026-08-09T07:26:09.000Z"
+    },
+    {
       "id": "425a81a9",
       "filename": "pixiv_148185596_p0.jpg",
       "path": "uploads/2026/08/7fcbf86e.jpg",
