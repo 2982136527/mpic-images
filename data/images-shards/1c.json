@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "0871c143",
+      "filename": "pixiv_148201221_p0.jpg",
+      "path": "uploads/2026/08/8a0cf370.jpg",
+      "size": 528798,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "0680d67f0c53086a561a0a79f54c30d3feca2d8ef6ea324e0c3b9a46b451faeb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:12:50.506Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "佩丽卡总监",
+      "tags": [
+        "明日方舟:终末地",
+        "星球大战",
+        "佩丽卡",
+        "アークナイツ:エンドフィールド",
+        "StarWars"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148201221_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148201221",
+      "sourceCreatedAt": "2026-08-09T03:45:34.000Z"
+    },
+    {
       "id": "72ed3828",
       "filename": "pixiv_148194855_p0.jpg",
       "path": "uploads/2026/08/efb979bf.jpg",
