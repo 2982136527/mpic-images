@@ -3,6 +3,34 @@
   "shardId": "03",
   "images": [
     {
+      "id": "34e60cce",
+      "filename": "pixiv_148227508_p0.jpg",
+      "path": "uploads/2026/08/e41422be.jpg",
+      "size": 772241,
+      "width": 1200,
+      "height": 739,
+      "mimeType": "image/jpeg",
+      "hash": "999a1f8434a71285907a85e43b42a3d7b1b48ebc37472307ae12dfe6f4bb37ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:12:43.020Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "アズールレーン8周年fes",
+      "tags": [
+        "アズールレーン",
+        "AzurLane8thAnniv",
+        "ニュージャージー(アズールレーン)",
+        "武蔵(アズールレーン)",
+        "ベルファスト(アズールレーン)",
+        "エーギル(アズールレーン)",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148227508_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148227508",
+      "sourceCreatedAt": "2026-08-09T15:00:38.000Z"
+    },
+    {
       "id": "9c481501",
       "filename": "pixiv_148227456_p0.jpg",
       "path": "uploads/2026/08/a3a97c30.jpg",
