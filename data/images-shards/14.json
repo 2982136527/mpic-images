@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "445a0188",
+      "filename": "pixiv_148187102_p0.jpg",
+      "path": "uploads/2026/08/73769ddc.jpg",
+      "size": 1105107,
+      "width": 749,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ccaec124ed59fd600fccdab36af61a8f98290bc765f915953297af5b77c5e92c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T02:21:38.670Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "アズライール",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "アズライール(Fate)",
+        "蒼きアズライール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148187102_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148187102",
+      "sourceCreatedAt": "2026-08-08T16:37:03.000Z"
+    },
+    {
       "id": "bb480ed3",
       "filename": "pixiv_148187049_p0.jpg",
       "path": "uploads/2026/08/264910c0.jpg",
