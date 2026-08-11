@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "d742f0f3",
+      "filename": "pixiv_148222108_p0.jpg",
+      "path": "uploads/2026/08/34e13440.jpg",
+      "size": 627061,
+      "width": 1008,
+      "height": 1194,
+      "mimeType": "image/jpeg",
+      "hash": "43204f8c38e99d5d059bfd93e1ac646f1397aa933afcf193ee67d40299ec7dde",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:18:44.150Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "フランちゃんﾃﾞｯｯ...",
+      "tags": [
+        "東方Project",
+        "フランドール・スカーレット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148222108_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148222108",
+      "sourceCreatedAt": "2026-08-09T13:12:25.000Z"
+    },
+    {
       "id": "db82f8aa",
       "filename": "pixiv_148227437_p0.jpg",
       "path": "uploads/2026/08/d2f20a25.jpg",
