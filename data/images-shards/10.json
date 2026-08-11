@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "346c3f8d",
+      "filename": "pixiv_148241826_p0.jpg",
+      "path": "uploads/2026/08/35e2e998.jpg",
+      "size": 761827,
+      "width": 1139,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b2607e496a02a073870963f0875826b5354cbebc5707c8a9e08f01ad27e1b3ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T17:11:06.294Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "犯人",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "棺",
+        "ゴシック",
+        "Death"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148241826_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148241826",
+      "sourceCreatedAt": "2026-08-10T02:08:49.000Z"
+    },
+    {
       "id": "58abe1fb",
       "filename": "pixiv_148212044_p0.jpg",
       "path": "uploads/2026/08/7564ac83.jpg",
