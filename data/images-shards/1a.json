@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "d6cb0823",
+      "filename": "pixiv_148229499_p0.jpg",
+      "path": "uploads/2026/08/77db61c5.jpg",
+      "size": 1735987,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "41a722bb262abe2d37540dd0b85c912653bf488c8d1ef25be7386cf23221dde3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:12:19.616Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🌻",
+      "tags": [
+        "オリジナル",
+        "壱珂の絵",
+        "銀髪",
+        "水着",
+        "夏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148229499_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148229499",
+      "sourceCreatedAt": "2026-08-09T15:37:39.000Z"
+    },
+    {
       "id": "45830096",
       "filename": "pixiv_148201651_p0.jpg",
       "path": "uploads/2026/08/21113bae.jpg",
