@@ -3,6 +3,33 @@
   "shardId": "05",
   "images": [
     {
+      "id": "d64a96e6",
+      "filename": "pixiv_148244454_p0.jpg",
+      "path": "uploads/2026/08/910ac462.jpg",
+      "size": 319232,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9c1ca17434818eecd2a44b0c33e111c7a3fe3f6a86e468e9e0bf0c675e513eb1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T17:13:16.218Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "クロミ",
+      "tags": [
+        "クロミ",
+        "TDM",
+        "ケモノ",
+        "チビケモ",
+        "サンリオ",
+        "メスガキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148244454_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148244454",
+      "sourceCreatedAt": "2026-08-10T03:54:38.000Z"
+    },
+    {
       "id": "46fcfbac",
       "filename": "pixiv_148256141_p0.jpg",
       "path": "uploads/2026/08/53ec0f2f.jpg",
