@@ -3,6 +3,33 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "db82f8aa",
+      "filename": "pixiv_148227437_p0.jpg",
+      "path": "uploads/2026/08/d2f20a25.jpg",
+      "size": 952121,
+      "width": 1200,
+      "height": 528,
+      "mimeType": "image/jpeg",
+      "hash": "38dcf68babab773dd82c12d3652a98e60c35c2abfebfc814def8fc1d458ea0d2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:16:21.647Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "出发",
+      "tags": [
+        "女の子",
+        "落書き",
+        "風景",
+        "オリジナル",
+        "OC",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148227437_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148227437",
+      "sourceCreatedAt": "2026-08-09T15:00:25.000Z"
+    },
+    {
       "id": "ec40f7a3",
       "filename": "pixiv_148014138_p0.jpg",
       "path": "uploads/2026/08/40cac9e2.jpg",
