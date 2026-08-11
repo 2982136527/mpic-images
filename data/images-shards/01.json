@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "d93960c7",
+      "filename": "pixiv_148229258_p0.jpg",
+      "path": "uploads/2026/08/00b899f0.jpg",
+      "size": 955604,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a9a0eccc85b76389323a19e551f195c9aa1b825be4ce056003d27c7d94465238",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T17:13:02.109Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "SilverPalace",
+      "tags": [
+        "白银之城",
+        "阿芙",
+        "白銀の城",
+        "SilverPalace"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148229258_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148229258",
+      "sourceCreatedAt": "2026-08-09T15:30:41.000Z"
+    },
+    {
       "id": "f7cee2fb",
       "filename": "pixiv_148258253_p0.jpg",
       "path": "uploads/2026/08/58d2cd17.jpg",
