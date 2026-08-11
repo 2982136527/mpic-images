@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "debdfcf8",
+      "filename": "pixiv_148061237_p0.jpg",
+      "path": "uploads/2026/08/70393f43.jpg",
+      "size": 1254623,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bcb009880a3bbea9103c82fd8f45d895151c956df68d2423d0733c5cb7d1abc4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T02:25:31.076Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Xログ⑫",
+      "tags": [
+        "ポケモン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148061237_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148061237",
+      "sourceCreatedAt": "2026-08-05T14:08:02.000Z"
+    },
+    {
       "id": "445a0188",
       "filename": "pixiv_148187102_p0.jpg",
       "path": "uploads/2026/08/73769ddc.jpg",
