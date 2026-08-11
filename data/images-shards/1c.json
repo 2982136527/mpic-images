@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "b6a2d275",
+      "filename": "pixiv_148256812_p0.jpg",
+      "path": "uploads/2026/08/911738fc.jpg",
+      "size": 1380856,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8a75b8cea4389b9fa5f80a9b1d82d9ee27c582310964adf1d0ad030e6be2776f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:17:05.891Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "hobo",
+      "tags": [
+        "ルーラーシップ(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "ウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148256812_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148256812",
+      "sourceCreatedAt": "2026-08-10T11:00:41.000Z"
+    },
+    {
       "id": "4183236e",
       "filename": "pixiv_148253727_p0.jpg",
       "path": "uploads/2026/08/c7733566.jpg",
