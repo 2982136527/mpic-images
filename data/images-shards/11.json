@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "5c170276",
+      "filename": "pixiv_148196931_p0.jpg",
+      "path": "uploads/2026/08/d9b9ee19.jpg",
+      "size": 919441,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4626233f3457aec77efd00ce91bf6ea3a45ca8fb70f0ef6b52aafa7b82c766b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T17:16:09.820Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ルーラーシップ育成イベントより",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "エアグルーヴ(ウマ娘)",
+        "アドマイヤグルーヴ(ウマ娘)",
+        "ルーラーシップ(ウマ娘)",
+        "たわ家",
+        "その先は地獄だぞ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148196931_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148196931",
+      "sourceCreatedAt": "2026-08-09T01:05:48.000Z"
+    },
+    {
       "id": "595a3d63",
       "filename": "pixiv_148251574_p0.jpg",
       "path": "uploads/2026/08/d54647aa.jpg",
