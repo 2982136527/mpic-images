@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "74ef040e",
+      "filename": "pixiv_148216207_p0.jpg",
+      "path": "uploads/2026/08/f9f858ac.jpg",
+      "size": 999565,
+      "width": 826,
+      "height": 1169,
+      "mimeType": "image/jpeg",
+      "hash": "a4bf74da90e2fcef361fd476b13e0a6926bf87f63a96621d4e46555cf7299a22",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:11:39.488Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "椿",
+      "tags": [
+        "東方",
+        "東方Project",
+        "博麗霊夢",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148216207_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148216207",
+      "sourceCreatedAt": "2026-08-09T11:17:05.000Z"
+    },
+    {
       "id": "9cdc3012",
       "filename": "pixiv_148164053_p0.jpg",
       "path": "uploads/2026/08/3d38f61b.jpg",
