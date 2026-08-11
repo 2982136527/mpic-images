@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "5522787a",
+      "filename": "pixiv_148209759_p0.jpg",
+      "path": "uploads/2026/08/a6e4c4f5.jpg",
+      "size": 855247,
+      "width": 601,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "339bc8470b11aa9f308142ee88d0c2cc9edf62dc584cbcd1c54d006490309d2e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T02:26:37.421Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "エイメス",
+      "tags": [
+        "エイメス",
+        "鳴潮",
+        "WutheringWaves"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148209759_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148209759",
+      "sourceCreatedAt": "2026-08-09T08:38:57.000Z"
+    },
+    {
       "id": "2b2aa0f7",
       "filename": "pixiv_148198661_p0.jpg",
       "path": "uploads/2026/08/1a71e668.jpg",
