@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "7e04d120",
+      "filename": "pixiv_148248947_p0.jpg",
+      "path": "uploads/2026/08/f1ba47f1.jpg",
+      "size": 630911,
+      "width": 700,
+      "height": 990,
+      "mimeType": "image/jpeg",
+      "hash": "bf85b1edacf1a225b4486fd0760e2d4e9db5fdf79939f6cc956d17709a90c377",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:18:10.699Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "スイカ",
+      "tags": [
+        "Dr.STONE",
+        "スイカ(Dr.STONE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148248947_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148248947",
+      "sourceCreatedAt": "2026-08-10T07:08:43.000Z"
+    },
+    {
       "id": "bccdf0a6",
       "filename": "pixiv_148227434_p0.jpg",
       "path": "uploads/2026/08/f90c3e3e.jpg",
