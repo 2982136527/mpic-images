@@ -3,6 +3,35 @@
   "shardId": "10",
   "images": [
     {
+      "id": "58abe1fb",
+      "filename": "pixiv_148212044_p0.jpg",
+      "path": "uploads/2026/08/7564ac83.jpg",
+      "size": 1452688,
+      "width": 1200,
+      "height": 834,
+      "mimeType": "image/jpeg",
+      "hash": "82f3aefb06d740db05f2825d4ce9e7e4bd22df530bd3d18fbdca25a593f43d29",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T17:09:25.809Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "風景",
+        "背景",
+        "夏",
+        "リアル",
+        "田舎",
+        "奥行き"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148212044_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148212044",
+      "sourceCreatedAt": "2026-08-09T09:38:04.000Z"
+    },
+    {
       "id": "f6d8495d",
       "filename": "pixiv_148254128_p0.jpg",
       "path": "uploads/2026/08/1b7fc11a.jpg",
