@@ -3,6 +3,33 @@
   "shardId": "09",
   "images": [
     {
+      "id": "8f3f0d99",
+      "filename": "pixiv_148249003_p0.jpg",
+      "path": "uploads/2026/08/f2e897aa.jpg",
+      "size": 1047151,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7642ad43ade5dc141704bba54321487435785965c49545b130fca54ba08385ba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-11T09:14:01.572Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "蛍と蛍",
+      "tags": [
+        "蛍(原神)",
+        "原神",
+        "GenshinImpact",
+        "Lumine",
+        "旅人(原神)",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148249003_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148249003",
+      "sourceCreatedAt": "2026-08-10T07:11:11.000Z"
+    },
+    {
       "id": "477cc873",
       "filename": "pixiv_148216328_p0.jpg",
       "path": "uploads/2026/08/20119c15.jpg",
