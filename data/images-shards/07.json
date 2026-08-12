@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "ac4edcec",
+      "filename": "pixiv_148254878_p0.jpg",
+      "path": "uploads/2026/08/231ec866.jpg",
+      "size": 460818,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2d2585d0f713750e41ebdfea6797e90ce4a03f463988608a8c38a1612c1c6f9f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T17:10:47.514Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108アクスタホタル",
+      "tags": [
+        "ホタル",
+        "C108",
+        "崩壊スターレイル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148254878_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148254878",
+      "sourceCreatedAt": "2026-08-10T10:09:34.000Z"
+    },
+    {
       "id": "eea4a0c6",
       "filename": "pixiv_148294051_p0.jpg",
       "path": "uploads/2026/08/acd0f1a0.jpg",
