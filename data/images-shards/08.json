@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "464ef5f0",
+      "filename": "pixiv_148271866_p0.jpg",
+      "path": "uploads/2026/08/5afb8085.jpg",
+      "size": 297948,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "de08a64316142b3f80522b6f375592212d60870054cfc03748f77f38cd3f31dc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T17:15:23.392Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "MGlog",
+      "tags": [
+        "マンダロリアン・アンド・グローグー",
+        "マンダロリアン",
+        "STARWARS100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148271866_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148271866",
+      "sourceCreatedAt": "2026-08-10T16:24:28.000Z"
+    },
+    {
       "id": "98829075",
       "filename": "pixiv_148241783_p0.jpg",
       "path": "uploads/2026/08/3933df7a.jpg",
