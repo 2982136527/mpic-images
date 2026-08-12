@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "597196a3",
+      "filename": "pixiv_148254589_p0.jpg",
+      "path": "uploads/2026/08/9b303aa7.jpg",
+      "size": 585547,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "724d954fe074e0f25662e7e5eef00191bd638e4715f1089923a3b84aab432bd5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:24:31.146Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "summerfubuki",
+      "tags": [
+        "ホロライブ",
+        "VTuber",
+        "hololive",
+        "絵フブキ",
+        "狐耳",
+        "バーチャルYouTuber1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148254589_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148254589",
+      "sourceCreatedAt": "2026-08-10T10:02:11.000Z"
+    },
+    {
       "id": "3843edfd",
       "filename": "pixiv_148291887_p0.jpg",
       "path": "uploads/2026/08/29379907.jpg",
