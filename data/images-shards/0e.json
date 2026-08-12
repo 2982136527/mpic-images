@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "7cdc068d",
+      "filename": "pixiv_148291515_p0.jpg",
+      "path": "uploads/2026/08/a95b184c.jpg",
+      "size": 1288569,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14fe32f8781d319a3d9814b534386b5e386874717249ff472be53afbe98563f0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:22:32.471Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "CM-507",
+      "tags": [
+        "腋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148291515_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148291515",
+      "sourceCreatedAt": "2026-08-11T07:16:26.000Z"
+    },
+    {
       "id": "9baba3fb",
       "filename": "pixiv_148209667_p0.jpg",
       "path": "uploads/2026/08/4d8f0ee1.jpg",
