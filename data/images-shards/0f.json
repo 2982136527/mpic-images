@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "0a6335ec",
+      "filename": "pixiv_148276442_p0.jpg",
+      "path": "uploads/2026/08/a7d951c3.jpg",
+      "size": 767485,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7d9081d856c50c77eaec7139623e7b366d47c0522511884f63c0b8c50ceaea4d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:24:54.964Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "橘シェリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148276442_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148276442",
+      "sourceCreatedAt": "2026-08-10T20:33:50.000Z"
+    },
+    {
       "id": "ccf3bea0",
       "filename": "pixiv_148254390_p0.jpg",
       "path": "uploads/2026/08/d131d3ce.jpg",
