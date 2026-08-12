@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "9baba3fb",
+      "filename": "pixiv_148209667_p0.jpg",
+      "path": "uploads/2026/08/4d8f0ee1.jpg",
+      "size": 865014,
+      "width": 703,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "98f2c346b61eec36cc108be100cad7da61b392a092b2a93aaee9c94a023e85db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:39:56.350Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Commission",
+      "tags": [
+        "commission",
+        "温泉",
+        "アイリスハート"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148209667_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148209667",
+      "sourceCreatedAt": "2026-08-09T08:36:04.000Z"
+    },
+    {
       "id": "194874bf",
       "filename": "pixiv_148242040_p0.jpg",
       "path": "uploads/2026/08/5eaaeb4f.jpg",
