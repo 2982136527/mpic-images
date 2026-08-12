@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "0b90c945",
+      "filename": "pixiv_148274393_p0.jpg",
+      "path": "uploads/2026/08/bf2d20ce.jpg",
+      "size": 758948,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14f8bf88ab0ab2c79be48afc1fbdbda8ecb2cd230dbf0de671813b7897853737",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T17:06:37.576Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "高温注意",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148274393_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148274393",
+      "sourceCreatedAt": "2026-08-10T18:11:48.000Z"
+    },
+    {
       "id": "73a9f5d5",
       "filename": "pixiv_148273894_p0.jpg",
       "path": "uploads/2026/08/563cd2bd.jpg",
