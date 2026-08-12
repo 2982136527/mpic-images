@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "9ba7b622",
+      "filename": "pixiv_148283516_p0.jpg",
+      "path": "uploads/2026/08/a1ccb72c.jpg",
+      "size": 721028,
+      "width": 1200,
+      "height": 874,
+      "mimeType": "image/jpeg",
+      "hash": "153e03c1305a4b9b05a017a401486f04f51cf71467379e19ffb017b72f8feea6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:25:15.109Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "Remielle",
+        "レミエール",
+        "ゼンゼロ",
+        "zzz"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148283516_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148283516",
+      "sourceCreatedAt": "2026-08-11T02:23:32.000Z"
+    },
+    {
       "id": "1af4976f",
       "filename": "pixiv_148261517_p0.jpg",
       "path": "uploads/2026/08/416fdd33.jpg",
