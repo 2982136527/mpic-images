@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "c2577e6d",
+      "filename": "pixiv_148228012_p0.jpg",
+      "path": "uploads/2026/08/e3657ddf.jpg",
+      "size": 604993,
+      "width": 819,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c465e1144b4ba63cd81b044be67166e0a285f36fa70788922255bcc0a47c01f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:45:51.321Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "アリス",
+      "tags": [
+        "アリス・マーガトロイド",
+        "東方",
+        "東方Project",
+        "女の子",
+        "アリぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148228012_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148228012",
+      "sourceCreatedAt": "2026-08-09T15:05:04.000Z"
+    },
+    {
       "id": "94004188",
       "filename": "pixiv_148182957_p0.jpg",
       "path": "uploads/2026/08/92b46de4.jpg",
