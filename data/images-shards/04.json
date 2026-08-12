@@ -3,6 +3,37 @@
   "shardId": "04",
   "images": [
     {
+      "id": "dc4a1947",
+      "filename": "pixiv_148220264_p0.jpg",
+      "path": "uploads/2026/08/206037ea.jpg",
+      "size": 1263263,
+      "width": 911,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5063f5ee28ac6955e786e5711d133607a44661a7a7cc5899991b6aeaed43435f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:39:28.675Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "トップオブリリィ",
+      "tags": [
+        "エクアル",
+        "キュアアルカナ・シャドウ",
+        "キュアエクレール",
+        "森亜るるか",
+        "帆羽くれあ",
+        "名探偵プリキュア!",
+        "precure",
+        "アルエク(プリキュア)",
+        "るるくれ",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148220264_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148220264",
+      "sourceCreatedAt": "2026-08-09T12:35:57.000Z"
+    },
+    {
       "id": "f3c22d6b",
       "filename": "pixiv_148227884_p0.jpg",
       "path": "uploads/2026/08/a26ffc06.jpg",
