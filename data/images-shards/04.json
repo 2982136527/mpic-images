@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "998290c4",
+      "filename": "pixiv_148240780_p0.jpg",
+      "path": "uploads/2026/08/1ec74750.jpg",
+      "size": 513962,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "a9344b6e53cad81c3c86b3c8e9e5cdda1ac54006cf6b6cdf4779dcec228d609a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:40:23.324Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "膝の描き方がわからない人へ",
+      "tags": [
+        "描き方",
+        "講座",
+        "ハウツー",
+        "ノウハウ",
+        "上達法"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148240780_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148240780",
+      "sourceCreatedAt": "2026-08-10T01:15:28.000Z"
+    },
+    {
       "id": "dc4a1947",
       "filename": "pixiv_148220264_p0.jpg",
       "path": "uploads/2026/08/206037ea.jpg",
