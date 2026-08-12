@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "6f894bd0",
+      "filename": "pixiv_148238919_p0.jpg",
+      "path": "uploads/2026/08/9945ccc8.jpg",
+      "size": 606842,
+      "width": 872,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d231831141b59820fa59d4640c7b3265b04687d8ef83183e4f922fe5562bec1f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:28:34.901Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "仲良しアリケイ",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "天童アリス",
+        "天童ケイ",
+        "ケイ(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148238919_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148238919",
+      "sourceCreatedAt": "2026-08-09T23:41:13.000Z"
+    },
+    {
       "id": "f8cdf82f",
       "filename": "pixiv_148268244_p0.jpg",
       "path": "uploads/2026/08/321317ad.jpg",
