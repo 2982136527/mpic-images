@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "5cb69161",
+      "filename": "pixiv_148193707_p0.jpg",
+      "path": "uploads/2026/08/452b7385.jpg",
+      "size": 1076025,
+      "width": 685,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7df5f4824596e7a05628e68c79030aafc75d425fa076f0be96ed4aedaa66f0e5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:37:35.615Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Suisui",
+      "tags": [
+        "鳴潮",
+        "穂穂",
+        "腋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148193707_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148193707",
+      "sourceCreatedAt": "2026-08-10T06:06:36.000Z"
+    },
+    {
       "id": "6b1723d0",
       "filename": "pixiv_148227823_p0.jpg",
       "path": "uploads/2026/08/28630e81.jpg",
