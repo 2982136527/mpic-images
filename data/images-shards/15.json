@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "7e8079ed",
+      "filename": "pixiv_148262165_p0.jpg",
+      "path": "uploads/2026/08/b94c373f.jpg",
+      "size": 1034292,
+      "width": 1200,
+      "height": 982,
+      "mimeType": "image/jpeg",
+      "hash": "7551590f86b860db37cf8cbb86e6f9da44d1d088e03e06d84066a0956c066c4b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:24:19.061Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🦝",
+      "tags": [
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ",
+        "浮波柚葉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148262165_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148262165",
+      "sourceCreatedAt": "2026-08-10T12:57:10.000Z"
+    },
+    {
       "id": "4eb12d1a",
       "filename": "pixiv_148252868_p0.jpg",
       "path": "uploads/2026/08/5145ac31.jpg",
