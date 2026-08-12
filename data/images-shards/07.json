@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "75f99dfe",
+      "filename": "pixiv_148234288_p0.jpg",
+      "path": "uploads/2026/08/ccee0a2f.jpg",
+      "size": 878024,
+      "width": 1200,
+      "height": 931,
+      "mimeType": "image/jpeg",
+      "hash": "4482c552f6b84976bcb3877f41a14c81301e048a0b7ba17e7df9735ba0591455",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:21:27.740Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ラガミカとラズリエル",
+      "tags": [
+        "プトリカ",
+        "ラズリエル",
+        "ラガミカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148234288_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148234288",
+      "sourceCreatedAt": "2026-08-09T18:47:08.000Z"
+    },
+    {
       "id": "db7d91b9",
       "filename": "pixiv_148265734_p0.jpg",
       "path": "uploads/2026/08/5ca1b289.jpg",
