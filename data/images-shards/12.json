@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "78ceceb6",
+      "filename": "pixiv_148229828_p0.jpg",
+      "path": "uploads/2026/08/29a26c8c.jpg",
+      "size": 1011432,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "995df5fbace4f9a401d20e33c2170d87d8bcea91e5b4583ff6efa9a5f6b2fe34",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:22:12.776Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "もふもふ",
+      "tags": [
+        "ちいかわ",
+        "でかつよ",
+        "強くなったハチワレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148229828_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148229828",
+      "sourceCreatedAt": "2026-08-09T15:46:19.000Z"
+    },
+    {
       "id": "f4390e45",
       "filename": "pixiv_148227521_p0.jpg",
       "path": "uploads/2026/08/7293f2ce.jpg",
