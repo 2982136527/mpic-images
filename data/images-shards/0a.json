@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "9bf8e12f",
+      "filename": "pixiv_148250010_p0.jpg",
+      "path": "uploads/2026/08/f5fa1300.jpg",
+      "size": 602699,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "43a02bb6c0b70af10e36803a29a537892d135fa8e5f99f8ef4467b9d2e63347b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:26:33.348Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バレー部いろいろ",
+      "tags": [
+        "オリジナル",
+        "OC",
+        "バレーボール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148250010_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148250010",
+      "sourceCreatedAt": "2026-08-10T07:52:23.000Z"
+    },
+    {
       "id": "3262c2ea",
       "filename": "pixiv_148228436_p0.jpg",
       "path": "uploads/2026/08/b2b8c91f.jpg",
