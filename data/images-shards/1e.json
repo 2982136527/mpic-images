@@ -3,6 +3,34 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "11cec200",
+      "filename": "pixiv_148248446_p0.jpg",
+      "path": "uploads/2026/08/5128275d.jpg",
+      "size": 450301,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6d00320ed1f78c3a3bf11bd9bbc421dbb6c6994a488cf73c206a79b9c3ba8f90",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:41:18.787Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "やだやだ😖 ひとりにしないで",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "ホシノ",
+        "小鳥遊ホシノ",
+        "ポンタイタチ",
+        "ホシノイタチ",
+        "先生(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148248446_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148248446",
+      "sourceCreatedAt": "2026-08-10T06:48:25.000Z"
+    },
+    {
       "id": "f8a38cfd",
       "filename": "pixiv_148229253_p0.jpg",
       "path": "uploads/2026/08/b28a7c8d.jpg",
