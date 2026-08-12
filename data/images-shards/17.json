@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "8145ad89",
+      "filename": "pixiv_148260447_p0.jpg",
+      "path": "uploads/2026/08/6bd7b452.jpg",
+      "size": 326891,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2627ed2461ab13f4e07724d5a36240cfe21daba32a1f2e83530cb248d626a4d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:39:43.379Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "とげのくつまとめ",
+      "tags": [
+        "女の子",
+        "かわいそう"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148260447_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148260447",
+      "sourceCreatedAt": "2026-08-10T12:19:17.000Z"
+    },
+    {
       "id": "59b909e5",
       "filename": "pixiv_148227321_p0.jpg",
       "path": "uploads/2026/08/fecbb87f.jpg",
