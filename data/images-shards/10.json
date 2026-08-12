@@ -3,6 +3,34 @@
   "shardId": "10",
   "images": [
     {
+      "id": "1eaae8c9",
+      "filename": "pixiv_148271054_p0.jpg",
+      "path": "uploads/2026/08/af90742c.jpg",
+      "size": 864191,
+      "width": 769,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5753b269953b844c841c56125c4c0b9c7253759299f80914f88fb20029ed7021",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T17:08:40.238Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Mavuika Xilonen - Genshin Impact",
+      "tags": [
+        "girl",
+        "fanart",
+        "GenshinImpact",
+        "Mavuika",
+        "シロネン",
+        "体操服",
+        "原神"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148271054_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148271054",
+      "sourceCreatedAt": "2026-08-10T16:00:15.000Z"
+    },
+    {
       "id": "9ba7b622",
       "filename": "pixiv_148283516_p0.jpg",
       "path": "uploads/2026/08/a1ccb72c.jpg",
