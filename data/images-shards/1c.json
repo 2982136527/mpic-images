@@ -3,6 +3,33 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "c40df70f",
+      "filename": "pixiv_148229891_p0.jpg",
+      "path": "uploads/2026/08/b94baa88.jpg",
+      "size": 914649,
+      "width": 725,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "85a86996ea802964d3610b4a779a86a4e485afeac62ec304a497def5c1a0823a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:20:41.357Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Angel's Rest",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "天使",
+        "ツインテール",
+        "白髪",
+        "ウユニ塩湖"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148229891_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148229891",
+      "sourceCreatedAt": "2026-08-09T15:47:45.000Z"
+    },
+    {
       "id": "61bacec3",
       "filename": "pixiv_148266925_p0.jpg",
       "path": "uploads/2026/08/41371e4e.jpg",
