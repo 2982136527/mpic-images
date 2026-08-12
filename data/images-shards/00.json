@@ -3,6 +3,35 @@
   "shardId": "00",
   "images": [
     {
+      "id": "e3780e50",
+      "filename": "pixiv_148275719_p0.jpg",
+      "path": "uploads/2026/08/c1cde73e.jpg",
+      "size": 966614,
+      "width": 1050,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "22e8d2cccc1b55d34033e675f94a52f0c960847993e7764f3eaa9c4f3fb483e4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T17:08:56.147Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "La Bayadere",
+      "tags": [
+        "女の子",
+        "バレリーナ",
+        "イラスト",
+        "創作",
+        "オリジナル",
+        "少女",
+        "エレガント",
+        "バレエダンサー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148275719_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148275719",
+      "sourceCreatedAt": "2026-08-10T19:39:56.000Z"
+    },
+    {
       "id": "c01ca6b1",
       "filename": "pixiv_148262517_p0.jpg",
       "path": "uploads/2026/08/337a90a9.jpg",
