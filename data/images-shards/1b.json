@@ -3,6 +3,34 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "ecd4fa36",
+      "filename": "pixiv_148186034_p0.jpg",
+      "path": "uploads/2026/08/91865c53.jpg",
+      "size": 1491613,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4bee6de9f9d74d159069673c2c042ac2238679bfc0cd85ce67a41cab6cd6378e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:37:09.010Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "東方",
+      "tags": [
+        "東方",
+        "東方Project",
+        "フランドール・スカーレット",
+        "十六夜咲夜",
+        "鈴仙・優曇華院・イナバ",
+        "古明地こいし",
+        "西行寺幽々子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148186034_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148186034",
+      "sourceCreatedAt": "2026-08-08T16:02:58.000Z"
+    },
+    {
       "id": "1dc08126",
       "filename": "pixiv_148182847_p0.jpg",
       "path": "uploads/2026/08/4ed3e657.jpg",
