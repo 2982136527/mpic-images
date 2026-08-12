@@ -3,6 +3,33 @@
   "shardId": "15",
   "images": [
     {
+      "id": "1b719433",
+      "filename": "pixiv_148256132_p0.jpg",
+      "path": "uploads/2026/08/b7a85711.jpg",
+      "size": 1430174,
+      "width": 1200,
+      "height": 670,
+      "mimeType": "image/jpeg",
+      "hash": "0482600483abc08588b17568d0de22595de945dd5dc9d233660d6c5217edff3d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T17:09:58.502Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "最後の遺産",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "サンドローネ(原神)",
+        "Sandrone",
+        "桑多涅",
+        "傀儡(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148256132_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148256132",
+      "sourceCreatedAt": "2026-08-10T10:45:29.000Z"
+    },
+    {
       "id": "5e595328",
       "filename": "pixiv_148254604_p0.jpg",
       "path": "uploads/2026/08/49a9d7ec.jpg",
