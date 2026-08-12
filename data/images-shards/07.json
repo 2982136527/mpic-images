@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "b2bf4bab",
+      "filename": "pixiv_148201275_p0.jpg",
+      "path": "uploads/2026/08/94da8278.jpg",
+      "size": 440486,
+      "width": 756,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a122f9818cf52b6b1406d63f93c6bc735de9cf6224979cd6e7a9ad408e72a86e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:38:54.557Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ルカ",
+      "tags": [
+        "アイドルマスターシャイニーカラーズ",
+        "斑鳩ルカ",
+        "Pドル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148201275_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148201275",
+      "sourceCreatedAt": "2026-08-09T03:47:53.000Z"
+    },
+    {
       "id": "1bd0c877",
       "filename": "pixiv_148227396_p0.jpg",
       "path": "uploads/2026/08/81683b64.jpg",
