@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "1ed49342",
+      "filename": "pixiv_148249826_p0.jpg",
+      "path": "uploads/2026/08/57154ba3.jpg",
+      "size": 932231,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3a97bc437635ec4bf080cd49f2b16167c371249b7b72a081d8134136228ff656",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:24:43.092Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "💚hinata",
+      "tags": [
+        "xg",
+        "hinata"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148249826_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148249826",
+      "sourceCreatedAt": "2026-08-10T07:43:38.000Z"
+    },
+    {
       "id": "8e3530a9",
       "filename": "pixiv_148273253_p0.jpg",
       "path": "uploads/2026/08/b1e36cd9.jpg",
