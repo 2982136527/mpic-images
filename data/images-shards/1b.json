@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "680016e5",
+      "filename": "pixiv_148193173_p0.jpg",
+      "path": "uploads/2026/08/7cd00da9.jpg",
+      "size": 1520997,
+      "width": 758,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9fadd5fee23a9bcff9cf1983abb2b7b72b4453544d493873a57786ee3888a3ba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:40:46.739Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Velina",
+      "tags": [
+        "fanart",
+        "anime",
+        "ZenlessZoneZero",
+        "zzzero",
+        "Velina"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148193173_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148193173",
+      "sourceCreatedAt": "2026-08-08T22:11:57.000Z"
+    },
+    {
       "id": "ecd4fa36",
       "filename": "pixiv_148186034_p0.jpg",
       "path": "uploads/2026/08/91865c53.jpg",
