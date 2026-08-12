@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "42b586a5",
+      "filename": "pixiv_148227202_p0.jpg",
+      "path": "uploads/2026/08/6fd6ac33.jpg",
+      "size": 449994,
+      "width": 819,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b538ff8668090af2070a869fd8638b0d5aa603561a4e02e21bd76afbc33f2400",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:41:33.198Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "✂️✂️",
+      "tags": [
+        "女の子",
+        "制服",
+        "ピンク髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148227202_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148227202",
+      "sourceCreatedAt": "2026-08-09T14:59:23.000Z"
+    },
+    {
       "id": "5387f88b",
       "filename": "pixiv_148242586_p0.jpg",
       "path": "uploads/2026/08/3cdb5222.jpg",
