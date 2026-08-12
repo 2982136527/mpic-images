@@ -3,6 +3,28 @@
   "shardId": "18",
   "images": [
     {
+      "id": "4f9a763f",
+      "filename": "pixiv_148264260_p0.jpg",
+      "path": "uploads/2026/08/d9e379fc.jpg",
+      "size": 934021,
+      "width": 686,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1f1c1ab596f8ed6950aaa6919574c3f55238de5f2373cce406e8965f239ce582",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:20:58.137Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "天ジャ　まとめ",
+      "tags": [
+        "天幕のジャードゥーガル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148264260_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148264260",
+      "sourceCreatedAt": "2026-08-10T13:39:12.000Z"
+    },
+    {
       "id": "6ec7f140",
       "filename": "pixiv_148260048_p0.jpg",
       "path": "uploads/2026/08/b8befe45.jpg",
