@@ -3,6 +3,35 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "21fcc92d",
+      "filename": "pixiv_148234096_p0.jpg",
+      "path": "uploads/2026/08/2af39e60.jpg",
+      "size": 1542672,
+      "width": 1200,
+      "height": 975,
+      "mimeType": "image/jpeg",
+      "hash": "b73e9a72b53f711f9e1bb0ee0422a32cc527aadfd7c5ca587504c7561ccc4e83",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:44:58.508Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Pyra + Mythra",
+      "tags": [
+        "ゼノブレイド",
+        "ゼノブレイド2",
+        "ホムラ(ゼノブレイド2)",
+        "ヒカリ(ゼノブレイド2)",
+        "ホムラ",
+        "ヒカリ",
+        "ぬいぐるみ",
+        "おっぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148234096_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148234096",
+      "sourceCreatedAt": "2026-08-09T18:34:52.000Z"
+    },
+    {
       "id": "d4b9dd16",
       "filename": "pixiv_148202098_p0.jpg",
       "path": "uploads/2026/08/03927b2f.jpg",
