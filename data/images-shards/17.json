@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "4fdba6a3",
+      "filename": "pixiv_148240271_p0.jpg",
+      "path": "uploads/2026/08/1da87cbe.jpg",
+      "size": 1250470,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5eb5b4fe54d28e8cbb7d7854c540be1a871cfe502c2e1aa1b9f997f4d3aa714b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T17:12:22.159Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ネル",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "美甘ネル",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148240271_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148240271",
+      "sourceCreatedAt": "2026-08-10T00:51:55.000Z"
+    },
+    {
       "id": "62179ba1",
       "filename": "pixiv_148256030_p0.jpg",
       "path": "uploads/2026/08/0462cd1a.jpg",
