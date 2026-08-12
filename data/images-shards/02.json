@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "1164a1f4",
+      "filename": "pixiv_148263251_p0.jpg",
+      "path": "uploads/2026/08/85372cd8.jpg",
+      "size": 899181,
+      "width": 1200,
+      "height": 648,
+      "mimeType": "image/jpeg",
+      "hash": "a62a7ee7fa1d20c2efcc23e2ee5220dba398f4576a286eefecc42e822b5082ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T17:10:08.480Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "創作LOG－3",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148263251_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148263251",
+      "sourceCreatedAt": "2026-08-10T13:17:35.000Z"
+    },
+    {
       "id": "97c05230",
       "filename": "pixiv_148283310_p0.jpg",
       "path": "uploads/2026/08/a29540f3.jpg",
