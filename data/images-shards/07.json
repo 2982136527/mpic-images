@@ -3,6 +3,37 @@
   "shardId": "07",
   "images": [
     {
+      "id": "db7d91b9",
+      "filename": "pixiv_148265734_p0.jpg",
+      "path": "uploads/2026/08/5ca1b289.jpg",
+      "size": 537766,
+      "width": 773,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8fd7cbeb1e14c69a1d7297c6fae2b969a4e1deaca16771406ede14ee31a22457",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:42:45.835Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "先日の魔法使いにかるく色付けてみた",
+      "tags": [
+        "オリジナル",
+        "魔法使い",
+        "マント",
+        "外套",
+        "超マイクロミニ",
+        "ビスチェ",
+        "へそ出し",
+        "魔導書",
+        "ポニーテール",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148265734_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148265734",
+      "sourceCreatedAt": "2026-08-10T14:10:35.000Z"
+    },
+    {
       "id": "b2bf4bab",
       "filename": "pixiv_148201275_p0.jpg",
       "path": "uploads/2026/08/94da8278.jpg",
