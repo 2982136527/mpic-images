@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "a0746416",
+      "filename": "pixiv_148243495_p0.jpg",
+      "path": "uploads/2026/08/855ea7db.jpg",
+      "size": 1037750,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "00a08131fff32df178fb7ee8284cd8b15e21941f01df6d90febfe6bdb1c0f933",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T17:11:12.721Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ラストオリジン",
+        "라스트오리진",
+        "LRL"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148243495_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148243495",
+      "sourceCreatedAt": "2026-08-10T03:14:39.000Z"
+    },
+    {
       "id": "f504d2f1",
       "filename": "pixiv_148276398_p0.jpg",
       "path": "uploads/2026/08/8f48937f.jpg",
