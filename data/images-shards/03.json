@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "73a9f5d5",
+      "filename": "pixiv_148273894_p0.jpg",
+      "path": "uploads/2026/08/563cd2bd.jpg",
+      "size": 386174,
+      "width": 745,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2345eb2108a8451e44a7699f092cb649954d6fa557af106ee1d7aeaeb0f49799",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:28:28.862Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "톢이",
+      "tags": [
+        "東方",
+        "東方Project",
+        "パチュリー・ノーレッジ",
+        "小悪魔(東方Project)",
+        "こあぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148273894_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148273894",
+      "sourceCreatedAt": "2026-08-10T17:47:05.000Z"
+    },
+    {
       "id": "42b586a5",
       "filename": "pixiv_148227202_p0.jpg",
       "path": "uploads/2026/08/6fd6ac33.jpg",
