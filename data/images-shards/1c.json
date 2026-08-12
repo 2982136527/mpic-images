@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "61bacec3",
+      "filename": "pixiv_148266925_p0.jpg",
+      "path": "uploads/2026/08/41371e4e.jpg",
+      "size": 1074550,
+      "width": 992,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "21ee4b2f39b143969766c0b7c4177989b2f053faf9b07b55e20695e509433532",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:19:59.445Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "白昼夢の遊泳",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "制服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148266925_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148266925",
+      "sourceCreatedAt": "2026-08-10T14:35:13.000Z"
+    },
+    {
       "id": "b6a2d275",
       "filename": "pixiv_148256812_p0.jpg",
       "path": "uploads/2026/08/911738fc.jpg",
