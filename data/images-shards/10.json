@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "09c60fb4",
+      "filename": "pixiv_148268186_p0.jpg",
+      "path": "uploads/2026/08/04f93ab8.jpg",
+      "size": 1130872,
+      "width": 651,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c0d66d1d562deea4a7524ca02baca83e4965c57e0c63886d32c1d4b459e98343",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:20:20.574Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "酒寄彩葉",
+      "tags": [
+        "超かぐや姫!",
+        "酒寄彩葉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148268186_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148268186",
+      "sourceCreatedAt": "2026-08-10T15:00:25.000Z"
+    },
+    {
       "id": "e645fc5b",
       "filename": "pixiv_148228879_p0.jpg",
       "path": "uploads/2026/08/86e9fa85.jpg",
