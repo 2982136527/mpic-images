@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "3843edfd",
+      "filename": "pixiv_148291887_p0.jpg",
+      "path": "uploads/2026/08/29379907.jpg",
+      "size": 618908,
+      "width": 900,
+      "height": 524,
+      "mimeType": "image/jpeg",
+      "hash": "51fe7f612a912be11d281acec32afbee993eb60789ac70e998421d181332c5a7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:20:11.657Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "原神LOG⑤",
+      "tags": [
+        "原神",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148291887_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148291887",
+      "sourceCreatedAt": "2026-08-11T07:30:13.000Z"
+    },
+    {
       "id": "b2fd1ddb",
       "filename": "pixiv_148252135_p0.jpg",
       "path": "uploads/2026/08/8689c5e0.jpg",
