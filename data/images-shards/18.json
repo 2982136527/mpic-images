@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "fa8e3e5a",
+      "filename": "pixiv_148262587_p0.jpg",
+      "path": "uploads/2026/08/03a11877.jpg",
+      "size": 920248,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2196afe84ec0b763889141be5873dd784d6d8f69ed317bf1ab02ac745e8ceda1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T17:12:40.692Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108 頒布本の紹介です",
+      "tags": [
+        "超かぐや姫!",
+        "かぐいろ",
+        "百合",
+        "C108"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148262587_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148262587",
+      "sourceCreatedAt": "2026-08-10T13:03:10.000Z"
+    },
+    {
       "id": "cc67f62e",
       "filename": "pixiv_148068880_p0.jpg",
       "path": "uploads/2026/08/79709d24.jpg",
