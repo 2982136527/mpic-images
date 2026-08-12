@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "4b469cdb",
+      "filename": "pixiv_148239711_p0.jpg",
+      "path": "uploads/2026/08/e16bea02.jpg",
+      "size": 606130,
+      "width": 1200,
+      "height": 881,
+      "mimeType": "image/jpeg",
+      "hash": "67faa613bc73c59e7a7bad30eb01e9b70fcedb7157e4ebe9e70c7a95b832332b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T17:09:16.250Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "스텔라소라",
+        "StellaSora",
+        "ステラソラ",
+        "砂風呂"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148239711_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148239711",
+      "sourceCreatedAt": "2026-08-10T00:22:48.000Z"
+    },
+    {
       "id": "1eaae8c9",
       "filename": "pixiv_148271054_p0.jpg",
       "path": "uploads/2026/08/af90742c.jpg",
