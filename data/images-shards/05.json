@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "9d5ca88b",
+      "filename": "pixiv_148088748_p0.jpg",
+      "path": "uploads/2026/08/c1f9f93f.jpg",
+      "size": 1664593,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2afc4513fee76cdfae473f3a9e90c4eca2729c312f338924f26d17e17a9a3167",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T17:14:11.021Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "イースX",
+      "tags": [
+        "イースX",
+        "水中",
+        "女の子",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148088748_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148088748",
+      "sourceCreatedAt": "2026-08-06T10:27:10.000Z"
+    },
+    {
       "id": "ef9dae97",
       "filename": "pixiv_148227334_p0.jpg",
       "path": "uploads/2026/08/f978af2a.jpg",
