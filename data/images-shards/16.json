@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "391c3a75",
+      "filename": "pixiv_148274945_p0.jpg",
+      "path": "uploads/2026/08/2552e5c5.jpg",
+      "size": 1052025,
+      "width": 838,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "78e7fa9c19b58682b9ba1518a4f99e9d4053ff75f818f8858f9774709199cc83",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:25:33.197Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ソティス",
+      "tags": [
+        "ソティス(ファイアーエムブレム)",
+        "ファイアーエムブレム",
+        "ファイアーエムブレム万紫千紅"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148274945_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148274945",
+      "sourceCreatedAt": "2026-08-10T18:44:44.000Z"
+    },
+    {
       "id": "c6cb4044",
       "filename": "pixiv_148235593_p0.jpg",
       "path": "uploads/2026/08/9f92208e.jpg",
