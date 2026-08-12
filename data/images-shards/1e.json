@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "8e01d3aa",
+      "filename": "pixiv_148285098_p0.jpg",
+      "path": "uploads/2026/08/97237574.jpg",
+      "size": 1440538,
+      "width": 756,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "77f3d7e3890697c0db89326f8d1b369799253a6d9092a202d5e3c6129e5af3f5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:21:40.423Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Cinderella🤍",
+      "tags": [
+        "nikke"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148285098_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148285098",
+      "sourceCreatedAt": "2026-08-11T03:17:41.000Z"
+    },
+    {
       "id": "11cec200",
       "filename": "pixiv_148248446_p0.jpg",
       "path": "uploads/2026/08/5128275d.jpg",
