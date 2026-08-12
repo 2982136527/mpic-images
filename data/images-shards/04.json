@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "f3c22d6b",
+      "filename": "pixiv_148227884_p0.jpg",
+      "path": "uploads/2026/08/a26ffc06.jpg",
+      "size": 964152,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "9ea541e11bc3884f42c04a4cc4cb71b48c7e391325001323e5ba0a29c15beb23",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:39:21.175Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "レミエール・ダン",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ2周年イラコンFA",
+        "pixiv_C108"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148227884_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148227884",
+      "sourceCreatedAt": "2026-08-09T15:03:30.000Z"
+    },
+    {
       "id": "352fe47e",
       "filename": "pixiv_148251599_p0.jpg",
       "path": "uploads/2026/08/b1f2ca17.jpg",
