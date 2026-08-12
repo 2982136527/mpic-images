@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "3078d948",
+      "filename": "pixiv_148245832_p0.jpg",
+      "path": "uploads/2026/08/a84fc53c.jpg",
+      "size": 854055,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "80b46dd2bc0d0dfe0bf73b2c47d3bd1170f1b4ce68653d2d18531e9691ea5b9f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T17:15:29.976Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "部活休みの日は川遊び",
+      "tags": [
+        "夏",
+        "川"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148245832_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148245832",
+      "sourceCreatedAt": "2026-08-10T04:51:48.000Z"
+    },
+    {
       "id": "6ddcc62c",
       "filename": "pixiv_148248383_p0.jpg",
       "path": "uploads/2026/08/3d1673db.jpg",
