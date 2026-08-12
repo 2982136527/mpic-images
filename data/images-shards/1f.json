@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "c545e1ab",
+      "filename": "pixiv_148246921_p0.jpg",
+      "path": "uploads/2026/08/b21ff626.jpg",
+      "size": 773712,
+      "width": 844,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "051b7651a58188716a17db7437cfce6a15339d0e4466e1c78608e4302601bb28",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:41:56.628Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "冬コミ申し込ました(2日目)",
+      "tags": [
+        "百合",
+        "律澪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148246921_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148246921",
+      "sourceCreatedAt": "2026-08-10T05:42:24.000Z"
+    },
+    {
       "id": "3a546685",
       "filename": "pixiv_148216500_p0.jpg",
       "path": "uploads/2026/08/a507fa63.jpg",
