@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "1ddf9182",
+      "filename": "pixiv_148190621_p0.jpg",
+      "path": "uploads/2026/08/58c27b92.jpg",
+      "size": 812551,
+      "width": 829,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5fb3d75b618dd48a269203d86767522020f153b1f9294c5bf0bff9e3c98335bd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T02:37:45.884Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ユーノ",
+      "tags": [
+        "鳴潮",
+        "ユーノ",
+        "少女",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148190621_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148190621",
+      "sourceCreatedAt": "2026-08-08T19:27:58.000Z"
+    },
+    {
       "id": "d742f0f3",
       "filename": "pixiv_148222108_p0.jpg",
       "path": "uploads/2026/08/34e13440.jpg",
