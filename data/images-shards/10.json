@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "1af4976f",
+      "filename": "pixiv_148261517_p0.jpg",
+      "path": "uploads/2026/08/416fdd33.jpg",
+      "size": 565610,
+      "width": 1000,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "80640f07bc0c9f4a9306d4d1c568eea5d58818fefc2b3c8697b8052fe0f0c631",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:24:49.085Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🐱🧣🐱",
+      "tags": [
+        "猫化",
+        "葬送のフリーレン",
+        "フェルン",
+        "シュタルク",
+        "シュタフェル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148261517_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148261517",
+      "sourceCreatedAt": "2026-08-10T12:42:39.000Z"
+    },
+    {
       "id": "ee16067b",
       "filename": "pixiv_148293488_p0.jpg",
       "path": "uploads/2026/08/f039d256.jpg",
