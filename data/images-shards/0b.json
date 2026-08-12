@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "f504d2f1",
+      "filename": "pixiv_148276398_p0.jpg",
+      "path": "uploads/2026/08/8f48937f.jpg",
+      "size": 639064,
+      "width": 741,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "374b363600ffb5e13ff034e73b411b3ef841c31ef10b964f052d6a1d006f4dc3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T17:07:23.902Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "水着アリス",
+      "tags": [
+        "原神",
+        "アリス",
+        "C108",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148276398_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148276398",
+      "sourceCreatedAt": "2026-08-10T20:30:21.000Z"
+    },
+    {
       "id": "39c1f7a9",
       "filename": "pixiv_148227854_p0.jpg",
       "path": "uploads/2026/08/b2930b73.jpg",
