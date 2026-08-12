@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "e55b9bb2",
+      "filename": "pixiv_148242749_p0.jpg",
+      "path": "uploads/2026/08/f7501cab.jpg",
+      "size": 526417,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0dc29467e13d34d44805d63029eccc45dc4796b2c79b4d416bf4d0ac91ab3bad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-12T09:21:19.021Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "伊落マリー",
+      "tags": [
+        "ブルーアーカイブ",
+        "女の子",
+        "伊落マリー",
+        "BlueArchive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148242749_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148242749",
+      "sourceCreatedAt": "2026-08-10T02:52:07.000Z"
+    },
+    {
       "id": "c2577e6d",
       "filename": "pixiv_148228012_p0.jpg",
       "path": "uploads/2026/08/e3657ddf.jpg",
