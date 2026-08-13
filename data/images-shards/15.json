@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "249c80b6",
+      "filename": "pixiv_148306693_p0.jpg",
+      "path": "uploads/2026/08/e2d2ce85.jpg",
+      "size": 948991,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "22e0c82772e8ef741b91f4633fb5a6b37433b68f1e1f505922d9a4f6ab084249",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T17:10:58.212Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏休み",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "夏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148306693_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148306693",
+      "sourceCreatedAt": "2026-08-11T13:34:13.000Z"
+    },
+    {
       "id": "1eef3b49",
       "filename": "pixiv_148297200_p0.jpg",
       "path": "uploads/2026/08/519205e4.jpg",
