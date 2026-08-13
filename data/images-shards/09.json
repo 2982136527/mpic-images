@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "2fae89c1",
+      "filename": "pixiv_148294269_p0.jpg",
+      "path": "uploads/2026/08/0f4523ad.jpg",
+      "size": 801992,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1780297c9a396cadc624b9c344b4e7f6fda5573d6a23b0a3d28988d4fe37b50b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:25:15.945Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Cinderella",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "シンデレラ(勝利の女神:NIKKE)",
+        "NIKKE"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148294269_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148294269",
+      "sourceCreatedAt": "2026-08-11T08:51:55.000Z"
+    },
+    {
       "id": "5c630bb7",
       "filename": "pixiv_148262819_p0.jpg",
       "path": "uploads/2026/08/3ad78d8f.jpg",
