@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "5fa7592a",
+      "filename": "pixiv_148298081_p0.jpg",
+      "path": "uploads/2026/08/c05c564f.jpg",
+      "size": 1084156,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1a39e66d076307ab25443c655c106933479031d63697937099a74350ca624cd3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:22:51.689Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "❤‍🩹",
+      "tags": [
+        "女の子",
+        "白银之城"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148298081_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148298081",
+      "sourceCreatedAt": "2026-08-11T10:28:32.000Z"
+    },
+    {
       "id": "5cf4af2a",
       "filename": "pixiv_148268164_p0.jpg",
       "path": "uploads/2026/08/760d96f4.jpg",
