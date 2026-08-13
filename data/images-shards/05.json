@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "96546ec7",
+      "filename": "pixiv_148336172_p0.jpg",
+      "path": "uploads/2026/08/d1a3e067.jpg",
+      "size": 772690,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ed5f5fa40d20cdd32a53d89fe5f2d851d659d765380072e789902a46b5defcc1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T17:11:26.048Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "YES..?",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "伊落マリー",
+        "歌住サクラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148336172_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148336172",
+      "sourceCreatedAt": "2026-08-12T09:19:07.000Z"
+    },
+    {
       "id": "2c6ff5bd",
       "filename": "pixiv_148292260_p0.jpg",
       "path": "uploads/2026/08/c790a977.jpg",
