@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "3c7427a0",
+      "filename": "pixiv_148301438_p0.jpg",
+      "path": "uploads/2026/08/ac8ecc93.jpg",
+      "size": 837080,
+      "width": 1085,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a999cdee44e8b0fa7f25932306fdcce00b545fee00b06f88f4345c8dec850270",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T17:12:15.478Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ベリショリグル＋おまけ",
+      "tags": [
+        "東方",
+        "東方Project",
+        "髪型チェンジ",
+        "リグル・ナイトバグ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148301438_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148301438",
+      "sourceCreatedAt": "2026-08-11T11:45:47.000Z"
+    },
+    {
       "id": "0f6b3bcd",
       "filename": "pixiv_148285582_p0.jpg",
       "path": "uploads/2026/08/258dfdd7.jpg",
