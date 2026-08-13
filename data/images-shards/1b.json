@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "b8fea29c",
+      "filename": "pixiv_148346041_p0.jpg",
+      "path": "uploads/2026/08/5af0e808.jpg",
+      "size": 1133235,
+      "width": 982,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c75ddee17be3121ac41788ebad0abca161d0fa1d279a7594b66a1c474ad82525",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:25:37.134Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🦁",
+      "tags": [
+        "明日方舟",
+        "アークナイツ",
+        "シージ(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148346041_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148346041",
+      "sourceCreatedAt": "2026-08-12T13:12:07.000Z"
+    },
+    {
       "id": "1e4b0886",
       "filename": "pixiv_148283860_p0.jpg",
       "path": "uploads/2026/08/1d3e0fc8.jpg",
