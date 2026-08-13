@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "aba858ff",
+      "filename": "pixiv_148298780_p0.jpg",
+      "path": "uploads/2026/08/d9e9295f.jpg",
+      "size": 995643,
+      "width": 899,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "380c71d3a75caabafe0bea54f90d9c37d675f16a270e23251b11e0c7b15169af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:25:53.658Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "アズラオルまとめ②",
+      "tags": [
+        "アズラオル",
+        "Fate/GrandOrder"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148298780_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148298780",
+      "sourceCreatedAt": "2026-08-11T10:45:39.000Z"
+    },
+    {
       "id": "a1b1d11b",
       "filename": "pixiv_148347775_p0.jpg",
       "path": "uploads/2026/08/dc2481ad.jpg",
