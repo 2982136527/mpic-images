@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "4a695a7f",
+      "filename": "pixiv_148234370_p0.jpg",
+      "path": "uploads/2026/08/1788b09c.jpg",
+      "size": 1266908,
+      "width": 1200,
+      "height": 989,
+      "mimeType": "image/jpeg",
+      "hash": "a8d250ae6df547bb3068a7126d9c98762e36686119769569a65e5f75def39f2d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T02:41:15.070Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "차가운 고래 아가씨",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "イシュメール(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148234370_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148234370",
+      "sourceCreatedAt": "2026-08-09T18:52:21.000Z"
+    },
+    {
       "id": "1b719433",
       "filename": "pixiv_148256132_p0.jpg",
       "path": "uploads/2026/08/b7a85711.jpg",
