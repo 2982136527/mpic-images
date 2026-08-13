@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "a42dedb7",
+      "filename": "pixiv_148268206_p0.jpg",
+      "path": "uploads/2026/08/b73d42e2.jpg",
+      "size": 1015805,
+      "width": 757,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a27b224d71fa674fa7a4e7be3a7d902220883efa8b2a97d2dc826cec0f28bdfb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:21:07.442Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【C108】心雑",
+      "tags": [
+        "女の子",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148268206_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148268206",
+      "sourceCreatedAt": "2026-08-10T15:00:28.000Z"
+    },
+    {
       "id": "4a695a7f",
       "filename": "pixiv_148234370_p0.jpg",
       "path": "uploads/2026/08/1788b09c.jpg",
