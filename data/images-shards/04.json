@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "ec61094f",
+      "filename": "pixiv_148249512_p0.jpg",
+      "path": "uploads/2026/08/5ba34e73.jpg",
+      "size": 1090565,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f0ba240dd02c8440522b9fc31ae4627e22c34b3b19968560ff1f15087bcc3c10",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T02:39:03.660Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "うさちゃん",
+      "tags": [
+        "女の子",
+        "少女",
+        "百合",
+        "きみが死ぬまで恋をしたい",
+        "獣耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148249512_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148249512",
+      "sourceCreatedAt": "2026-08-10T07:31:25.000Z"
+    },
+    {
       "id": "821860aa",
       "filename": "pixiv_148242994_p0.jpg",
       "path": "uploads/2026/08/ba218710.jpg",
