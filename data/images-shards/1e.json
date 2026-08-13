@@ -3,6 +3,35 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "d3fc123d",
+      "filename": "pixiv_147241893_p0.jpg",
+      "path": "uploads/2026/08/7742e399.jpg",
+      "size": 1344960,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "655802b002b5207f3549f7de7e0a702bd48cb390b38206444d05ad9233de0945",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T02:43:57.808Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Jubilee",
+      "tags": [
+        "Jubilee",
+        "梁星",
+        "Illustration",
+        "liangxing",
+        "kikol",
+        "kikoldraws",
+        "ジュビリー",
+        "お腹"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "147241893_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/147241893",
+      "sourceCreatedAt": "2026-07-15T14:02:13.000Z"
+    },
+    {
       "id": "5e39b493",
       "filename": "pixiv_148306864_p0.jpg",
       "path": "uploads/2026/08/b7fdc20d.jpg",
