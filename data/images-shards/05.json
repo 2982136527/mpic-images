@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "5bf3ee20",
+      "filename": "pixiv_148338321_p0.jpg",
+      "path": "uploads/2026/08/cca3fb0c.jpg",
+      "size": 407311,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c947b48af5ebf8601815ca4cdb652ddd79bfdbed19874f34bd663f772e1cf849",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:28:44.047Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ライザ",
+      "tags": [
+        "ライザリン・シュタウト",
+        "ライザのアトリエ",
+        "マイクロビキニ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148338321_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148338321",
+      "sourceCreatedAt": "2026-08-12T10:15:55.000Z"
+    },
+    {
       "id": "a9ce287f",
       "filename": "pixiv_148335161_p0.jpg",
       "path": "uploads/2026/08/ee699668.jpg",
