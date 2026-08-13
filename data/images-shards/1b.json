@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "db88c1b0",
+      "filename": "pixiv_148306716_p0.jpg",
+      "path": "uploads/2026/08/4039f7e0.jpg",
+      "size": 754629,
+      "width": 703,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a44c3f895abf9fd5bcf7003211daa8b04333e9f4394ce5edb3d059463ff128b2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T02:42:38.593Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "プラナ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "プラナ(ブルーアーカイブ)",
+        "水着",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148306716_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148306716",
+      "sourceCreatedAt": "2026-08-11T13:34:51.000Z"
+    },
+    {
       "id": "7992775c",
       "filename": "pixiv_148227622_p0.jpg",
       "path": "uploads/2026/08/6ce27997.jpg",
