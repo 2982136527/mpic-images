@@ -3,6 +3,28 @@
   "shardId": "13",
   "images": [
     {
+      "id": "01745d50",
+      "filename": "pixiv_148321034_p0.jpg",
+      "path": "uploads/2026/08/fdabd154.jpg",
+      "size": 463140,
+      "width": 1023,
+      "height": 724,
+      "mimeType": "image/jpeg",
+      "hash": "3a738d1c557d161dcdcbbcc13546ae38c0488ecc50803e4dba232998c96dd4f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:24:43.037Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "こなんまとめ②",
+      "tags": [
+        "名探偵コナン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148321034_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148321034",
+      "sourceCreatedAt": "2026-08-11T22:46:23.000Z"
+    },
+    {
       "id": "3a021755",
       "filename": "pixiv_148275677_p0.jpg",
       "path": "uploads/2026/08/c13fd4bb.jpg",
