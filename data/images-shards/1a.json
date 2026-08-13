@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "ca73a22b",
+      "filename": "pixiv_148295221_p0.jpg",
+      "path": "uploads/2026/08/bb8e05b2.jpg",
+      "size": 585191,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "561cb477740a96640cf1e7c64b16cf6ad8b990deb62e2d7ed31a343a001ef17d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:24:26.490Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "剣先ツルギ",
+      "tags": [
+        "ブルーアーカイブ",
+        "剣先ツルギ",
+        "ブルアカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148295221_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148295221",
+      "sourceCreatedAt": "2026-08-11T09:12:34.000Z"
+    },
+    {
       "id": "4ceea76e",
       "filename": "pixiv_148326019_p0.jpg",
       "path": "uploads/2026/08/8fe76e96.jpg",
