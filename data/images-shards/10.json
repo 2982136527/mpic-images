@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "0f9fc492",
+      "filename": "pixiv_148311755_p0.jpg",
+      "path": "uploads/2026/08/442263d3.jpg",
+      "size": 816467,
+      "width": 659,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "029326031c9252bbbbc4fd83eee492bf2475cfc1bfb89f9b460243e3648945ac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:20:33.019Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ワールズエンド・ダンスホール",
+      "tags": [
+        "巡音ルカ",
+        "初音ミク",
+        "VOCALOID",
+        "ボカロ",
+        "ボーカロイド",
+        "イラスト",
+        "MVスタイル",
+        "初音未来",
+        "ツインテール",
+        "ワールズエンド・ダンスホール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148311755_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148311755",
+      "sourceCreatedAt": "2026-08-11T15:14:28.000Z"
+    },
+    {
       "id": "c4880b67",
       "filename": "pixiv_148255683_p0.jpg",
       "path": "uploads/2026/08/315f2162.jpg",
