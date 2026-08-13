@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "7dea1e3b",
+      "filename": "pixiv_148309492_p0.jpg",
+      "path": "uploads/2026/08/492f55ae.jpg",
+      "size": 1107787,
+      "width": 841,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "effdc99fcfe0fa89d6a2d536bb0dbefb7d2144a0128968a303e1db6e8c2da680",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:28:24.031Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Sample",
+      "tags": [
+        "Stellar_Blade"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148309492_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148309492",
+      "sourceCreatedAt": "2026-08-11T14:35:44.000Z"
+    },
+    {
       "id": "05cdb0ea",
       "filename": "pixiv_148277676_p0.jpg",
       "path": "uploads/2026/08/b28fb6d8.jpg",
