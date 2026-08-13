@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "659b9aa9",
+      "filename": "pixiv_148245968_p0.jpg",
+      "path": "uploads/2026/08/7d022a1d.jpg",
+      "size": 905157,
+      "width": 1200,
+      "height": 678,
+      "mimeType": "image/jpeg",
+      "hash": "5fb36ece3b8020acc54d3f485ad7c9613af2d3a9615ad8d0bc0a962e1f1d1940",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T02:40:04.510Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "望",
+      "tags": [
+        "碧蓝档案",
+        "橘望",
+        "ブルーアーカイブ",
+        "橘ノゾミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148245968_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148245968",
+      "sourceCreatedAt": "2026-08-10T04:58:39.000Z"
+    },
+    {
       "id": "1164a1f4",
       "filename": "pixiv_148263251_p0.jpg",
       "path": "uploads/2026/08/85372cd8.jpg",
