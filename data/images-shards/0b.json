@@ -3,6 +3,28 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "7ad8e7f8",
+      "filename": "pixiv_148231165_p0.jpg",
+      "path": "uploads/2026/08/4851b450.jpg",
+      "size": 329340,
+      "width": 595,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "86dff40241870068bee7936b2821dd86b4220de64d069b31b379851ee0fddf2c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T02:37:54.406Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "先制",
+      "tags": [
+        "ゼン蛍"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148231165_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148231165",
+      "sourceCreatedAt": "2026-08-09T16:22:19.000Z"
+    },
+    {
       "id": "a0746416",
       "filename": "pixiv_148243495_p0.jpg",
       "path": "uploads/2026/08/855ea7db.jpg",
