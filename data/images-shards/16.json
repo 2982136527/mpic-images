@@ -3,6 +3,37 @@
   "shardId": "16",
   "images": [
     {
+      "id": "9a4c7d95",
+      "filename": "pixiv_148294250_p0.jpg",
+      "path": "uploads/2026/08/68f05c9b.jpg",
+      "size": 857645,
+      "width": 1200,
+      "height": 511,
+      "mimeType": "image/jpeg",
+      "hash": "0ea5a9163e9520742d7deaaf52fb8431211849bc091c3ea0a0cf1aed725eef88",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:21:26.440Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無常の騎士",
+      "tags": [
+        "風景",
+        "背景",
+        "空",
+        "オリジナル",
+        "雲",
+        "illustration",
+        "ファンタジー",
+        "コンセプトアート",
+        "イラスト",
+        "ドラゴン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148294250_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148294250",
+      "sourceCreatedAt": "2026-08-11T08:51:15.000Z"
+    },
+    {
       "id": "933c5dab",
       "filename": "pixiv_148291111_p0.jpg",
       "path": "uploads/2026/08/035d5bb2.jpg",
