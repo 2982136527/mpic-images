@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "d03a552a",
+      "filename": "pixiv_148271800_p0.jpg",
+      "path": "uploads/2026/08/a7af1429.jpg",
+      "size": 1111852,
+      "width": 764,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7daa80e23b03cc2f25109b151bc2cc5986e9995b12df1ad48935a8c4edfe6c31",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T02:38:29.007Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夕刻ロベル from ギャングスターズ",
+      "tags": [
+        "夕刻ロベル",
+        "Holostars",
+        "ホロスターズ",
+        "ギャングスターズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148271800_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148271800",
+      "sourceCreatedAt": "2026-08-10T16:22:16.000Z"
+    },
+    {
       "id": "842852cf",
       "filename": "pixiv_148253735_p0.jpg",
       "path": "uploads/2026/08/0c434446.jpg",
