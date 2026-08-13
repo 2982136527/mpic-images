@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "7c92816e",
+      "filename": "pixiv_148268294_p0.jpg",
+      "path": "uploads/2026/08/99b9caf5.jpg",
+      "size": 1431390,
+      "width": 860,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f00f3d1b209c1407b1f282a9795fc9b60db6a18a012274abf76f3fc7dac856b4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T02:39:34.512Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108お品書き「月華」",
+      "tags": [
+        "C108",
+        "お品書き",
+        "崩壊:スターレイル",
+        "ホタル(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148268294_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148268294",
+      "sourceCreatedAt": "2026-08-10T15:00:55.000Z"
+    },
+    {
       "id": "1fdd4573",
       "filename": "pixiv_148227391_p0.jpg",
       "path": "uploads/2026/08/aeff0f61.jpg",
