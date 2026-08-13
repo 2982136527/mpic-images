@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "0e783f6e",
+      "filename": "pixiv_148263496_p0.jpg",
+      "path": "uploads/2026/08/191b86f5.jpg",
+      "size": 206840,
+      "width": 768,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "104dc4226b508e95bb0c7b0e64685813d7f718616d3ba4b66311f5236a39b370",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T02:39:17.105Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "宵崎奏",
+        "ニーゴカイト",
+        "カイかな"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148263496_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148263496",
+      "sourceCreatedAt": "2026-08-10T13:23:12.000Z"
+    },
+    {
       "id": "d03a552a",
       "filename": "pixiv_148271800_p0.jpg",
       "path": "uploads/2026/08/a7af1429.jpg",
