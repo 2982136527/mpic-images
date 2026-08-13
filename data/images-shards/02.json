@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "a1b1d11b",
+      "filename": "pixiv_148347775_p0.jpg",
+      "path": "uploads/2026/08/dc2481ad.jpg",
+      "size": 1005274,
+      "width": 855,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "868d635ede5fe54e27d2e39f6a394b36e95294dd9fec198fbf4723bdaf31ef12",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:25:48.391Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108お品書き",
+      "tags": [
+        "C108",
+        "品書き",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148347775_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148347775",
+      "sourceCreatedAt": "2026-08-12T13:51:01.000Z"
+    },
+    {
       "id": "84e0ecce",
       "filename": "pixiv_148345811_p0.jpg",
       "path": "uploads/2026/08/aa4a616c.jpg",
