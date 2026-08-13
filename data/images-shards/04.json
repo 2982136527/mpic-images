@@ -3,6 +3,33 @@
   "shardId": "04",
   "images": [
     {
+      "id": "1dc08305",
+      "filename": "pixiv_148310796_p0.jpg",
+      "path": "uploads/2026/08/6dd4904b.jpg",
+      "size": 805946,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "68fdecee3dfbbb16a48114fa4aab7eb442c38f78f00bca04510b17af1b308880",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:24:59.414Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "mirror",
+      "tags": [
+        "オリジナル",
+        "風景",
+        "幻想",
+        "イラスト",
+        "夕焼け",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148310796_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148310796",
+      "sourceCreatedAt": "2026-08-11T15:00:28.000Z"
+    },
+    {
       "id": "59eb52a2",
       "filename": "pixiv_148284654_p0.jpg",
       "path": "uploads/2026/08/1287155b.jpg",
