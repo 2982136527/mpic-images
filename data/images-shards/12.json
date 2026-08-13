@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "e4f5bda3",
+      "filename": "pixiv_148268121_p0.jpg",
+      "path": "uploads/2026/08/b1dba34f.jpg",
+      "size": 1278505,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "d1b981f7c9542032d78eeba61ad516295db3fdf86a086717a4514e6c45f151ea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T02:38:08.853Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏休み",
+      "tags": [
+        "オリジナル",
+        "C108",
+        "ショートパンツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148268121_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148268121",
+      "sourceCreatedAt": "2026-08-10T15:00:14.000Z"
+    },
+    {
       "id": "b0177eb3",
       "filename": "pixiv_148305608_p0.jpg",
       "path": "uploads/2026/08/0132e12b.jpg",
