@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "da18121f",
+      "filename": "pixiv_148334049_p0.jpg",
+      "path": "uploads/2026/08/5739c87e.jpg",
+      "size": 728441,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5580e14656f16356d8d57d5238bed6de55dd3b4ecf62ce5eed341b9f40d96a18",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T17:08:00.889Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "朗読劇フラスタ　ヒロマゴ",
+      "tags": [
+        "まのさば",
+        "魔法少女ノ魔女裁判",
+        "二階堂ヒロ",
+        "宝生マーゴ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148334049_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148334049",
+      "sourceCreatedAt": "2026-08-12T08:17:08.000Z"
+    },
+    {
       "id": "8b167001",
       "filename": "pixiv_148290196_p0.jpg",
       "path": "uploads/2026/08/d9703587.jpg",
