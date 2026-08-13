@@ -3,6 +3,33 @@
   "shardId": "14",
   "images": [
     {
+      "id": "dbfe4095",
+      "filename": "pixiv_148326528_p0.jpg",
+      "path": "uploads/2026/08/869018e9.jpg",
+      "size": 1469258,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9b7408ef524c6a7516471f52668d5136eabec96642ca17040cb9ab91c31404a0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:22:09.535Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "原神",
+        "フリーナ",
+        "雷電将軍",
+        "ナヒーダ",
+        "マーヴィカ",
+        "アナスターシャ・フョードロヴナ・スネージナヤ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148326528_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148326528",
+      "sourceCreatedAt": "2026-08-12T03:12:02.000Z"
+    },
+    {
       "id": "65fecfdb",
       "filename": "pixiv_148278144_p0.jpg",
       "path": "uploads/2026/08/d52bcd29.jpg",
