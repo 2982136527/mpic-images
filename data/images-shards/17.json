@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "e079466f",
+      "filename": "pixiv_148321082_p0.jpg",
+      "path": "uploads/2026/08/e08c6310.jpg",
+      "size": 1132270,
+      "width": 1200,
+      "height": 925,
+      "mimeType": "image/jpeg",
+      "hash": "38c13c2b835fd24a72e52488ed669c3a34f8d50c7a67b50027eca0bf8d6db831",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:22:45.844Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "騎獣",
+      "tags": [
+        "本好きの下剋上",
+        "ローゼマイン",
+        "ダームエル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148321082_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148321082",
+      "sourceCreatedAt": "2026-08-11T22:50:34.000Z"
+    },
+    {
       "id": "2d09deae",
       "filename": "pixiv_148270327_p0.jpg",
       "path": "uploads/2026/08/a632f006.jpg",
