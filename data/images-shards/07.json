@@ -3,6 +3,28 @@
   "shardId": "07",
   "images": [
     {
+      "id": "1ee10c18",
+      "filename": "pixiv_148280884_p0.jpg",
+      "path": "uploads/2026/08/4a6a7fe5.jpg",
+      "size": 82160,
+      "width": 680,
+      "height": 620,
+      "mimeType": "image/jpeg",
+      "hash": "563fd7d0a730e736a2d7c11d28f4c5f9c3ae4bef3d1385098afe7f718b9fc5d0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T02:40:28.313Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ショートミク",
+      "tags": [
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148280884_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148280884",
+      "sourceCreatedAt": "2026-08-11T00:28:00.000Z"
+    },
+    {
       "id": "ac4edcec",
       "filename": "pixiv_148254878_p0.jpg",
       "path": "uploads/2026/08/231ec866.jpg",
