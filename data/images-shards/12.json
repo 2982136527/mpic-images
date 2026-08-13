@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "704fc866",
+      "filename": "pixiv_148336667_p0.jpg",
+      "path": "uploads/2026/08/968db22a.jpg",
+      "size": 730200,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "28d65b4768874940086c40f1e4e9599731177ffbb3cc16932241067682cd7408",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:24:53.939Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "白と黒",
+        "夜空"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148336667_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148336667",
+      "sourceCreatedAt": "2026-08-12T09:33:06.000Z"
+    },
+    {
       "id": "e4f5bda3",
       "filename": "pixiv_148268121_p0.jpg",
       "path": "uploads/2026/08/b1dba34f.jpg",
