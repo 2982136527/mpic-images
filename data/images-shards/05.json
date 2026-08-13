@@ -3,6 +3,33 @@
   "shardId": "05",
   "images": [
     {
+      "id": "61fa8a92",
+      "filename": "pixiv_148344771_p0.jpg",
+      "path": "uploads/2026/08/9dfc5c84.jpg",
+      "size": 696135,
+      "width": 768,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3895d8c3bc4d021094fc055fb34489cd31e6abfb7e7f11e9a54d3b2961b82204",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:23:39.455Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バまとめ",
+      "tags": [
+        "BanG_Dream!",
+        "豊川祥子",
+        "馬橋心玖",
+        "長崎そよ",
+        "仲町あられ",
+        "バンドリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148344771_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148344771",
+      "sourceCreatedAt": "2026-08-12T12:46:16.000Z"
+    },
+    {
       "id": "9d5ca88b",
       "filename": "pixiv_148088748_p0.jpg",
       "path": "uploads/2026/08/c1f9f93f.jpg",
