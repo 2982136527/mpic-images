@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "fbd1418a",
+      "filename": "pixiv_148279117_p0.jpg",
+      "path": "uploads/2026/08/b6c92eac.jpg",
+      "size": 1550381,
+      "width": 1200,
+      "height": 1050,
+      "mimeType": "image/jpeg",
+      "hash": "bd4c52b2e2614d325f4b1081c30b6aa6a2dafb16a29779fe13741e1c6ac524d0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:26:04.644Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ティガレックス",
+      "tags": [
+        "モンハン擬人化",
+        "ティガレックス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148279117_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148279117",
+      "sourceCreatedAt": "2026-08-10T23:02:41.000Z"
+    },
+    {
       "id": "221aaad3",
       "filename": "pixiv_148333500_p0.jpg",
       "path": "uploads/2026/08/7a3a0fa2.jpg",
