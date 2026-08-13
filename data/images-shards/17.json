@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "e3f3c6ba",
+      "filename": "pixiv_148331705_p0.jpg",
+      "path": "uploads/2026/08/10ef6d94.jpg",
+      "size": 956570,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2459bffb40aaef61b558e9a1649c1c0747026cc19e2773c943f5d1f86025d298",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T17:10:02.057Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "歌愛ユキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148331705_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148331705",
+      "sourceCreatedAt": "2026-08-12T06:53:21.000Z"
+    },
+    {
       "id": "76e0562c",
       "filename": "pixiv_148336081_p0.jpg",
       "path": "uploads/2026/08/d255df2b.jpg",
