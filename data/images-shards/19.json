@@ -3,6 +3,35 @@
   "shardId": "19",
   "images": [
     {
+      "id": "ebdc6fb0",
+      "filename": "pixiv_148340403_p0.jpg",
+      "path": "uploads/2026/08/b82e4418.jpg",
+      "size": 971623,
+      "width": 650,
+      "height": 919,
+      "mimeType": "image/jpeg",
+      "hash": "398a2e286c13d3e324681e33111ddbaf66a3dac2b37df6e9e2c52cee6d6caa3f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-13T09:22:32.044Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "午後3時のこぐまパティスリー",
+      "tags": [
+        "オリジナル",
+        "くま",
+        "ケーキ",
+        "パン",
+        "パティスリー",
+        "マカロン",
+        "動物",
+        "店番"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148340403_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148340403",
+      "sourceCreatedAt": "2026-08-12T11:06:26.000Z"
+    },
+    {
       "id": "fe3e9b57",
       "filename": "pixiv_148298406_p0.jpg",
       "path": "uploads/2026/08/dbe5a23c.jpg",
