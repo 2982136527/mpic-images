@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "3817d79e",
+      "filename": "pixiv_148359084_p0.jpg",
+      "path": "uploads/2026/08/9917df8b.jpg",
+      "size": 1067797,
+      "width": 721,
+      "height": 1048,
+      "mimeType": "image/jpeg",
+      "hash": "8a1eb9c34f2fce4c1e151b91ddb751ed34dd505046bb1b56ad38aa13c30dae54",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T17:07:55.419Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Skeb納品作品",
+      "tags": [
+        "Skeb",
+        "commission"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148359084_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148359084",
+      "sourceCreatedAt": "2026-08-12T20:54:48.000Z"
+    },
+    {
       "id": "29204df3",
       "filename": "pixiv_148351099_p0.jpg",
       "path": "uploads/2026/08/75baa8a1.jpg",
