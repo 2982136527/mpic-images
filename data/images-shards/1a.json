@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "650fe870",
+      "filename": "pixiv_148311431_p0.jpg",
+      "path": "uploads/2026/08/c96fd47d.jpg",
+      "size": 571948,
+      "width": 663,
+      "height": 926,
+      "mimeType": "image/jpeg",
+      "hash": "b874964667cc2f940b73700a3a7d9c62b0086c12a66544a2f580c3c5f9ec0022",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T17:08:40.735Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "新刊予約開始のお知らせ",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "トランセンド(ウマ娘)",
+        "トランセンドが好きすぎる人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148311431_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148311431",
+      "sourceCreatedAt": "2026-08-11T15:07:13.000Z"
+    },
+    {
       "id": "e7f63100",
       "filename": "pixiv_148343544_p0.jpg",
       "path": "uploads/2026/08/49ce0e86.jpg",
