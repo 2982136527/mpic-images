@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "81e4ca29",
+      "filename": "pixiv_148330496_p0.jpg",
+      "path": "uploads/2026/08/e3a23be1.jpg",
+      "size": 496463,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bcc746a2a1c2d28ce07f6fd6feeada0b2b1d14d4862ed71cebec07ec7032daf7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T02:40:32.543Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "因幡てゐ",
+        "東方",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148330496_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148330496",
+      "sourceCreatedAt": "2026-08-12T06:02:05.000Z"
+    },
+    {
       "id": "bb9c08a2",
       "filename": "pixiv_148299414_p0.jpg",
       "path": "uploads/2026/08/b5cf5b30.jpg",
