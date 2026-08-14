@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "1f3257bf",
+      "filename": "pixiv_148352314_p0.jpg",
+      "path": "uploads/2026/08/5fd16fd7.jpg",
+      "size": 1142642,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6c689804bcee6a81faef59d68a9756242802ed82743fc45522825151bba48b64",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T17:04:32.337Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【VOCALOID】うちのミクさん",
+      "tags": [
+        "初音ミク",
+        "ボーカロイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148352314_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148352314",
+      "sourceCreatedAt": "2026-08-12T15:26:31.000Z"
+    },
+    {
       "id": "10c9a159",
       "filename": "pixiv_148336837_p0.jpg",
       "path": "uploads/2026/08/53b30ab7.jpg",
