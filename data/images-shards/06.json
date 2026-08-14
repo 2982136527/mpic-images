@@ -3,6 +3,33 @@
   "shardId": "06",
   "images": [
     {
+      "id": "6d8a4f7b",
+      "filename": "pixiv_148314948_p0.jpg",
+      "path": "uploads/2026/08/c697bb0e.jpg",
+      "size": 1605751,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f5b1051fd54dabe3871db3192799462187b661bb31a7bb31f5bd7a4d6af31214",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T02:38:45.072Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "奇奇怪怪",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "和風",
+        "黒髪",
+        "妖怪",
+        "金魚"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148314948_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148314948",
+      "sourceCreatedAt": "2026-08-11T16:42:20.000Z"
+    },
+    {
       "id": "b6db8132",
       "filename": "pixiv_148312155_p0.jpg",
       "path": "uploads/2026/08/17c4e20a.jpg",
