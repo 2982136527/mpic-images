@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "a58f6c0f",
+      "filename": "pixiv_148340354_p0.jpg",
+      "path": "uploads/2026/08/4ea40e02.jpg",
+      "size": 855640,
+      "width": 1200,
+      "height": 720,
+      "mimeType": "image/jpeg",
+      "hash": "9946ed0a2d04f84bc38874dc17022589339b280019d4bc527f4c2d7c210252de",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T09:18:01.282Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Cat Goddess",
+      "tags": [
+        "ケモミミ",
+        "猫娘",
+        "猫耳",
+        "Skeb"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148340354_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148340354",
+      "sourceCreatedAt": "2026-08-12T11:05:16.000Z"
+    },
+    {
       "id": "a4905c9d",
       "filename": "pixiv_148310651_p0.jpg",
       "path": "uploads/2026/08/1c7a5920.jpg",
