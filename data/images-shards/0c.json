@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "651e9afb",
+      "filename": "pixiv_148361151_p0.jpg",
+      "path": "uploads/2026/08/e72738bf.jpg",
+      "size": 883915,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "7e512ba3b52525871a9aa36bf00671e413ddc2b8a426388f74a3ba42f2d97f8f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T17:03:48.577Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "初音学園高等部初音ミク部所属の初音ミク",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148361151_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148361151",
+      "sourceCreatedAt": "2026-08-12T23:00:06.000Z"
+    },
+    {
       "id": "81e4ca29",
       "filename": "pixiv_148330496_p0.jpg",
       "path": "uploads/2026/08/e3a23be1.jpg",
