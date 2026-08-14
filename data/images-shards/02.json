@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "99dbcc4b",
+      "filename": "pixiv_148361851_p0.jpg",
+      "path": "uploads/2026/08/614736bb.jpg",
+      "size": 818146,
+      "width": 879,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4eaed8a15b47c3aa9737111696f59925a62ab8494fb8727f1d635249e865611f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T17:05:27.233Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "Samus",
+        "メトロイド",
+        "サムス・アラン",
+        "腹筋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148361851_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148361851",
+      "sourceCreatedAt": "2026-08-12T23:39:16.000Z"
+    },
+    {
       "id": "8d9fa3c0",
       "filename": "pixiv_148359656_p0.jpg",
       "path": "uploads/2026/08/6a3c1973.jpg",
