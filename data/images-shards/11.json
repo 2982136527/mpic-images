@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "a60bf038",
+      "filename": "pixiv_148363378_p0.jpg",
+      "path": "uploads/2026/08/422f9149.jpg",
+      "size": 1187707,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9b381905c42995d0af55804a2e846d4fff9281c7a9fbf9672252bf6ee4185850",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T17:06:12.061Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108のお品書き",
+      "tags": [
+        "c108",
+        "シュポガキ",
+        "橘ヒカリ",
+        "橘ノゾミ",
+        "内海アオバ",
+        "お品書き"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148363378_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148363378",
+      "sourceCreatedAt": "2026-08-13T00:58:44.000Z"
+    },
+    {
       "id": "065a45b8",
       "filename": "pixiv_148335717_p0.jpg",
       "path": "uploads/2026/08/98738618.jpg",
