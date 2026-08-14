@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "1240fa29",
+      "filename": "pixiv_148303477_p0.jpg",
+      "path": "uploads/2026/08/4e3b9987.jpg",
+      "size": 701840,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cf2af2fe85e2a758bfa3061ff4abe80eb4158c8af38ae8c48614354fd33b1f88",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T02:39:19.516Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Emma",
+      "tags": [
+        "オリジナル",
+        "OC",
+        "よその子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148303477_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148303477",
+      "sourceCreatedAt": "2026-08-11T12:26:47.000Z"
+    },
+    {
       "id": "96546ec7",
       "filename": "pixiv_148336172_p0.jpg",
       "path": "uploads/2026/08/d1a3e067.jpg",
