@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "f012203d",
+      "filename": "pixiv_148343861_p0.jpg",
+      "path": "uploads/2026/08/dcef38f5.jpg",
+      "size": 956128,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9b35719a7bda93f679ec9bdad5375708102adfd8430773df90e50a3f1396ee38",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T09:16:46.390Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "年に一度のお楽しみ",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "花火"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148343861_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148343861",
+      "sourceCreatedAt": "2026-08-12T12:25:44.000Z"
+    },
+    {
       "id": "42bb250b",
       "filename": "pixiv_148378851_p0.jpg",
       "path": "uploads/2026/08/5ae2e082.jpg",
