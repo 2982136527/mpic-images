@@ -3,6 +3,35 @@
   "shardId": "12",
   "images": [
     {
+      "id": "901ad660",
+      "filename": "pixiv_148311515_p0.jpg",
+      "path": "uploads/2026/08/d05f1d63.jpg",
+      "size": 1299515,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ceea9e7c0ba5f7f0de7979bfa12910c799c8fec0accee8c81f979a4a82cc3be9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T02:38:06.385Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "D.Mon",
+      "tags": [
+        "梁星",
+        "Illustration",
+        "liangxing",
+        "kikol",
+        "kikoldraws",
+        "blizzard",
+        "Overwatch",
+        "D.Mon"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148311515_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148311515",
+      "sourceCreatedAt": "2026-08-11T15:09:02.000Z"
+    },
+    {
       "id": "20d93bb0",
       "filename": "pixiv_148343100_p0.jpg",
       "path": "uploads/2026/08/300d2b89.jpg",
