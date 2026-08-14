@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "581345dd",
+      "filename": "pixiv_148277542_p0.jpg",
+      "path": "uploads/2026/08/71b7947e.jpg",
+      "size": 831699,
+      "width": 744,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "db1ef7138595ff29ee3fffe035ae78d13ae55fcdc24fbdd6650e8a6602188e1c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T02:39:51.380Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ぎる",
+      "tags": [
+        "女の子",
+        "アークナイツ:エンドフィールド",
+        "ギルベルタ(エンドフィールド)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148277542_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148277542",
+      "sourceCreatedAt": "2026-08-10T21:40:56.000Z"
+    },
+    {
       "id": "a00b6142",
       "filename": "pixiv_148277816_p0.jpg",
       "path": "uploads/2026/08/0dcdd75b.jpg",
