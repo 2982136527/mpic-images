@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "5cc84181",
+      "filename": "pixiv_148374914_p0.jpg",
+      "path": "uploads/2026/08/26c0782a.jpg",
+      "size": 571202,
+      "width": 689,
+      "height": 911,
+      "mimeType": "image/jpeg",
+      "hash": "4ce0901068df1a003d156e42a492c79d105d8f47a13287e7b4ff70207c9f7021",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T09:19:24.760Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "あじゅ🫶🩵",
+      "tags": [
+        "c108",
+        "本阿弥あずさ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148374914_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148374914",
+      "sourceCreatedAt": "2026-08-13T08:51:39.000Z"
+    },
+    {
       "id": "901ad660",
       "filename": "pixiv_148311515_p0.jpg",
       "path": "uploads/2026/08/d05f1d63.jpg",
