@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "6bba4ebe",
+      "filename": "pixiv_148329634_p0.jpg",
+      "path": "uploads/2026/08/317ee07d.jpg",
+      "size": 1187744,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2c1b13877643359b2f4f76634195eb2d8462be496258d138edf110cf08f1c8b6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T09:17:01.632Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏風🎐",
+      "tags": [
+        "女の子",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148329634_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148329634",
+      "sourceCreatedAt": "2026-08-12T05:24:06.000Z"
+    },
+    {
       "id": "53d04bdf",
       "filename": "pixiv_148310616_p0.jpg",
       "path": "uploads/2026/08/32c38d22.jpg",
