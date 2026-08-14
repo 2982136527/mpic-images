@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "8b6ed86d",
+      "filename": "pixiv_148352974_p0.jpg",
+      "path": "uploads/2026/08/66d075fe.jpg",
+      "size": 556488,
+      "width": 1029,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "29dac25a62cb9235cd413a9d8046f282b53701f9540ea5a74ca5bacf914f5346",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T09:15:42.388Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ちいちゃい雪ちゃん",
+      "tags": [
+        "オリジナル",
+        "ミニキャラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148352974_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148352974",
+      "sourceCreatedAt": "2026-08-12T15:41:10.000Z"
+    },
+    {
       "id": "03758f09",
       "filename": "pixiv_148354919_p0.jpg",
       "path": "uploads/2026/08/9dbab783.jpg",
