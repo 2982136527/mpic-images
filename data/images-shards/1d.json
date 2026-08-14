@@ -3,6 +3,33 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "298b46eb",
+      "filename": "pixiv_148375547_p0.jpg",
+      "path": "uploads/2026/08/6c48ecd7.jpg",
+      "size": 457718,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f8add87e469f6103653701018443114aeba5ce06853ff4c43ee9ea5e4de7bc62",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T17:09:21.594Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "手の素材250種",
+      "tags": [
+        "手",
+        "トレス素材",
+        "トレスフリー",
+        "作画資料",
+        "素材",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148375547_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148375547",
+      "sourceCreatedAt": "2026-08-13T09:03:58.000Z"
+    },
+    {
       "id": "5853f720",
       "filename": "pixiv_148323450_p0.jpg",
       "path": "uploads/2026/08/cda3e0ec.jpg",
