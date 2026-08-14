@@ -3,6 +3,34 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "e4a5271d",
+      "filename": "pixiv_148317906_p0.jpg",
+      "path": "uploads/2026/08/ce72f608.jpg",
+      "size": 1000060,
+      "width": 817,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0a8172f1aabc0ee00050aec7e2a91cbd85558efe52facc18934d4edf1138264d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T17:03:40.516Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "约稿",
+      "tags": [
+        "女の子",
+        "少女",
+        "立绘",
+        "中国风",
+        "OC",
+        "白タイツ",
+        "武侠"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148317906_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148317906",
+      "sourceCreatedAt": "2026-08-11T19:04:56.000Z"
+    },
+    {
       "id": "e40b5a50",
       "filename": "pixiv_148365265_p0.jpg",
       "path": "uploads/2026/08/72be7a3f.jpg",
