@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "0fb178c5",
+      "filename": "pixiv_148325554_p0.jpg",
+      "path": "uploads/2026/08/e11a4c32.jpg",
+      "size": 738640,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b11dea5ac8148110bd5800a04b227641502312819736f01a470c46a39ce61fa4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T02:40:51.785Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "絵チャ",
+      "tags": [
+        "中津静流",
+        "Rewrite"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148325554_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148325554",
+      "sourceCreatedAt": "2026-08-12T02:38:31.000Z"
+    },
+    {
       "id": "d353e6cc",
       "filename": "pixiv_148331964_p0.jpg",
       "path": "uploads/2026/08/0a2f41d2.jpg",
