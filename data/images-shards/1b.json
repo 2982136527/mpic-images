@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "f3e5e0ed",
+      "filename": "pixiv_148336137_p0.jpg",
+      "path": "uploads/2026/08/030ba408.jpg",
+      "size": 1016864,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ecf25eda19a1d566936fb6377991dfd5978999c756f106b2c5ee9796c149a0c8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T09:19:47.976Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "イロハ（水着）",
+      "tags": [
+        "ブルーアーカイブ",
+        "水着",
+        "棗イロハ",
+        "棗イロハ(水着)",
+        "ブルーアーカイブ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148336137_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148336137",
+      "sourceCreatedAt": "2026-08-12T09:18:14.000Z"
+    },
+    {
       "id": "eb0fa116",
       "filename": "pixiv_148339013_p0.jpg",
       "path": "uploads/2026/08/e906fa26.jpg",
