@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "c80d68f1",
+      "filename": "pixiv_148350795_p0.jpg",
+      "path": "uploads/2026/08/c955fe32.jpg",
+      "size": 805000,
+      "width": 723,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "58c53913800c6d5490b02dfc2690c0e486f53cc9d581adf122d1c6b0376bd607",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T09:20:18.311Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "海風",
+      "tags": [
+        "女の子",
+        "うちの子",
+        "黒髪",
+        "無名さん",
+        "ビキニ",
+        "海"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148350795_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148350795",
+      "sourceCreatedAt": "2026-08-12T15:00:10.000Z"
+    },
+    {
       "id": "25fe2e20",
       "filename": "pixiv_148338506_p0.jpg",
       "path": "uploads/2026/08/8aa95e4a.jpg",
