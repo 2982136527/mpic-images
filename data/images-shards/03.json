@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "0c27e4cb",
+      "filename": "pixiv_148313082_p0.jpg",
+      "path": "uploads/2026/08/50fdb5c0.jpg",
+      "size": 977714,
+      "width": 586,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "051d742eb5d49c9554bd0fc7f4ac8d09bde0e64582a293d263b8db04e7807d0b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T02:36:44.078Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "絵",
+      "tags": [
+        "創作",
+        "一次創作",
+        "怪異"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148313082_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148313082",
+      "sourceCreatedAt": "2026-08-11T15:47:16.000Z"
+    },
+    {
       "id": "80467edf",
       "filename": "pixiv_148316197_p0.jpg",
       "path": "uploads/2026/08/2bbf1d3a.jpg",
