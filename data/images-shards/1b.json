@@ -3,6 +3,28 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "fbfb599a",
+      "filename": "pixiv_148361392_p0.jpg",
+      "path": "uploads/2026/08/ba4e65d2.jpg",
+      "size": 241844,
+      "width": 1024,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "218e62268eb86c6d47b049747391efc2d365fcca945f4fd9af96b601b0ba0a00",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T09:21:19.548Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "「夢の中のルナ」キャラデザイン",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148361392_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148361392",
+      "sourceCreatedAt": "2026-08-12T23:12:45.000Z"
+    },
+    {
       "id": "f3e5e0ed",
       "filename": "pixiv_148336137_p0.jpg",
       "path": "uploads/2026/08/030ba408.jpg",
