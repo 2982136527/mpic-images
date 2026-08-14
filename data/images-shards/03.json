@@ -3,6 +3,33 @@
   "shardId": "03",
   "images": [
     {
+      "id": "095fef67",
+      "filename": "pixiv_148341091_p0.jpg",
+      "path": "uploads/2026/08/4fd7db8b.jpg",
+      "size": 714344,
+      "width": 976,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2889d8afd6b30071dcbc841c1d07dbafff56a94f22773b87e8127467939d70ea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T09:18:30.780Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "将棋一番！",
+      "tags": [
+        "VOCALOID",
+        "イラスト",
+        "ボカロ",
+        "ボーカロイド",
+        "歌愛ユキ",
+        "将棋一番!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148341091_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148341091",
+      "sourceCreatedAt": "2026-08-12T11:23:09.000Z"
+    },
+    {
       "id": "5a33b5d2",
       "filename": "pixiv_148333266_p0.jpg",
       "path": "uploads/2026/08/fbafd22f.jpg",
