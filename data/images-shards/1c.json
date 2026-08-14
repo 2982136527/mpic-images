@@ -3,6 +3,33 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "d7a46cec",
+      "filename": "pixiv_148350727_p0.jpg",
+      "path": "uploads/2026/08/ac61f38b.jpg",
+      "size": 1139094,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "513cf12cedc95bc6c22a32afd2cc218a180471d068a7b450f3c5f81cbaf39a58",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T17:02:39.532Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "odette",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "オデット",
+        "pr",
+        "NowSnezhnaya",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148350727_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148350727",
+      "sourceCreatedAt": "2026-08-12T15:00:23.000Z"
+    },
+    {
       "id": "e4836a8e",
       "filename": "pixiv_148316940_p0.jpg",
       "path": "uploads/2026/08/73a6036f.jpg",
