@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "e66661a0",
+      "filename": "pixiv_148350730_p0.jpg",
+      "path": "uploads/2026/08/5bde450a.jpg",
+      "size": 666379,
+      "width": 791,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "35f202fc1d3a6ce50cb771167a40af38a3652e3c138a71e14efe3cb08f5f814c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T09:20:41.641Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "すいま。",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148350730_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148350730",
+      "sourceCreatedAt": "2026-08-12T15:00:02.000Z"
+    },
+    {
       "id": "d2d8096a",
       "filename": "pixiv_148325572_p0.jpg",
       "path": "uploads/2026/08/48a9c69f.jpg",
