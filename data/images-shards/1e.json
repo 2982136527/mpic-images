@@ -3,6 +3,33 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "d7da0123",
+      "filename": "pixiv_148350831_p0.jpg",
+      "path": "uploads/2026/08/6f9e7e94.jpg",
+      "size": 814121,
+      "width": 1143,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "21a840da76fbc00ae4ac2838f2ed1eb8bbf3fd02cabd69dc3cc8cb2bec29b8e3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T09:16:27.635Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "シオン",
+      "tags": [
+        "シオン",
+        "overwatch",
+        "オーバーウォッチ",
+        "shion",
+        "死怨",
+        "overwatch1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148350831_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148350831",
+      "sourceCreatedAt": "2026-08-12T15:00:16.000Z"
+    },
+    {
       "id": "efabc078",
       "filename": "pixiv_148355033_p0.jpg",
       "path": "uploads/2026/08/6882f673.jpg",
