@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "6deb8ffe",
+      "filename": "pixiv_148314471_p0.jpg",
+      "path": "uploads/2026/08/a9e26124.jpg",
+      "size": 304374,
+      "width": 1075,
+      "height": 1075,
+      "mimeType": "image/jpeg",
+      "hash": "338384dfd8e8e37e44dd13e88566647b8a2681fb0991574ae003d6618ff8f090",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T02:42:43.626Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "鬼滅ログ②",
+      "tags": [
+        "腐滅の刃",
+        "さねぎゆ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148314471_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148314471",
+      "sourceCreatedAt": "2026-08-11T16:25:55.000Z"
+    },
+    {
       "id": "38d4561c",
       "filename": "pixiv_148312203_p0.jpg",
       "path": "uploads/2026/08/c81f0a43.jpg",
