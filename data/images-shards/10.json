@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "a90cd615",
+      "filename": "pixiv_148335149_p0.jpg",
+      "path": "uploads/2026/08/fb13bf4b.jpg",
+      "size": 1515575,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "67f4171bbffaa2852af434caa798b8ae26adc2206dd0654a1093af472792c94d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T17:04:24.765Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108お品書き",
+      "tags": [
+        "オリジナル",
+        "こまき日記",
+        "VTuber",
+        "C108",
+        "お品書き",
+        "コミックマーケケット108"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148335149_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148335149",
+      "sourceCreatedAt": "2026-08-12T08:55:48.000Z"
+    },
+    {
       "id": "62f47aa1",
       "filename": "pixiv_148370507_p0.jpg",
       "path": "uploads/2026/08/0292ac2d.jpg",
