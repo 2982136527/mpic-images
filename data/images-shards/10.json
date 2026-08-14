@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "62f47aa1",
+      "filename": "pixiv_148370507_p0.jpg",
+      "path": "uploads/2026/08/0292ac2d.jpg",
+      "size": 645210,
+      "width": 602,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "a65313bb59cda95f17e60e1883114c0bebef4d7813ef0254b68baa53d3359409",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T09:21:45.058Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【C108】名探偵プリキュア新刊サンプル",
+      "tags": [
+        "百合",
+        "漫画",
+        "プリキュア",
+        "名探偵プリキュア!",
+        "森亜るるか",
+        "帆羽くれあ",
+        "くれるる",
+        "C108",
+        "アルエク(プリキュア)",
+        "るるくれ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148370507_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148370507",
+      "sourceCreatedAt": "2026-08-13T06:00:27.000Z"
+    },
+    {
       "id": "632762b4",
       "filename": "pixiv_148345773_p0.jpg",
       "path": "uploads/2026/08/f0997722.jpg",
