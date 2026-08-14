@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "60e17afb",
+      "filename": "pixiv_148384139_p0.jpg",
+      "path": "uploads/2026/08/8315da5e.jpg",
+      "size": 1199539,
+      "width": 667,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a2e156e3be45c3f34b134a42a87c78d403612c05ad43805f482158b007ab2cca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T17:04:55.118Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "オデット",
+      "tags": [
+        "原神",
+        "オデット(原神)",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148384139_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148384139",
+      "sourceCreatedAt": "2026-08-13T12:32:25.000Z"
+    },
+    {
       "id": "ad9c4709",
       "filename": "pixiv_148335409_p0.jpg",
       "path": "uploads/2026/08/1ab07649.jpg",
