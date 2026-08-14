@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "4996fcc9",
+      "filename": "pixiv_148334875_p0.jpg",
+      "path": "uploads/2026/08/1f97ca44.jpg",
+      "size": 1006084,
+      "width": 897,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "06848c586f57a78130cf1ce95ab6f39988f946fd2d223813f9baaa9b0322328a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T02:40:15.388Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "金虎",
+      "tags": [
+        "ゼンゼロ",
+        "橘福福",
+        "葉瞬光",
+        "ゴールドタイガー",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148334875_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148334875",
+      "sourceCreatedAt": "2026-08-12T08:45:13.000Z"
+    },
+    {
       "id": "da18121f",
       "filename": "pixiv_148334049_p0.jpg",
       "path": "uploads/2026/08/5739c87e.jpg",
