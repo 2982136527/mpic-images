@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "b9f28a02",
+      "filename": "pixiv_148361115_p0.jpg",
+      "path": "uploads/2026/08/76ac8551.jpg",
+      "size": 875606,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "1408607d33ff8cf933cf645648528e87ff7e202ed33d9e2481c7ec5849f5c788",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T17:06:26.822Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "奪",
+      "tags": [
+        "女の子",
+        "カゲプロ",
+        "カゲロウプロジェクト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148361115_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148361115",
+      "sourceCreatedAt": "2026-08-12T22:59:12.000Z"
+    },
+    {
       "id": "99dbcc4b",
       "filename": "pixiv_148361851_p0.jpg",
       "path": "uploads/2026/08/614736bb.jpg",
