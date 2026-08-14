@@ -3,6 +3,35 @@
   "shardId": "18",
   "images": [
     {
+      "id": "42bb250b",
+      "filename": "pixiv_148378851_p0.jpg",
+      "path": "uploads/2026/08/5ae2e082.jpg",
+      "size": 1365279,
+      "width": 972,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2fac778e82edd06d4b6891d14348ecfbef8ad658722f1a7ea37e8fc01a48275d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-14T09:15:24.058Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏のウマトレ♀まとめ(ステトレ♀/オルトレ♀/ジャニトレ♀)",
+      "tags": [
+        "ウマ娘",
+        "ウマトレ♀",
+        "ステトレ♀",
+        "オルトレ♀",
+        "ジャニトレ♀",
+        "女トレーナー(ウマ娘)",
+        "百合",
+        "ウマ娘プリティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148378851_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148378851",
+      "sourceCreatedAt": "2026-08-13T10:35:31.000Z"
+    },
+    {
       "id": "b82e8a2f",
       "filename": "pixiv_148298917_p0.jpg",
       "path": "uploads/2026/08/04d280c1.jpg",
