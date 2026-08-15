@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "dd02192d",
+      "filename": "pixiv_148360131_p0.jpg",
+      "path": "uploads/2026/08/60294e7b.jpg",
+      "size": 1174138,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "932eaa4d48d02ecce69ef7fbc2357efcbb33468d6713017eaa383bce924a3836",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:39:50.311Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108 お品書き",
+      "tags": [
+        "C108",
+        "お品書き"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148360131_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148360131",
+      "sourceCreatedAt": "2026-08-12T22:00:09.000Z"
+    },
+    {
       "id": "a179b2d3",
       "filename": "pixiv_148154221_p0.jpg",
       "path": "uploads/2026/08/bd83aebe.jpg",
