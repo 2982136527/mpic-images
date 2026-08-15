@@ -3,6 +3,33 @@
   "shardId": "04",
   "images": [
     {
+      "id": "aeffbf71",
+      "filename": "pixiv_148391840_p0.jpg",
+      "path": "uploads/2026/08/69ef67ab.jpg",
+      "size": 318608,
+      "width": 502,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "4f4b98786440b32feb502ac9ea5cf138dbbb710010d0ac2f851104a8dbed9945",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:44:24.556Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バニーミカ",
+      "tags": [
+        "ブルーアーカイブ",
+        "聖園ミカ",
+        "ブルアカ",
+        "BlueArchive",
+        "バニーガール",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148391840_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148391840",
+      "sourceCreatedAt": "2026-08-13T15:10:05.000Z"
+    },
+    {
       "id": "545365ad",
       "filename": "pixiv_148350863_p0.jpg",
       "path": "uploads/2026/08/32a26ccd.jpg",
