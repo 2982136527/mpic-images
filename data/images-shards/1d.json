@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "c0fd9dfb",
+      "filename": "pixiv_148379800_p0.jpg",
+      "path": "uploads/2026/08/48372a7b.jpg",
+      "size": 1429577,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ad8ae2f57ce8b3220010d815b128bb699f93ea2ed61950814fe91a8a56a9356c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T16:40:05.025Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "SLIME EVOLUTION",
+      "tags": [
+        "webnovel"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148379800_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148379800",
+      "sourceCreatedAt": "2026-08-13T11:00:21.000Z"
+    },
+    {
       "id": "431c15c2",
       "filename": "pixiv_148415570_p0.jpg",
       "path": "uploads/2026/08/ce0cdbaa.jpg",
