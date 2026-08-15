@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "93884ab2",
+      "filename": "pixiv_148318910_p0.jpg",
+      "path": "uploads/2026/08/dbeafb14.jpg",
+      "size": 638370,
+      "width": 790,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "827930b0704f441337396b251dc0ab373080391240d9f6f4e17c69bbb69dfb80",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T01:51:59.070Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "KFCコラボ",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "アグネスタキオン(ウマ娘)",
+        "ケンタッキーフライドチキン",
+        "ウマ娘のウマウマ!ケンタッキー!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148318910_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148318910",
+      "sourceCreatedAt": "2026-08-11T20:28:04.000Z"
+    },
+    {
       "id": "f4fed632",
       "filename": "pixiv_148376985_p0.jpg",
       "path": "uploads/2026/08/75ccc38f.jpg",
