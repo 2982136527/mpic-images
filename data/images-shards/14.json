@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "097f83df",
+      "filename": "pixiv_148355615_p0.jpg",
+      "path": "uploads/2026/08/d7e70c0f.jpg",
+      "size": 1036941,
+      "width": 875,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f528b0543af1248cbbb7be6e4778effb77d63a483cf9da28c9cb1da847e8ca74",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T01:45:58.165Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "レイダース絵",
+      "tags": [
+        "R-15",
+        "メカニック(Splatoon)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148355615_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148355615",
+      "sourceCreatedAt": "2026-08-12T17:08:04.000Z"
+    },
+    {
       "id": "ccaeacf7",
       "filename": "pixiv_148352987_p0.jpg",
       "path": "uploads/2026/08/41bfd7e4.jpg",
