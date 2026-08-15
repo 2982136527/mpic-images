@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "1a863e7e",
+      "filename": "pixiv_148420820_p0.jpg",
+      "path": "uploads/2026/08/7ba68044.jpg",
+      "size": 887600,
+      "width": 1200,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "61c8f4f2dfbe3bc606e6d01afd8d332817724feaaf150832e7348bad7fdc2137",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:46:21.852Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "NIKKExペルソナ",
+      "tags": [
+        "NIKKE",
+        "ペルソナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148420820_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148420820",
+      "sourceCreatedAt": "2026-08-14T11:00:15.000Z"
+    },
+    {
       "id": "b69bb76d",
       "filename": "pixiv_148407314_p0.jpg",
       "path": "uploads/2026/08/dbacaef0.jpg",
