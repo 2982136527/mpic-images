@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "95262c64",
+      "filename": "pixiv_148392408_p0.jpg",
+      "path": "uploads/2026/08/63adce50.jpg",
+      "size": 541898,
+      "width": 985,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c596e3b5740aec69ed7a637abb8a3f032bed13238024cce82f814e45db64e356",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:40:03.338Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "HEART",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148392408_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148392408",
+      "sourceCreatedAt": "2026-08-13T15:23:55.000Z"
+    },
+    {
       "id": "2296b9ca",
       "filename": "pixiv_148333955_p0.jpg",
       "path": "uploads/2026/08/1c1c7802.jpg",
