@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "f1e35b4a",
+      "filename": "pixiv_148350851_p0.jpg",
+      "path": "uploads/2026/08/4f180b8d.jpg",
+      "size": 722629,
+      "width": 694,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f9be38d1cddea64013c2c0a96573656535c39d53a210c8aec0bb5a05fc0f1e6a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T01:45:29.276Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "べー",
+      "tags": [
+        "女の子",
+        "白髪",
+        "オリジナル",
+        "看護師"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148350851_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148350851",
+      "sourceCreatedAt": "2026-08-12T15:00:19.000Z"
+    },
+    {
       "id": "298b46eb",
       "filename": "pixiv_148375547_p0.jpg",
       "path": "uploads/2026/08/6c48ecd7.jpg",
