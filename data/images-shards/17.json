@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "213fd616",
+      "filename": "pixiv_148371199_p0.jpg",
+      "path": "uploads/2026/08/cea03176.jpg",
+      "size": 1251473,
+      "width": 808,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d710688fa5da310afeccfacd046cec2740729da6b8b33e764b896fc8ad61c02e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T01:46:50.595Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "アークナイツ",
+        "明日方舟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148371199_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148371199",
+      "sourceCreatedAt": "2026-08-13T06:33:33.000Z"
+    },
+    {
       "id": "4548fe3b",
       "filename": "pixiv_148375520_p0.jpg",
       "path": "uploads/2026/08/fcbd49dc.jpg",
