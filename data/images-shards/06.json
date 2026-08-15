@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "cccc5a4f",
+      "filename": "pixiv_148382494_p0.jpg",
+      "path": "uploads/2026/08/deb9dd12.jpg",
+      "size": 955229,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "60ce2ab7b22e20297eef5e34d638488f4f8752c1ba02132b1413f5a033e3bf6a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T01:46:34.555Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リンバスまとめその2",
+      "tags": [
+        "LimbusCompany",
+        "Limbus_Company"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148382494_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148382494",
+      "sourceCreatedAt": "2026-08-13T12:00:21.000Z"
+    },
+    {
       "id": "6d8a4f7b",
       "filename": "pixiv_148314948_p0.jpg",
       "path": "uploads/2026/08/c697bb0e.jpg",
