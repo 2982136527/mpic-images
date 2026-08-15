@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "9518eb24",
+      "filename": "pixiv_148414195_p0.jpg",
+      "path": "uploads/2026/08/1caf1ca4.jpg",
+      "size": 505309,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "47a9dec6f9aea17f43c48c16886b126337fbe8529f9f44b6317f713ed6a22e3b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T16:36:01.755Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "七瀬すず菜",
+      "tags": [
+        "にじさんじ",
+        "七瀬すず菜",
+        "バーチャルYouTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148414195_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148414195",
+      "sourceCreatedAt": "2026-08-14T08:00:09.000Z"
+    },
+    {
       "id": "65d1e716",
       "filename": "pixiv_148421565_p0.jpg",
       "path": "uploads/2026/08/9ce64ed3.jpg",
