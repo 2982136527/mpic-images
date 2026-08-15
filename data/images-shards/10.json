@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "a179b2d3",
+      "filename": "pixiv_148154221_p0.jpg",
+      "path": "uploads/2026/08/bd83aebe.jpg",
+      "size": 913055,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "688660ea9f888fd0f8a4a4640e32a20fceb2ede9298e7bfcdf442df092d0cca3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T01:52:58.529Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "びっくりサンドローネ",
+      "tags": [
+        "女の子",
+        "原神",
+        "GenshinImpact",
+        "Sandrone",
+        "サンドローネ(原神)",
+        "コロサン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148154221_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148154221",
+      "sourceCreatedAt": "2026-08-08T01:25:33.000Z"
+    },
+    {
       "id": "5a568486",
       "filename": "pixiv_148388300_p0.jpg",
       "path": "uploads/2026/08/b4f40148.jpg",
