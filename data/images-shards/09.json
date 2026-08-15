@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "64fc1854",
+      "filename": "pixiv_148428871_p0.jpg",
+      "path": "uploads/2026/08/0c6da785.jpg",
+      "size": 1264611,
+      "width": 1200,
+      "height": 1166,
+      "mimeType": "image/jpeg",
+      "hash": "8c5e7b95b82c3d809c1136a2a7237984d649a1a2676efed60bc76a6bf19dd425",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:40:18.283Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "新時代の麒麟児共",
+      "tags": [
+        "にじさんじ甲子園2026",
+        "麒麟高校",
+        "優勝おめでとう"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148428871_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148428871",
+      "sourceCreatedAt": "2026-08-14T13:48:31.000Z"
+    },
+    {
       "id": "2db2fd36",
       "filename": "pixiv_148400709_p0.jpg",
       "path": "uploads/2026/08/b724710a.jpg",
