@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "4491fcd2",
+      "filename": "pixiv_148406014_p0.jpg",
+      "path": "uploads/2026/08/388af1a5.jpg",
+      "size": 907010,
+      "width": 927,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f5426720e37c78b69ef404ce6db1aa6823f20968ffe975b93e34613d10be17ec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:42:44.734Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "LimbusCompany: イシュメールおたおめ絵",
+      "tags": [
+        "LimbusCompany",
+        "Limbus_Company",
+        "イシュメール(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148406014_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148406014",
+      "sourceCreatedAt": "2026-08-14T02:44:46.000Z"
+    },
+    {
       "id": "3a09a727",
       "filename": "pixiv_148378005_p0.jpg",
       "path": "uploads/2026/08/62d42116.jpg",
