@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "677bd0e6",
+      "filename": "pixiv_148412407_p0.jpg",
+      "path": "uploads/2026/08/cd546c15.jpg",
+      "size": 629748,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "528bf6838975483228fda16211899fa5dfac214fb2496130ea8b6e149ec5f15d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T16:39:26.077Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "古明地こいし",
+        "東方",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148412407_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148412407",
+      "sourceCreatedAt": "2026-08-14T06:57:54.000Z"
+    },
+    {
       "id": "71049d73",
       "filename": "pixiv_148368060_p0.jpg",
       "path": "uploads/2026/08/61c6f7b3.jpg",
