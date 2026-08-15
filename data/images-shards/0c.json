@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "f8467e3a",
+      "filename": "pixiv_148355727_p0.jpg",
+      "path": "uploads/2026/08/5883b3ac.jpg",
+      "size": 308018,
+      "width": 558,
+      "height": 582,
+      "mimeType": "image/jpeg",
+      "hash": "948c20f5bf4a2fc7defb925a88020c08e43ce8e96d6dd126f0e14c6858beb5d2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:40:40.471Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "MIKU MIKU BEAM！",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148355727_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148355727",
+      "sourceCreatedAt": "2026-08-12T17:12:09.000Z"
+    },
+    {
       "id": "2fd6658a",
       "filename": "pixiv_148371458_p0.jpg",
       "path": "uploads/2026/08/822ad789.jpg",
