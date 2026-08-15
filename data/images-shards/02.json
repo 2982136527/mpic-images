@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "459f3e38",
+      "filename": "pixiv_148377839_p0.jpg",
+      "path": "uploads/2026/08/5f619bda.jpg",
+      "size": 1543187,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "110e6ddf0a760a8d44761f3c6f1efa2d2b504524a65e84d53f0cc53089d00a3c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T16:35:26.464Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "奥黛塔",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "奥黛塔",
+        "オデット",
+        "オデット(原神)",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148377839_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148377839",
+      "sourceCreatedAt": "2026-08-13T10:06:16.000Z"
+    },
+    {
       "id": "1105d9ca",
       "filename": "pixiv_148377323_p0.jpg",
       "path": "uploads/2026/08/c50e6c68.jpg",
