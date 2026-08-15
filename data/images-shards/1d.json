@@ -3,6 +3,37 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "431c15c2",
+      "filename": "pixiv_148415570_p0.jpg",
+      "path": "uploads/2026/08/ce0cdbaa.jpg",
+      "size": 384053,
+      "width": 862,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "65745d92c84daa7eff3725fcbd88b44d0775a904741fb7ff28f93c1902d6ba1e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:45:11.110Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "マルチタスク推奨",
+      "tags": [
+        "オリジナル",
+        "狛神みこと",
+        "妖怪はんなり",
+        "ガンギマリ",
+        "屍人",
+        "お前は何を言っているんだ",
+        "夫婦の営みを片手間に",
+        "だめだこいつ早く何とかしないと",
+        "どうしてこんなになるまで放っておいたんだ",
+        "マルチタスク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148415570_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148415570",
+      "sourceCreatedAt": "2026-08-14T08:45:17.000Z"
+    },
+    {
       "id": "af262ff7",
       "filename": "pixiv_148367155_p0.jpg",
       "path": "uploads/2026/08/326c3bfa.jpg",
