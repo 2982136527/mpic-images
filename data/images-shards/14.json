@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "221001fb",
+      "filename": "pixiv_148401626_p0.jpg",
+      "path": "uploads/2026/08/9f032214.jpg",
+      "size": 836506,
+      "width": 1200,
+      "height": 945,
+      "mimeType": "image/jpeg",
+      "hash": "3a4759a7f24535fbf5a22f131f6e4746a86eb40e80e1fc9608984077c2d0b10e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T16:44:57.154Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ジプカラ漫画まとめ",
+      "tags": [
+        "pkmn腐",
+        "ジプカラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148401626_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148401626",
+      "sourceCreatedAt": "2026-08-13T23:16:57.000Z"
+    },
+    {
       "id": "37724a90",
       "filename": "pixiv_148428638_p0.jpg",
       "path": "uploads/2026/08/4b60c13d.jpg",
