@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "2db2fd36",
+      "filename": "pixiv_148400709_p0.jpg",
+      "path": "uploads/2026/08/b724710a.jpg",
+      "size": 1174602,
+      "width": 859,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "044b2cecf770626c4c0c62e51a822c14fb271960ff19341a368eaa416423b200",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:39:38.362Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "漠然とした不安しかない",
+      "tags": [
+        "創作",
+        "心象",
+        "不安"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148400709_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148400709",
+      "sourceCreatedAt": "2026-08-13T22:30:04.000Z"
+    },
+    {
       "id": "bd3a4802",
       "filename": "pixiv_148362370_p0.jpg",
       "path": "uploads/2026/08/57ce4778.jpg",
