@@ -3,6 +3,37 @@
   "shardId": "07",
   "images": [
     {
+      "id": "bf584b15",
+      "filename": "pixiv_148323813_p0.jpg",
+      "path": "uploads/2026/08/514979d4.jpg",
+      "size": 1188501,
+      "width": 1200,
+      "height": 950,
+      "mimeType": "image/jpeg",
+      "hash": "ba7096d08150713be11e4d3d71ff9d1143bee62fafdd2503c8a99058d088af41",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T01:45:22.612Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ポケトレ５ 【バトルカットイン】",
+      "tags": [
+        "ポケモン",
+        "ポケモン人間絵",
+        "リーリエ",
+        "リーリエ(ポケモン)",
+        "リーリエ(トレーナー)",
+        "バトルシャトレーヌ",
+        "ルミタン",
+        "ラジュルネ",
+        "ルスワール",
+        "ラニュイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148323813_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148323813",
+      "sourceCreatedAt": "2026-08-12T01:14:53.000Z"
+    },
+    {
       "id": "440fcd7e",
       "filename": "pixiv_148363104_p0.jpg",
       "path": "uploads/2026/08/d8667d1c.jpg",
