@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "5eaed191",
+      "filename": "pixiv_148378304_p0.jpg",
+      "path": "uploads/2026/08/d45b6558.jpg",
+      "size": 1149309,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0dd92a397aae3a55878a9361ad9dab06e5d6138b141da7dbfe62deb5f546f6e6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T01:45:35.327Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ミカくんだらけの原神まとめ6",
+      "tags": [
+        "ミカ(原神)",
+        "原神",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148378304_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148378304",
+      "sourceCreatedAt": "2026-08-13T10:20:09.000Z"
+    },
+    {
       "id": "650fe870",
       "filename": "pixiv_148311431_p0.jpg",
       "path": "uploads/2026/08/c96fd47d.jpg",
