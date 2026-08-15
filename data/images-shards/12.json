@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "e3d89f17",
+      "filename": "pixiv_148418361_p0.jpg",
+      "path": "uploads/2026/08/050f7b53.jpg",
+      "size": 780906,
+      "width": 695,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "210d2bd9dba9605c0405009514e62f784cd0c7d2cb27d32caf6078994d4895a7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T16:38:23.309Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Let's go!!",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148418361_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148418361",
+      "sourceCreatedAt": "2026-08-14T10:00:13.000Z"
+    },
+    {
       "id": "60917966",
       "filename": "pixiv_148413390_p0.jpg",
       "path": "uploads/2026/08/f9a0eab0.jpg",
