@@ -3,6 +3,35 @@
   "shardId": "11",
   "images": [
     {
+      "id": "ec3d89dc",
+      "filename": "pixiv_148406241_p0.jpg",
+      "path": "uploads/2026/08/a19ae5b3.jpg",
+      "size": 729508,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e712b1cc41de9e4c08fbd8ee5f9b496ea2a0fea80d1635b9c2df3087e7f2e74d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:43:13.779Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "わたなれ６",
+      "tags": [
+        "わたしが恋人になれるわけないじゃん、ムリムリ!",
+        "わたなれ",
+        "百合",
+        "甘織れな子",
+        "琴紗月",
+        "王塚真唯",
+        "小柳香穂",
+        "瀬名紫陽花"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148406241_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148406241",
+      "sourceCreatedAt": "2026-08-14T02:54:22.000Z"
+    },
+    {
       "id": "ac8780eb",
       "filename": "pixiv_148388047_p0.jpg",
       "path": "uploads/2026/08/09bc1462.jpg",
