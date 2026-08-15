@@ -3,6 +3,28 @@
   "shardId": "03",
   "images": [
     {
+      "id": "7baebfd0",
+      "filename": "pixiv_148407173_p0.jpg",
+      "path": "uploads/2026/08/6056433e.jpg",
+      "size": 1114261,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4fb5c93787ecab87bc70e1efff3e305c4ffc2261609664a54ef30e9d45a1d681",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:45:17.333Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108 夏コミ新刊1",
+      "tags": [
+        "キリユジ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148407173_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148407173",
+      "sourceCreatedAt": "2026-08-14T03:23:44.000Z"
+    },
+    {
       "id": "4491fcd2",
       "filename": "pixiv_148406014_p0.jpg",
       "path": "uploads/2026/08/388af1a5.jpg",
