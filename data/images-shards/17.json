@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "045272bd",
+      "filename": "pixiv_148412393_p0.jpg",
+      "path": "uploads/2026/08/43e35350.jpg",
+      "size": 546693,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ac4bf7607d1db5f299cc9ebbacd168c20c1bfdafb90404cf965a1e4775794451",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:45:32.007Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "八雲紫",
+        "東方",
+        "東方Project",
+        "ゆかぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148412393_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148412393",
+      "sourceCreatedAt": "2026-08-14T06:57:18.000Z"
+    },
+    {
       "id": "820cb714",
       "filename": "pixiv_148410622_p0.jpg",
       "path": "uploads/2026/08/d9045ed9.jpg",
