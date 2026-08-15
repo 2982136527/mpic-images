@@ -3,6 +3,28 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "1109537c",
+      "filename": "pixiv_148405350_p0.jpg",
+      "path": "uploads/2026/08/32f39516.jpg",
+      "size": 501203,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "cfc3722b3a6d43316f6dcc89372baf4f9a7752d28f63c5a57a55f9e41c4a853b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:42:11.332Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "sobering",
+      "tags": [
+        "エプロン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148405350_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148405350",
+      "sourceCreatedAt": "2026-08-14T08:44:06.000Z"
+    },
+    {
       "id": "4850e418",
       "filename": "pixiv_148312133_p0.jpg",
       "path": "uploads/2026/08/53411a67.jpg",
