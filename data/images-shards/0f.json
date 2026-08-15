@@ -3,6 +3,33 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "d5af5c8d",
+      "filename": "pixiv_148390992_p0.jpg",
+      "path": "uploads/2026/08/181b912c.jpg",
+      "size": 1204839,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "5764b2c67897dff561272c5ee9f73b1989ef731e0a72f3b02d65274ffbc43e4c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:46:15.817Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Summer Lo-Fi",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "背景",
+        "夏",
+        "麦茶",
+        "スイカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148390992_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148390992",
+      "sourceCreatedAt": "2026-08-14T16:13:09.000Z"
+    },
+    {
       "id": "344bf488",
       "filename": "pixiv_148363075_p0.jpg",
       "path": "uploads/2026/08/9b8ea7ad.jpg",
