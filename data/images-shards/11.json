@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "ac8780eb",
+      "filename": "pixiv_148388047_p0.jpg",
+      "path": "uploads/2026/08/09bc1462.jpg",
+      "size": 1413573,
+      "width": 1200,
+      "height": 792,
+      "mimeType": "image/jpeg",
+      "hash": "6531e0227b4d3a1a1dee96da349f079e623ab55a9bc07f17736b0b4fc56d2c83",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:42:38.740Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "楽しい線画",
+      "tags": [
+        "背景",
+        "風景",
+        "オリジナル",
+        "アナログ",
+        "風景画",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148388047_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148388047",
+      "sourceCreatedAt": "2026-08-13T13:59:28.000Z"
+    },
+    {
       "id": "e242bdcd",
       "filename": "pixiv_148368161_p0.jpg",
       "path": "uploads/2026/08/543f119c.jpg",
