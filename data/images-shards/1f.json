@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "792e13f9",
+      "filename": "pixiv_148422667_p0.jpg",
+      "path": "uploads/2026/08/4814a75e.jpg",
+      "size": 908653,
+      "width": 909,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7c1a0db9e02cd7ba8d0c9f24b97abc3c866e5d1418eaa921ae41b977618d5776",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T16:37:06.178Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "風呂場が使えん",
+      "tags": [
+        "オリジナル",
+        "イラスト",
+        "創作",
+        "異形"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148422667_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148422667",
+      "sourceCreatedAt": "2026-08-14T11:37:04.000Z"
+    },
+    {
       "id": "45430423",
       "filename": "pixiv_148407776_p0.jpg",
       "path": "uploads/2026/08/2244e81e.jpg",
