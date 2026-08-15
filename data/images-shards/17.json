@@ -3,6 +3,32 @@
   "shardId": "17",
   "images": [
     {
+      "id": "bcf719d6",
+      "filename": "pixiv_148390964_p0.jpg",
+      "path": "uploads/2026/08/992bcd98.jpg",
+      "size": 1081789,
+      "width": 1200,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "6c8d8d7083a677c75acd91604378c3b9471714f7088436e9e54f3156e99cc25f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T16:37:22.364Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "爽静の空",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "風景",
+        "空",
+        "雲"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148390964_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148390964",
+      "sourceCreatedAt": "2026-08-13T15:00:22.000Z"
+    },
+    {
       "id": "684993b2",
       "filename": "pixiv_148391392_p0.jpg",
       "path": "uploads/2026/08/fec78831.jpg",
