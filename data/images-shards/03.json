@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "3a09a727",
+      "filename": "pixiv_148378005_p0.jpg",
+      "path": "uploads/2026/08/62d42116.jpg",
+      "size": 296899,
+      "width": 567,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "542f38c8d309abbd48978b8ff02e0037b10229b58671e042f3ca418a0dbffc61",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T01:46:26.362Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "るんっ",
+      "tags": [
+        "アクアリウムは踊らない",
+        "ヒカル",
+        "るんるん",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148378005_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148378005",
+      "sourceCreatedAt": "2026-08-13T10:11:14.000Z"
+    },
+    {
       "id": "9a63f642",
       "filename": "pixiv_148333031_p0.jpg",
       "path": "uploads/2026/08/48d18676.jpg",
