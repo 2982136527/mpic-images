@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "65d1e716",
+      "filename": "pixiv_148421565_p0.jpg",
+      "path": "uploads/2026/08/9ce64ed3.jpg",
+      "size": 793584,
+      "width": 864,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "41b630aa342a813f140bcff39209ef8bc8a683e0ae856100e014565780c5b29c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:49:23.607Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "俺妹パロ",
+      "tags": [
+        "原神",
+        "ミティバレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148421565_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148421565",
+      "sourceCreatedAt": "2026-08-14T11:12:32.000Z"
+    },
+    {
       "id": "40c95cc0",
       "filename": "pixiv_148384197_p0.jpg",
       "path": "uploads/2026/08/d9f8b8e7.jpg",
