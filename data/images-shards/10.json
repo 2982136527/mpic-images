@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "5a568486",
+      "filename": "pixiv_148388300_p0.jpg",
+      "path": "uploads/2026/08/b4f40148.jpg",
+      "size": 529561,
+      "width": 1200,
+      "height": 903,
+      "mimeType": "image/jpeg",
+      "hash": "82a7d21d8c00e8cbec794f33214cbc0f3c873b880ede1771c615e8ef482a6f28",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T01:51:16.527Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ごちゃまぜ",
+      "tags": [
+        "忍玉-腐",
+        "摂津のきり丸",
+        "鶴町伏木蔵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148388300_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148388300",
+      "sourceCreatedAt": "2026-08-13T14:03:11.000Z"
+    },
+    {
       "id": "7e865029",
       "filename": "pixiv_148327348_p0.jpg",
       "path": "uploads/2026/08/e49663c7.jpg",
