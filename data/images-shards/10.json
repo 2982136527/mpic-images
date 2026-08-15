@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "7cffd475",
+      "filename": "pixiv_148426388_p0.jpg",
+      "path": "uploads/2026/08/2df3a1e2.jpg",
+      "size": 1456728,
+      "width": 801,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "82ff8544c0fd2b776e6b6a77c79853d33f04fb816cd910730c6ce794d4a52b8f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T16:35:14.678Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "マジミラ2026",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "マジカルミライ2026"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148426388_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148426388",
+      "sourceCreatedAt": "2026-08-14T12:54:17.000Z"
+    },
+    {
       "id": "dd02192d",
       "filename": "pixiv_148360131_p0.jpg",
       "path": "uploads/2026/08/60294e7b.jpg",
