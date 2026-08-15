@@ -3,6 +3,37 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "8707edfc",
+      "filename": "pixiv_148182934_p0.jpg",
+      "path": "uploads/2026/08/2b41a6f4.jpg",
+      "size": 1181317,
+      "width": 904,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "56862049f041a8886048c2ea2641a437d37cc22fa03bffe480127d2c9db4bfd0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T08:47:28.707Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "シグリッド",
+      "tags": [
+        "シグリッド・ドゥ・ラズール",
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "zzzero",
+        "绝区零",
+        "前かがみ",
+        "サンダル",
+        "ゼンゼロ5000users入り",
+        "金髪",
+        "ポニーテール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148182934_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148182934",
+      "sourceCreatedAt": "2026-08-08T15:00:16.000Z"
+    },
+    {
       "id": "05432cfb",
       "filename": "pixiv_148420334_p0.jpg",
       "path": "uploads/2026/08/826e16d5.jpg",
