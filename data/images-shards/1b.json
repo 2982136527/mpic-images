@@ -3,6 +3,36 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "4850e418",
+      "filename": "pixiv_148312133_p0.jpg",
+      "path": "uploads/2026/08/53411a67.jpg",
+      "size": 693023,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "1c79b861a410e29be177c85a87a1553a3f3f7bf0cc62a8c8157d8e1a5eca3bd2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T01:51:25.426Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ユズのバースデーパーティ",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "ユズ",
+        "モモイ",
+        "ミドリ",
+        "アリス",
+        "ケイ",
+        "ゲーム開発部",
+        "花岡ユズ/才羽モモイ/才羽ミドリ/天童アリス/天童ケイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148312133_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148312133",
+      "sourceCreatedAt": "2026-08-11T15:23:32.000Z"
+    },
+    {
       "id": "ebe39ad9",
       "filename": "pixiv_148333853_p0.jpg",
       "path": "uploads/2026/08/12db59a0.jpg",
