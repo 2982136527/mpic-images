@@ -3,6 +3,34 @@
   "shardId": "07",
   "images": [
     {
+      "id": "1cf0a222",
+      "filename": "pixiv_148365161_p0.jpg",
+      "path": "uploads/2026/08/8babc817.jpg",
+      "size": 827260,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8c76a99dd85a46dee43d1f79a91fc8db8411b22ea13f79efb55941c30a0e2046",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T16:40:45.514Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Silly cat!",
+      "tags": [
+        "WutheringWaves",
+        "wuwa",
+        "suisui",
+        "女の子",
+        "鳴潮",
+        "穂穂",
+        "鸣潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148365161_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148365161",
+      "sourceCreatedAt": "2026-08-13T02:23:14.000Z"
+    },
+    {
       "id": "ccc6f9aa",
       "filename": "pixiv_148366040_p0.jpg",
       "path": "uploads/2026/08/3cfbc5e2.jpg",
