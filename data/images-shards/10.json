@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "005d5805",
+      "filename": "pixiv_148360826_p0.jpg",
+      "path": "uploads/2026/08/ab05582b.jpg",
+      "size": 778385,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a81d718734d42675dafd715029bb8a029defd8ebebb3f91873df6a43b214ee02",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T16:44:42.646Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ナッちゃん🌺",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "カルデア南海大決戦!",
+        "ナッちゃん",
+        "キジムナー(Fate)",
+        "Fate/GO100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148360826_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148360826",
+      "sourceCreatedAt": "2026-08-12T22:40:11.000Z"
+    },
+    {
       "id": "06eea2bb",
       "filename": "pixiv_148395001_p0.jpg",
       "path": "uploads/2026/08/852036dc.jpg",
