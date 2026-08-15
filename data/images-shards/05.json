@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "e272baaa",
+      "filename": "pixiv_148351569_p0.jpg",
+      "path": "uploads/2026/08/9d378d6d.jpg",
+      "size": 904303,
+      "width": 1200,
+      "height": 613,
+      "mimeType": "image/jpeg",
+      "hash": "6c6ce3b26e9913efb03f3365c161ad3ea5608d3ae63159aa2598a0c0c9b034d2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T16:35:47.677Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "探偵×レッドローズ",
+      "tags": [
+        "女の子",
+        "白銀の城",
+        "SilverPalace"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148351569_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148351569",
+      "sourceCreatedAt": "2026-08-12T15:08:11.000Z"
+    },
+    {
       "id": "e18411b2",
       "filename": "pixiv_148427610_p0.jpg",
       "path": "uploads/2026/08/f700e835.jpg",
