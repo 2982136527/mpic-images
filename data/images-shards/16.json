@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "cfda5b74",
+      "filename": "pixiv_148185693_p0.jpg",
+      "path": "uploads/2026/08/33ab0c07.jpg",
+      "size": 570244,
+      "width": 1200,
+      "height": 672,
+      "mimeType": "image/jpeg",
+      "hash": "447b09667e812b75a25643c0219a4ada2ca13385a22ed2cb0a6b7885bb119955",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T16:42:53.025Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Flower",
+      "tags": [
+        "巡音ルカ",
+        "鏡音レン",
+        "鏡音リン",
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148185693_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148185693",
+      "sourceCreatedAt": "2026-08-08T15:55:24.000Z"
+    },
+    {
       "id": "cbe893e4",
       "filename": "pixiv_148326612_p0.jpg",
       "path": "uploads/2026/08/76049f64.jpg",
