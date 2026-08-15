@@ -3,6 +3,37 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "925d2105",
+      "filename": "pixiv_148326387_p0.jpg",
+      "path": "uploads/2026/08/310bca26.jpg",
+      "size": 1521169,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4e6c25ec0b58ca02f9c6181737f5c2b102b5af7721b0890e73bce66d2c46b949",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-15T01:49:11.209Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Snezhnaya is here!",
+      "tags": [
+        "GenshinImpact",
+        "NowSnezhnaya",
+        "lumine",
+        "paimon",
+        "原神",
+        "スネージナヤ",
+        "ほたる",
+        "パイモン",
+        "アナスターシャ・フョードロヴナ・スネージナヤ",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148326387_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148326387",
+      "sourceCreatedAt": "2026-08-12T03:06:25.000Z"
+    },
+    {
       "id": "cc70459c",
       "filename": "pixiv_148362374_p0.jpg",
       "path": "uploads/2026/08/68974f7a.jpg",
