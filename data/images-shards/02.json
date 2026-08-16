@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "8e89ed2d",
+      "filename": "pixiv_148432454_p0.jpg",
+      "path": "uploads/2026/08/c7c57766.jpg",
+      "size": 1499253,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9f2a107815501ac2a9d4a976b3785a05a7b35ae839dcde8182a9aad3b1521f25",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:47:36.049Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ニェン",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "Arknights",
+        "ニェン(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148432454_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148432454",
+      "sourceCreatedAt": "2026-08-14T15:01:02.000Z"
+    },
+    {
       "id": "0046a17f",
       "filename": "pixiv_148409359_p0.jpg",
       "path": "uploads/2026/08/afd52840.jpg",
