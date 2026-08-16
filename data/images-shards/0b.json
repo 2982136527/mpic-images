@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "9e73029b",
+      "filename": "pixiv_148381365_p0.jpg",
+      "path": "uploads/2026/08/f52d367a.jpg",
+      "size": 1641541,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "585a1cf5765ce2ff032e67e730612bc401d69de27a39ed73207920fe7a1778eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T01:56:54.841Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "おそうじのじかん",
+      "tags": [
+        "にじさんじ",
+        "渡会雲雀"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148381365_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148381365",
+      "sourceCreatedAt": "2026-08-13T11:33:43.000Z"
+    },
+    {
       "id": "4996c277",
       "filename": "pixiv_148391035_p0.jpg",
       "path": "uploads/2026/08/fff85de6.jpg",
