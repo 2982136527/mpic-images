@@ -3,6 +3,33 @@
   "shardId": "03",
   "images": [
     {
+      "id": "25cbc47e",
+      "filename": "pixiv_148437777_p0.jpg",
+      "path": "uploads/2026/08/752a463c.jpg",
+      "size": 834928,
+      "width": 1200,
+      "height": 846,
+      "mimeType": "image/jpeg",
+      "hash": "17e61966adc04e399121b6311bdcd0a0e1ad0d55acf74981709f1e173593863e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T16:41:24.207Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "コミケC 108(日)-西お36a のお知らせ",
+      "tags": [
+        "コミックマーケット",
+        "C108",
+        "初音ミク",
+        "漫画",
+        "ボーカロイド",
+        "重音テト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148437777_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148437777",
+      "sourceCreatedAt": "2026-08-14T17:30:11.000Z"
+    },
+    {
       "id": "1387baf1",
       "filename": "pixiv_148433055_p0.jpg",
       "path": "uploads/2026/08/1f1a5041.jpg",
