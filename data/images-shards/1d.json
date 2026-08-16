@@ -3,6 +3,36 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "dbe4913a",
+      "filename": "pixiv_148390910_p0.jpg",
+      "path": "uploads/2026/08/6f0f2dbc.jpg",
+      "size": 950702,
+      "width": 835,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2c60f2d1dbbae0f88951ef211385f3b66bc14eebc596b31beb187b558a677495",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:48:13.594Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "猫耳が生えちゃったケイの話①",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "漫画",
+        "早瀬ユウカ",
+        "ケイ(ブルーアーカイブ)",
+        "天童アリス",
+        "猫耳",
+        "天童ケイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148390910_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148390910",
+      "sourceCreatedAt": "2026-08-13T15:00:13.000Z"
+    },
+    {
       "id": "156497e3",
       "filename": "pixiv_148468381_p0.jpg",
       "path": "uploads/2026/08/29d6af18.jpg",
