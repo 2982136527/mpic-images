@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "1c94fa11",
+      "filename": "pixiv_148407145_p0.jpg",
+      "path": "uploads/2026/08/c7a8dd55.jpg",
+      "size": 312791,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8f0b426b03bd65dc1274d420d9e34da56b66f65ad5964d768a2e3209604efda8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T01:52:21.082Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "猫はじめました",
+      "tags": [
+        "猫"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148407145_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148407145",
+      "sourceCreatedAt": "2026-08-14T03:22:40.000Z"
+    },
+    {
       "id": "f65c2755",
       "filename": "pixiv_148361842_p0.jpg",
       "path": "uploads/2026/08/549ad7a7.jpg",
