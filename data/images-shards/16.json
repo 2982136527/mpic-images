@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "e1969102",
+      "filename": "pixiv_148424305_p0.jpg",
+      "path": "uploads/2026/08/0524da16.jpg",
+      "size": 1449324,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a48b573593e8c37af2ed3ae602f9cec1be1342052af4ab83cda3fca4a97b4b77",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:42:16.119Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "A Moment Between Designs",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "少女",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148424305_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148424305",
+      "sourceCreatedAt": "2026-08-14T12:08:18.000Z"
+    },
+    {
       "id": "da197663",
       "filename": "pixiv_148354729_p0.jpg",
       "path": "uploads/2026/08/0c7f3e11.jpg",
