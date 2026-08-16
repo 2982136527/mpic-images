@@ -3,6 +3,37 @@
   "shardId": "08",
   "images": [
     {
+      "id": "1c56d5e5",
+      "filename": "pixiv_148410309_p0.jpg",
+      "path": "uploads/2026/08/c042e8a2.jpg",
+      "size": 1480837,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5f0c1cdbabccb097c2c1fdb2bea9a8c6f39a859234eb168e6df038b69f615d4d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T01:57:26.492Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Aqours",
+      "tags": [
+        "ラブライブ!サンシャイン!!",
+        "津島善子",
+        "国木田花丸",
+        "高海千歌",
+        "桜内梨子",
+        "松浦果南",
+        "黒澤ルビィ",
+        "黒澤ダイヤ",
+        "渡辺曜",
+        "小原鞠莉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148410309_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148410309",
+      "sourceCreatedAt": "2026-08-14T05:37:03.000Z"
+    },
+    {
       "id": "458c479e",
       "filename": "pixiv_148226073_p0.jpg",
       "path": "uploads/2026/08/61ac8a02.jpg",
