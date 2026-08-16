@@ -3,6 +3,33 @@
   "shardId": "06",
   "images": [
     {
+      "id": "c35d22b9",
+      "filename": "pixiv_148456578_p0.jpg",
+      "path": "uploads/2026/08/55fcd25e.jpg",
+      "size": 669101,
+      "width": 718,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "51249682007d73f4ecb44275f5fcb977ac3a6e2a3386e4236512b260ba755b37",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:43:36.988Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "レミエール",
+      "tags": [
+        "レミエール",
+        "ゼンゼロ",
+        "zzzero",
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "レミエール・ダン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148456578_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148456578",
+      "sourceCreatedAt": "2026-08-15T07:49:20.000Z"
+    },
+    {
       "id": "b5c7520a",
       "filename": "pixiv_148354803_p0.jpg",
       "path": "uploads/2026/08/736582d0.jpg",
