@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "d2a5492d",
+      "filename": "pixiv_148432705_p0.jpg",
+      "path": "uploads/2026/08/63ce445b.jpg",
+      "size": 1149918,
+      "width": 863,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e4032439045534db7650dcfab7bd052f94ed13966d389d8c20d12806ea04dbb3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T16:36:01.316Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【新刊】愛カラのゆるい本。",
+      "tags": [
+        "創作百合",
+        "社会人百合",
+        "オリジナル500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148432705_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148432705",
+      "sourceCreatedAt": "2026-08-14T15:02:43.000Z"
+    },
+    {
       "id": "436a7308",
       "filename": "pixiv_148276831_p0.jpg",
       "path": "uploads/2026/08/e750df73.jpg",
