@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "cbf4dba7",
+      "filename": "pixiv_148406532_p0.jpg",
+      "path": "uploads/2026/08/1ab2a931.jpg",
+      "size": 950485,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "06d3bba19c288720279f07af9a91b1ff932f8c911e89cda52aed807db8e8091b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:40:58.442Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108新刊：ハッピーエンドのおすそわけ!2",
+      "tags": [
+        "超かぐや姫!",
+        "酒寄彩葉",
+        "かぐや(超かぐや姫!)",
+        "月見ヤチヨ",
+        "かぐいろ",
+        "かぐいろヤチ",
+        "いろやち",
+        "百合",
+        "C108",
+        "漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148406532_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148406532",
+      "sourceCreatedAt": "2026-08-14T03:00:43.000Z"
+    },
+    {
       "id": "6ec4ad15",
       "filename": "pixiv_148389859_p0.jpg",
       "path": "uploads/2026/08/0c6c882f.jpg",
