@@ -3,6 +3,34 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "3e03478a",
+      "filename": "pixiv_148432244_p0.jpg",
+      "path": "uploads/2026/08/286d3ebf.jpg",
+      "size": 2314170,
+      "width": 1200,
+      "height": 940,
+      "mimeType": "image/jpeg",
+      "hash": "c4564d03f4cbb334625aee70114b2694649ee78c67739c4304348f63cd5d8e1a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T16:42:04.017Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "The Color of Meaning",
+      "tags": [
+        "色彩",
+        "色彩理論",
+        "共感覚",
+        "八卦",
+        "キャラクターデザイン",
+        "女の子",
+        "ポートフォリオ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148432244_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148432244",
+      "sourceCreatedAt": "2026-08-14T15:00:19.000Z"
+    },
+    {
       "id": "56b3fc41",
       "filename": "pixiv_148432220_p0.jpg",
       "path": "uploads/2026/08/b0c2f19f.jpg",
