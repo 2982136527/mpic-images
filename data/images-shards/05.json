@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "008d7348",
+      "filename": "pixiv_148438005_p0.jpg",
+      "path": "uploads/2026/08/619264d0.jpg",
+      "size": 1553021,
+      "width": 1200,
+      "height": 999,
+      "mimeType": "image/jpeg",
+      "hash": "f7307cc826b71d3d894ac03910e5d12560f92d016f67bd25eba65067184a8561",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T16:38:28.340Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "酔",
+      "tags": [
+        "ほの暮しの庭",
+        "チナナ(ほの暮しの庭)",
+        "ハスミ(ほの暮しの庭)",
+        "チナハス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148438005_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148438005",
+      "sourceCreatedAt": "2026-08-14T17:40:39.000Z"
+    },
+    {
       "id": "f123b431",
       "filename": "pixiv_148453667_p0.jpg",
       "path": "uploads/2026/08/3315be34.jpg",
