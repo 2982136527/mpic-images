@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "aafde2a5",
+      "filename": "pixiv_148459838_p0.jpg",
+      "path": "uploads/2026/08/96a636dc.jpg",
+      "size": 701891,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "eeac7182131c38409e2d3bcb142103b895b1c5d8dc840fa8f5d8fc3db1778577",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:42:56.601Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "歴戦グレンアルマ",
+      "tags": [
+        "グレンアルマ",
+        "ポケモン",
+        "ポケットモンスター",
+        "厚塗り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148459838_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148459838",
+      "sourceCreatedAt": "2026-08-15T09:24:41.000Z"
+    },
+    {
       "id": "d8a93a5f",
       "filename": "pixiv_148432298_p0.jpg",
       "path": "uploads/2026/08/8b8bbce1.jpg",
