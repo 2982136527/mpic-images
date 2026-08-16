@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "a72d12e8",
+      "filename": "pixiv_148407783_p0.jpg",
+      "path": "uploads/2026/08/95b9bee2.jpg",
+      "size": 274218,
+      "width": 651,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cce426a27c80a5f9955fa3d3e2085f02e50d981a8a431d8fdd8718970bfe5b92",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T01:56:08.569Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ZZZ",
+      "tags": [
+        "女の子",
+        "ゼンレスゾーンゼロ",
+        "ノルムー・ホローウェル",
+        "ノルムー",
+        "レミエール・ダン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148407783_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148407783",
+      "sourceCreatedAt": "2026-08-14T03:47:16.000Z"
+    },
+    {
       "id": "630e5501",
       "filename": "pixiv_148393859_p0.jpg",
       "path": "uploads/2026/08/0c364e8d.jpg",
