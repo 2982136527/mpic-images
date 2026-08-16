@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "2e0cdb9e",
+      "filename": "pixiv_148429374_p0.jpg",
+      "path": "uploads/2026/08/4ecfbf05.jpg",
+      "size": 293141,
+      "width": 664,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "a85d380e56bce6bef2e7ebe5b41d455cac9987810a0a03e312b75be1c5d392e2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:41:58.808Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "だっこブースター",
+      "tags": [
+        "ポケモン",
+        "ブースター",
+        "ポケモンと生活"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148429374_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148429374",
+      "sourceCreatedAt": "2026-08-14T14:00:11.000Z"
+    },
+    {
       "id": "1845b09e",
       "filename": "pixiv_148397546_p0.jpg",
       "path": "uploads/2026/08/92d257ea.jpg",
