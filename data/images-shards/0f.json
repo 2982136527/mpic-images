@@ -3,6 +3,33 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "782dccca",
+      "filename": "pixiv_148442387_p0.jpg",
+      "path": "uploads/2026/08/19370373.jpg",
+      "size": 545737,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "5ede9840ff0827d140b925e56074a083e8393c53e93d1e01d85202bbf674b0db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:45:49.518Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "浴衣の描き方が分からない人へ",
+      "tags": [
+        "描き方",
+        "コツ",
+        "ハウツー",
+        "ノウハウ",
+        "上達法",
+        "浴衣"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148442387_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148442387",
+      "sourceCreatedAt": "2026-08-14T22:13:02.000Z"
+    },
+    {
       "id": "fb9727e4",
       "filename": "pixiv_148400445_p0.jpg",
       "path": "uploads/2026/08/fbfabb11.jpg",
