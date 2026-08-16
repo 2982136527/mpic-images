@@ -3,6 +3,35 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "436a7308",
+      "filename": "pixiv_148276831_p0.jpg",
+      "path": "uploads/2026/08/e750df73.jpg",
+      "size": 698945,
+      "width": 752,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5fd85db3f7ea9af328bd606c87cda52b95c27ce9ab7d27074f56dde8de763693",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:49:08.738Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "個人メモ：シャツのシワ",
+      "tags": [
+        "漫画素材工房",
+        "描き方",
+        "人体",
+        "身体",
+        "人物",
+        "服",
+        "シワ",
+        "シャツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148276831_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148276831",
+      "sourceCreatedAt": "2026-08-10T21:00:10.000Z"
+    },
+    {
       "id": "0782bfed",
       "filename": "pixiv_148439027_p0.jpg",
       "path": "uploads/2026/08/b5d10f7e.jpg",
