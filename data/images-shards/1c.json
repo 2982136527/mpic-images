@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "e701f1fe",
+      "filename": "pixiv_148439687_p0.jpg",
+      "path": "uploads/2026/08/5e239d08.jpg",
+      "size": 1469288,
+      "width": 821,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "17fe845bef8f86cb2a0a5904aa915644b67c3b7c495599ce4665a369efe617a4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:47:28.545Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "カミーユ(エンドフィールド)",
+      "tags": [
+        "エンドフィールド",
+        "カミーユ",
+        "カミーユ(エンドフィールド)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148439687_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148439687",
+      "sourceCreatedAt": "2026-08-14T19:16:02.000Z"
+    },
+    {
       "id": "a770d712",
       "filename": "pixiv_148432176_p0.jpg",
       "path": "uploads/2026/08/42eb1514.jpg",
