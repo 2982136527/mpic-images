@@ -3,6 +3,28 @@
   "shardId": "13",
   "images": [
     {
+      "id": "07645895",
+      "filename": "pixiv_148389043_p0.jpg",
+      "path": "uploads/2026/08/6875cdfd.jpg",
+      "size": 895613,
+      "width": 1200,
+      "height": 838,
+      "mimeType": "image/jpeg",
+      "hash": "2ec5804649e37ff821bbbbd2afcfdc56e1cea15a3106dc498ac3ef899a95fff5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T01:59:33.871Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "白",
+      "tags": [
+        "女子高生"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148389043_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148389043",
+      "sourceCreatedAt": "2026-08-13T14:20:22.000Z"
+    },
+    {
       "id": "8ddbc3fc",
       "filename": "pixiv_148407275_p0.jpg",
       "path": "uploads/2026/08/0f2809ec.jpg",
