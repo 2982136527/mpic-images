@@ -3,6 +3,37 @@
   "shardId": "05",
   "images": [
     {
+      "id": "824fd902",
+      "filename": "pixiv_148407319_p0.jpg",
+      "path": "uploads/2026/08/9dc97709.jpg",
+      "size": 846959,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "75b8e381f558ad608b639ad3eca1f5e9308c43b211017d9744fa205a64dbdc6e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T16:40:19.374Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "カレンと監視",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "漫画",
+        "BlueArchive",
+        "明楽カレン",
+        "空崎ヒナ",
+        "棗イロハ",
+        "もう殺すしかなくなっちゃったよ",
+        "ゲヘナ再興委員会",
+        "盗聴"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148407319_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148407319",
+      "sourceCreatedAt": "2026-08-14T03:30:03.000Z"
+    },
+    {
       "id": "eb859517",
       "filename": "pixiv_148402693_p0.jpg",
       "path": "uploads/2026/08/065e4f65.jpg",
