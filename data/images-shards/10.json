@@ -3,6 +3,28 @@
   "shardId": "10",
   "images": [
     {
+      "id": "4e510e30",
+      "filename": "pixiv_148450904_p0.jpg",
+      "path": "uploads/2026/08/9e141d2a.jpg",
+      "size": 1160206,
+      "width": 1200,
+      "height": 999,
+      "mimeType": "image/jpeg",
+      "hash": "410eabdf601b9a79a75c2339de97f5f5ffb6504b81168e1a909fc9a99a85f64a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T16:39:35.624Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "まじかるがーるず🪼SUMMER❕❕",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148450904_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148450904",
+      "sourceCreatedAt": "2026-08-15T04:25:03.000Z"
+    },
+    {
       "id": "524e1d10",
       "filename": "pixiv_148450678_p0.jpg",
       "path": "uploads/2026/08/6e9a7be4.jpg",
