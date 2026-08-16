@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "4b68fef6",
+      "filename": "pixiv_148413766_p0.jpg",
+      "path": "uploads/2026/08/df73bbb0.jpg",
+      "size": 1174494,
+      "width": 790,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ef90bc920e36fa181aa7222882fbb41b5fe9f27dc3436334ec27c74aa2595eac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:40:38.195Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "水着リリス祈願",
+      "tags": [
+        "Fate/GrandOrder",
+        "リリス(Fate)",
+        "リリス(水着)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148413766_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148413766",
+      "sourceCreatedAt": "2026-08-14T07:45:40.000Z"
+    },
+    {
       "id": "b3462072",
       "filename": "pixiv_148405385_p0.jpg",
       "path": "uploads/2026/08/454d9f5d.jpg",
