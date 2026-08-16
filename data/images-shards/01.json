@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "8140bdb2",
+      "filename": "pixiv_148378939_p0.jpg",
+      "path": "uploads/2026/08/8f0c0d71.jpg",
+      "size": 887488,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a69ec55584349e1d07981e873370ce6edb2e7054b4a16366574fd9b16af020c1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T01:56:20.219Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Yuuka",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "早瀬ユウカ",
+        "ユウカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148378939_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148378939",
+      "sourceCreatedAt": "2026-08-13T10:38:25.000Z"
+    },
+    {
       "id": "ab1735b1",
       "filename": "pixiv_148402376_p0.jpg",
       "path": "uploads/2026/08/52680ae4.jpg",
