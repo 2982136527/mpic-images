@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "4df27655",
+      "filename": "pixiv_148466128_p0.jpg",
+      "path": "uploads/2026/08/16df09a1.jpg",
+      "size": 1297962,
+      "width": 1010,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aef3c804d07fd3adf8996e1cb8222823c46354281786afd88e51ec526ca5b748",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:44:24.624Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "え？何その顔？",
+      "tags": [
+        "葬送のフリーレン",
+        "フリーレン",
+        "ぐるぐる目",
+        "葬送のフリーレン100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148466128_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148466128",
+      "sourceCreatedAt": "2026-08-15T12:00:15.000Z"
+    },
+    {
       "id": "59348748",
       "filename": "pixiv_148405491_p0.jpg",
       "path": "uploads/2026/08/9c1c0803.jpg",
