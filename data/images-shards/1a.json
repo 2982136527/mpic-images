@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "5597933b",
+      "filename": "pixiv_148433475_p0.jpg",
+      "path": "uploads/2026/08/198386a1.jpg",
+      "size": 1789260,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3686188bc3214162b54bd333fe70c7ebe9a3858869051033b458e6a9da4dab00",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T16:35:53.547Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🍀",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148433475_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148433475",
+      "sourceCreatedAt": "2026-08-14T15:16:13.000Z"
+    },
+    {
       "id": "a72d12e8",
       "filename": "pixiv_148407783_p0.jpg",
       "path": "uploads/2026/08/95b9bee2.jpg",
