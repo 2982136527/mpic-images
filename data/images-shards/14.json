@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "ee892276",
+      "filename": "pixiv_148230966_p0.jpg",
+      "path": "uploads/2026/08/6a03d730.jpg",
+      "size": 553361,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "977d7eaa174068c18ccd5685e97a78fe1cc0208ba2c6a5bb31e0c167ded28494",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:49:22.061Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "なにこいつ",
+      "tags": [
+        "オリジナル",
+        "百合",
+        "創作百合",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148230966_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148230966",
+      "sourceCreatedAt": "2026-08-09T16:16:19.000Z"
+    },
+    {
       "id": "09b69120",
       "filename": "pixiv_148418650_p0.jpg",
       "path": "uploads/2026/08/c12607ca.jpg",
