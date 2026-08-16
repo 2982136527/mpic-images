@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "3dbc8cbb",
+      "filename": "pixiv_148420186_p0.jpg",
+      "path": "uploads/2026/08/58014efe.jpg",
+      "size": 939388,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ddbc8f2b25bd9b5910328a961ae89902e51cd5ed32a20139af0a41efb3cb6d41",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T16:40:12.258Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🐱",
+      "tags": [
+        "ねこみみ",
+        "触手"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148420186_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148420186",
+      "sourceCreatedAt": "2026-08-14T10:44:25.000Z"
+    },
+    {
       "id": "e4e78215",
       "filename": "pixiv_148393945_p0.jpg",
       "path": "uploads/2026/08/2786d0d7.jpg",
