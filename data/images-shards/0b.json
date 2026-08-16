@@ -3,6 +3,28 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "6e4f1b55",
+      "filename": "pixiv_148457778_p0.jpg",
+      "path": "uploads/2026/08/f4a400b8.jpg",
+      "size": 1075652,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3e5bac64066d02c2f9b304e3a6da79f0792c547ba93283c9be1d32f837eeb656",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:47:14.865Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "結月ゆかり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148457778_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148457778",
+      "sourceCreatedAt": "2026-08-15T08:29:03.000Z"
+    },
+    {
       "id": "4555174e",
       "filename": "pixiv_148461870_p0.jpg",
       "path": "uploads/2026/08/38001aca.jpg",
