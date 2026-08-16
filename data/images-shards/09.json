@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "bc0437d7",
+      "filename": "pixiv_148452223_p0.jpg",
+      "path": "uploads/2026/08/5a142bb1.jpg",
+      "size": 628892,
+      "width": 873,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "efef1727327d6a39992eaf5273be4e76284856857e4be1e3c52f0519cd7e96b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T16:44:36.802Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "菜花黄名子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148452223_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148452223",
+      "sourceCreatedAt": "2026-08-15T05:15:54.000Z"
+    },
+    {
       "id": "024cfc27",
       "filename": "pixiv_148423687_p0.jpg",
       "path": "uploads/2026/08/2e015749.jpg",
