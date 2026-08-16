@@ -3,6 +3,36 @@
   "shardId": "18",
   "images": [
     {
+      "id": "f1ed1cc0",
+      "filename": "pixiv_148408328_p0.jpg",
+      "path": "uploads/2026/08/e0c982d1.jpg",
+      "size": 618519,
+      "width": 680,
+      "height": 946,
+      "mimeType": "image/jpeg",
+      "hash": "d895ac6a3d528750623a41e373d81f38c9f835408d6491966aedae5192869ce6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:43:50.589Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "本当は3匹だった人魚",
+      "tags": [
+        "ちいかわ",
+        "セイレーン",
+        "セイレーン(ちいかわ)",
+        "人魚(ちいかわ)",
+        "ハチワレ",
+        "ハチワレ(ちいかわ)",
+        "漫画",
+        "マンガ",
+        "どうしてこうならなかった"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148408328_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148408328",
+      "sourceCreatedAt": "2026-08-14T04:11:27.000Z"
+    },
+    {
       "id": "2a8bdb6f",
       "filename": "pixiv_148432363_p0.jpg",
       "path": "uploads/2026/08/59b05b07.jpg",
