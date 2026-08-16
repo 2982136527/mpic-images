@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "6ec4ad15",
+      "filename": "pixiv_148389859_p0.jpg",
+      "path": "uploads/2026/08/0c6c882f.jpg",
+      "size": 580705,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9e0377397a776d0f6a6144442c0f0dc3dcb6ecbf3a1d4be5ebf725dbe02fa971",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T01:57:03.948Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "さいこうか チェン チェン",
+      "tags": [
+        "アークナイツ",
+        "チェン(アークナイツ)",
+        "明日方舟",
+        "陈",
+        "Arknights",
+        "Ch’en(Arknights)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148389859_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148389859",
+      "sourceCreatedAt": "2026-08-13T14:39:25.000Z"
+    },
+    {
       "id": "005d5805",
       "filename": "pixiv_148360826_p0.jpg",
       "path": "uploads/2026/08/ab05582b.jpg",
