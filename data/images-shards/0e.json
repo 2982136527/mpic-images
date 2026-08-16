@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "504a670b",
+      "filename": "pixiv_148427325_p0.jpg",
+      "path": "uploads/2026/08/c1f2018a.jpg",
+      "size": 913178,
+      "width": 1025,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "13733419e867414dcc4b8f9d2048243090370b7d2a34fba4752e2eaf798085a6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T16:41:53.394Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "제나",
+      "tags": [
+        "ProjectMoon",
+        "Library_Of_Ruina",
+        "라이브러리오브루이나",
+        "제나"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148427325_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148427325",
+      "sourceCreatedAt": "2026-08-14T13:13:21.000Z"
+    },
+    {
       "id": "86a1de10",
       "filename": "pixiv_148395366_p0.jpg",
       "path": "uploads/2026/08/b6f4ff4e.jpg",
