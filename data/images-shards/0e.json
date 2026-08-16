@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "ce3a2f2d",
+      "filename": "pixiv_148397468_p0.jpg",
+      "path": "uploads/2026/08/3792956a.jpg",
+      "size": 1421974,
+      "width": 725,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ff1b889dd80de8bab9772482d1de797ab186a7744069502c705e3135632c000d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:40:51.664Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "CottonTailVA - Gluttony Event",
+      "tags": [
+        "diives",
+        "cottontailva"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148397468_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148397468",
+      "sourceCreatedAt": "2026-08-13T18:37:10.000Z"
+    },
+    {
       "id": "40f37698",
       "filename": "pixiv_148417634_p0.jpg",
       "path": "uploads/2026/08/486bf3a1.jpg",
