@@ -3,6 +3,32 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "0782bfed",
+      "filename": "pixiv_148439027_p0.jpg",
+      "path": "uploads/2026/08/b5d10f7e.jpg",
+      "size": 1098885,
+      "width": 1200,
+      "height": 681,
+      "mimeType": "image/jpeg",
+      "hash": "4021fee73fd3ea26259feb9394fdc84acef582997150750b630da11652477b21",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:46:03.148Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "在りし日",
+      "tags": [
+        "風景",
+        "女の子",
+        "背景",
+        "仕事絵",
+        "男の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148439027_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148439027",
+      "sourceCreatedAt": "2026-08-14T18:31:58.000Z"
+    },
+    {
       "id": "782dccca",
       "filename": "pixiv_148442387_p0.jpg",
       "path": "uploads/2026/08/19370373.jpg",
