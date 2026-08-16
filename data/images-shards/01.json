@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "e74f043f",
+      "filename": "pixiv_148395235_p0.jpg",
+      "path": "uploads/2026/08/28e029bb.jpg",
+      "size": 940406,
+      "width": 619,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b4d714ee2f140c883230f939930882f0ca3c3c1de3a2aa8c16908b21a6c12d31",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T16:39:53.951Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "水着イヴォンヌ",
+      "tags": [
+        "女の子",
+        "アークナイツ:エンドフィールド",
+        "イヴォンヌ(エンドフィールド)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148395235_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148395235",
+      "sourceCreatedAt": "2026-08-13T16:48:35.000Z"
+    },
+    {
       "id": "2ced4636",
       "filename": "pixiv_148432510_p0.jpg",
       "path": "uploads/2026/08/e6fc6af7.jpg",
