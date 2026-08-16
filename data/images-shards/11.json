@@ -3,6 +3,37 @@
   "shardId": "11",
   "images": [
     {
+      "id": "45eac562",
+      "filename": "pixiv_148404591_p0.jpg",
+      "path": "uploads/2026/08/3c14a3bd.jpg",
+      "size": 779702,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6da9619b342a72946d04f601853e061dcd1f09ab95f0163e4322315967cd759e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T01:59:15.619Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "首輪を付けたシュヴァルグラン",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "シュヴァルグラン(ウマ娘)",
+        "シュヴァルグラン",
+        "イラスト",
+        "かわいい",
+        "漫画",
+        "女の子",
+        "美少女",
+        "巨乳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148404591_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148404591",
+      "sourceCreatedAt": "2026-08-14T01:43:43.000Z"
+    },
+    {
       "id": "1c1f70e8",
       "filename": "pixiv_148391042_p0.jpg",
       "path": "uploads/2026/08/610d89d0.jpg",
