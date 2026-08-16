@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "80cdfeeb",
+      "filename": "pixiv_148428327_p0.jpg",
+      "path": "uploads/2026/08/ecbed5cb.jpg",
+      "size": 1728307,
+      "width": 1193,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c3425de995644a3eb103534b9152e23e5651c8f2d7bff01ad3895414f9e4a1b5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T08:42:09.102Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🍑🍨",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ボーカロイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148428327_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148428327",
+      "sourceCreatedAt": "2026-08-14T13:35:29.000Z"
+    },
+    {
       "id": "e3d89f17",
       "filename": "pixiv_148418361_p0.jpg",
       "path": "uploads/2026/08/050f7b53.jpg",
