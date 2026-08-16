@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "aa939a19",
+      "filename": "pixiv_148457343_p0.jpg",
+      "path": "uploads/2026/08/e63f0436.jpg",
+      "size": 781083,
+      "width": 788,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3eb84be283d58533a9c22e61b0abf13c0658794c9b075b99378cc7ed651dca04",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-16T16:40:33.247Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "たかこま",
+      "tags": [
+        "篁小",
+        "たかこま",
+        "小野小町(水着)",
+        "小野篁(水着)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148457343_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148457343",
+      "sourceCreatedAt": "2026-08-15T08:12:58.000Z"
+    },
+    {
       "id": "8e89ed2d",
       "filename": "pixiv_148432454_p0.jpg",
       "path": "uploads/2026/08/c7c57766.jpg",
