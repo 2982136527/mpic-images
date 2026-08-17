@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "abf92e01",
+      "filename": "pixiv_148474809_p0.jpg",
+      "path": "uploads/2026/08/d7c91b72.jpg",
+      "size": 585493,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "75f89ca07827215f38a0acea25d3eac4713cfc857087b35afe415ebe7fe62968",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T16:45:39.630Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ケイ",
+      "tags": [
+        "女の子",
+        "ロリ",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "天童ケイ",
+        "ケイ(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148474809_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148474809",
+      "sourceCreatedAt": "2026-08-15T15:00:20.000Z"
+    },
+    {
       "id": "609d7df5",
       "filename": "pixiv_148479222_p0.jpg",
       "path": "uploads/2026/08/dcb7643f.jpg",
