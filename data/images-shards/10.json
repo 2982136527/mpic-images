@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "9a800cac",
+      "filename": "pixiv_148500450_p0.jpg",
+      "path": "uploads/2026/08/f6e5b674.jpg",
+      "size": 561407,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "6d6edfa9f0a02585035aed0a310edd7282a3950606ed51104f570a80e2492b59",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T08:54:38.387Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "早乙女ベリー",
+      "tags": [
+        "にじさんじ",
+        "早乙女ベリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148500450_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148500450",
+      "sourceCreatedAt": "2026-08-16T08:00:01.000Z"
+    },
+    {
       "id": "2d8427b7",
       "filename": "pixiv_148457051_p0.jpg",
       "path": "uploads/2026/08/a11568b7.jpg",
