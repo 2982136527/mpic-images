@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "c787db4f",
+      "filename": "pixiv_148499061_p0.jpg",
+      "path": "uploads/2026/08/57dd81ba.jpg",
+      "size": 835968,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "169ec86a546c97f6da21ae800baa1daa6c5a8acd81224455898135508be94fc4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T09:00:47.945Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Ado×DIOR",
+      "tags": [
+        "Ado",
+        "Adoart",
+        "fanart",
+        "Dior"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148499061_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148499061",
+      "sourceCreatedAt": "2026-08-16T07:15:27.000Z"
+    },
+    {
       "id": "3dbcbd88",
       "filename": "pixiv_148440198_p0.jpg",
       "path": "uploads/2026/08/dddb8165.jpg",
