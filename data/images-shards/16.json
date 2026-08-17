@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "3c5f9950",
+      "filename": "pixiv_148503214_p0.jpg",
+      "path": "uploads/2026/08/417eabba.jpg",
+      "size": 1244259,
+      "width": 1200,
+      "height": 789,
+      "mimeType": "image/jpeg",
+      "hash": "1749f552e9a1afc7439ead277c666639730d88f36f4179f7d79be7499c28f492",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T16:44:48.019Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "『Sincerely』",
+      "tags": [
+        "VTuber",
+        "ホロライブ",
+        "癒月ちょこ",
+        "commission"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148503214_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148503214",
+      "sourceCreatedAt": "2026-08-16T09:07:34.000Z"
+    },
+    {
       "id": "fe526b73",
       "filename": "pixiv_148447824_p0.jpg",
       "path": "uploads/2026/08/6261bd54.jpg",
