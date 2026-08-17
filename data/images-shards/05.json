@@ -3,6 +3,37 @@
   "shardId": "05",
   "images": [
     {
+      "id": "19e8f2fa",
+      "filename": "pixiv_148497300_p0.jpg",
+      "path": "uploads/2026/08/4cffaa2d.jpg",
+      "size": 1305168,
+      "width": 828,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d4d51e1b70f2fb9b5ae6d9648e666d8f3c439740da99e741abf194687754943e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T16:40:33.849Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Eclipse Shadow",
+      "tags": [
+        "森亜るるか",
+        "闇堕ち",
+        "悪堕ち",
+        "名探偵プリキュア!",
+        "キュアアルカナ・シャドウ",
+        "黒キュア",
+        "PreCure!",
+        "たんプリ100users入り",
+        "たんプリ500users入り",
+        "エクリプス・シャドウ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148497300_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148497300",
+      "sourceCreatedAt": "2026-08-16T06:20:08.000Z"
+    },
+    {
       "id": "3ef05524",
       "filename": "pixiv_148496398_p0.jpg",
       "path": "uploads/2026/08/2a2c2d51.jpg",
