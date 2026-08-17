@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "450f57df",
+      "filename": "pixiv_148507023_p0.jpg",
+      "path": "uploads/2026/08/fd2e5071.jpg",
+      "size": 712009,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5956e9cc99d4527c097a870aac40c816194dfb0a97b0a64978b1db362232833b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T08:55:40.393Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "歴戦ソウブレイズ",
+      "tags": [
+        "ポケモン",
+        "ポケットモンスター",
+        "厚塗り",
+        "ソウブレイズ",
+        "グレンアルマ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148507023_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148507023",
+      "sourceCreatedAt": "2026-08-16T10:45:21.000Z"
+    },
+    {
       "id": "e0d181d3",
       "filename": "pixiv_148436114_p0.jpg",
       "path": "uploads/2026/08/666647ed.jpg",
