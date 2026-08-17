@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "bf1c24cf",
+      "filename": "pixiv_148436357_p0.jpg",
+      "path": "uploads/2026/08/b45b65db.jpg",
+      "size": 248442,
+      "width": 600,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "80517953972ef7740b7df709117457489200fc67eca5cd2c27f3755d9910040c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T01:50:20.966Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リズム天国まとめ２（ほぼカサパホ）",
+      "tags": [
+        "リズム天国",
+        "リズム天国ミラクルスターズ",
+        "カサパホーマー",
+        "ワープマン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148436357_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148436357",
+      "sourceCreatedAt": "2026-08-14T16:35:02.000Z"
+    },
+    {
       "id": "413c7303",
       "filename": "pixiv_148448902_p0.jpg",
       "path": "uploads/2026/08/006fa66d.jpg",
