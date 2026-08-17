@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "e0d181d3",
+      "filename": "pixiv_148436114_p0.jpg",
+      "path": "uploads/2026/08/666647ed.jpg",
+      "size": 711545,
+      "width": 1200,
+      "height": 907,
+      "mimeType": "image/jpeg",
+      "hash": "958df7cd625dbdb7480ab258cefdf3e38102b849837101af9623f0f6398e2422",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T01:54:24.066Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "カゲロウプロジェクト",
+        "マリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148436114_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148436114",
+      "sourceCreatedAt": "2026-08-14T16:26:50.000Z"
+    },
+    {
       "id": "ebf90426",
       "filename": "pixiv_148435826_p0.jpg",
       "path": "uploads/2026/08/d3b8a3b9.jpg",
