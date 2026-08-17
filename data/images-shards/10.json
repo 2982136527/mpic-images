@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "609d7df5",
+      "filename": "pixiv_148479222_p0.jpg",
+      "path": "uploads/2026/08/dcb7643f.jpg",
+      "size": 520548,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "afa7b9e1155dbf2a4db0b1fc316c672034ea2c8c2405b8599095c9455437a480",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T16:41:59.469Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夢まがい",
+      "tags": [
+        "オリジナル",
+        "空",
+        "青空",
+        "海"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148479222_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148479222",
+      "sourceCreatedAt": "2026-08-15T16:51:11.000Z"
+    },
+    {
       "id": "78c2033e",
       "filename": "pixiv_148498211_p0.jpg",
       "path": "uploads/2026/08/d0271ba8.jpg",
