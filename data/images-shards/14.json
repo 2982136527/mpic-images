@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "69b1e231",
+      "filename": "pixiv_148446901_p0.jpg",
+      "path": "uploads/2026/08/7392fa68.jpg",
+      "size": 869990,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ba43c075e3cfc94bca96cfa2743b41bd92c1015e7faecf3996df74e64f724bc0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T08:54:43.430Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "女の子",
+        "カゲプロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148446901_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148446901",
+      "sourceCreatedAt": "2026-08-15T01:51:42.000Z"
+    },
+    {
       "id": "c86d23e1",
       "filename": "pixiv_148424320_p0.jpg",
       "path": "uploads/2026/08/61047e26.jpg",
