@@ -3,6 +3,34 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "d130433c",
+      "filename": "pixiv_148468162_p0.jpg",
+      "path": "uploads/2026/08/18afec14.jpg",
+      "size": 756401,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "558e0c308d73829f7f1ac8b6e26bf52932209e91c0a875e88cd5dda90cae8aae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T16:43:53.970Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ソファー",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "ミレニアムサイエンススクール",
+        "花岡ユズ/才羽モモイ/才羽ミドリ/天童アリス",
+        "調月リオ/早瀬ユウカ/生塩ノア/黒崎コユキ",
+        "飛鳥馬トキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148468162_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148468162",
+      "sourceCreatedAt": "2026-08-15T12:39:23.000Z"
+    },
+    {
       "id": "7bcb5799",
       "filename": "pixiv_148472315_p0.jpg",
       "path": "uploads/2026/08/e338f554.jpg",
