@@ -3,6 +3,35 @@
   "shardId": "00",
   "images": [
     {
+      "id": "d823c622",
+      "filename": "pixiv_148466480_p0.jpg",
+      "path": "uploads/2026/08/714cdb6c.jpg",
+      "size": 600789,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "fdcb811e8c89ddc7da17661994bd57cd424639b3a0a03484c187ae190880ba2e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T08:54:49.478Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "君が泣くなら僕も泣こう。",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作",
+        "少女",
+        "イラスト",
+        "金髪",
+        "猫",
+        "FANBOX"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148466480_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148466480",
+      "sourceCreatedAt": "2026-08-15T12:03:34.000Z"
+    },
+    {
       "id": "edd90d78",
       "filename": "pixiv_148463778_p0.jpg",
       "path": "uploads/2026/08/9bf48561.jpg",
