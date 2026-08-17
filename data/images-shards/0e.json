@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "6205990a",
+      "filename": "pixiv_148447391_p0.jpg",
+      "path": "uploads/2026/08/7fba6bf1.jpg",
+      "size": 1431113,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "13d6e801fb8abc8559558f7f440603ba0257574006c72e25ffef82349d92fec8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T01:52:18.529Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "「天使組曲」画集表紙",
+      "tags": [
+        "オリジナル",
+        "天使組曲",
+        "天使",
+        "オリジナルキャラクター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148447391_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148447391",
+      "sourceCreatedAt": "2026-08-15T02:12:03.000Z"
+    },
+    {
       "id": "504a670b",
       "filename": "pixiv_148427325_p0.jpg",
       "path": "uploads/2026/08/c1f2018a.jpg",
