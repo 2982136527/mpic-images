@@ -3,6 +3,34 @@
   "shardId": "01",
   "images": [
     {
+      "id": "86daad01",
+      "filename": "pixiv_148428720_p0.jpg",
+      "path": "uploads/2026/08/2e5ddbb3.jpg",
+      "size": 1359240,
+      "width": 1200,
+      "height": 867,
+      "mimeType": "image/jpeg",
+      "hash": "ae5f1d9a5a85a2aa95e94672a7662026f7045fef3d507cc692f2b9abd87a4236",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T01:51:36.142Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "古本屋",
+      "tags": [
+        "風景",
+        "背景",
+        "オリジナル",
+        "創作",
+        "イラスト",
+        "風景画",
+        "アナログ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148428720_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148428720",
+      "sourceCreatedAt": "2026-08-14T13:44:29.000Z"
+    },
+    {
       "id": "e74f043f",
       "filename": "pixiv_148395235_p0.jpg",
       "path": "uploads/2026/08/28e029bb.jpg",
