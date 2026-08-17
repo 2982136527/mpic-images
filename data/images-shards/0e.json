@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "f484332b",
+      "filename": "pixiv_148465224_p0.jpg",
+      "path": "uploads/2026/08/bf19d5a5.jpg",
+      "size": 374728,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c2ca72627e1ac9c402c13687c7077e220377c473e0e225a4556636b276a57150",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T09:00:29.125Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Company Retreat",
+      "tags": [
+        "シーメール",
+        "ニューハーフ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148465224_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148465224",
+      "sourceCreatedAt": "2026-08-15T11:39:45.000Z"
+    },
+    {
       "id": "3b88dbeb",
       "filename": "pixiv_148469448_p0.jpg",
       "path": "uploads/2026/08/7a15edfa.jpg",
