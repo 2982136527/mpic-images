@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "94343780",
+      "filename": "pixiv_148449088_p0.jpg",
+      "path": "uploads/2026/08/294372b0.jpg",
+      "size": 504108,
+      "width": 799,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c1612bfa78677efa4f78979d695cea3043ecb300c1e453497c605dc4af44a7d9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T01:52:04.596Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "次",
+      "tags": [
+        "ステラソラ",
+        "StellaSora"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148449088_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148449088",
+      "sourceCreatedAt": "2026-08-15T03:13:19.000Z"
+    },
+    {
       "id": "710472bb",
       "filename": "pixiv_148434540_p0.jpg",
       "path": "uploads/2026/08/99c5b874.jpg",
