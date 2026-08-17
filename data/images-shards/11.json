@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "bef2f398",
+      "filename": "pixiv_148473405_p0.jpg",
+      "path": "uploads/2026/08/53c8d080.jpg",
+      "size": 335975,
+      "width": 680,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "hash": "de687195e5e512b9567f3d268b12e4056cc30230f27fe942ee2fc0701f078ee2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T09:01:10.349Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "マンゴーカキ氷",
+      "tags": [
+        "ハムスター",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148473405_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148473405",
+      "sourceCreatedAt": "2026-08-15T14:31:13.000Z"
+    },
+    {
       "id": "4166b307",
       "filename": "pixiv_148471667_p0.jpg",
       "path": "uploads/2026/08/0f16b8a7.jpg",
