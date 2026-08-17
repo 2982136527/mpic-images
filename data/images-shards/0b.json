@@ -3,6 +3,32 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "b5fd9172",
+      "filename": "pixiv_148491891_p0.jpg",
+      "path": "uploads/2026/08/786457a5.jpg",
+      "size": 736317,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "c550516877fb19f8cdc5e6ee4e02f433db3226c648772d4627b7ba8e0e1eeb03",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T09:03:55.939Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "コーヒー",
+      "tags": [
+        "hololive",
+        "ホロライブ",
+        "hololiveDEV_IS",
+        "儒烏風亭らでん",
+        "らでん似絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148491891_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148491891",
+      "sourceCreatedAt": "2026-08-16T03:12:17.000Z"
+    },
+    {
       "id": "c7706138",
       "filename": "pixiv_148489798_p0.jpg",
       "path": "uploads/2026/08/a17c56dc.jpg",
