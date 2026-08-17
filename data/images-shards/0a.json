@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "259daae7",
+      "filename": "pixiv_148444763_p0.jpg",
+      "path": "uploads/2026/08/9892dce6.jpg",
+      "size": 505653,
+      "width": 600,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "3708f68027324c309dd7e8a2d7ec81a790bf8e7f12bf851775f8ad0d3f042edc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T16:45:24.932Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ケーちゃん",
+      "tags": [
+        "明日方舟",
+        "アークナイツ",
+        "ケオベ(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148444763_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148444763",
+      "sourceCreatedAt": "2026-08-15T00:14:59.000Z"
+    },
+    {
       "id": "3b75bb64",
       "filename": "pixiv_148513251_p0.jpg",
       "path": "uploads/2026/08/cf6dd88c.jpg",
