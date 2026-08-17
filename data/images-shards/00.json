@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "edd90d78",
+      "filename": "pixiv_148463778_p0.jpg",
+      "path": "uploads/2026/08/9bf48561.jpg",
+      "size": 1204958,
+      "width": 915,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "46f6a6e76fded73ee370f93b62434d3074dcf992d24f9fc5516fb6711187c457",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T01:50:49.854Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ロト・ブラスター",
+      "tags": [
+        "ロトム",
+        "スラ・ブラスター",
+        "ポケモン",
+        "ポケットモンスター",
+        "厚塗り",
+        "機械"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148463778_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148463778",
+      "sourceCreatedAt": "2026-08-15T16:20:29.000Z"
+    },
+    {
       "id": "6bf940ed",
       "filename": "pixiv_148431599_p0.jpg",
       "path": "uploads/2026/08/a495d65b.jpg",
