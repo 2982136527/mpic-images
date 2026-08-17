@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "1094abf3",
+      "filename": "pixiv_148449534_p0.jpg",
+      "path": "uploads/2026/08/adfbb480.jpg",
+      "size": 1765344,
+      "width": 857,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "772badb1a6adc6ba0a2365a0263f8ee026ec55029d44cb4985b35fd1c5380531",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T08:55:11.235Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "カゲロウプロジェクト",
+      "tags": [
+        "カゲロウプロジェクト",
+        "投稿時間に愛を感じる",
+        "本家"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148449534_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148449534",
+      "sourceCreatedAt": "2026-08-15T03:30:03.000Z"
+    },
+    {
       "id": "71ef0c1f",
       "filename": "pixiv_148416965_p0.jpg",
       "path": "uploads/2026/08/f1e8e992.jpg",
