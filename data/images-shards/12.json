@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "d115e395",
+      "filename": "pixiv_148489431_p0.jpg",
+      "path": "uploads/2026/08/9089a185.jpg",
+      "size": 412396,
+      "width": 1200,
+      "height": 899,
+      "mimeType": "image/jpeg",
+      "hash": "5e2e947183025c2ca53c41f426045ac2b0d8bc581b65bd219aa46d445af3814d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T16:42:06.951Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "顔のライティングが分からない人へ",
+      "tags": [
+        "描き方",
+        "コツ",
+        "ハウツー",
+        "ノウハウ",
+        "上達法"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148489431_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148489431",
+      "sourceCreatedAt": "2026-08-16T01:50:24.000Z"
+    },
+    {
       "id": "bb0fe842",
       "filename": "pixiv_148446199_p0.jpg",
       "path": "uploads/2026/08/0164577c.jpg",
