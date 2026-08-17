@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "06fe56b1",
+      "filename": "pixiv_148449469_p0.jpg",
+      "path": "uploads/2026/08/ec34292e.jpg",
+      "size": 931757,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "608cdd86f316499f3e78c697d4ab43c9e13fa2c89229e1a158045e54680d884e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T09:00:07.114Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🐍🐙",
+      "tags": [
+        "明日方舟",
+        "ウタゲ(アークナイツ)",
+        "キララ(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148449469_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148449469",
+      "sourceCreatedAt": "2026-08-15T03:27:49.000Z"
+    },
+    {
       "id": "3664501c",
       "filename": "pixiv_148459354_p0.jpg",
       "path": "uploads/2026/08/6f73e9bf.jpg",
