@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "16eeed3b",
+      "filename": "pixiv_148515018_p0.jpg",
+      "path": "uploads/2026/08/199d760d.jpg",
+      "size": 713188,
+      "width": 803,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9bbf74c3c0dcb926fd4cd2610eed9004d863cab216fed1cce9af872fff395347",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T09:00:19.833Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ヒカリちゃん",
+      "tags": [
+        "ブルーアーカイブ",
+        "橘ヒカリ",
+        "白タイツ",
+        "ブルアカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148515018_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148515018",
+      "sourceCreatedAt": "2026-08-16T13:20:43.000Z"
+    },
+    {
       "id": "f32e30d8",
       "filename": "pixiv_148441103_p0.jpg",
       "path": "uploads/2026/08/bbda8a53.jpg",
