@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "138e15fa",
+      "filename": "pixiv_148491044_p0.jpg",
+      "path": "uploads/2026/08/90141069.jpg",
+      "size": 457206,
+      "width": 1200,
+      "height": 1013,
+      "mimeType": "image/jpeg",
+      "hash": "01cebae6466100a69a39874c41bab6558b6bf7df87e909ef9a35fbcf405d28f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T16:41:42.603Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "これはスローライフゲーム",
+      "tags": [
+        "ほの暮しの庭",
+        "ほの暮らしの庭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148491044_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148491044",
+      "sourceCreatedAt": "2026-08-16T02:49:19.000Z"
+    },
+    {
       "id": "3c794a4d",
       "filename": "pixiv_148495177_p0.jpg",
       "path": "uploads/2026/08/bd392bf6.jpg",
