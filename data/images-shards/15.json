@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "4a2b1735",
+      "filename": "pixiv_148491693_p0.jpg",
+      "path": "uploads/2026/08/4073fd76.jpg",
+      "size": 878124,
+      "width": 1047,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "800d368d8540951eafb5b940aa81a82b056c4483303b5355c389967b102e9896",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T09:04:02.238Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "でびるじゃーにー",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ドリームジャーニー(ウマ娘)",
+        "ウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148491693_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148491693",
+      "sourceCreatedAt": "2026-08-16T03:04:51.000Z"
+    },
+    {
       "id": "aca3d4e9",
       "filename": "pixiv_148495463_p0.jpg",
       "path": "uploads/2026/08/237738e7.jpg",
