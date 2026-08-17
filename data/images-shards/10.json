@@ -3,6 +3,35 @@
   "shardId": "10",
   "images": [
     {
+      "id": "2d8427b7",
+      "filename": "pixiv_148457051_p0.jpg",
+      "path": "uploads/2026/08/a11568b7.jpg",
+      "size": 1512107,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "45c1d892eaef7fd064385b3d09eb21799c1a626fdf9192c558ae32ad53707f45",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T01:51:16.550Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "猫耳メイドなるるかちゃん",
+      "tags": [
+        "プリキュア",
+        "precure",
+        "名探偵プリキュア!",
+        "名探偵プリキュア",
+        "たんプリ",
+        "森亜るるか",
+        "キュアアルカナ・シャドウ",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148457051_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148457051",
+      "sourceCreatedAt": "2026-08-15T08:03:03.000Z"
+    },
+    {
       "id": "4e510e30",
       "filename": "pixiv_148450904_p0.jpg",
       "path": "uploads/2026/08/9e141d2a.jpg",
