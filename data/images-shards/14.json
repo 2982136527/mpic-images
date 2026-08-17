@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "d5759a1a",
+      "filename": "pixiv_148400610_p0.jpg",
+      "path": "uploads/2026/08/4b088617.jpg",
+      "size": 911275,
+      "width": 885,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57419abc10bf691982170ad35129f4771a1cff34d6b6bc8e0d7143fd62aca944",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T01:52:49.888Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Rover",
+      "tags": [
+        "鳴潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148400610_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148400610",
+      "sourceCreatedAt": "2026-08-13T22:23:02.000Z"
+    },
+    {
       "id": "30f07f08",
       "filename": "pixiv_148416563_p0.jpg",
       "path": "uploads/2026/08/f7d6a4c0.jpg",
