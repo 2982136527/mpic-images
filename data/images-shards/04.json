@@ -3,6 +3,33 @@
   "shardId": "04",
   "images": [
     {
+      "id": "d08f0ba1",
+      "filename": "pixiv_148514411_p0.jpg",
+      "path": "uploads/2026/08/990eced6.jpg",
+      "size": 1246565,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2e8bb32e8a3d820c8e2b9a76ee3a58c6e3755b7f4da97688a8a0446de977c90a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T16:43:46.878Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "メジロマックイーン(ウマ娘)",
+        "ゴールドシップ(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "さざ波フェアレディ",
+        "RUN!乱!ランチャー!!",
+        "大乱闘!?夏色☆バカンス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148514411_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148514411",
+      "sourceCreatedAt": "2026-08-16T13:08:09.000Z"
+    },
+    {
       "id": "06fe56b1",
       "filename": "pixiv_148449469_p0.jpg",
       "path": "uploads/2026/08/ec34292e.jpg",
