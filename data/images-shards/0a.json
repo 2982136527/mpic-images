@@ -3,6 +3,36 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "cacdac42",
+      "filename": "pixiv_148449525_p0.jpg",
+      "path": "uploads/2026/08/f56300e0.jpg",
+      "size": 893939,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57418b2de41ba56e630f78e1ad3a14b3c338dab735215998afe002c111b22223",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T09:01:41.547Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ケイちゃんとコミケ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "漫画",
+        "BlueArchive",
+        "ケイ(ブルーアーカイブ)",
+        "天童ケイ",
+        "卑しケイ",
+        "メスの顔",
+        "卑しい…卑しい〜!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148449525_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148449525",
+      "sourceCreatedAt": "2026-08-15T03:30:01.000Z"
+    },
+    {
       "id": "b77ee545",
       "filename": "pixiv_148474752_p0.jpg",
       "path": "uploads/2026/08/e3916dc6.jpg",
