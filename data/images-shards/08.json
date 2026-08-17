@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "8172f6dd",
+      "filename": "pixiv_148449528_p0.jpg",
+      "path": "uploads/2026/08/e6cb2c60.jpg",
+      "size": 1776860,
+      "width": 857,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "861930db6e573b9853676f5084bf0253b60e7e599aa78c8769231bb65726c1ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T01:50:07.099Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "カゲロウプロジェクト",
+      "tags": [
+        "カゲロウプロジェクト",
+        "今年もメカクシ完了",
+        "投稿時間に愛を感じる"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148449528_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148449528",
+      "sourceCreatedAt": "2026-08-15T03:30:02.000Z"
+    },
+    {
       "id": "08735647",
       "filename": "pixiv_148227579_p0.jpg",
       "path": "uploads/2026/08/da6287d4.jpg",
