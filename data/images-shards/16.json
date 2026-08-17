@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "fe526b73",
+      "filename": "pixiv_148447824_p0.jpg",
+      "path": "uploads/2026/08/6261bd54.jpg",
+      "size": 738634,
+      "width": 733,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8bf3dff10c8e2cfe42109e1758cc2722ab6c0cc5b31a696b8769fb319bdfb166",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T01:58:21.451Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Belfast",
+      "tags": [
+        "ベルファスト(アズールレーン)",
+        "アズールレーン",
+        "アズレン",
+        "アズールレーン100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148447824_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148447824",
+      "sourceCreatedAt": "2026-08-15T02:31:08.000Z"
+    },
+    {
       "id": "64276dc6",
       "filename": "pixiv_148434592_p0.jpg",
       "path": "uploads/2026/08/c05433c1.jpg",
