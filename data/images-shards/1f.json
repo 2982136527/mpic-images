@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "75e5358f",
+      "filename": "pixiv_148474782_p0.jpg",
+      "path": "uploads/2026/08/d9ed7d4b.jpg",
+      "size": 673834,
+      "width": 678,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "270a517f34a4a576471f83f739d41f2059d10c0dd790cd2e43d6edba472ed64e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T09:04:08.541Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "水着リリス",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "リリス(水着)",
+        "リリス(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148474782_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148474782",
+      "sourceCreatedAt": "2026-08-15T15:00:17.000Z"
+    },
+    {
       "id": "0267a919",
       "filename": "pixiv_148501297_p0.jpg",
       "path": "uploads/2026/08/688e3b2c.jpg",
