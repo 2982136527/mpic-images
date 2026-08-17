@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "2dc5ac3a",
+      "filename": "pixiv_148449740_p0.jpg",
+      "path": "uploads/2026/08/7b5a1659.jpg",
+      "size": 619285,
+      "width": 827,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e83a003a401a365de284b890f5bf12a353968fdf2589da59929907346b47c413",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T01:58:35.568Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "佑芽ちゃん",
+      "tags": [
+        "学園アイドルマスター",
+        "花海佑芽",
+        "でかぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148449740_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148449740",
+      "sourceCreatedAt": "2026-08-15T03:36:49.000Z"
+    },
+    {
       "id": "94343780",
       "filename": "pixiv_148449088_p0.jpg",
       "path": "uploads/2026/08/294372b0.jpg",
