@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "d3c89652",
+      "filename": "pixiv_148464360_p0.jpg",
+      "path": "uploads/2026/08/8908ce5a.jpg",
+      "size": 871088,
+      "width": 760,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "546486c4399d3cfe5348474d076425d49bb19335a79fa1a2191cf3a3004e6ee5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T16:39:11.344Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "「 蝶から愛された花 」",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "デジタル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148464360_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148464360",
+      "sourceCreatedAt": "2026-08-15T11:19:39.000Z"
+    },
+    {
       "id": "b5fd9172",
       "filename": "pixiv_148491891_p0.jpg",
       "path": "uploads/2026/08/786457a5.jpg",
