@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "c8c1c796",
+      "filename": "pixiv_148430565_p0.jpg",
+      "path": "uploads/2026/08/61d20eb2.jpg",
+      "size": 1476969,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dbc446008208528b0abc4bc911fb5a71e2feaa0cfcb80299ec6e5135ea4e3996",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T01:54:30.972Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ベビーシッター",
+      "tags": [
+        "ポケモン",
+        "キノガッサ",
+        "キノココ",
+        "なにこの仔かわいい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148430565_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148430565",
+      "sourceCreatedAt": "2026-08-14T14:24:16.000Z"
+    },
+    {
       "id": "86daad01",
       "filename": "pixiv_148428720_p0.jpg",
       "path": "uploads/2026/08/2e5ddbb3.jpg",
