@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "c811d831",
+      "filename": "pixiv_148435188_p0.jpg",
+      "path": "uploads/2026/08/cb08c347.jpg",
+      "size": 363445,
+      "width": 516,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "40c7a74c1638500061fac0e008119fb84368a0570595e62fc48737bfd1e201aa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T09:04:29.214Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "アルヴさん☀️",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "アドマイヤグルーヴ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148435188_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148435188",
+      "sourceCreatedAt": "2026-08-14T16:00:04.000Z"
+    },
+    {
       "id": "66f513f3",
       "filename": "pixiv_148499143_p0.jpg",
       "path": "uploads/2026/08/63c61a9c.jpg",
