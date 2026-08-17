@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "f79f1fd2",
+      "filename": "pixiv_148483048_p0.jpg",
+      "path": "uploads/2026/08/177e3b2c.jpg",
+      "size": 1000397,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cc53306bdd454f03bcbb4c9053d883f8c3550f4d1d650430cd2c536988d57d1f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T16:44:11.088Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "も～…",
+      "tags": [
+        "グランブルーファンタジー",
+        "グラブル",
+        "シエジタ",
+        "ジータ(グラブル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148483048_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148483048",
+      "sourceCreatedAt": "2026-08-15T20:12:29.000Z"
+    },
+    {
       "id": "73831c32",
       "filename": "pixiv_148468676_p0.jpg",
       "path": "uploads/2026/08/526a5aef.jpg",
