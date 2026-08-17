@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "4eace868",
+      "filename": "pixiv_148479866_p0.jpg",
+      "path": "uploads/2026/08/89d840b4.jpg",
+      "size": 1042840,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "032032377fc1b00ee9498b62b94167ce053020f6a3d0088f8e4709bbc52ee6c3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T08:56:40.552Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "縁の織り糸 42 43 44 45",
+      "tags": [
+        "原神",
+        "蛍(原神)",
+        "巫女",
+        "浅瀬響(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148479866_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148479866",
+      "sourceCreatedAt": "2026-08-15T17:15:38.000Z"
+    },
+    {
       "id": "c54cdb46",
       "filename": "pixiv_148438132_p0.jpg",
       "path": "uploads/2026/08/bdef9916.jpg",
