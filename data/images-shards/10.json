@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "1b104934",
+      "filename": "pixiv_148287505_p0.jpg",
+      "path": "uploads/2026/08/082b8174.jpg",
+      "size": 969515,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "9a636406e11191c2ea0d07e45d325b36fbdb19f12f71428413ee17f774d8e9a8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T16:46:22.756Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "💜メッフィー💜",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "メフィストフェレス(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148287505_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148287505",
+      "sourceCreatedAt": "2026-08-11T04:47:05.000Z"
+    },
+    {
       "id": "abf92e01",
       "filename": "pixiv_148474809_p0.jpg",
       "path": "uploads/2026/08/d7c91b72.jpg",
