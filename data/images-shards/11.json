@@ -3,6 +3,28 @@
   "shardId": "11",
   "images": [
     {
+      "id": "6b553f82",
+      "filename": "pixiv_148497127_p0.jpg",
+      "path": "uploads/2026/08/e180ad5a.jpg",
+      "size": 598907,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e47db8f7944723d213ccf9f95fc2b2501e57b99378ce2072e46dc48d6c236b38",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T16:47:53.521Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "銀土まとめ",
+      "tags": [
+        "銀土"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148497127_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148497127",
+      "sourceCreatedAt": "2026-08-16T06:13:47.000Z"
+    },
+    {
       "id": "bef2f398",
       "filename": "pixiv_148473405_p0.jpg",
       "path": "uploads/2026/08/53c8d080.jpg",
