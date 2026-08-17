@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "3664501c",
+      "filename": "pixiv_148459354_p0.jpg",
+      "path": "uploads/2026/08/6f73e9bf.jpg",
+      "size": 757991,
+      "width": 1200,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "32b475e7caa43e06d2f4f95d3ae6cc65affb2c5bc6ba81d95b7ca20f3454bc8f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T08:59:48.045Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Prepare",
+      "tags": [
+        "T72",
+        "ヴェスナ",
+        "ミリタリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148459354_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148459354",
+      "sourceCreatedAt": "2026-08-15T09:09:20.000Z"
+    },
+    {
       "id": "5f42fab4",
       "filename": "pixiv_148482409_p0.jpg",
       "path": "uploads/2026/08/1adb13d4.jpg",
