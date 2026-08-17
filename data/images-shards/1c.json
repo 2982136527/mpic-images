@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "293364f8",
+      "filename": "pixiv_148516625_p0.jpg",
+      "path": "uploads/2026/08/4f2914f9.jpg",
+      "size": 910824,
+      "width": 801,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fb433813a3669678590ef66467f08facd8ee633e725f356f54a537f0e110f366",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-17T08:55:17.448Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "灰葡萄",
+      "tags": [
+        "oc"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148516625_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148516625",
+      "sourceCreatedAt": "2026-08-16T13:52:28.000Z"
+    },
+    {
       "id": "95988b1e",
       "filename": "pixiv_148403861_p0.jpg",
       "path": "uploads/2026/08/e255688a.jpg",
