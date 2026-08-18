@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "46fee9b3",
+      "filename": "pixiv_148536728_p0.jpg",
+      "path": "uploads/2026/08/ca48db24.jpg",
+      "size": 990989,
+      "width": 1200,
+      "height": 960,
+      "mimeType": "image/jpeg",
+      "hash": "e810562b41fad355420f24568c3c8c433d29a85f0102bf4ad543e3c137b4aaf6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T16:43:07.691Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "イラスト",
+        "ヰ世界情緒",
+        "art"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148536728_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148536728",
+      "sourceCreatedAt": "2026-08-17T04:13:57.000Z"
+    },
+    {
       "id": "b10d34ba",
       "filename": "pixiv_148450147_p0.jpg",
       "path": "uploads/2026/08/4dd11ab3.jpg",
