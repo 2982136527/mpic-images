@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "6b6c149d",
+      "filename": "pixiv_148500974_p0.jpg",
+      "path": "uploads/2026/08/f889a241.jpg",
+      "size": 600283,
+      "width": 886,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "90dc0715e0d75c3559e8394bb5859d0b7f5d45d0314c6844d9666800dd97fc5f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T01:48:02.704Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Ll",
+      "tags": [
+        "Limbus_Company",
+        "LibraryOfRuina"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148500974_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148500974",
+      "sourceCreatedAt": "2026-08-16T08:58:54.000Z"
+    },
+    {
       "id": "1c7871f9",
       "filename": "pixiv_148463872_p0.jpg",
       "path": "uploads/2026/08/5460a9df.jpg",
