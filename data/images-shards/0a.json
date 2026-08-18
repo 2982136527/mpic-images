@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "f508a859",
+      "filename": "pixiv_148488516_p0.jpg",
+      "path": "uploads/2026/08/9aa0d3bb.jpg",
+      "size": 507315,
+      "width": 922,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "635f5c4c212cbdd8c89706baefbdd9084bd5895edbf713ee960adea195b318d9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T01:53:36.732Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "スミカ",
+      "tags": [
+        "小森スミカ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148488516_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148488516",
+      "sourceCreatedAt": "2026-08-16T01:07:23.000Z"
+    },
+    {
       "id": "75a183e2",
       "filename": "pixiv_148462160_p0.jpg",
       "path": "uploads/2026/08/b1b9e270.jpg",
