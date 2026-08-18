@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "de5848df",
+      "filename": "pixiv_148502046_p0.jpg",
+      "path": "uploads/2026/08/0efeb471.jpg",
+      "size": 805849,
+      "width": 884,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "63aff67c78f43c1777a64304524f2f9ddb7d4f14815c97c7878c86306a557418",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T08:55:22.099Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "四尺さま",
+      "tags": [
+        "八尺様",
+        "ロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148502046_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148502046",
+      "sourceCreatedAt": "2026-08-16T08:43:00.000Z"
+    },
+    {
       "id": "1b4c9b57",
       "filename": "pixiv_148475261_p0.jpg",
       "path": "uploads/2026/08/4c81a828.jpg",
