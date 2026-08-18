@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "5fc2f969",
+      "filename": "pixiv_148470824_p0.jpg",
+      "path": "uploads/2026/08/83f9a531.jpg",
+      "size": 1317296,
+      "width": 1038,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "21e68f7386dd90994082e1db7dad0b76543546507652999d1794d8b137afea2c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T01:46:57.620Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "初音ミクコミケ仕様色紙",
+      "tags": [
+        "初音ミク",
+        "色紙",
+        "C108",
+        "ボーカロイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148470824_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148470824",
+      "sourceCreatedAt": "2026-08-15T13:35:00.000Z"
+    },
+    {
       "id": "8ec41094",
       "filename": "pixiv_148467544_p0.jpg",
       "path": "uploads/2026/08/64c126d8.jpg",
