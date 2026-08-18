@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "538a20f4",
+      "filename": "pixiv_148537118_p0.jpg",
+      "path": "uploads/2026/08/874701d3.jpg",
+      "size": 1140136,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "24d6b706c182b828dd0045743bc907a61a566c45562c763a5370f6ad99d8f293",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T16:43:15.644Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "初音",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "キョンシー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148537118_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148537118",
+      "sourceCreatedAt": "2026-08-17T04:35:30.000Z"
+    },
+    {
       "id": "d894b678",
       "filename": "pixiv_148515798_p0.jpg",
       "path": "uploads/2026/08/e65ae143.jpg",
