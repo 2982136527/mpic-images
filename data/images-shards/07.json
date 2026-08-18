@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "263ac725",
+      "filename": "pixiv_148487665_p0.jpg",
+      "path": "uploads/2026/08/9ed9ba0a.jpg",
+      "size": 1473635,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0bbd17214288b71159a7593c7ee46d11900a6eb811818d06fb004edaa6731c5c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T01:49:51.943Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "キュアアルカナ",
+      "tags": [
+        "名探偵プリキュア!",
+        "プリキュア",
+        "キュアアルカナ",
+        "マシュタン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148487665_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148487665",
+      "sourceCreatedAt": "2026-08-16T00:32:05.000Z"
+    },
+    {
       "id": "6f5bf43d",
       "filename": "pixiv_148502788_p0.jpg",
       "path": "uploads/2026/08/ba78eb0f.jpg",
