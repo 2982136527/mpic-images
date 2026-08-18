@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "a764930f",
+      "filename": "pixiv_148505610_p0.jpg",
+      "path": "uploads/2026/08/dd5eef23.jpg",
+      "size": 670058,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d650d99bd715576e77489087e257072fb9fcbbb5332c5c856ad0cf4e0598fb46",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T16:44:56.215Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ぴくしぶで活動して一年経ったよっていう絵",
+      "tags": [
+        "はやしだよう",
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148505610_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148505610",
+      "sourceCreatedAt": "2026-08-16T10:08:58.000Z"
+    },
+    {
       "id": "746e3aee",
       "filename": "pixiv_148527373_p0.jpg",
       "path": "uploads/2026/08/ba09d65e.jpg",
