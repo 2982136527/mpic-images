@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "021e8cf2",
+      "filename": "pixiv_148530599_p0.jpg",
+      "path": "uploads/2026/08/f293a152.jpg",
+      "size": 689688,
+      "width": 753,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "85ad9e6ead0561513d4f3c940bd625de47ddd8505ddf70119ee204814bba7657",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T08:55:54.333Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Remielle bathtub",
+      "tags": [
+        "remielle",
+        "zzz",
+        "zenlesszonezero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148530599_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148530599",
+      "sourceCreatedAt": "2026-08-16T22:53:59.000Z"
+    },
+    {
       "id": "bcca90c2",
       "filename": "pixiv_148474839_p0.jpg",
       "path": "uploads/2026/08/7d4963fc.jpg",
