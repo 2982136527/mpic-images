@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "d894b678",
+      "filename": "pixiv_148515798_p0.jpg",
+      "path": "uploads/2026/08/e65ae143.jpg",
+      "size": 1503613,
+      "width": 1200,
+      "height": 809,
+      "mimeType": "image/jpeg",
+      "hash": "9eb80e95476c2275d58cfee0fa1e39680338c04a81e3f3dee35cdee580205e48",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T08:56:21.329Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "年賀状イラスト",
+      "tags": [
+        "オリジナル",
+        "風景",
+        "背景",
+        "ファンタジー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148515798_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148515798",
+      "sourceCreatedAt": "2026-08-16T13:35:35.000Z"
+    },
+    {
       "id": "a2ff73be",
       "filename": "pixiv_148491265_p0.jpg",
       "path": "uploads/2026/08/bfb62b73.jpg",
