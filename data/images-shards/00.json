@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "746e3aee",
+      "filename": "pixiv_148527373_p0.jpg",
+      "path": "uploads/2026/08/ba09d65e.jpg",
+      "size": 652192,
+      "width": 868,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ba66ff28a00df05bfb16ed81b10c8390d208fe9a2a48bc0926d21cca5127d8ab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T08:55:14.634Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "エクリプス・シャドウ",
+      "tags": [
+        "名探偵プリキュア!",
+        "森亜るるか",
+        "キュアアルカナ・シャドウ",
+        "エクリプス・シャドウ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148527373_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148527373",
+      "sourceCreatedAt": "2026-08-16T19:18:25.000Z"
+    },
+    {
       "id": "1bd7e489",
       "filename": "pixiv_148547517_p0.jpg",
       "path": "uploads/2026/08/bddfac9c.jpg",
