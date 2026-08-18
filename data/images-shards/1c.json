@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "82e9a5ae",
+      "filename": "pixiv_148350845_p0.jpg",
+      "path": "uploads/2026/08/ef490952.jpg",
+      "size": 1821183,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7e62bd13606307e80d81944cf2492ed533a8eaff318681054e2e2f5973622d39",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T08:57:38.309Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "海にはばたく",
+      "tags": [
+        "ポケットモンスター",
+        "ルギア",
+        "水没都市",
+        "水中"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148350845_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148350845",
+      "sourceCreatedAt": "2026-08-12T15:00:18.000Z"
+    },
+    {
       "id": "630fee9c",
       "filename": "pixiv_148465110_p0.jpg",
       "path": "uploads/2026/08/c5bdd5c5.jpg",
