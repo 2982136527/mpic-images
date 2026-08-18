@@ -3,6 +3,36 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "1ce40e35",
+      "filename": "pixiv_148490420_p0.jpg",
+      "path": "uploads/2026/08/53c419c6.jpg",
+      "size": 1065906,
+      "width": 1000,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1dd32769f94fe7e2d992ce586591b8c9f815c0f969e47a0db4e4978e1693b0f6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T16:41:35.626Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リンバスカンパニー(魔法少女)",
+      "tags": [
+        "Limbus_Company",
+        "LimbusCompany",
+        "ファウスト(LCB)",
+        "ドンキホーテ(LCB)",
+        "良秀(LCB)",
+        "イシュメール(LCB)",
+        "ロージャ(LCB)",
+        "ウーティス(LCB)",
+        "魔法少女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148490420_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148490420",
+      "sourceCreatedAt": "2026-08-16T02:26:22.000Z"
+    },
+    {
       "id": "82929a9b",
       "filename": "pixiv_148547532_p0.jpg",
       "path": "uploads/2026/08/0c0a813e.jpg",
