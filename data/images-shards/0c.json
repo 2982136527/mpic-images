@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "3034a32b",
+      "filename": "pixiv_148507401_p0.jpg",
+      "path": "uploads/2026/08/2f0a9e1e.jpg",
+      "size": 1071557,
+      "width": 863,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c1b33e8f82a0aff82f21ae9f8f0314e770980dbe88f8ecc4a3d3ca86571a300c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T08:56:11.512Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ペリカ",
+      "tags": [
+        "ペリカ(エンドフィールド)",
+        "エンドフィールド",
+        "ArknightsEndfield",
+        "Endfield"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148507401_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148507401",
+      "sourceCreatedAt": "2026-08-16T10:55:03.000Z"
+    },
+    {
       "id": "e10bd9bc",
       "filename": "pixiv_148483937_p0.jpg",
       "path": "uploads/2026/08/cba0d1d9.jpg",
