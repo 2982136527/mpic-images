@@ -3,6 +3,35 @@
   "shardId": "03",
   "images": [
     {
+      "id": "28db6434",
+      "filename": "pixiv_148516422_p0.jpg",
+      "path": "uploads/2026/08/8e53843b.jpg",
+      "size": 1149248,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "19d43278024a822c9c39843e573f6262fb83b13494b6a6078eb45d707822a33f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T08:53:26.053Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リナさん",
+      "tags": [
+        "ゼンゼロ2周年イラコン新衣装",
+        "ゼンゼロ",
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "zzzero",
+        "リナ(ゼンゼロ)",
+        "アレクサンドリナ・セバスチャン",
+        "AlexandrinaSebastiane"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148516422_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148516422",
+      "sourceCreatedAt": "2026-08-16T13:48:16.000Z"
+    },
+    {
       "id": "c811d831",
       "filename": "pixiv_148435188_p0.jpg",
       "path": "uploads/2026/08/cb08c347.jpg",
