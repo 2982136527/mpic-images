@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "e991c146",
+      "filename": "pixiv_148542741_p0.jpg",
+      "path": "uploads/2026/08/44f63893.jpg",
+      "size": 465609,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fe96a43d215242fb2d35c476af2c4ec4b295664e1c63043f6df4ee5ed4722ad0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T08:53:33.329Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "洩矢諏訪子",
+        "東方",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148542741_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148542741",
+      "sourceCreatedAt": "2026-08-17T08:49:26.000Z"
+    },
+    {
       "id": "28db6434",
       "filename": "pixiv_148516422_p0.jpg",
       "path": "uploads/2026/08/8e53843b.jpg",
