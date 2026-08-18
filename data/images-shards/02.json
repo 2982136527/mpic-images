@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "4eb2cc30",
+      "filename": "pixiv_148535827_p0.jpg",
+      "path": "uploads/2026/08/a61c8c1d.jpg",
+      "size": 1136021,
+      "width": 790,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "54286330d29199edf759d0486b090f5f5e556b211e07d6a0c928ccdc76f24bb3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T16:49:07.064Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "あみゃ",
+      "tags": [
+        "天宮こころ",
+        "にじさんじ",
+        "バーチャルYouTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148535827_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148535827",
+      "sourceCreatedAt": "2026-08-17T03:31:35.000Z"
+    },
+    {
       "id": "15f68f39",
       "filename": "pixiv_148492667_p0.jpg",
       "path": "uploads/2026/08/1c710923.jpg",
