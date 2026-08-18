@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "b4dfcf69",
+      "filename": "pixiv_148447649_p0.jpg",
+      "path": "uploads/2026/08/7a0e969d.jpg",
+      "size": 810322,
+      "width": 726,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8fcc862ea2d8e58c368ff599556e3aff4c66786cdbe213c44c3e9e2866a4cd1b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T01:49:27.981Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Mint",
+      "tags": [
+        "水着",
+        "バーチャルYouTuber",
+        "ミント・ファントーム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148447649_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148447649",
+      "sourceCreatedAt": "2026-08-15T02:23:01.000Z"
+    },
+    {
       "id": "6b553f82",
       "filename": "pixiv_148497127_p0.jpg",
       "path": "uploads/2026/08/e180ad5a.jpg",
