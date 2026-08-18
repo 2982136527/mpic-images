@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "4a6df598",
+      "filename": "pixiv_148532801_p0.jpg",
+      "path": "uploads/2026/08/8a9c81a9.jpg",
+      "size": 774684,
+      "width": 914,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "995a9237f1de15d5086b751fa58ef54d0439c74fcfa6c0f15df635182d09f597",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T16:45:26.785Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "機械",
+        "褐色"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148532801_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148532801",
+      "sourceCreatedAt": "2026-08-17T01:05:51.000Z"
+    },
+    {
       "id": "f9f453a3",
       "filename": "pixiv_148517397_p0.jpg",
       "path": "uploads/2026/08/823a4151.jpg",
