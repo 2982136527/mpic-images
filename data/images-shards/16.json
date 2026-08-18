@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "a8954ca7",
+      "filename": "pixiv_148542501_p0.jpg",
+      "path": "uploads/2026/08/2fc69ef6.jpg",
+      "size": 966104,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8efdeee4f78c6dbc107dba0c9e8a74a3030684004d239c137301234f9ac308ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T16:43:23.266Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108イラスト集　通販中",
+      "tags": [
+        "ポケモン",
+        "C108",
+        "プリン",
+        "プリン(ポケモン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148542501_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148542501",
+      "sourceCreatedAt": "2026-08-17T08:40:36.000Z"
+    },
+    {
       "id": "a544d6a0",
       "filename": "pixiv_148514742_p0.jpg",
       "path": "uploads/2026/08/9ab95238.jpg",
