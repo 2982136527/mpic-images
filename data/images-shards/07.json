@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "57623a2d",
+      "filename": "pixiv_148507550_p0.jpg",
+      "path": "uploads/2026/08/89548e52.jpg",
+      "size": 613623,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "598afede663c30b038acacd9f1d77f46f79037b96f75849d3fcd6fe940811f42",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T01:54:03.181Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ほぼキスケさん2",
+      "tags": [
+        "ほの暮しの庭",
+        "キスケ(ほの暮しの庭)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148507550_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148507550",
+      "sourceCreatedAt": "2026-08-16T10:59:14.000Z"
+    },
+    {
       "id": "263ac725",
       "filename": "pixiv_148487665_p0.jpg",
       "path": "uploads/2026/08/9ed9ba0a.jpg",
