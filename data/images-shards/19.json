@@ -3,6 +3,34 @@
   "shardId": "19",
   "images": [
     {
+      "id": "3c2244f9",
+      "filename": "pixiv_148521424_p0.jpg",
+      "path": "uploads/2026/08/425a75ca.jpg",
+      "size": 753530,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a1c731f0753a138b78959055092afd120e347e6941830b61ad2c5b9707d7d7a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T08:56:28.775Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ポケモンHGプレイ日記",
+      "tags": [
+        "ポケモン",
+        "ポケモンHGSS",
+        "プレイ日記",
+        "ポケットモンスター",
+        "ハートゴールド",
+        "チコリータ",
+        "pokemon"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148521424_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148521424",
+      "sourceCreatedAt": "2026-08-16T15:19:44.000Z"
+    },
+    {
       "id": "9cef6045",
       "filename": "pixiv_148520834_p0.jpg",
       "path": "uploads/2026/08/9859e398.jpg",
