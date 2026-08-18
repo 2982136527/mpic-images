@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "8ec41094",
+      "filename": "pixiv_148467544_p0.jpg",
+      "path": "uploads/2026/08/64c126d8.jpg",
+      "size": 816212,
+      "width": 955,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "85c779a4160523d0a12844e3bc0e0160a73fa60d57d5426e8212309e23b09cac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T01:46:47.577Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "冷やしきつね",
+      "tags": [
+        "オリジナル",
+        "けもみみ",
+        "狐耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148467544_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148467544",
+      "sourceCreatedAt": "2026-08-15T12:26:40.000Z"
+    },
+    {
       "id": "f57e05d2",
       "filename": "pixiv_148413056_p0.jpg",
       "path": "uploads/2026/08/132fad0f.jpg",
