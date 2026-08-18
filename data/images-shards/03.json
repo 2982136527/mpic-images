@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "512c4043",
+      "filename": "pixiv_148474828_p0.jpg",
+      "path": "uploads/2026/08/c40d6811.jpg",
+      "size": 1208227,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "d803542f349558a1fbb96b1784d71f2471a2eeb36c7ea4bdfe0a36fecd85e6f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T16:42:49.581Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "スターダストレイン",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148474828_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148474828",
+      "sourceCreatedAt": "2026-08-15T15:00:24.000Z"
+    },
+    {
       "id": "df31d552",
       "filename": "pixiv_148312149_p0.jpg",
       "path": "uploads/2026/08/cb892671.jpg",
