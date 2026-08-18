@@ -3,6 +3,35 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "2ef3e1fc",
+      "filename": "pixiv_148511589_p0.jpg",
+      "path": "uploads/2026/08/03607e76.jpg",
+      "size": 1166403,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "fa22595cc01452f3d4bbc3ab96a3d21335972d427992d7ab4079048877e9efd4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T16:44:11.872Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🎯🪽",
+      "tags": [
+        "ゼンゼロ2周年イラコンFA",
+        "ZenlessZoneZero",
+        "レミエール・ダン",
+        "リン(ゼンゼロ)",
+        "ゼンレスゾーンゼロ",
+        "トリガー(ゼンゼロ)",
+        "ビビアン・バンシー",
+        "レミリン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148511589_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148511589",
+      "sourceCreatedAt": "2026-08-16T12:13:29.000Z"
+    },
+    {
       "id": "82e9a5ae",
       "filename": "pixiv_148350845_p0.jpg",
       "path": "uploads/2026/08/ef490952.jpg",
