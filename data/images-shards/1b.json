@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "da553ad3",
+      "filename": "pixiv_148541233_p0.jpg",
+      "path": "uploads/2026/08/14610d1f.jpg",
+      "size": 848172,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e4ab6f7317bdf0eb7a1806d33871a81ded6b50e9ae997594cc30e2ec66f2daa2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T08:55:05.680Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ほたち",
+      "tags": [
+        "蛍(原神)",
+        "lumine",
+        "原神",
+        "GenshinImpact",
+        "Genshin",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148541233_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148541233",
+      "sourceCreatedAt": "2026-08-17T07:52:43.000Z"
+    },
+    {
       "id": "48d520c4",
       "filename": "pixiv_148496384_p0.jpg",
       "path": "uploads/2026/08/cf7cd743.jpg",
