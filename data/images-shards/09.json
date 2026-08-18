@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "cbcdb72d",
+      "filename": "pixiv_148544599_p0.jpg",
+      "path": "uploads/2026/08/18cc7d7b.jpg",
+      "size": 1692915,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6dec5cc122e59ecbcb34a150bbd73dda793e4247a538d5a7a15ffc1dc24a9887",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T16:45:03.786Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "小穹.",
+      "tags": [
+        "春日野穹",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148544599_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148544599",
+      "sourceCreatedAt": "2026-08-17T09:40:14.000Z"
+    },
+    {
       "id": "437cffab",
       "filename": "pixiv_148485135_p0.jpg",
       "path": "uploads/2026/08/363ed7da.jpg",
