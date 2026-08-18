@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "a1fe141d",
+      "filename": "pixiv_148469924_p0.jpg",
+      "path": "uploads/2026/08/2bf1871a.jpg",
+      "size": 537655,
+      "width": 999,
+      "height": 1040,
+      "mimeType": "image/jpeg",
+      "hash": "15971af861ecf1b209869e3191cc256137706b95dd71bb197d0a2fc8b52b9af8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T01:45:30.220Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "魔神任務後の蛍とパイモン",
+      "tags": [
+        "蛍(原神)",
+        "パイモン(原神)",
+        "GenshinImpact"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148469924_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148469924",
+      "sourceCreatedAt": "2026-08-15T13:15:30.000Z"
+    },
+    {
       "id": "37a84ef8",
       "filename": "pixiv_148483427_p0.jpg",
       "path": "uploads/2026/08/93fc43f7.jpg",
