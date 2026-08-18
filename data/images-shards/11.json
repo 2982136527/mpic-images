@@ -3,6 +3,37 @@
   "shardId": "11",
   "images": [
     {
+      "id": "2be75b5b",
+      "filename": "pixiv_148486328_p0.jpg",
+      "path": "uploads/2026/08/c0957c9c.jpg",
+      "size": 1289096,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1ce147404f2a73f7f7237cecf5c454be78262670052ba9b097c6db72f785924f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T01:53:03.008Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Mihono Bourbon visits the beach",
+      "tags": [
+        "ミホノブルボン(ウマ娘)",
+        "ミホノブルボン",
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "女の子",
+        "水着ウマ娘",
+        "水着",
+        "海",
+        "スク水",
+        "ウマ娘プリティーダービー100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148486328_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148486328",
+      "sourceCreatedAt": "2026-08-15T23:27:39.000Z"
+    },
+    {
       "id": "b4dfcf69",
       "filename": "pixiv_148447649_p0.jpg",
       "path": "uploads/2026/08/7a0e969d.jpg",
