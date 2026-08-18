@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "f9f453a3",
+      "filename": "pixiv_148517397_p0.jpg",
+      "path": "uploads/2026/08/823a4151.jpg",
+      "size": 508776,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "daa6b80ed81b7ae4a7c57463c44de7ed939d98919ff655e01a9e3c2f08c48f95",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T08:57:06.684Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "260816",
+      "tags": [
+        "ブルアカ",
+        "丹花イブキ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148517397_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148517397",
+      "sourceCreatedAt": "2026-08-16T14:07:36.000Z"
+    },
+    {
       "id": "20e9ea8f",
       "filename": "pixiv_148516915_p0.jpg",
       "path": "uploads/2026/08/070003db.jpg",
