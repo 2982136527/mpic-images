@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "a67d202e",
+      "filename": "pixiv_148513323_p0.jpg",
+      "path": "uploads/2026/08/d3b242ab.jpg",
+      "size": 657620,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "db6b9c4e2c63f3cfad2c18ac8de6141b315f0e70e2f4462a2c2675bc5fdaf243",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T16:46:39.543Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🥫",
+      "tags": [
+        "女の子",
+        "制服",
+        "下校中"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148513323_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148513323",
+      "sourceCreatedAt": "2026-08-16T12:49:13.000Z"
+    },
+    {
       "id": "088d6096",
       "filename": "pixiv_148504812_p0.jpg",
       "path": "uploads/2026/08/f6a4804e.jpg",
