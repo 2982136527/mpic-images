@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "456b0dd6",
+      "filename": "pixiv_148546035_p0.jpg",
+      "path": "uploads/2026/08/ab00dd44.jpg",
+      "size": 774284,
+      "width": 1200,
+      "height": 814,
+      "mimeType": "image/jpeg",
+      "hash": "244d00befb47ff54dae1816816be0e27751634a84f84deb27e71d944744d2389",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T16:41:59.545Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "小天鹅",
+      "tags": [
+        "女の子",
+        "タイツ足裏",
+        "少女",
+        "羽毛",
+        "小天鹅"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148546035_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148546035",
+      "sourceCreatedAt": "2026-08-17T10:19:42.000Z"
+    },
+    {
       "id": "b288e234",
       "filename": "pixiv_148534980_p0.jpg",
       "path": "uploads/2026/08/4fdba45c.jpg",
