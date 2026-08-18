@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "9f79e34c",
+      "filename": "pixiv_148528067_p0.jpg",
+      "path": "uploads/2026/08/f357c6a3.jpg",
+      "size": 1502504,
+      "width": 1028,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8fddf6062dc95a113e02cf726ccd8c544b627939fa49c76906492e923fcabf19",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T08:52:40.518Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "FGO",
+        "マシュ・キリエライト",
+        "オルガマリー・アニムスフィア",
+        "Fate/GrandOrder",
+        "常夏の水着Ver.03"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148528067_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148528067",
+      "sourceCreatedAt": "2026-08-16T20:07:45.000Z"
+    },
+    {
       "id": "13fb5d6a",
       "filename": "pixiv_148517268_p0.jpg",
       "path": "uploads/2026/08/34becfcf.jpg",
