@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "4b0d3d28",
+      "filename": "pixiv_148501584_p0.jpg",
+      "path": "uploads/2026/08/3b2e15fe.jpg",
+      "size": 949422,
+      "width": 885,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "554e1c20d96200b7f43ca6929765f742f02ac491d5d8f830594effdcca0bb838",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T01:47:17.420Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ポルターガイスト",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148501584_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148501584",
+      "sourceCreatedAt": "2026-08-16T08:29:48.000Z"
+    },
+    {
       "id": "5fc2f969",
       "filename": "pixiv_148470824_p0.jpg",
       "path": "uploads/2026/08/83f9a531.jpg",
