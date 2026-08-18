@@ -3,6 +3,28 @@
   "shardId": "15",
   "images": [
     {
+      "id": "02a45c9c",
+      "filename": "pixiv_148437159_p0.jpg",
+      "path": "uploads/2026/08/7a210493.jpg",
+      "size": 1108458,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f7966e4c49e11f7e5d56b6995adabe47e80748740616a36f34e0958fff1edec9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T01:45:38.004Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "8/15",
+      "tags": [
+        "カゲロウデイズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148437159_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148437159",
+      "sourceCreatedAt": "2026-08-14T17:04:04.000Z"
+    },
+    {
       "id": "4a2b1735",
       "filename": "pixiv_148491693_p0.jpg",
       "path": "uploads/2026/08/4073fd76.jpg",
