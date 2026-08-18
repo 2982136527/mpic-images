@@ -3,6 +3,28 @@
   "shardId": "11",
   "images": [
     {
+      "id": "fee68281",
+      "filename": "pixiv_148505291_p0.jpg",
+      "path": "uploads/2026/08/90b00db4.jpg",
+      "size": 956278,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3dee46b184dc4adb6dd129741c14926893b8a054b250b0189d7c336e470179fb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T16:44:19.477Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "熱が過ぎてゆく",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148505291_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148505291",
+      "sourceCreatedAt": "2026-08-16T10:01:25.000Z"
+    },
+    {
       "id": "811b395f",
       "filename": "pixiv_148514971_p0.jpg",
       "path": "uploads/2026/08/ce24b879.jpg",
