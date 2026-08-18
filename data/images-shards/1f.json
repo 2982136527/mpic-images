@@ -3,6 +3,33 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "7d2ec98a",
+      "filename": "pixiv_148476833_p0.jpg",
+      "path": "uploads/2026/08/199e12fb.jpg",
+      "size": 596825,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "17e8666dab357a8854a0390b29a084e0d8300b9b826c4d0a7b9cd32c2e1cfcc2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T16:48:02.993Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Kansaineko",
+      "tags": [
+        "kansaineko",
+        "yanineko",
+        "chainsmokercat",
+        "anime",
+        "fanart",
+        "R-18"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148476833_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148476833",
+      "sourceCreatedAt": "2026-08-15T15:35:51.000Z"
+    },
+    {
       "id": "857f7b74",
       "filename": "pixiv_148503725_p0.jpg",
       "path": "uploads/2026/08/1e8b2c91.jpg",
