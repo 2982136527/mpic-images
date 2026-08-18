@@ -3,6 +3,35 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "48d520c4",
+      "filename": "pixiv_148496384_p0.jpg",
+      "path": "uploads/2026/08/cf7cd743.jpg",
+      "size": 612200,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "357bbb6b484ffd3daeae97342e8709d83081958b5eea172b8ff27d34d95c184e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T08:54:28.139Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "真っ当なアドバイスをしてくれているはずなのに",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "レジライ",
+        "アシュヴァッターマン(Fate)",
+        "カルデア南海大決戦!",
+        "クリストファー・コロンブス(Fate)",
+        "殴りたい、この笑顔",
+        "子泣き爺"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148496384_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148496384",
+      "sourceCreatedAt": "2026-08-16T05:51:56.000Z"
+    },
+    {
       "id": "8944f7e3",
       "filename": "pixiv_148433154_p0.jpg",
       "path": "uploads/2026/08/b06aa6ef.jpg",
