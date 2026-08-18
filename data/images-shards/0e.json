@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "eebbffa2",
+      "filename": "pixiv_148557079_p0.jpg",
+      "path": "uploads/2026/08/19a0e7d8.jpg",
+      "size": 823561,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aa433bb2268803332714ff395a9013849a55ba6393537f24ca8f24435144d065",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-18T08:54:03.539Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "[commission] ミソラソラ（ギャル）",
+      "tags": [
+        "VTuber",
+        "ミソラソラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148557079_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148557079",
+      "sourceCreatedAt": "2026-08-17T14:28:23.000Z"
+    },
+    {
       "id": "24f95a98",
       "filename": "pixiv_148506326_p0.jpg",
       "path": "uploads/2026/08/393e22ca.jpg",
