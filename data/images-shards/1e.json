@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "ef92564e",
+      "filename": "pixiv_148568476_p0.jpg",
+      "path": "uploads/2026/08/0353756e.jpg",
+      "size": 492774,
+      "width": 1046,
+      "height": 1171,
+      "mimeType": "image/jpeg",
+      "hash": "b4ed4757993a31f5d8accae935809c529087a984ae3685b376726574e9441313",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:58:08.586Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ヨーギラスに無視されたい",
+      "tags": [
+        "ヨーギラス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148568476_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148568476",
+      "sourceCreatedAt": "2026-08-17T22:28:36.000Z"
+    },
+    {
       "id": "3e52f009",
       "filename": "pixiv_148558990_p0.jpg",
       "path": "uploads/2026/08/df5bb64e.jpg",
