@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "9f0c60ae",
+      "filename": "pixiv_148552743_p0.jpg",
+      "path": "uploads/2026/08/21f0bc8c.jpg",
+      "size": 601600,
+      "width": 1200,
+      "height": 840,
+      "mimeType": "image/jpeg",
+      "hash": "967cd25dfb749b0c36503cbd5c5fbe19cecd4667e7ae520bedbe7dae2c36e0c2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:57:46.616Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "OC_NEVELAZH_sheet",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148552743_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148552743",
+      "sourceCreatedAt": "2026-08-17T12:52:41.000Z"
+    },
+    {
       "id": "d361a6c7",
       "filename": "pixiv_148558546_p0.jpg",
       "path": "uploads/2026/08/ccf83621.jpg",
