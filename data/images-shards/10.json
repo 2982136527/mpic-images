@@ -3,6 +3,35 @@
   "shardId": "10",
   "images": [
     {
+      "id": "789f1400",
+      "filename": "pixiv_148584474_p0.jpg",
+      "path": "uploads/2026/08/3a83003c.jpg",
+      "size": 891253,
+      "width": 1200,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "886eb26d83e821b334cb9700bdc5a3e61f28f279fe993136d57f92e04ae9e913",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:43:50.904Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "SKEB",
+      "tags": [
+        "月姫",
+        "琥珀",
+        "翡翠",
+        "メルブラ",
+        "水着",
+        "琥珀(月姫)",
+        "翡翠(月姫)",
+        "海水浴"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148584474_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148584474",
+      "sourceCreatedAt": "2026-08-18T10:24:02.000Z"
+    },
+    {
       "id": "773bca35",
       "filename": "pixiv_148545615_p0.jpg",
       "path": "uploads/2026/08/79ebf3b2.jpg",
