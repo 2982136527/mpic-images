@@ -3,6 +3,28 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "cba2a3d0",
+      "filename": "pixiv_148546061_p0.jpg",
+      "path": "uploads/2026/08/d547536e.jpg",
+      "size": 1805931,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "30f79f4b56c3218d98fe1671f6cbc8a77a14ee5650386834b7c571087e144e20",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:51:10.350Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏の墓場",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148546061_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148546061",
+      "sourceCreatedAt": "2026-08-17T10:20:13.000Z"
+    },
+    {
       "id": "da6809f1",
       "filename": "pixiv_148524684_p0.jpg",
       "path": "uploads/2026/08/8713342c.jpg",
