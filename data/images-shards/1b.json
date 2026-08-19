@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "ac56d84e",
+      "filename": "pixiv_148558836_p0.jpg",
+      "path": "uploads/2026/08/4a2eed4b.jpg",
+      "size": 1693903,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7e5115b82e3e3a83c1e5774c1676bc08de0e67d37219f7b0a73b78aa37c0fc7e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:46:48.503Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ifミクちゃんとあさがお",
+      "tags": [
+        "VOCALOID",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148558836_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148558836",
+      "sourceCreatedAt": "2026-08-17T15:01:24.000Z"
+    },
+    {
       "id": "b3b853f3",
       "filename": "pixiv_148568300_p0.jpg",
       "path": "uploads/2026/08/b76ca175.jpg",
