@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "f36a87c8",
+      "filename": "pixiv_148514289_p0.jpg",
+      "path": "uploads/2026/08/b46d88be.jpg",
+      "size": 643896,
+      "width": 1003,
+      "height": 1003,
+      "mimeType": "image/jpeg",
+      "hash": "9abed976e1120e121460e6e59ecbf489738a604430630814a1004d91c5a5479f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:51:34.279Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "殺戮の天使落描き",
+      "tags": [
+        "殺戮の天使",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148514289_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148514289",
+      "sourceCreatedAt": "2026-08-16T13:05:37.000Z"
+    },
+    {
       "id": "d0fabc64",
       "filename": "pixiv_148553712_p0.jpg",
       "path": "uploads/2026/08/1d366a12.jpg",
