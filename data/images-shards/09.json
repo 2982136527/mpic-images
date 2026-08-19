@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "94cd9248",
+      "filename": "pixiv_148548875_p0.jpg",
+      "path": "uploads/2026/08/fea0a7f8.jpg",
+      "size": 1026411,
+      "width": 889,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "198a104d0c380505a15e7248c151acbd575f059e2be530ae01f11858a284cddc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:57:53.424Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ダンジョンツインズ",
+      "tags": [
+        "オリジナル",
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148548875_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148548875",
+      "sourceCreatedAt": "2026-08-17T11:30:10.000Z"
+    },
+    {
       "id": "cbcdb72d",
       "filename": "pixiv_148544599_p0.jpg",
       "path": "uploads/2026/08/18cc7d7b.jpg",
