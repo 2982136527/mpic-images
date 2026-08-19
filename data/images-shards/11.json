@@ -3,6 +3,37 @@
   "shardId": "11",
   "images": [
     {
+      "id": "2b710b72",
+      "filename": "pixiv_148581756_p0.jpg",
+      "path": "uploads/2026/08/61e0730c.jpg",
+      "size": 1201195,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c5073ae9188eb8c0714fc5a636fc0ee1e0258bf70d10561b868186496c9470a1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:53:57.677Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "よちょう？",
+      "tags": [
+        "明日方舟",
+        "アークナイツ:エンドフィールド",
+        "ギルベルタ(エンドフィールド)",
+        "洁尔佩塔",
+        "TSF",
+        "乗っ取り",
+        "憑依",
+        "他者変身",
+        "安洁莉娜",
+        "スライム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148581756_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148581756",
+      "sourceCreatedAt": "2026-08-18T09:02:07.000Z"
+    },
+    {
       "id": "f4c32cb3",
       "filename": "pixiv_148592131_p0.jpg",
       "path": "uploads/2026/08/44963410.jpg",
