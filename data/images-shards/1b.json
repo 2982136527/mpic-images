@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "3ebc4720",
+      "filename": "pixiv_148582556_p0.jpg",
+      "path": "uploads/2026/08/db0d6994.jpg",
+      "size": 898866,
+      "width": 903,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "535154a8c2873d8064c27be77fe05e209b2b98c5b5537dde1f84efa9bf36f7c4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:54:54.164Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "覗いちゃだけ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "女の子",
+        "天童ケイ",
+        "バニーガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148582556_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148582556",
+      "sourceCreatedAt": "2026-08-18T09:27:56.000Z"
+    },
+    {
       "id": "c327a8cd",
       "filename": "pixiv_148579748_p0.jpg",
       "path": "uploads/2026/08/e14bc558.jpg",
