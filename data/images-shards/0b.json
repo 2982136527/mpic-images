@@ -3,6 +3,28 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "df15b57e",
+      "filename": "pixiv_148477717_p0.jpg",
+      "path": "uploads/2026/08/4e9a166d.jpg",
+      "size": 1229606,
+      "width": 1200,
+      "height": 811,
+      "mimeType": "image/jpeg",
+      "hash": "17015b11c2da32884b56763ffe3b0589e22a6016e0e2c13d2a3a5ef286cea2ac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:47:45.074Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ほの庭log①",
+      "tags": [
+        "ほの暮しの庭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148477717_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148477717",
+      "sourceCreatedAt": "2026-08-15T16:00:31.000Z"
+    },
+    {
       "id": "16d915ae",
       "filename": "pixiv_148528816_p0.jpg",
       "path": "uploads/2026/08/c21d6d5d.jpg",
