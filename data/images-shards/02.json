@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "62cd5cb9",
+      "filename": "pixiv_148521465_p0.jpg",
+      "path": "uploads/2026/08/9c0d9654.jpg",
+      "size": 1543928,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a163cdd6f63ead47fe68e04e9e3fee65b7053750cf462ec606d9034360c13037",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:50:00.901Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "2233 16th",
+      "tags": [
+        "女の子",
+        "2233",
+        "bilibili"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148521465_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148521465",
+      "sourceCreatedAt": "2026-08-16T15:20:32.000Z"
+    },
+    {
       "id": "a97c4e3d",
       "filename": "pixiv_148291936_p0.jpg",
       "path": "uploads/2026/08/c73d2783.jpg",
