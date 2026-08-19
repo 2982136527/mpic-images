@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "b1013791",
+      "filename": "pixiv_148518252_p0.jpg",
+      "path": "uploads/2026/08/79e5e497.jpg",
+      "size": 608297,
+      "width": 1067,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "08b620bff321d6263db00e0cc210039ebe76d2b5d9a2d40ef60c2b78c51c93ca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:47:24.588Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "プレゼントだよ～",
+      "tags": [
+        "セイレーン(ちいかわ)",
+        "人魚(ちいかわ)",
+        "ちいかわ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148518252_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148518252",
+      "sourceCreatedAt": "2026-08-16T14:26:54.000Z"
+    },
+    {
       "id": "6565fa79",
       "filename": "pixiv_148531108_p0.jpg",
       "path": "uploads/2026/08/762425e9.jpg",
