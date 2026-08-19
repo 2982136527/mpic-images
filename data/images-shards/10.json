@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "ea4edc61",
+      "filename": "pixiv_148575224_p0.jpg",
+      "path": "uploads/2026/08/c9fb57b1.jpg",
+      "size": 184373,
+      "width": 1124,
+      "height": 807,
+      "mimeType": "image/jpeg",
+      "hash": "fb68f32991ede2eea09093261924f6a27135f8a240da3002b6d1106a22b80f17",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:46:56.886Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "セイレーン夢log",
+      "tags": [
+        "ちいかわ",
+        "セイレーン夢",
+        "セイレーン(ちいかわ)",
+        "映画ちいかわ",
+        "夢絵",
+        "ちいかわ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148575224_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148575224",
+      "sourceCreatedAt": "2026-08-18T04:24:47.000Z"
+    },
+    {
       "id": "38b0846b",
       "filename": "pixiv_148550401_p0.jpg",
       "path": "uploads/2026/08/c928ae2d.jpg",
