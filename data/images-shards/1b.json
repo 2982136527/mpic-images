@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "da6809f1",
+      "filename": "pixiv_148524684_p0.jpg",
+      "path": "uploads/2026/08/8713342c.jpg",
+      "size": 954149,
+      "width": 867,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ad50f6fb01753bcb3c6fb910af48f54c7e0f1a937a5710726df319e8a4e5d415",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:54:55.698Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "デュエプレのやつ",
+      "tags": [
+        "デュエプレ",
+        "ダピコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148524684_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148524684",
+      "sourceCreatedAt": "2026-08-16T16:58:28.000Z"
+    },
+    {
       "id": "b8721891",
       "filename": "pixiv_148515900_p0.jpg",
       "path": "uploads/2026/08/1929f639.jpg",
