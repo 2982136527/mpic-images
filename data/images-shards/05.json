@@ -3,6 +3,37 @@
   "shardId": "05",
   "images": [
     {
+      "id": "60234f7e",
+      "filename": "pixiv_148585643_p0.jpg",
+      "path": "uploads/2026/08/3b09a488.jpg",
+      "size": 492908,
+      "width": 1200,
+      "height": 646,
+      "mimeType": "image/jpeg",
+      "hash": "68d5f99fa4b8eb05dcdb2fa0fae9e7c4f8f612e05b97c7471ebb8101efbd37e4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:44:39.812Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ハングリーバニー",
+      "tags": [
+        "クリーチャー",
+        "オリジナルクリーチャー",
+        "マスコットホラー",
+        "ウサギ",
+        "着ぐるみ",
+        "Original",
+        "ホラー",
+        "マスコット",
+        "デブ",
+        "牙"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148585643_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148585643",
+      "sourceCreatedAt": "2026-08-18T10:57:20.000Z"
+    },
+    {
       "id": "87ac862f",
       "filename": "pixiv_148563683_p0.jpg",
       "path": "uploads/2026/08/40364467.jpg",
