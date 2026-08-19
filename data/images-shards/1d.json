@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "d06117e4",
+      "filename": "pixiv_148550909_p0.jpg",
+      "path": "uploads/2026/08/8c941f9b.jpg",
+      "size": 980379,
+      "width": 758,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bf7fc0d30b11642a697a4fbff55b4463fc4248ca2b6170cad46063cf0d75bedb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:43:10.389Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "浅叶落木",
+      "tags": [
+        "女の子",
+        "落書き",
+        "パンツ",
+        "浅叶落木"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148550909_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148550909",
+      "sourceCreatedAt": "2026-08-17T12:12:27.000Z"
+    },
+    {
       "id": "b01192c1",
       "filename": "pixiv_148576826_p0.jpg",
       "path": "uploads/2026/08/a4cba2c1.jpg",
