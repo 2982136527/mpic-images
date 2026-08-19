@@ -3,6 +3,28 @@
   "shardId": "01",
   "images": [
     {
+      "id": "d633b0c4",
+      "filename": "pixiv_148531747_p0.jpg",
+      "path": "uploads/2026/08/ec667655.jpg",
+      "size": 581542,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "976b5ea8491821edb27c05c65bae487ccfe6554bde60133b6dc0b20b9372239d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:53:41.772Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【ふたりはさねぎゆ 2話】",
+      "tags": [
+        "さねぎゆ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148531747_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148531747",
+      "sourceCreatedAt": "2026-08-17T04:50:25.000Z"
+    },
+    {
       "id": "4a6df598",
       "filename": "pixiv_148532801_p0.jpg",
       "path": "uploads/2026/08/8a9c81a9.jpg",
