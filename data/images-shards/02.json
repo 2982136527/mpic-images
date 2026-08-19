@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "d72b7a50",
+      "filename": "pixiv_148542296_p0.jpg",
+      "path": "uploads/2026/08/bf433a4a.jpg",
+      "size": 1289995,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a09b3f669a05816e5a36d3b6145f30bd9c8caf465c0a8f6ea417303c9399efe9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:54:28.735Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "東方project",
+        "露娜切露德",
+        "ルナチャイルド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148542296_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148542296",
+      "sourceCreatedAt": "2026-08-17T08:32:01.000Z"
+    },
+    {
       "id": "62cd5cb9",
       "filename": "pixiv_148521465_p0.jpg",
       "path": "uploads/2026/08/9c0d9654.jpg",
