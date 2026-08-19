@@ -3,6 +3,34 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "b3b853f3",
+      "filename": "pixiv_148568300_p0.jpg",
+      "path": "uploads/2026/08/b76ca175.jpg",
+      "size": 1541574,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "52f8e52c7ed53056caca5e3b8751515a2f8edebfd4ede24b2d17c5224c27a03d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:57:09.303Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "創作らくがき",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "創作",
+        "男の子",
+        "illustration",
+        "original",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148568300_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148568300",
+      "sourceCreatedAt": "2026-08-17T22:16:59.000Z"
+    },
+    {
       "id": "3ebc4720",
       "filename": "pixiv_148582556_p0.jpg",
       "path": "uploads/2026/08/db0d6994.jpg",
