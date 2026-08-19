@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "2218e561",
+      "filename": "pixiv_148583744_p0.jpg",
+      "path": "uploads/2026/08/dc6d026f.jpg",
+      "size": 560953,
+      "width": 1200,
+      "height": 696,
+      "mimeType": "image/jpeg",
+      "hash": "d7de0d4e3c231c60e7887a8855cf08363d02936048aa3e50618e933e70d6942c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:52:13.017Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "クラウンピース",
+      "tags": [
+        "イラスト",
+        "東方",
+        "東方Project",
+        "クラウンピース"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148583744_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148583744",
+      "sourceCreatedAt": "2026-08-18T10:01:20.000Z"
+    },
+    {
       "id": "5e8c20b7",
       "filename": "pixiv_148529485_p0.jpg",
       "path": "uploads/2026/08/0dec5228.jpg",
