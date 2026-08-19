@@ -3,6 +3,28 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "755a5001",
+      "filename": "pixiv_148544404_p0.jpg",
+      "path": "uploads/2026/08/3c54417a.jpg",
+      "size": 376477,
+      "width": 1200,
+      "height": 920,
+      "mimeType": "image/jpeg",
+      "hash": "7ca5de2251e8a27ec615befdd20b8934485898ee54a5c9b857f0bc056b36232f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:47:04.419Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ほの暮しの庭1️⃣",
+      "tags": [
+        "ほの暮しの庭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148544404_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148544404",
+      "sourceCreatedAt": "2026-08-17T09:33:20.000Z"
+    },
+    {
       "id": "47613745",
       "filename": "pixiv_148556633_p0.jpg",
       "path": "uploads/2026/08/662225ee.jpg",
