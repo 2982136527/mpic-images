@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "4b294deb",
+      "filename": "pixiv_148500222_p0.jpg",
+      "path": "uploads/2026/08/29079b67.jpg",
+      "size": 368322,
+      "width": 809,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "309bfaaf0ac9daeaf82bc2bea3cccf43ccb948b4bce5b2df8be6b702ac75527d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:47:12.690Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "天馬さんの断捨離漫画",
+      "tags": [
+        "天馬司",
+        "プロセカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148500222_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148500222",
+      "sourceCreatedAt": "2026-08-16T07:53:29.000Z"
+    },
+    {
       "id": "a5cb3c88",
       "filename": "pixiv_148506380_p0.jpg",
       "path": "uploads/2026/08/89575e87.jpg",
