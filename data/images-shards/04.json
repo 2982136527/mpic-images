@@ -3,6 +3,33 @@
   "shardId": "04",
   "images": [
     {
+      "id": "aafae552",
+      "filename": "pixiv_148522570_p0.jpg",
+      "path": "uploads/2026/08/4d08d361.jpg",
+      "size": 327760,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cf27c5b8271a40256ad228fab0539427bca1cf30601368ac070c6f31f0087f3d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:54:42.828Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ナッちゃん",
+      "tags": [
+        "ナッちゃん",
+        "キジムナー",
+        "FGO",
+        "Fate/GrandOrder",
+        "でかぱい",
+        "キジムナー(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148522570_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148522570",
+      "sourceCreatedAt": "2026-08-16T15:48:59.000Z"
+    },
+    {
       "id": "b3e66140",
       "filename": "pixiv_148522911_p0.jpg",
       "path": "uploads/2026/08/c6d88efe.jpg",
