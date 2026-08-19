@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "ec00ca83",
+      "filename": "pixiv_148578582_p0.jpg",
+      "path": "uploads/2026/08/15a807d7.jpg",
+      "size": 521400,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5b2c68eb24ab49731f3aeb003b0dc7a46071d991bad9a15dd62da47106bf5775",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:41:30.338Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ハ～～♪",
+      "tags": [
+        "ちいかわ",
+        "セイレーン",
+        "セイレーン(ちいかわ)",
+        "ちいかわ500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148578582_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148578582",
+      "sourceCreatedAt": "2026-08-18T07:01:26.000Z"
+    },
+    {
       "id": "ff45a4ac",
       "filename": "pixiv_148591255_p0.jpg",
       "path": "uploads/2026/08/3064d3f0.jpg",
