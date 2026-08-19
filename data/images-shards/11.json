@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "ff45a4ac",
+      "filename": "pixiv_148591255_p0.jpg",
+      "path": "uploads/2026/08/3064d3f0.jpg",
+      "size": 474581,
+      "width": 909,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "710f1ab3aa9052f96e24fb4cf2f47f3ac6e02409bec678e7482a16bb79249f67",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:54:36.450Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "あ",
+      "tags": [
+        "オリジナル",
+        "イラスト",
+        "創作",
+        "警察官"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148591255_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148591255",
+      "sourceCreatedAt": "2026-08-18T12:55:40.000Z"
+    },
+    {
       "id": "2b710b72",
       "filename": "pixiv_148581756_p0.jpg",
       "path": "uploads/2026/08/61e0730c.jpg",
