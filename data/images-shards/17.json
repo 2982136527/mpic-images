@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "34f212a7",
+      "filename": "pixiv_148537518_p0.jpg",
+      "path": "uploads/2026/08/f29d9d0c.jpg",
+      "size": 1251213,
+      "width": 1200,
+      "height": 757,
+      "mimeType": "image/jpeg",
+      "hash": "acd55fc4004fbb865b640ce6a79cf0b9e6d80bde010e942be7735271f0cffc81",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:42:22.968Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "喜欢又帅又扫的",
+      "tags": [
+        "女の子",
+        "原创",
+        "剣"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148537518_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148537518",
+      "sourceCreatedAt": "2026-08-17T22:38:06.000Z"
+    },
+    {
       "id": "505a8159",
       "filename": "pixiv_148555640_p0.jpg",
       "path": "uploads/2026/08/6db66462.jpg",
