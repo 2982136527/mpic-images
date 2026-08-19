@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "74dcc245",
+      "filename": "pixiv_148555783_p0.jpg",
+      "path": "uploads/2026/08/2f9d1b6f.jpg",
+      "size": 633892,
+      "width": 871,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a32d21903fc46878fcb8ec4f6a4d55f3d4677301ff247a13440d019cf75ee5a5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:45:15.998Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "崩壊スターレイル",
+        "HonkaiStarRail",
+        "ヒアンシー",
+        "Hyacine"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148555783_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148555783",
+      "sourceCreatedAt": "2026-08-17T13:58:30.000Z"
+    },
+    {
       "id": "60234f7e",
       "filename": "pixiv_148585643_p0.jpg",
       "path": "uploads/2026/08/3b09a488.jpg",
