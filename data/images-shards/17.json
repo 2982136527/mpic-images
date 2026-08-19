@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "505a8159",
+      "filename": "pixiv_148555640_p0.jpg",
+      "path": "uploads/2026/08/6db66462.jpg",
+      "size": 420763,
+      "width": 654,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ffd8ca9f5e1a2623786d76541813889db24b87c01292d8bb67b17c2d224fcbb6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:55:31.999Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "렌 아라야 모음 5 (KR/JP)",
+      "tags": [
+        "Limbus_Company",
+        "レンアラ",
+        "アラヤ",
+        "림버스"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148555640_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148555640",
+      "sourceCreatedAt": "2026-08-17T13:55:10.000Z"
+    },
+    {
       "id": "4eb4967d",
       "filename": "pixiv_148538466_p0.jpg",
       "path": "uploads/2026/08/3b62b523.jpg",
