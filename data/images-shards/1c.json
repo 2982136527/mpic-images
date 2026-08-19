@@ -3,6 +3,35 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "d69e2b3d",
+      "filename": "pixiv_148575610_p0.jpg",
+      "path": "uploads/2026/08/71aa1572.jpg",
+      "size": 524391,
+      "width": 953,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4f136590cc22497cfbb280cfd9860e962b3c7b86811950a6df7cdef6abe7d64e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:51:38.742Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "最近のらくがきまとめ",
+      "tags": [
+        "超かぐや姫!",
+        "酒寄彩葉",
+        "月見ヤチヨ",
+        "かぐや",
+        "ヤチいろ",
+        "いろかぐ",
+        "いろヤチ",
+        "かぐいろ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148575610_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148575610",
+      "sourceCreatedAt": "2026-08-18T04:43:46.000Z"
+    },
+    {
       "id": "5ae34645",
       "filename": "pixiv_148508800_p0.jpg",
       "path": "uploads/2026/08/0abf9ee1.jpg",
