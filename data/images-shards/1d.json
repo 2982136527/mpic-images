@@ -3,6 +3,33 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "902972b6",
+      "filename": "pixiv_148513813_p0.jpg",
+      "path": "uploads/2026/08/2201b07c.jpg",
+      "size": 964536,
+      "width": 666,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7c6ea621cdb879a516a1f246fda72a5a164e37e65d65de19dee755eb7fc73a6d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:50:09.792Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "天使&恶魔",
+      "tags": [
+        "創作",
+        "插画",
+        "少女",
+        "绘画",
+        "原创",
+        "恶魔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148513813_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148513813",
+      "sourceCreatedAt": "2026-08-16T12:59:32.000Z"
+    },
+    {
       "id": "984404fe",
       "filename": "pixiv_148498092_p0.jpg",
       "path": "uploads/2026/08/9f62ecd1.jpg",
