@@ -3,6 +3,35 @@
   "shardId": "00",
   "images": [
     {
+      "id": "6bea9306",
+      "filename": "pixiv_148551611_p0.jpg",
+      "path": "uploads/2026/08/ec6825d3.jpg",
+      "size": 378869,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "610aab34077011317d528dec74aee29b7b24945bfab2351900d61b636aa07276",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:52:52.867Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ちいかわ映画見てきた記念お絵かき",
+      "tags": [
+        "ちいかわ",
+        "ハチワレ",
+        "うさぎ",
+        "デジタル",
+        "セイレーン",
+        "島二郎",
+        "セイレーン(ちいかわ)",
+        "ちいかわ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148551611_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148551611",
+      "sourceCreatedAt": "2026-08-17T12:30:31.000Z"
+    },
+    {
       "id": "fb27d027",
       "filename": "pixiv_148529548_p0.jpg",
       "path": "uploads/2026/08/33a92a0d.jpg",
