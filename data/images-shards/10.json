@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "d7b91828",
+      "filename": "pixiv_148555233_p0.jpg",
+      "path": "uploads/2026/08/073ab93b.jpg",
+      "size": 495232,
+      "width": 762,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f27589a7cd1b06d4933ddd9dd5f5577d8b825c2dfa9912de7c89ce2099801bd2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:44:25.072Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "메에에에에에이",
+      "tags": [
+        "ProjectMoon",
+        "Library_Of_Ruina"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148555233_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148555233",
+      "sourceCreatedAt": "2026-08-17T13:45:58.000Z"
+    },
+    {
       "id": "789f1400",
       "filename": "pixiv_148584474_p0.jpg",
       "path": "uploads/2026/08/3a83003c.jpg",
