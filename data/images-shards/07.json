@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "66e5077a",
+      "filename": "pixiv_148586113_p0.jpg",
+      "path": "uploads/2026/08/b0b1a809.jpg",
+      "size": 1243596,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4d1ee529cc2f74708391085d0b09371b0bd4f1b5807ceb5db3855a927fe772ac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:43:59.897Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "百日紅",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148586113_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148586113",
+      "sourceCreatedAt": "2026-08-18T11:03:53.000Z"
+    },
+    {
       "id": "49bfccf0",
       "filename": "pixiv_148494047_p0.jpg",
       "path": "uploads/2026/08/a870c38c.jpg",
