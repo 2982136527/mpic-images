@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "680b1c29",
+      "filename": "pixiv_148542272_p0.jpg",
+      "path": "uploads/2026/08/ba9a5945.jpg",
+      "size": 482378,
+      "width": 713,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "48b5d0bf533dfb7f88680c3c6ecbdd4835b6e3e4f9cdf80ebc4ad45459573faf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:46:35.554Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Pixiv Request",
+      "tags": [
+        "多田李衣菜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148542272_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148542272",
+      "sourceCreatedAt": "2026-08-17T08:30:54.000Z"
+    },
+    {
       "id": "34f212a7",
       "filename": "pixiv_148537518_p0.jpg",
       "path": "uploads/2026/08/f29d9d0c.jpg",
