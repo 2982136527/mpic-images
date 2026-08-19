@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "d7c9a3da",
+      "filename": "pixiv_148582620_p0.jpg",
+      "path": "uploads/2026/08/699c54c2.jpg",
+      "size": 829761,
+      "width": 723,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2cd5d29c878c9e02e7c7f4b20209e1a2226dc3b2762e50d4aa04377093ead930",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:54:47.324Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "「 マスターっ！ 」",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "スイムウェア",
+        "ビキニ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148582620_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148582620",
+      "sourceCreatedAt": "2026-08-18T09:30:01.000Z"
+    },
+    {
       "id": "dc062721",
       "filename": "pixiv_148564098_p0.jpg",
       "path": "uploads/2026/08/5ac332ac.jpg",
