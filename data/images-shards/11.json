@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "1eff3050",
+      "filename": "pixiv_148546268_p0.jpg",
+      "path": "uploads/2026/08/481051c5.jpg",
+      "size": 660067,
+      "width": 950,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57056ae3599b919802cc266eb5f8bc73b958e95c05e1fc6b5870dc7476db0783",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:48:15.347Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "モンスト　リウイン",
+      "tags": [
+        "モンスト",
+        "リウ・イン",
+        "スク水",
+        "リウ・イン(モンスト)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148546268_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148546268",
+      "sourceCreatedAt": "2026-08-17T10:26:18.000Z"
+    },
+    {
       "id": "725d1ee7",
       "filename": "pixiv_148587617_p0.jpg",
       "path": "uploads/2026/08/96d31df4.jpg",
