@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "d98b1160",
+      "filename": "pixiv_148478944_p0.jpg",
+      "path": "uploads/2026/08/8278d414.jpg",
+      "size": 931942,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d37a084136ebce40a09e4c9d2549ba09884cce79450484dc6b10842df0ea4d66",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:48:15.978Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "オデットちゃん",
+      "tags": [
+        "原神",
+        "オデット(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148478944_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148478944",
+      "sourceCreatedAt": "2026-08-15T16:40:13.000Z"
+    },
+    {
       "id": "b57683d7",
       "filename": "pixiv_148536624_p0.jpg",
       "path": "uploads/2026/08/6bd0c2f8.jpg",
