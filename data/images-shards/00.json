@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "614c1e5d",
+      "filename": "pixiv_148521748_p0.jpg",
+      "path": "uploads/2026/08/5c4814f9.jpg",
+      "size": 801405,
+      "width": 1200,
+      "height": 540,
+      "mimeType": "image/jpeg",
+      "hash": "3a0e62e0ae10cb84d9aec36ba1f52a404c9269c04d3924eb3400103d94adc85e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:50:51.582Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "丰川祥子",
+        "BanG_Dream!",
+        "MyGO!!!!!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148521748_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148521748",
+      "sourceCreatedAt": "2026-08-16T15:28:29.000Z"
+    },
+    {
       "id": "d9a361e4",
       "filename": "pixiv_148544536_p0.jpg",
       "path": "uploads/2026/08/0235b0c9.jpg",
