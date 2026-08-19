@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "281d6d85",
+      "filename": "pixiv_148536892_p0.jpg",
+      "path": "uploads/2026/08/e423a84e.jpg",
+      "size": 958485,
+      "width": 1200,
+      "height": 963,
+      "mimeType": "image/jpeg",
+      "hash": "fff0dea1cc3d02d5274ab8450791d855b8b17a57cb3c2d1ddcca8ab285c948a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:54:14.997Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "エンジャリLOG❺",
+      "tags": [
+        "エンジャリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148536892_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148536892",
+      "sourceCreatedAt": "2026-08-17T04:23:16.000Z"
+    },
+    {
       "id": "f36a87c8",
       "filename": "pixiv_148514289_p0.jpg",
       "path": "uploads/2026/08/b46d88be.jpg",
