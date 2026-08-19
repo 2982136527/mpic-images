@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "b17899cb",
+      "filename": "pixiv_148537399_p0.jpg",
+      "path": "uploads/2026/08/f296694e.jpg",
+      "size": 366006,
+      "width": 670,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "00cb111f7950fbd973c208eb1fb7ff5aa1c9cfffb1fd39dab8fae070b7f09217",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:57:16.746Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "星見雅",
+      "tags": [
+        "星見雅",
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148537399_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148537399",
+      "sourceCreatedAt": "2026-08-17T04:50:03.000Z"
+    },
+    {
       "id": "7f8bcd1f",
       "filename": "pixiv_148567353_p0.jpg",
       "path": "uploads/2026/08/5983c505.jpg",
