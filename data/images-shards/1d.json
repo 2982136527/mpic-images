@@ -3,6 +3,37 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "c3987b63",
+      "filename": "pixiv_148553429_p0.jpg",
+      "path": "uploads/2026/08/c24f22c8.jpg",
+      "size": 1170119,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b6e83375b6eb1a82a6d64790223a13c9972bf6558cb36d93aa6e5ddc734695dd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:55:01.532Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Morning, Tonelico！",
+      "tags": [
+        "トネリコ(Fate)",
+        "FGO",
+        "Fate/GrandOrder",
+        "女の子",
+        "fate",
+        "モルガン(Fate)",
+        "雨の魔女トネリコ",
+        "救世主トネリコ",
+        "ぐだ子",
+        "藤丸立香"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148553429_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148553429",
+      "sourceCreatedAt": "2026-08-17T13:04:55.000Z"
+    },
+    {
       "id": "715a1f3c",
       "filename": "pixiv_148535806_p0.jpg",
       "path": "uploads/2026/08/efbc9edf.jpg",
