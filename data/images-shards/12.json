@@ -3,6 +3,37 @@
   "shardId": "12",
   "images": [
     {
+      "id": "f769efd7",
+      "filename": "pixiv_148582029_p0.jpg",
+      "path": "uploads/2026/08/4452c643.jpg",
+      "size": 1385132,
+      "width": 1200,
+      "height": 751,
+      "mimeType": "image/jpeg",
+      "hash": "4c8eda92c606a6230110e53859312cc8241b21f5842cbc0611df3b4f43829812",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:41:44.718Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "サマータイムメモリー",
+      "tags": [
+        "オリジナル",
+        "風景",
+        "背景",
+        "幻想",
+        "創作",
+        "illustration",
+        "イラスト",
+        "女の子",
+        "夏",
+        "ひまわり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148582029_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148582029",
+      "sourceCreatedAt": "2026-08-18T09:09:21.000Z"
+    },
+    {
       "id": "190b5286",
       "filename": "pixiv_148570761_p0.jpg",
       "path": "uploads/2026/08/e142a28e.jpg",
