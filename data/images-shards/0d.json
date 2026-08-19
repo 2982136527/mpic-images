@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "54aeec3f",
+      "filename": "pixiv_148554872_p0.jpg",
+      "path": "uploads/2026/08/639522c9.jpg",
+      "size": 746357,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "92317f2c12cff80d4889fe48ad3b54904cfbbc5f629dc893d3f6e09342a96c8b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:55:24.591Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ヴォジャニーツァ",
+        "鼻血"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148554872_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148554872",
+      "sourceCreatedAt": "2026-08-17T13:36:59.000Z"
+    },
+    {
       "id": "ee64d67c",
       "filename": "pixiv_148520082_p0.jpg",
       "path": "uploads/2026/08/541d3152.jpg",
