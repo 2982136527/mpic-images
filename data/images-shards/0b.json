@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "fbf22faf",
+      "filename": "pixiv_148577878_p0.jpg",
+      "path": "uploads/2026/08/7bd7257f.jpg",
+      "size": 507536,
+      "width": 948,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "40b99ff8a51c89c405f499846d6f5f56425be7c1fbb7695842f8061e590ce441",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:58:15.986Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "お日記",
+      "tags": [
+        "漫画",
+        "オリジナル",
+        "エッセイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148577878_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148577878",
+      "sourceCreatedAt": "2026-08-18T06:29:23.000Z"
+    },
+    {
       "id": "071ca888",
       "filename": "pixiv_148593030_p0.jpg",
       "path": "uploads/2026/08/b96a1d18.jpg",
