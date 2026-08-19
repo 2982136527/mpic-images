@@ -3,6 +3,34 @@
   "shardId": "17",
   "images": [
     {
+      "id": "cd75d002",
+      "filename": "pixiv_148527834_p0.jpg",
+      "path": "uploads/2026/08/d5fda136.jpg",
+      "size": 948929,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f6802e0a98b257827e629f29d52c3261d39251b05575302d2405976dca5d8633",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:47:47.926Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Rogue",
+      "tags": [
+        "xmen",
+        "fanart",
+        "comics",
+        "marvel",
+        "rogue",
+        "girl",
+        "sexy"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148527834_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148527834",
+      "sourceCreatedAt": "2026-08-16T19:52:46.000Z"
+    },
+    {
       "id": "02e19dd2",
       "filename": "pixiv_148575516_p0.jpg",
       "path": "uploads/2026/08/460ab743.jpg",
