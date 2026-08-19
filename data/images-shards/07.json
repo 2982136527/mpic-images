@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "473718a0",
+      "filename": "pixiv_148539021_p0.jpg",
+      "path": "uploads/2026/08/744912b6.jpg",
+      "size": 1213917,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "2f8958d30dff37e93d39f145065a65b5d4b88d2d9dd2852fa0541686db8000b7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:45:46.687Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "最後の1人",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ローエン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148539021_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148539021",
+      "sourceCreatedAt": "2026-08-17T06:03:17.000Z"
+    },
+    {
       "id": "66e5077a",
       "filename": "pixiv_148586113_p0.jpg",
       "path": "uploads/2026/08/b0b1a809.jpg",
