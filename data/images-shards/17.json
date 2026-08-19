@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "02e19dd2",
+      "filename": "pixiv_148575516_p0.jpg",
+      "path": "uploads/2026/08/460ab743.jpg",
+      "size": 491498,
+      "width": 769,
+      "height": 984,
+      "mimeType": "image/jpeg",
+      "hash": "65d2a4b53a38607a3859be18d5c965ac3ccd42a32147256143857fd16b999cfe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:47:39.828Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "New friend",
+      "tags": [
+        "jeangrey",
+        "spiderman"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148575516_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148575516",
+      "sourceCreatedAt": "2026-08-18T04:39:38.000Z"
+    },
+    {
       "id": "680b1c29",
       "filename": "pixiv_148542272_p0.jpg",
       "path": "uploads/2026/08/ba9a5945.jpg",
