@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "b3e66140",
+      "filename": "pixiv_148522911_p0.jpg",
+      "path": "uploads/2026/08/c6d88efe.jpg",
+      "size": 526846,
+      "width": 700,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "226204921c42b0e001e0d3007fdaa335fe22799dd2122f71e74c5dc413ccd2aa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:50:16.041Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "照片二分练习",
+      "tags": [
+        "男の娘",
+        "水月",
+        "アークナイツ",
+        "マニキュア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148522911_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148522911",
+      "sourceCreatedAt": "2026-08-16T15:59:42.000Z"
+    },
+    {
       "id": "d98b1160",
       "filename": "pixiv_148478944_p0.jpg",
       "path": "uploads/2026/08/8278d414.jpg",
