@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "ec45da78",
+      "filename": "pixiv_148546588_p0.jpg",
+      "path": "uploads/2026/08/7005f01e.jpg",
+      "size": 1223433,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6c3792782f83c960a503c5a78a037344482717dda2090754fe9abaafe6b6f34d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:57:02.150Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "マシュ Ver.03",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "マシュ・キリエライト",
+        "常夏の水着Ver.03"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148546588_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148546588",
+      "sourceCreatedAt": "2026-08-17T10:33:42.000Z"
+    },
+    {
       "id": "0739288f",
       "filename": "pixiv_148525089_p0.jpg",
       "path": "uploads/2026/08/1fd427ee.jpg",
