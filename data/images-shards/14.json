@@ -3,6 +3,33 @@
   "shardId": "14",
   "images": [
     {
+      "id": "005d838e",
+      "filename": "pixiv_148520100_p0.jpg",
+      "path": "uploads/2026/08/691c4428.jpg",
+      "size": 874471,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bba858e3ab1b6168d28b3b222515295458e4bbe7f970114c33577289055cb633",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:49:45.648Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "雛鳥組",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "雛鳥組",
+        "鷹野主スイコ",
+        "五百雀ナゴミ",
+        "烏頭尾ヨウコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148520100_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148520100",
+      "sourceCreatedAt": "2026-08-16T15:00:21.000Z"
+    },
+    {
       "id": "c6d14d5d",
       "filename": "pixiv_148586658_p0.jpg",
       "path": "uploads/2026/08/01012ecc.jpg",
