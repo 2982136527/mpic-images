@@ -3,6 +3,28 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "dad9e90f",
+      "filename": "pixiv_148514200_p0.jpg",
+      "path": "uploads/2026/08/4a04f829.jpg",
+      "size": 766592,
+      "width": 947,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c30600acebeb54eadb85dae1d43a9711872648efe38c2df9e7e7d8ec34269ebe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:53:53.538Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "レイチュリLOG",
+      "tags": [
+        "レイチュリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148514200_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148514200",
+      "sourceCreatedAt": "2026-08-16T13:03:51.000Z"
+    },
+    {
       "id": "57982e6c",
       "filename": "pixiv_148541183_p0.jpg",
       "path": "uploads/2026/08/e84a13cd.jpg",
