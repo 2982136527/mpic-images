@@ -3,6 +3,28 @@
   "shardId": "15",
   "images": [
     {
+      "id": "21cd1798",
+      "filename": "pixiv_148568535_p0.jpg",
+      "path": "uploads/2026/08/905382b0.jpg",
+      "size": 490034,
+      "width": 1024,
+      "height": 913,
+      "mimeType": "image/jpeg",
+      "hash": "7e7848042ee537ae7ed48f744c6387f96071e10950a187641de427046f715f76",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T16:48:03.810Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ポケモンスリープ始めてみた",
+      "tags": [
+        "ヨーギラス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148568535_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148568535",
+      "sourceCreatedAt": "2026-08-17T22:30:40.000Z"
+    },
+    {
       "id": "eda91269",
       "filename": "pixiv_148544157_p0.jpg",
       "path": "uploads/2026/08/2f7acb8e.jpg",
