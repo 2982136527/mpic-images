@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "3e52f009",
+      "filename": "pixiv_148558990_p0.jpg",
+      "path": "uploads/2026/08/df5bb64e.jpg",
+      "size": 692837,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "3ce415005e481f43be68340abe73ba031718e77fd830ab96342ad8f259662f9b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:58:01.395Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "うたた寝",
+      "tags": [
+        "女の子",
+        "OC",
+        "白ソックス",
+        "ソックス足裏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148558990_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148558990",
+      "sourceCreatedAt": "2026-08-17T15:02:57.000Z"
+    },
+    {
       "id": "3236a07a",
       "filename": "pixiv_148568617_p0.jpg",
       "path": "uploads/2026/08/27d3c6e2.jpg",
