@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "715a1f3c",
+      "filename": "pixiv_148535806_p0.jpg",
+      "path": "uploads/2026/08/efbc9edf.jpg",
+      "size": 730605,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4c2ca356345fb0106acadded50162678272d5f9264049676f2cc3df68361daa1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:53:50.377Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "獣耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148535806_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148535806",
+      "sourceCreatedAt": "2026-08-17T03:30:53.000Z"
+    },
+    {
       "id": "14bf65ac",
       "filename": "pixiv_148572558_p0.jpg",
       "path": "uploads/2026/08/cc500cc0.jpg",
