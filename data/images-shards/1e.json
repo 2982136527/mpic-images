@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "3236a07a",
+      "filename": "pixiv_148568617_p0.jpg",
+      "path": "uploads/2026/08/27d3c6e2.jpg",
+      "size": 880929,
+      "width": 1200,
+      "height": 1138,
+      "mimeType": "image/jpeg",
+      "hash": "ac7af283edba1bdfdeaeb17134760e514800e28def1ea1fe5fb99296c8ac9407",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:55:39.982Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ソウルシルバーのおかげでジョウトに好きなポケモン多め",
+      "tags": [
+        "ソウルシルバー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148568617_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148568617",
+      "sourceCreatedAt": "2026-08-17T22:35:19.000Z"
+    },
+    {
       "id": "d7c9a3da",
       "filename": "pixiv_148582620_p0.jpg",
       "path": "uploads/2026/08/699c54c2.jpg",
