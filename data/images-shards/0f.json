@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "76df4184",
+      "filename": "pixiv_148532970_p0.jpg",
+      "path": "uploads/2026/08/4b4dd154.jpg",
+      "size": 857929,
+      "width": 896,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f3151dccab61bd0d2946ea369e1625d02f805d842ec32354e465b715b37cd974",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:58:32.161Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ケイまとめ",
+      "tags": [
+        "ケイ(ブルーアーカイブ)",
+        "天童ケイ",
+        "ブルーアーカイブ",
+        "BlueArchive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148532970_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148532970",
+      "sourceCreatedAt": "2026-08-17T01:15:38.000Z"
+    },
+    {
       "id": "ec45da78",
       "filename": "pixiv_148546588_p0.jpg",
       "path": "uploads/2026/08/7005f01e.jpg",
