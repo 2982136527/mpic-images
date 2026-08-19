@@ -3,6 +3,37 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "d91bea6d",
+      "filename": "pixiv_148493929_p0.jpg",
+      "path": "uploads/2026/08/5faf4f0e.jpg",
+      "size": 593895,
+      "width": 863,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e7a01bbcaad9f817682a54b7a0bde8ce783daecbd3d1229f6c5a9511a970ec59",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:51:47.579Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "らくがき25",
+      "tags": [
+        "にじさんじ",
+        "落書き",
+        "ジョジョ",
+        "十鬼蛇王馬",
+        "ケンガンアシュラ",
+        "佐伯イッテツ",
+        "VTuber",
+        "リン・ヤオ",
+        "グリリン",
+        "Fate/GrandOrder"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148493929_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148493929",
+      "sourceCreatedAt": "2026-08-16T04:22:45.000Z"
+    },
+    {
       "id": "7d2ec98a",
       "filename": "pixiv_148476833_p0.jpg",
       "path": "uploads/2026/08/199e12fb.jpg",
