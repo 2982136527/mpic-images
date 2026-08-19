@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "738c2ab1",
+      "filename": "pixiv_148310871_p0.jpg",
+      "path": "uploads/2026/08/53631534.jpg",
+      "size": 1529165,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "540f8ee26bacab20451053cf91695cbe6c78b82ac4059be3a85ee3c2e069a442",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:58:56.984Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "C108新刊『CLARITY』",
+      "tags": [
+        "オリジナル",
+        "C108",
+        "オリジナル3000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148310871_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148310871",
+      "sourceCreatedAt": "2026-08-11T15:00:45.000Z"
+    },
+    {
       "id": "76df4184",
       "filename": "pixiv_148532970_p0.jpg",
       "path": "uploads/2026/08/4b4dd154.jpg",
