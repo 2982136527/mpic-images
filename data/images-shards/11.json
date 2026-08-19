@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "f4c32cb3",
+      "filename": "pixiv_148592131_p0.jpg",
+      "path": "uploads/2026/08/44963410.jpg",
+      "size": 1095204,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "836c3462e1efd7f16978b7102c547a2118632f3823dfea3287c5999b061d6937",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T08:50:09.135Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "某記事パロディ忍者さん",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "筋肉",
+        "忍者"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148592131_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148592131",
+      "sourceCreatedAt": "2026-08-18T13:13:24.000Z"
+    },
+    {
       "id": "674e6b12",
       "filename": "pixiv_148523027_p0.jpg",
       "path": "uploads/2026/08/0c9b03c6.jpg",
