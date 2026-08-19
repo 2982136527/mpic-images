@@ -3,6 +3,32 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "a83c3602",
+      "filename": "pixiv_148520121_p0.jpg",
+      "path": "uploads/2026/08/e4320012.jpg",
+      "size": 380445,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "175ca31dc65078c4aeb6af4ea7b9924bc8fbb8e540e53df138b392b4401eaa75",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:50:39.758Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ひとくちすあま",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ゴールドシップ(ウマ娘)",
+        "フェノーメノ(ウマ娘)",
+        "すあまゴルシ",
+        "ゴルメノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148520121_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148520121",
+      "sourceCreatedAt": "2026-08-16T15:00:24.000Z"
+    },
+    {
       "id": "738d55ac",
       "filename": "pixiv_148541411_p0.jpg",
       "path": "uploads/2026/08/aab96e3a.jpg",
