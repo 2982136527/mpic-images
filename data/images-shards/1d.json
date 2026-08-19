@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "984404fe",
+      "filename": "pixiv_148498092_p0.jpg",
+      "path": "uploads/2026/08/9f62ecd1.jpg",
+      "size": 466937,
+      "width": 806,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "2f86033a5bb2317df2825d97e72e8d782dfd7ecc6574cf6f84263d0e83571343",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:46:58.339Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "あすはこLOG8",
+      "tags": [
+        "アークナイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148498092_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148498092",
+      "sourceCreatedAt": "2026-08-16T06:45:29.000Z"
+    },
+    {
       "id": "456b0dd6",
       "filename": "pixiv_148546035_p0.jpg",
       "path": "uploads/2026/08/ab00dd44.jpg",
