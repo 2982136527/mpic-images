@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "54b0695d",
+      "filename": "pixiv_148531697_p0.jpg",
+      "path": "uploads/2026/08/49cd5aa2.jpg",
+      "size": 586926,
+      "width": 822,
+      "height": 1194,
+      "mimeType": "image/jpeg",
+      "hash": "b2d62e1aa60264329c39f81464d9423bc499638c27018f2e9c2d4a9bc04f9770",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-19T01:49:15.869Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "可愛いローエン",
+      "tags": [
+        "原神",
+        "ローエン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148531697_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148531697",
+      "sourceCreatedAt": "2026-08-17T00:00:07.000Z"
+    },
+    {
       "id": "b9cc9c3e",
       "filename": "pixiv_148541211_p0.jpg",
       "path": "uploads/2026/08/6d9e1b2d.jpg",
