@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "47de4d73",
+      "filename": "pixiv_148607320_p0.jpg",
+      "path": "uploads/2026/08/2f13cb53.jpg",
+      "size": 460530,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fa97b57af8a039245e1952558608bb0eebf549c33bf5b09c5bec49655af4ea59",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T16:51:43.665Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "霧雨魔理沙",
+        "東方",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148607320_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148607320",
+      "sourceCreatedAt": "2026-08-18T23:06:26.000Z"
+    },
+    {
       "id": "cfc0f2fb",
       "filename": "pixiv_148622562_p0.jpg",
       "path": "uploads/2026/08/c1150951.jpg",
