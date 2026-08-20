@@ -3,6 +3,32 @@
   "shardId": "18",
   "images": [
     {
+      "id": "1a7b0224",
+      "filename": "pixiv_148610129_p0.jpg",
+      "path": "uploads/2026/08/77a4b796.jpg",
+      "size": 943879,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "f545a59258f17d5cbe37ff9282010b77ddcfd649d67f4bc6beea42d3feb91a00",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:56:09.623Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "お気に入りのポケモンたち",
+      "tags": [
+        "ポケモン",
+        "メガグソクムシャ",
+        "メガセグレイブ",
+        "メガキラフロル",
+        "色違いポケモン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148610129_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148610129",
+      "sourceCreatedAt": "2026-08-19T01:45:32.000Z"
+    },
+    {
       "id": "5f501d9f",
       "filename": "pixiv_148569964_p0.jpg",
       "path": "uploads/2026/08/fe60ab73.jpg",
