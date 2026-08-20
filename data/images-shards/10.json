@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "e7ed1f7a",
+      "filename": "pixiv_148567818_p0.jpg",
+      "path": "uploads/2026/08/dc824b9e.jpg",
+      "size": 854838,
+      "width": 762,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dc712f99aa47b13f0e3f7e215478af0be89aaeae88809fc4e7e5125dd0fe3de2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T01:52:38.706Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "湯けむりダイヤちゃん",
+      "tags": [
+        "サトノダイヤモンド(ウマ娘)",
+        "ウマ娘",
+        "ウマ娘プリティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148567818_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148567818",
+      "sourceCreatedAt": "2026-08-17T21:50:53.000Z"
+    },
+    {
       "id": "e691d967",
       "filename": "pixiv_148568100_p0.jpg",
       "path": "uploads/2026/08/bb09b8b5.jpg",
