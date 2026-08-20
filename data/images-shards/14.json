@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "cb1afb6b",
+      "filename": "pixiv_148535549_p0.jpg",
+      "path": "uploads/2026/08/60e62013.jpg",
+      "size": 889559,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5a67d7aab4dc3674c31d0f6db0cef20944b05ea63f0cbe9a048cc0eb8e27ae11",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T01:48:31.312Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "오늘의 이쁜이",
+      "tags": [
+        "美甘ネル",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148535549_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148535549",
+      "sourceCreatedAt": "2026-08-17T03:19:36.000Z"
+    },
+    {
       "id": "9f0c60ae",
       "filename": "pixiv_148552743_p0.jpg",
       "path": "uploads/2026/08/21f0bc8c.jpg",
