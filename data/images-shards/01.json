@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "bb4ee857",
+      "filename": "pixiv_148619019_p0.jpg",
+      "path": "uploads/2026/08/d6e91330.jpg",
+      "size": 843897,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dc553dbb6009c462ddd89002e6684f5fbf6b360af34cdf8886dd4d659bead354",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:56:24.946Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ヒナちゃん...隙あり!",
+      "tags": [
+        "ブルーアーカイブ",
+        "空崎ヒナ",
+        "ブルーアーカイブ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148619019_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148619019",
+      "sourceCreatedAt": "2026-08-19T08:39:54.000Z"
+    },
+    {
       "id": "666e5c04",
       "filename": "pixiv_148572612_p0.jpg",
       "path": "uploads/2026/08/c7b24a00.jpg",
