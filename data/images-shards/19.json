@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "99df0e25",
+      "filename": "pixiv_148600971_p0.jpg",
+      "path": "uploads/2026/08/211b3dff.jpg",
+      "size": 365049,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3a84465c89515aeb9ad5cb97991c3a41e8ae9fe7a669295994b2cde4f4607ef3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:55:23.902Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "篠崎シャノンさん『ロウワー』歌ってみたMV",
+      "tags": [
+        "歌ってみた",
+        "篠崎シャノン",
+        "Vtuber",
+        "ゆうぎり高校"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148600971_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148600971",
+      "sourceCreatedAt": "2026-08-18T16:38:27.000Z"
+    },
+    {
       "id": "95fd411b",
       "filename": "pixiv_148596261_p0.jpg",
       "path": "uploads/2026/08/2195a967.jpg",
