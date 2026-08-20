@@ -3,6 +3,28 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "28a3030f",
+      "filename": "pixiv_148568677_p0.jpg",
+      "path": "uploads/2026/08/1a15c9d7.jpg",
+      "size": 385532,
+      "width": 798,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "c7b68746f0e419e6c1be51c25a15583d6bec5987ba812c34d649d919101604dc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T01:47:56.264Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "剣盾で久しぶりにポケモンを遊んで感動したテキスト",
+      "tags": [
+        "ヨーギラス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148568677_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148568677",
+      "sourceCreatedAt": "2026-08-17T22:38:07.000Z"
+    },
+    {
       "id": "57236895",
       "filename": "pixiv_148564089_p0.jpg",
       "path": "uploads/2026/08/378639c7.jpg",
