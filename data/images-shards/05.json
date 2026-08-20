@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "be92e3d9",
+      "filename": "pixiv_148608046_p0.jpg",
+      "path": "uploads/2026/08/3b25c146.jpg",
+      "size": 1056653,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fba4698689ec50bac2f4a2ed075d7db729db445162ea53bdf0a6733a68f01239",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:56:47.653Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "呪まとめ②",
+      "tags": [
+        "呪術廻戦",
+        "呪術廻戦モジュロ",
+        "虎杖悠仁"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148608046_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148608046",
+      "sourceCreatedAt": "2026-08-18T23:47:56.000Z"
+    },
+    {
       "id": "b54272cc",
       "filename": "pixiv_148547096_p0.jpg",
       "path": "uploads/2026/08/61ef4858.jpg",
