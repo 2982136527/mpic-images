@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "5d5d4299",
+      "filename": "pixiv_148606782_p0.jpg",
+      "path": "uploads/2026/08/875f2484.jpg",
+      "size": 384862,
+      "width": 1160,
+      "height": 871,
+      "mimeType": "image/jpeg",
+      "hash": "c2611f5430998d729dd7b5c95c19a3017fe8bfe5a1a82f9592e2ffcd54d7bf85",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:58:39.293Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "元室長85",
+      "tags": [
+        "漫画",
+        "元室長ちゃん",
+        "かわいそうはかわいい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148606782_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148606782",
+      "sourceCreatedAt": "2026-08-18T22:36:17.000Z"
+    },
+    {
       "id": "784c2285",
       "filename": "pixiv_148620708_p0.jpg",
       "path": "uploads/2026/08/00faf022.jpg",
