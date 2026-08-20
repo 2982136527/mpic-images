@@ -3,6 +3,35 @@
   "shardId": "02",
   "images": [
     {
+      "id": "d5f91ed7",
+      "filename": "pixiv_148611975_p0.jpg",
+      "path": "uploads/2026/08/3ae6ab78.jpg",
+      "size": 485842,
+      "width": 1200,
+      "height": 750,
+      "mimeType": "image/jpeg",
+      "hash": "3c5668254d914295ff2f93aebede59d7e43109825fe71e584e061d31d8832d86",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:58:24.424Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ブルーアーカイブ×Jリーグ",
+      "tags": [
+        "仕事絵",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "扇喜アオイ",
+        "志真コノカ",
+        "吉野ニコ",
+        "梯スバル",
+        "ブルーアーカイブ500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148611975_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148611975",
+      "sourceCreatedAt": "2026-08-19T03:10:01.000Z"
+    },
+    {
       "id": "b83cb83d",
       "filename": "pixiv_148568097_p0.jpg",
       "path": "uploads/2026/08/fcbbd6c2.jpg",
