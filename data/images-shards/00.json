@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "bbc816e1",
+      "filename": "pixiv_148598622_p0.jpg",
+      "path": "uploads/2026/08/1a00ddc0.jpg",
+      "size": 320808,
+      "width": 959,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4dc55e1566d0e72d5acef75ee385cb293f970cd568cdab7f0bf20dda59ca45a9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T16:54:54.322Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "やぎ",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "エイヤフィヤトラ(アークナイツ)",
+        "アコルト(アークナイツ)",
+        "ビーズワクス(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148598622_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148598622",
+      "sourceCreatedAt": "2026-08-18T15:28:41.000Z"
+    },
+    {
       "id": "6d5a6902",
       "filename": "pixiv_148626059_p0.jpg",
       "path": "uploads/2026/08/656e2b62.jpg",
