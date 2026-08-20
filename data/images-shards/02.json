@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "b83cb83d",
+      "filename": "pixiv_148568097_p0.jpg",
+      "path": "uploads/2026/08/fcbbd6c2.jpg",
+      "size": 1071645,
+      "width": 724,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d237ba5bd5117f324bdd18c72d0e0a1cac9f3d9a8065977051d8b46d3a085567",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:52:46.711Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Aemeath",
+      "tags": [
+        "鳴潮",
+        "エイメス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148568097_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148568097",
+      "sourceCreatedAt": "2026-08-17T22:03:42.000Z"
+    },
+    {
       "id": "e79a12c4",
       "filename": "pixiv_148579819_p0.jpg",
       "path": "uploads/2026/08/d1eaaae8.jpg",
