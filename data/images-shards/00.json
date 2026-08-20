@@ -3,6 +3,35 @@
   "shardId": "00",
   "images": [
     {
+      "id": "ce5c17d3",
+      "filename": "pixiv_148597126_p0.jpg",
+      "path": "uploads/2026/08/7944f320.jpg",
+      "size": 500600,
+      "width": 1200,
+      "height": 591,
+      "mimeType": "image/jpeg",
+      "hash": "09c2938ce7ee776236be68ee9da2eee19e655000ae60fff3b5567ab815f28dcb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T16:46:03.270Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Anemoi",
+      "tags": [
+        "オリジナル",
+        "風景",
+        "幻想",
+        "女の子",
+        "背景",
+        "水鏡",
+        "入道雲",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148597126_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148597126",
+      "sourceCreatedAt": "2026-08-18T15:00:24.000Z"
+    },
+    {
       "id": "8f549c78",
       "filename": "pixiv_148609990_p0.jpg",
       "path": "uploads/2026/08/2508315e.jpg",
