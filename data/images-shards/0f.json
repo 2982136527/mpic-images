@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "1dd4784d",
+      "filename": "pixiv_148566228_p0.jpg",
+      "path": "uploads/2026/08/733ac744.jpg",
+      "size": 387823,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "88427c81b828d6b14aa24a1765850b14d2105f27ea4e854d9a99ec055d7e9f05",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T16:46:36.562Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Avidlove - Pinups (Zhongzi)",
+      "tags": [
+        "diives",
+        "xingzuotemple",
+        "zhongzi"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148566228_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148566228",
+      "sourceCreatedAt": "2026-08-17T20:13:30.000Z"
+    },
+    {
       "id": "9ceb3456",
       "filename": "pixiv_148626573_p0.jpg",
       "path": "uploads/2026/08/f73b9ac4.jpg",
