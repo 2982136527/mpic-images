@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "9c64d2ec",
+      "filename": "pixiv_148582504_p0.jpg",
+      "path": "uploads/2026/08/7f1907c0.jpg",
+      "size": 707009,
+      "width": 743,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ce1440d073e286c3e5f28f2ea378b808a9a27f04e2d0b1e0239f58dd814315df",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:53:23.760Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "もふもふ",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "ウルピスフォリア(アークナイツ)",
+        "狐耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148582504_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148582504",
+      "sourceCreatedAt": "2026-08-18T09:26:34.000Z"
+    },
+    {
       "id": "2e4c0894",
       "filename": "pixiv_148576399_p0.jpg",
       "path": "uploads/2026/08/13f56b0f.jpg",
