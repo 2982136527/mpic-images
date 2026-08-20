@@ -3,6 +3,37 @@
   "shardId": "01",
   "images": [
     {
+      "id": "7cc43134",
+      "filename": "pixiv_148535751_p0.jpg",
+      "path": "uploads/2026/08/dc27c26c.jpg",
+      "size": 775661,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0924c7786cc35ecb0a362a464eba7713038932f98d1d8f29f1bd7a1328a23ac0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T01:49:37.304Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "カレンと撮影",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "漫画",
+        "BlueArchive",
+        "明楽カレン",
+        "空崎ヒナ",
+        "今日もどこかでヘイローが割れる",
+        "羽沼マコト",
+        "NTR音声",
+        "目隠し"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148535751_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148535751",
+      "sourceCreatedAt": "2026-08-17T03:30:02.000Z"
+    },
+    {
       "id": "9165ee43",
       "filename": "pixiv_148561722_p0.jpg",
       "path": "uploads/2026/08/257166d4.jpg",
