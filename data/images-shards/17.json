@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "f8cad122",
+      "filename": "pixiv_148616247_p0.jpg",
+      "path": "uploads/2026/08/0a59f456.jpg",
+      "size": 1041297,
+      "width": 693,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "51a59c28189ccafcad548488a4cd0b8ed52072b5ac51184903e9135be74c182a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:53:01.166Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "悠真",
+      "tags": [
+        "ゼンゼロ",
+        "ゼンレスゾーンゼロ",
+        "浅羽悠真"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148616247_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148616247",
+      "sourceCreatedAt": "2026-08-19T06:44:30.000Z"
+    },
+    {
       "id": "667a34d2",
       "filename": "pixiv_148561987_p0.jpg",
       "path": "uploads/2026/08/8162577a.jpg",
