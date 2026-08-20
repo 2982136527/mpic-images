@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "f6e8b50d",
+      "filename": "pixiv_148599441_p0.jpg",
+      "path": "uploads/2026/08/ae10312e.jpg",
+      "size": 1235116,
+      "width": 1200,
+      "height": 1138,
+      "mimeType": "image/jpeg",
+      "hash": "da9970d4b53b999285b90f5686b066bbc7ec7e55b5a828e92992144ad1e6f1b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:53:15.821Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "犬"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148599441_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148599441",
+      "sourceCreatedAt": "2026-08-18T15:49:05.000Z"
+    },
+    {
       "id": "ed7093e1",
       "filename": "pixiv_148634600_p0.jpg",
       "path": "uploads/2026/08/ec4967e5.jpg",
