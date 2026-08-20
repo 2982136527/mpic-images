@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "e79a12c4",
+      "filename": "pixiv_148579819_p0.jpg",
+      "path": "uploads/2026/08/d1eaaae8.jpg",
+      "size": 1631938,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "be18e27ce0e8c3ad49ba1563409613f9c93774bd23c3cec4c797804c1faae9ed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T01:52:15.966Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "夏五"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148579819_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148579819",
+      "sourceCreatedAt": "2026-08-18T07:58:30.000Z"
+    },
+    {
       "id": "fe05ca4c",
       "filename": "pixiv_148556337_p0.jpg",
       "path": "uploads/2026/08/e095e59b.jpg",
