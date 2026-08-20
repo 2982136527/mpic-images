@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "19280ff3",
+      "filename": "pixiv_148608190_p0.jpg",
+      "path": "uploads/2026/08/cb06deb0.jpg",
+      "size": 512470,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "ac3fae10944fd57f21cbba91d8e39c131b66d55e161a6d6048fce8c40d92fafc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T16:48:45.168Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "タイツの塗り方がわからない人へ",
+      "tags": [
+        "描き方",
+        "コツ",
+        "ハウツー",
+        "ノウハウ",
+        "上達法"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148608190_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148608190",
+      "sourceCreatedAt": "2026-08-18T23:56:58.000Z"
+    },
+    {
       "id": "3b1737c0",
       "filename": "pixiv_148603373_p0.jpg",
       "path": "uploads/2026/08/a99db114.jpg",
