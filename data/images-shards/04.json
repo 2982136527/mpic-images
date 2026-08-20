@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "4bb2b058",
+      "filename": "pixiv_148616447_p0.jpg",
+      "path": "uploads/2026/08/abe64e6d.jpg",
+      "size": 634033,
+      "width": 1158,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "410814caa621f43d6b1ec3b415322a84e5b9858dfe0795ce1ec9db07817fc111",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:59:26.794Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ギュラガール",
+      "tags": [
+        "重音テト",
+        "カンケーガール",
+        "イレギュラーマン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148616447_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148616447",
+      "sourceCreatedAt": "2026-08-19T06:54:14.000Z"
+    },
+    {
       "id": "c6f22ca7",
       "filename": "pixiv_148627599_p0.jpg",
       "path": "uploads/2026/08/b8265da5.jpg",
