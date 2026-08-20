@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "5eecd5a2",
+      "filename": "pixiv_148538992_p0.jpg",
+      "path": "uploads/2026/08/50e92036.jpg",
+      "size": 449148,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "12248263f07eb5d02de2de4435d6821600a56f0c742ea39fd14f5cf855fe9b70",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T01:45:56.494Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "上官と部下67",
+      "tags": [
+        "漫画",
+        "軍人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148538992_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148538992",
+      "sourceCreatedAt": "2026-08-17T06:02:01.000Z"
+    },
+    {
       "id": "93d375ce",
       "filename": "pixiv_148520531_p0.jpg",
       "path": "uploads/2026/08/7ed02768.jpg",
