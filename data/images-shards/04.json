@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "104d7a09",
+      "filename": "pixiv_148572499_p0.jpg",
+      "path": "uploads/2026/08/d518a713.jpg",
+      "size": 336340,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "081944210dc54e52e7ebf9fddff65c9b137ae0c189cd89d1cd8b1cc6f6e59cd2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:56:55.937Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "XT Timeline - LH analysis",
+      "tags": [
+        "diives",
+        "xingzuotemple",
+        "lajiao"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148572499_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148572499",
+      "sourceCreatedAt": "2026-08-18T02:16:16.000Z"
+    },
+    {
       "id": "9c64d2ec",
       "filename": "pixiv_148582504_p0.jpg",
       "path": "uploads/2026/08/7f1907c0.jpg",
