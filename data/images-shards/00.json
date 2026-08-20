@@ -3,6 +3,28 @@
   "shardId": "00",
   "images": [
     {
+      "id": "49f743bf",
+      "filename": "pixiv_148558961_p0.jpg",
+      "path": "uploads/2026/08/a70fb06c.jpg",
+      "size": 260777,
+      "width": 1200,
+      "height": 608,
+      "mimeType": "image/jpeg",
+      "hash": "9edebf5bdb63ee82e24f8a78f041669fc598a3d82619b3a908386af7e73ae9a6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T01:52:10.115Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "log",
+      "tags": [
+        "さよならララ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148558961_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148558961",
+      "sourceCreatedAt": "2026-08-17T15:02:38.000Z"
+    },
+    {
       "id": "573a8e7d",
       "filename": "pixiv_148581015_p0.jpg",
       "path": "uploads/2026/08/c7805a51.jpg",
