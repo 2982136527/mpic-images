@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "0a8a9265",
+      "filename": "pixiv_148597304_p0.jpg",
+      "path": "uploads/2026/08/58d93017.jpg",
+      "size": 1691716,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9753c4dbaba5ca8dfa170e309950e48f514cdf72e1c60dc2db8aa4ea9f7c2146",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T16:45:46.676Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "巨獣の痕跡",
+      "tags": [
+        "風景",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148597304_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148597304",
+      "sourceCreatedAt": "2026-08-18T15:01:23.000Z"
+    },
+    {
       "id": "65693d4c",
       "filename": "pixiv_148404748_p0.jpg",
       "path": "uploads/2026/08/fa3e20d6.jpg",
