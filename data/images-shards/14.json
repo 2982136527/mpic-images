@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "405caef8",
+      "filename": "pixiv_148634364_p0.jpg",
+      "path": "uploads/2026/08/9a459f92.jpg",
+      "size": 1104917,
+      "width": 700,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "45c722a58857e545f6dbfc7806cd8c9bc5899b713c42a566d435200fc5c6bccc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T16:45:29.869Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Rapunzel",
+      "tags": [
+        "NIKKE",
+        "ラプンツェル(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148634364_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148634364",
+      "sourceCreatedAt": "2026-08-19T14:41:52.000Z"
+    },
+    {
       "id": "58eb3b7c",
       "filename": "pixiv_148597068_p0.jpg",
       "path": "uploads/2026/08/a8e0e558.jpg",
