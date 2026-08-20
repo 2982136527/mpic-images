@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "7c79af93",
+      "filename": "pixiv_148580336_p0.jpg",
+      "path": "uploads/2026/08/48315012.jpg",
+      "size": 731360,
+      "width": 1200,
+      "height": 503,
+      "mimeType": "image/jpeg",
+      "hash": "140c181d6e450b0d6332f7db302dc249036837f94a4648ac2e2f028362864a26",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:51:12.966Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "昔日",
+      "tags": [
+        "原创",
+        "插画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148580336_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148580336",
+      "sourceCreatedAt": "2026-08-18T08:17:03.000Z"
+    },
+    {
       "id": "5abfa886",
       "filename": "pixiv_148520754_p0.jpg",
       "path": "uploads/2026/08/ffb99190.jpg",
