@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "8f549c78",
+      "filename": "pixiv_148609990_p0.jpg",
+      "path": "uploads/2026/08/2508315e.jpg",
+      "size": 1543976,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fff951a266e7ec1d5c57d5e948ec395aed896ecf26c334c6fc4d799f27d3b73a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:51:35.698Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "MIKU KEEP",
+      "tags": [
+        "女の子",
+        "VOCALOID",
+        "初音ミク",
+        "miku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148609990_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148609990",
+      "sourceCreatedAt": "2026-08-19T01:37:21.000Z"
+    },
+    {
       "id": "49f743bf",
       "filename": "pixiv_148558961_p0.jpg",
       "path": "uploads/2026/08/a70fb06c.jpg",
