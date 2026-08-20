@@ -3,6 +3,34 @@
   "shardId": "18",
   "images": [
     {
+      "id": "d331e561",
+      "filename": "pixiv_148631873_p0.jpg",
+      "path": "uploads/2026/08/68851c1b.jpg",
+      "size": 890336,
+      "width": 928,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "24179ce5a5f8aa04f795a09dc8a2777e70a2db2e92fe8738e3598b67b0bdfa16",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:51:05.374Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "鬼は内",
+      "tags": [
+        "ゼンゼロ",
+        "月城柳",
+        "星見雅",
+        "蒼角",
+        "浅羽悠真",
+        "橘福福",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148631873_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148631873",
+      "sourceCreatedAt": "2026-08-19T13:47:10.000Z"
+    },
+    {
       "id": "40cf29a8",
       "filename": "pixiv_148551180_p0.jpg",
       "path": "uploads/2026/08/a15d8f31.jpg",
