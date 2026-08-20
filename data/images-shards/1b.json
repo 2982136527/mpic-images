@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "cd0a3d64",
+      "filename": "pixiv_148611021_p0.jpg",
+      "path": "uploads/2026/08/814e21fc.jpg",
+      "size": 1028362,
+      "width": 855,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bebb592a57feb8c9a00f8d25abe008a1bad067d995c78800aeeb0810649b42aa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:52:38.693Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "水着",
+        "女の子",
+        "白髪",
+        "海",
+        "白スク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148611021_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148611021",
+      "sourceCreatedAt": "2026-08-19T02:31:38.000Z"
+    },
+    {
       "id": "b0a40a9b",
       "filename": "pixiv_148558588_p0.jpg",
       "path": "uploads/2026/08/7a597aee.jpg",
