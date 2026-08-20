@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "da1e67ed",
+      "filename": "pixiv_148621073_p0.jpg",
+      "path": "uploads/2026/08/31a2abac.jpg",
+      "size": 2221630,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ddc33fafd75cae63d1fd664d8277ba74f9202508189d91d8128bb50ba5d650aa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T08:54:45.014Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏を纏う",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "花火",
+        "男の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148621073_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148621073",
+      "sourceCreatedAt": "2026-08-19T09:38:26.000Z"
+    },
+    {
       "id": "86063502",
       "filename": "pixiv_148354980_p0.jpg",
       "path": "uploads/2026/08/907188c6.jpg",
