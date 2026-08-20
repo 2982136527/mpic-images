@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "5abfa886",
+      "filename": "pixiv_148520754_p0.jpg",
+      "path": "uploads/2026/08/ffb99190.jpg",
+      "size": 871940,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "637fc6d4723e14c94b6bb3d2ac54383aa8613309618c07143133bf7997f16fb8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T01:51:42.769Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "SAI龍まとめ①",
+      "tags": [
+        "SAI龍",
+        "dcst腐向け",
+        "dcst腐向け300users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148520754_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148520754",
+      "sourceCreatedAt": "2026-08-16T15:58:42.000Z"
+    },
+    {
       "id": "c145eb73",
       "filename": "pixiv_148582125_p0.jpg",
       "path": "uploads/2026/08/d32ff3c4.jpg",
