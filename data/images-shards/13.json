@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "b342c1d0",
+      "filename": "pixiv_148590348_p0.jpg",
+      "path": "uploads/2026/08/441c26bb.jpg",
+      "size": 1460494,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a123df81a2a7fa779e999e29ead2320351f49c70c3ba128be0dcc368c2afb5c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T16:47:18.677Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "8/23(日)インテお品書き",
+      "tags": [
+        "プロセカ",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148590348_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148590348",
+      "sourceCreatedAt": "2026-08-18T12:34:21.000Z"
+    },
+    {
       "id": "efb87a5c",
       "filename": "pixiv_148578807_p0.jpg",
       "path": "uploads/2026/08/2ffc6632.jpg",
