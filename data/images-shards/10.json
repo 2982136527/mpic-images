@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "5c463e07",
+      "filename": "pixiv_148568415_p0.jpg",
+      "path": "uploads/2026/08/5b9cc3b9.jpg",
+      "size": 436737,
+      "width": 1026,
+      "height": 841,
+      "mimeType": "image/jpeg",
+      "hash": "402ef935355d1f6506b3ec6e426e37b8675a54e45d3793a2e2a7cf85fbf26ad5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T01:48:25.967Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "セイレーン",
+      "tags": [
+        "セイレーン",
+        "セイレーン(ちいかわ)",
+        "ちいかわ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148568415_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148568415",
+      "sourceCreatedAt": "2026-08-17T22:24:49.000Z"
+    },
+    {
       "id": "8af207a7",
       "filename": "pixiv_148582603_p0.jpg",
       "path": "uploads/2026/08/8a1d6883.jpg",
