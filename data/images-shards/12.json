@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "cfc0f2fb",
+      "filename": "pixiv_148622562_p0.jpg",
+      "path": "uploads/2026/08/c1150951.jpg",
+      "size": 395227,
+      "width": 791,
+      "height": 1080,
+      "mimeType": "image/jpeg",
+      "hash": "2d27907fedd05c305e2ad5b8cbbcf2e41d1772622b2fa69e9d4776f556c1d280",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T16:51:04.685Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "何かに気づいたミティ蛍",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ミティ蛍"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148622562_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148622562",
+      "sourceCreatedAt": "2026-08-19T10:20:26.000Z"
+    },
+    {
       "id": "4731081e",
       "filename": "pixiv_148569163_p0.jpg",
       "path": "uploads/2026/08/72fc8789.jpg",
