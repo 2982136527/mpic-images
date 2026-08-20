@@ -3,6 +3,28 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "580a67db",
+      "filename": "pixiv_148613904_p0.jpg",
+      "path": "uploads/2026/08/1d321027.jpg",
+      "size": 1539724,
+      "width": 1200,
+      "height": 1129,
+      "mimeType": "image/jpeg",
+      "hash": "56527d335a43b770f0192b116e926fcc071564e92613f21b083cd7afc70c7127",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T16:45:22.835Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Love and Deepspace🌸",
+      "tags": [
+        "LoveandDeepspace"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148613904_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148613904",
+      "sourceCreatedAt": "2026-08-19T04:46:47.000Z"
+    },
+    {
       "id": "fbf22faf",
       "filename": "pixiv_148577878_p0.jpg",
       "path": "uploads/2026/08/7bd7257f.jpg",
