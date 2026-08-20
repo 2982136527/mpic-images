@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "6d5a6902",
+      "filename": "pixiv_148626059_p0.jpg",
+      "path": "uploads/2026/08/656e2b62.jpg",
+      "size": 1116198,
+      "width": 1200,
+      "height": 1165,
+      "mimeType": "image/jpeg",
+      "hash": "4a88f5abd85e8e4b7e93ed68b3ecbd632a9ba57991813653a23a8651e2451341",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-20T16:54:43.922Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "レオ監ログ",
+      "tags": [
+        "twst夢",
+        "レオ監",
+        "女監督生"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148626059_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148626059",
+      "sourceCreatedAt": "2026-08-19T11:58:22.000Z"
+    },
+    {
       "id": "575057c1",
       "filename": "pixiv_148558609_p0.jpg",
       "path": "uploads/2026/08/8c0eaa18.jpg",
