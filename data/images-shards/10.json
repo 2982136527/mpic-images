@@ -3,6 +3,35 @@
   "shardId": "10",
   "images": [
     {
+      "id": "e6a54c41",
+      "filename": "pixiv_148432246_p0.jpg",
+      "path": "uploads/2026/08/a1028099.jpg",
+      "size": 1557152,
+      "width": 1200,
+      "height": 709,
+      "mimeType": "image/jpeg",
+      "hash": "689303622c76a546f5747e87e9a1f72febff1e1f89dd5280827749f5aa40a6d6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T01:58:43.538Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "竜騎士ログレスEXアタック",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "ロード・ログレス",
+        "ログレス",
+        "アルトリア・ペンドラゴン",
+        "Fate/GO1000users入り",
+        "金髪",
+        "鎧"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148432246_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148432246",
+      "sourceCreatedAt": "2026-08-14T15:00:20.000Z"
+    },
+    {
       "id": "0607bae5",
       "filename": "pixiv_148597012_p0.jpg",
       "path": "uploads/2026/08/0b8a59fc.jpg",
