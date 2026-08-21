@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "bca8bf10",
+      "filename": "pixiv_148600687_p0.jpg",
+      "path": "uploads/2026/08/dc95011b.jpg",
+      "size": 1379012,
+      "width": 1200,
+      "height": 991,
+      "mimeType": "image/jpeg",
+      "hash": "9b394011691d9360e531b60185b480a75d358f0843866cee8d5a9710a8a312d1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:52:22.553Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "히스너무좋아청년",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "캐서린"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148600687_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148600687",
+      "sourceCreatedAt": "2026-08-18T16:27:49.000Z"
+    },
+    {
       "id": "84413e00",
       "filename": "pixiv_148614884_p0.jpg",
       "path": "uploads/2026/08/757ea2aa.jpg",
