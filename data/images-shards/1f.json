@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "4423e870",
+      "filename": "pixiv_148603923_p0.jpg",
+      "path": "uploads/2026/08/38c3be88.jpg",
+      "size": 823505,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "185d5e4b8a44cbf990bcd5ce0ec70fad150e624114e3e9293a2efc66c6db5361",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:52:55.970Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ときをへても",
+      "tags": [
+        "超かぐや姫!",
+        "かぐや(超かぐや姫!)",
+        "月見ヤチヨ",
+        "超かぐや姫!500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148603923_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148603923",
+      "sourceCreatedAt": "2026-08-18T19:25:46.000Z"
+    },
+    {
       "id": "860bef88",
       "filename": "pixiv_148609456_p0.jpg",
       "path": "uploads/2026/08/4bcbce63.jpg",
