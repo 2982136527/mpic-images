@@ -3,6 +3,34 @@
   "shardId": "16",
   "images": [
     {
+      "id": "c64737ed",
+      "filename": "pixiv_148622108_p0.jpg",
+      "path": "uploads/2026/08/e31b7358.jpg",
+      "size": 286154,
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/jpeg",
+      "hash": "6de35d13373be6a1b193001a675efe847f4605d8f49f3117ff2531f14016466e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T16:46:45.354Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ｽﾋﾟｷ",
+      "tags": [
+        "ｽﾋﾟｷ",
+        "トリッカル",
+        "트릭컬",
+        "スピキ",
+        "MMOｽﾋﾟｷ",
+        "出るとこﾃﾞﾙｼﾞﾊﾞｾﾞﾖ",
+        "サイバーパンク:エッジランナーズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148622108_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148622108",
+      "sourceCreatedAt": "2026-08-19T10:06:52.000Z"
+    },
+    {
       "id": "d0704220",
       "filename": "pixiv_148635325_p0.jpg",
       "path": "uploads/2026/08/6f15f0ab.jpg",
