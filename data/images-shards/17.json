@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "7b2e5ef2",
+      "filename": "pixiv_148577607_p0.jpg",
+      "path": "uploads/2026/08/ce1eb75f.jpg",
+      "size": 534773,
+      "width": 662,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6d4338324b25d62f43617e0dc9f96e107cdd692d99bc301206cf83f6ea4a7dba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T01:57:36.851Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "空崎ヒナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148577607_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148577607",
+      "sourceCreatedAt": "2026-08-18T06:16:08.000Z"
+    },
+    {
       "id": "792632e9",
       "filename": "pixiv_148608466_p0.jpg",
       "path": "uploads/2026/08/76da8c74.jpg",
