@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "4356653b",
+      "filename": "pixiv_148630052_p0.jpg",
+      "path": "uploads/2026/08/d4882517.jpg",
+      "size": 1086905,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "3bdb1c5f93b2714c68a8632ef8fa7d9ef0daeab17818ff603f32ffca52fb2446",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:57:01.781Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "skeb｜小悪魔",
+      "tags": [
+        "東方Project",
+        "東方",
+        "小悪魔",
+        "skeb",
+        "小悪魔(東方Project)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148630052_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148630052",
+      "sourceCreatedAt": "2026-08-19T13:06:02.000Z"
+    },
+    {
       "id": "c3be7543",
       "filename": "pixiv_148595231_p0.jpg",
       "path": "uploads/2026/08/957d30a6.jpg",
