@@ -3,6 +3,35 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "ea666ac1",
+      "filename": "pixiv_148632647_p0.jpg",
+      "path": "uploads/2026/08/122c3615.jpg",
+      "size": 978550,
+      "width": 754,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "50349651a2b332dba0b7621b9c7f3f75550367c67621dcd729d7d466f55f6a50",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T16:49:21.933Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "フリンズ",
+      "tags": [
+        "原神",
+        "スチームパンク",
+        "Steampunk",
+        "Genshin",
+        "GenshinImpact",
+        "Flins",
+        "フリンズ",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148632647_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148632647",
+      "sourceCreatedAt": "2026-08-19T14:03:04.000Z"
+    },
+    {
       "id": "6f353681",
       "filename": "pixiv_148654125_p0.jpg",
       "path": "uploads/2026/08/14202202.jpg",
