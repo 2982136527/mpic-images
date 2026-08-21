@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "5c1fdd67",
+      "filename": "pixiv_148627579_p0.jpg",
+      "path": "uploads/2026/08/8c33f354.jpg",
+      "size": 1398123,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1a8064bca3eefc8d5e06aeb84c132254e5f67d2809bbdb6263bab86c479acdc7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T16:48:08.162Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ダンバル",
+      "tags": [
+        "ポケットモンスター",
+        "pokemon",
+        "ポケモン",
+        "ダンバル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148627579_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148627579",
+      "sourceCreatedAt": "2026-08-19T12:14:48.000Z"
+    },
+    {
       "id": "ba455d1e",
       "filename": "pixiv_148432410_p0.jpg",
       "path": "uploads/2026/08/94fcfa84.jpg",
