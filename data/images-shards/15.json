@@ -3,6 +3,28 @@
   "shardId": "15",
   "images": [
     {
+      "id": "a41c4bfa",
+      "filename": "pixiv_148613434_p0.jpg",
+      "path": "uploads/2026/08/5e60354c.jpg",
+      "size": 955866,
+      "width": 873,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2bb359d622e7cce123435392c6d6f5a369b9f8a6d671b6dfcda2a31480096a68",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:58:41.611Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "デュエマrkgkまとめ",
+      "tags": [
+        "デュエル・マスターズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148613434_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148613434",
+      "sourceCreatedAt": "2026-08-19T04:21:52.000Z"
+    },
+    {
       "id": "c3a670a6",
       "filename": "pixiv_148625304_p0.jpg",
       "path": "uploads/2026/08/5ca997bf.jpg",
