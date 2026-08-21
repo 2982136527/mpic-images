@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "556e522c",
+      "filename": "pixiv_148655591_p0.jpg",
+      "path": "uploads/2026/08/198e1afb.jpg",
+      "size": 599767,
+      "width": 686,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b56239a1ae68ca2b1236196c823bd50284b32fde648689d477006479c16967fc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T09:01:45.086Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "サマー王",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "水着ウマ娘",
+        "水着",
+        "キングヘイロー(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148655591_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148655591",
+      "sourceCreatedAt": "2026-08-20T07:56:03.000Z"
+    },
+    {
       "id": "154e5ca1",
       "filename": "pixiv_148647790_p0.jpg",
       "path": "uploads/2026/08/bc446664.jpg",
