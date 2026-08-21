@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "d2a4d2f2",
+      "filename": "pixiv_148637184_p0.jpg",
+      "path": "uploads/2026/08/090b14ba.jpg",
+      "size": 1130567,
+      "width": 899,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "af98a6c41598d71ebe6718dd5597ba3365cacbdb35f4c928aa38f64bf3c739f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T16:48:31.974Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ぽこ",
+      "tags": [
+        "ぽこあポケモン",
+        "メタモン(ぽこあポケモン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148637184_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148637184",
+      "sourceCreatedAt": "2026-08-19T15:36:42.000Z"
+    },
+    {
       "id": "fbdd37a2",
       "filename": "pixiv_148620652_p0.jpg",
       "path": "uploads/2026/08/aa389fc6.jpg",
