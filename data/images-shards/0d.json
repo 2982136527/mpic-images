@@ -3,6 +3,28 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "a6e73703",
+      "filename": "pixiv_148660763_p0.jpg",
+      "path": "uploads/2026/08/cbdef5b8.jpg",
+      "size": 820585,
+      "width": 703,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "686698f9996285dfbe16cd360373debdf56fd1a8a4012a676d3d8d9ed285a189",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:58:15.947Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【単行本のお知らせ】",
+      "tags": [
+        "創作漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148660763_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148660763",
+      "sourceCreatedAt": "2026-08-20T10:40:08.000Z"
+    },
+    {
       "id": "88525249",
       "filename": "pixiv_148581221_p0.jpg",
       "path": "uploads/2026/08/97d4922f.jpg",
