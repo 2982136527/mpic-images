@@ -3,6 +3,32 @@
   "shardId": "14",
   "images": [
     {
+      "id": "7326e6e1",
+      "filename": "pixiv_148642788_p0.jpg",
+      "path": "uploads/2026/08/196913b4.jpg",
+      "size": 1010407,
+      "width": 1200,
+      "height": 1105,
+      "mimeType": "image/jpeg",
+      "hash": "abba8366284041f094c717e383435606c1c8f844662ac00a8e420375512ec2c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T16:51:19.161Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "某映画を見た草神様",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "放浪者",
+        "ナヒーダ",
+        "アランナラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148642788_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148642788",
+      "sourceCreatedAt": "2026-08-19T20:06:50.000Z"
+    },
+    {
       "id": "1ad8ef73",
       "filename": "pixiv_148665307_p0.jpg",
       "path": "uploads/2026/08/0ce3b425.jpg",
