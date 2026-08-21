@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "9a22ea19",
+      "filename": "pixiv_148582837_p0.jpg",
+      "path": "uploads/2026/08/38f2d12e.jpg",
+      "size": 885488,
+      "width": 1200,
+      "height": 692,
+      "mimeType": "image/jpeg",
+      "hash": "66f458bba2624943c0a304830d48b8570bcded23a6c191c913d3efb91a55b4ac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T01:54:12.257Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "うさみみさん（skeb）",
+      "tags": [
+        "Skeb",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148582837_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148582837",
+      "sourceCreatedAt": "2026-08-18T09:35:46.000Z"
+    },
+    {
       "id": "cc2066fa",
       "filename": "pixiv_148572688_p0.jpg",
       "path": "uploads/2026/08/8be57a74.jpg",
