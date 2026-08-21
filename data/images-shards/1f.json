@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "c83a393a",
+      "filename": "pixiv_148635342_p0.jpg",
+      "path": "uploads/2026/08/c05871eb.jpg",
+      "size": 862475,
+      "width": 841,
+      "height": 902,
+      "mimeType": "image/jpeg",
+      "hash": "9fcfe2cfa972d830b4419b4812fb0593a7850b33c0c8fa0d1aca5c1b4d2a73f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T16:45:27.284Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ビルドウィザーズ２",
+      "tags": [
+        "オリジナル",
+        "ビルドウィザーズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148635342_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148635342",
+      "sourceCreatedAt": "2026-08-19T15:00:19.000Z"
+    },
+    {
       "id": "69978b48",
       "filename": "pixiv_148620930_p0.jpg",
       "path": "uploads/2026/08/ebdd0a8e.jpg",
