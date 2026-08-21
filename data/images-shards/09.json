@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "9634d695",
+      "filename": "pixiv_148629585_p0.jpg",
+      "path": "uploads/2026/08/d73d5523.jpg",
+      "size": 966035,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0aa57f2af0c275d0b7f0e2f115398fb5383ba147e8d5a47a76703aa91261d38a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:54:57.679Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【依頼】南雪児",
+      "tags": [
+        "原创"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148629585_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148629585",
+      "sourceCreatedAt": "2026-08-19T12:58:22.000Z"
+    },
+    {
       "id": "76ff3fc0",
       "filename": "pixiv_148582481_p0.jpg",
       "path": "uploads/2026/08/6102be0e.jpg",
