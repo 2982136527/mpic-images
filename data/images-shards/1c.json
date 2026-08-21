@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "49f34b7a",
+      "filename": "pixiv_148623519_p0.jpg",
+      "path": "uploads/2026/08/f126920a.jpg",
+      "size": 534587,
+      "width": 825,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b0abfdde5bc640353e05aa054a878c6424204fd05f0d9fef45141ac1f1f5df94",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:58:03.259Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "魔王",
+      "tags": [
+        "ステラソラ",
+        "StellaSora",
+        "魔王(ステラソラ)",
+        "女魔王(ステラソラ)",
+        "Tyrant"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148623519_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148623519",
+      "sourceCreatedAt": "2026-08-19T10:47:52.000Z"
+    },
+    {
       "id": "26044cfe",
       "filename": "pixiv_148659607_p0.jpg",
       "path": "uploads/2026/08/dc783374.jpg",
