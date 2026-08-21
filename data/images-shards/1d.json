@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "7cc67ddc",
+      "filename": "pixiv_148660314_p0.jpg",
+      "path": "uploads/2026/08/b122dd77.jpg",
+      "size": 431149,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "cdb906c213edc0c22b0bc874b2fca61e6fca592453bc6306021c7d50cdbd99ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:55:37.089Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "眼鏡セーター",
+      "tags": [
+        "VTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148660314_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148660314",
+      "sourceCreatedAt": "2026-08-20T10:28:26.000Z"
+    },
+    {
       "id": "17cd1c5c",
       "filename": "pixiv_148600653_p0.jpg",
       "path": "uploads/2026/08/f0231d67.jpg",
