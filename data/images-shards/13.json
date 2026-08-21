@@ -3,6 +3,33 @@
   "shardId": "13",
   "images": [
     {
+      "id": "ab88a58b",
+      "filename": "pixiv_148635258_p0.jpg",
+      "path": "uploads/2026/08/095e37e3.jpg",
+      "size": 1123338,
+      "width": 865,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c68cb05b01d5909397a5fc88b80510e3b693f22926c26d245b2a403358fc0b5b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T09:01:25.897Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "トレーナーさんどっちにするの？",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "ナイスネイチャ(ウマ娘)",
+        "マチカネタンホイザ(ウマ娘)",
+        "水着ウマ娘",
+        "ウマ娘プリティーダービー100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148635258_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148635258",
+      "sourceCreatedAt": "2026-08-19T15:00:07.000Z"
+    },
+    {
       "id": "690c57af",
       "filename": "pixiv_148643090_p0.jpg",
       "path": "uploads/2026/08/e53e4a5f.jpg",
