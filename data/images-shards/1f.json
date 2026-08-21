@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "becff89d",
+      "filename": "pixiv_148600948_p0.jpg",
+      "path": "uploads/2026/08/54ae155b.jpg",
+      "size": 607160,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "84f4a28aeb7c67f8bfc46b5fd3426e90baf164d5499844d2b51d9f8303afe22b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T16:46:37.563Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "탈진",
+      "tags": [
+        "League_of_Legends",
+        "Gwen",
+        "gwen(lol)",
+        "그웬"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148600948_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148600948",
+      "sourceCreatedAt": "2026-08-18T16:37:44.000Z"
+    },
+    {
       "id": "c83a393a",
       "filename": "pixiv_148635342_p0.jpg",
       "path": "uploads/2026/08/c05871eb.jpg",
