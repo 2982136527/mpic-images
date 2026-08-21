@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "ff8f0f9e",
+      "filename": "pixiv_148659712_p0.jpg",
+      "path": "uploads/2026/08/e53f953b.jpg",
+      "size": 811591,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bd19b053665714fd4c2e6c4aa0683757d893d2d1a67c9313d1960fb83b4148c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:57:48.194Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "死の執政ロノヴァさん",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ロノヴァ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148659712_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148659712",
+      "sourceCreatedAt": "2026-08-20T10:08:49.000Z"
+    },
+    {
       "id": "0c33835d",
       "filename": "pixiv_148625104_p0.jpg",
       "path": "uploads/2026/08/96cba04a.jpg",
