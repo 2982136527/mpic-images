@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "3daa2cfe",
+      "filename": "pixiv_148610393_p0.jpg",
+      "path": "uploads/2026/08/55fee955.jpg",
+      "size": 257298,
+      "width": 737,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "62dd5f11c66509c24e7d1a7b6bfc2e17c2193d0f673c59eb942886f3aec85286",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:59:27.521Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "カヨコ",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "블루아카이브",
+        "鬼方カヨコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148610393_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148610393",
+      "sourceCreatedAt": "2026-08-19T02:00:05.000Z"
+    },
+    {
       "id": "b33d8697",
       "filename": "pixiv_148651647_p0.jpg",
       "path": "uploads/2026/08/57de81ba.jpg",
