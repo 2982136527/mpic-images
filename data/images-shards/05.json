@@ -3,6 +3,28 @@
   "shardId": "05",
   "images": [
     {
+      "id": "94d8de8f",
+      "filename": "pixiv_148656149_p0.jpg",
+      "path": "uploads/2026/08/cc6f7b61.jpg",
+      "size": 1592738,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "d39dbeacf1fc109a5769e15d95ed62a36987e7a622c72b18cab9d0545c729861",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:58:28.694Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Sissela",
+      "tags": [
+        "eternal_return"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148656149_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148656149",
+      "sourceCreatedAt": "2026-08-20T08:17:53.000Z"
+    },
+    {
       "id": "f6be7feb",
       "filename": "pixiv_148641481_p0.jpg",
       "path": "uploads/2026/08/be980657.jpg",
