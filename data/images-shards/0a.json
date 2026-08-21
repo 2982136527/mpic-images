@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "7c16135a",
+      "filename": "pixiv_148618301_p0.jpg",
+      "path": "uploads/2026/08/605b9f72.jpg",
+      "size": 988404,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "81e830770ad38ffee5ebbeef7aa9ccbc6aa5d3ea15c1939a9d667f4b15f3ab31",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T16:47:57.657Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "ガールズバンドクライ",
+        "ガルクラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148618301_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148618301",
+      "sourceCreatedAt": "2026-08-19T08:13:33.000Z"
+    },
+    {
       "id": "fa14f07e",
       "filename": "pixiv_148640286_p0.jpg",
       "path": "uploads/2026/08/ecf05922.jpg",
