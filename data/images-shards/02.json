@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "1e3c4d1a",
+      "filename": "pixiv_148616333_p0.jpg",
+      "path": "uploads/2026/08/047eba7c.jpg",
+      "size": 608477,
+      "width": 721,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7fd1bac59b10e297ecd928f12b94cbea830854f6674af39f05669862d0566c60",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T01:54:40.926Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "健全ブルアカまとめ２０",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "ブルーアーカイブ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148616333_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148616333",
+      "sourceCreatedAt": "2026-08-19T06:49:05.000Z"
+    },
+    {
       "id": "c71f2b9f",
       "filename": "pixiv_148623391_p0.jpg",
       "path": "uploads/2026/08/1702c702.jpg",
