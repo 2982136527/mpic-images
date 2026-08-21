@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "238d0efb",
+      "filename": "pixiv_148626820_p0.jpg",
+      "path": "uploads/2026/08/924946f5.jpg",
+      "size": 2394292,
+      "width": 1016,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5563d711172a4bc65972071329c2b7fc305424622fd3bd5e197a609a83f2a464",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:52:35.437Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "パンクテト",
+      "tags": [
+        "重音テト",
+        "UTAU100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148626820_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148626820",
+      "sourceCreatedAt": "2026-08-19T12:00:16.000Z"
+    },
+    {
       "id": "7b2e5ef2",
       "filename": "pixiv_148577607_p0.jpg",
       "path": "uploads/2026/08/ce1eb75f.jpg",
