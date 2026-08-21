@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "fa14f07e",
+      "filename": "pixiv_148640286_p0.jpg",
+      "path": "uploads/2026/08/ecf05922.jpg",
+      "size": 1372280,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e2380ddb153958f915dc122854754c4feb04ffcda62f51f60a3843f329d53cf6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:57:08.158Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "폴라",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148640286_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148640286",
+      "sourceCreatedAt": "2026-08-19T17:26:43.000Z"
+    },
+    {
       "id": "1f049703",
       "filename": "pixiv_148644786_p0.jpg",
       "path": "uploads/2026/08/97b89668.jpg",
