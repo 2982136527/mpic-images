@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "62f0189e",
+      "filename": "pixiv_148665224_p0.jpg",
+      "path": "uploads/2026/08/3b052abd.jpg",
+      "size": 902736,
+      "width": 865,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2ee833d529f32c64c3beb905a5127d4f232e20b6cc395c8f713ad5b861ed611a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T16:48:54.693Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "「ひと口いかが？」",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148665224_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148665224",
+      "sourceCreatedAt": "2026-08-20T12:26:56.000Z"
+    },
+    {
       "id": "5c1fdd67",
       "filename": "pixiv_148627579_p0.jpg",
       "path": "uploads/2026/08/8c33f354.jpg",
