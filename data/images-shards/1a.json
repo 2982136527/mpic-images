@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "380285e8",
+      "filename": "pixiv_148608100_p0.jpg",
+      "path": "uploads/2026/08/fb2e0a4b.jpg",
+      "size": 1054724,
+      "width": 795,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "627b438de0ef554d064f7eaf9fe0df554f48f901889393e72fcf3105cc37c777",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T16:50:04.609Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "伸びたっちゃん",
+      "tags": [
+        "うちの子",
+        "タッちゃん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148608100_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148608100",
+      "sourceCreatedAt": "2026-08-18T23:51:50.000Z"
+    },
+    {
       "id": "234d57ef",
       "filename": "pixiv_148603195_p0.jpg",
       "path": "uploads/2026/08/1e8eb4db.jpg",
