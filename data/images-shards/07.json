@@ -3,6 +3,28 @@
   "shardId": "07",
   "images": [
     {
+      "id": "1a97cd65",
+      "filename": "pixiv_148618949_p0.jpg",
+      "path": "uploads/2026/08/e3b732fd.jpg",
+      "size": 765737,
+      "width": 1058,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2ea8dca0407dc701f60ebde12f9249bb8d4feb42b77609b9cee005ca344bfc0c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:56:29.322Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "桃カンFA",
+      "tags": [
+        "桃色カンパネラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148618949_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148618949",
+      "sourceCreatedAt": "2026-08-19T08:37:40.000Z"
+    },
+    {
       "id": "8e7331c8",
       "filename": "pixiv_148613610_p0.jpg",
       "path": "uploads/2026/08/78b03787.jpg",
