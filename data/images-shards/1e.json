@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "bfebf1c0",
+      "filename": "pixiv_148576295_p0.jpg",
+      "path": "uploads/2026/08/cf80cfba.jpg",
+      "size": 1710428,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e78ed193c6faed72c4ac0f3fa2448f5e733a97878cd2698557ae97e90938ed40",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T01:52:53.906Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ヤクねこ",
+      "tags": [
+        "ヤクねこ",
+        "ヤニねこ",
+        "二次創作イラスト",
+        "越司丸益子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148576295_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148576295",
+      "sourceCreatedAt": "2026-08-18T05:14:40.000Z"
+    },
+    {
       "id": "c6d679b4",
       "filename": "pixiv_148620196_p0.jpg",
       "path": "uploads/2026/08/78c22acb.jpg",
