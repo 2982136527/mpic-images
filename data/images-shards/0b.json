@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "03936b3b",
+      "filename": "pixiv_148620062_p0.jpg",
+      "path": "uploads/2026/08/ba2e52d4.jpg",
+      "size": 450027,
+      "width": 481,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b696d425e9dfa831985dcc3eeb187126c7a6c7a00a27638e98f3b034acd28833",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T09:01:51.384Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "羽川ハスミ",
+        "でかぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148620062_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148620062",
+      "sourceCreatedAt": "2026-08-19T09:05:36.000Z"
+    },
+    {
       "id": "53ea2ddc",
       "filename": "pixiv_148610746_p0.jpg",
       "path": "uploads/2026/08/111d21f2.jpg",
