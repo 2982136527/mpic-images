@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "c25ced07",
+      "filename": "pixiv_148654070_p0.jpg",
+      "path": "uploads/2026/08/8fa8911f.jpg",
+      "size": 2466166,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "07248b258f821d822e2c46c605e7484e61d25dafaec1e310c9c97e7056e78612",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T16:52:28.668Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ひまわり🌻",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作",
+        "ひまわり",
+        "花と女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148654070_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148654070",
+      "sourceCreatedAt": "2026-08-20T06:44:17.000Z"
+    },
+    {
       "id": "8e10213f",
       "filename": "pixiv_148607673_p0.jpg",
       "path": "uploads/2026/08/736de781.jpg",
