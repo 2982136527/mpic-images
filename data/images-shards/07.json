@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "1c848158",
+      "filename": "pixiv_148599097_p0.jpg",
+      "path": "uploads/2026/08/2d812ff7.jpg",
+      "size": 518381,
+      "width": 777,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "48c9080b9bbf8cdf11f4d5c60294e7425dc05873e98d4d3f10a57100758e29fe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T01:58:06.255Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ホロライブ",
+        "絵フブキ",
+        "白上フブキ",
+        "ビキニ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148599097_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148599097",
+      "sourceCreatedAt": "2026-08-18T15:39:15.000Z"
+    },
+    {
       "id": "89f9a590",
       "filename": "pixiv_148610588_p0.jpg",
       "path": "uploads/2026/08/a6c0bb43.jpg",
