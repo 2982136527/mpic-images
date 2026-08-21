@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "4b6b4b16",
+      "filename": "pixiv_148642434_p0.jpg",
+      "path": "uploads/2026/08/a5fe921e.jpg",
+      "size": 461169,
+      "width": 907,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "99efc710846927ddfe006bce2533871eda85ba67df7949989cda9078146d480b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:58:49.091Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "Spidey",
+        "スパイダーガール",
+        "筋肉娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148642434_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148642434",
+      "sourceCreatedAt": "2026-08-19T19:41:02.000Z"
+    },
+    {
       "id": "a6e73703",
       "filename": "pixiv_148660763_p0.jpg",
       "path": "uploads/2026/08/cbdef5b8.jpg",
