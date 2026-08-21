@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "234d57ef",
+      "filename": "pixiv_148603195_p0.jpg",
+      "path": "uploads/2026/08/1e8eb4db.jpg",
+      "size": 848045,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b09320482d96a66676c26fac87975e4fe3e357c406381f91eaa4eb8b165310be",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T16:47:34.941Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Sui-chan Summer",
+      "tags": [
+        "hololive",
+        "ホロライブ",
+        "バーチャルYouTuber",
+        "星街すいせい",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148603195_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148603195",
+      "sourceCreatedAt": "2026-08-18T18:32:10.000Z"
+    },
+    {
       "id": "3daa2cfe",
       "filename": "pixiv_148610393_p0.jpg",
       "path": "uploads/2026/08/55fee955.jpg",
