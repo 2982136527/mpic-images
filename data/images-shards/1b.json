@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "ac765c04",
+      "filename": "pixiv_148649746_p0.jpg",
+      "path": "uploads/2026/08/734d2442.jpg",
+      "size": 764510,
+      "width": 861,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e47395dc06a8dd1ff96a480551782a25ab4457c0813cec89df8991edaac5c7c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T08:56:07.057Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "寝起きうちのこ",
+      "tags": [
+        "女の子",
+        "太もも",
+        "腋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148649746_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148649746",
+      "sourceCreatedAt": "2026-08-20T03:04:09.000Z"
+    },
+    {
       "id": "c3829996",
       "filename": "pixiv_148579532_p0.jpg",
       "path": "uploads/2026/08/49cb59bf.jpg",
