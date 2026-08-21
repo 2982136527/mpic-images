@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "20e4e90f",
+      "filename": "pixiv_148621881_p0.jpg",
+      "path": "uploads/2026/08/b01c1a2a.jpg",
+      "size": 699339,
+      "width": 642,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d622323917b6d50c00577131d2e25e8afd6da5a7509c5d80e2721aecdb64f1a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-21T16:50:41.460Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "メイドアリス",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "天童アリス",
+        "たくしあげ",
+        "天童アリス(メイド)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148621881_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148621881",
+      "sourceCreatedAt": "2026-08-19T10:01:13.000Z"
+    },
+    {
       "id": "a41c4bfa",
       "filename": "pixiv_148613434_p0.jpg",
       "path": "uploads/2026/08/5e60354c.jpg",
