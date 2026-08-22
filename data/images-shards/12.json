@@ -3,6 +3,28 @@
   "shardId": "12",
   "images": [
     {
+      "id": "9428b34a",
+      "filename": "pixiv_148694064_p0.jpg",
+      "path": "uploads/2026/08/3a98a9d3.jpg",
+      "size": 246119,
+      "width": 1200,
+      "height": 1041,
+      "mimeType": "image/jpeg",
+      "hash": "4cf283aa7cce67ed31facde9bc2dad6422e4993fe8fae0d46a40ad3c7345bfcc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:43:51.877Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "はつねみく",
+      "tags": [
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148694064_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148694064",
+      "sourceCreatedAt": "2026-08-21T07:55:51.000Z"
+    },
+    {
       "id": "b6bf9cd1",
       "filename": "pixiv_148648379_p0.jpg",
       "path": "uploads/2026/08/fa0c4017.jpg",
