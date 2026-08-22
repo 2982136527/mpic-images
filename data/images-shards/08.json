@@ -3,6 +3,32 @@
   "shardId": "08",
   "images": [
     {
+      "id": "eddf0968",
+      "filename": "pixiv_148672309_p0.jpg",
+      "path": "uploads/2026/08/f10be3d6.jpg",
+      "size": 1449068,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "00500d10b58d948558cc1e2cb5195f571ead2c3203c55210d053b4917abec2bc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:46:41.135Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "簡易Skeb",
+      "tags": [
+        "仕事絵",
+        "Skeb",
+        "女の子",
+        "commission",
+        "白髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148672309_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148672309",
+      "sourceCreatedAt": "2026-08-20T15:00:29.000Z"
+    },
+    {
       "id": "2c8ceef0",
       "filename": "pixiv_148689996_p0.jpg",
       "path": "uploads/2026/08/d24b6af6.jpg",
