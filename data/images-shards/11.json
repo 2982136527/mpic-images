@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "1410023b",
+      "filename": "pixiv_148621597_p0.jpg",
+      "path": "uploads/2026/08/02457cbc.jpg",
+      "size": 1226274,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "42c795f10412e59f817ab1af804aa2b7129c4dcf999f2471752da9fd285982e4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T01:48:15.874Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Death abides no reason.",
+      "tags": [
+        "原神",
+        "女の子",
+        "Ronova",
+        "若娜瓦",
+        "ロノヴァ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148621597_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148621597",
+      "sourceCreatedAt": "2026-08-19T09:56:54.000Z"
+    },
+    {
       "id": "ba017917",
       "filename": "pixiv_148651100_p0.jpg",
       "path": "uploads/2026/08/234a133d.jpg",
