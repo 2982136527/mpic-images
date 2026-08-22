@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "1d00b01a",
+      "filename": "pixiv_148706902_p0.jpg",
+      "path": "uploads/2026/08/1c620f47.jpg",
+      "size": 411710,
+      "width": 699,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dbee1a9041f584c56904d51086ff701421ca212eb6e70a8456da0f79a1e0b8e9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T16:41:54.041Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "オトギとオトクルまとめ",
+      "tags": [
+        "ブルーアーカイブ",
+        "天神山オトギ",
+        "高倉クルミ",
+        "ゴールデンビキニ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148706902_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148706902",
+      "sourceCreatedAt": "2026-08-21T12:43:12.000Z"
+    },
+    {
       "id": "87c613fc",
       "filename": "pixiv_148672384_p0.jpg",
       "path": "uploads/2026/08/cb499f62.jpg",
