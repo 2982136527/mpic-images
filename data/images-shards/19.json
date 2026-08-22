@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "b765314f",
+      "filename": "pixiv_148676633_p0.jpg",
+      "path": "uploads/2026/08/864268fb.jpg",
+      "size": 1541757,
+      "width": 1200,
+      "height": 999,
+      "mimeType": "image/jpeg",
+      "hash": "7dab4fc0e7e08ec714653f549742ce9851bb0d4d166f1fafb1cfbb9a992f33af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:41:00.158Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ラビットホール",
+      "tags": [
+        "ラビットホール",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148676633_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148676633",
+      "sourceCreatedAt": "2026-08-20T16:46:28.000Z"
+    },
+    {
       "id": "fbb5f94a",
       "filename": "pixiv_148631692_p0.jpg",
       "path": "uploads/2026/08/9e845066.jpg",
