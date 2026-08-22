@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "49800453",
+      "filename": "pixiv_148682428_p0.jpg",
+      "path": "uploads/2026/08/520107af.jpg",
+      "size": 1257977,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "de736c6d2208ba1a8e2e3011779c28c8e1f6b98d1e7df5cbc0745a07cf2bd3e8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T16:34:54.258Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "真夏の夜のドリーム",
+      "tags": [
+        "創作",
+        "スイカ",
+        "夏",
+        "夏の夜の夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148682428_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148682428",
+      "sourceCreatedAt": "2026-08-20T22:30:01.000Z"
+    },
+    {
       "id": "7dec50ac",
       "filename": "pixiv_148635308_p0.jpg",
       "path": "uploads/2026/08/c269f2d2.jpg",
