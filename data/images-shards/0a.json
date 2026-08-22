@@ -3,6 +3,37 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "611fdfe4",
+      "filename": "pixiv_148694350_p0.jpg",
+      "path": "uploads/2026/08/fcbec5e9.jpg",
+      "size": 1767279,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "92c79d0b0886cd3f43e12b05c335c7d4f8803012da2d2a7da8a698508076bcb7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:46:34.168Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ネットプリントのお知らせ",
+      "tags": [
+        "プリキュア",
+        "precure",
+        "名探偵プリキュア!",
+        "名探偵プリキュア",
+        "たんプリ",
+        "キュアアンサー",
+        "キュアミスティック",
+        "キュアエクレール",
+        "キュアアルカナ・シャドウ",
+        "ジェット先輩"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148694350_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148694350",
+      "sourceCreatedAt": "2026-08-21T08:02:44.000Z"
+    },
+    {
       "id": "ecd583e7",
       "filename": "pixiv_148638748_p0.jpg",
       "path": "uploads/2026/08/49921f90.jpg",
