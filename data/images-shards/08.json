@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "77c71d0d",
+      "filename": "pixiv_148625332_p0.jpg",
+      "path": "uploads/2026/08/8da214a6.jpg",
+      "size": 1228275,
+      "width": 1200,
+      "height": 782,
+      "mimeType": "image/jpeg",
+      "hash": "d65b142854c13b9a32ce7cdf7476851bd16f447f01e1f4d9f40c6df364323070",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T01:48:42.051Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏祭り",
+      "tags": [
+        "浴衣",
+        "HarukaCC",
+        "M1yo"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148625332_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148625332",
+      "sourceCreatedAt": "2026-08-19T11:27:19.000Z"
+    },
+    {
       "id": "f909e16d",
       "filename": "pixiv_148644459_p0.jpg",
       "path": "uploads/2026/08/cd9ac73b.jpg",
