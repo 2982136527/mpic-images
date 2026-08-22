@@ -3,6 +3,33 @@
   "shardId": "13",
   "images": [
     {
+      "id": "3c4d3212",
+      "filename": "pixiv_148682365_p0.jpg",
+      "path": "uploads/2026/08/148fcc38.jpg",
+      "size": 1218041,
+      "width": 948,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4a7097ba40bd4cf1ec9011130be51faaac40eaf32430a1d91b240d8a15be8d31",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:41:07.042Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "カクレオン商船",
+      "tags": [
+        "カクレオン",
+        "船化",
+        "ポケモン",
+        "ポケットモンスター",
+        "ポケモン不思議のダンジョン",
+        "カクレオン(ポケダン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148682365_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148682365",
+      "sourceCreatedAt": "2026-08-21T11:15:38.000Z"
+    },
+    {
       "id": "956599c0",
       "filename": "pixiv_148626206_p0.jpg",
       "path": "uploads/2026/08/e6524521.jpg",
