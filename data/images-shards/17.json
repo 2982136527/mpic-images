@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "4201637d",
+      "filename": "pixiv_148623595_p0.jpg",
+      "path": "uploads/2026/08/0553049b.jpg",
+      "size": 805473,
+      "width": 1200,
+      "height": 1013,
+      "mimeType": "image/jpeg",
+      "hash": "78be151662af1b247084de263d2ae340523c1f2b6a975580170f3c9742aca7c8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T01:47:55.307Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バツミク",
+      "tags": [
+        "プロセカ",
+        "プロジェクトセカイ",
+        "バツミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148623595_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148623595",
+      "sourceCreatedAt": "2026-08-19T10:49:50.000Z"
+    },
+    {
       "id": "a9b93b1e",
       "filename": "pixiv_148619051_p0.jpg",
       "path": "uploads/2026/08/a46a4eec.jpg",
