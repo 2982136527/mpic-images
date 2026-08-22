@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "48ac4967",
+      "filename": "pixiv_148635497_p0.jpg",
+      "path": "uploads/2026/08/7db85d00.jpg",
+      "size": 593474,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e673bcdb2f1792301ddbf3ef2dae5d86e4e9bbd713a6e798b376ce492ec931b0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T01:48:01.366Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "さんどいっち。",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148635497_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148635497",
+      "sourceCreatedAt": "2026-08-19T15:00:58.000Z"
+    },
+    {
       "id": "ea666ac1",
       "filename": "pixiv_148632647_p0.jpg",
       "path": "uploads/2026/08/122c3615.jpg",
