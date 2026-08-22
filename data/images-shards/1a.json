@@ -3,6 +3,34 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "548ea53d",
+      "filename": "pixiv_148673843_p0.jpg",
+      "path": "uploads/2026/08/a3b00418.jpg",
+      "size": 990385,
+      "width": 775,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ade51595dd7cfe895ae78ea27b36a29e710c5e4f4217f48f4e47ffc1bfbdb9c3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:40:49.898Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "花火",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "yoimiya",
+        "宵宮",
+        "花火",
+        "夏",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148673843_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148673843",
+      "sourceCreatedAt": "2026-08-20T15:24:29.000Z"
+    },
+    {
       "id": "60f268d0",
       "filename": "pixiv_148649014_p0.jpg",
       "path": "uploads/2026/08/d3586389.jpg",
