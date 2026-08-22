@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "0f9b2a51",
+      "filename": "pixiv_148672327_p0.jpg",
+      "path": "uploads/2026/08/e66bd5dc.jpg",
+      "size": 1158508,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d820e891dc8e7d5d9ac35a8a50217c332d624f72dd8494f1016f11ee1bba2a21",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:48:02.407Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏とバニーミクさん！",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "バニーガール",
+        "バニーの日"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148672327_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148672327",
+      "sourceCreatedAt": "2026-08-20T15:00:31.000Z"
+    },
+    {
       "id": "9428b34a",
       "filename": "pixiv_148694064_p0.jpg",
       "path": "uploads/2026/08/3a98a9d3.jpg",
