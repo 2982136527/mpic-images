@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "0d547b25",
+      "filename": "pixiv_148685165_p0.jpg",
+      "path": "uploads/2026/08/9f59c578.jpg",
+      "size": 1040002,
+      "width": 1200,
+      "height": 674,
+      "mimeType": "image/jpeg",
+      "hash": "89c44e7cf652dba22c011e97d15a3a9f22d210446d3235c7c7a1f3442b6432b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:45:09.929Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "oc ruka",
+      "tags": [
+        "女の子",
+        "黒髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148685165_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148685165",
+      "sourceCreatedAt": "2026-08-21T01:08:18.000Z"
+    },
+    {
       "id": "ea9b5967",
       "filename": "pixiv_148575049_p0.jpg",
       "path": "uploads/2026/08/f0384494.jpg",
