@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "60f268d0",
+      "filename": "pixiv_148649014_p0.jpg",
+      "path": "uploads/2026/08/d3586389.jpg",
+      "size": 1426557,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "573dedd40670117346b9a939fbbef5d65772799aec5ae61bd67739b07ec5907d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T01:45:41.327Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "看烟花",
+      "tags": [
+        "霞(アズールレーン)",
+        "碧蓝航线",
+        "アズールレーン",
+        "アズールレーン500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148649014_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148649014",
+      "sourceCreatedAt": "2026-08-20T02:31:51.000Z"
+    },
+    {
       "id": "f950a96c",
       "filename": "pixiv_148608536_p0.jpg",
       "path": "uploads/2026/08/1f9aa393.jpg",
