@@ -3,6 +3,28 @@
   "shardId": "18",
   "images": [
     {
+      "id": "dcd84c06",
+      "filename": "pixiv_148665195_p0.jpg",
+      "path": "uploads/2026/08/b62da0e4.jpg",
+      "size": 830296,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9fc6f7690556edec41dd419c509f982be446e38aba92b360adaf0cdac75edd43",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T01:48:33.708Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ヨルロイつめ",
+      "tags": [
+        "ヨルロイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148665195_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148665195",
+      "sourceCreatedAt": "2026-08-20T12:26:19.000Z"
+    },
+    {
       "id": "e6842241",
       "filename": "pixiv_148456854_p0.jpg",
       "path": "uploads/2026/08/c0c7fa88.jpg",
