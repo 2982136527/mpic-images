@@ -3,6 +3,28 @@
   "shardId": "16",
   "images": [
     {
+      "id": "2630d249",
+      "filename": "pixiv_148652347_p0.jpg",
+      "path": "uploads/2026/08/45696a52.jpg",
+      "size": 505066,
+      "width": 1200,
+      "height": 860,
+      "mimeType": "image/jpeg",
+      "hash": "5e39644293039452f85f3adfc0ab4a3a8c124f1a91c6b18121520b552a3056ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T01:48:07.467Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "たかぎさんとデート♡",
+      "tags": [
+        "たかぎさん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148652347_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148652347",
+      "sourceCreatedAt": "2026-08-20T05:12:05.000Z"
+    },
+    {
       "id": "c64737ed",
       "filename": "pixiv_148622108_p0.jpg",
       "path": "uploads/2026/08/e31b7358.jpg",
