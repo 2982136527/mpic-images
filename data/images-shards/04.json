@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "e34d318e",
+      "filename": "pixiv_148656749_p0.jpg",
+      "path": "uploads/2026/08/f4beef31.jpg",
+      "size": 219046,
+      "width": 650,
+      "height": 520,
+      "mimeType": "image/jpeg",
+      "hash": "f676ac6c72f65bf22cf03760f58d70f4f3bd4730fb7c4be3b4513f6ebb5f16ab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:41:38.226Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "迷い込んだ人",
+      "tags": [
+        "マンダロリアン・アンド・グローグー",
+        "ちいかわ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148656749_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148656749",
+      "sourceCreatedAt": "2026-08-20T08:39:43.000Z"
+    },
+    {
       "id": "326ba6c4",
       "filename": "pixiv_148656738_p0.jpg",
       "path": "uploads/2026/08/5ee62c6f.jpg",
