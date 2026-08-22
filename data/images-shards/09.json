@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "cc39ca0a",
+      "filename": "pixiv_148677656_p0.jpg",
+      "path": "uploads/2026/08/c99b8d4a.jpg",
+      "size": 811987,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9b8a8dc5ca5d538dd27495da33e8867b20515368d03da8765a38962c381b2ea8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:45:02.863Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "rkgk",
+      "tags": [
+        "overwatch",
+        "D.Va",
+        "shion",
+        "シオン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148677656_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148677656",
+      "sourceCreatedAt": "2026-08-20T17:29:21.000Z"
+    },
+    {
       "id": "60646d01",
       "filename": "pixiv_148664625_p0.jpg",
       "path": "uploads/2026/08/1387cff2.jpg",
