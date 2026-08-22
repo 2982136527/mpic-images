@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "2c9da5f8",
+      "filename": "pixiv_148649803_p0.jpg",
+      "path": "uploads/2026/08/cf0f4a10.jpg",
+      "size": 1114407,
+      "width": 861,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4bb34d168fa880a24cbb532343d174e7381ae1018bed6c921fc506315059fbd9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T16:37:01.972Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "2026謹賀新年絵",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "和服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148649803_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148649803",
+      "sourceCreatedAt": "2026-08-20T03:06:56.000Z"
+    },
+    {
       "id": "c3ae993e",
       "filename": "pixiv_148660330_p0.jpg",
       "path": "uploads/2026/08/68a7c510.jpg",
