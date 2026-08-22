@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "0995da09",
+      "filename": "pixiv_148654137_p0.jpg",
+      "path": "uploads/2026/08/da6ef380.jpg",
+      "size": 1399968,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "830128cde44f697e0781ae4289295e62af2616877faf4006024aa876b1961fed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:41:55.141Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "猫の木工職人",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "ケモ耳",
+        "大工",
+        "職人",
+        "男の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148654137_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148654137",
+      "sourceCreatedAt": "2026-08-20T06:47:41.000Z"
+    },
+    {
       "id": "6b04cde0",
       "filename": "pixiv_148620860_p0.jpg",
       "path": "uploads/2026/08/c4157388.jpg",
