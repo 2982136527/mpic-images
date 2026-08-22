@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "fa4d0068",
+      "filename": "pixiv_148672343_p0.jpg",
+      "path": "uploads/2026/08/6027c068.jpg",
+      "size": 1506873,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "16049b8ad02a5b8f18ab37499fc43a010dc6c9fd993c5b05d8fc1d2da3530fe2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:41:23.472Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "青の彩声",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "風景",
+        "青",
+        "青の衝撃"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148672343_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148672343",
+      "sourceCreatedAt": "2026-08-20T15:00:34.000Z"
+    },
+    {
       "id": "8dcd3e58",
       "filename": "pixiv_148641775_p0.jpg",
       "path": "uploads/2026/08/b0126eb6.jpg",
