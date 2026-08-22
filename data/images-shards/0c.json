@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "3152d628",
+      "filename": "pixiv_148674380_p0.jpg",
+      "path": "uploads/2026/08/e0e3d0c3.jpg",
+      "size": 1510835,
+      "width": 1022,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e4929fbcb3ea612270ee7f0122bad09563290826667b948ee322af81a87fde0f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:48:37.597Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "제미나이쟝",
+      "tags": [
+        "アクマバライ",
+        "Gemini"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148674380_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148674380",
+      "sourceCreatedAt": "2026-08-20T15:37:02.000Z"
+    },
+    {
       "id": "31854826",
       "filename": "pixiv_148688738_p0.jpg",
       "path": "uploads/2026/08/fad7af58.jpg",
