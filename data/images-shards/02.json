@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "010a3fd0",
+      "filename": "pixiv_148635293_p0.jpg",
+      "path": "uploads/2026/08/6806fa3f.jpg",
+      "size": 577392,
+      "width": 823,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "21cf888513171e07f0298d61bfd34e643dab5ee15c3fab0051d1e152ccdc7a7e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T01:52:26.322Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "猫又おかゆ",
+      "tags": [
+        "猫又おかゆ",
+        "ホロライブ",
+        "VTuber",
+        "バーチャルYouTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148635293_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148635293",
+      "sourceCreatedAt": "2026-08-19T15:00:12.000Z"
+    },
+    {
       "id": "062886d7",
       "filename": "pixiv_148658955_p0.jpg",
       "path": "uploads/2026/08/57865cda.jpg",
