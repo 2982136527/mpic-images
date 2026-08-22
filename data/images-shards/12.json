@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "d485b13b",
+      "filename": "pixiv_148682349_p0.jpg",
+      "path": "uploads/2026/08/d01108e5.jpg",
+      "size": 1105113,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c57427df185bbb657e510331cb96cdfc50ba1819777664ee5e0051485f80ac1f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T16:42:33.903Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "メルヴィちゃん",
+      "tags": [
+        "VRChat",
+        "すじ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148682349_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148682349",
+      "sourceCreatedAt": "2026-08-20T22:25:47.000Z"
+    },
+    {
       "id": "0f9b2a51",
       "filename": "pixiv_148672327_p0.jpg",
       "path": "uploads/2026/08/e66bd5dc.jpg",
