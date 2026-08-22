@@ -3,6 +3,32 @@
   "shardId": "13",
   "images": [
     {
+      "id": "8dfb0b02",
+      "filename": "pixiv_148648606_p0.jpg",
+      "path": "uploads/2026/08/c7d7cdd1.jpg",
+      "size": 945554,
+      "width": 1200,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "hash": "df84865c7f689647fb1d27a9acc1d949a7d06145b6f454e3667fa44f05702653",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:47:41.335Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Roxy",
+      "tags": [
+        "ロキシー・ミグルディア",
+        "illustration",
+        "fanart",
+        "無職転生",
+        "girl"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148648606_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148648606",
+      "sourceCreatedAt": "2026-08-20T02:08:08.000Z"
+    },
+    {
       "id": "3c4d3212",
       "filename": "pixiv_148682365_p0.jpg",
       "path": "uploads/2026/08/148fcc38.jpg",
