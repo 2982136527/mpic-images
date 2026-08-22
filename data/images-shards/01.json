@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "9517c0bf",
+      "filename": "pixiv_148695384_p0.jpg",
+      "path": "uploads/2026/08/8eca240a.jpg",
+      "size": 531718,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2eeb6881e955443a029b65be1b337a7332ebf9a18dc5b1d4294a3aa8c32a4813",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T16:38:21.556Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "白と黒",
+        "宇宙"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148695384_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148695384",
+      "sourceCreatedAt": "2026-08-21T10:15:40.000Z"
+    },
+    {
       "id": "151225c9",
       "filename": "pixiv_148649556_p0.jpg",
       "path": "uploads/2026/08/f709ef06.jpg",
