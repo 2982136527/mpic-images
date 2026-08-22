@@ -3,6 +3,35 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "8b26725d",
+      "filename": "pixiv_148629438_p0.jpg",
+      "path": "uploads/2026/08/a7bdcc4c.jpg",
+      "size": 962336,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "2c3a26e1face9261077ca3d3bbc915dd0bffe9cf6ac581a73889ae7de4e81a80",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T01:47:46.522Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "花束を君に",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子",
+        "青",
+        "夏",
+        "風景",
+        "セーラー服",
+        "向日葵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148629438_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148629438",
+      "sourceCreatedAt": "2026-08-19T12:55:04.000Z"
+    },
+    {
       "id": "194f9082",
       "filename": "pixiv_148613376_p0.jpg",
       "path": "uploads/2026/08/9c241bf0.jpg",
