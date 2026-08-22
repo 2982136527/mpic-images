@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "a1ef05a5",
+      "filename": "pixiv_148669797_p0.jpg",
+      "path": "uploads/2026/08/46f750cd.jpg",
+      "size": 577770,
+      "width": 803,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9396601860b3ecee45beab78adedf1115a876dfd6ea2ce35d9bbea0a4e5f7f1b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:46:16.744Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "どっちが好み？",
+      "tags": [
+        "男の娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148669797_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148669797",
+      "sourceCreatedAt": "2026-08-20T14:05:46.000Z"
+    },
+    {
       "id": "5356d62b",
       "filename": "pixiv_148469071_p0.jpg",
       "path": "uploads/2026/08/b43f0714.jpg",
