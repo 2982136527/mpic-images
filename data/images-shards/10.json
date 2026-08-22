@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "2b0bbb02",
+      "filename": "pixiv_148663473_p0.jpg",
+      "path": "uploads/2026/08/e2a26045.jpg",
+      "size": 1272017,
+      "width": 1200,
+      "height": 720,
+      "mimeType": "image/jpeg",
+      "hash": "0e0cf0b5febf495a0f8391ed697bc110a61aaf0eadaef3bd03d0244a42dd95ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T16:38:37.131Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Faruzan🐰",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "Faruzan",
+        "ファルザン",
+        "バニーの日"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148663473_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148663473",
+      "sourceCreatedAt": "2026-08-20T11:50:06.000Z"
+    },
+    {
       "id": "6150e4c7",
       "filename": "pixiv_148681944_p0.jpg",
       "path": "uploads/2026/08/f057ab97.jpg",
