@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "8bf908d1",
+      "filename": "pixiv_148694410_p0.jpg",
+      "path": "uploads/2026/08/894951a1.jpg",
+      "size": 1220173,
+      "width": 825,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1c9498566985c2949ea81c7b7c963e03a3f0b0de106be2411584187b4a7f7d5f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:46:09.800Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "天使組曲",
+        "huion創作",
+        "huion"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148694410_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148694410",
+      "sourceCreatedAt": "2026-08-21T08:05:13.000Z"
+    },
+    {
       "id": "3b1c841a",
       "filename": "pixiv_148706648_p0.jpg",
       "path": "uploads/2026/08/a888c1a7.jpg",
