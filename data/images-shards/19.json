@@ -3,6 +3,32 @@
   "shardId": "19",
   "images": [
     {
+      "id": "34371d2d",
+      "filename": "pixiv_148688184_p0.jpg",
+      "path": "uploads/2026/08/4199f36e.jpg",
+      "size": 823789,
+      "width": 1200,
+      "height": 576,
+      "mimeType": "image/jpeg",
+      "hash": "00595e06600aa5647428bf277fea315536920b21b475c5a60f24039a96466ba2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:43:15.545Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "烙印",
+      "tags": [
+        "原创",
+        "插画",
+        "场景",
+        "兄妹",
+        "必ず生きて帰ってこい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148688184_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148688184",
+      "sourceCreatedAt": "2026-08-21T03:32:29.000Z"
+    },
+    {
       "id": "b765314f",
       "filename": "pixiv_148676633_p0.jpg",
       "path": "uploads/2026/08/864268fb.jpg",
