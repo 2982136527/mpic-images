@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "60646d01",
+      "filename": "pixiv_148664625_p0.jpg",
+      "path": "uploads/2026/08/1387cff2.jpg",
+      "size": 1498874,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3669493e9b7bb2ce174f775c66803cd3dc54a939efb879c5d39608a42db9b260",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:42:25.965Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "凍りついた記憶",
+      "tags": [
+        "アナスターシャ",
+        "原神",
+        "GenshinImpact",
+        "アナスターシャ・フョードロヴナ・スネージナヤ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148664625_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148664625",
+      "sourceCreatedAt": "2026-08-20T12:12:05.000Z"
+    },
+    {
       "id": "a5337fcd",
       "filename": "pixiv_148659097_p0.jpg",
       "path": "uploads/2026/08/a053b2e7.jpg",
