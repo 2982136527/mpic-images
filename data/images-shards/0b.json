@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "7fe9de26",
+      "filename": "pixiv_148653998_p0.jpg",
+      "path": "uploads/2026/08/e614923f.jpg",
+      "size": 678624,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "552832a2400bb2b1cfcbc1de6ff40eabbf50abdf875caba9d1f7c376e4fad2ed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:43:58.331Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "今日のいつき",
+      "tags": [
+        "今日のいつき",
+        "チョロイン",
+        "ラーメン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148653998_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148653998",
+      "sourceCreatedAt": "2026-08-20T06:39:43.000Z"
+    },
+    {
       "id": "3df214e9",
       "filename": "pixiv_148687142_p0.jpg",
       "path": "uploads/2026/08/8c45ca14.jpg",
