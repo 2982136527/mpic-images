@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "b45b32ef",
+      "filename": "pixiv_148658047_p0.jpg",
+      "path": "uploads/2026/08/7aed096f.jpg",
+      "size": 667815,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c84d6a231394997efc01d0591eed7136afaea96fb00dbd1b12007b6e78e35088",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T01:49:04.578Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "さとり",
+      "tags": [
+        "東方Project",
+        "古明地さとり",
+        "風呂上がり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148658047_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148658047",
+      "sourceCreatedAt": "2026-08-20T09:19:15.000Z"
+    },
+    {
       "id": "e6c44ace",
       "filename": "pixiv_148659226_p0.jpg",
       "path": "uploads/2026/08/fc2a52d9.jpg",
