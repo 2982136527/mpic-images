@@ -3,6 +3,32 @@
   "shardId": "06",
   "images": [
     {
+      "id": "3bc84802",
+      "filename": "pixiv_148683635_p0.jpg",
+      "path": "uploads/2026/08/9a07817d.jpg",
+      "size": 563221,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "60c46cb47d2452cceb0057204f141cff473f978854b05c3c98af25874753674f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T16:38:02.131Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "推しに帽子を被せたい人へ",
+      "tags": [
+        "描き方",
+        "コツ",
+        "ハウツー",
+        "ノウハウ",
+        "上達法"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148683635_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148683635",
+      "sourceCreatedAt": "2026-08-20T23:40:51.000Z"
+    },
+    {
       "id": "1d2dde1c",
       "filename": "pixiv_148673851_p0.jpg",
       "path": "uploads/2026/08/7b522218.jpg",
