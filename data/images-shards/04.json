@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "588b0cae",
+      "filename": "pixiv_148648840_p0.jpg",
+      "path": "uploads/2026/08/94f139a5.jpg",
+      "size": 697596,
+      "width": 673,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dca9ddec5370ea335e4ef0b6dad948c9e70b79cde4cfd074223a6a32d1423ff7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T01:47:18.303Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "rkgk",
+      "tags": [
+        "アークナイツ:エンドフィールド",
+        "エンドフィールド",
+        "アルダシル",
+        "ArknightsEndfield"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148648840_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148648840",
+      "sourceCreatedAt": "2026-08-20T02:22:22.000Z"
+    },
+    {
       "id": "c25ced07",
       "filename": "pixiv_148654070_p0.jpg",
       "path": "uploads/2026/08/8fa8911f.jpg",
