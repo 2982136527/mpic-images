@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "c5cd9316",
+      "filename": "pixiv_148713440_p0.jpg",
+      "path": "uploads/2026/08/1d776d63.jpg",
+      "size": 769699,
+      "width": 1047,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b83c3c47188eef895a238f5d94d303d7e9a88a1d29dd030887dfa0de6df845dc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T16:39:31.617Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Cute ghost",
+      "tags": [
+        "バーチャルYouTuber",
+        "Vtuber",
+        "ミント・ファントーム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148713440_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148713440",
+      "sourceCreatedAt": "2026-08-21T14:42:38.000Z"
+    },
+    {
       "id": "970db53e",
       "filename": "pixiv_148702504_p0.jpg",
       "path": "uploads/2026/08/0002290c.jpg",
