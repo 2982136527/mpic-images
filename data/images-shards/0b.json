@@ -3,6 +3,32 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "3df214e9",
+      "filename": "pixiv_148687142_p0.jpg",
+      "path": "uploads/2026/08/8c45ca14.jpg",
+      "size": 662251,
+      "width": 863,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "de3c5b49f052341c5b5d9ff8f072af6c89cc988b9b0eb1f8be4931a8df3366f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:42:55.239Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "アルカナ",
+      "tags": [
+        "プリキュア",
+        "名探偵プリキュア!",
+        "森亜るるか",
+        "キュアアルカナ・シャドウ",
+        "キュアアルカナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148687142_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148687142",
+      "sourceCreatedAt": "2026-08-21T02:55:10.000Z"
+    },
+    {
       "id": "841c67fd",
       "filename": "pixiv_148636711_p0.jpg",
       "path": "uploads/2026/08/516e272e.jpg",
