@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "47cb596b",
+      "filename": "pixiv_148654475_p0.jpg",
+      "path": "uploads/2026/08/2ee4d703.jpg",
+      "size": 371269,
+      "width": 863,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ed9e0e7cc6032bda03635af46ef22cd69be4eeecdb5205d34b32b23112e172a9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:48:30.610Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "リョウさん落書きまとめ",
+      "tags": [
+        "落書き",
+        "ぼっち・ざ・ろっく!",
+        "山田リョウ(ぼっち・ざ・ろっく!)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148654475_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148654475",
+      "sourceCreatedAt": "2026-08-20T07:02:25.000Z"
+    },
+    {
       "id": "f3d1e3d0",
       "filename": "pixiv_148649473_p0.jpg",
       "path": "uploads/2026/08/bc81db4d.jpg",
