@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "9c4a2039",
+      "filename": "pixiv_148676748_p0.jpg",
+      "path": "uploads/2026/08/dc129625.jpg",
+      "size": 171930,
+      "width": 424,
+      "height": 270,
+      "mimeType": "image/jpeg",
+      "hash": "655bd90959443bb9780bfdf77d6b8bde1b71bc1fadab3cb55b385590853b9a99",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:43:42.260Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Goth shot",
+      "tags": [
+        "ゲーム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148676748_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148676748",
+      "sourceCreatedAt": "2026-08-20T16:51:00.000Z"
+    },
+    {
       "id": "7326e6e1",
       "filename": "pixiv_148642788_p0.jpg",
       "path": "uploads/2026/08/196913b4.jpg",
