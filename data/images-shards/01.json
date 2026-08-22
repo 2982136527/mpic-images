@@ -3,6 +3,35 @@
   "shardId": "01",
   "images": [
     {
+      "id": "151225c9",
+      "filename": "pixiv_148649556_p0.jpg",
+      "path": "uploads/2026/08/f709ef06.jpg",
+      "size": 1287369,
+      "width": 1087,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2f85a1ed1408fe390f64d5bf232616a3ae60ab7cf625daf463089eae6432d788",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:48:44.530Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "たんプリ漫画2647",
+      "tags": [
+        "漫画",
+        "名探偵プリキュア!",
+        "森亜るるか",
+        "小林みくる",
+        "シンカンセンスゴイカタイアイス",
+        "おまかわ",
+        "三段ブチ抜き",
+        "キュアアルカナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148649556_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148649556",
+      "sourceCreatedAt": "2026-08-20T03:00:11.000Z"
+    },
+    {
       "id": "a325b98a",
       "filename": "pixiv_148684125_p0.jpg",
       "path": "uploads/2026/08/89a49b07.jpg",
