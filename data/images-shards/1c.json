@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "194f9082",
+      "filename": "pixiv_148613376_p0.jpg",
+      "path": "uploads/2026/08/9c241bf0.jpg",
+      "size": 596528,
+      "width": 975,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4bac5261a73205e9081b98178df5c6e74d31fdbb0d83c454d4653ea535fa9040",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T01:46:45.248Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Bath pizza",
+      "tags": [
+        "バーチャルYouTuber",
+        "saba",
+        "SamekoSaba",
+        "sabart"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148613376_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148613376",
+      "sourceCreatedAt": "2026-08-19T04:18:56.000Z"
+    },
+    {
       "id": "49f34b7a",
       "filename": "pixiv_148623519_p0.jpg",
       "path": "uploads/2026/08/f126920a.jpg",
