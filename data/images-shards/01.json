@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "0dc2f9fe",
+      "filename": "pixiv_148680410_p0.jpg",
+      "path": "uploads/2026/08/439e7145.jpg",
+      "size": 873511,
+      "width": 1200,
+      "height": 759,
+      "mimeType": "image/jpeg",
+      "hash": "968a11d18a8ef8c21b64920a0a90e76ebc9a2ac927f8cbc8c25221feaf0139eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:44:20.738Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Satsuki",
+      "tags": [
+        "ブルアカ",
+        "BlueArchive",
+        "サツキ(ブルーアーカイブ)",
+        "京極サツキ(水着)",
+        "京極サツキ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148680410_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148680410",
+      "sourceCreatedAt": "2026-08-20T20:31:36.000Z"
+    },
+    {
       "id": "0995da09",
       "filename": "pixiv_148654137_p0.jpg",
       "path": "uploads/2026/08/da6ef380.jpg",
