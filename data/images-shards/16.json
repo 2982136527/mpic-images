@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "cf19f104",
+      "filename": "pixiv_148671511_p0.jpg",
+      "path": "uploads/2026/08/b50c035b.jpg",
+      "size": 343977,
+      "width": 1200,
+      "height": 852,
+      "mimeType": "image/jpeg",
+      "hash": "b5f41bc0fd8e22c36c8a9285d9e1300da6a3d20bf44efc2f8aaaa646ee7029bc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:41:48.369Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "セイレーンいぬい",
+      "tags": [
+        "戌亥とこ",
+        "にじさんじ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148671511_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148671511",
+      "sourceCreatedAt": "2026-08-20T14:45:56.000Z"
+    },
+    {
       "id": "d3f2ea82",
       "filename": "pixiv_148635261_p0.jpg",
       "path": "uploads/2026/08/da40bf52.jpg",
