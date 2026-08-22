@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "d4bd89d4",
+      "filename": "pixiv_148673731_p0.jpg",
+      "path": "uploads/2026/08/a109dce4.jpg",
+      "size": 512247,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "e1f23747162378a0cb51cb129275d694fec35d6e67b1c41271444536041a4455",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T16:42:04.817Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Cheyanne",
+      "tags": [
+        "M200(ドールズフロントライン)",
+        "ドールズフロントライン",
+        "M200",
+        "Cheyanne"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148673731_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148673731",
+      "sourceCreatedAt": "2026-08-20T15:21:56.000Z"
+    },
+    {
       "id": "0ad328d7",
       "filename": "pixiv_148670320_p0.jpg",
       "path": "uploads/2026/08/4572ce3c.jpg",
