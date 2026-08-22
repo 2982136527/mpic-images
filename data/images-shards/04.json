@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "0d52d958",
+      "filename": "pixiv_148501559_p0.jpg",
+      "path": "uploads/2026/08/82dd64c8.jpg",
+      "size": 1595344,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ab1ada9c17819975ac015f6e7a95903692b3f4f505b6b1a2d32f669af2c41fa5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:49:35.293Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "空白と夏",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "女の子",
+        "夏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148501559_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148501559",
+      "sourceCreatedAt": "2026-08-16T08:29:11.000Z"
+    },
+    {
       "id": "deaf7812",
       "filename": "pixiv_148709778_p0.jpg",
       "path": "uploads/2026/08/0d3cd0e0.jpg",
