@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "7d5a1023",
+      "filename": "pixiv_148644206_p0.jpg",
+      "path": "uploads/2026/08/f0e9cbe8.jpg",
+      "size": 728781,
+      "width": 768,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "963d04ac2db4d626ec7a375db28fc44688aa8bbc5a66dee40f4c827aa4b2afcd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:46:23.897Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Sigrid finally clean",
+      "tags": [
+        "sigrid",
+        "zzz",
+        "zenlesszonezero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148644206_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148644206",
+      "sourceCreatedAt": "2026-08-19T21:44:53.000Z"
+    },
+    {
       "id": "fa4d0068",
       "filename": "pixiv_148672343_p0.jpg",
       "path": "uploads/2026/08/6027c068.jpg",
