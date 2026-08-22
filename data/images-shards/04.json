@@ -3,6 +3,33 @@
   "shardId": "04",
   "images": [
     {
+      "id": "4be4190a",
+      "filename": "pixiv_148633479_p0.jpg",
+      "path": "uploads/2026/08/2b69993a.jpg",
+      "size": 950456,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cbc8ba37c6ab3b9f3bf5417a3c9d02bd3c44ec83f3c0ea9d05338419aca7e58f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T01:49:40.932Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夜の海の精",
+      "tags": [
+        "原神",
+        "ヴォジャニーツァ",
+        "Vodyanitsa",
+        "GenshinImpact",
+        "人魚",
+        "ヒレ耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148633479_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148633479",
+      "sourceCreatedAt": "2026-08-19T14:23:39.000Z"
+    },
+    {
       "id": "588b0cae",
       "filename": "pixiv_148648840_p0.jpg",
       "path": "uploads/2026/08/94f139a5.jpg",
