@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "d72b85e2",
+      "filename": "pixiv_148619161_p0.jpg",
+      "path": "uploads/2026/08/935249fc.jpg",
+      "size": 837046,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "6b78bd0b87fc73fde1001f095f7d3afbc99cc53bc00307b2577f609fb4040633",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T01:49:16.403Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "キュアアルカナ",
+      "tags": [
+        "名探偵プリキュア!",
+        "エクリプス・シャドウ",
+        "キュアアルカナ",
+        "キュアアルカナ・シャドウ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148619161_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148619161",
+      "sourceCreatedAt": "2026-08-19T08:44:47.000Z"
+    },
+    {
       "id": "2630d249",
       "filename": "pixiv_148652347_p0.jpg",
       "path": "uploads/2026/08/45696a52.jpg",
