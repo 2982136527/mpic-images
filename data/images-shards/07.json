@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "c7ab59ff",
+      "filename": "pixiv_148703179_p0.jpg",
+      "path": "uploads/2026/08/5d0c8b2f.jpg",
+      "size": 926582,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3b6ceafe55bf7e400d8272434be41f5c03bc852473065422b230db3d0181fd32",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-22T08:43:01.982Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ぞぞかなまふ",
+      "tags": [
+        "かなまふ",
+        "まふかな"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148703179_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148703179",
+      "sourceCreatedAt": "2026-08-21T11:36:14.000Z"
+    },
+    {
       "id": "1278dda6",
       "filename": "pixiv_148635329_p0.jpg",
       "path": "uploads/2026/08/adc466eb.jpg",
