@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "5231e625",
+      "filename": "pixiv_148689040_p0.jpg",
+      "path": "uploads/2026/08/cbe58bb6.jpg",
+      "size": 914955,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9325363ac4d6977330547f0d5eab80308c6b4ed56741f9a190653a86a828af7a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T01:55:39.632Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "プラモ猫",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "男の子",
+        "ケモ耳",
+        "猫"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148689040_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148689040",
+      "sourceCreatedAt": "2026-08-21T04:10:06.000Z"
+    },
+    {
       "id": "7a01ad6a",
       "filename": "pixiv_148672261_p0.jpg",
       "path": "uploads/2026/08/6b656a03.jpg",
