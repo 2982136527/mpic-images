@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "1ee426eb",
+      "filename": "pixiv_148717541_p0.jpg",
+      "path": "uploads/2026/08/f4c23ec3.jpg",
+      "size": 751421,
+      "width": 857,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dc7fdf52dedb4267e9d28f4828196983c359d4469b2ca2c0bf899e4dd4f04d74",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T16:39:25.169Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "馬乗りサンドローネ",
+      "tags": [
+        "女の子",
+        "原神",
+        "GenshinImpact",
+        "Sandrone",
+        "サンドローネ(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148717541_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148717541",
+      "sourceCreatedAt": "2026-08-21T15:56:31.000Z"
+    },
+    {
       "id": "a6103ac8",
       "filename": "pixiv_148737164_p0.jpg",
       "path": "uploads/2026/08/6cf78b1e.jpg",
