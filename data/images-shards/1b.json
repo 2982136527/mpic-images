@@ -3,6 +3,37 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "ac88da3b",
+      "filename": "pixiv_148686824_p0.jpg",
+      "path": "uploads/2026/08/f153f31e.jpg",
+      "size": 528453,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "856b8db76c87a5bc8625128c973055d81e4e0d2525632b4687550357d16d6a69",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T16:44:20.645Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "誘われ待ちなトワ様",
+      "tags": [
+        "ホロライブ",
+        "バーチャルYouTuber",
+        "hololive",
+        "VTuber",
+        "女の子",
+        "Vtuber",
+        "大空スバル",
+        "プロテインザスバル",
+        "常闇トワ",
+        "TOWART"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148686824_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148686824",
+      "sourceCreatedAt": "2026-08-21T02:39:56.000Z"
+    },
+    {
       "id": "7733f1ca",
       "filename": "pixiv_148757166_p0.jpg",
       "path": "uploads/2026/08/d4479b24.jpg",
