@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "3cead674",
+      "filename": "pixiv_148703111_p0.jpg",
+      "path": "uploads/2026/08/fde7ab69.jpg",
+      "size": 1019809,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8b1752206ea18f0281ac1932a2828fbd92c56defe7eb79a3fe554f23af9a6e97",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T16:38:21.301Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "月見パイ",
+      "tags": [
+        "超かぐや姫!",
+        "月見ヤチヨ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148703111_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148703111",
+      "sourceCreatedAt": "2026-08-21T11:34:20.000Z"
+    },
+    {
       "id": "3745221f",
       "filename": "pixiv_148745497_p0.jpg",
       "path": "uploads/2026/08/bc72bf76.jpg",
