@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "0c533d4f",
+      "filename": "pixiv_148700552_p0.jpg",
+      "path": "uploads/2026/08/b124bd3f.jpg",
+      "size": 1386124,
+      "width": 1030,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1caed8e3a8a449d79307a95bec89c379dab0d9b573a5fadc5048d10dc9bc21f3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T01:58:04.254Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ヴォジャニーツァオデット",
+      "tags": [
+        "ヴォジャニーツァ",
+        "オデット",
+        "原神"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148700552_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148700552",
+      "sourceCreatedAt": "2026-08-21T10:46:48.000Z"
+    },
+    {
       "id": "ad8147f7",
       "filename": "pixiv_148451238_p0.jpg",
       "path": "uploads/2026/08/54abcc07.jpg",
