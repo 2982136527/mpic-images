@@ -3,6 +3,33 @@
   "shardId": "13",
   "images": [
     {
+      "id": "6e9a8ff4",
+      "filename": "pixiv_148672895_p0.jpg",
+      "path": "uploads/2026/08/8e88ff95.jpg",
+      "size": 173829,
+      "width": 700,
+      "height": 953,
+      "mimeType": "image/jpeg",
+      "hash": "6d2412a6752c2486e7a9f3fdd28a12f44c85a6ce7e5c8ad5574db41165dec4b5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T16:40:20.553Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "最近描いた絵とか",
+      "tags": [
+        "ブルーアーカイブ",
+        "五十嵐ショウコ",
+        "痣",
+        "ボコ顔",
+        "外した眼鏡",
+        "炎と影編"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148672895_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148672895",
+      "sourceCreatedAt": "2026-08-20T15:04:45.000Z"
+    },
+    {
       "id": "622a993c",
       "filename": "pixiv_148678175_p0.jpg",
       "path": "uploads/2026/08/83eea722.jpg",
