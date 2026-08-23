@@ -3,6 +3,36 @@
   "shardId": "03",
   "images": [
     {
+      "id": "e16526c4",
+      "filename": "pixiv_148743572_p0.jpg",
+      "path": "uploads/2026/08/47d9dcb8.jpg",
+      "size": 1342566,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f418ea5a664a64cb707ce8d97f6be5f897827e4eae25d5bfc7ffc28663ce0f4c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T16:37:47.259Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "エクリプス・シャドウ",
+      "tags": [
+        "プリキュア",
+        "precure",
+        "名探偵プリキュア!",
+        "名探偵プリキュア",
+        "たんプリ",
+        "キュアアルカナ・シャドウ",
+        "エクリプス・シャドウ",
+        "森亜るるか",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148743572_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148743572",
+      "sourceCreatedAt": "2026-08-22T09:27:34.000Z"
+    },
+    {
       "id": "c9efb003",
       "filename": "pixiv_148708217_p0.jpg",
       "path": "uploads/2026/08/a841e273.jpg",
