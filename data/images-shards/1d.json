@@ -3,6 +3,33 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "c4f9b3dd",
+      "filename": "pixiv_148672249_p0.jpg",
+      "path": "uploads/2026/08/e9061dbb.jpg",
+      "size": 1314172,
+      "width": 828,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7d1b893fe65a90f6d20e0ad03d8b6d15e588daa9a7544c0d221ac3834b3adfc3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T01:58:50.976Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "鳳凰",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "少女",
+        "女の子",
+        "鳳凰",
+        "ロングヘアー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148672249_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148672249",
+      "sourceCreatedAt": "2026-08-20T15:00:19.000Z"
+    },
+    {
       "id": "4ff22e6b",
       "filename": "pixiv_148710904_p0.jpg",
       "path": "uploads/2026/08/4fb87dcd.jpg",
