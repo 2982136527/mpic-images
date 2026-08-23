@@ -3,6 +3,37 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "4fac37e5",
+      "filename": "pixiv_148712235_p0.jpg",
+      "path": "uploads/2026/08/d25fc001.jpg",
+      "size": 748429,
+      "width": 800,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "8e26c8b0eb7a37c107ac140fe868e38768e11052dfb4f537e29493c41dd7a5cd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T08:46:53.012Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "カフカ｜Kafka",
+      "tags": [
+        "カフカ(スターレイル)",
+        "崩壊スターレイル",
+        "HonkaiStarRail",
+        "ヴェノム",
+        "シンビオート",
+        "symbiote",
+        "悪堕ち",
+        "寄生",
+        "乗っ取り",
+        "触手"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148712235_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148712235",
+      "sourceCreatedAt": "2026-08-21T14:20:00.000Z"
+    },
+    {
       "id": "90d3e38d",
       "filename": "pixiv_148674753_p0.jpg",
       "path": "uploads/2026/08/5730e97f.jpg",
