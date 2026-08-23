@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "5009d12a",
+      "filename": "pixiv_148674359_p0.jpg",
+      "path": "uploads/2026/08/17616956.jpg",
+      "size": 796552,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "13c423c656942961056725b97cc78052cdd739df5befa217ec5827ddc8f64f76",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T16:38:32.584Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "執念",
+      "tags": [
+        "崩坏3rd",
+        "崩壊3rd",
+        "蕾耶拉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148674359_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148674359",
+      "sourceCreatedAt": "2026-08-20T15:36:21.000Z"
+    },
+    {
       "id": "1fa3b9fd",
       "filename": "pixiv_148700397_p0.jpg",
       "path": "uploads/2026/08/500581f8.jpg",
