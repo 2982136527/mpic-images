@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "b5f462d3",
+      "filename": "pixiv_148672178_p0.jpg",
+      "path": "uploads/2026/08/8ba62e1f.jpg",
+      "size": 847494,
+      "width": 1200,
+      "height": 515,
+      "mimeType": "image/jpeg",
+      "hash": "50e5f976dc6ca7eb4a43928970e7ff8d3c5a1e4ceb9c96bbaf453738acce2310",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T08:41:22.556Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "~",
+      "tags": [
+        "女の子",
+        "落書",
+        "鳴潮",
+        "清宵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148672178_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148672178",
+      "sourceCreatedAt": "2026-08-20T15:00:07.000Z"
+    },
+    {
       "id": "32042318",
       "filename": "pixiv_148673665_p0.jpg",
       "path": "uploads/2026/08/533408ce.jpg",
