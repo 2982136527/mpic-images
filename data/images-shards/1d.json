@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "f5aa3b48",
+      "filename": "pixiv_148677265_p0.jpg",
+      "path": "uploads/2026/08/55b61b2f.jpg",
+      "size": 1055170,
+      "width": 569,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "41f0df315a8f7047b969aaab86fbcc0745f6c849759ead7bc5863d051fedba92",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T16:36:54.447Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "オデット",
+      "tags": [
+        "原神",
+        "女の子",
+        "オデット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148677265_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148677265",
+      "sourceCreatedAt": "2026-08-20T17:12:55.000Z"
+    },
+    {
       "id": "0d40a8ed",
       "filename": "pixiv_148708939_p0.jpg",
       "path": "uploads/2026/08/f7d12577.jpg",
