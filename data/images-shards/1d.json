@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "3745221f",
+      "filename": "pixiv_148745497_p0.jpg",
+      "path": "uploads/2026/08/bc72bf76.jpg",
+      "size": 1474592,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "51741794a1d5932adbd3e9f14ae0612a4d807131147b77968ec8fa607ca0c68a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T16:38:00.633Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "清宵",
+      "tags": [
+        "WutheringWaves",
+        "Qingxiao",
+        "鳴潮",
+        "清宵",
+        "鸣潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148745497_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148745497",
+      "sourceCreatedAt": "2026-08-22T10:14:20.000Z"
+    },
+    {
       "id": "f5aa3b48",
       "filename": "pixiv_148677265_p0.jpg",
       "path": "uploads/2026/08/55b61b2f.jpg",
