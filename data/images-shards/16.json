@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "3b02548e",
+      "filename": "pixiv_148724753_p0.jpg",
+      "path": "uploads/2026/08/4a6dbf18.jpg",
+      "size": 609022,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "58ad7dd902e7c9dfea754da05967bda3f7e6d3400adc79877617f7c68f751b57",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T08:44:32.832Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "首の位置が定まらない人へ",
+      "tags": [
+        "描き方",
+        "コツ",
+        "ハウツー",
+        "ノウハウ",
+        "上達法"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148724753_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148724753",
+      "sourceCreatedAt": "2026-08-21T21:32:15.000Z"
+    },
+    {
       "id": "9f8b48f3",
       "filename": "pixiv_148714019_p0.jpg",
       "path": "uploads/2026/08/7a43f177.jpg",
