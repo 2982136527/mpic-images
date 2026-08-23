@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "22a53d38",
+      "filename": "pixiv_148680458_p0.jpg",
+      "path": "uploads/2026/08/c475dbf3.jpg",
+      "size": 604653,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9a4094aa495c16688738b73641444b9a512e85693d5dc782e384732c9961696e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T08:44:18.898Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "レーシングミク",
+        "レーシングミク2022"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148680458_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148680458",
+      "sourceCreatedAt": "2026-08-20T20:35:37.000Z"
+    },
+    {
       "id": "8af345fd",
       "filename": "pixiv_148716670_p0.jpg",
       "path": "uploads/2026/08/5aec5c53.jpg",
