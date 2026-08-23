@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "17d02b81",
+      "filename": "pixiv_148736014_p0.jpg",
+      "path": "uploads/2026/08/4b2a4db0.jpg",
+      "size": 510257,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "e2e5362f5b25b06dfab8d84d06e5ed01685c2c9d75fba1e98bcff50a9bbd91d6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T16:44:09.336Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "マンダロリアン LOG Vol.1",
+      "tags": [
+        "マンダロリアン",
+        "Mandalorian",
+        "STARWARS500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148736014_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148736014",
+      "sourceCreatedAt": "2026-08-22T05:27:45.000Z"
+    },
+    {
       "id": "1ee426eb",
       "filename": "pixiv_148717541_p0.jpg",
       "path": "uploads/2026/08/f4c23ec3.jpg",
