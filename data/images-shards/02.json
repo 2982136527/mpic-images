@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "9588c088",
+      "filename": "pixiv_148688003_p0.jpg",
+      "path": "uploads/2026/08/b87047ae.jpg",
+      "size": 712613,
+      "width": 808,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e4fff7673b0fc246eef3c1aa1ddc1bd2c2119db52582462500d0c46181ba433d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T08:47:29.184Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Pixiv Request",
+      "tags": [
+        "Original",
+        "女の子",
+        "猫娘",
+        "粉发",
+        "水着",
+        "スリングショット水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148688003_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148688003",
+      "sourceCreatedAt": "2026-08-21T03:25:53.000Z"
+    },
+    {
       "id": "4ad899d6",
       "filename": "pixiv_148695988_p0.jpg",
       "path": "uploads/2026/08/924020ca.jpg",
