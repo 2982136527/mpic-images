@@ -3,6 +3,35 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "9029f9d1",
+      "filename": "pixiv_148703594_p0.jpg",
+      "path": "uploads/2026/08/c75d7427.jpg",
+      "size": 1085916,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "690eb1a1ece3493c8a2d55cb567dc11a8b7e81ae7c85932e9bd75ce2fad2f092",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T16:40:28.224Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "PCゲーム「Sweet Starlight Sisters」",
+      "tags": [
+        "オリジナル",
+        "銀髪",
+        "タイツ",
+        "バニーガール",
+        "白バニー",
+        "兎崎・アーニャ・リーベルト",
+        "兎崎・サーニャ・リーベルト",
+        "SweetStarlightSisters"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148703594_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148703594",
+      "sourceCreatedAt": "2026-08-21T11:46:31.000Z"
+    },
+    {
       "id": "240822ef",
       "filename": "pixiv_148740782_p0.jpg",
       "path": "uploads/2026/08/92dc8bc5.jpg",
