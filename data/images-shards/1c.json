@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "31733cec",
+      "filename": "pixiv_148746770_p0.jpg",
+      "path": "uploads/2026/08/9b2c02da.jpg",
+      "size": 1232417,
+      "width": 1200,
+      "height": 756,
+      "mimeType": "image/jpeg",
+      "hash": "cd474f477fd7c604b53d7b725e28358222cf3c42621fbebcd0ca21810b759f1f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T08:49:27.253Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "影涼し",
+      "tags": [
+        "東方",
+        "東方Project",
+        "博麗霊夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148746770_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148746770",
+      "sourceCreatedAt": "2026-08-22T10:47:03.000Z"
+    },
+    {
       "id": "739e52c7",
       "filename": "pixiv_148714414_p0.jpg",
       "path": "uploads/2026/08/6886f201.jpg",
