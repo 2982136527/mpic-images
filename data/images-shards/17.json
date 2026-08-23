@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "67cbd5c3",
+      "filename": "pixiv_148727324_p0.jpg",
+      "path": "uploads/2026/08/469171a6.jpg",
+      "size": 1488098,
+      "width": 1200,
+      "height": 811,
+      "mimeType": "image/jpeg",
+      "hash": "90b07df628d38556602245c32fa14318a7e14a4f0c8b40df79b52a62106c6dfd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T08:46:45.683Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "GOOD COMIC CITY32 大阪",
+      "tags": [
+        "オリジナル",
+        "食べ物",
+        "スイーツ",
+        "お品書き"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148727324_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148727324",
+      "sourceCreatedAt": "2026-08-21T23:44:19.000Z"
+    },
+    {
       "id": "553df16c",
       "filename": "pixiv_148698205_p0.jpg",
       "path": "uploads/2026/08/a2b8e114.jpg",
