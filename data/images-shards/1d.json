@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "0d40a8ed",
+      "filename": "pixiv_148708939_p0.jpg",
+      "path": "uploads/2026/08/f7d12577.jpg",
+      "size": 394328,
+      "width": 864,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8ed7e423deb9fd281a073021a38acb9d38a649d0b85bf23590106d753f426ae4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T08:47:22.333Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "いつまでも",
+      "tags": [
+        "ちいかわ",
+        "強くなったハチワレ",
+        "ハチワレ(でかつよ)",
+        "ちいかわ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148708939_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148708939",
+      "sourceCreatedAt": "2026-08-21T13:18:27.000Z"
+    },
+    {
       "id": "c4f9b3dd",
       "filename": "pixiv_148672249_p0.jpg",
       "path": "uploads/2026/08/e9061dbb.jpg",
