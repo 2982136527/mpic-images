@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "71a92500",
+      "filename": "pixiv_148739842_p0.jpg",
+      "path": "uploads/2026/08/fdbdc417.jpg",
+      "size": 618947,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "975ae76baa0d9451d738166a3b1782f750f1732c9228da5779e0449b32ab8543",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T08:47:52.483Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "角楯カリン",
+      "tags": [
+        "ブルーアーカイブ",
+        "カリン",
+        "角楯カリン",
+        "船上のバニーチェイサー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148739842_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148739842",
+      "sourceCreatedAt": "2026-08-22T07:40:57.000Z"
+    },
+    {
       "id": "56619402",
       "filename": "pixiv_148737679_p0.jpg",
       "path": "uploads/2026/08/73c0485b.jpg",
