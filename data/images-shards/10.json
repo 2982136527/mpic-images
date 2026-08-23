@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "225627c9",
+      "filename": "pixiv_148698382_p0.jpg",
+      "path": "uploads/2026/08/3091bbb4.jpg",
+      "size": 1107188,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "bbacbfdaaad126f9c60ea49adc4984b9f8abd6f284e84587e9628829880cf598",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T01:54:48.596Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "不安",
+      "tags": [
+        "VOCALOID",
+        "GUMI",
+        "重音テト",
+        "不安"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148698382_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148698382",
+      "sourceCreatedAt": "2026-08-21T09:59:02.000Z"
+    },
+    {
       "id": "a14702fd",
       "filename": "pixiv_148672163_p0.jpg",
       "path": "uploads/2026/08/614eed12.jpg",
