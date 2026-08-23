@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "023165dd",
+      "filename": "pixiv_148703801_p0.jpg",
+      "path": "uploads/2026/08/4f576453.jpg",
+      "size": 661075,
+      "width": 678,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1a886de056be91ab14913a771952b5d04065554619d877fdaa86b62812d151c3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T16:37:55.065Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バニーの日🐰",
+      "tags": [
+        "女の子",
+        "バニーガール",
+        "白タイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148703801_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148703801",
+      "sourceCreatedAt": "2026-08-21T11:48:48.000Z"
+    },
+    {
       "id": "ad946095",
       "filename": "pixiv_148714529_p0.jpg",
       "path": "uploads/2026/08/742e816e.jpg",
