@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "ae9f1c4f",
+      "filename": "pixiv_148746199_p0.jpg",
+      "path": "uploads/2026/08/a385ad8b.jpg",
+      "size": 1172577,
+      "width": 832,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "55a6e13ead25292ae1fd9d13c1e5d941aa0dee10dcd8c5bd68d9098e4d0d236d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T08:43:30.939Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "桑多涅",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "サンドローネ(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148746199_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148746199",
+      "sourceCreatedAt": "2026-08-22T10:31:38.000Z"
+    },
+    {
       "id": "523f4a0d",
       "filename": "pixiv_148554926_p0.jpg",
       "path": "uploads/2026/08/26416e02.jpg",
