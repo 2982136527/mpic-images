@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "16901b1b",
+      "filename": "pixiv_148661132_p0.jpg",
+      "path": "uploads/2026/08/a3286134.jpg",
+      "size": 1073414,
+      "width": 854,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7d13246a79dd64127205b8a200ef01d283be075d3dfd83ef92a8b4a39be74eed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T01:56:09.477Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "NewGame+ collection artworks",
+      "tags": [
+        "オリジナル",
+        "イラスト",
+        "originalcharacter",
+        "オリジナルキャラクター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148661132_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148661132",
+      "sourceCreatedAt": "2026-08-20T10:52:17.000Z"
+    },
+    {
       "id": "4eeeac85",
       "filename": "pixiv_148674184_p0.jpg",
       "path": "uploads/2026/08/546f2f64.jpg",
