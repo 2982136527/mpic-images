@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "aac2cff0",
+      "filename": "pixiv_148675300_p0.jpg",
+      "path": "uploads/2026/08/1de95369.jpg",
+      "size": 470738,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ad601dfbb662835e270ebf9c997fe9f231463e2b75782ee80a83156a6b345f94",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T01:58:10.965Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "おおきいおくち",
+      "tags": [
+        "セイレーン(ちいかわ)",
+        "島二郎(ちいかわ)",
+        "ちいかわファンアート",
+        "セイ島",
+        "漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148675300_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148675300",
+      "sourceCreatedAt": "2026-08-20T16:00:46.000Z"
+    },
+    {
       "id": "d485b13b",
       "filename": "pixiv_148682349_p0.jpg",
       "path": "uploads/2026/08/d01108e5.jpg",
