@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "12578e7b",
+      "filename": "pixiv_148694307_p0.jpg",
+      "path": "uploads/2026/08/5dada945.jpg",
+      "size": 1044085,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "930d1566e0dfd2d4e0018e212b77fee973971a49389cb7c10ad8e4e13151233a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T01:56:42.649Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "彰武(アズールレーン)",
+      "tags": [
+        "彰武(アズールレーン)",
+        "アズールレーン",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148694307_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148694307",
+      "sourceCreatedAt": "2026-08-21T08:01:26.000Z"
+    },
+    {
       "id": "5231e625",
       "filename": "pixiv_148689040_p0.jpg",
       "path": "uploads/2026/08/cbe58bb6.jpg",
