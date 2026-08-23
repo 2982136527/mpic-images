@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "c4bbb1a5",
+      "filename": "pixiv_148674217_p0.jpg",
+      "path": "uploads/2026/08/d1e26a6c.jpg",
+      "size": 267605,
+      "width": 1200,
+      "height": 799,
+      "mimeType": "image/jpeg",
+      "hash": "3816a9eafc208822125e1c11ae5db3c0a90d4ec61f62d89a5a009b3beb7e2faf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T01:54:36.366Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ショタ",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148674217_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148674217",
+      "sourceCreatedAt": "2026-08-20T15:32:18.000Z"
+    },
+    {
       "id": "bad80d87",
       "filename": "pixiv_148636521_p0.jpg",
       "path": "uploads/2026/08/985ce2db.jpg",
