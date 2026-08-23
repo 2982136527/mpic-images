@@ -3,6 +3,37 @@
   "shardId": "09",
   "images": [
     {
+      "id": "67d037df",
+      "filename": "pixiv_148494466_p0.jpg",
+      "path": "uploads/2026/08/15535e43.jpg",
+      "size": 234754,
+      "width": 600,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "bf4f2a048192e2d31c05163ce20004d337cbf8479c880d39796791458e3a69ec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T16:42:42.545Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "経済を回す",
+      "tags": [
+        "ポケモン",
+        "カフェライチュウ",
+        "なにこの仔かわいい",
+        "ぶーん。",
+        "やはり偏るアンケート",
+        "(物理)",
+        "ちがう、そうじゃない",
+        "いつもより多く回っております",
+        "フレイル",
+        "タイトル通りとは恐れ入った"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148494466_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148494466",
+      "sourceCreatedAt": "2026-08-16T04:41:59.000Z"
+    },
+    {
       "id": "f636c828",
       "filename": "pixiv_148709143_p0.jpg",
       "path": "uploads/2026/08/b8ba2a54.jpg",
