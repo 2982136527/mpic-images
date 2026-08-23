@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "5e5a03bb",
+      "filename": "pixiv_148683266_p0.jpg",
+      "path": "uploads/2026/08/067c6156.jpg",
+      "size": 813140,
+      "width": 1200,
+      "height": 756,
+      "mimeType": "image/jpeg",
+      "hash": "d3c011b7a821940620969b152851841e0b031f477677c62d5a8fd791e67e518f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T16:38:15.591Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "参謀将校",
+      "tags": [
+        "幼女戦記",
+        "ターニャ・デグレチャフ",
+        "ハンス・フォン・ゼートゥーア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148683266_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148683266",
+      "sourceCreatedAt": "2026-08-20T23:18:39.000Z"
+    },
+    {
       "id": "91db6768",
       "filename": "pixiv_148672348_p0.jpg",
       "path": "uploads/2026/08/181fa603.jpg",
