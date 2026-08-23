@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "81b99064",
+      "filename": "pixiv_148646945_p0.jpg",
+      "path": "uploads/2026/08/e413e0fc.jpg",
+      "size": 258228,
+      "width": 939,
+      "height": 690,
+      "mimeType": "image/jpeg",
+      "hash": "dcc77e0f4fdef5474b02bad7326ce27b57d665a9dfea682fef0a88ce6c47c850",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T01:55:08.444Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ポケモンちゃんと一緒シリーズ【５】",
+      "tags": [
+        "ポケモン",
+        "ぽけウヒョ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148646945_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148646945",
+      "sourceCreatedAt": "2026-08-20T00:29:14.000Z"
+    },
+    {
       "id": "9517c0bf",
       "filename": "pixiv_148695384_p0.jpg",
       "path": "uploads/2026/08/8eca240a.jpg",
