@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "768e1e85",
+      "filename": "pixiv_148749974_p0.jpg",
+      "path": "uploads/2026/08/9c00f2d9.jpg",
+      "size": 1385903,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e488fd0a1de6cf85355240d5b256dcbc02506c950427262e92f31b9bea08b295",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T16:40:08.813Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "歌うの！🎼🎵",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "ヴォジャニーツァ",
+        "Vodyanitsa"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148749974_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148749974",
+      "sourceCreatedAt": "2026-08-22T11:59:12.000Z"
+    },
+    {
       "id": "e16526c4",
       "filename": "pixiv_148743572_p0.jpg",
       "path": "uploads/2026/08/47d9dcb8.jpg",
