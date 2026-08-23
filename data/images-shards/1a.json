@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "4cd080c9",
+      "filename": "pixiv_148690934_p0.jpg",
+      "path": "uploads/2026/08/f72fb1d5.jpg",
+      "size": 720038,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "f439439d56b01424aae17be53cff89d14341cd31e42a7df8313710d354dc6ea9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T08:49:20.155Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "StellaSora",
+      "tags": [
+        "仕事絵",
+        "カリン(ステラソラ",
+        "ステラソラ",
+        "StellaSora",
+        "三人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148690934_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148690934",
+      "sourceCreatedAt": "2026-08-21T05:39:11.000Z"
+    },
+    {
       "id": "72683b1e",
       "filename": "pixiv_148743802_p0.jpg",
       "path": "uploads/2026/08/0e1ce36b.jpg",
