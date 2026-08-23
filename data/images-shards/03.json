@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "93aa8505",
+      "filename": "pixiv_148719534_p0.jpg",
+      "path": "uploads/2026/08/5bdf36bd.jpg",
+      "size": 539867,
+      "width": 1200,
+      "height": 656,
+      "mimeType": "image/jpeg",
+      "hash": "dd511b7382495b5c5591a26ec5d55455a1bb66b887ff773d8fe86fea4d567456",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-23T08:42:24.804Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Emerald2",
+      "tags": [
+        "wlop",
+        "ghostblade"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148719534_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148719534",
+      "sourceCreatedAt": "2026-08-21T16:54:23.000Z"
+    },
+    {
       "id": "a13495ca",
       "filename": "pixiv_148655448_p0.jpg",
       "path": "uploads/2026/08/c230a199.jpg",
