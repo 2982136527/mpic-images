@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "f41af1be",
+      "filename": "pixiv_148742698_p0.jpg",
+      "path": "uploads/2026/08/23571cc7.jpg",
+      "size": 605664,
+      "width": 870,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4ca964056d73d44ab25dc1f505dd845af31fa3a7f6c6c6318d55a27cb36f9f8a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:05:07.092Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ロッシちゃん",
+      "tags": [
+        "アークナイツ:エンドフィールド",
+        "明日方舟:终末地",
+        "ArknightsEndfield",
+        "ロッシ(エンドフィールド)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148742698_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148742698",
+      "sourceCreatedAt": "2026-08-22T09:02:58.000Z"
+    },
+    {
       "id": "b3caa85c",
       "filename": "pixiv_148714770_p0.jpg",
       "path": "uploads/2026/08/e4b286a4.jpg",
