@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "cbd2b1d2",
+      "filename": "pixiv_148755289_p0.jpg",
+      "path": "uploads/2026/08/83295a79.jpg",
+      "size": 1071093,
+      "width": 1200,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "e11fbafbda77ca6b8fe17f222dfc44d806a09a1de32d6380b9b2289ca483f92b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T16:51:37.236Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "The Long Goodbye",
+      "tags": [
+        "ゼンゼロ2周年",
+        "Remielle",
+        "zzz",
+        "レミエール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148755289_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148755289",
+      "sourceCreatedAt": "2026-08-22T13:44:56.000Z"
+    },
+    {
       "id": "c9d6d35f",
       "filename": "pixiv_148729786_p0.jpg",
       "path": "uploads/2026/08/2597f29a.jpg",
