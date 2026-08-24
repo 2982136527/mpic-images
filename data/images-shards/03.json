@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "1d1f3ec1",
+      "filename": "pixiv_148799738_p0.jpg",
+      "path": "uploads/2026/08/b4deddc4.jpg",
+      "size": 556770,
+      "width": 991,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5400349a30efc4929c151b8f4ccea96f8b3713ced6ddc84eb1e293b7955e28e7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T16:58:01.168Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "忍玉ログ",
+      "tags": [
+        "忍玉-腐",
+        "雑伊"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148799738_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148799738",
+      "sourceCreatedAt": "2026-08-23T13:29:46.000Z"
+    },
+    {
       "id": "4d9fddb5",
       "filename": "pixiv_148800577_p0.jpg",
       "path": "uploads/2026/08/41896321.jpg",
