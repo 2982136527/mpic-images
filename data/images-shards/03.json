@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "7173fbb2",
+      "filename": "pixiv_148783676_p0.jpg",
+      "path": "uploads/2026/08/5fd5e2d3.jpg",
+      "size": 862210,
+      "width": 612,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a322831ed263b344e6803cdd06e923877641ce2e7e046ed3971ed84f45e43ba3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T16:49:41.812Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "オリジナル🐰",
+      "tags": [
+        "オリジナル",
+        "バニースーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148783676_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148783676",
+      "sourceCreatedAt": "2026-08-23T07:34:50.000Z"
+    },
+    {
       "id": "dc9e5752",
       "filename": "pixiv_148759404_p0.jpg",
       "path": "uploads/2026/08/d591838d.jpg",
