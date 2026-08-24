@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "8b48b128",
+      "filename": "pixiv_148784627_p0.jpg",
+      "path": "uploads/2026/08/e41b294c.jpg",
+      "size": 931565,
+      "width": 1029,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f930c8e48e1f511005a3302ec3ae6bd735fd4b053cf74529b9f2edab6906a304",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T08:59:25.682Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "✌",
+      "tags": [
+        "VTuber",
+        "白雪レイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148784627_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148784627",
+      "sourceCreatedAt": "2026-08-23T08:02:08.000Z"
+    },
+    {
       "id": "4239a555",
       "filename": "pixiv_148718549_p0.jpg",
       "path": "uploads/2026/08/686eb69c.jpg",
