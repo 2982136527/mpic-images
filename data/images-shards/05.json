@@ -3,6 +3,34 @@
   "shardId": "05",
   "images": [
     {
+      "id": "b718c081",
+      "filename": "pixiv_148731769_p0.jpg",
+      "path": "uploads/2026/08/e1d224eb.jpg",
+      "size": 1970465,
+      "width": 910,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "33f4c2f48994c3bf9d2fa9fe6360cb9de603de508c9e15c98abe80bb976dd692",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:02:29.251Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ぴーすしましょ！",
+      "tags": [
+        "鳴潮",
+        "WutheringWaves",
+        "鸣潮",
+        "ショアキーパー",
+        "エイメス",
+        "Shorekeeper",
+        "Aemeath"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148731769_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148731769",
+      "sourceCreatedAt": "2026-08-22T02:55:54.000Z"
+    },
+    {
       "id": "e56a41c6",
       "filename": "pixiv_148702412_p0.jpg",
       "path": "uploads/2026/08/bc91ac26.jpg",
