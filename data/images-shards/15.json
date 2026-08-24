@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "3aae18e5",
+      "filename": "pixiv_148752743_p0.jpg",
+      "path": "uploads/2026/08/e160a143.jpg",
+      "size": 797782,
+      "width": 749,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f87b45d05a3fde2dd2aedd36e6a457e564a7048444bf96b570bc5d5695fb0d0d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T16:56:09.228Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "黒緋の",
+      "tags": [
+        "オリジナル",
+        "魔族っ子",
+        "黒タイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148752743_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148752743",
+      "sourceCreatedAt": "2026-08-22T12:51:21.000Z"
+    },
+    {
       "id": "f61ea6c2",
       "filename": "pixiv_148771154_p0.jpg",
       "path": "uploads/2026/08/a5fca5dd.jpg",
