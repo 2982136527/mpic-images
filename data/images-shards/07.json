@@ -3,6 +3,28 @@
   "shardId": "07",
   "images": [
     {
+      "id": "d6117656",
+      "filename": "pixiv_148733144_p0.jpg",
+      "path": "uploads/2026/08/f3d4dec6.jpg",
+      "size": 334820,
+      "width": 596,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f3190aab44ea5a96646fadec9b1ce0cec29f66a0c93d5eb5afee6b468614add2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T16:54:04.885Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "お猫様",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148733144_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148733144",
+      "sourceCreatedAt": "2026-08-22T08:08:46.000Z"
+    },
+    {
       "id": "90d9cc9b",
       "filename": "pixiv_148716079_p0.jpg",
       "path": "uploads/2026/08/0e0fc1ca.jpg",
