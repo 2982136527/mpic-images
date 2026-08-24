@@ -3,6 +3,28 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "f3833a10",
+      "filename": "pixiv_148773877_p0.jpg",
+      "path": "uploads/2026/08/94f097e9.jpg",
+      "size": 934227,
+      "width": 1100,
+      "height": 871,
+      "mimeType": "image/jpeg",
+      "hash": "13ca42ac5ba49cf763b8c2e90b14f1dfc30ab7a0fe7e1f0da7bb8e78262ba6a8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:07:16.882Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ララフェルズ",
+      "tags": [
+        "ララフェル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148773877_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148773877",
+      "sourceCreatedAt": "2026-08-23T01:53:00.000Z"
+    },
+    {
       "id": "f41af1be",
       "filename": "pixiv_148742698_p0.jpg",
       "path": "uploads/2026/08/23571cc7.jpg",
