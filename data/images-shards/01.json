@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "062b7d99",
+      "filename": "pixiv_148713471_p0.jpg",
+      "path": "uploads/2026/08/7ff6ebe2.jpg",
+      "size": 1460953,
+      "width": 923,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57a34368eefd03103c432b12a78c89c2589f6c2f82d15453b5b317329f10f78d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T01:54:25.689Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "思春期",
+      "tags": [
+        "水彩画",
+        "オリジナル",
+        "漫画",
+        "創作",
+        "オリジナル漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148713471_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148713471",
+      "sourceCreatedAt": "2026-08-21T14:43:13.000Z"
+    },
+    {
       "id": "8c8a38d0",
       "filename": "pixiv_148732794_p0.jpg",
       "path": "uploads/2026/08/29a1b71f.jpg",
