@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "3eb6f56c",
+      "filename": "pixiv_148598047_p0.jpg",
+      "path": "uploads/2026/08/377c5cb7.jpg",
+      "size": 394788,
+      "width": 640,
+      "height": 896,
+      "mimeType": "image/jpeg",
+      "hash": "8d1a62b9e57bad808804bf1e3f0ec87e5376efd1dd0e98ab8d306a280d6d9b46",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:08:32.123Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【ポケモン】まとめ4",
+      "tags": [
+        "ポケモン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148598047_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148598047",
+      "sourceCreatedAt": "2026-08-18T15:14:06.000Z"
+    },
+    {
       "id": "a605a021",
       "filename": "pixiv_148779631_p0.jpg",
       "path": "uploads/2026/08/1f656c74.jpg",
