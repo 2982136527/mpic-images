@@ -3,6 +3,34 @@
   "shardId": "12",
   "images": [
     {
+      "id": "ee64eeba",
+      "filename": "pixiv_148730235_p0.jpg",
+      "path": "uploads/2026/08/34c26cde.jpg",
+      "size": 619701,
+      "width": 793,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "080a4db68a00f17e1b1d776f89e6a0dfda51ada7f62678cf43771039f3b6ad0f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T01:56:31.541Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "메이드 비키니 와카모",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "블루아카이브",
+        "狐坂ワカモ",
+        "ワカモ(ブルーアーカイブ)",
+        "狐っ娘",
+        "ブルアカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148730235_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148730235",
+      "sourceCreatedAt": "2026-08-22T01:58:21.000Z"
+    },
+    {
       "id": "a448756c",
       "filename": "pixiv_148716175_p0.jpg",
       "path": "uploads/2026/08/1443eba0.jpg",
