@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "ff6af277",
+      "filename": "pixiv_148718555_p0.jpg",
+      "path": "uploads/2026/08/24dc2376.jpg",
+      "size": 713944,
+      "width": 655,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bf4e596f9f9946d3d0420f07da77df57da7b0b5d62841df44f9014cd5b1ec718",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:07:09.200Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "サユリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148718555_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148718555",
+      "sourceCreatedAt": "2026-08-21T16:22:35.000Z"
+    },
+    {
       "id": "42910969",
       "filename": "pixiv_148732253_p0.jpg",
       "path": "uploads/2026/08/bb657e95.jpg",
