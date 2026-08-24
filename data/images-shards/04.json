@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "6b806551",
+      "filename": "pixiv_148791633_p0.jpg",
+      "path": "uploads/2026/08/2c8258ce.jpg",
+      "size": 1413366,
+      "width": 853,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6db45a46f74c5283536ca46441b8fff6116a088477a252a5f9f65bb77d08d014",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:00:41.930Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "紫陽蛸🐙",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148791633_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148791633",
+      "sourceCreatedAt": "2026-08-23T10:59:31.000Z"
+    },
+    {
       "id": "ec48c07b",
       "filename": "pixiv_148476842_p0.jpg",
       "path": "uploads/2026/08/655bedef.jpg",
