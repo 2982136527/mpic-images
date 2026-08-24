@@ -3,6 +3,32 @@
   "shardId": "18",
   "images": [
     {
+      "id": "a15dacbe",
+      "filename": "pixiv_148724572_p0.jpg",
+      "path": "uploads/2026/08/1e6c1175.jpg",
+      "size": 211985,
+      "width": 953,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "9046439b786304a16f5509f0cedba9f17e80bff7d1b8d1176c6e4345d5b1cf6c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T16:55:05.934Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "最近描いた絵とか",
+      "tags": [
+        "ブルーアーカイブ",
+        "五十嵐ショウコ",
+        "明楽カレン",
+        "百合",
+        "チンチンモンスター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148724572_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148724572",
+      "sourceCreatedAt": "2026-08-21T21:22:08.000Z"
+    },
+    {
       "id": "7f89a2b5",
       "filename": "pixiv_148773251_p0.jpg",
       "path": "uploads/2026/08/feca87ba.jpg",
