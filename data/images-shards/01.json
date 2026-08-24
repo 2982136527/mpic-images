@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "d482ab97",
+      "filename": "pixiv_148718918_p0.jpg",
+      "path": "uploads/2026/08/479a64c3.jpg",
+      "size": 570458,
+      "width": 1200,
+      "height": 833,
+      "mimeType": "image/jpeg",
+      "hash": "d128051f612bebb2bc6939c30ae881691467dce2421459ca31a6a85354215681",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T16:58:23.513Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "WB【腐】",
+        "やまさく"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148718918_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148718918",
+      "sourceCreatedAt": "2026-08-21T16:32:22.000Z"
+    },
+    {
       "id": "388ae619",
       "filename": "pixiv_148715290_p0.jpg",
       "path": "uploads/2026/08/4c2c9538.jpg",
