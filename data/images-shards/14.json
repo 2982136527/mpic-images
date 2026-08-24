@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "4ab1ce9e",
+      "filename": "pixiv_148696197_p0.jpg",
+      "path": "uploads/2026/08/b965b910.jpg",
+      "size": 532716,
+      "width": 815,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5d0846ed8707cf8ee9ce7818b3cc9328159f680163d77161b496c924fd4bc309",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T01:53:00.190Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ゼンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148696197_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148696197",
+      "sourceCreatedAt": "2026-08-21T09:01:32.000Z"
+    },
+    {
       "id": "cbb6972d",
       "filename": "pixiv_148714618_p0.jpg",
       "path": "uploads/2026/08/80f92a39.jpg",
