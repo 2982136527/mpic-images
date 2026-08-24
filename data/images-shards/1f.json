@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "b635af6d",
+      "filename": "pixiv_148726633_p0.jpg",
+      "path": "uploads/2026/08/d9b94925.jpg",
+      "size": 1356798,
+      "width": 1200,
+      "height": 926,
+      "mimeType": "image/jpeg",
+      "hash": "01f571fbe612ffbc41796e834b7d637e914a50029c15ca612eedc58dba2e69f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:03:40.662Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "未曾迷茫的雨",
+      "tags": [
+        "東方",
+        "落書き",
+        "博麗霊夢",
+        "雨",
+        "東方風景画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148726633_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148726633",
+      "sourceCreatedAt": "2026-08-21T23:13:00.000Z"
+    },
+    {
       "id": "f8b94a86",
       "filename": "pixiv_148719333_p0.jpg",
       "path": "uploads/2026/08/3c017b6d.jpg",
