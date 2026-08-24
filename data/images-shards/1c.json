@@ -3,6 +3,33 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "c1197fb0",
+      "filename": "pixiv_148759906_p0.jpg",
+      "path": "uploads/2026/08/4760ee64.jpg",
+      "size": 972511,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7c3a674204f8307358c932a866a9c574f9f55b79e97c73f8870b696a25cda896",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T16:58:07.705Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Oreuma ①",
+      "tags": [
+        "AI生成",
+        "UmaMusume",
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "アーモンドアイ(ウマ娘)",
+        "キタサンブラック(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148759906_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148759906",
+      "sourceCreatedAt": "2026-08-22T15:13:28.000Z"
+    },
+    {
       "id": "03ba01ad",
       "filename": "pixiv_148776232_p0.jpg",
       "path": "uploads/2026/08/87c369b5.jpg",
