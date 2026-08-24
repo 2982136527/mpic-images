@@ -3,6 +3,28 @@
   "shardId": "06",
   "images": [
     {
+      "id": "b516ca4d",
+      "filename": "pixiv_148783830_p0.jpg",
+      "path": "uploads/2026/08/a27096bd.jpg",
+      "size": 917695,
+      "width": 658,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c120ea933187299097b7d5b23339dbb03a0fe3cbf26e4bb15d31f08ff27ed0e6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:04:47.401Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏の色",
+      "tags": [
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148783830_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148783830",
+      "sourceCreatedAt": "2026-08-23T07:40:12.000Z"
+    },
+    {
       "id": "dd56d6eb",
       "filename": "pixiv_148755519_p0.jpg",
       "path": "uploads/2026/08/94f49127.jpg",
