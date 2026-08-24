@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "bee9e7bf",
+      "filename": "pixiv_148743316_p0.jpg",
+      "path": "uploads/2026/08/d7082b82.jpg",
+      "size": 776907,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "4c3a18aaa890de90cbc86b395d0f90c4ef092acad02b1344c07d1be51086db8b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:03:15.483Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "雨の日",
+      "tags": [
+        "風景",
+        "背景",
+        "旅する亀",
+        "幻想的",
+        "イラスト",
+        "オリジナル",
+        "雨",
+        "創作",
+        "ファンタジー",
+        "廃墟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148743316_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148743316",
+      "sourceCreatedAt": "2026-08-22T09:20:35.000Z"
+    },
+    {
       "id": "5619c929",
       "filename": "pixiv_147626215_p0.jpg",
       "path": "uploads/2026/08/747ad5a8.jpg",
