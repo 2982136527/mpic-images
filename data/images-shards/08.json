@@ -3,6 +3,34 @@
   "shardId": "08",
   "images": [
     {
+      "id": "de4c3037",
+      "filename": "pixiv_148783092_p0.jpg",
+      "path": "uploads/2026/08/6d1a3d2b.jpg",
+      "size": 1409524,
+      "width": 1200,
+      "height": 932,
+      "mimeType": "image/jpeg",
+      "hash": "a6c89c5578ce2bfc52a0742990d9474c314a826af0476bcbceea1e8fc1177493",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:06:21.644Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ナカヤマフェスタ",
+      "tags": [
+        "ナカヤマフェスタ(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "天国へ競走しに行った馬",
+        "追悼",
+        "追悼イラスト",
+        "死中求活(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148783092_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148783092",
+      "sourceCreatedAt": "2026-08-23T07:16:46.000Z"
+    },
+    {
       "id": "32a88ffa",
       "filename": "pixiv_148792728_p0.jpg",
       "path": "uploads/2026/08/752c80c8.jpg",
