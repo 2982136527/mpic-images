@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "1b923120",
+      "filename": "pixiv_148746502_p0.jpg",
+      "path": "uploads/2026/08/f08b421d.jpg",
+      "size": 292036,
+      "width": 600,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "01760d1cf79bf76aff37278a85953e304cefff1fcc977a54ff702f69a2f68b34",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T01:52:12.830Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ヒット&アウェイ",
+      "tags": [
+        "ポケモン",
+        "カフェライチュウ",
+        "ニドキング",
+        "ちょうはつ",
+        "やはり偏るアンケート",
+        "訓練されたコメント欄",
+        "何この子かわいい",
+        "あうぇー。",
+        "ヒット&あうぇー。",
+        "なにこの仔かわいい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148746502_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148746502",
+      "sourceCreatedAt": "2026-08-22T10:39:36.000Z"
+    },
+    {
       "id": "5045ec64",
       "filename": "pixiv_148718996_p0.jpg",
       "path": "uploads/2026/08/77b56f1f.jpg",
