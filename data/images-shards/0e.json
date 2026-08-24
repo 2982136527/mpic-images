@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "6cfb78a3",
+      "filename": "pixiv_148704267_p0.jpg",
+      "path": "uploads/2026/08/c160b3e3.jpg",
+      "size": 650475,
+      "width": 953,
+      "height": 1036,
+      "mimeType": "image/jpeg",
+      "hash": "32c3b1891898d70a74e0efd27236f736b9cc0541e3a1d5fd4fb7b2a22a94e8f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T01:55:35.823Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "創作BL",
+        "J庭60",
+        "J.GARDEN60"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148704267_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148704267",
+      "sourceCreatedAt": "2026-08-21T11:58:45.000Z"
+    },
+    {
       "id": "77c2affa",
       "filename": "pixiv_148701846_p0.jpg",
       "path": "uploads/2026/08/cef644f1.jpg",
