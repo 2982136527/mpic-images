@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "a605a021",
+      "filename": "pixiv_148779631_p0.jpg",
+      "path": "uploads/2026/08/1f656c74.jpg",
+      "size": 1289703,
+      "width": 1200,
+      "height": 798,
+      "mimeType": "image/jpeg",
+      "hash": "0d83ff330fb396fb17d0256c208536e70aa96c7b21036337a85fa693a3bc7bb4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:06:37.509Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Odette",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "Odette",
+        "オデット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148779631_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148779631",
+      "sourceCreatedAt": "2026-08-23T05:20:43.000Z"
+    },
+    {
       "id": "c3da7c8a",
       "filename": "pixiv_148759086_p0.jpg",
       "path": "uploads/2026/08/c34bc0b4.jpg",
