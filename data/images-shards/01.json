@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "c4a8fa70",
+      "filename": "pixiv_148738970_p0.jpg",
+      "path": "uploads/2026/08/66f1f144.jpg",
+      "size": 1627514,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "56b9988f21d0747568d3082170f7c67341bc2047575e78fc70f5cdc691f5ad1a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:04:31.753Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ヒナ",
+      "tags": [
+        "ブルーアーカイブ",
+        "空崎ヒナ",
+        "BlueArchive",
+        "ブルアカ",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148738970_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148738970",
+      "sourceCreatedAt": "2026-08-22T07:09:50.000Z"
+    },
+    {
       "id": "062b7d99",
       "filename": "pixiv_148713471_p0.jpg",
       "path": "uploads/2026/08/7ff6ebe2.jpg",
