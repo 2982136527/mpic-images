@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "039c0b60",
+      "filename": "pixiv_148674588_p0.jpg",
+      "path": "uploads/2026/08/450b814e.jpg",
+      "size": 953582,
+      "width": 917,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e9f2ab7abe26fa4caf13c8f866263496dad3be1f1e6f61b0b6d5dbb839bac6c8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T01:58:34.203Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Classic Ahri",
+      "tags": [
+        "League_of_Legends",
+        "Ahri"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148674588_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148674588",
+      "sourceCreatedAt": "2026-08-20T15:42:46.000Z"
+    },
+    {
       "id": "ee64eeba",
       "filename": "pixiv_148730235_p0.jpg",
       "path": "uploads/2026/08/34c26cde.jpg",
