@@ -3,6 +3,33 @@
   "shardId": "12",
   "images": [
     {
+      "id": "134b31f0",
+      "filename": "pixiv_148771466_p0.jpg",
+      "path": "uploads/2026/08/2b57e006.jpg",
+      "size": 1399535,
+      "width": 1200,
+      "height": 1177,
+      "mimeType": "image/jpeg",
+      "hash": "eb536cc11cc580e61db92c01dda57dfaa2cb0cef3c1b467e40ab2cb7235b5f1d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T08:59:37.185Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "精霊船フライゴン",
+      "tags": [
+        "フライゴン",
+        "ポケモン",
+        "ポケットモンスター",
+        "厚塗り",
+        "ポケモン船化",
+        "船化"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148771466_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148771466",
+      "sourceCreatedAt": "2026-08-23T00:01:37.000Z"
+    },
+    {
       "id": "039c0b60",
       "filename": "pixiv_148674588_p0.jpg",
       "path": "uploads/2026/08/450b814e.jpg",
