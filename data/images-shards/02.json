@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "eb2cf09d",
+      "filename": "pixiv_148686854_p0.jpg",
+      "path": "uploads/2026/08/42c891aa.jpg",
+      "size": 322213,
+      "width": 667,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "11776423b809ab53b7ddade50e5c834d9c964b4b0627b96c308e62ba5afde95c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T01:53:29.571Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Planning a new character",
+      "tags": [
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148686854_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148686854",
+      "sourceCreatedAt": "2026-08-21T02:41:18.000Z"
+    },
+    {
       "id": "17d02b81",
       "filename": "pixiv_148736014_p0.jpg",
       "path": "uploads/2026/08/4b2a4db0.jpg",
