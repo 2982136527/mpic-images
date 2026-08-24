@@ -3,6 +3,32 @@
   "shardId": "06",
   "images": [
     {
+      "id": "5a2f7b87",
+      "filename": "pixiv_148760036_p0.jpg",
+      "path": "uploads/2026/08/af68bd95.jpg",
+      "size": 918042,
+      "width": 614,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dfb3f023b45dcc0e7280b32e669b656e9f0a14b2d20a7450cfaeab38c2484e1c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:05:40.073Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "butterfly",
+      "tags": [
+        "イラスト",
+        "original",
+        "オリジナル",
+        "OC",
+        "character"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148760036_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148760036",
+      "sourceCreatedAt": "2026-08-22T15:16:35.000Z"
+    },
+    {
       "id": "b516ca4d",
       "filename": "pixiv_148783830_p0.jpg",
       "path": "uploads/2026/08/a27096bd.jpg",
