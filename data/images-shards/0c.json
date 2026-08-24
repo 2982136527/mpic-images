@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "db8c0f9a",
+      "filename": "pixiv_148680908_p0.jpg",
+      "path": "uploads/2026/08/079c6bab.jpg",
+      "size": 829137,
+      "width": 791,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e66643fd00595dc9a48d384e5089bb172d98241899bfba5de4109e22bbc1b5b7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T01:54:04.700Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "さとり",
+      "tags": [
+        "東方",
+        "東方Project",
+        "古明地さとり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148680908_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148680908",
+      "sourceCreatedAt": "2026-08-20T21:02:15.000Z"
+    },
+    {
       "id": "6cc20ddf",
       "filename": "pixiv_148724848_p0.jpg",
       "path": "uploads/2026/08/943d74c8.jpg",
