@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "03ba01ad",
+      "filename": "pixiv_148776232_p0.jpg",
+      "path": "uploads/2026/08/87c369b5.jpg",
+      "size": 763518,
+      "width": 774,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "56c6bf9c8c3bc849386ba07ec9c6d87531f82131e70c68a4c36e3cd72eecfd3f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T16:51:50.734Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "オリジナル",
+      "tags": [
+        "女の子",
+        "学生",
+        "オリジナル1000users入り",
+        "セーラー服",
+        "ソックス足裏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148776232_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148776232",
+      "sourceCreatedAt": "2026-08-23T03:14:43.000Z"
+    },
+    {
       "id": "2174100b",
       "filename": "pixiv_148746494_p0.jpg",
       "path": "uploads/2026/08/f9296afd.jpg",
