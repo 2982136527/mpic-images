@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "f41c1700",
+      "filename": "pixiv_148731033_p0.jpg",
+      "path": "uploads/2026/08/f489e0c2.jpg",
+      "size": 1093583,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e8aa638082076062340e4da68f30b950dd7a0b7f81cc0a1f714e23300db86cf9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:00:58.895Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バニーアスナ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "一之瀬アスナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148731033_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148731033",
+      "sourceCreatedAt": "2026-08-22T02:25:12.000Z"
+    },
+    {
       "id": "0265726b",
       "filename": "pixiv_148744650_p0.jpg",
       "path": "uploads/2026/08/f47402c9.jpg",
