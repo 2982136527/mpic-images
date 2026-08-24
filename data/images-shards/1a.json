@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "fe7d2d08",
+      "filename": "pixiv_148714623_p0.jpg",
+      "path": "uploads/2026/08/383c88e8.jpg",
+      "size": 1843215,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4b07889b4d4e04468b7a2fc8b1ed72b93772f871b9bedc8952dcf941e14a1c3b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T16:49:50.975Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "-可可keke-",
+      "tags": [
+        "女の子",
+        "依頼絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148714623_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148714623",
+      "sourceCreatedAt": "2026-08-21T15:00:38.000Z"
+    },
+    {
       "id": "f3833a10",
       "filename": "pixiv_148773877_p0.jpg",
       "path": "uploads/2026/08/94f097e9.jpg",
