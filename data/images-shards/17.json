@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "5800ae7f",
+      "filename": "pixiv_148777705_p0.jpg",
+      "path": "uploads/2026/08/85f1e1fc.jpg",
+      "size": 417444,
+      "width": 741,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e509b2393cda0f9abbfe63f39b34df0273721f30295013608b6a4d740d6f9cce",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T16:53:33.510Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "新しいうちの子",
+      "tags": [
+        "オリジナル",
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148777705_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148777705",
+      "sourceCreatedAt": "2026-08-23T04:09:24.000Z"
+    },
+    {
       "id": "d4b5f6c4",
       "filename": "pixiv_148774752_p0.jpg",
       "path": "uploads/2026/08/9f27ccf6.jpg",
