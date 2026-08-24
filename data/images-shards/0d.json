@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "cc3fcc46",
+      "filename": "pixiv_148778551_p0.jpg",
+      "path": "uploads/2026/08/8c0f05b7.jpg",
+      "size": 242750,
+      "width": 467,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "79b9edc6e033f9d97213e95843ce51434f55d1624022836809e3473c4949f4c5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:06:46.010Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "最近の落書き詰め！",
+      "tags": [
+        "絵チャ",
+        "ラクガキ",
+        "ラヴリエル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148778551_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148778551",
+      "sourceCreatedAt": "2026-08-23T04:41:42.000Z"
+    },
+    {
       "id": "9493b47f",
       "filename": "pixiv_148744579_p0.jpg",
       "path": "uploads/2026/08/b9bd3751.jpg",
