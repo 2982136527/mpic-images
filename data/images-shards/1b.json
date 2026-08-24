@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "ba48eb0e",
+      "filename": "pixiv_148784953_p0.jpg",
+      "path": "uploads/2026/08/72ff4ddb.jpg",
+      "size": 1076688,
+      "width": 1200,
+      "height": 721,
+      "mimeType": "image/jpeg",
+      "hash": "3f3ffad71cc3ee72313079f7eec4b79e125e3a622b2885b89eb7840361a59312",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:03:03.603Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "Remielle",
+        "レミエール・ダン",
+        "蕾米埃尔·丹",
+        "绝区零"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148784953_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148784953",
+      "sourceCreatedAt": "2026-08-23T08:13:24.000Z"
+    },
+    {
       "id": "fc36fe2f",
       "filename": "pixiv_148755244_p0.jpg",
       "path": "uploads/2026/08/3cf80f72.jpg",
