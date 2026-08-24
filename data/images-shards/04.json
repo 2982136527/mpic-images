@@ -3,6 +3,28 @@
   "shardId": "04",
   "images": [
     {
+      "id": "5ea3d657",
+      "filename": "pixiv_148769462_p0.jpg",
+      "path": "uploads/2026/08/d8306c48.jpg",
+      "size": 605225,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "48ca69d776e2adcc9598b70821f24a00d581559e27533b0e04ad7bded7498331",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T16:58:54.705Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "skebリクエスト絵",
+      "tags": [
+        "飲み物"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148769462_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148769462",
+      "sourceCreatedAt": "2026-08-22T22:26:40.000Z"
+    },
+    {
       "id": "ec647120",
       "filename": "pixiv_148793632_p0.jpg",
       "path": "uploads/2026/08/0215fa24.jpg",
