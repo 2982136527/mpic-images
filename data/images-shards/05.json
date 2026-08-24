@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "47a7ffc3",
+      "filename": "pixiv_148678782_p0.jpg",
+      "path": "uploads/2026/08/aed8a52d.jpg",
+      "size": 479011,
+      "width": 1200,
+      "height": 905,
+      "mimeType": "image/jpeg",
+      "hash": "c24263d064eb8640151b585d168f8bfd3d828d895f5c03f6d69d0920d71f4140",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T16:58:41.563Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "稲荷崎ケモ化詰",
+      "tags": [
+        "稲荷崎",
+        "ケモノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148678782_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148678782",
+      "sourceCreatedAt": "2026-08-20T18:34:51.000Z"
+    },
+    {
       "id": "de3922fe",
       "filename": "pixiv_148728645_p0.jpg",
       "path": "uploads/2026/08/6904a9c0.jpg",
