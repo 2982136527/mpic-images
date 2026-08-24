@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "8c8a38d0",
+      "filename": "pixiv_148732794_p0.jpg",
+      "path": "uploads/2026/08/29a1b71f.jpg",
+      "size": 909139,
+      "width": 674,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0d4b8409ea4fa4accf65e004e1c1590d28a45ff81ea89a10b84fb2383e8c161b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T01:53:08.005Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "マシュ",
+      "tags": [
+        "Fate/GrandOrder",
+        "マシュ・キリエライト",
+        "常夏の水着Ver.03"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148732794_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148732794",
+      "sourceCreatedAt": "2026-08-22T03:28:50.000Z"
+    },
+    {
       "id": "a6ac8225",
       "filename": "pixiv_148726644_p0.jpg",
       "path": "uploads/2026/08/283909a5.jpg",
