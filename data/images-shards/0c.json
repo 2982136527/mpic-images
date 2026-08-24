@@ -3,6 +3,34 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "6cc20ddf",
+      "filename": "pixiv_148724848_p0.jpg",
+      "path": "uploads/2026/08/943d74c8.jpg",
+      "size": 1030450,
+      "width": 1006,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cc4a3758e08ea89661db05ae853cc66e9ec10d12fe5cd90af3e7128b7ebae656",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T01:51:59.238Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "空賊船メガヤンマ",
+      "tags": [
+        "メガヤンマ",
+        "船化",
+        "ポケモン",
+        "ポケットモンスター",
+        "厚塗り",
+        "空",
+        "雲"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148724848_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148724848",
+      "sourceCreatedAt": "2026-08-22T09:31:22.000Z"
+    },
+    {
       "id": "458d943d",
       "filename": "pixiv_148724186_p0.jpg",
       "path": "uploads/2026/08/7f1e5b89.jpg",
