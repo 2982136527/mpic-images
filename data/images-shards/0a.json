@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "10bbe458",
+      "filename": "pixiv_148751455_p0.jpg",
+      "path": "uploads/2026/08/aa08c2cb.jpg",
+      "size": 584346,
+      "width": 826,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "090264f4924642d7510ab2ffb0bfbe2edaf94f7bc410d7de63038bf331dc8171",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:00:16.628Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "春蘭くん",
+      "tags": [
+        "ヤニねこ",
+        "春蘭",
+        "カンサイ弟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148751455_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148751455",
+      "sourceCreatedAt": "2026-08-22T12:25:35.000Z"
+    },
+    {
       "id": "14d5d112",
       "filename": "pixiv_148702622_p0.jpg",
       "path": "uploads/2026/08/11a03b95.jpg",
