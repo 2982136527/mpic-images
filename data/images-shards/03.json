@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "dc9e5752",
+      "filename": "pixiv_148759404_p0.jpg",
+      "path": "uploads/2026/08/d591838d.jpg",
+      "size": 727828,
+      "width": 1076,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df19e7b7ace92c6d3d9fbb64c9587de89fbb881d786df57169c69b37ee108e62",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:06:53.827Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "花盛百杏",
+      "tags": [
+        "アストラエオラティオ",
+        "花盛百杏",
+        "百杏",
+        "AstraeOratio"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148759404_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148759404",
+      "sourceCreatedAt": "2026-08-22T15:03:48.000Z"
+    },
+    {
       "id": "e394277c",
       "filename": "pixiv_148743783_p0.jpg",
       "path": "uploads/2026/08/076b6b06.jpg",
