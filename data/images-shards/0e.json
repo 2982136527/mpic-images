@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "3f31e04b",
+      "filename": "pixiv_148714571_p0.jpg",
+      "path": "uploads/2026/08/4cffb935.jpg",
+      "size": 1272752,
+      "width": 1200,
+      "height": 719,
+      "mimeType": "image/jpeg",
+      "hash": "b294677758a730582a62528ea9df35d2a71470245e4d91666b9c0a400b222cc1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T01:51:52.965Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "沖田オルタ",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "沖田総司(オルタ)",
+        "Fate/GO1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148714571_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148714571",
+      "sourceCreatedAt": "2026-08-21T15:00:30.000Z"
+    },
+    {
       "id": "1c0b5805",
       "filename": "pixiv_148714658_p0.jpg",
       "path": "uploads/2026/08/a338bf06.jpg",
