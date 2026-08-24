@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "32a88ffa",
+      "filename": "pixiv_148792728_p0.jpg",
+      "path": "uploads/2026/08/752c80c8.jpg",
+      "size": 552259,
+      "width": 788,
+      "height": 1168,
+      "mimeType": "image/jpeg",
+      "hash": "b9fbe9400ed5ad98aeba642f58034a6b8d1e433056707116835005d71a0959f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T09:05:15.391Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "かげろー",
+      "tags": [
+        "東方Project",
+        "今泉影狼"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148792728_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148792728",
+      "sourceCreatedAt": "2026-08-23T11:18:17.000Z"
+    },
+    {
       "id": "c61b9c8e",
       "filename": "pixiv_148727538_p0.jpg",
       "path": "uploads/2026/08/c0e298b4.jpg",
