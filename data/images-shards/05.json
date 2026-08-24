@@ -3,6 +3,35 @@
   "shardId": "05",
   "images": [
     {
+      "id": "f329280c",
+      "filename": "pixiv_148760693_p0.jpg",
+      "path": "uploads/2026/08/f1bf878d.jpg",
+      "size": 1095351,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f3f6e0ba9f32e3f2a4207d4f79c03f38b438b9437e885a7dd9e958c188d264f7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-24T16:59:17.995Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ラフィーⅡ",
+      "tags": [
+        "アズールレーン",
+        "アズレン",
+        "AzurLane",
+        "ラフィーII(アズールレーン)",
+        "ウサウサ城主の見回り休憩",
+        "アズールレーン九周年記念",
+        "ラフィー(アズールレーン)",
+        "アズールレーン100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148760693_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148760693",
+      "sourceCreatedAt": "2026-08-22T15:30:54.000Z"
+    },
+    {
       "id": "47a7ffc3",
       "filename": "pixiv_148678782_p0.jpg",
       "path": "uploads/2026/08/aed8a52d.jpg",
