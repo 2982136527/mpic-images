@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "933edde6",
+      "filename": "pixiv_148752626_p0.jpg",
+      "path": "uploads/2026/08/a1a7a0e7.jpg",
+      "size": 742168,
+      "width": 692,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a35da6311042cf4974b3bc888a0267223b19faef9ee2b41038ec907fa6203ee3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T01:55:40.618Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ワカモ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "狐坂ワカモ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148752626_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148752626",
+      "sourceCreatedAt": "2026-08-22T12:48:53.000Z"
+    },
+    {
       "id": "ea13e106",
       "filename": "pixiv_148584323_p0.jpg",
       "path": "uploads/2026/08/f20024ae.jpg",
