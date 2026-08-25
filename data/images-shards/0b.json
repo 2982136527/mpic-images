@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "76904d8f",
+      "filename": "pixiv_148733257_p0.jpg",
+      "path": "uploads/2026/08/55513df9.jpg",
+      "size": 390924,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b22f9595c75b119feb84a8754e3280ed472821da224e6b57497ed95d19455b98",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T01:47:57.338Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "落書き",
+      "tags": [
+        "BLEACH",
+        "落書き",
+        "井上織姫",
+        "BLEACH100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148733257_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148733257",
+      "sourceCreatedAt": "2026-08-22T03:44:04.000Z"
+    },
+    {
       "id": "d49347f8",
       "filename": "pixiv_148781602_p0.jpg",
       "path": "uploads/2026/08/6d67354d.jpg",
