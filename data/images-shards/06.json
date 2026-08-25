@@ -3,6 +3,28 @@
   "shardId": "06",
   "images": [
     {
+      "id": "b36f6384",
+      "filename": "pixiv_148788255_p0.jpg",
+      "path": "uploads/2026/08/f724d774.jpg",
+      "size": 450462,
+      "width": 825,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0f0cfe97d5349314a3e8e6b08522f2ee5c434d13bb6d11e7af39977106c34ebe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T16:53:24.394Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "嬉しそうにどこで買ったとかスペアが何個あるとか教えてくれる",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148788255_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148788255",
+      "sourceCreatedAt": "2026-08-23T09:39:29.000Z"
+    },
+    {
       "id": "a31ceb56",
       "filename": "pixiv_148804251_p0.jpg",
       "path": "uploads/2026/08/4c5a06f6.jpg",
