@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "2bd8c2f6",
+      "filename": "pixiv_148777303_p0.jpg",
+      "path": "uploads/2026/08/ab75f4ec.jpg",
+      "size": 624867,
+      "width": 829,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aa6253cc7dbe6a48df6d2e6232c1ace0948d96abda504cbc4e79ea3d6b8cc36f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T01:47:49.988Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "hifumi",
+      "tags": [
+        "阿慈谷ヒフミ",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "ラバースーツ",
+        "ぴっちりスーツ",
+        "競泳水着",
+        "ラバーアーカイブ",
+        "気密服",
+        "ブルーアーカイブ500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148777303_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148777303",
+      "sourceCreatedAt": "2026-08-23T03:54:05.000Z"
+    },
+    {
       "id": "e1839b67",
       "filename": "pixiv_148752543_p0.jpg",
       "path": "uploads/2026/08/250675ff.jpg",
