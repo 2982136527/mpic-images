@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "d1aca930",
+      "filename": "pixiv_148827715_p0.jpg",
+      "path": "uploads/2026/08/a5715009.jpg",
+      "size": 724565,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "989138106e8a85cbb4050c7dcf58197b9f61fa3dcd205aade88977ed9bfeac6c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T08:55:19.533Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ループザルーム【ぺぽよREMIX】",
+      "tags": [
+        "VOCALOID",
+        "asa",
+        "ループザルーム",
+        "asa目撃情報"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148827715_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148827715",
+      "sourceCreatedAt": "2026-08-24T19:38:00.000Z"
+    },
+    {
       "id": "b463efb8",
       "filename": "pixiv_148804399_p0.jpg",
       "path": "uploads/2026/08/78482941.jpg",
