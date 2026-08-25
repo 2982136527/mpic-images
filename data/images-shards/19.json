@@ -3,6 +3,28 @@
   "shardId": "19",
   "images": [
     {
+      "id": "2da9c4f5",
+      "filename": "pixiv_148836243_p0.jpg",
+      "path": "uploads/2026/08/6501ad37.jpg",
+      "size": 1529159,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "a0eb6d4f7aa95ea0d75920b236c379c985422ea530184921bb2d5e3ecc6d8c8c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T08:55:04.093Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "青空が嫌いだったんだ",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148836243_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148836243",
+      "sourceCreatedAt": "2026-08-24T12:26:57.000Z"
+    },
+    {
       "id": "a35e8c02",
       "filename": "pixiv_148732153_p0.jpg",
       "path": "uploads/2026/08/d0dfc36c.jpg",
