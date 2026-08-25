@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "e14c70aa",
+      "filename": "pixiv_148791927_p0.jpg",
+      "path": "uploads/2026/08/539b403a.jpg",
+      "size": 674016,
+      "width": 787,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "86cd6e72a5ce1322c1958004e76e842f156b8bbccc1d0b6c3101e0ba56b578d0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T08:59:31.602Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "清霄",
+      "tags": [
+        "鸣潮",
+        "WutheringWaves",
+        "清霄"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148791927_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148791927",
+      "sourceCreatedAt": "2026-08-23T11:01:44.000Z"
+    },
+    {
       "id": "2da9c4f5",
       "filename": "pixiv_148836243_p0.jpg",
       "path": "uploads/2026/08/6501ad37.jpg",
