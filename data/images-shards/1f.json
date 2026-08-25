@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "f9396d88",
+      "filename": "pixiv_148796953_p0.jpg",
+      "path": "uploads/2026/08/59557be0.jpg",
+      "size": 969880,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5dc2b276d20d0e04bc9bba84914fbde996f5f815be8b53445d47443ddc437eaf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T08:57:41.529Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ナカヤマフェスタ",
+      "tags": [
+        "天国へ競走しに行った馬",
+        "ウマ娘",
+        "ナカヤマフェスタ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148796953_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148796953",
+      "sourceCreatedAt": "2026-08-23T12:37:58.000Z"
+    },
+    {
       "id": "812ddf5d",
       "filename": "pixiv_148791161_p0.jpg",
       "path": "uploads/2026/08/41c16375.jpg",
