@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "09e75a20",
+      "filename": "pixiv_148801439_p0.jpg",
+      "path": "uploads/2026/08/35b3ac93.jpg",
+      "size": 622102,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f028dcbe69a76bd8e03055831a35d10788d4fcbbe596a48b3f7630a71b79c5d8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T16:56:55.866Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "サイレンススズカ(ミニスカチャイナドレス)",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "サイレンススズカ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148801439_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148801439",
+      "sourceCreatedAt": "2026-08-23T14:02:15.000Z"
+    },
+    {
       "id": "f1724a20",
       "filename": "pixiv_148780619_p0.jpg",
       "path": "uploads/2026/08/57d65b88.jpg",
