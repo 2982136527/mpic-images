@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "8c40b198",
+      "filename": "pixiv_148714599_p0.jpg",
+      "path": "uploads/2026/08/735620cc.jpg",
+      "size": 1207739,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3ffbc59a2c655e4cb0eb245a86737a94500b5e563f18ef377f5e34da7b5a358d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T01:46:47.156Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "サンドローネ",
+      "tags": [
+        "サンドローネ(原神)",
+        "原神",
+        "sandrone",
+        "女の子",
+        "少女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148714599_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148714599",
+      "sourceCreatedAt": "2026-08-21T15:00:34.000Z"
+    },
+    {
       "id": "7515da6a",
       "filename": "pixiv_148739674_p0.jpg",
       "path": "uploads/2026/08/c04a3d4f.jpg",
