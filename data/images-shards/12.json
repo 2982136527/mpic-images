@@ -3,6 +3,37 @@
   "shardId": "12",
   "images": [
     {
+      "id": "56bf2a1c",
+      "filename": "pixiv_148768079_p0.jpg",
+      "path": "uploads/2026/08/d1f61f59.jpg",
+      "size": 641368,
+      "width": 1200,
+      "height": 1023,
+      "mimeType": "image/jpeg",
+      "hash": "2ed71bc3be6b5c5e408b49f635f57497a694c93079a1f12485cdd005c5e6c94b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T09:01:52.095Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Angels of Delusion",
+      "tags": [
+        "ZenlessZoneZero",
+        "绝区零",
+        "ゼンレスゾーンゼロ",
+        "妄想エンジェル",
+        "アリア(ゼンゼロ)",
+        "アリア",
+        "南宮羽",
+        "千夏(ゼンゼロ)",
+        "Sunna",
+        "千夏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148768079_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148768079",
+      "sourceCreatedAt": "2026-08-22T21:08:30.000Z"
+    },
+    {
       "id": "bb726941",
       "filename": "pixiv_148807183_p0.jpg",
       "path": "uploads/2026/08/8e52e420.jpg",
