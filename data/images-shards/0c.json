@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "c11473e2",
+      "filename": "pixiv_148788206_p0.jpg",
+      "path": "uploads/2026/08/5ccb9251.jpg",
+      "size": 679679,
+      "width": 701,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "65006be4c19d85cdfb912ee500699210219635dcd23c0fbc7cd802e5c18b798e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T08:55:12.096Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "サユリ(ブルーアーカイブ)",
+        "ロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148788206_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148788206",
+      "sourceCreatedAt": "2026-08-23T09:38:10.000Z"
+    },
+    {
       "id": "80937eb7",
       "filename": "pixiv_148766420_p0.jpg",
       "path": "uploads/2026/08/241e920e.jpg",
