@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "8cc4ff34",
+      "filename": "pixiv_148818866_p0.jpg",
+      "path": "uploads/2026/08/4267bdd0.jpg",
+      "size": 376268,
+      "width": 800,
+      "height": 372,
+      "mimeType": "image/jpeg",
+      "hash": "0d47e7f0ad53d4cc349a936b63f2e3d4b97dc340d02d67a5c900a4837d38aea1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T16:52:29.160Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "FANBOX始めました",
+      "tags": [
+        "FANBOX"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148818866_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148818866",
+      "sourceCreatedAt": "2026-08-24T02:19:20.000Z"
+    },
+    {
       "id": "5393bd97",
       "filename": "pixiv_148745506_p0.jpg",
       "path": "uploads/2026/08/e86dca15.jpg",
