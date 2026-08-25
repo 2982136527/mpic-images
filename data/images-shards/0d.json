@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "7805a22d",
+      "filename": "pixiv_148776898_p0.jpg",
+      "path": "uploads/2026/08/b877b769.jpg",
+      "size": 596906,
+      "width": 600,
+      "height": 844,
+      "mimeType": "image/jpeg",
+      "hash": "d4ba69447e32ca928289b807a14d31bbc47fcdbe284dd81f669a223d5fc05495",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T09:00:02.640Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "LOCK ON一周年",
+      "tags": [
+        "天音かなた",
+        "ホロライブ",
+        "AZKi"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148776898_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148776898",
+      "sourceCreatedAt": "2026-08-23T03:38:14.000Z"
+    },
+    {
       "id": "c0e4a7a6",
       "filename": "pixiv_148830096_p0.jpg",
       "path": "uploads/2026/08/10d2f91a.jpg",
