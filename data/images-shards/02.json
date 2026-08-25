@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "2e51f797",
+      "filename": "pixiv_148827728_p0.jpg",
+      "path": "uploads/2026/08/2efbd002.jpg",
+      "size": 1228902,
+      "width": 672,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "add4a5912dae767d6aaa0e994e6481d1c46ff4f0aa42d5e5e63a1bd105d5dd89",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T09:00:45.291Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "清宵",
+        "鸣潮",
+        "鳴潮",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148827728_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148827728",
+      "sourceCreatedAt": "2026-08-24T08:59:29.000Z"
+    },
+    {
       "id": "f9cc1f9e",
       "filename": "pixiv_148830083_p0.jpg",
       "path": "uploads/2026/08/3403699b.jpg",
