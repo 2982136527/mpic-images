@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "cd70de36",
+      "filename": "pixiv_148762585_p0.jpg",
+      "path": "uploads/2026/08/c97fa546.jpg",
+      "size": 981473,
+      "width": 689,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9d807d931fcf5bb060e45c2a975ff82985cace2aa67d1cd5749ffa3fc33f1c7a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T16:50:16.322Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "女の子",
+        "エンドフィールド",
+        "Endfield"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148762585_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148762585",
+      "sourceCreatedAt": "2026-08-22T16:24:09.000Z"
+    },
+    {
       "id": "ccdb823d",
       "filename": "pixiv_148715762_p0.jpg",
       "path": "uploads/2026/08/817bc9de.jpg",
