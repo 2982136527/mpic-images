@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "7c2c8eb0",
+      "filename": "pixiv_148834170_p0.jpg",
+      "path": "uploads/2026/08/0a167a7c.jpg",
+      "size": 1828997,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "804a3b9f6e8989eb05304e443f05dc8946ab64b07668c5cf7344cf0b606f55a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T08:57:17.983Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "兎面🐇",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "兎面"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148834170_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148834170",
+      "sourceCreatedAt": "2026-08-24T11:45:48.000Z"
+    },
+    {
       "id": "447d467c",
       "filename": "pixiv_148822395_p0.jpg",
       "path": "uploads/2026/08/4c6e9821.jpg",
