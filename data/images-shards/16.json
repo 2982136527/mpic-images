@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "5f6bc1d2",
+      "filename": "pixiv_148805001_p0.jpg",
+      "path": "uploads/2026/08/3891947d.jpg",
+      "size": 700432,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7d6bb75a82b3246bb306e5b589652169f37f85fd3d5be8f2c38801084c0b9f99",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T16:56:40.428Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "アイちゃん落書き",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "アーモンドアイ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148805001_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148805001",
+      "sourceCreatedAt": "2026-08-23T15:06:03.000Z"
+    },
+    {
       "id": "bb2a8c4f",
       "filename": "pixiv_148805106_p0.jpg",
       "path": "uploads/2026/08/aa8f03df.jpg",
