@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "e416ed4e",
+      "filename": "pixiv_148775279_p0.jpg",
+      "path": "uploads/2026/08/926b8412.jpg",
+      "size": 1323071,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7673de603b05b41edf3ca81c2485f9255c6fb45fac9cd8fb36d71a7013e97d33",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T08:57:02.823Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "イブキ",
+      "tags": [
+        "イブキ(ブルーアーカイブ)",
+        "ブルーアーカイブ",
+        "丹花イブキ",
+        "金色ビキニ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148775279_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148775279",
+      "sourceCreatedAt": "2026-08-23T02:47:19.000Z"
+    },
+    {
       "id": "ff0afa7f",
       "filename": "pixiv_148800222_p0.jpg",
       "path": "uploads/2026/08/a66b6041.jpg",
