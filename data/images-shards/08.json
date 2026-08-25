@@ -3,6 +3,35 @@
   "shardId": "08",
   "images": [
     {
+      "id": "5d08c612",
+      "filename": "pixiv_148790177_p0.jpg",
+      "path": "uploads/2026/08/b767f0be.jpg",
+      "size": 635110,
+      "width": 1200,
+      "height": 778,
+      "mimeType": "image/jpeg",
+      "hash": "2cd61dcc83ed38b437bbd7738d50dfaca5510bcb02f826b8aee0889f0fceac39",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T08:56:19.650Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "青春をしてたんだ",
+      "tags": [
+        "ホロライブ",
+        "VTuber",
+        "絵フブキ",
+        "白上フブキ",
+        "FUWAMOCO",
+        "FWMCpix",
+        "終わりよければ全てよし",
+        "バーチャルYouTuber500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148790177_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148790177",
+      "sourceCreatedAt": "2026-08-23T10:25:17.000Z"
+    },
+    {
       "id": "200464c1",
       "filename": "pixiv_148779514_p0.jpg",
       "path": "uploads/2026/08/390fc170.jpg",
