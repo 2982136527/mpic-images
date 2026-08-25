@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "d383248a",
+      "filename": "pixiv_148762465_p0.jpg",
+      "path": "uploads/2026/08/1a39a344.jpg",
+      "size": 415474,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1824452c4090a04dbe6450454a09c48afbe735595b57a93b9f7c3217ca6adfbe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T16:49:26.656Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "maid hiro",
+      "tags": [
+        "学マス",
+        "学園アイドルマスター",
+        "篠澤広",
+        "うすほそ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148762465_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148762465",
+      "sourceCreatedAt": "2026-08-22T16:20:51.000Z"
+    },
+    {
       "id": "6af6767f",
       "filename": "pixiv_148827085_p0.jpg",
       "path": "uploads/2026/08/fd290524.jpg",
