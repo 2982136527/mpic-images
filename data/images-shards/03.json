@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "ff0afa7f",
+      "filename": "pixiv_148800222_p0.jpg",
+      "path": "uploads/2026/08/a66b6041.jpg",
+      "size": 929496,
+      "width": 906,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df191e69d164d0c790d0d63f715e8863f547128241d60cee0fec9a16ab5f2edc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T08:55:53.176Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "黒枝スイーツ",
+      "tags": [
+        "ゼンゼロ",
+        "プロメイア",
+        "クランプスの黒枝",
+        "ダイアリン",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148800222_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148800222",
+      "sourceCreatedAt": "2026-08-23T13:38:37.000Z"
+    },
+    {
       "id": "3780b646",
       "filename": "pixiv_148788054_p0.jpg",
       "path": "uploads/2026/08/cc9d2d1f.jpg",
