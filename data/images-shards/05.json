@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "6953dc35",
+      "filename": "pixiv_148834562_p0.jpg",
+      "path": "uploads/2026/08/a23e4b7e.jpg",
+      "size": 1368926,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "79c81b1fca72f9ad0a81312a2d8a2ef06afbeda5b3f91456a09a42bf8be011b1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T08:54:16.340Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ほぼナちゃん",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148834562_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148834562",
+      "sourceCreatedAt": "2026-08-24T11:55:25.000Z"
+    },
+    {
       "id": "243be5d9",
       "filename": "pixiv_148760921_p0.jpg",
       "path": "uploads/2026/08/7e3b48c9.jpg",
