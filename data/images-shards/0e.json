@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "894c9707",
+      "filename": "pixiv_148767822_p0.jpg",
+      "path": "uploads/2026/08/d75cd524.jpg",
+      "size": 867535,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c9061bdb520f26e88760d53d7dc8054d2470f6911aad05130746bc182f4e198b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T16:49:59.967Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "茫然",
+      "tags": [
+        "オリジナル",
+        "空",
+        "夕焼け"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148767822_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148767822",
+      "sourceCreatedAt": "2026-08-22T20:57:29.000Z"
+    },
+    {
       "id": "8a38ada4",
       "filename": "pixiv_148781681_p0.jpg",
       "path": "uploads/2026/08/f8f77313.jpg",
