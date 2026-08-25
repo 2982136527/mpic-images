@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "d431673f",
+      "filename": "pixiv_148819380_p0.jpg",
+      "path": "uploads/2026/08/949846c6.jpg",
+      "size": 663409,
+      "width": 812,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9cd3dd171b82abde4dd323cd620e8cac12c1e6c090631be839ba859425a76a22",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T16:57:34.023Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "画了巫女服羽毛笔",
+      "tags": [
+        "明日方舟",
+        "羽毛笔",
+        "ラ・プルマ(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148819380_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148819380",
+      "sourceCreatedAt": "2026-08-24T02:47:07.000Z"
+    },
+    {
       "id": "5f6bc1d2",
       "filename": "pixiv_148805001_p0.jpg",
       "path": "uploads/2026/08/3891947d.jpg",
