@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "2b670018",
+      "filename": "pixiv_148783062_p0.jpg",
+      "path": "uploads/2026/08/587b479e.jpg",
+      "size": 133892,
+      "width": 700,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "3d133a18885115fe9403880aeebee5d4bb730dea4ca4a9de69a7539b4f0fd6ec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T16:50:51.369Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "セミ帽子　セミTシャツ　つくったよ",
+      "tags": [
+        "蝉",
+        "セミ",
+        "semi"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148783062_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148783062",
+      "sourceCreatedAt": "2026-08-23T07:15:37.000Z"
+    },
+    {
       "id": "cd70de36",
       "filename": "pixiv_148762585_p0.jpg",
       "path": "uploads/2026/08/c97fa546.jpg",
