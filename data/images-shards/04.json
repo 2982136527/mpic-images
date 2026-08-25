@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "ccdb823d",
+      "filename": "pixiv_148715762_p0.jpg",
+      "path": "uploads/2026/08/817bc9de.jpg",
+      "size": 849744,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f2907de606c7b4cfa11ae34857c310a94e0016dd503cdd6cdb2ed4f6b5364bdf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T01:55:33.052Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バニ天",
+      "tags": [
+        "艦これ",
+        "天龍",
+        "艦々バニー",
+        "天龍(艦隊これくしょん)",
+        "天乳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148715762_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148715762",
+      "sourceCreatedAt": "2026-08-21T15:15:44.000Z"
+    },
+    {
       "id": "7e27eea5",
       "filename": "pixiv_148759064_p0.jpg",
       "path": "uploads/2026/08/8f8d406f.jpg",
