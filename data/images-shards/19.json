@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "29c0c7fb",
+      "filename": "pixiv_148821685_p0.jpg",
+      "path": "uploads/2026/08/865d1697.jpg",
+      "size": 1388175,
+      "width": 920,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b8cf599244cb608be95daa910772d26e33a0954f5253b0c2bf71b9c1f45eb711",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T16:52:35.405Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "acheron",
+      "tags": [
+        "illustration",
+        "HonkaiStarRail",
+        "Acheron"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148821685_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148821685",
+      "sourceCreatedAt": "2026-08-24T04:30:25.000Z"
+    },
+    {
       "id": "ce491aba",
       "filename": "pixiv_148772256_p0.jpg",
       "path": "uploads/2026/08/8e4f651b.jpg",
