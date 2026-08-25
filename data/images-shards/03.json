@@ -3,6 +3,34 @@
   "shardId": "03",
   "images": [
     {
+      "id": "52d23d0b",
+      "filename": "pixiv_148818400_p0.jpg",
+      "path": "uploads/2026/08/e412410a.jpg",
+      "size": 712199,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57c971c95974d6ca1d96cd44468b50a82b8668dcfeebed294d81f3529613fead",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T16:56:47.119Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ウマ娘5.5周年おめでとうございます!!!!!!!!!!!!!!",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "ルーラーシップ(ウマ娘)",
+        "アドマイヤグルーヴ(ウマ娘)",
+        "ウマ娘5.5周年",
+        "たわ家",
+        "パーティードレス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148818400_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148818400",
+      "sourceCreatedAt": "2026-08-24T01:57:33.000Z"
+    },
+    {
       "id": "b029298d",
       "filename": "pixiv_148774817_p0.jpg",
       "path": "uploads/2026/08/30d7a7e5.jpg",
