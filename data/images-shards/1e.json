@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "d6130fcc",
+      "filename": "pixiv_148830078_p0.jpg",
+      "path": "uploads/2026/08/825bbdf2.jpg",
+      "size": 810411,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "95662b524da19d93f179c01cd62dcb352a94260cfa66755b29ed00ae7fbd8f38",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T16:50:06.816Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "水槽",
+      "tags": [
+        "女の子",
+        "イラスト",
+        "オリジナル",
+        "オリジナルキャラクター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148830078_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148830078",
+      "sourceCreatedAt": "2026-08-24T10:02:04.000Z"
+    },
+    {
       "id": "d1b8f3f7",
       "filename": "pixiv_148769593_p0.jpg",
       "path": "uploads/2026/08/c13d251a.jpg",
