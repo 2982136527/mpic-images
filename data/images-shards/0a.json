@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "f7b1e915",
+      "filename": "pixiv_148828943_p0.jpg",
+      "path": "uploads/2026/08/83dc19ec.jpg",
+      "size": 664149,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "19d66f15d7779245e6aa0769de58e0ccccf2eabc2b930a2eb817bfdf5b1d5921",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T08:54:01.884Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "あやかし横丁の夏休み",
+      "tags": [
+        "プロセカ",
+        "プロジェクトセカイ",
+        "あやかし横丁の夏休み"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148828943_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148828943",
+      "sourceCreatedAt": "2026-08-24T09:30:10.000Z"
+    },
+    {
       "id": "42b43bc1",
       "filename": "pixiv_148744965_p0.jpg",
       "path": "uploads/2026/08/163a7a96.jpg",
