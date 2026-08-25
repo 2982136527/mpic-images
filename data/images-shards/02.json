@@ -3,6 +3,35 @@
   "shardId": "02",
   "images": [
     {
+      "id": "123bbda6",
+      "filename": "pixiv_148775830_p0.jpg",
+      "path": "uploads/2026/08/c5ef07fb.jpg",
+      "size": 118254,
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/jpeg",
+      "hash": "ef99070cd5066171f657510ed7993f5db721119cae9dfc21d30282a33d84eeec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T01:47:20.543Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夕空トーン03",
+      "tags": [
+        "漫画素材工房",
+        "ClipStudioPaint",
+        "ComicStudio",
+        "クリップスタジオ",
+        "コミックスタジオ",
+        "素材",
+        "トーン素材",
+        "空トーン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148775830_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148775830",
+      "sourceCreatedAt": "2026-08-23T03:01:20.000Z"
+    },
+    {
       "id": "a2e8ffbe",
       "filename": "pixiv_148739237_p0.jpg",
       "path": "uploads/2026/08/7dc3b448.jpg",
