@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "2d271f57",
+      "filename": "pixiv_148805730_p0.jpg",
+      "path": "uploads/2026/08/25511ad1.jpg",
+      "size": 698412,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3f86efd189e63ea13b207deffe7d62da447e0173ebcd79f6fcd038127c3df403",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T16:57:58.446Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "サユリ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "サユリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148805730_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148805730",
+      "sourceCreatedAt": "2026-08-23T15:21:44.000Z"
+    },
+    {
       "id": "09e75a20",
       "filename": "pixiv_148801439_p0.jpg",
       "path": "uploads/2026/08/35b3ac93.jpg",
