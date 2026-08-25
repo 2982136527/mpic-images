@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "15e5147b",
+      "filename": "pixiv_148806903_p0.jpg",
+      "path": "uploads/2026/08/6dc67ddd.jpg",
+      "size": 609048,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "279529166d90265394aa35a5db94575ccde5533889bfcd5fc31ca215fe44681b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T16:57:41.195Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ココロちゃん実装前らくがき",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "ココロ",
+        "渡海ココロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148806903_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148806903",
+      "sourceCreatedAt": "2026-08-23T15:49:11.000Z"
+    },
+    {
       "id": "402fa602",
       "filename": "pixiv_148824109_p0.jpg",
       "path": "uploads/2026/08/41a1b297.jpg",
