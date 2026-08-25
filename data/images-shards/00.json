@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "d02fb913",
+      "filename": "pixiv_148795475_p0.jpg",
+      "path": "uploads/2026/08/ef76bba6.jpg",
+      "size": 781881,
+      "width": 706,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "78cad7b23cc74bd40b338056f13fdf815ce18dc1cf884fdc572ddb2a9fe9ef54",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T08:57:34.011Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "夏の思い出",
+      "tags": [
+        "プリキュア",
+        "名探偵プリキュア!",
+        "森亜るるか",
+        "帆羽くれあ",
+        "るるくれ",
+        "くれるる"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148795475_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148795475",
+      "sourceCreatedAt": "2026-08-23T12:09:36.000Z"
+    },
+    {
       "id": "fef9859d",
       "filename": "pixiv_148808325_p0.jpg",
       "path": "uploads/2026/08/d3c16dd2.jpg",
