@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "bb726941",
+      "filename": "pixiv_148807183_p0.jpg",
+      "path": "uploads/2026/08/8e52e420.jpg",
+      "size": 764068,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9affb4a502926cb544ad3fbecf352082c3411cdbb3d24ff198bd2b56796f7e7b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T08:56:36.895Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "明日方舟",
+        "Arknights",
+        "アークナイツ",
+        "アンジェリーナ(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148807183_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148807183",
+      "sourceCreatedAt": "2026-08-23T15:57:24.000Z"
+    },
+    {
       "id": "bca5f7a5",
       "filename": "pixiv_148727838_p0.jpg",
       "path": "uploads/2026/08/0e162b54.jpg",
