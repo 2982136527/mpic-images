@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "52394baf",
+      "filename": "pixiv_148773551_p0.jpg",
+      "path": "uploads/2026/08/8ff6af19.jpg",
+      "size": 1208520,
+      "width": 826,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cdd20194808168ff680ac3dfa68694f8a9544e52f5260ecc1b0d8c339813dae9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T01:49:30.545Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "花火花",
+      "tags": [
+        "崩壊スターレイル",
+        "花火",
+        "火花(スターレイル)",
+        "花火(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148773551_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148773551",
+      "sourceCreatedAt": "2026-08-23T01:36:29.000Z"
+    },
+    {
       "id": "68720e0e",
       "filename": "pixiv_148747263_p0.jpg",
       "path": "uploads/2026/08/0b70def7.jpg",
