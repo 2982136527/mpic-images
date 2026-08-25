@@ -3,6 +3,34 @@
   "shardId": "12",
   "images": [
     {
+      "id": "bca5f7a5",
+      "filename": "pixiv_148727838_p0.jpg",
+      "path": "uploads/2026/08/0e162b54.jpg",
+      "size": 566594,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ab7662ee52eb13a48523f080c504f13d19162bfb6ac377ab69f1cf30cb73da9b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T01:50:16.215Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "lucy",
+      "tags": [
+        "ロリ",
+        "ZenlessZoneZero",
+        "ゼンゼロ",
+        "ゼンレスゾーンゼロ",
+        "ルーシー(ゼンゼロ)",
+        "プリンセスの休日",
+        "ルシアーナ・オクシスィース・テオドロ・デ・モンテフィーノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148727838_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148727838",
+      "sourceCreatedAt": "2026-08-22T00:04:17.000Z"
+    },
+    {
       "id": "52394baf",
       "filename": "pixiv_148773551_p0.jpg",
       "path": "uploads/2026/08/8ff6af19.jpg",
