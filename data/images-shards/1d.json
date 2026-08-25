@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "9faf2cbb",
+      "filename": "pixiv_148722400_p0.jpg",
+      "path": "uploads/2026/08/6a60e88c.jpg",
+      "size": 324720,
+      "width": 600,
+      "height": 500,
+      "mimeType": "image/jpeg",
+      "hash": "b6b77b4ae11595f3410406b1636512426152cf724834fec0cf56c7c4f8c58a2a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T01:51:09.736Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ペンペンねこ",
+      "tags": [
+        "ペンペンねこ",
+        "ヤニねこ",
+        "九条ナズナ",
+        "おっぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148722400_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148722400",
+      "sourceCreatedAt": "2026-08-21T19:01:18.000Z"
+    },
+    {
       "id": "3dc1d233",
       "filename": "pixiv_148761117_p0.jpg",
       "path": "uploads/2026/08/436fc424.jpg",
