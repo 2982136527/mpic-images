@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "7d859b44",
+      "filename": "pixiv_148744199_p0.jpg",
+      "path": "uploads/2026/08/0614d00f.jpg",
+      "size": 629430,
+      "width": 959,
+      "height": 1124,
+      "mimeType": "image/jpeg",
+      "hash": "a97c0af895a96399bc35d3618e02f53d7dd73405fed01609119684b84424ce4a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T01:47:43.039Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "オデット&ヴォ。",
+      "tags": [
+        "原神",
+        "オデット",
+        "ヴォジャニーツァ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148744199_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148744199",
+      "sourceCreatedAt": "2026-08-22T09:44:36.000Z"
+    },
+    {
       "id": "3aae18e5",
       "filename": "pixiv_148752743_p0.jpg",
       "path": "uploads/2026/08/e160a143.jpg",
