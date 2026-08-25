@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "3ba787ab",
+      "filename": "pixiv_148738706_p0.jpg",
+      "path": "uploads/2026/08/9c8c1bd4.jpg",
+      "size": 1309012,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "05f7f7dbf8ba6f3a96ea5b16e06981e5261b8e2c7884c65e3b682a75366b3aea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T01:48:15.296Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バニー",
+      "tags": [
+        "創作",
+        "男の子",
+        "少年",
+        "バニーの日",
+        "Femman"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148738706_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148738706",
+      "sourceCreatedAt": "2026-08-22T07:00:39.000Z"
+    },
+    {
       "id": "a320f84c",
       "filename": "pixiv_148734102_p0.jpg",
       "path": "uploads/2026/08/82b033c1.jpg",
