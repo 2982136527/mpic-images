@@ -3,6 +3,36 @@
   "shardId": "19",
   "images": [
     {
+      "id": "1fa4b03c",
+      "filename": "pixiv_148783849_p0.jpg",
+      "path": "uploads/2026/08/0dbd8162.jpg",
+      "size": 707869,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0b820a5b4d5535f9b593b57a480f03dbe984dfeb07c45177ef03cb54161d348d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-25T01:48:08.021Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "泣いて笑ってケンカして",
+      "tags": [
+        "名探偵プリキュア!",
+        "ど根性ガエル",
+        "ラクガキ",
+        "帆羽くれあ",
+        "森亜るるか",
+        "迷探偵プリキュア!",
+        "どっこい生きてる",
+        "混ぜるな不自然",
+        "これがやりたかっただけだろシリーズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148783849_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148783849",
+      "sourceCreatedAt": "2026-08-23T07:40:42.000Z"
+    },
+    {
       "id": "070b23b4",
       "filename": "pixiv_148758910_p0.jpg",
       "path": "uploads/2026/08/c8e08ed8.jpg",
