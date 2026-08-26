@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "a7e07515",
+      "filename": "pixiv_148873000_p0.jpg",
+      "path": "uploads/2026/08/009da3b2.jpg",
+      "size": 332731,
+      "width": 699,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c99d73285fccb5903bff61cc801cccbbc1153770e712ac93e97425e367f9d5f8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T16:58:05.610Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "サユリ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "サユリ(ブルーアーカイブ)",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148873000_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148873000",
+      "sourceCreatedAt": "2026-08-25T11:46:43.000Z"
+    },
+    {
       "id": "3dc9a9d5",
       "filename": "pixiv_147771512_p0.jpg",
       "path": "uploads/2026/08/32d6818e.jpg",
