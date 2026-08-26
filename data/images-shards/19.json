@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "3a29b211",
+      "filename": "pixiv_148865931_p0.jpg",
+      "path": "uploads/2026/08/b5dcc72c.jpg",
+      "size": 672272,
+      "width": 883,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a9c56a136c57da7cc9f2bb84bbee23915930ffb5243d71085122ebe69e2839c4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T16:57:21.996Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "お祝いいちる",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "りんごちゃん",
+        "白瀬いちる"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148865931_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148865931",
+      "sourceCreatedAt": "2026-08-25T08:43:03.000Z"
+    },
+    {
       "id": "bd1086cb",
       "filename": "pixiv_148855259_p0.jpg",
       "path": "uploads/2026/08/80f5cb94.jpg",
