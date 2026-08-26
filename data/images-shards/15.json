@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "7fbee9cd",
+      "filename": "pixiv_148844341_p0.jpg",
+      "path": "uploads/2026/08/46944233.jpg",
+      "size": 455545,
+      "width": 705,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d9e335c80830d9fc1d8326274a849f20e2b2e27475d3ae9bc91358e2344c9e2e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T08:58:37.819Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "JCミヤコ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "月雪ミヤコ",
+        "ぱんつ",
+        "ブルーアーカイブ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148844341_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148844341",
+      "sourceCreatedAt": "2026-08-24T15:10:01.000Z"
+    },
+    {
       "id": "e1be9c20",
       "filename": "pixiv_148828106_p0.jpg",
       "path": "uploads/2026/08/b82bd510.jpg",
