@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "f68cfabf",
+      "filename": "pixiv_148819368_p0.jpg",
+      "path": "uploads/2026/08/d79b53c0.jpg",
+      "size": 877048,
+      "width": 677,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c908fca761aebd7e2b0ad3f25a414be25b8d76ade906a28ca8c76bb1a6765a3e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T08:57:34.429Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ヴェネツィア",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148819368_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148819368",
+      "sourceCreatedAt": "2026-08-24T02:46:21.000Z"
+    },
+    {
       "id": "de98ed19",
       "filename": "pixiv_148838720_p0.jpg",
       "path": "uploads/2026/08/04acc11a.jpg",
