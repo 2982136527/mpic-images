@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "561bbd96",
+      "filename": "pixiv_148863479_p0.jpg",
+      "path": "uploads/2026/08/f09f13e8.jpg",
+      "size": 1344067,
+      "width": 870,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2cc3c87c188b722ff1c262fd187758d3b201deac5d1f5feaeaa3e300977fba6c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T09:01:43.995Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "拉矢也需坚定道心",
+      "tags": [
+        "女の子",
+        "清宵",
+        "鸣潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148863479_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148863479",
+      "sourceCreatedAt": "2026-08-25T07:02:10.000Z"
+    },
+    {
       "id": "12017137",
       "filename": "pixiv_148863335_p0.jpg",
       "path": "uploads/2026/08/65d6800e.jpg",
