@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "aa6f45d1",
+      "filename": "pixiv_148845010_p0.jpg",
+      "path": "uploads/2026/08/732b27b0.jpg",
+      "size": 1213135,
+      "width": 1200,
+      "height": 720,
+      "mimeType": "image/jpeg",
+      "hash": "b0bda1f4e5b5cb57ee18017d0e12441f8f659f0d5c5630ea10a3855b033a73b4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T08:55:25.219Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "私を連れて行って",
+      "tags": [
+        "VOCALOID",
+        "鏡音リン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148845010_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148845010",
+      "sourceCreatedAt": "2026-08-24T15:25:28.000Z"
+    },
+    {
       "id": "7bf57076",
       "filename": "pixiv_148823184_p0.jpg",
       "path": "uploads/2026/08/f33a3340.jpg",
