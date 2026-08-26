@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "742843a1",
+      "filename": "pixiv_148832489_p0.jpg",
+      "path": "uploads/2026/08/d008d2a1.jpg",
+      "size": 1339608,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "638b286ea32ec52588494172d639f319eb16ff022f527c22960e092b9405e04e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T01:56:15.467Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Lappland",
+      "tags": [
+        "ラップランド(アークナイツ)",
+        "Arknights",
+        "アークナイツ",
+        "明日方舟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148832489_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148832489",
+      "sourceCreatedAt": "2026-08-24T11:04:26.000Z"
+    },
+    {
       "id": "d431673f",
       "filename": "pixiv_148819380_p0.jpg",
       "path": "uploads/2026/08/949846c6.jpg",
