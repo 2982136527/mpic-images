@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "5fb70b27",
+      "filename": "pixiv_148824332_p0.jpg",
+      "path": "uploads/2026/08/7b5422f7.jpg",
+      "size": 1077093,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f5abd1fd3955abe2546d5d5501be8d1cee8165e08f2dfa08a6a69bcb33b14ea5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T08:56:40.439Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "井上織姫",
+      "tags": [
+        "BLEACH",
+        "BLEACH千年血戦篇",
+        "井上織姫",
+        "BLEACH100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148824332_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148824332",
+      "sourceCreatedAt": "2026-08-24T06:41:32.000Z"
+    },
+    {
       "id": "2da0f3b1",
       "filename": "pixiv_148804663_p0.jpg",
       "path": "uploads/2026/08/f7d82cab.jpg",
