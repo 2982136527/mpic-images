@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "0b0248af",
+      "filename": "pixiv_148817715_p0.jpg",
+      "path": "uploads/2026/08/e44255ac.jpg",
+      "size": 738445,
+      "width": 980,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1ce53ea688b6ab50c969ec1e4437c7e11ce2692047c147e3d1164e487746d111",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T17:00:13.228Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": ".",
+      "tags": [
+        "ホロライブ",
+        "hololive",
+        "一伊那尓栖",
+        "ぱんつ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148817715_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148817715",
+      "sourceCreatedAt": "2026-08-24T01:17:49.000Z"
+    },
+    {
       "id": "c130e6d7",
       "filename": "pixiv_148851285_p0.jpg",
       "path": "uploads/2026/08/a07a2ab1.jpg",
