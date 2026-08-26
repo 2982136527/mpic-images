@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "0a303db8",
+      "filename": "pixiv_148816974_p0.jpg",
+      "path": "uploads/2026/08/555f46ac.jpg",
+      "size": 359077,
+      "width": 600,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "5c4ff0f6f76edbab88d078ac8fbd9d6bb554f6292dbeabd64337fe2563f895f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T01:55:34.338Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "インター熱湯サバイバー",
+      "tags": [
+        "東方",
+        "フランドール・スカーレット",
+        "インターネットフラン",
+        "インターネットサバイバー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148816974_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148816974",
+      "sourceCreatedAt": "2026-08-24T00:30:39.000Z"
+    },
+    {
       "id": "b59c1443",
       "filename": "pixiv_148796036_p0.jpg",
       "path": "uploads/2026/08/b893c8f9.jpg",
