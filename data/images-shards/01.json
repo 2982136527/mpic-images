@@ -3,6 +3,28 @@
   "shardId": "01",
   "images": [
     {
+      "id": "98285304",
+      "filename": "pixiv_148791077_p0.jpg",
+      "path": "uploads/2026/08/bdc37a6e.jpg",
+      "size": 1119709,
+      "width": 824,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0fcbb57f8b4546aa9276d4bdc181c4f52c499c96d774faccbc8ddf4ec997e885",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T01:53:13.896Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ほのろぐ",
+      "tags": [
+        "ほの暮しの庭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148791077_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148791077",
+      "sourceCreatedAt": "2026-08-23T10:46:26.000Z"
+    },
+    {
       "id": "c5a83fe8",
       "filename": "pixiv_148762145_p0.jpg",
       "path": "uploads/2026/08/3489df11.jpg",
