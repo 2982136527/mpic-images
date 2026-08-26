@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "fb8b1ddc",
+      "filename": "pixiv_148877088_p0.jpg",
+      "path": "uploads/2026/08/6867f5fe.jpg",
+      "size": 976110,
+      "width": 909,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "839afea96c0d197131965e788a013563b60d37d6e8693412d2e4e4f8d4d84409",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T08:59:47.216Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ピュロたん",
+      "tags": [
+        "ゼンゼロ",
+        "ピュロイス",
+        "儀玄",
+        "リン(ゼンゼロ)",
+        "アキラ(ゼンゼロ)",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148877088_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148877088",
+      "sourceCreatedAt": "2026-08-25T13:08:22.000Z"
+    },
+    {
       "id": "cc3c8291",
       "filename": "pixiv_148812417_p0.jpg",
       "path": "uploads/2026/08/c21d4897.jpg",
