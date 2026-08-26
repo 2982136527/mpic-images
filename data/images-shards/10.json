@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "fb43df81",
+      "filename": "pixiv_148781220_p0.jpg",
+      "path": "uploads/2026/08/848dc2ab.jpg",
+      "size": 799052,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1189a671c34757435bfcdd9f711ce7f551d035e861bb689593d5afad8e3c1cb4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T01:53:59.249Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "バニーの日",
+      "tags": [
+        "少年",
+        "バニー",
+        "ホープ戦士",
+        "赤髪",
+        "男の娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148781220_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148781220",
+      "sourceCreatedAt": "2026-08-23T06:13:11.000Z"
+    },
+    {
       "id": "10e739f6",
       "filename": "pixiv_148821605_p0.jpg",
       "path": "uploads/2026/08/02420388.jpg",
