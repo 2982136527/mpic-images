@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "4d7e6f1a",
+      "filename": "pixiv_148833135_p0.jpg",
+      "path": "uploads/2026/08/8da7cf45.jpg",
+      "size": 821246,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4cce1363f4b784351c8b0585017e2f64173b2eb8d1384b940730de2b0990ed4a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T17:01:14.076Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "藤田ことねと夏休み",
+      "tags": [
+        "学園アイドルマスター",
+        "藤田ことね"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148833135_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148833135",
+      "sourceCreatedAt": "2026-08-24T11:21:13.000Z"
+    },
+    {
       "id": "3c52d3dd",
       "filename": "pixiv_148831993_p0.jpg",
       "path": "uploads/2026/08/1f65fcba.jpg",
