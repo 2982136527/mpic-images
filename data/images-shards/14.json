@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "3c52d3dd",
+      "filename": "pixiv_148831993_p0.jpg",
+      "path": "uploads/2026/08/1f65fcba.jpg",
+      "size": 245328,
+      "width": 1024,
+      "height": 1024,
+      "mimeType": "image/jpeg",
+      "hash": "4dece3afcf17680fb169b03a53759ec1166852f36c3286f9916118e20ecbf889",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T17:00:21.150Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ヤクねこ",
+      "tags": [
+        "ヤニねこ",
+        "ヤクねこ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148831993_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148831993",
+      "sourceCreatedAt": "2026-08-24T10:58:42.000Z"
+    },
+    {
       "id": "fe8ad41b",
       "filename": "pixiv_148869026_p0.jpg",
       "path": "uploads/2026/08/c88058b4.jpg",
