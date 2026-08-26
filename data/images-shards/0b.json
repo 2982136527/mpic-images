@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "2da0f3b1",
+      "filename": "pixiv_148804663_p0.jpg",
+      "path": "uploads/2026/08/f7d82cab.jpg",
+      "size": 950008,
+      "width": 1200,
+      "height": 988,
+      "mimeType": "image/jpeg",
+      "hash": "8c1d092f9d5c98ec75ee114b08e4995e9c3b70edf5d7f467511057939dd8dd4d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T01:51:40.799Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "【CR_XXDay】山の日",
+      "tags": [
+        "CrazyRaccoon",
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148804663_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148804663",
+      "sourceCreatedAt": "2026-08-23T15:02:00.000Z"
+    },
+    {
       "id": "76904d8f",
       "filename": "pixiv_148733257_p0.jpg",
       "path": "uploads/2026/08/55513df9.jpg",
