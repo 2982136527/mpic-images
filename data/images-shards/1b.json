@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "c93acaf5",
+      "filename": "pixiv_148805184_p0.jpg",
+      "path": "uploads/2026/08/d886023d.jpg",
+      "size": 1563531,
+      "width": 1067,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fd68f19bea759792d52f615c679a5844e45d7c1f1959eaadf9cd840f16d92ffd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T08:55:59.632Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "「！」",
+      "tags": [
+        "VOCALOID",
+        "モニタリング",
+        "モニタリング(DECO*27)",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148805184_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148805184",
+      "sourceCreatedAt": "2026-08-23T15:09:48.000Z"
+    },
+    {
       "id": "81804677",
       "filename": "pixiv_148834220_p0.jpg",
       "path": "uploads/2026/08/8c94cec7.jpg",
