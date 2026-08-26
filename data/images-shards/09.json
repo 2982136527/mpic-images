@@ -3,6 +3,33 @@
   "shardId": "09",
   "images": [
     {
+      "id": "0fc5e401",
+      "filename": "pixiv_148843560_p0.jpg",
+      "path": "uploads/2026/08/e0b198d9.jpg",
+      "size": 1410182,
+      "width": 744,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d64e58706e451b7351523699ab311dd38ad20436fd045af089f7ba1bfece4125",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T16:58:55.164Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Heartbloom",
+      "tags": [
+        "女の子",
+        "縦ロール",
+        "ピンク髪",
+        "薔薇",
+        "リボン",
+        "シャンデリア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148843560_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148843560",
+      "sourceCreatedAt": "2026-08-24T15:00:15.000Z"
+    },
+    {
       "id": "6d9920ed",
       "filename": "pixiv_148857877_p0.jpg",
       "path": "uploads/2026/08/af7c30bb.jpg",
