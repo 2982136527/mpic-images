@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "b03c4d2a",
+      "filename": "pixiv_148849818_p0.jpg",
+      "path": "uploads/2026/08/4da25fb2.jpg",
+      "size": 586365,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "832328c40f0951c2a74251ba78bafe07d4377b1c518c85052efeff44ab21e0bc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T08:59:23.772Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "最近のらくがきまとめ",
+      "tags": [
+        "リズム天国",
+        "リズム天国ミラクルスターズ",
+        "ビートスペル",
+        "ユウ(リズム天国)",
+        "ナーラ(リズム天国)",
+        "レーナ(リズム天国)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148849818_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148849818",
+      "sourceCreatedAt": "2026-08-24T18:25:46.000Z"
+    },
+    {
       "id": "7a4c5f52",
       "filename": "pixiv_148842664_p0.jpg",
       "path": "uploads/2026/08/e1b5f38e.jpg",
