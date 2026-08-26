@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "14f8feb7",
+      "filename": "pixiv_148846281_p0.jpg",
+      "path": "uploads/2026/08/2963f00f.jpg",
+      "size": 576458,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9fd01b49d1d58eae3f487a76a0a96c549678174a3080c9672b34072e6f870e1e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T09:02:07.196Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "リリーホワイト",
+        "東方",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148846281_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148846281",
+      "sourceCreatedAt": "2026-08-24T15:59:15.000Z"
+    },
+    {
       "id": "e3471aa4",
       "filename": "pixiv_147771107_p0.jpg",
       "path": "uploads/2026/08/85f04320.jpg",
