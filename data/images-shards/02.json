@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "9884c68d",
+      "filename": "pixiv_148770326_p0.jpg",
+      "path": "uploads/2026/08/6c7ed1b8.jpg",
+      "size": 421856,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d32ef1892e18ef50ff887778c404e038fadce0ff3b527a9e9d4853cbb167e618",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T01:52:45.158Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ぴーす",
+      "tags": [
+        "学園アイドルマスター",
+        "篠澤広",
+        "うすほそ",
+        "skinny"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148770326_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148770326",
+      "sourceCreatedAt": "2026-08-22T23:09:11.000Z"
+    },
+    {
       "id": "6e9f23fe",
       "filename": "pixiv_148804539_p0.jpg",
       "path": "uploads/2026/08/463174bb.jpg",
