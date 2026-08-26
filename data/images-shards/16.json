@@ -3,6 +3,36 @@
   "shardId": "16",
   "images": [
     {
+      "id": "6cdd3b5f",
+      "filename": "pixiv_148867993_p0.jpg",
+      "path": "uploads/2026/08/fecbd7af.jpg",
+      "size": 1456426,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f5ee2f1a7bd70c494a9384f74648017ca2042ea0faa758ca99fbffd95f2983d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T09:00:12.146Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ケイちゃんとゲーム開発部",
+      "tags": [
+        "新刊",
+        "天童ケイ",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "白タイツ",
+        "天童アリス",
+        "花岡ユズ",
+        "才羽モモイ",
+        "才羽ミドリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148867993_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148867993",
+      "sourceCreatedAt": "2026-08-25T09:43:35.000Z"
+    },
+    {
       "id": "b03c4d2a",
       "filename": "pixiv_148849818_p0.jpg",
       "path": "uploads/2026/08/4da25fb2.jpg",
