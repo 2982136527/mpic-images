@@ -3,6 +3,33 @@
   "shardId": "18",
   "images": [
     {
+      "id": "a0b565de",
+      "filename": "pixiv_148830142_p0.jpg",
+      "path": "uploads/2026/08/f8c55cfa.jpg",
+      "size": 726156,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cb38108e62fd0b2d6e3585ab17fc3625fe6b08275cf963fba34d2393deb7d42f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T16:58:47.107Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "流しきーつね。",
+      "tags": [
+        "ホロライブ",
+        "VTuber",
+        "hololive",
+        "白上フブキ",
+        "水着",
+        "獣耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148830142_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148830142",
+      "sourceCreatedAt": "2026-08-24T10:03:33.000Z"
+    },
+    {
       "id": "b4810529",
       "filename": "pixiv_148808614_p0.jpg",
       "path": "uploads/2026/08/bf4efb74.jpg",
