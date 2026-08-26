@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "2c4bcc60",
+      "filename": "pixiv_148822541_p0.jpg",
+      "path": "uploads/2026/08/6ae8d5bc.jpg",
+      "size": 688533,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "78ab6cbb1c9d126e59243366ea89efa5a3eb2e9e715b9966030369ec17a62cf3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T17:00:58.554Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Cat Cafe",
+      "tags": [
+        "女の子",
+        "OC",
+        "猫"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148822541_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148822541",
+      "sourceCreatedAt": "2026-08-24T05:11:13.000Z"
+    },
+    {
       "id": "ab7e10a6",
       "filename": "pixiv_148839096_p0.jpg",
       "path": "uploads/2026/08/1119a4b1.jpg",
