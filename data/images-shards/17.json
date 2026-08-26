@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "9ce3f138",
+      "filename": "pixiv_148845206_p0.jpg",
+      "path": "uploads/2026/08/175af02b.jpg",
+      "size": 1509982,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cfc04f7584131c3af80f3657be6b130d11886e9a342f39c0448dcbf790f62a98",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T08:56:05.331Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "収容班",
+      "tags": [
+        "オリジナル",
+        "ReSURGUM",
+        "魔法少女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148845206_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148845206",
+      "sourceCreatedAt": "2026-08-24T15:30:03.000Z"
+    },
+    {
       "id": "db2b4aae",
       "filename": "pixiv_148812688_p0.jpg",
       "path": "uploads/2026/08/a219b2cf.jpg",
