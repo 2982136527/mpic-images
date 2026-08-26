@@ -3,6 +3,35 @@
   "shardId": "15",
   "images": [
     {
+      "id": "e1be9c20",
+      "filename": "pixiv_148828106_p0.jpg",
+      "path": "uploads/2026/08/b82bd510.jpg",
+      "size": 754001,
+      "width": 1200,
+      "height": 567,
+      "mimeType": "image/jpeg",
+      "hash": "31283a5c18d2705d53253d0923978156724741ac2a11aae097ba94db799ddfe9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T01:54:44.572Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Remielle Dan",
+      "tags": [
+        "レミエール・ダン",
+        "レミエール",
+        "RemielleDan",
+        "ZenlessZoneZero",
+        "ゼンゼロ",
+        "同人",
+        "原创",
+        "AIイラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148828106_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148828106",
+      "sourceCreatedAt": "2026-08-24T09:03:54.000Z"
+    },
+    {
       "id": "cdb93a14",
       "filename": "pixiv_148795291_p0.jpg",
       "path": "uploads/2026/08/de514668.jpg",
