@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "7bf57076",
+      "filename": "pixiv_148823184_p0.jpg",
+      "path": "uploads/2026/08/f33a3340.jpg",
+      "size": 554459,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "13a4221e4ac2556c25a5713ae5c153d96b4af0a2cedd9519fab3dfcdee8709c0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T01:58:44.504Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ミヨちゃんバースデー",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "ミヨ",
+        "桜井ミヨ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148823184_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148823184",
+      "sourceCreatedAt": "2026-08-24T05:42:56.000Z"
+    },
+    {
       "id": "2d271f57",
       "filename": "pixiv_148805730_p0.jpg",
       "path": "uploads/2026/08/25511ad1.jpg",
