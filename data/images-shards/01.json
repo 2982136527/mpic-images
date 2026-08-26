@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "d9d48ccb",
+      "filename": "pixiv_148831794_p0.jpg",
+      "path": "uploads/2026/08/91cefd9f.jpg",
+      "size": 1260097,
+      "width": 1179,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fc6e3a6d2058bd7d273b5e1056682059e2ea3de525c020647d9b593077fd9246",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T08:56:23.621Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "冥日2026",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "天体擬人化"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148831794_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148831794",
+      "sourceCreatedAt": "2026-08-24T10:53:19.000Z"
+    },
+    {
       "id": "2f903ce0",
       "filename": "pixiv_148826576_p0.jpg",
       "path": "uploads/2026/08/28b7aa27.jpg",
