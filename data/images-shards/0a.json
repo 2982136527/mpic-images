@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "1db33d6a",
+      "filename": "pixiv_148862987_p0.jpg",
+      "path": "uploads/2026/08/452c63ae.jpg",
+      "size": 498677,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c8e8120773d4d928b182e385a351712b3c8fabc28c6a75886c35e7bf740c28d9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T08:56:51.636Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "浪狼さん",
+      "tags": [
+        "千仙戦記",
+        "莫浪狼",
+        "慧兎"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148862987_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148862987",
+      "sourceCreatedAt": "2026-08-25T06:40:33.000Z"
+    },
+    {
       "id": "5f64ac6f",
       "filename": "pixiv_148805242_p0.jpg",
       "path": "uploads/2026/08/84859ccc.jpg",
