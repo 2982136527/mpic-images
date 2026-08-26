@@ -3,6 +3,32 @@
   "shardId": "06",
   "images": [
     {
+      "id": "ab7e10a6",
+      "filename": "pixiv_148839096_p0.jpg",
+      "path": "uploads/2026/08/1119a4b1.jpg",
+      "size": 119631,
+      "width": 768,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "0c2c6372882bc0c17e611be1e21f0ded758d925067f512a0358fb4fc899c4c83",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T16:58:31.385Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "にぎわい",
+      "tags": [
+        "オリジナル",
+        "イラスト",
+        "うさぎ",
+        "ゆるい",
+        "シンプル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148839096_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148839096",
+      "sourceCreatedAt": "2026-08-24T13:26:03.000Z"
+    },
+    {
       "id": "b71195ed",
       "filename": "pixiv_148660044_p0.jpg",
       "path": "uploads/2026/08/8d2c9e2e.jpg",
