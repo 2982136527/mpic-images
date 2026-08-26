@@ -3,6 +3,28 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "f4efbfcc",
+      "filename": "pixiv_148865912_p0.jpg",
+      "path": "uploads/2026/08/d7a78d52.jpg",
+      "size": 618747,
+      "width": 800,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "f9160e63e52836987f0115e8138638729584abcb77300456b7cc7cf189e4fa54",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T16:59:03.540Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "雑多多多",
+      "tags": [
+        "ウルトラマン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148865912_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148865912",
+      "sourceCreatedAt": "2026-08-25T08:42:12.000Z"
+    },
+    {
       "id": "01f1dec3",
       "filename": "pixiv_148813637_p0.jpg",
       "path": "uploads/2026/08/0238c0bf.jpg",
