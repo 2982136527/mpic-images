@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "435bb1a1",
+      "filename": "pixiv_148846229_p0.jpg",
+      "path": "uploads/2026/08/732f4750.jpg",
+      "size": 656574,
+      "width": 1040,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dfc9a2a167bec8f1b287b08f8469821282ce8c5ecc3cddb554b0f2bbeef50ea8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T08:57:46.462Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "セイレーンちゃん LOG　(夢アリ)",
+      "tags": [
+        "ちいかわ",
+        "セイレーン(ちいかわ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148846229_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148846229",
+      "sourceCreatedAt": "2026-08-24T15:58:38.000Z"
+    },
+    {
       "id": "a7358238",
       "filename": "pixiv_148835286_p0.jpg",
       "path": "uploads/2026/08/248c9819.jpg",
