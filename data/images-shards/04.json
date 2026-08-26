@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "6e0f0ff6",
+      "filename": "pixiv_148844513_p0.jpg",
+      "path": "uploads/2026/08/3123b704.jpg",
+      "size": 935396,
+      "width": 883,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "29fd8718fc313cdc0e11e66f8e3bd8c8573d83dd41db9995d6a207b28f1d2252",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T17:04:08.248Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "パサデナ",
+      "tags": [
+        "パサデナ(アズールレーン)",
+        "アズールレーン",
+        "azurlane",
+        "アズールレーン100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148844513_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148844513",
+      "sourceCreatedAt": "2026-08-24T15:13:32.000Z"
+    },
+    {
       "id": "586a79bb",
       "filename": "pixiv_148864632_p0.jpg",
       "path": "uploads/2026/08/cb9ac17a.jpg",
