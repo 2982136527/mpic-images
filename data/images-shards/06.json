@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "ae9f06a4",
+      "filename": "pixiv_148870391_p0.jpg",
+      "path": "uploads/2026/08/d649d70f.jpg",
+      "size": 804001,
+      "width": 1026,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1a245a290c73999f8cb30c9505f80c3ae5ec8277c3b14d07a2fd416188488dfb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T09:01:20.794Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "アークナイツ:エンドフィールド",
+        "アークナイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148870391_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148870391",
+      "sourceCreatedAt": "2026-08-25T10:49:08.000Z"
+    },
+    {
       "id": "a286f659",
       "filename": "pixiv_148792396_p0.jpg",
       "path": "uploads/2026/08/96eb7e08.jpg",
