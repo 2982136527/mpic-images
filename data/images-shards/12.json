@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "ae11ca3d",
+      "filename": "pixiv_148832959_p0.jpg",
+      "path": "uploads/2026/08/90cd513a.jpg",
+      "size": 661708,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b88e9d6591296fc4db026834426c3c34f2246bf6a95399bf8bef82e0b41615f0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T08:59:41.073Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "小森",
+      "tags": [
+        "小森スミカ",
+        "ブルーアーカイブ",
+        "ブルアカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148832959_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148832959",
+      "sourceCreatedAt": "2026-08-24T11:16:19.000Z"
+    },
+    {
       "id": "119a0bec",
       "filename": "pixiv_148828842_p0.jpg",
       "path": "uploads/2026/08/450ac8f7.jpg",
