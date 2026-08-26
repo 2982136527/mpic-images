@@ -3,6 +3,34 @@
   "shardId": "01",
   "images": [
     {
+      "id": "391f2d74",
+      "filename": "pixiv_148848306_p0.jpg",
+      "path": "uploads/2026/08/ed0a2e8e.jpg",
+      "size": 1483384,
+      "width": 1000,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7d1b3177595d1672188b39987faa06b1f17083c36ecbab0624024481fcbf48cb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T09:01:02.445Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ランエジ絵チャログ",
+      "tags": [
+        "VOCALOID",
+        "鏡音レン",
+        "ホーリィランサー",
+        "ホワイトエッジ",
+        "ランエジ",
+        "レンレン",
+        "腐向け"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148848306_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148848306",
+      "sourceCreatedAt": "2026-08-24T17:06:44.000Z"
+    },
+    {
       "id": "e1475740",
       "filename": "pixiv_148843450_p0.jpg",
       "path": "uploads/2026/08/99272de0.jpg",
