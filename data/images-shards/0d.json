@@ -3,6 +3,28 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "c9bbbea2",
+      "filename": "pixiv_148835868_p0.jpg",
+      "path": "uploads/2026/08/49bc918a.jpg",
+      "size": 1043106,
+      "width": 629,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ebdca10fbf0d1323db0c86e0e33e8253ab1a9bb39dfa3b066f9e62c40e049772",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T08:58:14.328Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "いちご味",
+      "tags": [
+        "超かぐや姫!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148835868_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148835868",
+      "sourceCreatedAt": "2026-08-24T12:18:29.000Z"
+    },
+    {
       "id": "c0bca21a",
       "filename": "pixiv_148869267_p0.jpg",
       "path": "uploads/2026/08/37e55ac2.jpg",
