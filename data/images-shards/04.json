@@ -3,6 +3,33 @@
   "shardId": "04",
   "images": [
     {
+      "id": "586a79bb",
+      "filename": "pixiv_148864632_p0.jpg",
+      "path": "uploads/2026/08/cb9ac17a.jpg",
+      "size": 1218440,
+      "width": 1200,
+      "height": 828,
+      "mimeType": "image/jpeg",
+      "hash": "1740a61a44dbb9cc3e2359274d407dedc0e4b1735fb9e519fff1c8a8d791589a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T09:01:55.499Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "桜",
+      "tags": [
+        "小鳥遊ホシノ",
+        "BlueArchive",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "少女",
+        "桜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148864632_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148864632",
+      "sourceCreatedAt": "2026-08-25T07:53:27.000Z"
+    },
+    {
       "id": "6a3d4d40",
       "filename": "pixiv_148823838_p0.jpg",
       "path": "uploads/2026/08/d89981ff.jpg",
