@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "1b715bc0",
+      "filename": "pixiv_148824137_p0.jpg",
+      "path": "uploads/2026/08/45e67de2.jpg",
+      "size": 462713,
+      "width": 768,
+      "height": 1024,
+      "mimeType": "image/jpeg",
+      "hash": "51daca651fda997d0f98f715cb1c64ec54cc1446288b00b700d13640648b2913",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-26T17:00:02.464Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Xで描いていたもの3",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148824137_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148824137",
+      "sourceCreatedAt": "2026-08-24T06:31:16.000Z"
+    },
+    {
       "id": "93687ae2",
       "filename": "pixiv_148817943_p0.jpg",
       "path": "uploads/2026/08/4a85b3ed.jpg",
