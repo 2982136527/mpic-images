@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "8a033221",
+      "filename": "pixiv_148876430_p0.jpg",
+      "path": "uploads/2026/08/59e90172.jpg",
+      "size": 1007339,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6ed59fc382fb71214ffcc2cf08613f4bca2fc135bc676fe4467b53d2a85b2ded",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:30:11.778Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "星芒",
+      "tags": [
+        "東方Project",
+        "東方",
+        "霧雨魔理沙",
+        "魔理沙"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148876430_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148876430",
+      "sourceCreatedAt": "2026-08-25T12:57:14.000Z"
+    },
+    {
       "id": "44fda0e3",
       "filename": "pixiv_148872885_p0.jpg",
       "path": "uploads/2026/08/037e1f14.jpg",
