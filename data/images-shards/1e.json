@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "18c2b60d",
+      "filename": "pixiv_148868848_p0.jpg",
+      "path": "uploads/2026/08/9af33ff6.jpg",
+      "size": 1150691,
+      "width": 726,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a6616b2510de17390ddb013fe319df0923ba442fea9b607af3b3795da701e3f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:31:20.187Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "カレン",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "明楽カレン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148868848_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148868848",
+      "sourceCreatedAt": "2026-08-25T10:03:21.000Z"
+    },
+    {
       "id": "0b0248af",
       "filename": "pixiv_148817715_p0.jpg",
       "path": "uploads/2026/08/e44255ac.jpg",
