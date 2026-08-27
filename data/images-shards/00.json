@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "d2ba99f0",
+      "filename": "pixiv_148867764_p0.jpg",
+      "path": "uploads/2026/08/7c36be8f.jpg",
+      "size": 435609,
+      "width": 819,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2ff9e2b7d35bc402da86084dbf0293bf0eb1d7a05ef3fea149d57319a7844151",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:32:53.662Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "パーカー着たサユリ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "サユリ(ブルーアーカイブ)",
+        "うすほそ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148867764_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148867764",
+      "sourceCreatedAt": "2026-08-25T09:35:12.000Z"
+    },
+    {
       "id": "7e078d1a",
       "filename": "pixiv_148852500_p0.jpg",
       "path": "uploads/2026/08/db4ddcc2.jpg",
