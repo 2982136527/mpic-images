@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "44fda0e3",
+      "filename": "pixiv_148872885_p0.jpg",
+      "path": "uploads/2026/08/037e1f14.jpg",
+      "size": 1348513,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "53341c41098d4b6052826105d52a74900aab9a8cac31f3e7fccf23a6fbc61c92",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:29:36.936Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "原神イラストまとめ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148872885_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148872885",
+      "sourceCreatedAt": "2026-08-25T11:43:48.000Z"
+    },
+    {
       "id": "077d26b8",
       "filename": "pixiv_148835305_p0.jpg",
       "path": "uploads/2026/08/a9b04e86.jpg",
