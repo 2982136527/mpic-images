@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "ae196920",
+      "filename": "pixiv_148909294_p0.jpg",
+      "path": "uploads/2026/08/c8dbb882.jpg",
+      "size": 301738,
+      "width": 658,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "246898acea0829031b93b65973a8ceb5bbf42cd84a341cbf752649076fa81926",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:26:35.304Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "気だるげガール",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "女子校生"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148909294_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148909294",
+      "sourceCreatedAt": "2026-08-26T11:00:51.000Z"
+    },
+    {
       "id": "c93acaf5",
       "filename": "pixiv_148805184_p0.jpg",
       "path": "uploads/2026/08/d886023d.jpg",
