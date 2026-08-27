@@ -3,6 +3,33 @@
   "shardId": "12",
   "images": [
     {
+      "id": "db40f62c",
+      "filename": "pixiv_148900603_p0.jpg",
+      "path": "uploads/2026/08/501ace20.jpg",
+      "size": 318242,
+      "width": 821,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "99638891292b414aeeba4caf1692783e0d5e915d6a5577e6ecff15be3da23106",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:32:41.693Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "스트리머",
+        "Vtuber",
+        "女の子",
+        "バーチャルYouTuber",
+        "망내",
+        "韓国VTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148900603_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148900603",
+      "sourceCreatedAt": "2026-08-26T06:03:16.000Z"
+    },
+    {
       "id": "53bf79af",
       "filename": "pixiv_148903730_p0.jpg",
       "path": "uploads/2026/08/8d657cb5.jpg",
