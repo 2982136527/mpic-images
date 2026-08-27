@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "140ddc05",
+      "filename": "pixiv_148863729_p0.jpg",
+      "path": "uploads/2026/08/4cf7e498.jpg",
+      "size": 474738,
+      "width": 800,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "d27cec1069f46da906bcd72b530611c3df6c8415e3846394d2b86c7c8815bc98",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:26:50.329Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ヴォジャ？",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ヴォジャニーツァ",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148863729_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148863729",
+      "sourceCreatedAt": "2026-08-25T07:13:20.000Z"
+    },
+    {
       "id": "f0f4198d",
       "filename": "pixiv_148834492_p0.jpg",
       "path": "uploads/2026/08/a1971bf1.jpg",
