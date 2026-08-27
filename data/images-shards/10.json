@@ -3,6 +3,34 @@
   "shardId": "10",
   "images": [
     {
+      "id": "1cceada7",
+      "filename": "pixiv_148889551_p0.jpg",
+      "path": "uploads/2026/08/30303784.jpg",
+      "size": 547247,
+      "width": 1200,
+      "height": 934,
+      "mimeType": "image/jpeg",
+      "hash": "f3b0d1a71fe213fe681a9a0fb7f127d949e18daacb377c5af4367a43febc5728",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:33:19.818Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "摸鱼",
+      "tags": [
+        "東方Project",
+        "東方",
+        "女の子",
+        "可愛い",
+        "ロリ",
+        "同人",
+        "清蘭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148889551_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148889551",
+      "sourceCreatedAt": "2026-08-25T20:10:01.000Z"
+    },
+    {
       "id": "036ffe07",
       "filename": "pixiv_148905583_p0.jpg",
       "path": "uploads/2026/08/2c00c382.jpg",
