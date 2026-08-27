@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "d0d7dc39",
+      "filename": "pixiv_148900435_p0.jpg",
+      "path": "uploads/2026/08/0f64557f.jpg",
+      "size": 975151,
+      "width": 1200,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "d4ad8539ecdbab3665ac991503df187cbb31c89e0524f46a1f694ce89f7bed8c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:32:31.461Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ミティヤ",
+      "tags": [
+        "原神",
+        "ミティヤ",
+        "Mitya"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148900435_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148900435",
+      "sourceCreatedAt": "2026-08-26T05:58:48.000Z"
+    },
+    {
       "id": "3c26a1d6",
       "filename": "pixiv_148843635_p0.jpg",
       "path": "uploads/2026/08/3cd98381.jpg",
