@@ -3,6 +3,33 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "3b9ef525",
+      "filename": "pixiv_148889779_p0.jpg",
+      "path": "uploads/2026/08/198f9658.jpg",
+      "size": 302355,
+      "width": 870,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c7a41de68a5d0c76103e086cb10eac5a169832268ed2e5e45f2898595a64c3f0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:31:53.409Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "君の名を呼ぶ",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "まのさばネタバレ",
+        "二階堂ヒロ",
+        "桜羽エマ",
+        "エマヒロ",
+        "ヒロエマ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148889779_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148889779",
+      "sourceCreatedAt": "2026-08-25T20:28:40.000Z"
+    },
+    {
       "id": "ed29217d",
       "filename": "pixiv_148859963_p0.jpg",
       "path": "uploads/2026/08/d0570403.jpg",
