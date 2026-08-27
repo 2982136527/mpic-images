@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "790b462d",
+      "filename": "pixiv_148870730_p0.jpg",
+      "path": "uploads/2026/08/bf7395be.jpg",
+      "size": 802661,
+      "width": 1020,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "80513e666e18be5b3d39af52aa661f737712da980ecdc3740b4e90051592c239",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:33:26.023Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "메푸리 벨로나 흉성",
+      "tags": [
+        "MapleStory",
+        "메이플스토리"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148870730_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148870730",
+      "sourceCreatedAt": "2026-08-25T10:58:51.000Z"
+    },
+    {
       "id": "e37c6197",
       "filename": "pixiv_148866000_p0.jpg",
       "path": "uploads/2026/08/9fe0e5c5.jpg",
