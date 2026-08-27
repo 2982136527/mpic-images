@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "96a09828",
+      "filename": "pixiv_148843605_p0.jpg",
+      "path": "uploads/2026/08/35f5bf43.jpg",
+      "size": 730096,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2d000fe446709f0c3474ccd8a09d5ed196f2477527f250c7eff21b7ca535a425",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:36:23.978Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "エンジェルモートカフェ🍴☕",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "マンハッタンカフェ(ウマ娘)",
+        "エンジェルモート制服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148843605_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148843605",
+      "sourceCreatedAt": "2026-08-24T15:00:22.000Z"
+    },
+    {
       "id": "db40f62c",
       "filename": "pixiv_148900603_p0.jpg",
       "path": "uploads/2026/08/501ace20.jpg",
