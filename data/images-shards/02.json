@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "3c26a1d6",
+      "filename": "pixiv_148843635_p0.jpg",
+      "path": "uploads/2026/08/3cd98381.jpg",
+      "size": 1125112,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3f52cc6f7a6f3a21118053791a1c73d816f918a54534fc9ddb941d21f63cb724",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:28:36.708Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "小鳥遊ホシノ",
+      "tags": [
+        "ブルーアーカイブ",
+        "小鳥遊ホシノ",
+        "ブルアカ",
+        "BlueArchive",
+        "ホシノ",
+        "アビドス高等学校"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148843635_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148843635",
+      "sourceCreatedAt": "2026-08-24T15:00:27.000Z"
+    },
+    {
       "id": "9b7eb235",
       "filename": "pixiv_148856589_p0.jpg",
       "path": "uploads/2026/08/7d32f87e.jpg",
