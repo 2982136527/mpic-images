@@ -3,6 +3,34 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "b924620d",
+      "filename": "pixiv_148882203_p0.jpg",
+      "path": "uploads/2026/08/0365485c.jpg",
+      "size": 1035514,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "71e02ba26ce3318957c0c4f6c613b72768ea7219fc2debe6b4a0230d760e1a1c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:33:38.205Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "かくれんぼ",
+      "tags": [
+        "ホロライブEN",
+        "HololiveEN",
+        "バーチャルYouTuber",
+        "VTuber",
+        "フワモコ",
+        "フワワ・アビスガード",
+        "モココ・アビスガード"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148882203_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148882203",
+      "sourceCreatedAt": "2026-08-25T15:00:34.000Z"
+    },
+    {
       "id": "ae196920",
       "filename": "pixiv_148909294_p0.jpg",
       "path": "uploads/2026/08/c8dbb882.jpg",
