@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "ed29217d",
+      "filename": "pixiv_148859963_p0.jpg",
+      "path": "uploads/2026/08/d0570403.jpg",
+      "size": 354794,
+      "width": 1200,
+      "height": 1067,
+      "mimeType": "image/jpeg",
+      "hash": "c4948658c19f8ea196598e8458788a4b1744eee83184fcfa76d18a8323c910a7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:30:18.426Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Human Men",
+      "tags": [
+        "サンリオ",
+        "クロミ",
+        "TDM",
+        "ケモノ",
+        "チビケモ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148859963_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148859963",
+      "sourceCreatedAt": "2026-08-25T04:13:46.000Z"
+    },
+    {
       "id": "4db73bc0",
       "filename": "pixiv_148863647_p0.jpg",
       "path": "uploads/2026/08/949f02ca.jpg",
