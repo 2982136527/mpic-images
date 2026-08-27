@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "223b06cc",
+      "filename": "pixiv_148897456_p0.jpg",
+      "path": "uploads/2026/08/ed4e79a9.jpg",
+      "size": 1179198,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "faf8ad2b647e9abd4dac88dfd5b1e4bb27692456c8d826496ab04e04aae0e0ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:33:13.418Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "モノクロまとめ",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "創作男子",
+        "白黒",
+        "モノクロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148897456_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148897456",
+      "sourceCreatedAt": "2026-08-26T03:26:55.000Z"
+    },
+    {
       "id": "1c81dea5",
       "filename": "pixiv_148874891_p0.jpg",
       "path": "uploads/2026/08/29b2049e.jpg",
