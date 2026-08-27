@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "4d694890",
+      "filename": "pixiv_148893710_p0.jpg",
+      "path": "uploads/2026/08/ebf0798e.jpg",
+      "size": 1069355,
+      "width": 1109,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "edfb97a1c73d020c2f5d7f3159cad3cf42f0e0d5a35b28e5152c519760f1b0dd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:32:24.968Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "メイド",
+        "オリジナル",
+        "にゃんたま"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148893710_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148893710",
+      "sourceCreatedAt": "2026-08-26T00:17:06.000Z"
+    },
+    {
       "id": "3b9ef525",
       "filename": "pixiv_148889779_p0.jpg",
       "path": "uploads/2026/08/198f9658.jpg",
