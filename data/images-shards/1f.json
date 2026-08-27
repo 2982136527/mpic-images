@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "576f79e3",
+      "filename": "pixiv_148892519_p0.jpg",
+      "path": "uploads/2026/08/3d793419.jpg",
+      "size": 531927,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "ec9e56211d185b8ad778cf868a1bbd0185711be16a49603d123675185d79b9e5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:30:05.302Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "腕の筋肉が描きたい人へ",
+      "tags": [
+        "描き方",
+        "コツ",
+        "ハウツー",
+        "講座",
+        "ノウハウ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148892519_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148892519",
+      "sourceCreatedAt": "2026-08-25T23:10:52.000Z"
+    },
+    {
       "id": "76d16988",
       "filename": "pixiv_148867430_p0.jpg",
       "path": "uploads/2026/08/c357b469.jpg",
