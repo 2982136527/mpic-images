@@ -3,6 +3,28 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "d56e7ef4",
+      "filename": "pixiv_148900426_p0.jpg",
+      "path": "uploads/2026/08/8f46a88c.jpg",
+      "size": 1045678,
+      "width": 1073,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "78649c5c9359b231b767c662469a8ec0326527777a11f66e91e676ed4508f9ca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:31:07.307Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "カッコつけ",
+      "tags": [
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148900426_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148900426",
+      "sourceCreatedAt": "2026-08-26T05:57:40.000Z"
+    },
+    {
       "id": "8a033221",
       "filename": "pixiv_148876430_p0.jpg",
       "path": "uploads/2026/08/59e90172.jpg",
