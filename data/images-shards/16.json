@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "a166b83b",
+      "filename": "pixiv_148865800_p0.jpg",
+      "path": "uploads/2026/08/187005b1.jpg",
+      "size": 402068,
+      "width": 727,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "76c941a294572fda0717351e2e43e6d291874cd81c3fdbc972d6600e8292ca45",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:33:57.096Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🐬🐰",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148865800_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148865800",
+      "sourceCreatedAt": "2026-08-25T08:37:43.000Z"
+    },
+    {
       "id": "f9c2c640",
       "filename": "pixiv_148882099_p0.jpg",
       "path": "uploads/2026/08/2b4d9094.jpg",
