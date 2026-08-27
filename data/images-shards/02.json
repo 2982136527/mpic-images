@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "9b7eb235",
+      "filename": "pixiv_148856589_p0.jpg",
+      "path": "uploads/2026/08/7d32f87e.jpg",
+      "size": 1214806,
+      "width": 1163,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ec02c30177acd76dfaa16c0d4488480ec93483a6eae2759495aae683c50cde33",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:27:25.229Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "ほよばツイログ①",
+      "tags": [
+        "原神",
+        "崩壊スターレイル",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148856589_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148856589",
+      "sourceCreatedAt": "2026-08-25T01:28:14.000Z"
+    },
+    {
       "id": "140ddc05",
       "filename": "pixiv_148863729_p0.jpg",
       "path": "uploads/2026/08/4cf7e498.jpg",
