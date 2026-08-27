@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "ea5daaeb",
+      "filename": "pixiv_148863325_p0.jpg",
+      "path": "uploads/2026/08/3ce52ba5.jpg",
+      "size": 606989,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2f117ff7e201ba68804e8e25e1beeb21f97b833fa68a1ac611367b25f82b4f70",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:32:47.567Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Lucy",
+      "tags": [
+        "ルシアーナ・デ・モンテフィーノ",
+        "ゼンレスゾーンゼロ",
+        "ルーシー(ゼンゼロ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148863325_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148863325",
+      "sourceCreatedAt": "2026-08-25T06:57:01.000Z"
+    },
+    {
       "id": "a1962eff",
       "filename": "pixiv_148864967_p0.jpg",
       "path": "uploads/2026/08/f0e49592.jpg",
