@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "4db73bc0",
+      "filename": "pixiv_148863647_p0.jpg",
+      "path": "uploads/2026/08/949f02ca.jpg",
+      "size": 976254,
+      "width": 1200,
+      "height": 657,
+      "mimeType": "image/jpeg",
+      "hash": "5a92fcfddcc61a89c8ede781eae2a06e51a27d90de89a2e954f83f2a28936970",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:28:02.459Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "会须一饮",
+      "tags": [
+        "東方Project",
+        "东方project",
+        "东方地灵殿",
+        "星熊勇仪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148863647_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148863647",
+      "sourceCreatedAt": "2026-08-25T07:09:31.000Z"
+    },
+    {
       "id": "477c7ba6",
       "filename": "pixiv_148877858_p0.jpg",
       "path": "uploads/2026/08/3735e644.jpg",
