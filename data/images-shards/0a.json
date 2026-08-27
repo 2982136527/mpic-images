@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "a1962eff",
+      "filename": "pixiv_148864967_p0.jpg",
+      "path": "uploads/2026/08/f0e49592.jpg",
+      "size": 1055385,
+      "width": 819,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d89a5ef09f2f04178af10d1d3d979c463f1a0d4ebc9c23e110e01e8a23c578dd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:28:30.487Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Lupa",
+      "tags": [
+        "WutheringWaves",
+        "鳴潮",
+        "百合",
+        "ルパ(鳴潮)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148864967_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148864967",
+      "sourceCreatedAt": "2026-08-25T08:03:36.000Z"
+    },
+    {
       "id": "35e500d1",
       "filename": "pixiv_148846206_p0.jpg",
       "path": "uploads/2026/08/b223d880.jpg",
