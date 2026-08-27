@@ -3,6 +3,37 @@
   "shardId": "11",
   "images": [
     {
+      "id": "ea9c2221",
+      "filename": "pixiv_148869686_p0.jpg",
+      "path": "uploads/2026/08/180541fb.jpg",
+      "size": 1325219,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8b0f3634b85520ebfcb723a3d9e69f49af2e87b7d0d8a42f38cfe5503e2077ba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:28:52.332Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "好きな男性V",
+      "tags": [
+        "柊ツルギ",
+        "不破湊",
+        "花畑チャイカ",
+        "ローレン・イロアス",
+        "エクス・アルビオ",
+        "卯月コウ",
+        "イブラヒム",
+        "魔界ノりりむ",
+        "葛葉",
+        "叶"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148869686_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148869686",
+      "sourceCreatedAt": "2026-08-25T10:29:09.000Z"
+    },
+    {
       "id": "d1a5ea5d",
       "filename": "pixiv_148856872_p0.jpg",
       "path": "uploads/2026/08/298c6bab.jpg",
