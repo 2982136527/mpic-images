@@ -3,6 +3,33 @@
   "shardId": "07",
   "images": [
     {
+      "id": "9f6b6f4f",
+      "filename": "pixiv_148874520_p0.jpg",
+      "path": "uploads/2026/08/0c38162a.jpg",
+      "size": 606040,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5fde0254c2c0e18bf33ebee3babecba1c563be53b18432dbbf2a600446949a09",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:32:11.808Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "学習戦隊キャンパスジャー",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "漫画",
+        "ギャグ",
+        "コメディ",
+        "4コマ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148874520_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148874520",
+      "sourceCreatedAt": "2026-08-25T12:15:18.000Z"
+    },
+    {
       "id": "c70c0bab",
       "filename": "pixiv_148880746_p0.jpg",
       "path": "uploads/2026/08/eb5f9821.jpg",
