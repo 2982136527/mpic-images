@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "539f8b73",
+      "filename": "pixiv_148863073_p0.jpg",
+      "path": "uploads/2026/08/d0a5fefc.jpg",
+      "size": 635918,
+      "width": 655,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e2fcb1373ea937846718c94665e086ac6c17d9ada585fbfcbd90561961112333",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:36:15.241Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "BlueArchive",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148863073_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148863073",
+      "sourceCreatedAt": "2026-08-25T06:44:38.000Z"
+    },
+    {
       "id": "ea5daaeb",
       "filename": "pixiv_148863325_p0.jpg",
       "path": "uploads/2026/08/3ce52ba5.jpg",
