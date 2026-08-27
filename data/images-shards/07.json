@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "503ee15a",
+      "filename": "pixiv_148716306_p0.jpg",
+      "path": "uploads/2026/08/9102b5a9.jpg",
+      "size": 1674572,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7a30f199976c9792a6c46e819b895149120545bfca8bdde28435abec827313db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:34:22.743Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "🌱もしも会えたならシリーズ🌱",
+      "tags": [
+        "ジブリ",
+        "となりのトトロ",
+        "火垂るの墓",
+        "こういうのが見たかった"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148716306_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148716306",
+      "sourceCreatedAt": "2026-08-21T15:27:24.000Z"
+    },
+    {
       "id": "ee966192",
       "filename": "pixiv_148892116_p0.jpg",
       "path": "uploads/2026/08/d4142b05.jpg",
