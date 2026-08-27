@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "7bef91df",
+      "filename": "pixiv_148892382_p0.jpg",
+      "path": "uploads/2026/08/9ad0d456.jpg",
+      "size": 1723305,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "63f040385fcc68eb300c4fc87f5475ac83c35af3ad8f4df127826f8984166886",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-27T09:35:56.016Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "Skeb依頼",
+      "tags": [
+        "人外",
+        "人外娘",
+        "NSFW",
+        "ラミア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148892382_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148892382",
+      "sourceCreatedAt": "2026-08-25T23:02:30.000Z"
+    },
+    {
       "id": "e72ca149",
       "filename": "pixiv_148902853_p0.jpg",
       "path": "uploads/2026/08/2e876fc1.jpg",
