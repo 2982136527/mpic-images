@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "c4bc4525",
+      "filename": "pixiv_148862474_p0.jpg",
+      "path": "uploads/2026/08/6941044b.jpg",
+      "size": 479743,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ce1ea4104f1d9ac9cdc3e23d08a379f3e63858e95a5d27c0446814fafca8005f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T00:51:15.765Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "《プロセカ×ソフトウェアトーク》神代類＆夜語トバリ",
+      "tags": [
+        "ソフトウェアトーク",
+        "プロセカ",
+        "プロジェクトセカイ",
+        "夜語トバリ",
+        "神代類"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148862474_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148862474",
+      "sourceCreatedAt": "2026-08-25T06:16:23.000Z"
+    },
+    {
       "id": "ea9c2221",
       "filename": "pixiv_148869686_p0.jpg",
       "path": "uploads/2026/08/180541fb.jpg",
