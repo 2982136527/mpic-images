@@ -3,6 +3,34 @@
   "shardId": "01",
   "images": [
     {
+      "id": "6afde0f1",
+      "filename": "pixiv_148906471_p0.jpg",
+      "path": "uploads/2026/08/774e02cf.jpg",
+      "size": 1143642,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cd2ee8794a9f95d3c76dadb711c4f438d57f7d83ee9038282584aed50470cff8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T20:12:14.419Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "光れ！弾けろ！産地偽装！",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "エピファネイア(ウマ娘)",
+        "エフフォーリア(ウマ娘)",
+        "デアリングタクト(ウマ娘)",
+        "ステイゴールド(ウマ娘)",
+        "フェノーメノ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148906471_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148906471",
+      "sourceCreatedAt": "2026-08-26T09:46:08.000Z"
+    },
+    {
       "id": "d39fe64b",
       "filename": "pixiv_148905818_p0.jpg",
       "path": "uploads/2026/08/9d051f88.jpg",
