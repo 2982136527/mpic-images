@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "a826c51d",
+      "filename": "pixiv_148847500_p0.jpg",
+      "path": "uploads/2026/08/f667bedd.jpg",
+      "size": 906744,
+      "width": 620,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "36c8a7b364e36ed5b087dfd036dbe1f8658344aa455e86887a1c1bae626e0e44",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T00:51:49.373Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "爱弥斯",
+      "tags": [
+        "WutheringWaves",
+        "鳴潮",
+        "エイメス",
+        "セーラー服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148847500_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148847500",
+      "sourceCreatedAt": "2026-08-24T16:37:27.000Z"
+    },
+    {
       "id": "c4bc4525",
       "filename": "pixiv_148862474_p0.jpg",
       "path": "uploads/2026/08/6941044b.jpg",
