@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "1ec0be78",
+      "filename": "pixiv_148900925_p0.jpg",
+      "path": "uploads/2026/08/13bdcfac.jpg",
+      "size": 1503831,
+      "width": 1200,
+      "height": 1164,
+      "mimeType": "image/jpeg",
+      "hash": "e28d7d8ef6fb368b1ef42e5882439cbf36900375c1a1e5dc1826394a8b34d1a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T00:50:51.225Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "オデット",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148900925_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148900925",
+      "sourceCreatedAt": "2026-08-26T06:19:17.000Z"
+    },
+    {
       "id": "03a584c8",
       "filename": "pixiv_148882262_p0.jpg",
       "path": "uploads/2026/08/dbf2b69e.jpg",
