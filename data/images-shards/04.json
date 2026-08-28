@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "f7490b48",
+      "filename": "pixiv_148909191_p0.jpg",
+      "path": "uploads/2026/08/ba541087.jpg",
+      "size": 1113432,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0758e3fd0f3def15d6a8fbefd45257e338c398ed0f1a616678e2e347ccd9aa8b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T00:58:22.215Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "グルグルなってんだけど。",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "橘ノゾミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148909191_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148909191",
+      "sourceCreatedAt": "2026-08-26T11:00:13.000Z"
+    },
+    {
       "id": "894eb153",
       "filename": "pixiv_148876903_p0.jpg",
       "path": "uploads/2026/08/38a0fb9a.jpg",
