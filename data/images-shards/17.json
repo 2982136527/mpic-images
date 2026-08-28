@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "e5498da0",
+      "filename": "pixiv_148875148_p0.jpg",
+      "path": "uploads/2026/08/e46df919.jpg",
+      "size": 771958,
+      "width": 1200,
+      "height": 876,
+      "mimeType": "image/jpeg",
+      "hash": "d1ad6a63d0496a37b1a40bd3741e27ab77974f8794cc604f95d17291d8226097",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T00:53:01.117Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "KRRまとめ",
+      "tags": [
+        "ギロケロ",
+        "アクマケ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148875148_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148875148",
+      "sourceCreatedAt": "2026-08-25T12:29:32.000Z"
+    },
+    {
       "id": "b1df0b50",
       "filename": "pixiv_148882360_p0.jpg",
       "path": "uploads/2026/08/463c39f4.jpg",
