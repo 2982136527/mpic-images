@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "68083672",
+      "filename": "pixiv_148905161_p0.jpg",
+      "path": "uploads/2026/08/6b424f76.jpg",
+      "size": 1160360,
+      "width": 1200,
+      "height": 878,
+      "mimeType": "image/jpeg",
+      "hash": "a9229cf54b8861e90e9b7c2aed51fc1991ced52e9deb7a6e905d0ce3d769e89f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T00:52:48.500Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "OC",
+        "女の子",
+        "兽耳",
+        "沃尔芙"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148905161_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148905161",
+      "sourceCreatedAt": "2026-08-26T09:05:02.000Z"
+    },
+    {
       "id": "7bef91df",
       "filename": "pixiv_148892382_p0.jpg",
       "path": "uploads/2026/08/9ad0d456.jpg",
