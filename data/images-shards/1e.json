@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "3ddaaf97",
+      "filename": "pixiv_148900043_p0.jpg",
+      "path": "uploads/2026/08/1022b225.jpg",
+      "size": 1301023,
+      "width": 1067,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e967e54117d0f58c1fb5d101172036245138ebc617e61e3149e8ce33658e29a1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T20:18:48.240Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Ivantill log 10",
+      "tags": [
+        "ALNST",
+        "エイリアンステージ",
+        "ivantill",
+        "イヴァティル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148900043_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148900043",
+      "sourceCreatedAt": "2026-08-26T05:37:31.000Z"
+    },
+    {
       "id": "43632af1",
       "filename": "pixiv_148897858_p0.jpg",
       "path": "uploads/2026/08/4117f16f.jpg",
