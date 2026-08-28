@@ -3,6 +3,28 @@
   "shardId": "13",
   "images": [
     {
+      "id": "de11fe9d",
+      "filename": "pixiv_148900214_p0.jpg",
+      "path": "uploads/2026/08/9ddeb7da.jpg",
+      "size": 420321,
+      "width": 944,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "766e655bfb57d7c1d7605e7ffa78c1a49fb86c699bcd1e61ad2714ebc3a97000",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T00:55:43.027Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "よその子",
+      "tags": [
+        "よその子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148900214_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148900214",
+      "sourceCreatedAt": "2026-08-26T05:47:07.000Z"
+    },
+    {
       "id": "8492ffbc",
       "filename": "pixiv_148869316_p0.jpg",
       "path": "uploads/2026/08/5d1abaef.jpg",
