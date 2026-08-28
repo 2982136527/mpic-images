@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "4a0dc944",
+      "filename": "pixiv_148947588_p0.jpg",
+      "path": "uploads/2026/08/2299f818.jpg",
+      "size": 773791,
+      "width": 989,
+      "height": 1155,
+      "mimeType": "image/jpeg",
+      "hash": "cba55649e0fe8e4a4775ed852dc121383e6bea26575e9c962f1c9b1fee034d5d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T20:16:31.502Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "夏の終わり",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148947588_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148947588",
+      "sourceCreatedAt": "2026-08-27T11:00:11.000Z"
+    },
+    {
       "id": "a207f839",
       "filename": "pixiv_148905437_p0.jpg",
       "path": "uploads/2026/08/8140db79.jpg",
