@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "abb8717c",
+      "filename": "pixiv_148883018_p0.jpg",
+      "path": "uploads/2026/08/7cf0d63d.jpg",
+      "size": 1520513,
+      "width": 784,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ab08a7dea626a41a22131f745fd6c2b9bee627460c2aea51b0d0d3293cd8fd3c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T00:55:00.359Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Qingxiao",
+      "tags": [
+        "清宵",
+        "鳴潮",
+        "演奏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148883018_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148883018",
+      "sourceCreatedAt": "2026-08-25T15:13:03.000Z"
+    },
+    {
       "id": "198e45d0",
       "filename": "pixiv_148903541_p0.jpg",
       "path": "uploads/2026/08/6d7280ea.jpg",
