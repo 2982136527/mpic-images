@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "a6d9f204",
+      "filename": "pixiv_148886355_p0.jpg",
+      "path": "uploads/2026/08/a0ef662b.jpg",
+      "size": 544865,
+      "width": 824,
+      "height": 851,
+      "mimeType": "image/jpeg",
+      "hash": "c36caf446d31e0e8ee332fa318a2f990e703d3ead519b00148f8a3a5ba5dbb1a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T00:55:28.904Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "原神",
+      "tags": [
+        "原神",
+        "旅人",
+        "オデット",
+        "ヴォジャニーツァ",
+        "パイモン",
+        "蛍(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148886355_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148886355",
+      "sourceCreatedAt": "2026-08-25T16:54:34.000Z"
+    },
+    {
       "id": "797dcb40",
       "filename": "pixiv_148883669_p0.jpg",
       "path": "uploads/2026/08/1310ce73.jpg",
