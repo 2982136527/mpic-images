@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "d39fe64b",
+      "filename": "pixiv_148905818_p0.jpg",
+      "path": "uploads/2026/08/9d051f88.jpg",
+      "size": 394073,
+      "width": 309,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "88cf6466a96486be5c84e0cacab6ce036d50c19010d7911cf49d15bb625fb1ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T20:12:07.064Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "블루아카이브",
+        "ブルアカ",
+        "天童ケイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148905818_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148905818",
+      "sourceCreatedAt": "2026-08-26T09:25:27.000Z"
+    },
+    {
       "id": "2a2b360b",
       "filename": "pixiv_148882880_p0.jpg",
       "path": "uploads/2026/08/2254261c.jpg",
