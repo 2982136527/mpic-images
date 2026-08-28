@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "70efe988",
+      "filename": "pixiv_148916514_p0.jpg",
+      "path": "uploads/2026/08/b54467c0.jpg",
+      "size": 1188224,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f8c3834fcbbb9f729f02869afe643865e2427aca08bdc372468bbbbc6ac7fd3e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T20:19:28.220Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "mio",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "arknights",
+        "澪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148916514_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148916514",
+      "sourceCreatedAt": "2026-08-26T13:34:34.000Z"
+    },
+    {
       "id": "1f352968",
       "filename": "pixiv_148940883_p0.jpg",
       "path": "uploads/2026/08/2cd0f7c2.jpg",
