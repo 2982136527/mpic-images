@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "38f8d758",
+      "filename": "pixiv_148929881_p0.jpg",
+      "path": "uploads/2026/08/23163827.jpg",
+      "size": 711162,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "10276eed0333fda43f0d2246e795a9db0139c21db52782e2c24ffaedab9f8062",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T20:17:13.208Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "なかなおり。",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148929881_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148929881",
+      "sourceCreatedAt": "2026-08-26T22:00:34.000Z"
+    },
+    {
       "id": "9cd599ea",
       "filename": "pixiv_148912689_p0.jpg",
       "path": "uploads/2026/08/d1860735.jpg",
