@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "2e788c7d",
+      "filename": "pixiv_148851073_p0.jpg",
+      "path": "uploads/2026/08/a6ed08b2.jpg",
+      "size": 396191,
+      "width": 600,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "6013e08c92d0d04d4b51692f717853edec2a2965c7db3513e1c979a99ac9b3db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T00:53:12.511Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "シンボリルドルフ",
+      "tags": [
+        "シンボリルドルフ(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "シンボリクリスマス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148851073_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148851073",
+      "sourceCreatedAt": "2026-08-24T20:05:13.000Z"
+    },
+    {
       "id": "68083672",
       "filename": "pixiv_148905161_p0.jpg",
       "path": "uploads/2026/08/6b424f76.jpg",
