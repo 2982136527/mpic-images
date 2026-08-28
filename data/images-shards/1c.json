@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "49c55942",
+      "filename": "pixiv_148846863_p0.jpg",
+      "path": "uploads/2026/08/029eaad4.jpg",
+      "size": 607995,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3b3bce8f3ec1166ad95cba0a6f4ec8664083405051e9c0a4c57aba92d6e7b69d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T00:58:42.630Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ショウコ",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "五十嵐ショウコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148846863_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148846863",
+      "sourceCreatedAt": "2026-08-24T16:15:18.000Z"
+    },
+    {
       "id": "17cc6e95",
       "filename": "pixiv_148843582_p0.jpg",
       "path": "uploads/2026/08/5afdc18a.jpg",
