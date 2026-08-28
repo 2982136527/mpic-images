@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "94ccf6c6",
+      "filename": "pixiv_148868578_p0.jpg",
+      "path": "uploads/2026/08/278c266e.jpg",
+      "size": 1234284,
+      "width": 836,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5e8739a31b8421c99e75ed8fa0ff6c245bb8eef3d64311f7b288fc60aaac01e7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T00:52:08.609Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "織姫",
+      "tags": [
+        "BLEACH",
+        "井上織姫",
+        "BLEACH500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148868578_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148868578",
+      "sourceCreatedAt": "2026-08-25T10:00:09.000Z"
+    },
+    {
       "id": "1cceada7",
       "filename": "pixiv_148889551_p0.jpg",
       "path": "uploads/2026/08/30303784.jpg",
