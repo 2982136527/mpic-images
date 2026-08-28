@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "2a2b360b",
+      "filename": "pixiv_148882880_p0.jpg",
+      "path": "uploads/2026/08/2254261c.jpg",
+      "size": 1641229,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "23ebab88c8eafa44b5c488264e6c8603ccc5d36c4a5a592899214b13ceaf496d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T00:50:31.583Z",
+      "repo": "mpic-images-3",
+      "isPublic": true,
+      "title": "壁抜けの邪仙",
+      "tags": [
+        "東方",
+        "東方Project",
+        "霍青娥",
+        "東方神霊廟",
+        "青蛾娘々"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148882880_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148882880",
+      "sourceCreatedAt": "2026-08-25T15:09:53.000Z"
+    },
+    {
       "id": "a094d8d4",
       "filename": "pixiv_148882629_p0.jpg",
       "path": "uploads/2026/08/805b16d0.jpg",
