@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "3f82aed1",
+      "filename": "pixiv_148938325_p0.jpg",
+      "path": "uploads/2026/08/591d9275.jpg",
+      "size": 687529,
+      "width": 781,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5baa30083a419f89d56aad9c9bdfddddd600ca22e7b8668182aac543334901d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T20:18:39.571Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ココロさん描きました",
+      "tags": [
+        "ブルーアーカイブ",
+        "渡海ココロ",
+        "すじ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148938325_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148938325",
+      "sourceCreatedAt": "2026-08-27T05:32:17.000Z"
+    },
+    {
       "id": "f6610d8d",
       "filename": "pixiv_148934378_p0.jpg",
       "path": "uploads/2026/08/f4d22c72.jpg",
