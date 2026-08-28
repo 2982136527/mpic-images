@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "2aaa92cc",
+      "filename": "pixiv_148872467_p0.jpg",
+      "path": "uploads/2026/08/9772b75e.jpg",
+      "size": 1100711,
+      "width": 1200,
+      "height": 771,
+      "mimeType": "image/jpeg",
+      "hash": "0654868dfc9bcb74e31e83d6e1b782bf55c84bb1da4f6d1f3cf8bc3dcadb97f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T00:54:03.309Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "夏日猫猫",
+      "tags": [
+        "女の子",
+        "插画",
+        "可爱",
+        "獣耳",
+        "猫娘",
+        "美少女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148872467_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148872467",
+      "sourceCreatedAt": "2026-08-25T11:34:22.000Z"
+    },
+    {
       "id": "a166b83b",
       "filename": "pixiv_148865800_p0.jpg",
       "path": "uploads/2026/08/187005b1.jpg",
