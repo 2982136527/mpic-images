@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "ab9a50fd",
+      "filename": "pixiv_148945445_p0.jpg",
+      "path": "uploads/2026/08/d14c6dcb.jpg",
+      "size": 799894,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8a079f01c0062ddfae74d027ebb85ad31718fa89eebac24aac67f14c166ace6b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T20:14:14.413Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "APP値",
+      "tags": [
+        "めめ村",
+        "めい舞"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148945445_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148945445",
+      "sourceCreatedAt": "2026-08-27T10:00:57.000Z"
+    },
+    {
       "id": "95d80515",
       "filename": "pixiv_148882877_p0.jpg",
       "path": "uploads/2026/08/cbb87ee5.jpg",
