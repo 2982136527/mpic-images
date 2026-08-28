@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "87b7affc",
+      "filename": "pixiv_148929305_p0.jpg",
+      "path": "uploads/2026/08/337f3698.jpg",
+      "size": 1607543,
+      "width": 950,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "92623294972d8bbe8cf69d6b4ab0af487a1eea651c43e37c5fb4b6db7733a991",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T20:16:47.396Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Request",
+      "tags": [
+        "女の子",
+        "おさげ髪",
+        "おさげ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148929305_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148929305",
+      "sourceCreatedAt": "2026-08-26T21:30:41.000Z"
+    },
+    {
       "id": "ba027b69",
       "filename": "pixiv_148928361_p0.jpg",
       "path": "uploads/2026/08/cb4dd558.jpg",
