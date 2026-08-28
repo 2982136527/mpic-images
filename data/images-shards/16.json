@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "9b560d91",
+      "filename": "pixiv_148911148_p0.jpg",
+      "path": "uploads/2026/08/d74227dd.jpg",
+      "size": 328185,
+      "width": 1024,
+      "height": 1024,
+      "mimeType": "image/jpeg",
+      "hash": "791af23d6746ebc00b7d98d193591d8276486c7b1699966e4c1c8d852a8243bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-28T20:16:14.860Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "喜多",
+      "tags": [
+        "ぼっち・ざ・ろっく!",
+        "後藤ひとり",
+        "喜多郁代"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148911148_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148911148",
+      "sourceCreatedAt": "2026-08-26T11:42:49.000Z"
+    },
+    {
       "id": "d2e379fc",
       "filename": "pixiv_148911191_p0.jpg",
       "path": "uploads/2026/08/821ef734.jpg",
