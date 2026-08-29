@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "c01eb4ed",
+      "filename": "pixiv_148923903_p0.jpg",
+      "path": "uploads/2026/08/7952437c.jpg",
+      "size": 1023184,
+      "width": 926,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c0a7d3f734666270c2951a1b2c1ba616e8caada1af295f8e62e4fa71d00c3826",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T06:58:48.062Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【贺图】我是一本设定集",
+      "tags": [
+        "OC",
+        "女の子",
+        "制服",
+        "セーラー服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148923903_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148923903",
+      "sourceCreatedAt": "2026-08-26T16:23:19.000Z"
+    },
+    {
       "id": "2c8dadab",
       "filename": "pixiv_148907432_p0.jpg",
       "path": "uploads/2026/08/b8cb726c.jpg",
