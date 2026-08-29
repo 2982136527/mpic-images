@@ -3,6 +3,33 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "dcadd832",
+      "filename": "pixiv_148935889_p0.jpg",
+      "path": "uploads/2026/08/3af33df4.jpg",
+      "size": 621964,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "71768e2b968856153cabe689571eede979820d4644d695061e4aa2bc92a8e5ca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:51:21.995Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ニーヴェ・ステラナイト",
+      "tags": [
+        "ALVESTERRA",
+        "アルヴステラ",
+        "オリジナル",
+        "女の子",
+        "武器",
+        "ファンタジー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148935889_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148935889",
+      "sourceCreatedAt": "2026-08-27T03:30:03.000Z"
+    },
+    {
       "id": "b37ef940",
       "filename": "pixiv_148958820_p0.jpg",
       "path": "uploads/2026/08/9444f024.jpg",
