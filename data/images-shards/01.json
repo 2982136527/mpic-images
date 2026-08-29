@@ -3,6 +3,37 @@
   "shardId": "01",
   "images": [
     {
+      "id": "ba880caf",
+      "filename": "pixiv_148940802_p0.jpg",
+      "path": "uploads/2026/08/bbcac15a.jpg",
+      "size": 1885718,
+      "width": 700,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "51428e350b52c2390b6a8a8b95aedb1fce20db907d4c210878d8cf9b1eb2b329",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T06:58:54.736Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "蒼い蝶は夢を見る",
+      "tags": [
+        "蝶",
+        "青い蝶々",
+        "ふつくしい",
+        "女の子",
+        "ロングヘア",
+        "涙",
+        "泣き顔",
+        "青",
+        "宝石",
+        "水"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148940802_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148940802",
+      "sourceCreatedAt": "2026-08-27T07:30:37.000Z"
+    },
+    {
       "id": "e7ad15c1",
       "filename": "pixiv_148949164_p0.jpg",
       "path": "uploads/2026/08/c4acbdb7.jpg",
