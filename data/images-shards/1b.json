@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "f98a4a38",
+      "filename": "pixiv_148955183_p0.jpg",
+      "path": "uploads/2026/08/8db1eb48.jpg",
+      "size": 498101,
+      "width": 537,
+      "height": 759,
+      "mimeType": "image/jpeg",
+      "hash": "cac0862fd881d7da01ddd18682c8ca054a46e96b4f2ff96bd5e6bfcb64385be7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T06:59:22.505Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "💢",
+      "tags": [
+        "ブルーアーカイブ",
+        "灯下アミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148955183_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148955183",
+      "sourceCreatedAt": "2026-08-27T13:39:57.000Z"
+    },
+    {
       "id": "2a4936b8",
       "filename": "pixiv_148914016_p0.jpg",
       "path": "uploads/2026/08/af103fa3.jpg",
