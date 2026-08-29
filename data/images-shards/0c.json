@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "acdbd9c2",
+      "filename": "pixiv_148956997_p0.jpg",
+      "path": "uploads/2026/08/f22ce98e.jpg",
+      "size": 300754,
+      "width": 680,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "hash": "5556ad1a1fc85664b12dde46ceee0006f874731578655456eb2023222b70e150",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T06:59:01.976Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【展示】福岡展",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子",
+        "個展"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148956997_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148956997",
+      "sourceCreatedAt": "2026-08-27T14:18:41.000Z"
+    },
+    {
       "id": "e22661b1",
       "filename": "pixiv_148913850_p0.jpg",
       "path": "uploads/2026/08/63e981ed.jpg",
