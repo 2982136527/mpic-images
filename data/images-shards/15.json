@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "79f3b90d",
+      "filename": "pixiv_148936246_p0.jpg",
+      "path": "uploads/2026/08/53432055.jpg",
+      "size": 1009573,
+      "width": 1037,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c8849c119c6fe439bce733786226a49afc822fd46c765fba96f7b1f02dad2783",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T07:04:15.116Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "女の子",
+        "girl",
+        "Arknights"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148936246_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148936246",
+      "sourceCreatedAt": "2026-08-27T03:47:10.000Z"
+    },
+    {
       "id": "5d8770c3",
       "filename": "pixiv_148978581_p0.jpg",
       "path": "uploads/2026/08/c4b2eaf7.jpg",
