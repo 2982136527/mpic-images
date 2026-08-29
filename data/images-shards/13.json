@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "ea44445a",
+      "filename": "pixiv_148975225_p0.jpg",
+      "path": "uploads/2026/08/68142a78.jpg",
+      "size": 1468053,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2ec8ddeaef692386f69856480da863d3dda48e5883e909f074fa8182a48b577b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T07:01:31.173Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "藤原妹紅",
+      "tags": [
+        "東方project",
+        "東方",
+        "藤原妹紅",
+        "藤原妹紅イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148975225_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148975225",
+      "sourceCreatedAt": "2026-08-28T04:18:10.000Z"
+    },
+    {
       "id": "0a77ee93",
       "filename": "pixiv_148941987_p0.jpg",
       "path": "uploads/2026/08/89ecec03.jpg",
