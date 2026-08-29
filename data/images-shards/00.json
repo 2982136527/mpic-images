@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "42be7775",
+      "filename": "pixiv_148922753_p0.jpg",
+      "path": "uploads/2026/08/f008e73e.jpg",
+      "size": 1211695,
+      "width": 1200,
+      "height": 1076,
+      "mimeType": "image/jpeg",
+      "hash": "838890d78a8d1219286aa136a1846c81711db24570148dbe35ea565a7e5f17b2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T19:29:50.943Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ぷかぷかコトネ島",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "淵上コトネ",
+        "キヴォトスの白鯨"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148922753_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148922753",
+      "sourceCreatedAt": "2026-08-26T15:48:28.000Z"
+    },
+    {
       "id": "7276f6fb",
       "filename": "pixiv_148980808_p0.jpg",
       "path": "uploads/2026/08/c235d741.jpg",
