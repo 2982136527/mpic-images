@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "806ec551",
+      "filename": "pixiv_148963425_p0.jpg",
+      "path": "uploads/2026/08/c6bb6ef1.jpg",
+      "size": 317431,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2daa7c75399ac1010945afe40b8274254d840951d5abad5135d9cefd08a3b4f7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T07:04:08.361Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "欠損",
+        "腕なし",
+        "裸足"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148963425_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148963425",
+      "sourceCreatedAt": "2026-08-27T17:14:34.000Z"
+    },
+    {
       "id": "9a3e742f",
       "filename": "pixiv_148969193_p0.jpg",
       "path": "uploads/2026/08/0255a4b1.jpg",
