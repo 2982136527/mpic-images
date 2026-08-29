@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "a81a3c39",
+      "filename": "pixiv_148773311_p0.jpg",
+      "path": "uploads/2026/08/6ae2cf4a.jpg",
+      "size": 1500382,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f77c8f425dbcd845f10aa8784ee8649fd624704e31cc6cbf2a98718ed8e0ef37",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T07:06:01.309Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ココロノオト",
+      "tags": [
+        "巫てんり",
+        "白髪",
+        "銀髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148773311_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148773311",
+      "sourceCreatedAt": "2026-08-23T01:25:51.000Z"
+    },
+    {
       "id": "ac5a8f65",
       "filename": "pixiv_148920484_p0.jpg",
       "path": "uploads/2026/08/b4f2d195.jpg",
