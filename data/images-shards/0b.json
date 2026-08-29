@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "ce3e9113",
+      "filename": "pixiv_148921923_p0.jpg",
+      "path": "uploads/2026/08/6ac58400.jpg",
+      "size": 386517,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c5b0205708b1f1b408f7bba14f1c0e3c4d6188312c19734b5eff259984293df2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:56:12.921Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ダンツちゃん",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ダンツフレーム(ウマ娘)",
+        "競泳水着",
+        "水着ウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148921923_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148921923",
+      "sourceCreatedAt": "2026-08-26T15:26:16.000Z"
+    },
+    {
       "id": "b4e017a6",
       "filename": "pixiv_148982073_p0.jpg",
       "path": "uploads/2026/08/2be6ae5d.jpg",
