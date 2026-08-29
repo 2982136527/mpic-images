@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "86742b95",
+      "filename": "pixiv_148983759_p0.jpg",
+      "path": "uploads/2026/08/531ff6e6.jpg",
+      "size": 984030,
+      "width": 624,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "979215b87678d46d28286e4a625453b338d3903b28247d0cca2de1a051e22b31",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T07:00:24.502Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "女の子",
+        "学マス",
+        "学園アイドルマスター",
+        "篠澤広"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148983759_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148983759",
+      "sourceCreatedAt": "2026-08-28T09:55:06.000Z"
+    },
+    {
       "id": "edc2b2a1",
       "filename": "pixiv_148930697_p0.jpg",
       "path": "uploads/2026/08/9b6ca54f.jpg",
