@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "c1b5cbdd",
+      "filename": "pixiv_148921881_p0.jpg",
+      "path": "uploads/2026/08/e8d9a6bb.jpg",
+      "size": 735355,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "02f8c533d1477900e74079b4ba4dd87a55e1d4dac300e7c162764065e0b14616",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:51:16.252Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "勇者に恋する魔王様　キャラデザ",
+      "tags": [
+        "女の子",
+        "百合",
+        "創作百合",
+        "GL",
+        "キャラデザ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148921881_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148921881",
+      "sourceCreatedAt": "2026-08-26T15:25:23.000Z"
+    },
+    {
       "id": "bd1c8c7e",
       "filename": "pixiv_148935611_p0.jpg",
       "path": "uploads/2026/08/45c053e4.jpg",
