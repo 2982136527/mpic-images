@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "12058ee4",
+      "filename": "pixiv_148935524_p0.jpg",
+      "path": "uploads/2026/08/8cc72754.jpg",
+      "size": 989143,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8fec3efe51748815b8f2f7bcc87a5d85f4c6f4e956aaf7ceb9d43cd0a0bf4083",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T19:25:56.719Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "海未ちゃん",
+      "tags": [
+        "ラブライブ!",
+        "園田海未",
+        "μ's"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148935524_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148935524",
+      "sourceCreatedAt": "2026-08-27T03:12:41.000Z"
+    },
+    {
       "id": "7ef0343c",
       "filename": "pixiv_148967695_p0.jpg",
       "path": "uploads/2026/08/fd33d6ed.jpg",
