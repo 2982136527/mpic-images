@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "5ae83f86",
+      "filename": "pixiv_148955377_p0.jpg",
+      "path": "uploads/2026/08/43c44ad2.jpg",
+      "size": 1167805,
+      "width": 857,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fcdfd626fe412b2ddf75d47580fe9368bbfd3b282da2f06d0f28f7852879c9fd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:53:13.395Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "海憑き",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "アナログ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148955377_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148955377",
+      "sourceCreatedAt": "2026-08-27T13:44:28.000Z"
+    },
+    {
       "id": "0ecc183e",
       "filename": "pixiv_148963159_p0.jpg",
       "path": "uploads/2026/08/d71ab63d.jpg",
