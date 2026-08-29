@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "80cb22ef",
+      "filename": "pixiv_148955319_p0.jpg",
+      "path": "uploads/2026/08/56bd26f1.jpg",
+      "size": 1207963,
+      "width": 784,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5d450b43a856c83a7c2f840f7af3b143f5ca3d71603430b3f6433a60beecc253",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T06:59:15.460Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "skebまとめ(2023~2025)",
+      "tags": [
+        "skeb",
+        "女の子",
+        "commission",
+        "VTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148955319_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148955319",
+      "sourceCreatedAt": "2026-08-27T13:43:06.000Z"
+    },
+    {
       "id": "84fb00cb",
       "filename": "pixiv_148896196_p0.jpg",
       "path": "uploads/2026/08/797c8f17.jpg",
