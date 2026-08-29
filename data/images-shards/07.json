@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "72c8fa83",
+      "filename": "pixiv_148987095_p0.jpg",
+      "path": "uploads/2026/08/bc0d1174.jpg",
+      "size": 457087,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "60336040371c61bcd651c09e399c702fb04b37c38fed8455fa6c932f1d7dcf6e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T19:29:20.289Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "기우뚱 사유리",
+      "tags": [
+        "サユリ(ブルーアーカイブ)",
+        "BlueArchive",
+        "ブルーアーカイブ",
+        "ブルアカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148987095_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148987095",
+      "sourceCreatedAt": "2026-08-28T11:11:07.000Z"
+    },
+    {
       "id": "51e1e6c1",
       "filename": "pixiv_148953317_p0.jpg",
       "path": "uploads/2026/08/cceeb6d5.jpg",
