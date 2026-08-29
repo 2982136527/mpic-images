@@ -3,6 +3,28 @@
   "shardId": "15",
   "images": [
     {
+      "id": "04f3aff5",
+      "filename": "pixiv_148992368_p0.jpg",
+      "path": "uploads/2026/08/857ab230.jpg",
+      "size": 1222732,
+      "width": 678,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7b15817547710939f7e5546c8c2832ca70c29082ec20cc68a6270f8c96c506bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:53:50.854Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "鳴潮イラコン6FA"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148992368_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148992368",
+      "sourceCreatedAt": "2026-08-28T13:01:24.000Z"
+    },
+    {
       "id": "2a4bbcc4",
       "filename": "pixiv_148990345_p0.jpg",
       "path": "uploads/2026/08/13763487.jpg",
