@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "c0523c49",
+      "filename": "pixiv_148795205_p0.jpg",
+      "path": "uploads/2026/08/66e81c7b.jpg",
+      "size": 1576054,
+      "width": 859,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "089bb2bd4e494df8021b6c4c742d967578f5a1155cfc4daba762db75d61e88fd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T19:27:55.399Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Stray Cat Girl",
+      "tags": [
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148795205_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148795205",
+      "sourceCreatedAt": "2026-08-23T12:04:44.000Z"
+    },
+    {
       "id": "d0cf37c0",
       "filename": "pixiv_148960474_p0.jpg",
       "path": "uploads/2026/08/aeffe8bc.jpg",
