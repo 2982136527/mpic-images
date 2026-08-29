@@ -3,6 +3,35 @@
   "shardId": "08",
   "images": [
     {
+      "id": "77ca9209",
+      "filename": "pixiv_148932820_p0.jpg",
+      "path": "uploads/2026/08/77672e42.jpg",
+      "size": 650707,
+      "width": 1088,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a9440e1d83d59d2f27efdc1a1c3a7722e730ccfdd0b37abefd0877ef5d19ac91",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:52:24.870Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "어떻게 보이시나요?",
+      "tags": [
+        "SD",
+        "endfield",
+        "ロッシ(エンドフィールド)",
+        "アークナイツ:エンドフィールド",
+        "명일방주엔드필드",
+        "アークナイツ",
+        "명일방주",
+        "ロッシーナ・ウルフパール・ルピーノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148932820_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148932820",
+      "sourceCreatedAt": "2026-08-27T00:56:04.000Z"
+    },
+    {
       "id": "9a07bd64",
       "filename": "pixiv_148956071_p0.jpg",
       "path": "uploads/2026/08/d2ec52c3.jpg",
