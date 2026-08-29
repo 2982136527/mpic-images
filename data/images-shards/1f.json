@@ -3,6 +3,28 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "7fec67b3",
+      "filename": "pixiv_148970021_p0.jpg",
+      "path": "uploads/2026/08/d1785dce.jpg",
+      "size": 680029,
+      "width": 807,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "446e93459f233b7ed6fdb0f7b98824579c3b8f0ac76fa85a3f8b0bcf3bf71f8a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:56:06.895Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "閃乱カグラ絵まとめ【2026.08.28】",
+      "tags": [
+        "閃乱カグラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148970021_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148970021",
+      "sourceCreatedAt": "2026-08-27T23:55:48.000Z"
+    },
+    {
       "id": "d62b409a",
       "filename": "pixiv_148921771_p0.jpg",
       "path": "uploads/2026/08/54819f06.jpg",
