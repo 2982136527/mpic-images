@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "9a1a4b23",
+      "filename": "pixiv_148980452_p0.jpg",
+      "path": "uploads/2026/08/cbfacb99.jpg",
+      "size": 1145868,
+      "width": 744,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0bdcc62041217e655dfd558afe22b7b0f39676c5afa81531b4572771ff79c8d2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T19:24:45.214Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "シンデレラのリハーサル",
+      "tags": [
+        "ナヴィア",
+        "ヌヴィレット",
+        "原神",
+        "シンデレラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148980452_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148980452",
+      "sourceCreatedAt": "2026-08-28T08:20:09.000Z"
+    },
+    {
       "id": "ce3e9113",
       "filename": "pixiv_148921923_p0.jpg",
       "path": "uploads/2026/08/6ac58400.jpg",
