@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "8923b5be",
+      "filename": "pixiv_148925293_p0.jpg",
+      "path": "uploads/2026/08/e220a310.jpg",
+      "size": 916801,
+      "width": 639,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8bd4b769532f4bbfb3ff92a074d4f05ccee2eae2697776e54149e46f3af7413e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T07:03:27.450Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "안타니쨩",
+      "tags": [
+        "アンタに言ってんの!!!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148925293_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148925293",
+      "sourceCreatedAt": "2026-08-26T17:14:43.000Z"
+    },
+    {
       "id": "dc8b64e5",
       "filename": "pixiv_148944381_p0.jpg",
       "path": "uploads/2026/08/66da8123.jpg",
