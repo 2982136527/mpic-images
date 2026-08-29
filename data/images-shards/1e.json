@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "b37ef940",
+      "filename": "pixiv_148958820_p0.jpg",
+      "path": "uploads/2026/08/9444f024.jpg",
+      "size": 640026,
+      "width": 555,
+      "height": 980,
+      "mimeType": "image/jpeg",
+      "hash": "f49f7797ebad4d8aaa4786aad901ed54ccd402008e72c11da1adc4b1326f6cc3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:48:04.613Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "『夏色ディーバ』",
+      "tags": [
+        "崩壊スターレイル",
+        "ロビン",
+        "ロビン(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148958820_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148958820",
+      "sourceCreatedAt": "2026-08-27T15:00:08.000Z"
+    },
+    {
       "id": "3ddaaf97",
       "filename": "pixiv_148900043_p0.jpg",
       "path": "uploads/2026/08/1022b225.jpg",
