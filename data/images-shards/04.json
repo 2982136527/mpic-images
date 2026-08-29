@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "66825fee",
+      "filename": "pixiv_148965836_p0.jpg",
+      "path": "uploads/2026/08/5fc037ea.jpg",
+      "size": 480807,
+      "width": 959,
+      "height": 775,
+      "mimeType": "image/jpeg",
+      "hash": "1d4c5be252077e6797b7a964cc1092f21f46291fd5f767fcb8fbc6d1e42e41f6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T19:25:12.263Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ロエ蛍でもあり蛍ロエ要素もある",
+      "tags": [
+        "原神",
+        "ロエ蛍",
+        "蛍ロエ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148965836_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148965836",
+      "sourceCreatedAt": "2026-08-27T19:40:00.000Z"
+    },
+    {
       "id": "04142ad0",
       "filename": "pixiv_148979213_p0.jpg",
       "path": "uploads/2026/08/1ff66488.jpg",
