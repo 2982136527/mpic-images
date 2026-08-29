@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "7276f6fb",
+      "filename": "pixiv_148980808_p0.jpg",
+      "path": "uploads/2026/08/c235d741.jpg",
+      "size": 557464,
+      "width": 903,
+      "height": 684,
+      "mimeType": "image/jpeg",
+      "hash": "f8cceae966a1d81d742d44718b34e4f842f734bc18bd13fed9c82c9c948fdc76",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:50:37.891Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "地雷が特殊なヤンデレヴォ",
+      "tags": [
+        "原神",
+        "ヴォジャニーツァ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148980808_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148980808",
+      "sourceCreatedAt": "2026-08-28T08:32:43.000Z"
+    },
+    {
       "id": "8ad67699",
       "filename": "pixiv_148949207_p0.jpg",
       "path": "uploads/2026/08/19f78014.jpg",
