@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "246948cb",
+      "filename": "pixiv_148989682_p0.jpg",
+      "path": "uploads/2026/08/e94aa5f4.jpg",
+      "size": 1353278,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "475a4396716cc22033d07037472c50b62da84209d3cf628a7498ee0bd98d6ac2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T07:03:20.001Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Robin",
+      "tags": [
+        "Robin",
+        "HonkaiStarRail",
+        "崩壊スターレイル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148989682_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148989682",
+      "sourceCreatedAt": "2026-08-28T12:05:48.000Z"
+    },
+    {
       "id": "568aab4b",
       "filename": "pixiv_148972443_p0.jpg",
       "path": "uploads/2026/08/9985ffff.jpg",
