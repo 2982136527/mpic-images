@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "b1dafc0f",
+      "filename": "pixiv_148926304_p0.jpg",
+      "path": "uploads/2026/08/1a8570e6.jpg",
+      "size": 1179897,
+      "width": 1200,
+      "height": 1199,
+      "mimeType": "image/jpeg",
+      "hash": "e18bc6110507aebf3456a7d6942f9317df8fc2a1cf2137dd3d15069745442a15",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:49:25.219Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "新作発売延期のお知らせっ！",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148926304_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148926304",
+      "sourceCreatedAt": "2026-08-26T18:04:27.000Z"
+    },
+    {
       "id": "920a635f",
       "filename": "pixiv_148959347_p0.jpg",
       "path": "uploads/2026/08/f89c9d7d.jpg",
