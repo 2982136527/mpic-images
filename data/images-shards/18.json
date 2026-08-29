@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "1e4db0f5",
+      "filename": "pixiv_148959895_p0.jpg",
+      "path": "uploads/2026/08/721ec008.jpg",
+      "size": 541087,
+      "width": 723,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "be8ab692981f5491f638639b9a4a4897acdf4f0d28a01079b72258bb0073a836",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:56:35.430Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "인간의 친구",
+      "tags": [
+        "東方",
+        "東方Project",
+        "今泉影狼"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148959895_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148959895",
+      "sourceCreatedAt": "2026-08-27T15:17:15.000Z"
+    },
+    {
       "id": "5fa170fb",
       "filename": "pixiv_148934098_p0.jpg",
       "path": "uploads/2026/08/f0a6fa3a.jpg",
