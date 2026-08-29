@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "3dc012a3",
+      "filename": "pixiv_148939467_p0.jpg",
+      "path": "uploads/2026/08/125bb082.jpg",
+      "size": 1488460,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "76a556aae649d4dbd48afb1e203a82abc3fe8ca65854c58ac9a20ce984dc0225",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:48:50.232Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "キュアアンサー",
+      "tags": [
+        "名探偵プリキュア!",
+        "キュアアンサー",
+        "たんプリ100users入り",
+        "たんプリ500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148939467_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148939467",
+      "sourceCreatedAt": "2026-08-27T06:30:02.000Z"
+    },
+    {
       "id": "8f6439d7",
       "filename": "pixiv_148937508_p0.jpg",
       "path": "uploads/2026/08/b78480ec.jpg",
