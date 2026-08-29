@@ -3,6 +3,34 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "fe94488d",
+      "filename": "pixiv_148929899_p0.jpg",
+      "path": "uploads/2026/08/e3b2cc7c.jpg",
+      "size": 757827,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fa94c6a54adafd1606449308cf1b99ec45fe6b3c537eac19a407e06da7cb2d77",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T06:58:13.843Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "個人メモ：膝の構造",
+      "tags": [
+        "漫画素材工房",
+        "描き方",
+        "人体",
+        "身体",
+        "美術解剖学",
+        "脚",
+        "膝"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148929899_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148929899",
+      "sourceCreatedAt": "2026-08-26T22:01:07.000Z"
+    },
+    {
       "id": "a73a0a23",
       "filename": "pixiv_148942689_p0.jpg",
       "path": "uploads/2026/08/cb5e432d.jpg",
