@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "78c2e3aa",
+      "filename": "pixiv_148952044_p0.jpg",
+      "path": "uploads/2026/08/9e435c25.jpg",
+      "size": 671677,
+      "width": 952,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "771af9217727656112067b95984d0c8ad4787b71caba59713db81513eee49299",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:49:48.125Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "私を見捨てないでマスター",
+      "tags": [
+        "初音ミク",
+        "創作",
+        "恐怖心",
+        "依存"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148952044_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148952044",
+      "sourceCreatedAt": "2026-08-27T12:33:38.000Z"
+    },
+    {
       "id": "ea44445a",
       "filename": "pixiv_148975225_p0.jpg",
       "path": "uploads/2026/08/68142a78.jpg",
