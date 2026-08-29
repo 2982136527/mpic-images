@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "258cf82d",
+      "filename": "pixiv_148940690_p0.jpg",
+      "path": "uploads/2026/08/e2ff1bfe.jpg",
+      "size": 1609886,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3e8c1d7e8b0f7973709f523fa890dda35219a82ec24da3fc20251040c2dfb43b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T07:01:53.873Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "リメイク",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "バーヴァン・シー(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148940690_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148940690",
+      "sourceCreatedAt": "2026-08-27T07:26:13.000Z"
+    },
+    {
       "id": "9e2dcf2c",
       "filename": "pixiv_148937283_p0.jpg",
       "path": "uploads/2026/08/ef5898a0.jpg",
