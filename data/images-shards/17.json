@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "7d5af583",
+      "filename": "pixiv_148978219_p0.jpg",
+      "path": "uploads/2026/08/ed4e7ea0.jpg",
+      "size": 608539,
+      "width": 740,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "664fa2db8d573ba6be2b34fd68fe54e631a3e3fe8b6b4fd5bee671271c45f262",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T07:03:47.088Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "アニエス",
+      "tags": [
+        "アニエス・クローデル",
+        "軌跡シリーズ",
+        "黎の軌跡",
+        "ファルコム1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148978219_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148978219",
+      "sourceCreatedAt": "2026-08-28T06:50:22.000Z"
+    },
+    {
       "id": "8923b5be",
       "filename": "pixiv_148925293_p0.jpg",
       "path": "uploads/2026/08/e220a310.jpg",
