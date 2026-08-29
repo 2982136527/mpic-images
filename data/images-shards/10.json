@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "b90f534f",
+      "filename": "pixiv_148991939_p0.jpg",
+      "path": "uploads/2026/08/9b79b406.jpg",
+      "size": 1174208,
+      "width": 1200,
+      "height": 756,
+      "mimeType": "image/jpeg",
+      "hash": "043dd831f1499fee0d5788d070c8f4bce8166d685c136ed213734ef8ac42bf84",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T19:25:40.632Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ブルーヘヴンパークのゲート",
+      "tags": [
+        "BlueHeavenPark",
+        "WhereLaughterSank",
+        "遊園地",
+        "廃墟",
+        "廃遊園地",
+        "門",
+        "ゲート",
+        "サメ",
+        "娯楽施設",
+        "メイキング"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148991939_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148991939",
+      "sourceCreatedAt": "2026-08-28T12:54:15.000Z"
+    },
+    {
       "id": "32094afc",
       "filename": "pixiv_148925067_p0.jpg",
       "path": "uploads/2026/08/89a37158.jpg",
