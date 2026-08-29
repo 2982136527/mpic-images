@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "2a4bbcc4",
+      "filename": "pixiv_148990345_p0.jpg",
+      "path": "uploads/2026/08/13763487.jpg",
+      "size": 344038,
+      "width": 656,
+      "height": 607,
+      "mimeType": "image/jpeg",
+      "hash": "5dd68bb69a5d273b048822f1f3ece034c229b5a50e3ce72ac05c9b633db2ab21",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:48:42.054Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Adoartまとめ",
+      "tags": [
+        "Ado",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148990345_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148990345",
+      "sourceCreatedAt": "2026-08-28T12:20:15.000Z"
+    },
+    {
       "id": "79f3b90d",
       "filename": "pixiv_148936246_p0.jpg",
       "path": "uploads/2026/08/53432055.jpg",
