@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "a7e7f33d",
+      "filename": "pixiv_148990726_p0.jpg",
+      "path": "uploads/2026/08/32c98f55.jpg",
+      "size": 950335,
+      "width": 784,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "444a97d4b4dfd92d0a4ce484601f72cdeffdb1ee5e42e33819b1f17a3f61faed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-29T13:50:51.525Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "穢",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148990726_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148990726",
+      "sourceCreatedAt": "2026-08-28T12:28:46.000Z"
+    },
+    {
       "id": "7b8ffc71",
       "filename": "pixiv_148866620_p0.jpg",
       "path": "uploads/2026/08/35fb95a6.jpg",
