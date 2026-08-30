@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "8cdbe599",
+      "filename": "pixiv_148988329_p0.jpg",
+      "path": "uploads/2026/08/678abd4d.jpg",
+      "size": 1279722,
+      "width": 816,
+      "height": 1157,
+      "mimeType": "image/jpeg",
+      "hash": "b2e2f185591da7ba68bfb04359120b7ab282c4a96ab8f8fccefe33c8c4e2ed4d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T05:14:33.158Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "虚照",
+      "tags": [
+        "崩壊スターレイル",
+        "虚照"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148988329_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148988329",
+      "sourceCreatedAt": "2026-08-28T11:39:01.000Z"
+    },
+    {
       "id": "da7bd631",
       "filename": "pixiv_148964258_p0.jpg",
       "path": "uploads/2026/08/e267335b.jpg",
