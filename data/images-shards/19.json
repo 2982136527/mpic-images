@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "b72aab52",
+      "filename": "pixiv_149029100_p0.jpg",
+      "path": "uploads/2026/08/327f0393.jpg",
+      "size": 1552097,
+      "width": 1200,
+      "height": 1112,
+      "mimeType": "image/jpeg",
+      "hash": "dd6d82587f83c2d9fe7e5da4a0cf040b1b6a26fd5d4601c8d172fe7b2f9b6bdc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T19:19:49.633Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "川面を泳ぐ",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "川"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149029100_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149029100",
+      "sourceCreatedAt": "2026-08-29T11:04:19.000Z"
+    },
+    {
       "id": "f44450d0",
       "filename": "pixiv_148960775_p0.jpg",
       "path": "uploads/2026/08/5cb91140.jpg",
