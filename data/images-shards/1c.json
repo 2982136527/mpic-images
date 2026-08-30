@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "5e12d961",
+      "filename": "pixiv_148965026_p0.jpg",
+      "path": "uploads/2026/08/2dffb586.jpg",
+      "size": 274996,
+      "width": 927,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d0abfce2d0373a2fd0d617dc94570b7317ce92ab886ca6aa8b418dad93e46d80",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T19:21:15.499Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "shion",
+      "tags": [
+        "皇紫音"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148965026_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148965026",
+      "sourceCreatedAt": "2026-08-27T18:36:22.000Z"
+    },
+    {
       "id": "a7a6d37b",
       "filename": "pixiv_148986684_p0.jpg",
       "path": "uploads/2026/08/836a3d65.jpg",
