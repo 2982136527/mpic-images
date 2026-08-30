@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "c672827d",
+      "filename": "pixiv_149026005_p0.jpg",
+      "path": "uploads/2026/08/4a1e59b7.jpg",
+      "size": 606214,
+      "width": 835,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a04af0b06b7dff44b954aecafad7beab7562b9eff16c83e1278f3dbc7a1915ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T19:21:21.131Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "立ち絵",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "プラチナブロンド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149026005_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149026005",
+      "sourceCreatedAt": "2026-08-29T09:55:23.000Z"
+    },
+    {
       "id": "98b81d0d",
       "filename": "pixiv_148995383_p0.jpg",
       "path": "uploads/2026/08/2fdc7718.jpg",
