@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "c4715cc8",
+      "filename": "pixiv_149003284_p0.jpg",
+      "path": "uploads/2026/08/baf3b351.jpg",
+      "size": 1182580,
+      "width": 931,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "004096d36db312adbd542259072c9e40d0730bd72a7625504b8b5089f0b7956b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T05:19:02.069Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "N사 광신도 키라",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "キラ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149003284_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149003284",
+      "sourceCreatedAt": "2026-08-28T17:34:52.000Z"
+    },
+    {
       "id": "4af63f34",
       "filename": "pixiv_148973600_p0.jpg",
       "path": "uploads/2026/08/4fa1710c.jpg",
