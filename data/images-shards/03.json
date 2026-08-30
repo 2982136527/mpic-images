@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "51ef0aa3",
+      "filename": "pixiv_148992614_p0.jpg",
+      "path": "uploads/2026/08/17895e9b.jpg",
+      "size": 1157821,
+      "width": 1200,
+      "height": 737,
+      "mimeType": "image/jpeg",
+      "hash": "e3886f4394f9caa782aa98d81804a6f2396bf1a20461e0afdc6ceb3aea2d0ab1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T19:16:44.199Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "On the roof",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148992614_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148992614",
+      "sourceCreatedAt": "2026-08-28T13:05:52.000Z"
+    },
+    {
       "id": "e5fa69c5",
       "filename": "pixiv_149005779_p0.jpg",
       "path": "uploads/2026/08/5f66de3d.jpg",
