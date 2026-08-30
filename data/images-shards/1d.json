@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "62adf433",
+      "filename": "pixiv_148979219_p0.jpg",
+      "path": "uploads/2026/08/4552c3f5.jpg",
+      "size": 849986,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "08fe568fcf945da824ea86cc81a9361a9752524b839ec38a135930d8c10448eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T19:18:08.532Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "スライムに絡まれる蛍ちゃん",
+      "tags": [
+        "原神",
+        "蛍(原神)",
+        "GenshinImpact"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148979219_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148979219",
+      "sourceCreatedAt": "2026-08-28T07:33:49.000Z"
+    },
+    {
       "id": "62079f1a",
       "filename": "pixiv_149005748_p0.jpg",
       "path": "uploads/2026/08/f6f1badd.jpg",
