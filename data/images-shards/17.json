@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "4af63f34",
+      "filename": "pixiv_148973600_p0.jpg",
+      "path": "uploads/2026/08/4fa1710c.jpg",
+      "size": 1574115,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "20c5330cae0b8be73c7f1b2d2838490f772f13d7770cb35b0adf11249c25c0ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T05:13:14.626Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "My favorite🐊🪝",
+      "tags": [
+        "ワンピース",
+        "クロコダイル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148973600_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148973600",
+      "sourceCreatedAt": "2026-08-28T03:06:41.000Z"
+    },
+    {
       "id": "c0523c49",
       "filename": "pixiv_148795205_p0.jpg",
       "path": "uploads/2026/08/66e81c7b.jpg",
