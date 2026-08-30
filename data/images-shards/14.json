@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "ae131ba8",
+      "filename": "pixiv_148999871_p0.jpg",
+      "path": "uploads/2026/08/9f2438c5.jpg",
+      "size": 2019996,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "15e4c35d5c711defc0f6a3ba24091923681388306624e35010c4e8fb164adcb6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T05:13:44.774Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "ミティヤ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148999871_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148999871",
+      "sourceCreatedAt": "2026-08-28T15:36:38.000Z"
+    },
+    {
       "id": "48a759d0",
       "filename": "pixiv_148976778_p0.jpg",
       "path": "uploads/2026/08/5ef298da.jpg",
