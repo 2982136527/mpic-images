@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "6ca79efe",
+      "filename": "pixiv_149003423_p0.jpg",
+      "path": "uploads/2026/08/d2f5efad.jpg",
+      "size": 1285864,
+      "width": 1200,
+      "height": 857,
+      "mimeType": "image/jpeg",
+      "hash": "8667285de61deeb11319891afeab0c92f7b518d63fb0757047a56663b07f95cb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T13:47:22.271Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【お仕事】ダンカグ　「上海紅茶館　～ Chinese」",
+      "tags": [
+        "東方project",
+        "紅美鈴",
+        "東方ダンマクカグラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149003423_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149003423",
+      "sourceCreatedAt": "2026-08-28T17:40:06.000Z"
+    },
+    {
       "id": "2e91dab3",
       "filename": "pixiv_149023831_p0.jpg",
       "path": "uploads/2026/08/e27d69b7.jpg",
