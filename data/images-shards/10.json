@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "75bdf175",
+      "filename": "pixiv_148997762_p0.jpg",
+      "path": "uploads/2026/08/c681373d.jpg",
+      "size": 1056439,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aaa01b095678e625b365de69b4fc77d7a24277f521f063da1368b1fe7af0cdc1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T13:50:00.709Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "壬猫",
+      "tags": [
+        "壬猫",
+        "薬屋のひとりごと",
+        "壬氏",
+        "猫猫"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148997762_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148997762",
+      "sourceCreatedAt": "2026-08-28T15:00:12.000Z"
+    },
+    {
       "id": "90b938db",
       "filename": "pixiv_148962991_p0.jpg",
       "path": "uploads/2026/08/053028ca.jpg",
