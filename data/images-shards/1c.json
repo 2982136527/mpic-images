@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "ee92363d",
+      "filename": "pixiv_149025164_p0.jpg",
+      "path": "uploads/2026/08/ac66b84e.jpg",
+      "size": 1105909,
+      "width": 659,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d3879def85f380ec017b6145375a3d6f054898fb13ed5f3c84a412d7517d0e30",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T13:49:24.820Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "天使",
+      "tags": [
+        "zzzero",
+        "ゼンゼロ",
+        "Velina",
+        "ヴェリナ・エガード",
+        "ももぷく"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149025164_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149025164",
+      "sourceCreatedAt": "2026-08-29T09:31:12.000Z"
+    },
+    {
       "id": "28c9f182",
       "filename": "pixiv_148980875_p0.jpg",
       "path": "uploads/2026/08/073e183b.jpg",
