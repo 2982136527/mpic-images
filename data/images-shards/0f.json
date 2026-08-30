@@ -3,6 +3,32 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "bef951cb",
+      "filename": "pixiv_149016928_p0.jpg",
+      "path": "uploads/2026/08/8e5a141e.jpg",
+      "size": 797332,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "42ee64ef105018c96185daaa5ef9c2edb3b9f6d1b76ca32e3482af9273df59a1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T05:17:17.906Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "cms",
+      "tags": [
+        "イラスト",
+        "commission",
+        "仕事絵",
+        "委托",
+        "FF14"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149016928_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149016928",
+      "sourceCreatedAt": "2026-08-29T04:56:32.000Z"
+    },
+    {
       "id": "3d946821",
       "filename": "pixiv_148998278_p0.jpg",
       "path": "uploads/2026/08/da397f0b.jpg",
