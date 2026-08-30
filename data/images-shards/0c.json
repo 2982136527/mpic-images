@@ -3,6 +3,36 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "eeda1617",
+      "filename": "pixiv_149033562_p0.jpg",
+      "path": "uploads/2026/08/8d207b9b.jpg",
+      "size": 825345,
+      "width": 889,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d642d3ae726ee6c9f93e6232b0009be59016d1134ce1a3d36d112299ae9194cc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T13:48:42.046Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "翼",
+      "tags": [
+        "ちいかわ",
+        "ちいかわファンアート",
+        "ハチワレ(でかつよ)",
+        "うさぎ(でかつよ)",
+        "ラッコ(ちいかわ)",
+        "モモンガ(ちいかわ)",
+        "古本屋(ちいかわ)",
+        "漫画",
+        "ちいかわ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149033562_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149033562",
+      "sourceCreatedAt": "2026-08-29T12:38:49.000Z"
+    },
+    {
       "id": "29e3b709",
       "filename": "pixiv_148851868_p0.jpg",
       "path": "uploads/2026/08/3bb02167.jpg",
