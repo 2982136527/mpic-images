@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "80d1f198",
+      "filename": "pixiv_149025231_p0.jpg",
+      "path": "uploads/2026/08/5b7fff50.jpg",
+      "size": 1072982,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a58db041a3572b85327eff6a8dd87dc8d374cd81751154fc99f7376942652ba3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T05:20:41.978Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ネオン",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "ネオン(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149025231_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149025231",
+      "sourceCreatedAt": "2026-08-29T09:32:47.000Z"
+    },
+    {
       "id": "77226a75",
       "filename": "pixiv_149016759_p0.jpg",
       "path": "uploads/2026/08/7abd68c6.jpg",
