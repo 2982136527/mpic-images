@@ -3,6 +3,36 @@
   "shardId": "03",
   "images": [
     {
+      "id": "7651a4a1",
+      "filename": "pixiv_148789451_p0.jpg",
+      "path": "uploads/2026/08/fd235b25.jpg",
+      "size": 768175,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7079e0f334eae5acfb83e8f28f1fb24ac3dc903506afe9ab946026d8237cff16",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T19:24:36.439Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "イブキちゃんの秘密",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "漫画",
+        "BlueArchive",
+        "丹花イブキ",
+        "雷帝(ブルーアーカイブ)",
+        "勝てる気がしない",
+        "なにこれこわい",
+        "なん…だと…"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148789451_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148789451",
+      "sourceCreatedAt": "2026-08-23T10:06:46.000Z"
+    },
+    {
       "id": "51ef0aa3",
       "filename": "pixiv_148992614_p0.jpg",
       "path": "uploads/2026/08/17895e9b.jpg",
