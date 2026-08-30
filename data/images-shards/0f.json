@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "ec8804b3",
+      "filename": "pixiv_149018490_p0.jpg",
+      "path": "uploads/2026/08/7dd52345.jpg",
+      "size": 755158,
+      "width": 1200,
+      "height": 947,
+      "mimeType": "image/jpeg",
+      "hash": "9e202d3cd819b2597042e2bcd60beb9c19c1cf1cb14960a113d83758d9c0b566",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T19:18:56.666Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "チナハスまとめ",
+      "tags": [
+        "ほの暮しの庭",
+        "チナナ(ほの暮しの庭)",
+        "ハスミ(ほの暮しの庭)",
+        "チナハス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149018490_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149018490",
+      "sourceCreatedAt": "2026-08-29T05:53:57.000Z"
+    },
+    {
       "id": "de1d4c8e",
       "filename": "pixiv_149003452_p0.jpg",
       "path": "uploads/2026/08/8a89a394.jpg",
