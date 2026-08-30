@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "a0097e43",
+      "filename": "pixiv_149024051_p0.jpg",
+      "path": "uploads/2026/08/1dd3b301.jpg",
+      "size": 2057815,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14c8be07cfc79b80226fe080926649a59eaac172d00ff5ce2e1134e17c06647b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T13:48:52.876Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ワンダー",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "r-906",
+        "ボカロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149024051_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149024051",
+      "sourceCreatedAt": "2026-08-29T09:02:06.000Z"
+    },
+    {
       "id": "2f8f8b3c",
       "filename": "pixiv_148999480_p0.jpg",
       "path": "uploads/2026/08/df439d95.jpg",
