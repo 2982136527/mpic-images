@@ -3,6 +3,32 @@
   "shardId": "07",
   "images": [
     {
+      "id": "d1ccec9f",
+      "filename": "pixiv_148982713_p0.jpg",
+      "path": "uploads/2026/08/31264b3c.jpg",
+      "size": 696701,
+      "width": 695,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "498e9c03bf88fb31484b445ca5f1eb573564410e215be40e4dad501dd0953ccb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T05:19:33.074Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "デートトワ様",
+      "tags": [
+        "常闇トワ",
+        "TOWART",
+        "Vtuber",
+        "ホロライブ",
+        "hololive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148982713_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148982713",
+      "sourceCreatedAt": "2026-08-28T09:24:11.000Z"
+    },
+    {
       "id": "6fe50850",
       "filename": "pixiv_149003132_p0.jpg",
       "path": "uploads/2026/08/6f58dff9.jpg",
