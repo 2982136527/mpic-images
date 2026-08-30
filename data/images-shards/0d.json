@@ -3,6 +3,33 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "4812a51b",
+      "filename": "pixiv_148986135_p0.jpg",
+      "path": "uploads/2026/08/8a0abffc.jpg",
+      "size": 916061,
+      "width": 842,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6f5e0e5defb1848bd9c4cb0fa3ddfee4aa81eae7752925837ae1bb41fc44fd7b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T13:50:30.304Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "miku",
+      "tags": [
+        "初音ミク",
+        "Miku",
+        "女の子",
+        "着物ドレス",
+        "VOCALOID",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148986135_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148986135",
+      "sourceCreatedAt": "2026-08-28T10:56:17.000Z"
+    },
+    {
       "id": "a4db2b7b",
       "filename": "pixiv_149003656_p0.jpg",
       "path": "uploads/2026/08/5d6d2867.jpg",
