@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "e1ad3cd8",
+      "filename": "pixiv_149003620_p0.jpg",
+      "path": "uploads/2026/08/b49cf19a.jpg",
+      "size": 228490,
+      "width": 731,
+      "height": 656,
+      "mimeType": "image/jpeg",
+      "hash": "1cdc57b3bd828526a2e405184f0d5d1585baec83b1ff2c456d243d67ab3212a0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T19:23:11.987Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "四神まとめ②",
+      "tags": [
+        "rfmo"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149003620_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149003620",
+      "sourceCreatedAt": "2026-08-28T17:51:31.000Z"
+    },
+    {
       "id": "4ca8a6c7",
       "filename": "pixiv_148958889_p0.jpg",
       "path": "uploads/2026/08/ebba0c96.jpg",
