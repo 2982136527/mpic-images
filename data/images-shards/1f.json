@@ -3,6 +3,33 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "a7561359",
+      "filename": "pixiv_149019672_p0.jpg",
+      "path": "uploads/2026/08/a14627e3.jpg",
+      "size": 330836,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d176c7b25186acb8c39a821260c3f3afab055a137999a994662111b285193303",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T13:49:31.984Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "珂莱塔 稿件",
+      "tags": [
+        "カルロッタ(鳴潮)",
+        "鸣潮",
+        "鳴潮",
+        "珂莱塔",
+        "Carlotta",
+        "高跟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149019672_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149019672",
+      "sourceCreatedAt": "2026-08-29T06:40:21.000Z"
+    },
+    {
       "id": "da7b5284",
       "filename": "pixiv_149008329_p0.jpg",
       "path": "uploads/2026/08/7c84cc92.jpg",
