@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "44068562",
+      "filename": "pixiv_148987299_p0.jpg",
+      "path": "uploads/2026/08/a990a6fb.jpg",
+      "size": 1293540,
+      "width": 748,
+      "height": 997,
+      "mimeType": "image/jpeg",
+      "hash": "e66e46647782d2d3adda9bcefaf10876fb18a49cf487ec7848c6a3b98bcf30eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T05:15:36.732Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "がんばれお空ちゃん",
+      "tags": [
+        "東方",
+        "霊烏路空",
+        "東方Project",
+        "おへそ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148987299_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148987299",
+      "sourceCreatedAt": "2026-08-28T11:16:04.000Z"
+    },
+    {
       "id": "3cd16483",
       "filename": "pixiv_148997824_p0.jpg",
       "path": "uploads/2026/08/9ba0f11e.jpg",
