@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "b27732d6",
+      "filename": "pixiv_149013978_p0.jpg",
+      "path": "uploads/2026/08/31f4b018.jpg",
+      "size": 773870,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8b5cdc3332fce4db91a90fbfe4a7f3859e35bfa7c564559be5babd8731475f42",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T19:17:34.069Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "蕾娜小姐",
+      "tags": [
+        "萝莉",
+        "雪糕",
+        "插画",
+        "少女",
+        "黑丝",
+        "光脚"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149013978_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149013978",
+      "sourceCreatedAt": "2026-08-29T03:00:26.000Z"
+    },
+    {
       "id": "0321190f",
       "filename": "pixiv_148966466_p0.jpg",
       "path": "uploads/2026/08/394cc41f.jpg",
