@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "f86455f8",
+      "filename": "pixiv_149012624_p0.jpg",
+      "path": "uploads/2026/08/02efd54c.jpg",
+      "size": 913102,
+      "width": 800,
+      "height": 1131,
+      "mimeType": "image/jpeg",
+      "hash": "ed4bcc290a36fd7e0082daab590e1a2c8b5ba74c8d3dd1de102e6cc54cad04b2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T05:18:55.419Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【8/30】VEGA2026おしながき",
+      "tags": [
+        "原神",
+        "フリンズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149012624_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149012624",
+      "sourceCreatedAt": "2026-08-29T02:09:24.000Z"
+    },
+    {
       "id": "49f99201",
       "filename": "pixiv_149014707_p0.jpg",
       "path": "uploads/2026/08/5dc43617.jpg",
