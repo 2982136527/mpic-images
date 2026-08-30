@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "6f5d535c",
+      "filename": "pixiv_148970701_p0.jpg",
+      "path": "uploads/2026/08/001de846.jpg",
+      "size": 811513,
+      "width": 959,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0edc57bde1c428ef13df724871407da113d8221f62a7cd85bc9e3a98be37af4d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T19:16:33.210Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "しいしい",
+      "tags": [
+        "にじさんじ",
+        "VTuber",
+        "バーチャルYouTuber",
+        "椎名唯華"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148970701_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148970701",
+      "sourceCreatedAt": "2026-08-28T00:36:41.000Z"
+    },
+    {
       "id": "f9ca55f4",
       "filename": "pixiv_149027306_p0.jpg",
       "path": "uploads/2026/08/48eea6b9.jpg",
