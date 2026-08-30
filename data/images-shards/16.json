@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "7636329f",
+      "filename": "pixiv_148983750_p0.jpg",
+      "path": "uploads/2026/08/65ed31ca.jpg",
+      "size": 640489,
+      "width": 1200,
+      "height": 756,
+      "mimeType": "image/jpeg",
+      "hash": "a64ca81ba1ba3449e7ffc2f3f65556473e26da9ff5873a49cab7e70d63503b80",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T19:17:45.839Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "古明地こいし",
+      "tags": [
+        "イラスト",
+        "東方",
+        "東方Project",
+        "古明地こいし",
+        "現場検証"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148983750_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148983750",
+      "sourceCreatedAt": "2026-08-28T09:54:52.000Z"
+    },
+    {
       "id": "391bf450",
       "filename": "pixiv_149016012_p0.jpg",
       "path": "uploads/2026/08/20b1b4e0.jpg",
