@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "3611bdab",
+      "filename": "pixiv_148975725_p0.jpg",
+      "path": "uploads/2026/08/e45185c3.jpg",
+      "size": 1312892,
+      "width": 1200,
+      "height": 895,
+      "mimeType": "image/jpeg",
+      "hash": "df5da111a455391c5009b573efebfe002030f074560e49fa968aa562bc0a5520",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T13:49:53.699Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "原神",
+        "サンドローネ(原神)",
+        "コロンビーナ(原神)",
+        "猫耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148975725_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148975725",
+      "sourceCreatedAt": "2026-08-28T04:44:23.000Z"
+    },
+    {
       "id": "a793112c",
       "filename": "pixiv_148997714_p0.jpg",
       "path": "uploads/2026/08/8fa7f404.jpg",
