@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "4a8029ec",
+      "filename": "pixiv_149028672_p0.jpg",
+      "path": "uploads/2026/08/021ce3cb.jpg",
+      "size": 418463,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8b61085db904698488054bd589ed7def4bf05d0648ec7339702ac9bcd1711d09",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T13:52:16.590Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "女の子",
+        "スポーツウェア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149028672_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149028672",
+      "sourceCreatedAt": "2026-08-29T11:00:06.000Z"
+    },
+    {
       "id": "79d20248",
       "filename": "pixiv_148990148_p0.jpg",
       "path": "uploads/2026/08/4862e9b7.jpg",
