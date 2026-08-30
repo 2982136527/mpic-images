@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "6d9ea485",
+      "filename": "pixiv_149022009_p0.jpg",
+      "path": "uploads/2026/08/ad958f47.jpg",
+      "size": 916161,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "238097e6a60699da9e4ca8514c1e55d8b5a305c73fa3e496520b3aeb049b5901",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T05:22:45.435Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "落描き",
+      "tags": [
+        "シュヴァルグラン(ウマ娘)",
+        "ウマ娘プリティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149022009_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149022009",
+      "sourceCreatedAt": "2026-08-29T08:03:36.000Z"
+    },
+    {
       "id": "c46eae02",
       "filename": "pixiv_149025223_p0.jpg",
       "path": "uploads/2026/08/93e7141f.jpg",
