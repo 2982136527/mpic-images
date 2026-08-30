@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "08cd6fec",
+      "filename": "pixiv_149013999_p0.jpg",
+      "path": "uploads/2026/08/c3209c9b.jpg",
+      "size": 933369,
+      "width": 659,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fb14a500a200fa63058223b748712b648afaa06e2cf474f62d8bf19a4ecca086",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-30T05:14:46.615Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ゼンゼロ絵",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ヴェリナ",
+        "イヴリン",
+        "グレース",
+        "グレース・ハワード"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149013999_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149013999",
+      "sourceCreatedAt": "2026-08-29T03:00:31.000Z"
+    },
+    {
       "id": "b6594dcd",
       "filename": "pixiv_149023546_p0.jpg",
       "path": "uploads/2026/08/ff016356.jpg",
