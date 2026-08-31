@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "ba886159",
+      "filename": "pixiv_149059720_p0.jpg",
+      "path": "uploads/2026/08/b13240f6.jpg",
+      "size": 687650,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b258ed1243130bba96142d79f73496a90820676021f57ed1c872ca567871b6da",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T21:31:34.566Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "玉狛ネイバーズ2",
+      "tags": [
+        "ワールドトリガー",
+        "ヒュース",
+        "林藤陽太郎",
+        "玉狛支部"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149059720_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149059720",
+      "sourceCreatedAt": "2026-08-30T04:34:19.000Z"
+    },
+    {
       "id": "2e1a31c2",
       "filename": "pixiv_149022421_p0.jpg",
       "path": "uploads/2026/08/a40836a5.jpg",
