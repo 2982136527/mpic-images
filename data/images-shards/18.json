@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "7b3bff30",
+      "filename": "pixiv_149065438_p0.jpg",
+      "path": "uploads/2026/08/13715d5d.jpg",
+      "size": 799361,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0fe369657e8ecd5ebe1b54e73d96d9b65cb9ed3b9312078228e3a1b2495f8e29",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T21:28:23.628Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "映画鑑賞",
+      "tags": [
+        "超かぐや姫!",
+        "かぐいろ",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149065438_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149065438",
+      "sourceCreatedAt": "2026-08-30T07:47:22.000Z"
+    },
+    {
       "id": "b3b14dff",
       "filename": "pixiv_149079379_p0.jpg",
       "path": "uploads/2026/08/4c328baf.jpg",
