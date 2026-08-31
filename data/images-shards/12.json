@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "33370fc2",
+      "filename": "pixiv_149076270_p0.jpg",
+      "path": "uploads/2026/08/55444819.jpg",
+      "size": 2050039,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e6cfb8ed8a4dae923b9371f33bd649e0996d3956970e9f6449620e244672f161",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:09:00.419Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Skebありがとうございました！ / 2026年8月号",
+      "tags": [
+        "Skeb",
+        "comission"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149076270_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149076270",
+      "sourceCreatedAt": "2026-08-30T11:58:37.000Z"
+    },
+    {
       "id": "53b93bec",
       "filename": "pixiv_149050760_p0.jpg",
       "path": "uploads/2026/08/fb4e2b69.jpg",
