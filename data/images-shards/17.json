@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "ff09db2a",
+      "filename": "pixiv_149002876_p0.jpg",
+      "path": "uploads/2026/08/5c62819b.jpg",
+      "size": 650411,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "b3c77dfa60701bc3a11cd60eae39c086a0b788cb317e700c4ce396b9defe661e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T21:30:28.146Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "Outis",
+        "Limbus_Company"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149002876_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149002876",
+      "sourceCreatedAt": "2026-08-28T17:16:22.000Z"
+    },
+    {
       "id": "d1176664",
       "filename": "pixiv_148877931_p0.jpg",
       "path": "uploads/2026/08/16ab8a77.jpg",
