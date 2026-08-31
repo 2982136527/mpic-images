@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "42d9db0f",
+      "filename": "pixiv_148872965_p0.jpg",
+      "path": "uploads/2026/08/99e6aac3.jpg",
+      "size": 1365390,
+      "width": 1200,
+      "height": 629,
+      "mimeType": "image/jpeg",
+      "hash": "2c42a5ebc6bf1be5db640509d69729be166d148a363e62a4c9ef777b4c69482c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:29:31.440Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "[SEVENSINS:R]",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148872965_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148872965",
+      "sourceCreatedAt": "2026-08-25T11:45:55.000Z"
+    },
+    {
       "id": "0d2b9e40",
       "filename": "pixiv_148843592_p0.jpg",
       "path": "uploads/2026/08/f7f906ec.jpg",
