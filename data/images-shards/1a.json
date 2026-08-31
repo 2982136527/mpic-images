@@ -3,6 +3,34 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "303065a4",
+      "filename": "pixiv_149055422_p0.jpg",
+      "path": "uploads/2026/08/b698f7ab.jpg",
+      "size": 1359066,
+      "width": 747,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5c628337656533cd7b5dfeb70312cbc6e21263f26b5cf891bc91ef72e601615c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T21:31:02.583Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "コロサン",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "サンドローネ(原神)",
+        "コロンビーナ(原神)",
+        "コロサン",
+        "百合",
+        "アルレッキーノ(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149055422_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149055422",
+      "sourceCreatedAt": "2026-08-30T02:06:55.000Z"
+    },
+    {
       "id": "e8483a73",
       "filename": "pixiv_149035285_p0.jpg",
       "path": "uploads/2026/08/42c45499.jpg",
