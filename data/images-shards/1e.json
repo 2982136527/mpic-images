@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "388905ae",
+      "filename": "pixiv_149074678_p0.jpg",
+      "path": "uploads/2026/08/b984bb93.jpg",
+      "size": 534011,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "58380ba286c937d899abb6c119f28263299e4e15019a0c3e9474cb7867739503",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T21:30:55.415Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "OC",
+        "沃尔芙",
+        "黑丝",
+        "裤袜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149074678_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149074678",
+      "sourceCreatedAt": "2026-08-30T11:24:09.000Z"
+    },
+    {
       "id": "d2cd12ae",
       "filename": "pixiv_149042232_p0.jpg",
       "path": "uploads/2026/08/fcfe8e4a.jpg",
