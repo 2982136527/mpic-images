@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "1061e7be",
+      "filename": "pixiv_149055657_p0.jpg",
+      "path": "uploads/2026/08/80e1daf7.jpg",
+      "size": 646882,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e6c38bab18d946677ff26a359656b3194eb4c068ce1b1a5cfdd6b7e6194d8d0c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:26:23.392Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ヴァンガード",
+      "tags": [
+        "アズールレーン",
+        "ヴァンガード(アズールレーン)",
+        "衣装チェンジ",
+        "バルパライソ(アズールレーン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149055657_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149055657",
+      "sourceCreatedAt": "2026-08-30T02:15:27.000Z"
+    },
+    {
       "id": "c672827d",
       "filename": "pixiv_149026005_p0.jpg",
       "path": "uploads/2026/08/4a1e59b7.jpg",
