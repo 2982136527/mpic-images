@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "fbb7d515",
+      "filename": "pixiv_149003328_p0.jpg",
+      "path": "uploads/2026/08/4ed728c1.jpg",
+      "size": 257248,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0abad53bc72e6b25748c99e11831ab9d96ecb1bb3e8166057a1b15012a1c47d5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:25:27.097Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "rkgk",
+      "tags": [
+        "메이플스토리",
+        "ボニー",
+        "アストラルパーティー",
+        "オズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149003328_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149003328",
+      "sourceCreatedAt": "2026-08-28T17:35:33.000Z"
+    },
+    {
       "id": "1a75e537",
       "filename": "pixiv_149017726_p0.jpg",
       "path": "uploads/2026/08/a6d3afe9.jpg",
