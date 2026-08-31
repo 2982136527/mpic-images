@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "47e77413",
+      "filename": "pixiv_149026560_p0.jpg",
+      "path": "uploads/2026/08/192b24b7.jpg",
+      "size": 567910,
+      "width": 915,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "efae5b8287d5178efa7fae11925f8ba9acddb8c9248da80840c6e1646fa6b7b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:16:00.435Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ジェニュイン",
+      "tags": [
+        "ジェニュイン(ウマ娘)",
+        "ウマ娘",
+        "ウマ娘プリティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149026560_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149026560",
+      "sourceCreatedAt": "2026-08-29T10:05:05.000Z"
+    },
+    {
       "id": "a0d15be5",
       "filename": "pixiv_149052115_p0.jpg",
       "path": "uploads/2026/08/5ee2cacc.jpg",
