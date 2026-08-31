@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "f5816c4f",
+      "filename": "pixiv_149040197_p0.jpg",
+      "path": "uploads/2026/08/f1c69928.jpg",
+      "size": 1020917,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "16e0740290366da7920dd9c36bb3dc9cc155df7d25073f33b55a8649ec5806e4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T21:28:59.854Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "お荷物が届きました",
+      "tags": [
+        "オリジナル",
+        "創作男女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149040197_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149040197",
+      "sourceCreatedAt": "2026-08-29T15:00:26.000Z"
+    },
+    {
       "id": "47da6f25",
       "filename": "pixiv_148997889_p0.jpg",
       "path": "uploads/2026/08/3e91f88c.jpg",
