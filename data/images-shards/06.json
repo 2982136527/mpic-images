@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "df425834",
+      "filename": "pixiv_149040057_p0.jpg",
+      "path": "uploads/2026/08/a7a4bb2b.jpg",
+      "size": 992586,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "b5eefce998641db94f1ce0019e99e62faa27263c9d01625bd9c986af7728ecb7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:09:38.240Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Himeko",
+      "tags": [
+        "崩壊スターレイル",
+        "HonkaiStarRail",
+        "姫子(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149040057_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149040057",
+      "sourceCreatedAt": "2026-08-29T15:00:06.000Z"
+    },
+    {
       "id": "b2f89dc4",
       "filename": "pixiv_149001458_p0.jpg",
       "path": "uploads/2026/08/ad279512.jpg",
