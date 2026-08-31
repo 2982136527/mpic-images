@@ -3,6 +3,37 @@
   "shardId": "02",
   "images": [
     {
+      "id": "d357783f",
+      "filename": "pixiv_149052334_p0.jpg",
+      "path": "uploads/2026/08/53609c18.jpg",
+      "size": 2118428,
+      "width": 1053,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "218cd68e6a90c4c2f966970262bedef339af02260738bf820c47f96647e25f36",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:11:24.588Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "みんなといるから、わたしは強くなれる。",
+      "tags": [
+        "プリキュア",
+        "たんプリ",
+        "名探偵プリキュア!",
+        "キュアアルカナ",
+        "キュアエクレール",
+        "キュアアンサー",
+        "キュアミスティック",
+        "森亜るるか",
+        "アンミスエクアル",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149052334_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149052334",
+      "sourceCreatedAt": "2026-08-30T00:00:15.000Z"
+    },
+    {
       "id": "c43f1a1d",
       "filename": "pixiv_149000816_p0.jpg",
       "path": "uploads/2026/08/4d2e149a.jpg",
