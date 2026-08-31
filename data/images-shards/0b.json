@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "9c9be8da",
+      "filename": "pixiv_149060791_p0.jpg",
+      "path": "uploads/2026/08/629476d1.jpg",
+      "size": 781585,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "8ce586d334d348526c7be1174a647da67ff795fee132c58e76928d2abc26d9ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:26:16.418Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ZZZ.蕾米埃尔",
+      "tags": [
+        "zzzero",
+        "绝区零",
+        "セシリア(ゼンゼロ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149060791_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149060791",
+      "sourceCreatedAt": "2026-08-30T05:14:15.000Z"
+    },
+    {
       "id": "2dd9eb07",
       "filename": "pixiv_149075260_p0.jpg",
       "path": "uploads/2026/08/5bf5b357.jpg",
