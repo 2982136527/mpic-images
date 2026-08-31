@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "f260ed02",
+      "filename": "pixiv_149045499_p0.jpg",
+      "path": "uploads/2026/08/b835b95f.jpg",
+      "size": 1822612,
+      "width": 869,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "432127eb0ef00eb16e3b630d157a518790f62ac94e47933cc4410f92222e1d37",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T21:35:23.637Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "アイドルマスターシャイニーカラーズ",
+        "郁田はるき",
+        "斑鳩ルカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149045499_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149045499",
+      "sourceCreatedAt": "2026-08-29T17:31:28.000Z"
+    },
+    {
       "id": "3cd13db4",
       "filename": "pixiv_149014406_p0.jpg",
       "path": "uploads/2026/08/534e7fb9.jpg",
