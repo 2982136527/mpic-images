@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "1bfde342",
+      "filename": "pixiv_149075058_p0.jpg",
+      "path": "uploads/2026/08/823c0852.jpg",
+      "size": 747413,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9ec67e91129e5ad347e29650b71abe66efaff3ef7eb2fdd155bf7f55bda44785",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:16:37.334Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "水着ヒンデンブルク",
+      "tags": [
+        "アズールレーン",
+        "ヒンデンブルク(アズールレーン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149075058_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149075058",
+      "sourceCreatedAt": "2026-08-30T11:31:13.000Z"
+    },
+    {
       "id": "b309c6b4",
       "filename": "pixiv_149023213_p0.jpg",
       "path": "uploads/2026/08/50ae8fc3.jpg",
