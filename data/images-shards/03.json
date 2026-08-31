@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "99e0a0c7",
+      "filename": "pixiv_149054905_p0.jpg",
+      "path": "uploads/2026/08/bd65c06d.jpg",
+      "size": 948939,
+      "width": 775,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a3f5f3675ba9ca5a5423e2b0ddfa5405746bfe24e7a49d5457b9d899561c6912",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:09:31.163Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【FGO】太公望(と妲己の手)",
+      "tags": [
+        "Fate/GrandOrder",
+        "太公望(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149054905_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149054905",
+      "sourceCreatedAt": "2026-08-30T01:48:59.000Z"
+    },
+    {
       "id": "d76514d6",
       "filename": "pixiv_149025935_p0.jpg",
       "path": "uploads/2026/08/5dc95a67.jpg",
