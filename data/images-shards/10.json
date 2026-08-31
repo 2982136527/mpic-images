@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "230d3ba1",
+      "filename": "pixiv_149080054_p0.jpg",
+      "path": "uploads/2026/08/14a5e6dd.jpg",
+      "size": 484477,
+      "width": 640,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5c89e06ef949820ad27027976fbebc6fde629fad8668a456de655e2f13e4a1cc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:25:03.487Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "NIKKE Arcana",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "NIKKE",
+        "fanart",
+        "アルカナ(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149080054_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149080054",
+      "sourceCreatedAt": "2026-08-30T13:03:15.000Z"
+    },
+    {
       "id": "663277e0",
       "filename": "pixiv_148979784_p0.jpg",
       "path": "uploads/2026/08/3e78c528.jpg",
