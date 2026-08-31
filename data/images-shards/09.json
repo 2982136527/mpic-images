@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "efbe6716",
+      "filename": "pixiv_149044918_p0.jpg",
+      "path": "uploads/2026/08/67e7451a.jpg",
+      "size": 1133232,
+      "width": 1200,
+      "height": 862,
+      "mimeType": "image/jpeg",
+      "hash": "113c12ec2b0e6805a32cb26f35358881be7c4a0b502b43a133e6c920cd6cd932",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:21:44.216Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "リク絵まとめ",
+      "tags": [
+        "セイレーン(ちいかわ)",
+        "マンダロリアン・アンド・グローグー",
+        "ドラクエ",
+        "ディグダ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149044918_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149044918",
+      "sourceCreatedAt": "2026-08-29T17:06:04.000Z"
+    },
+    {
       "id": "4271d05b",
       "filename": "pixiv_149019495_p0.jpg",
       "path": "uploads/2026/08/4dc591a4.jpg",
