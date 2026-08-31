@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "7ae60744",
+      "filename": "pixiv_148882116_p0.jpg",
+      "path": "uploads/2026/08/12a63cf1.jpg",
+      "size": 1337816,
+      "width": 857,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bad7d0bf349268403faffb54e65146afb398e61bd12988407e5025981cc3bff1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:14:23.142Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "されど空転",
+      "tags": [
+        "オリジナル",
+        "されど空転",
+        "あなた様でしたか",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148882116_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148882116",
+      "sourceCreatedAt": "2026-08-25T15:00:18.000Z"
+    },
+    {
       "id": "33370fc2",
       "filename": "pixiv_149076270_p0.jpg",
       "path": "uploads/2026/08/55444819.jpg",
