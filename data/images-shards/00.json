@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "47da6f25",
+      "filename": "pixiv_148997889_p0.jpg",
+      "path": "uploads/2026/08/3e91f88c.jpg",
+      "size": 1510986,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "dfa3b02518accf5e10948982db620cefa0992b9c1dc391d81dcd04ecbd6613ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T21:27:53.161Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "キメラ",
+      "tags": [
+        "初音ミク",
+        "DECO*27",
+        "キメラ",
+        "VOCALOID",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148997889_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148997889",
+      "sourceCreatedAt": "2026-08-28T15:00:30.000Z"
+    },
+    {
       "id": "a63b1bb4",
       "filename": "pixiv_149014742_p0.jpg",
       "path": "uploads/2026/08/967618ff.jpg",
