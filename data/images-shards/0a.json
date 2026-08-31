@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "4d771be7",
+      "filename": "pixiv_149073581_p0.jpg",
+      "path": "uploads/2026/08/fcebb7a3.jpg",
+      "size": 938733,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "6411cf7fdf0b48d4205dd68f7614badda1c7d7f5bb3884d586b6d8fa8c22d312",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:24:29.700Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "25時の情熱",
+      "tags": [
+        "宵崎奏",
+        "prsk_FA"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149073581_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149073581",
+      "sourceCreatedAt": "2026-08-30T11:01:23.000Z"
+    },
+    {
       "id": "2192fb94",
       "filename": "pixiv_149078627_p0.jpg",
       "path": "uploads/2026/08/9803db31.jpg",
