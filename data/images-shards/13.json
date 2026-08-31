@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "6b5d2d84",
+      "filename": "pixiv_149047008_p0.jpg",
+      "path": "uploads/2026/08/8277b3e7.jpg",
+      "size": 1120417,
+      "width": 854,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "976bcdbb8879243f4fbf2df4555b1426d933942b08008f05224dea809fbb518e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:12:38.270Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【8月】あの日のP5R",
+      "tags": [
+        "P5R",
+        "ペルソナ5ザ・ロイヤル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149047008_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149047008",
+      "sourceCreatedAt": "2026-08-29T18:45:21.000Z"
+    },
+    {
       "id": "03eeb1ed",
       "filename": "pixiv_149054876_p0.jpg",
       "path": "uploads/2026/08/ca589843.jpg",
