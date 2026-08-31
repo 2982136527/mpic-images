@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "605752ea",
+      "filename": "pixiv_149038594_p0.jpg",
+      "path": "uploads/2026/08/68cdc957.jpg",
+      "size": 750464,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b5cd77422b94e4ef4378b77f258f3aba2a3cb65d1dd7dc14b0a0da5dd0d8ddd9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:26:29.937Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "色々な素材を描きたいシリーズ9〜12",
+      "tags": [
+        "描き方",
+        "メイキング"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149038594_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149038594",
+      "sourceCreatedAt": "2026-08-29T14:26:58.000Z"
+    },
+    {
       "id": "6d1487bd",
       "filename": "pixiv_148958783_p0.jpg",
       "path": "uploads/2026/08/17c10642.jpg",
