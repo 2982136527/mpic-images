@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "49df7a91",
+      "filename": "pixiv_149060782_p0.jpg",
+      "path": "uploads/2026/08/67105e76.jpg",
+      "size": 668689,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "172bbd6f722c7993d05852a3fe7011edc6633c6dfb2738e8ca3226b90b36280a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:16:23.569Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ほの暮しまとめ③",
+      "tags": [
+        "ほの暮しの庭",
+        "キスケ(ほの暮しの庭)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149060782_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149060782",
+      "sourceCreatedAt": "2026-08-30T05:13:50.000Z"
+    },
+    {
       "id": "7ae3c0a7",
       "filename": "pixiv_149073093_p0.jpg",
       "path": "uploads/2026/08/2fef1d62.jpg",
