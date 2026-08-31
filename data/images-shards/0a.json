@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "31ba3c04",
+      "filename": "pixiv_149067167_p0.jpg",
+      "path": "uploads/2026/08/e8612525.jpg",
+      "size": 732760,
+      "width": 1000,
+      "height": 707,
+      "mimeType": "image/jpeg",
+      "hash": "2d82deb0d429e62da66871e4bbf4a8da814f214f99793a72954a5dcff307fa21",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:23:15.409Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "原神の落書きまとめ",
+      "tags": [
+        "原神",
+        "GenshinImpact"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149067167_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149067167",
+      "sourceCreatedAt": "2026-08-30T08:35:07.000Z"
+    },
+    {
       "id": "ce0dcfe5",
       "filename": "pixiv_148970107_p0.jpg",
       "path": "uploads/2026/08/ca4e5a55.jpg",
