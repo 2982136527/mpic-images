@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "91cf7ffb",
+      "filename": "pixiv_149082077_p0.jpg",
+      "path": "uploads/2026/08/313dd2a7.jpg",
+      "size": 554306,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "992f285298cbec5d975dbbd1c81178ce456d6e1cf6b7f0ccd496e05a3e16d253",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:15:44.925Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "永続バニーの日レジーム",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ジェンティルドンナ(ウマ娘)",
+        "バニーウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149082077_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149082077",
+      "sourceCreatedAt": "2026-08-30T13:42:00.000Z"
+    },
+    {
       "id": "99e0a0c7",
       "filename": "pixiv_149054905_p0.jpg",
       "path": "uploads/2026/08/bd65c06d.jpg",
