@@ -3,6 +3,37 @@
   "shardId": "11",
   "images": [
     {
+      "id": "71b1a834",
+      "filename": "pixiv_149039210_p0.jpg",
+      "path": "uploads/2026/08/8c1acf78.jpg",
+      "size": 236866,
+      "width": 700,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "ec99f37342f4c7321e620037bdb56b9973813298b8771899cb19eca916b0dd53",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:21:02.599Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "だーれだ？",
+      "tags": [
+        "ポケモン",
+        "カフェライチュウ",
+        "ミヅキ(トレーナー)",
+        "ふご",
+        "やはり偏るアンケート",
+        "だーれだ",
+        "なにこの仔かわいい",
+        "住民票=お土産",
+        "訓練されたコメント欄",
+        "フェイスハガー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149039210_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149039210",
+      "sourceCreatedAt": "2026-08-29T14:40:50.000Z"
+    },
+    {
       "id": "fca083dc",
       "filename": "pixiv_149003398_p0.jpg",
       "path": "uploads/2026/08/30e8abf0.jpg",
