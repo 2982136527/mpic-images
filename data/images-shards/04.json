@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "2e1a31c2",
+      "filename": "pixiv_149022421_p0.jpg",
+      "path": "uploads/2026/08/a40836a5.jpg",
+      "size": 709356,
+      "width": 693,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "53d79b76a6979dbe0eda5f29f40e9d9ab2473342d6381efba92bc931993977f7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T21:31:23.362Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "oc",
+      "tags": [
+        "오리지널",
+        "美小女",
+        "黒スト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149022421_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149022421",
+      "sourceCreatedAt": "2026-08-29T08:18:35.000Z"
+    },
+    {
       "id": "bf8e18ee",
       "filename": "pixiv_149055231_p0.jpg",
       "path": "uploads/2026/08/ecd6d44a.jpg",
