@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "519da9fd",
+      "filename": "pixiv_149018491_p0.jpg",
+      "path": "uploads/2026/08/217e8fe6.jpg",
+      "size": 729426,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3c443ab19ccd8a037974913d240e16d32b68d71830504c1eb03d429ae97de4a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T21:30:48.132Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ノア",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "ブルアカ",
+        "生塩ノア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149018491_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149018491",
+      "sourceCreatedAt": "2026-08-29T05:53:59.000Z"
+    },
+    {
       "id": "fc724be3",
       "filename": "pixiv_149020569_p0.jpg",
       "path": "uploads/2026/08/ecda7142.jpg",
