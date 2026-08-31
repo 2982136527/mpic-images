@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "53b93bec",
+      "filename": "pixiv_149050760_p0.jpg",
+      "path": "uploads/2026/08/fb4e2b69.jpg",
+      "size": 477643,
+      "width": 908,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c65d26ace1dda2d3f92cf469fec82fb9fa07637ca4e5ff5e4e06cc65d126210b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:24:53.760Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "右博7",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "ディミ博",
+        "白铁博"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149050760_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149050760",
+      "sourceCreatedAt": "2026-08-29T22:43:00.000Z"
+    },
+    {
       "id": "a599ec3f",
       "filename": "pixiv_149010124_p0.jpg",
       "path": "uploads/2026/08/975fe94d.jpg",
