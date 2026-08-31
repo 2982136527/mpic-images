@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "9b266e69",
+      "filename": "pixiv_149039553_p0.jpg",
+      "path": "uploads/2026/08/ac7becd1.jpg",
+      "size": 430419,
+      "width": 656,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ba6dd2d61eb068a20fb14a4c6e8cd69ed52f0406846501626670fdb1be5620e6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:08:30.323Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "紫猫ちゃん",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "ネコミミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149039553_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149039553",
+      "sourceCreatedAt": "2026-08-29T14:49:51.000Z"
+    },
+    {
       "id": "8b82252c",
       "filename": "pixiv_149052684_p0.jpg",
       "path": "uploads/2026/08/c2021f49.jpg",
