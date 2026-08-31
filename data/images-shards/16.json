@@ -3,6 +3,37 @@
   "shardId": "16",
   "images": [
     {
+      "id": "21bd42a9",
+      "filename": "pixiv_149054010_p0.jpg",
+      "path": "uploads/2026/08/9d88fccc.jpg",
+      "size": 642834,
+      "width": 1200,
+      "height": 873,
+      "mimeType": "image/jpeg",
+      "hash": "84c187a6ab74a4103fa8fb48e7055380fcff65d2216c8983251d0957841e75e0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T21:30:12.338Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "莫と美浪ちゃん",
+      "tags": [
+        "仮面ライダーゼッツ",
+        "万津莫",
+        "万津美浪",
+        "万津兄妹",
+        "特撮",
+        "となりのトトロ",
+        "夢だけど夢じゃなかった",
+        "だいたいあってる",
+        "仮面ライダー100users入り",
+        "ほぼあってる"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149054010_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149054010",
+      "sourceCreatedAt": "2026-08-30T01:10:23.000Z"
+    },
+    {
       "id": "dec6d430",
       "filename": "pixiv_148997773_p0.jpg",
       "path": "uploads/2026/08/b4713982.jpg",
