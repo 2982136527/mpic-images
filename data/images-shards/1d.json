@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "591ed8db",
+      "filename": "pixiv_148999361_p0.jpg",
+      "path": "uploads/2026/08/86d0dc3a.jpg",
+      "size": 1415064,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4c39b10293c8a7f0bba37bc39c1489ea21c7281f007083578c41f24bb258c25b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:15:52.748Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "bll夢詰め",
+      "tags": [
+        "夢ルーロック",
+        "夢漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148999361_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148999361",
+      "sourceCreatedAt": "2026-08-28T15:24:41.000Z"
+    },
+    {
       "id": "935a2a37",
       "filename": "pixiv_149069989_p0.jpg",
       "path": "uploads/2026/08/dd9e356a.jpg",
