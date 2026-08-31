@@ -3,6 +3,28 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "84c58c07",
+      "filename": "pixiv_149026843_p0.jpg",
+      "path": "uploads/2026/08/71f7e8e1.jpg",
+      "size": 431972,
+      "width": 1063,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "335036efa53bd72000e7dacde77c27c08fabdb459e438ae7a651399bb848beee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:26:36.692Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Fox",
+      "tags": [
+        "THEFINALS"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149026843_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149026843",
+      "sourceCreatedAt": "2026-08-29T10:12:05.000Z"
+    },
+    {
       "id": "5030d0c4",
       "filename": "pixiv_149025688_p0.jpg",
       "path": "uploads/2026/08/46ef9a9d.jpg",
