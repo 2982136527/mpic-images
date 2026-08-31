@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "78aeadf1",
+      "filename": "pixiv_149048179_p0.jpg",
+      "path": "uploads/2026/08/3ae61b5d.jpg",
+      "size": 733433,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fd12947a8adcd8c581a8068e35adf5a54703c8cffaab9a06813a0b0afeea2eb0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:26:09.538Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "備忘録",
+      "tags": [
+        "空",
+        "風景",
+        "オリジナル",
+        "雲",
+        "夕焼け",
+        "青空"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149048179_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149048179",
+      "sourceCreatedAt": "2026-08-29T20:03:11.000Z"
+    },
+    {
       "id": "fe0e2c3a",
       "filename": "pixiv_148999724_p0.jpg",
       "path": "uploads/2026/08/f0ec31e1.jpg",
