@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "288902eb",
+      "filename": "pixiv_149069501_p0.jpg",
+      "path": "uploads/2026/08/51e1de7c.jpg",
+      "size": 1054893,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "a848d6ce4cea1536ca56c4885c37a696337d7463c985ac9b8f540622577b4f4f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:11:45.594Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Dearest You",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ナカヤマフェスタ(ウマ娘)",
+        "天国へ競走しに行った馬"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149069501_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149069501",
+      "sourceCreatedAt": "2026-08-30T09:30:45.000Z"
+    },
+    {
       "id": "1de9cd26",
       "filename": "pixiv_149048855_p0.jpg",
       "path": "uploads/2026/08/e151b528.jpg",
