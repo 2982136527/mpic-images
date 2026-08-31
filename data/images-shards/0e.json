@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "bfd73f4f",
+      "filename": "pixiv_149027803_p0.jpg",
+      "path": "uploads/2026/08/0673d24f.jpg",
+      "size": 599310,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6cbef43b3c52849c4bfd9301996378efcf232adceef4a8087548c59bbbbf2657",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:07:47.844Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "お団子ミク",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ボカロ",
+        "HatsuneMiku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149027803_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149027803",
+      "sourceCreatedAt": "2026-08-29T10:37:17.000Z"
+    },
+    {
       "id": "aa1d293f",
       "filename": "pixiv_149033971_p0.jpg",
       "path": "uploads/2026/08/acfe55a9.jpg",
