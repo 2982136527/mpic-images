@@ -3,6 +3,34 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "5dd804b0",
+      "filename": "pixiv_149053778_p0.jpg",
+      "path": "uploads/2026/08/50d1c4ca.jpg",
+      "size": 922959,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "410758ed6ddd329b04fbd8e22eff8874b9f78e5fda80f427216cee625908ee79",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T21:35:10.526Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "出かける準備は出来たかい？",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "キタサンブラック(ウマ娘)",
+        "サトノダイヤモンド(ウマ娘)",
+        "ポケモン",
+        "ウマ娘幼馴染概念ステークス",
+        "ウマ娘ポケモンダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149053778_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149053778",
+      "sourceCreatedAt": "2026-08-30T01:01:24.000Z"
+    },
+    {
       "id": "d4019c0e",
       "filename": "pixiv_149035712_p0.jpg",
       "path": "uploads/2026/08/7fd4a084.jpg",
