@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "1de9cd26",
+      "filename": "pixiv_149048855_p0.jpg",
+      "path": "uploads/2026/08/e151b528.jpg",
+      "size": 824584,
+      "width": 1200,
+      "height": 793,
+      "mimeType": "image/jpeg",
+      "hash": "c19093354cace25ca72381be0cac43b0956ce0b7003d99c6ae3f2d529fa351a9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:10:05.951Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "アリョーシャ………？",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "アリョーシャ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149048855_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149048855",
+      "sourceCreatedAt": "2026-08-29T20:59:30.000Z"
+    },
+    {
       "id": "c5fb57f9",
       "filename": "pixiv_148998237_p0.jpg",
       "path": "uploads/2026/08/98e0fdfd.jpg",
