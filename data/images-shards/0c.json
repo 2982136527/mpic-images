@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "abc0d152",
+      "filename": "pixiv_149059070_p0.jpg",
+      "path": "uploads/2026/08/fe05def9.jpg",
+      "size": 1909605,
+      "width": 1195,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e90463aa59c471d2b74864765b11cceb7b95944da8b6c851c9391fd893765cfe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:28:16.150Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "薬屋まとめ９",
+      "tags": [
+        "薬屋のひとりごと",
+        "壬猫"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149059070_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149059070",
+      "sourceCreatedAt": "2026-08-30T04:09:26.000Z"
+    },
+    {
       "id": "78488ece",
       "filename": "pixiv_149030563_p0.jpg",
       "path": "uploads/2026/08/f7225118.jpg",
