@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "d2cd12ae",
+      "filename": "pixiv_149042232_p0.jpg",
+      "path": "uploads/2026/08/fcfe8e4a.jpg",
+      "size": 620224,
+      "width": 885,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ad71328029fa2487383b4e37424f96e460a584571428493b2bb3d2cc2e48729b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T16:16:30.622Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ショートらでん",
+      "tags": [
+        "らでん似絵",
+        "儒烏風亭らでん",
+        "ホロライブ",
+        "バーチャルYouTuber100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149042232_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149042232",
+      "sourceCreatedAt": "2026-08-29T15:42:16.000Z"
+    },
+    {
       "id": "95c9948d",
       "filename": "pixiv_149063356_p0.jpg",
       "path": "uploads/2026/08/de1b5038.jpg",
