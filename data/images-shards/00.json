@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "adad750c",
+      "filename": "pixiv_149027837_p0.jpg",
+      "path": "uploads/2026/08/7d50d4c8.jpg",
+      "size": 614147,
+      "width": 862,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "714e23777130544d82f3ab6698f6135d981d6a2028553db93c048d4c0cdd1cbf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-08-31T05:20:48.958Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "髪の毛ストレートミク",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ボカロ",
+        "HatsuneMiku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149027837_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149027837",
+      "sourceCreatedAt": "2026-08-29T10:38:07.000Z"
+    },
+    {
       "id": "5069a99a",
       "filename": "pixiv_148782487_p0.jpg",
       "path": "uploads/2026/08/768b1451.jpg",
