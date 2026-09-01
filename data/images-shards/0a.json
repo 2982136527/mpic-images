@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "3c6fb04c",
+      "filename": "pixiv_149119781_p0.jpg",
+      "path": "uploads/2026/09/d5e4876d.jpg",
+      "size": 1380622,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "99ebc94222c2f6dd2bfdf177366f19a8f4bc4a6fb995269e6e58d5f86998b095",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:55:32.949Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Birth",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "VOCALOID500users入り",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149119781_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149119781",
+      "sourceCreatedAt": "2026-08-31T12:17:13.000Z"
+    },
+    {
       "id": "4ad29af0",
       "filename": "pixiv_149023786_p0.jpg",
       "path": "uploads/2026/08/2634581d.jpg",
