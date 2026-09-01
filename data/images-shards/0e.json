@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "5e677c1f",
+      "filename": "pixiv_149058445_p0.jpg",
+      "path": "uploads/2026/09/a83c4854.jpg",
+      "size": 1143544,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c0a93734c65b0f0408a2bfffe1c97ac456c4dd44f391b482505bc9f95b9fa3dd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T19:26:06.780Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "真姫ちゃん",
+      "tags": [
+        "ラブライブ!",
+        "μ's",
+        "西木野真姫"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149058445_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149058445",
+      "sourceCreatedAt": "2026-08-30T03:47:19.000Z"
+    },
+    {
       "id": "0ef61b61",
       "filename": "pixiv_149120540_p0.jpg",
       "path": "uploads/2026/09/341b5669.jpg",
