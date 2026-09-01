@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "86bd1ef5",
+      "filename": "pixiv_149101912_p0.jpg",
+      "path": "uploads/2026/09/af8a703d.jpg",
+      "size": 1184894,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "479f08012b9025241cefcc427afe57e2d7643329eb9bc7969ffea04209d410d5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:29:40.124Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "commission504",
+      "tags": [
+        "足指",
+        "ソックス足裏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149101912_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149101912",
+      "sourceCreatedAt": "2026-08-31T02:39:57.000Z"
+    },
+    {
       "id": "cd1b1526",
       "filename": "pixiv_149089931_p0.jpg",
       "path": "uploads/2026/09/417e3ba2.jpg",
