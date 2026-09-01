@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "4184bee0",
+      "filename": "pixiv_149119161_p0.jpg",
+      "path": "uploads/2026/09/11f68163.jpg",
+      "size": 939310,
+      "width": 698,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4202600f1c9d37d5ca075ae2af845b79380a0203e38924f69cdec75f926a4586",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:58:32.220Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "スパイダー・アスナ",
+      "tags": [
+        "ブルーアーカイブ",
+        "一之瀬アスナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149119161_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149119161",
+      "sourceCreatedAt": "2026-08-31T12:04:57.000Z"
+    },
+    {
       "id": "84c58c07",
       "filename": "pixiv_149026843_p0.jpg",
       "path": "uploads/2026/08/71f7e8e1.jpg",
