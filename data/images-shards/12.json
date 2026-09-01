@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "8f72210d",
+      "filename": "pixiv_149086708_p0.jpg",
+      "path": "uploads/2026/09/0193978d.jpg",
+      "size": 2339008,
+      "width": 1200,
+      "height": 1152,
+      "mimeType": "image/jpeg",
+      "hash": "86c0c367427b0efc08b368521240fc7e220961e0a21873574afd9a765a5acbf0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:28:03.424Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "骨",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "VOCALOID1000users入り",
+        "初音ミク生誕祭2026"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149086708_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149086708",
+      "sourceCreatedAt": "2026-08-30T15:00:36.000Z"
+    },
+    {
       "id": "73c7ada0",
       "filename": "pixiv_149086630_p0.jpg",
       "path": "uploads/2026/09/d16752d5.jpg",
