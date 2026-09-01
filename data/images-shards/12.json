@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "d6a3eeef",
+      "filename": "pixiv_149114926_p0.jpg",
+      "path": "uploads/2026/09/bb8c9eb9.jpg",
+      "size": 403147,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2688b4219deff1aeb2422b7707c53fa57e88e92340cd173ae26d511370bd73ab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:59:30.443Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "グラウル君",
+      "tags": [
+        "オリジナル",
+        "F家の子供達"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149114926_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149114926",
+      "sourceCreatedAt": "2026-08-31T10:44:11.000Z"
+    },
+    {
       "id": "db8e488a",
       "filename": "pixiv_149024399_p0.jpg",
       "path": "uploads/2026/08/804bb172.jpg",
