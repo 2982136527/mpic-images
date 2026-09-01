@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "ec5a31d6",
+      "filename": "pixiv_149086833_p0.jpg",
+      "path": "uploads/2026/09/8e056db5.jpg",
+      "size": 1808922,
+      "width": 1092,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "02156a0fe33f48ebc3ff5639416e610dec4202ac2a48ee748af4deb5a460e6bd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:28:12.571Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "HBD MIKU",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149086833_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149086833",
+      "sourceCreatedAt": "2026-08-30T15:01:01.000Z"
+    },
+    {
       "id": "7bbdaa74",
       "filename": "pixiv_149075946_p0.jpg",
       "path": "uploads/2026/09/e9325962.jpg",
