@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "5fce07b1",
+      "filename": "pixiv_149102099_p0.jpg",
+      "path": "uploads/2026/09/a2a7334f.jpg",
+      "size": 924265,
+      "width": 1200,
+      "height": 857,
+      "mimeType": "image/jpeg",
+      "hash": "37320f08f8e0154ffd37fb8fbf5dc5aecd321da467004456eae181d2a2471538",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T19:26:53.794Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🌠✨",
+      "tags": [
+        "女の子",
+        "獣耳",
+        "セーラー服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149102099_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149102099",
+      "sourceCreatedAt": "2026-08-31T02:49:38.000Z"
+    },
+    {
       "id": "163464fd",
       "filename": "pixiv_149107984_p0.jpg",
       "path": "uploads/2026/09/fc0114c8.jpg",
