@@ -3,6 +3,34 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "c6ce368a",
+      "filename": "pixiv_149086567_p0.jpg",
+      "path": "uploads/2026/09/cd79f130.jpg",
+      "size": 712524,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1fac3637d33e419c7c4a55c0a17159ec0a924fc89b43cd534fa19710414b0637",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:59:36.805Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "楽ちん石畳の描き方解説",
+      "tags": [
+        "オリジナル",
+        "描き方",
+        "講座",
+        "石畳",
+        "地面",
+        "風景",
+        "背景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149086567_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149086567",
+      "sourceCreatedAt": "2026-08-30T15:00:17.000Z"
+    },
+    {
       "id": "788ec039",
       "filename": "pixiv_149060309_p0.jpg",
       "path": "uploads/2026/09/ac997f11.jpg",
