@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "1318e4a0",
+      "filename": "pixiv_149108377_p0.jpg",
+      "path": "uploads/2026/09/6a321724.jpg",
+      "size": 415326,
+      "width": 597,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "edc20881b27abae1099d05b7247c31d9c31021affd3c135b4005a99ce55077c9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:31:47.955Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "T-79-9E2",
+      "tags": [
+        "提弗洛斯",
+        "明日方舟:终末地",
+        "正規軍(ドールズフロントライン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149108377_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149108377",
+      "sourceCreatedAt": "2026-08-31T09:58:18.000Z"
+    },
+    {
       "id": "4d4398dd",
       "filename": "pixiv_148882183_p0.jpg",
       "path": "uploads/2026/09/2582df8a.jpg",
