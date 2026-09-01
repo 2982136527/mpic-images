@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "d49de59d",
+      "filename": "pixiv_149072474_p0.jpg",
+      "path": "uploads/2026/09/2fec3ecb.jpg",
+      "size": 1125320,
+      "width": 944,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "19fcde14e8e6500a274d0e010dae50a81ba7d9717c00622c629b1f62bcf17d95",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T19:27:42.712Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "EternalReturn:BlackSurvival",
+        "이터널리턴",
+        "루치아"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149072474_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149072474",
+      "sourceCreatedAt": "2026-08-30T10:38:59.000Z"
+    },
+    {
       "id": "43095265",
       "filename": "pixiv_149091504_p0.jpg",
       "path": "uploads/2026/09/b9f0d77f.jpg",
