@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "97cf642b",
+      "filename": "pixiv_149090117_p0.jpg",
+      "path": "uploads/2026/09/fe507712.jpg",
+      "size": 931668,
+      "width": 642,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cdef22222144cd95ae855a49ac882562344502f8ecda752cc0fc3bb4f1b7e1ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:32:15.774Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Dear Miku",
+      "tags": [
+        "初音ミク",
+        "初音ミク生誕祭2026",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149090117_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149090117",
+      "sourceCreatedAt": "2026-08-30T16:02:50.000Z"
+    },
+    {
       "id": "18e0d03c",
       "filename": "pixiv_149086694_p0.jpg",
       "path": "uploads/2026/09/1fd2dcd8.jpg",
