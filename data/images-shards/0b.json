@@ -3,6 +3,32 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "9d1de748",
+      "filename": "pixiv_149108512_p0.jpg",
+      "path": "uploads/2026/09/3368263e.jpg",
+      "size": 937286,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2e8dfaf55625e0e286fc728c743a3fb528584d0a25bfe7446254216b08ce30d5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:59:58.839Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "飛鳥馬トキ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "飛鳥馬トキ",
+        "ぱんつ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149108512_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149108512",
+      "sourceCreatedAt": "2026-08-31T07:41:56.000Z"
+    },
+    {
       "id": "b7d0c335",
       "filename": "pixiv_149103136_p0.jpg",
       "path": "uploads/2026/09/676e3962.jpg",
