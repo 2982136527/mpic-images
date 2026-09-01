@@ -3,6 +3,36 @@
   "shardId": "10",
   "images": [
     {
+      "id": "2cbdd851",
+      "filename": "pixiv_149043455_p0.jpg",
+      "path": "uploads/2026/09/89bc3dd8.jpg",
+      "size": 770763,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b3bcbc6e1d43b9933e76a25d8e2f856e41b291cec9da4d1c5b8c694c9eb3ee70",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T19:31:00.691Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "花月",
+      "tags": [
+        "艦これ",
+        "艦これかわいい",
+        "艦隊これくしょん",
+        "まったく、駆逐艦は最高だぜ!!",
+        "花月",
+        "花月(艦隊これくしょん)",
+        "身体に落書き",
+        "正の字",
+        "私で童貞捨てたくせに"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149043455_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149043455",
+      "sourceCreatedAt": "2026-08-29T16:14:26.000Z"
+    },
+    {
       "id": "426e1749",
       "filename": "pixiv_149110475_p0.jpg",
       "path": "uploads/2026/09/614311f5.jpg",
