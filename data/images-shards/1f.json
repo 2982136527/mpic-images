@@ -3,6 +3,34 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "5e58732e",
+      "filename": "pixiv_149086493_p0.jpg",
+      "path": "uploads/2026/09/b2fb2df8.jpg",
+      "size": 1801988,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e3f1a62124d99e6d6d40b32814cf6536a3c370383bdc52dfe7d04e1cde924bf8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T19:25:02.123Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "黎明の歌",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "初音ミク生誕祭2026",
+        "初音ミク誕生祭2026",
+        "翼",
+        "黎明",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149086493_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149086493",
+      "sourceCreatedAt": "2026-08-30T15:00:07.000Z"
+    },
+    {
       "id": "8c47e2f3",
       "filename": "pixiv_149116211_p0.jpg",
       "path": "uploads/2026/09/71ab00d5.jpg",
