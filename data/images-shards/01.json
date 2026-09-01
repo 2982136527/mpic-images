@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "9a433268",
+      "filename": "pixiv_148893307_p0.jpg",
+      "path": "uploads/2026/09/e4b5de08.jpg",
+      "size": 985574,
+      "width": 1070,
+      "height": 798,
+      "mimeType": "image/jpeg",
+      "hash": "a892283572932992065d5089037f0d45b3ee1fe107475cf7c5aa6dc2adaee0af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T05:04:15.246Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "変わりゆく街",
+      "tags": [
+        "背景",
+        "風景",
+        "オリジナル",
+        "創作",
+        "オリジナル500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148893307_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148893307",
+      "sourceCreatedAt": "2026-08-25T23:56:12.000Z"
+    },
+    {
       "id": "c36b192f",
       "filename": "pixiv_149067316_p0.jpg",
       "path": "uploads/2026/08/d99c86e7.jpg",
