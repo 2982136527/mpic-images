@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "d4399a5a",
+      "filename": "pixiv_149087229_p0.jpg",
+      "path": "uploads/2026/09/4cdb22ae.jpg",
+      "size": 1269334,
+      "width": 916,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d80424b97b3e2e161e1e89bde56b7726f3c0acdde9838ace1492f08cb97f6a08",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:27:30.022Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "鹿目まどか",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "ワルプルギスの廻天",
+        "鹿目まどか",
+        "まどか☆マギカ500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149087229_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149087229",
+      "sourceCreatedAt": "2026-08-30T15:04:05.000Z"
+    },
+    {
       "id": "1bd4cc56",
       "filename": "pixiv_149087482_p0.jpg",
       "path": "uploads/2026/09/5907a2b9.jpg",
