@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "4215f878",
+      "filename": "pixiv_149102151_p0.jpg",
+      "path": "uploads/2026/09/473bfead.jpg",
+      "size": 1049214,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9c2fa7db098b9d1d7b1e226208afd495ba5a5581f151114342f946ff39ea13f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T05:00:30.549Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "キュアアルカナ",
+      "tags": [
+        "名探偵プリキュア!",
+        "キュアアルカナ",
+        "たんプリ",
+        "precure"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149102151_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149102151",
+      "sourceCreatedAt": "2026-08-31T02:51:59.000Z"
+    },
+    {
       "id": "3257c814",
       "filename": "pixiv_149098342_p0.jpg",
       "path": "uploads/2026/09/c385e2cf.jpg",
