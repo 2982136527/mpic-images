@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "619b62ad",
+      "filename": "pixiv_149094022_p0.jpg",
+      "path": "uploads/2026/09/5ebcbccf.jpg",
+      "size": 869958,
+      "width": 1200,
+      "height": 816,
+      "mimeType": "image/jpeg",
+      "hash": "4705692ce14087f09bde2971ed16c3b07446839dea5e94e75362e0832fde6a0b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:58:49.226Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ロレエル",
+      "tags": [
+        "ロレエル",
+        "ロレット(トリッカル)",
+        "エルフィン(トリッカル)",
+        "トリッカル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149094022_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149094022",
+      "sourceCreatedAt": "2026-08-30T18:51:11.000Z"
+    },
+    {
       "id": "852db09e",
       "filename": "pixiv_149058218_p0.jpg",
       "path": "uploads/2026/08/ab08ae8d.jpg",
