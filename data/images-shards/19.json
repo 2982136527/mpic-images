@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "a9cc5a78",
+      "filename": "pixiv_149086563_p0.jpg",
+      "path": "uploads/2026/09/b8540b85.jpg",
+      "size": 751056,
+      "width": 776,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4913ba94b9e1887fbc0f3418055cf80fd62260fd1dcc4e98182525bb69fd52c3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:32:08.010Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Lumine",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "蛍(原神)",
+        "lumine"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149086563_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149086563",
+      "sourceCreatedAt": "2026-08-30T15:00:16.000Z"
+    },
+    {
       "id": "f02bfb68",
       "filename": "pixiv_149083984_p0.jpg",
       "path": "uploads/2026/09/b530e60d.jpg",
