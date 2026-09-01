@@ -3,6 +3,35 @@
   "shardId": "03",
   "images": [
     {
+      "id": "2da70306",
+      "filename": "pixiv_149091529_p0.jpg",
+      "path": "uploads/2026/09/bc5c4752.jpg",
+      "size": 906317,
+      "width": 1200,
+      "height": 627,
+      "mimeType": "image/jpeg",
+      "hash": "336693020586e4b344e33f48e6a9dd95e2445976cbac2e2882b1e24b57e70659",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:55:40.732Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "电子天使",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "miku",
+        "插画",
+        "绘画",
+        "初音未来",
+        "ミクさんと花",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149091529_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149091529",
+      "sourceCreatedAt": "2026-08-30T16:48:16.000Z"
+    },
+    {
       "id": "91cf7ffb",
       "filename": "pixiv_149082077_p0.jpg",
       "path": "uploads/2026/08/313dd2a7.jpg",
