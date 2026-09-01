@@ -3,6 +3,37 @@
   "shardId": "05",
   "images": [
     {
+      "id": "e51ebe7b",
+      "filename": "pixiv_149087758_p0.jpg",
+      "path": "uploads/2026/09/20b25d3b.jpg",
+      "size": 1170915,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "391fafa9d5715034594edefc593dc629cc86d73a37985760583f0e51a9c2f8a5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T19:24:19.664Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "お誕生日配信中！🎂",
+      "tags": [
+        "初音ミク",
+        "初音ミク生誕祭2026",
+        "初音ミク誕生祭2026",
+        "VOCALOID",
+        "ボーカロイド",
+        "ボカロ",
+        "HatsuneMiku",
+        "誕生日",
+        "誕生日絵",
+        "初音ミクV6"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149087758_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149087758",
+      "sourceCreatedAt": "2026-08-30T15:11:15.000Z"
+    },
+    {
       "id": "dec3f653",
       "filename": "pixiv_149109325_p0.jpg",
       "path": "uploads/2026/09/6b6e09e2.jpg",
