@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "28b30f02",
+      "filename": "pixiv_149052767_p0.jpg",
+      "path": "uploads/2026/09/f6f0c021.jpg",
+      "size": 851835,
+      "width": 1124,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "254754bc5d399cfdb89ae5c9f7c3976ab870d1dd8d95363d9cc3c6cc0fab8a50",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T19:21:23.148Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ネンドールメカ",
+      "tags": [
+        "ネンドール",
+        "メカ",
+        "からくり",
+        "ポケモン",
+        "ポケットモンスター",
+        "厚塗り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149052767_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149052767",
+      "sourceCreatedAt": "2026-08-30T00:19:01.000Z"
+    },
+    {
       "id": "4b6b8641",
       "filename": "pixiv_149086432_p0.jpg",
       "path": "uploads/2026/09/c2009939.jpg",
