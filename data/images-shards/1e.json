@@ -3,6 +3,34 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "ea525d57",
+      "filename": "pixiv_149086626_p0.jpg",
+      "path": "uploads/2026/09/b40d8482.jpg",
+      "size": 1300833,
+      "width": 827,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4b0794eeb447b5d391c1ea4b7c8f14dec15b3637744e9f3d24cedd7e5d101d71",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T05:03:39.802Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Happy Birthday To MIKU",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "HatsuneMiku",
+        "miku",
+        "ボーカロイド",
+        "初音ミク生誕祭2026",
+        "初音ミク誕生祭2026"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149086626_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149086626",
+      "sourceCreatedAt": "2026-08-30T15:00:23.000Z"
+    },
+    {
       "id": "388905ae",
       "filename": "pixiv_149074678_p0.jpg",
       "path": "uploads/2026/08/b984bb93.jpg",
