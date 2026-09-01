@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "76bbd83c",
+      "filename": "pixiv_149076334_p0.jpg",
+      "path": "uploads/2026/09/05a44aa7.jpg",
+      "size": 933044,
+      "width": 1200,
+      "height": 962,
+      "mimeType": "image/jpeg",
+      "hash": "b30127893a795c66a1e0f0e18fef10e09d98829473b91b72784034ca9609c3bc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:32:44.211Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "シグリッド",
+        "Sigrid",
+        "ゼンゼロ",
+        "zzzero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149076334_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149076334",
+      "sourceCreatedAt": "2026-08-30T11:59:35.000Z"
+    },
+    {
       "id": "f9b905bf",
       "filename": "pixiv_149102754_p0.jpg",
       "path": "uploads/2026/09/7bcc5761.jpg",
