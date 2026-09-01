@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "fae09026",
+      "filename": "pixiv_149087643_p0.jpg",
+      "path": "uploads/2026/09/7d94786a.jpg",
+      "size": 1296248,
+      "width": 1200,
+      "height": 572,
+      "mimeType": "image/jpeg",
+      "hash": "56e5d93a0bcb2764f3d8034de9376dd350d0202f370f4295d58423b6bd77af80",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:57:35.753Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "初音ミク19th Anniversary",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "初音ミク19周年",
+        "初音ミク生誕祭2026",
+        "Miku19th",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149087643_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149087643",
+      "sourceCreatedAt": "2026-08-30T15:09:01.000Z"
+    },
+    {
       "id": "4bb82359",
       "filename": "pixiv_149063083_p0.jpg",
       "path": "uploads/2026/09/8492ac68.jpg",
