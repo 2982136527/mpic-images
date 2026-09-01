@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "2f2a4474",
+      "filename": "pixiv_149118237_p0.jpg",
+      "path": "uploads/2026/09/d1556ca4.jpg",
+      "size": 1224822,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "574989764bfbda6ae156d5634b9389655f8a9a8786008386627613ee0a861bdb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T05:00:38.257Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "祝福は星月夜のように",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "初音ミク生誕祭2026"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149118237_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149118237",
+      "sourceCreatedAt": "2026-08-31T14:08:50.000Z"
+    },
+    {
       "id": "bccb07b3",
       "filename": "pixiv_149116596_p0.jpg",
       "path": "uploads/2026/09/99276615.jpg",
