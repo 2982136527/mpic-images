@@ -3,6 +3,35 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "0cbddaaf",
+      "filename": "pixiv_149088706_p0.jpg",
+      "path": "uploads/2026/09/9eccd2b7.jpg",
+      "size": 1018224,
+      "width": 841,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b0e65459ad84b86cd12cab368628fc652d2b7bdc97f41e021dfa21e63da069e4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:27:38.266Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "19th",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "巡音ルカ",
+        "KAITO",
+        "鏡音リン",
+        "鏡音レン",
+        "MEIKO",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149088706_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149088706",
+      "sourceCreatedAt": "2026-08-30T15:30:05.000Z"
+    },
+    {
       "id": "5761840e",
       "filename": "pixiv_148906926_p0.jpg",
       "path": "uploads/2026/09/5edd5a34.jpg",
