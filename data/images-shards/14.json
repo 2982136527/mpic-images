@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "95cda4fb",
+      "filename": "pixiv_149090111_p0.jpg",
+      "path": "uploads/2026/09/10e6e137.jpg",
+      "size": 1241373,
+      "width": 747,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "982a72fd0e3a69d884238ae515a9a22f954fd17efd409796b06e5fcad343e3cc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T05:03:32.759Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "8.31贺图",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149090111_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149090111",
+      "sourceCreatedAt": "2026-08-30T16:02:38.000Z"
+    },
+    {
       "id": "0bab2ede",
       "filename": "pixiv_149087341_p0.jpg",
       "path": "uploads/2026/09/d492e5f4.jpg",
