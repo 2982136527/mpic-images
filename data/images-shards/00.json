@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "18e0d03c",
+      "filename": "pixiv_149086694_p0.jpg",
+      "path": "uploads/2026/09/1fd2dcd8.jpg",
+      "size": 1267806,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df348f0498c6c4d111863765a5ee642106619ec530ff9e96d45f1e2b2d3aa6eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T05:03:11.997Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🍰🎉",
+      "tags": [
+        "初音ミク",
+        "VOCALOID500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149086694_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149086694",
+      "sourceCreatedAt": "2026-08-30T15:00:33.000Z"
+    },
+    {
       "id": "a2996e0d",
       "filename": "pixiv_149119197_p0.jpg",
       "path": "uploads/2026/09/841bf142.jpg",
