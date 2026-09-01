@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "be63d5b4",
+      "filename": "pixiv_149040133_p0.jpg",
+      "path": "uploads/2026/09/cc7de0cc.jpg",
+      "size": 1723093,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "831f6528ccffd56ea713e970b39f5ebbab110cb39e4ebafcf15f3c7543abba23",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:56:01.861Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "夏まつり冬まつり",
+      "tags": [
+        "初音ミク",
+        "マジカルミライ",
+        "VOCALOID5000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149040133_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149040133",
+      "sourceCreatedAt": "2026-08-29T15:00:16.000Z"
+    },
+    {
       "id": "8311003b",
       "filename": "pixiv_149016529_p0.jpg",
       "path": "uploads/2026/08/6da54e13.jpg",
