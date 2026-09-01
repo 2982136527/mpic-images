@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "a2d758e4",
+      "filename": "pixiv_149045765_p0.jpg",
+      "path": "uploads/2026/09/02fa6513.jpg",
+      "size": 865058,
+      "width": 1142,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7e1a05d02806433827d6c176c233554d5440f944a60bed6b6397a6a2b1b4c8ed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:35:14.683Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "모제스",
+      "tags": [
+        "Limbus_Company"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149045765_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149045765",
+      "sourceCreatedAt": "2026-08-29T17:44:31.000Z"
+    },
+    {
       "id": "e6288bbe",
       "filename": "pixiv_149053042_p0.jpg",
       "path": "uploads/2026/09/2547417b.jpg",
