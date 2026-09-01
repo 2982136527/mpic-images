@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "1bd4cc56",
+      "filename": "pixiv_149087482_p0.jpg",
+      "path": "uploads/2026/09/5907a2b9.jpg",
+      "size": 722785,
+      "width": 782,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9315a28875cdaccc195d7d703ceb75d7fb48bc82f8be817ea3273e0ce61c7c87",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T05:02:43.894Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "みんなで。",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149087482_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149087482",
+      "sourceCreatedAt": "2026-08-30T15:06:49.000Z"
+    },
+    {
       "id": "43746a64",
       "filename": "pixiv_149088647_p0.jpg",
       "path": "uploads/2026/09/d5776be8.jpg",
