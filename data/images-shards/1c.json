@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "0b3523d7",
+      "filename": "pixiv_149110126_p0.jpg",
+      "path": "uploads/2026/09/6aa02cbb.jpg",
+      "size": 564665,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ee0cf39476a51b25c5083aa2cfa9fa5fa2e4b5efd54a466eead2396055b46668",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T05:02:21.708Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "F家の彼奴ら",
+      "tags": [
+        "オリジナル",
+        "F家の子供達"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149110126_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149110126",
+      "sourceCreatedAt": "2026-08-31T08:40:11.000Z"
+    },
+    {
       "id": "8d6af97d",
       "filename": "pixiv_149040160_p0.jpg",
       "path": "uploads/2026/08/f33538c0.jpg",
