@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "36fb6551",
+      "filename": "pixiv_149118146_p0.jpg",
+      "path": "uploads/2026/09/40f9aa12.jpg",
+      "size": 1093608,
+      "width": 1200,
+      "height": 977,
+      "mimeType": "image/jpeg",
+      "hash": "8de6629ff05dbbad278893127713f62b9d17673df754594c08edd63cb7171089",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:27:02.695Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "マジミラまとめ",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "マジカルミライ",
+        "VOCALOID500users入り",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149118146_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149118146",
+      "sourceCreatedAt": "2026-08-31T11:49:22.000Z"
+    },
+    {
       "id": "6fd5e67e",
       "filename": "pixiv_149077036_p0.jpg",
       "path": "uploads/2026/09/5cb90219.jpg",
