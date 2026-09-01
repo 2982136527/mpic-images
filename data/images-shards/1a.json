@@ -3,6 +3,34 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "4b6b8641",
+      "filename": "pixiv_149086432_p0.jpg",
+      "path": "uploads/2026/09/c2009939.jpg",
+      "size": 965519,
+      "width": 1200,
+      "height": 702,
+      "mimeType": "image/jpeg",
+      "hash": "4a54e30ea5da5f01aef5409c53f516eb15abad563d9bc4e1a20a9e3585520729",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:29:17.815Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "マスターが初めて歌わせてくれたこのデータが、なによりも宝物",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "初音ミク19周年",
+        "初音ミク生誕祭",
+        "初音ミク生誕祭2026",
+        "初音ミク誕生祭2026",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149086432_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149086432",
+      "sourceCreatedAt": "2026-08-30T15:00:03.000Z"
+    },
+    {
       "id": "4a94c388",
       "filename": "pixiv_149086718_p0.jpg",
       "path": "uploads/2026/09/39d71d00.jpg",
