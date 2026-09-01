@@ -3,6 +3,35 @@
   "shardId": "16",
   "images": [
     {
+      "id": "807b27c6",
+      "filename": "pixiv_149088198_p0.jpg",
+      "path": "uploads/2026/09/9539b1d1.jpg",
+      "size": 1077924,
+      "width": 689,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d7f88456df913c98077e2e18b086bfa0a0a06cc70c4aacac7346e35d8869141d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T19:22:03.479Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Happy Birthday",
+      "tags": [
+        "初音ミク",
+        "初音未来",
+        "初音ミク誕生祭2026",
+        "初音ミク生誕祭2026",
+        "VOCALOID",
+        "ボーカロイド",
+        "ボカロ",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149088198_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149088198",
+      "sourceCreatedAt": "2026-08-30T15:19:40.000Z"
+    },
+    {
       "id": "2bfa9583",
       "filename": "pixiv_149040164_p0.jpg",
       "path": "uploads/2026/09/54e383d4.jpg",
