@@ -3,6 +3,35 @@
   "shardId": "09",
   "images": [
     {
+      "id": "eb934dcd",
+      "filename": "pixiv_149040158_p0.jpg",
+      "path": "uploads/2026/09/4c9149d3.jpg",
+      "size": 1045833,
+      "width": 687,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "32466a8adb7bb759ded49d0ae9667fb124bedfd5e8422d75df571b5a13f15b68",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:59:51.498Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ひねくれいぬはひねくれている",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ドゥラメンテ(ウマ娘)",
+        "ルーラーシップ(ウマ娘)",
+        "ルラち",
+        "クレーンゲーム(ウマ娘)",
+        "スッペンペン",
+        "ひねくれいぬ",
+        "たわ家"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149040158_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149040158",
+      "sourceCreatedAt": "2026-08-29T15:00:19.000Z"
+    },
+    {
       "id": "519da9fd",
       "filename": "pixiv_149018491_p0.jpg",
       "path": "uploads/2026/08/217e8fe6.jpg",
