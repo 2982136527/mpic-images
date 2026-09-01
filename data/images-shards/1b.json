@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "5f8677a8",
+      "filename": "pixiv_149090284_p0.jpg",
+      "path": "uploads/2026/09/0e6051f8.jpg",
+      "size": 1491585,
+      "width": 875,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df08ca23040181b96c5ecda3f0df0966f229d241f9f747b2dcb5539ebc55a65c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T05:02:28.955Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "はぴば",
+      "tags": [
+        "初音ミク",
+        "初音ミク生誕祭2026",
+        "初音ミク誕生祭2026"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149090284_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149090284",
+      "sourceCreatedAt": "2026-08-30T16:07:21.000Z"
+    },
+    {
       "id": "277ce248",
       "filename": "pixiv_149057991_p0.jpg",
       "path": "uploads/2026/09/9237013a.jpg",
