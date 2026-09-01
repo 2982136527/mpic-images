@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "f04edb4b",
+      "filename": "pixiv_149067889_p0.jpg",
+      "path": "uploads/2026/09/68bd8011.jpg",
+      "size": 846139,
+      "width": 751,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "773231d93c7d4909b70f8965029f0443e60d360f9a282fc977de99f633616a96",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:28:52.036Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "妮可",
+      "tags": [
+        "絶対領域",
+        "女の子",
+        "绝区零",
+        "妮可"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149067889_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149067889",
+      "sourceCreatedAt": "2026-08-30T08:55:21.000Z"
+    },
+    {
       "id": "5f8677a8",
       "filename": "pixiv_149090284_p0.jpg",
       "path": "uploads/2026/09/0e6051f8.jpg",
