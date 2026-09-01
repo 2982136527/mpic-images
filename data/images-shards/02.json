@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "c0a6b99a",
+      "filename": "pixiv_149079203_p0.jpg",
+      "path": "uploads/2026/09/25f84102.jpg",
+      "size": 782648,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "445f75efd4e677bda50087a692fea686cacd3629679568817135908da60512ca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T05:03:25.985Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "逢瑠ちゃん",
+      "tags": [
+        "渡殿逢瑠",
+        "オリジナル",
+        "綿ちゃんたちは恋してる。"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149079203_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149079203",
+      "sourceCreatedAt": "2026-08-30T12:49:41.000Z"
+    },
+    {
       "id": "4215f878",
       "filename": "pixiv_149102151_p0.jpg",
       "path": "uploads/2026/09/473bfead.jpg",
