@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "abab4064",
+      "filename": "pixiv_149081984_p0.jpg",
+      "path": "uploads/2026/09/729f43cf.jpg",
+      "size": 826478,
+      "width": 676,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "edc5a99c154d40943e2fe4a8e55002fecda5b77342fcb94a523ba7300659b1ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:35:05.984Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "オクギ",
+      "tags": [
+        "オクギ",
+        "エンドフィールド",
+        "アークナイツ:エンドフィールド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149081984_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149081984",
+      "sourceCreatedAt": "2026-08-30T13:40:28.000Z"
+    },
+    {
       "id": "07df5bc3",
       "filename": "pixiv_149101833_p0.jpg",
       "path": "uploads/2026/09/15d674d2.jpg",
