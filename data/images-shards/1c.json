@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "e4b311c0",
+      "filename": "pixiv_149076466_p0.jpg",
+      "path": "uploads/2026/09/06127d00.jpg",
+      "size": 541113,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ecb7f1146fa56398b54ca3554899a24cf4ef8697592b86df7e4476d5f164e16e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T05:03:04.965Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "結月ゆかり",
+        "VOICEROID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149076466_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149076466",
+      "sourceCreatedAt": "2026-08-30T12:00:19.000Z"
+    },
+    {
       "id": "0b3523d7",
       "filename": "pixiv_149110126_p0.jpg",
       "path": "uploads/2026/09/6aa02cbb.jpg",
