@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "38f242aa",
+      "filename": "pixiv_149060574_p0.jpg",
+      "path": "uploads/2026/09/e610548a.jpg",
+      "size": 454249,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5cf34cd484dce7fd7fff37b3451084d450b4989a31b7e4e5ab469930e81284d0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:55:51.419Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "eclipse",
+      "tags": [
+        "エクリプス・シャドウ",
+        "キュアアルカナ・シャドウ",
+        "森亜るるか",
+        "名探偵プリキュア!",
+        "プリキュア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149060574_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149060574",
+      "sourceCreatedAt": "2026-08-30T05:05:44.000Z"
+    },
+    {
       "id": "001ce69c",
       "filename": "pixiv_149052925_p0.jpg",
       "path": "uploads/2026/08/b9c0835f.jpg",
