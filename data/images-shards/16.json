@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "6fd5e67e",
+      "filename": "pixiv_149077036_p0.jpg",
+      "path": "uploads/2026/09/5cb90219.jpg",
+      "size": 1850613,
+      "width": 1110,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4c279eef6cbfdd75c72476485e565cb37275b88257b4979c710448ce84c84cdc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:58:25.054Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🌸⛩",
+      "tags": [
+        "女の子",
+        "和服",
+        "ショートカット",
+        "ショートヘア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149077036_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149077036",
+      "sourceCreatedAt": "2026-08-30T12:07:30.000Z"
+    },
+    {
       "id": "d27d8fc7",
       "filename": "pixiv_149041540_p0.jpg",
       "path": "uploads/2026/08/3234dc3a.jpg",
