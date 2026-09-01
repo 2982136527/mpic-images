@@ -3,6 +3,32 @@
   "shardId": "08",
   "images": [
     {
+      "id": "1b661be0",
+      "filename": "pixiv_149074816_p0.jpg",
+      "path": "uploads/2026/09/db1ada43.jpg",
+      "size": 608739,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "309fff10974232882ee9022ba93f2e79e373f6f96186166d04c25db1146bbd26",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:31:06.097Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🐰",
+      "tags": [
+        "沃尔芙",
+        "女の子",
+        "黑丝",
+        "OC",
+        "兔女郎"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149074816_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149074816",
+      "sourceCreatedAt": "2026-08-30T11:27:29.000Z"
+    },
+    {
       "id": "ef822a80",
       "filename": "pixiv_149008586_p0.jpg",
       "path": "uploads/2026/08/d1abb336.jpg",
