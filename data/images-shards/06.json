@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "ad1e61e4",
+      "filename": "pixiv_149045214_p0.jpg",
+      "path": "uploads/2026/09/0a2dd763.jpg",
+      "size": 627016,
+      "width": 1200,
+      "height": 811,
+      "mimeType": "image/jpeg",
+      "hash": "896435c2d156b0e4bac80af1ea08df59b8ae10363157b2cd88bf2b67c20539fb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T05:01:57.758Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "エクリプス",
+      "tags": [
+        "たんプリ",
+        "エクリプス・シャドウ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149045214_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149045214",
+      "sourceCreatedAt": "2026-08-29T17:19:06.000Z"
+    },
+    {
       "id": "b0ce45dd",
       "filename": "pixiv_149071313_p0.jpg",
       "path": "uploads/2026/08/c3ebb1a6.jpg",
