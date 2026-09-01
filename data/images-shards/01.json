@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "42d4b362",
+      "filename": "pixiv_149059517_p0.jpg",
+      "path": "uploads/2026/09/a987347e.jpg",
+      "size": 673463,
+      "width": 1000,
+      "height": 706,
+      "mimeType": "image/jpeg",
+      "hash": "d9dc3f28481e0c78b9e940dd4b5454626d9d38266baf577ce97fd1aa05b0b294",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T19:27:03.054Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "キャミィvsニーナ・ウィリアムズ",
+      "tags": [
+        "ストリートファイター×鉄拳",
+        "フーリガンスープレックス",
+        "ストリートファイター",
+        "キャミィ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149059517_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149059517",
+      "sourceCreatedAt": "2026-08-30T04:25:59.000Z"
+    },
+    {
       "id": "36f486e7",
       "filename": "pixiv_149062633_p0.jpg",
       "path": "uploads/2026/09/c52254cc.jpg",
