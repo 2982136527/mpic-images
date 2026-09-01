@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "d21105f7",
+      "filename": "pixiv_149086641_p0.jpg",
+      "path": "uploads/2026/09/b12e05e4.jpg",
+      "size": 1493739,
+      "width": 946,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8dfe88aa0498a2cbaea842f06f0a9a90a0fedb291bb17226774f36b8b4624e88",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:28:21.255Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "故郷の魔法",
+      "tags": [
+        "女の子",
+        "ファンタジー",
+        "透明感",
+        "オリジナル",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149086641_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149086641",
+      "sourceCreatedAt": "2026-08-30T15:00:26.000Z"
+    },
+    {
       "id": "73999c44",
       "filename": "pixiv_148885063_p0.jpg",
       "path": "uploads/2026/09/29f35b98.jpg",
