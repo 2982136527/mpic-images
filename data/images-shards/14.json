@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "27352341",
+      "filename": "pixiv_149065914_p0.jpg",
+      "path": "uploads/2026/09/1286516d.jpg",
+      "size": 1165718,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9f9f4dce9f1859d4da2da7de58c8e88bf613714687d0948c0cafbb38ad7d48f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:35:27.016Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "うさパン落書き",
+      "tags": [
+        "うさパン焼いて悪いかよ!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149065914_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149065914",
+      "sourceCreatedAt": "2026-08-30T08:00:26.000Z"
+    },
+    {
       "id": "a2d758e4",
       "filename": "pixiv_149045765_p0.jpg",
       "path": "uploads/2026/09/02fa6513.jpg",
