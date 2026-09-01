@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "27765b9b",
+      "filename": "pixiv_149095269_p0.jpg",
+      "path": "uploads/2026/09/63a53c02.jpg",
+      "size": 797670,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cc799a4704e1f216fbe2f60575bc650ce1b46beb0b73f743ee346d895fcbb86e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T19:30:49.138Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ブラックマジシャンガール",
+      "tags": [
+        "ブラックマジシャンガール",
+        "遊戯王",
+        "BMG"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149095269_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149095269",
+      "sourceCreatedAt": "2026-08-30T20:22:16.000Z"
+    },
+    {
       "id": "405cf6a1",
       "filename": "pixiv_149087284_p0.jpg",
       "path": "uploads/2026/09/0a4a6dbc.jpg",
