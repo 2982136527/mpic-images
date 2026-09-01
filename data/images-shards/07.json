@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "d1ebd3f1",
+      "filename": "pixiv_149100305_p0.jpg",
+      "path": "uploads/2026/09/a1c3895d.jpg",
+      "size": 671809,
+      "width": 1200,
+      "height": 536,
+      "mimeType": "image/jpeg",
+      "hash": "50b20309057a511b7aa07f8ac1e57315ed19bee5cc5d7e0df05b8a9da8aae1db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:31:57.591Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "インプラカブル(アズールレーン)",
+      "tags": [
+        "インプラカブル(アズールレーン)",
+        "绘画",
+        "アズールレーン",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149100305_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149100305",
+      "sourceCreatedAt": "2026-08-31T01:14:19.000Z"
+    },
+    {
       "id": "b92f355c",
       "filename": "pixiv_149087474_p0.jpg",
       "path": "uploads/2026/09/2567339b.jpg",
