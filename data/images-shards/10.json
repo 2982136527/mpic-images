@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "4bb82359",
+      "filename": "pixiv_149063083_p0.jpg",
+      "path": "uploads/2026/09/8492ac68.jpg",
+      "size": 1009455,
+      "width": 778,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a9343bfd902c8addd8384620140943915f53e4b4c3bff9105f09ff473049c60c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:56:51.823Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "little detective🔍",
+      "tags": [
+        "原神",
+        "美少女",
+        "少女",
+        "コロンビーナ(原神)",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149063083_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149063083",
+      "sourceCreatedAt": "2026-08-30T06:31:39.000Z"
+    },
+    {
       "id": "f260ed02",
       "filename": "pixiv_149045499_p0.jpg",
       "path": "uploads/2026/08/b835b95f.jpg",
