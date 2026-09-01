@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "2de514e7",
+      "filename": "pixiv_149097630_p0.jpg",
+      "path": "uploads/2026/09/5e668109.jpg",
+      "size": 256066,
+      "width": 600,
+      "height": 750,
+      "mimeType": "image/jpeg",
+      "hash": "4343a2c9953f0c8f6063b5d15a9f27d66f07885c2257cf3ca3bcd30ab0e64200",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T13:34:19.947Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "秋刀魚",
+      "tags": [
+        "東方",
+        "わかさぎ姫",
+        "訓読"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149097630_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149097630",
+      "sourceCreatedAt": "2026-08-30T22:42:37.000Z"
+    },
+    {
       "id": "9a433268",
       "filename": "pixiv_148893307_p0.jpg",
       "path": "uploads/2026/09/e4b5de08.jpg",
