@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "d329a970",
+      "filename": "pixiv_148888827_p0.jpg",
+      "path": "uploads/2026/09/73d15b3a.jpg",
+      "size": 1227223,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b64b7eb0ddaeaea0392351a2a4b1bfc2f481bf93d069b548e2ed907ee3ffef3d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T05:04:42.677Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ネコロサン",
+      "tags": [
+        "原神",
+        "サンドローネ(原神)",
+        "コロンビーナ(原神)",
+        "コロサン",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148888827_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148888827",
+      "sourceCreatedAt": "2026-08-25T19:11:51.000Z"
+    },
+    {
       "id": "314d1704",
       "filename": "pixiv_149046075_p0.jpg",
       "path": "uploads/2026/09/77efe87f.jpg",
