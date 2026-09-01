@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "f4999859",
+      "filename": "pixiv_149090291_p0.jpg",
+      "path": "uploads/2026/09/7ee9eb49.jpg",
+      "size": 1443245,
+      "width": 1200,
+      "height": 713,
+      "mimeType": "image/jpeg",
+      "hash": "eb024bbf3bf2197042a5504cf5ce175eff0807a06efcfd3073a03dec079aaaab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:56:22.983Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "8.31",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ミクさんと花",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149090291_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149090291",
+      "sourceCreatedAt": "2026-08-30T16:07:36.000Z"
+    },
+    {
       "id": "346f0f72",
       "filename": "pixiv_149038086_p0.jpg",
       "path": "uploads/2026/08/0a454b07.jpg",
