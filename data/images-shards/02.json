@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "3257c814",
+      "filename": "pixiv_149098342_p0.jpg",
+      "path": "uploads/2026/09/c385e2cf.jpg",
+      "size": 1409361,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ecda00065efc630ccf2fe02acf97fbb5d675cc0948f5d98d0782183b089d1c7e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T05:00:22.767Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ソナーレちゃん",
+      "tags": [
+        "初音ミク",
+        "初音ミク誕生祭2026"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149098342_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149098342",
+      "sourceCreatedAt": "2026-08-30T23:22:23.000Z"
+    },
+    {
       "id": "27d93f95",
       "filename": "pixiv_149096661_p0.jpg",
       "path": "uploads/2026/09/3eefd820.jpg",
