@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "030259a7",
+      "filename": "pixiv_149088387_p0.jpg",
+      "path": "uploads/2026/09/fbe29fab.jpg",
+      "size": 1503955,
+      "width": 914,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8d27b8a3e5f1108747126eca586a0a36037398e15188d8a495223a695c4f2b70",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:56:44.219Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「お誕生日おめでとう、ミク。」",
+      "tags": [
+        "初音ミク",
+        "VOCALOID500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149088387_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149088387",
+      "sourceCreatedAt": "2026-08-30T15:23:23.000Z"
+    },
+    {
       "id": "44939fe2",
       "filename": "pixiv_149044916_p0.jpg",
       "path": "uploads/2026/08/8197f2a3.jpg",
