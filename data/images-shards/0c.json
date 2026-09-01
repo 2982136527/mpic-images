@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "55157200",
+      "filename": "pixiv_149087027_p0.jpg",
+      "path": "uploads/2026/09/ef990dba.jpg",
+      "size": 1663175,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5683303b8eedd35a7a8162442e323fef3e91555a1550f9e5f4f19c9abdd41297",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T04:56:30.123Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "SCLERA",
+      "tags": [
+        "オリジナル",
+        "水中",
+        "廃墟",
+        "ゲーム画面風",
+        "水没都市"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149087027_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149087027",
+      "sourceCreatedAt": "2026-08-30T15:02:13.000Z"
+    },
+    {
       "id": "abc0d152",
       "filename": "pixiv_149059070_p0.jpg",
       "path": "uploads/2026/08/fe05def9.jpg",
