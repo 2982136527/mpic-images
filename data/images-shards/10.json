@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "19ee831f",
+      "filename": "pixiv_149119346_p0.jpg",
+      "path": "uploads/2026/09/23d13932.jpg",
+      "size": 1372178,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "ba11ee10800feecc1dd8ca5421f345919a063de316e6e8dad08d507ad40c07e5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T19:25:18.955Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "こんな時だけ綺麗なふりしやがって",
+      "tags": [
+        "オリジナル",
+        "発想の常勝無敗"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149119346_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149119346",
+      "sourceCreatedAt": "2026-08-31T12:08:42.000Z"
+    },
+    {
       "id": "b3a8441a",
       "filename": "pixiv_149063631_p0.jpg",
       "path": "uploads/2026/09/754cda8e.jpg",
