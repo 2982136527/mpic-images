@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "008b4f7d",
+      "filename": "pixiv_149075032_p0.jpg",
+      "path": "uploads/2026/09/4e1dfd01.jpg",
+      "size": 1385229,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "85ccf621ec046e0030b661c0f35e4dd921b50c675838a7089140bbd4fd169999",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-01T19:25:36.210Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "A Little Sweet Moment",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "少女",
+        "ルミエラ",
+        "UMIELA"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149075032_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149075032",
+      "sourceCreatedAt": "2026-08-30T11:30:30.000Z"
+    },
+    {
       "id": "f04edb4b",
       "filename": "pixiv_149067889_p0.jpg",
       "path": "uploads/2026/09/68bd8011.jpg",
