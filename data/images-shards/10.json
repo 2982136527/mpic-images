@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "619f437a",
+      "filename": "pixiv_149120240_p0.jpg",
+      "path": "uploads/2026/09/00ba07da.jpg",
+      "size": 570243,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1b8207bdf9e6f9e44ead06ff53114170271017b5aa74b7a0d793ec061f2ecf6a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:44:55.722Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "救助",
+      "tags": [
+        "東方",
+        "博麗霊夢",
+        "霧雨魔理沙",
+        "東方Project",
+        "東方ボロ絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149120240_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149120240",
+      "sourceCreatedAt": "2026-08-31T12:25:50.000Z"
+    },
+    {
       "id": "93b037a2",
       "filename": "pixiv_149108760_p0.jpg",
       "path": "uploads/2026/09/62cfe8d3.jpg",
