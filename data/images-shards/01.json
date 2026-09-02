@@ -3,6 +3,37 @@
   "shardId": "01",
   "images": [
     {
+      "id": "46bf9bee",
+      "filename": "pixiv_149102353_p0.jpg",
+      "path": "uploads/2026/09/32354557.jpg",
+      "size": 743458,
+      "width": 1087,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c578bfc3e49b9414c551ad3e60e219b63101e88d46160802a01043ac91a2d14b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T19:25:56.192Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ブルアカ漫画2658",
+      "tags": [
+        "漫画",
+        "ブルーアーカイブ",
+        "サユリ(ブルーアーカイブ)",
+        "淵上コトネ",
+        "月雪ミヤコ",
+        "二段ブチ抜き",
+        "うすほそ",
+        "紙を見るプーさん",
+        "サイレント漫画",
+        "胸チラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149102353_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149102353",
+      "sourceCreatedAt": "2026-08-31T03:00:09.000Z"
+    },
+    {
       "id": "1801e2b1",
       "filename": "pixiv_149132253_p0.jpg",
       "path": "uploads/2026/09/37c12e5f.jpg",
