@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "151f915e",
+      "filename": "pixiv_149090110_p0.jpg",
+      "path": "uploads/2026/09/cc6fd1ce.jpg",
+      "size": 1337405,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "6a5bc12626313bd04972b022ff196a4261cd18bb84ef0933ce706a85d71b9c22",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:45:41.511Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "画面越しの君へ",
+      "tags": [
+        "初音ミク",
+        "初音ミク生誕祭2026",
+        "VOCALOID",
+        "VOCALOID100users入り",
+        "VOCALOID500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149090110_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149090110",
+      "sourceCreatedAt": "2026-08-30T16:02:35.000Z"
+    },
+    {
       "id": "c1c57c90",
       "filename": "pixiv_149160955_p0.jpg",
       "path": "uploads/2026/09/6717dfec.jpg",
