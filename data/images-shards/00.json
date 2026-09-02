@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "3d176142",
+      "filename": "pixiv_148949682_p0.jpg",
+      "path": "uploads/2026/09/ae1e0c5a.jpg",
+      "size": 1232081,
+      "width": 1200,
+      "height": 668,
+      "mimeType": "image/jpeg",
+      "hash": "8c5f6fd45d1b2d8635202d9234db94328566bf61433da75f507b43d9e4e8255d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:26:02.304Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "砂漠民族まとめ",
+      "tags": [
+        "オリジナル",
+        "民族",
+        "動物"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148949682_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148949682",
+      "sourceCreatedAt": "2026-08-27T11:45:52.000Z"
+    },
+    {
       "id": "85428986",
       "filename": "pixiv_149109021_p0.jpg",
       "path": "uploads/2026/09/13b80f6e.jpg",
