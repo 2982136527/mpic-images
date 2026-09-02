@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "98a9a857",
+      "filename": "pixiv_149148740_p0.jpg",
+      "path": "uploads/2026/09/bc8a53d7.jpg",
+      "size": 859730,
+      "width": 732,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9d887df8beec828cddf89335be3d4e55d04b196de5e64169fd0d735569f97427",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T19:24:09.431Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「！！」",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "スイムウェアB"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149148740_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149148740",
+      "sourceCreatedAt": "2026-09-01T07:00:02.000Z"
+    },
+    {
       "id": "8d2cb5ed",
       "filename": "pixiv_149087630_p0.jpg",
       "path": "uploads/2026/09/15827f91.jpg",
