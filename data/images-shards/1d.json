@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "7c902869",
+      "filename": "pixiv_149128466_p0.jpg",
+      "path": "uploads/2026/09/8ef6fc27.jpg",
+      "size": 1117728,
+      "width": 967,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0a8f05442bdcf1409c77e3e3f79aef469649f2b9dc3926f7822484a3c388e768",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:19:23.219Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "はぴば",
+      "tags": [
+        "初音ミク",
+        "いっぱい食べる君が好き"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149128466_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149128466",
+      "sourceCreatedAt": "2026-08-31T14:59:01.000Z"
+    },
+    {
       "id": "27765b9b",
       "filename": "pixiv_149095269_p0.jpg",
       "path": "uploads/2026/09/63a53c02.jpg",
