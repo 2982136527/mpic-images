@@ -3,6 +3,32 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "015d2a4e",
+      "filename": "pixiv_149086565_p0.jpg",
+      "path": "uploads/2026/09/a17e4358.jpg",
+      "size": 626352,
+      "width": 1200,
+      "height": 884,
+      "mimeType": "image/jpeg",
+      "hash": "33db09a019e1965d63e3f527c7ac5992d3d749aff60aea3cac3857f6499b46da",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:46:47.300Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Axe",
+      "tags": [
+        "創作",
+        "OC",
+        "男",
+        "ファンタジー",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149086565_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149086565",
+      "sourceCreatedAt": "2026-08-30T15:00:16.000Z"
+    },
+    {
       "id": "63aa5bf4",
       "filename": "pixiv_149110607_p0.jpg",
       "path": "uploads/2026/09/de467ac5.jpg",
