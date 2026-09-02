@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "fc0c1848",
+      "filename": "pixiv_149135651_p0.jpg",
+      "path": "uploads/2026/09/85289c1e.jpg",
+      "size": 753991,
+      "width": 700,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f0246c146b50ae748347f9bc85904c4153fe451799d098b29ddcde1773220778",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:25:17.500Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Nursing time!",
+      "tags": [
+        "長谷川千里",
+        "新妹魔王の契約者"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149135651_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149135651",
+      "sourceCreatedAt": "2026-08-31T18:49:37.000Z"
+    },
+    {
       "id": "457c8a1f",
       "filename": "pixiv_149133121_p0.jpg",
       "path": "uploads/2026/09/7db9d911.jpg",
