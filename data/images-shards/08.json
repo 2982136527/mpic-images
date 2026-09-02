@@ -3,6 +3,33 @@
   "shardId": "08",
   "images": [
     {
+      "id": "abc1357d",
+      "filename": "pixiv_149128666_p0.jpg",
+      "path": "uploads/2026/09/4631b154.jpg",
+      "size": 748499,
+      "width": 1200,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "6a02d402398759e9edffe95076f0e1891637d8b63192a67a067a360132ea2155",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:45:48.312Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "镜世界-禁区-51-影街",
+      "tags": [
+        "風景",
+        "背景",
+        "场景",
+        "少女",
+        "女の子",
+        "水鏡"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149128666_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149128666",
+      "sourceCreatedAt": "2026-08-31T15:00:17.000Z"
+    },
+    {
       "id": "eaeee451",
       "filename": "pixiv_149088559_p0.jpg",
       "path": "uploads/2026/09/97aa3821.jpg",
