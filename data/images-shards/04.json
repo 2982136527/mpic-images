@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "98d8748b",
+      "filename": "pixiv_149159408_p0.jpg",
+      "path": "uploads/2026/09/1321420a.jpg",
+      "size": 278324,
+      "width": 1009,
+      "height": 975,
+      "mimeType": "image/jpeg",
+      "hash": "356e5758e72dbdd5f21ac437002eb4c250d1163c33d562230f39fe23410d48fd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:24:10.466Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "水着エマ",
+      "tags": [
+        "まのさば",
+        "魔法少女ノ魔女裁判",
+        "桜羽エマ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149159408_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149159408",
+      "sourceCreatedAt": "2026-09-01T12:06:14.000Z"
+    },
+    {
       "id": "6cf0a1bc",
       "filename": "pixiv_149117455_p0.jpg",
       "path": "uploads/2026/09/ddfabe6a.jpg",
