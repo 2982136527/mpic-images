@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "a53b471b",
+      "filename": "pixiv_148938312_p0.jpg",
+      "path": "uploads/2026/09/450a9234.jpg",
+      "size": 740652,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "25d881e6c71ef7b5b122890af595fca9a39761b0559aaa22138edd6f3b6880e1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T19:29:10.553Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": ":D",
+      "tags": [
+        "少女",
+        "手つなぎ",
+        "ぱっくり背中"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148938312_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148938312",
+      "sourceCreatedAt": "2026-08-27T05:31:17.000Z"
+    },
+    {
       "id": "704bdfac",
       "filename": "pixiv_149092142_p0.jpg",
       "path": "uploads/2026/09/1e3e4697.jpg",
