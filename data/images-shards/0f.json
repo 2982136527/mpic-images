@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "ab45865a",
+      "filename": "pixiv_149121581_p0.jpg",
+      "path": "uploads/2026/09/fedbff83.jpg",
+      "size": 509314,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "4f4c20a47376c252335f895b455194c09267bb8d29345f8eee4858feb7acaf0b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:23:25.242Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "憋画了你小子",
+      "tags": [
+        "長崎そよ",
+        "MyGO!!!!!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149121581_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149121581",
+      "sourceCreatedAt": "2026-08-31T12:53:03.000Z"
+    },
+    {
       "id": "be66c9a1",
       "filename": "pixiv_149117416_p0.jpg",
       "path": "uploads/2026/09/e3dd30b9.jpg",
