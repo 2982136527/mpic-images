@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "74cfcd7b",
+      "filename": "pixiv_149124102_p0.jpg",
+      "path": "uploads/2026/09/b4467f1f.jpg",
+      "size": 457266,
+      "width": 1024,
+      "height": 1024,
+      "mimeType": "image/jpeg",
+      "hash": "3db588d0a5c543fc938cb0e619449fa5c5e320e00efeaeb5b543704e7a04e97d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:47:01.669Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "初音ミク誕生祭2026",
+      "tags": [
+        "初音ミク誕生祭2026",
+        "VOCALOID",
+        "初音ミク",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149124102_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149124102",
+      "sourceCreatedAt": "2026-08-31T13:38:08.000Z"
+    },
+    {
       "id": "619f437a",
       "filename": "pixiv_149120240_p0.jpg",
       "path": "uploads/2026/09/00ba07da.jpg",
