@@ -3,6 +3,28 @@
   "shardId": "10",
   "images": [
     {
+      "id": "475e9aad",
+      "filename": "pixiv_149127943_p0.jpg",
+      "path": "uploads/2026/09/6cac809d.jpg",
+      "size": 1671990,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "18496f7521386159de9b3ea1111c1fc40c8c207b22d46735850cafeaaca499f7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:49:33.099Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "新刊追納のお知らせ＋無配漫画",
+      "tags": [
+        "イトアキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149127943_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149127943",
+      "sourceCreatedAt": "2026-08-31T14:50:28.000Z"
+    },
+    {
       "id": "74cfcd7b",
       "filename": "pixiv_149124102_p0.jpg",
       "path": "uploads/2026/09/b4467f1f.jpg",
