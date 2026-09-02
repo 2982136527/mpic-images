@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "1801e2b1",
+      "filename": "pixiv_149132253_p0.jpg",
+      "path": "uploads/2026/09/37c12e5f.jpg",
+      "size": 506415,
+      "width": 859,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "68573a63feb18d18e1772299fa13902651fa23dacc298b3f4b88837d6bd9114f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:53:07.389Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "アイドルマスターシャイニーカラーズ",
+        "小宮果穂",
+        "七草はづき",
+        "桑山千雪",
+        "でかぱい",
+        "修羅場"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149132253_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149132253",
+      "sourceCreatedAt": "2026-08-31T16:09:44.000Z"
+    },
+    {
       "id": "58905695",
       "filename": "pixiv_149114640_p0.jpg",
       "path": "uploads/2026/09/df091501.jpg",
