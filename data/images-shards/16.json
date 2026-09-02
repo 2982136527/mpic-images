@@ -3,6 +3,37 @@
   "shardId": "16",
   "images": [
     {
+      "id": "2b325223",
+      "filename": "pixiv_149123898_p0.jpg",
+      "path": "uploads/2026/09/a26c07ca.jpg",
+      "size": 544516,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "cbf115759acc1cb8b48b8632b6ea6786d6c97ec6bf709897c81128c0d9236b0c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T19:26:17.648Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Eve",
+      "tags": [
+        "風景",
+        "背景",
+        "風景画",
+        "女の子",
+        "天空",
+        "入道雲",
+        "sunset",
+        "VOCALOID",
+        "初音ミク生誕祭2026",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149123898_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149123898",
+      "sourceCreatedAt": "2026-08-31T13:34:06.000Z"
+    },
+    {
       "id": "844563ea",
       "filename": "pixiv_149161570_p0.jpg",
       "path": "uploads/2026/09/6da15ffb.jpg",
