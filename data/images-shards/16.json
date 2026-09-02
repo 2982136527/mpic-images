@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "b8268e44",
+      "filename": "pixiv_149130298_p0.jpg",
+      "path": "uploads/2026/09/17e54d8d.jpg",
+      "size": 760334,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9d692cb043c3a200d999137e8949b8a1f402ab49ef8519be912d585a343d083d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:51:36.927Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "水着ビリーヴ",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "ビリーヴ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149130298_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149130298",
+      "sourceCreatedAt": "2026-08-31T15:22:16.000Z"
+    },
+    {
       "id": "0ed712f4",
       "filename": "pixiv_149162374_p0.jpg",
       "path": "uploads/2026/09/be14618c.jpg",
