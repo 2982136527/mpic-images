@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "12a6d54e",
+      "filename": "pixiv_149140972_p0.jpg",
+      "path": "uploads/2026/09/228c3c6e.jpg",
+      "size": 1361681,
+      "width": 1081,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e5a368b555ac4eacab11951f6c832aa701cc66ca801e09e4851a70fac78e2c43",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:46:02.940Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "バニー色紙",
+      "tags": [
+        "オリジナル",
+        "色紙"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149140972_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149140972",
+      "sourceCreatedAt": "2026-09-01T00:24:29.000Z"
+    },
+    {
       "id": "e4ec520b",
       "filename": "pixiv_149092581_p0.jpg",
       "path": "uploads/2026/09/6c5a70b9.jpg",
