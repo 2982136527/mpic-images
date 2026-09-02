@@ -3,6 +3,28 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "3a878593",
+      "filename": "pixiv_149133791_p0.jpg",
+      "path": "uploads/2026/09/7ea7d1d1.jpg",
+      "size": 1072639,
+      "width": 758,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "499f10148d897f503e731418487dd54011ff6c2b4a89e524ccd0495653856577",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T19:26:58.360Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Friend's oc",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149133791_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149133791",
+      "sourceCreatedAt": "2026-08-31T17:06:08.000Z"
+    },
+    {
       "id": "98a9a857",
       "filename": "pixiv_149148740_p0.jpg",
       "path": "uploads/2026/09/bc8a53d7.jpg",
