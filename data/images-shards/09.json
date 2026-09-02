@@ -3,6 +3,32 @@
   "shardId": "09",
   "images": [
     {
+      "id": "acfe9b09",
+      "filename": "pixiv_149161681_p0.jpg",
+      "path": "uploads/2026/09/5f300b18.jpg",
+      "size": 1118067,
+      "width": 739,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dea56dd85a2dcf420b2eb18b83088fae2df3bbe0d37bb063ca23f99f5143ff1f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:21:42.440Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "旅の途中",
+      "tags": [
+        "白髪",
+        "女の子",
+        "オリジナル",
+        "赤目",
+        "魔法使い"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149161681_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149161681",
+      "sourceCreatedAt": "2026-09-01T20:31:02.000Z"
+    },
+    {
       "id": "496d300f",
       "filename": "pixiv_149148233_p0.jpg",
       "path": "uploads/2026/09/ca898fd0.jpg",
