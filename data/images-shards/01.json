@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "58905695",
+      "filename": "pixiv_149114640_p0.jpg",
+      "path": "uploads/2026/09/df091501.jpg",
+      "size": 2121277,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "743266502ebfe6a1556cbe2028cc391a818b05c5e7f29a3a0309ee70a3b66726",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:49:39.609Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "alice",
+      "tags": [
+        "創作",
+        "女の子",
+        "手袋",
+        "トランプ",
+        "ロングヘアー",
+        "金髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149114640_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149114640",
+      "sourceCreatedAt": "2026-08-31T10:37:00.000Z"
+    },
+    {
       "id": "e470be43",
       "filename": "pixiv_149104347_p0.jpg",
       "path": "uploads/2026/09/10de3555.jpg",
