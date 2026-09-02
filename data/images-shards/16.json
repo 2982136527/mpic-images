@@ -3,6 +3,28 @@
   "shardId": "16",
   "images": [
     {
+      "id": "0ed712f4",
+      "filename": "pixiv_149162374_p0.jpg",
+      "path": "uploads/2026/09/be14618c.jpg",
+      "size": 1104813,
+      "width": 722,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b98b9ff3d9551ec60808ce71a91b9e7f504f1ecce159241ec6f954891ca9c6f0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:48:30.855Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "葱狼",
+      "tags": [
+        "同人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149162374_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149162374",
+      "sourceCreatedAt": "2026-09-01T13:05:15.000Z"
+    },
+    {
       "id": "95ffb96f",
       "filename": "pixiv_149122034_p0.jpg",
       "path": "uploads/2026/09/291f0b5f.jpg",
