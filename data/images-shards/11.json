@@ -3,6 +3,28 @@
   "shardId": "11",
   "images": [
     {
+      "id": "1fa0961c",
+      "filename": "pixiv_149163426_p0.jpg",
+      "path": "uploads/2026/09/9dc182b2.jpg",
+      "size": 354790,
+      "width": 540,
+      "height": 826,
+      "mimeType": "image/jpeg",
+      "hash": "6a8f413634ed433b8cbfaf8f99656e4865d0b74a2ac2d75e92cfd68c346970ed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:19:12.418Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "9月",
+      "tags": [
+        "マンダロリアン・アンド・グローグー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149163426_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149163426",
+      "sourceCreatedAt": "2026-09-01T13:28:39.000Z"
+    },
+    {
       "id": "96216048",
       "filename": "pixiv_149112208_p0.jpg",
       "path": "uploads/2026/09/b9ab4490.jpg",
