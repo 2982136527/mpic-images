@@ -3,6 +3,37 @@
   "shardId": "08",
   "images": [
     {
+      "id": "cfed5a5b",
+      "filename": "pixiv_149130826_p0.jpg",
+      "path": "uploads/2026/09/2a5713e1.jpg",
+      "size": 1322812,
+      "width": 700,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "32559ce12a016e1d7d43b71d2e7e5fbb616d7e36e589acec4ef95611fa5cec50",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:23:09.544Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🌠",
+      "tags": [
+        "創作",
+        "女の子",
+        "少女",
+        "背景",
+        "風景",
+        "插画",
+        "场景",
+        "天空",
+        "美少女",
+        "夜景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149130826_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149130826",
+      "sourceCreatedAt": "2026-08-31T15:31:44.000Z"
+    },
+    {
       "id": "1b661be0",
       "filename": "pixiv_149074816_p0.jpg",
       "path": "uploads/2026/09/db1ada43.jpg",
