@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "ae32bf7c",
+      "filename": "pixiv_149100067_p0.jpg",
+      "path": "uploads/2026/09/d3362ed6.jpg",
+      "size": 743158,
+      "width": 862,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "48d060f595dd8cfc97512d855d422415df47d2b1a5906267c554aad52886efc1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:18:50.626Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "暁美ほむら",
+        "鹿目まどか",
+        "女の子",
+        "ほむまど",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149100067_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149100067",
+      "sourceCreatedAt": "2026-08-31T01:00:33.000Z"
+    },
+    {
       "id": "add3a6db",
       "filename": "pixiv_148887121_p0.jpg",
       "path": "uploads/2026/09/0b659b4c.jpg",
