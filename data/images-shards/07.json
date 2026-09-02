@@ -3,6 +3,33 @@
   "shardId": "07",
   "images": [
     {
+      "id": "527c7ca7",
+      "filename": "pixiv_149089317_p0.jpg",
+      "path": "uploads/2026/09/ffe7df33.jpg",
+      "size": 1800151,
+      "width": 908,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a14fe5ea99379754390dedd4c88c4bc3aa404bdbb1ffc986b4edc3483241cfc0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:17:25.007Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "あなたに伝えたい",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ボーカロイド",
+        "HatsuneMiku",
+        "ミクさんと花",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149089317_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149089317",
+      "sourceCreatedAt": "2026-08-30T15:43:46.000Z"
+    },
+    {
       "id": "b50d7588",
       "filename": "pixiv_149089381_p0.jpg",
       "path": "uploads/2026/09/40b2da9c.jpg",
