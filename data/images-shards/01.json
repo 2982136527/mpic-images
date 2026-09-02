@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "e470be43",
+      "filename": "pixiv_149104347_p0.jpg",
+      "path": "uploads/2026/09/10de3555.jpg",
+      "size": 1479819,
+      "width": 1200,
+      "height": 673,
+      "mimeType": "image/jpeg",
+      "hash": "32faa216c69cb098474535c379d662b4d7ca119acdbf7299be638d97c829dc3e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:46:30.885Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🎉✨miku19th",
+      "tags": [
+        "女の子",
+        "同人",
+        "初音ミク",
+        "VOCALOID",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149104347_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149104347",
+      "sourceCreatedAt": "2026-08-31T04:24:10.000Z"
+    },
+    {
       "id": "151f915e",
       "filename": "pixiv_149090110_p0.jpg",
       "path": "uploads/2026/09/cc6fd1ce.jpg",
