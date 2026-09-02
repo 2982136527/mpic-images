@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "e8a771c7",
+      "filename": "pixiv_149127983_p0.jpg",
+      "path": "uploads/2026/09/0bad5e15.jpg",
+      "size": 935938,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "5762115ed13e853ada7dba49dde21c30bd69a725607f3b486a87fd22db989084",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:22:46.796Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "The Great Beyond",
+      "tags": [
+        "風景",
+        "背景",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149127983_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149127983",
+      "sourceCreatedAt": "2026-08-31T14:51:16.000Z"
+    },
+    {
       "id": "9da5cedc",
       "filename": "pixiv_149123826_p0.jpg",
       "path": "uploads/2026/09/1e4d3772.jpg",
