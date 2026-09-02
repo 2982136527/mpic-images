@@ -3,6 +3,32 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "f899c0e5",
+      "filename": "pixiv_149134770_p0.jpg",
+      "path": "uploads/2026/09/72108960.jpg",
+      "size": 941047,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3313ac0781c74af5cc5009b1d431be108dc75246709dc4916bb2cd58849d6292",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:46:11.584Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Ronova",
+      "tags": [
+        "原神",
+        "女の子",
+        "GenshinImpact",
+        "ロノヴァ",
+        "ボディスーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149134770_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149134770",
+      "sourceCreatedAt": "2026-08-31T17:54:37.000Z"
+    },
+    {
       "id": "0a100183",
       "filename": "pixiv_149143026_p0.jpg",
       "path": "uploads/2026/09/4f730edf.jpg",
