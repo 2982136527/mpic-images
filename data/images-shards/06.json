@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "7187d5fa",
+      "filename": "pixiv_149087536_p0.jpg",
+      "path": "uploads/2026/09/56635455.jpg",
+      "size": 1114666,
+      "width": 1165,
+      "height": 787,
+      "mimeType": "image/jpeg",
+      "hash": "aa362ef496f8f62499b586109c0832e4d9f0f20109734541269bcb198903d762",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T19:31:14.355Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "初音ミク生誕祭2026",
+      "tags": [
+        "初音ミク",
+        "重音テト",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149087536_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149087536",
+      "sourceCreatedAt": "2026-08-30T15:07:27.000Z"
+    },
+    {
       "id": "f1574530",
       "filename": "pixiv_149160724_p0.jpg",
       "path": "uploads/2026/09/e45cfe44.jpg",
