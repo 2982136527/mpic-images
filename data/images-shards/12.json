@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "2e5aa014",
+      "filename": "pixiv_149103320_p0.jpg",
+      "path": "uploads/2026/09/9cbdcdb8.jpg",
+      "size": 800180,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57be1d0a915532fc5a9653877cfa54c39bdba5fb536196919ce5869122d0e635",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:52:15.478Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Ilulu y Ragna",
+      "tags": [
+        "小林さんちのメイドラゴン",
+        "イルル(小林さんちのメイドラゴン)",
+        "イルル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149103320_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149103320",
+      "sourceCreatedAt": "2026-08-31T03:37:19.000Z"
+    },
+    {
       "id": "25b31d69",
       "filename": "pixiv_149113711_p0.jpg",
       "path": "uploads/2026/09/f84c1227.jpg",
