@@ -3,6 +3,33 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "8d2cb5ed",
+      "filename": "pixiv_149087630_p0.jpg",
+      "path": "uploads/2026/09/15827f91.jpg",
+      "size": 1281266,
+      "width": 1200,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "e914227f7336d2acd7d0d03905b00691f22d1ea03cab0c356c90fea3bf240f98",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T19:22:10.677Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "miku 2026",
+      "tags": [
+        "女の子",
+        "VOCALOID",
+        "初音ミク",
+        "miku",
+        "初音ミク生誕祭2026",
+        "VOCALOID5000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149087630_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149087630",
+      "sourceCreatedAt": "2026-08-30T15:53:35.000Z"
+    },
+    {
       "id": "459e3fcc",
       "filename": "pixiv_149101819_p0.jpg",
       "path": "uploads/2026/09/d69f36f4.jpg",
