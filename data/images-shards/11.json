@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "28c97c29",
+      "filename": "pixiv_149101685_p0.jpg",
+      "path": "uploads/2026/09/4f4736c7.jpg",
+      "size": 1452610,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "64dc3e25a4c8175295db46b726078e165d7e97a032ac821612aff21422297d05",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:21:34.663Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "リンネア",
+      "tags": [
+        "リンネア(原神)",
+        "原神"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149101685_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149101685",
+      "sourceCreatedAt": "2026-08-31T02:29:06.000Z"
+    },
+    {
       "id": "df74140c",
       "filename": "pixiv_149146969_p0.jpg",
       "path": "uploads/2026/09/482ac6d3.jpg",
