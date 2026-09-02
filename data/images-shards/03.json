@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "5b31d149",
+      "filename": "pixiv_149091905_p0.jpg",
+      "path": "uploads/2026/09/58120bb1.jpg",
+      "size": 1154754,
+      "width": 757,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c95ad3f03f3edf87ae303480f568bf302cd9fcaef03deb904ebc4c18d4c648af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:49:00.014Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "VOICEROID",
+        "東北きりたん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149091905_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149091905",
+      "sourceCreatedAt": "2026-08-30T17:01:53.000Z"
+    },
+    {
       "id": "98aaf786",
       "filename": "pixiv_149159089_p0.jpg",
       "path": "uploads/2026/09/f04a0b4a.jpg",
