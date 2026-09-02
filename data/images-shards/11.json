@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "66fcba8a",
+      "filename": "pixiv_149105770_p0.jpg",
+      "path": "uploads/2026/09/3fe5ea01.jpg",
+      "size": 1207908,
+      "width": 1200,
+      "height": 963,
+      "mimeType": "image/jpeg",
+      "hash": "c22201a31476fd822e4e79f3a10ed2abdf4e61c0090acfc1f72652bc9206df0d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:48:40.456Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Breakfast 260831",
+      "tags": [
+        "オリジナル",
+        "watercolor"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149105770_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149105770",
+      "sourceCreatedAt": "2026-08-31T05:35:06.000Z"
+    },
+    {
       "id": "7e2d6c3a",
       "filename": "pixiv_149089007_p0.jpg",
       "path": "uploads/2026/09/a594e69c.jpg",
