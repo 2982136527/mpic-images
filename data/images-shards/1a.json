@@ -3,6 +3,34 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "a992506b",
+      "filename": "pixiv_149112133_p0.jpg",
+      "path": "uploads/2026/09/b25880e9.jpg",
+      "size": 1095773,
+      "width": 808,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8a8e18dcb96f01af8956c4aa0a07b170c161a36350c51a051edb9c1348c6d1aa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T19:25:18.610Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ウマ詰め⑳",
+      "tags": [
+        "カツラギエース(ウマ娘)",
+        "ミスターシービー(ウマ娘)",
+        "シビエス",
+        "ウマ娘プリティーダービー",
+        "ぱかチューブっ!",
+        "バニーウマ娘",
+        "またデジタル殿が死んでおられるぞ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149112133_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149112133",
+      "sourceCreatedAt": "2026-08-31T09:35:35.000Z"
+    },
+    {
       "id": "603ba8bb",
       "filename": "pixiv_149138849_p0.jpg",
       "path": "uploads/2026/09/a5e4571c.jpg",
