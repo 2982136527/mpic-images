@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "93b037a2",
+      "filename": "pixiv_149108760_p0.jpg",
+      "path": "uploads/2026/09/62cfe8d3.jpg",
+      "size": 1099562,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d3494724c2d21be7655859c8b3f332930720df025610b16c1d5b5c9b1cf95640",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:22:29.023Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "双子のメイドさんが家に来た。",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "メイド服",
+        "双子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149108760_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149108760",
+      "sourceCreatedAt": "2026-08-31T07:53:16.000Z"
+    },
+    {
       "id": "2deada6d",
       "filename": "pixiv_149128663_p0.jpg",
       "path": "uploads/2026/09/b9c9e460.jpg",
