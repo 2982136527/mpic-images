@@ -3,6 +3,35 @@
   "shardId": "10",
   "images": [
     {
+      "id": "2deada6d",
+      "filename": "pixiv_149128663_p0.jpg",
+      "path": "uploads/2026/09/b9c9e460.jpg",
+      "size": 851458,
+      "width": 453,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7bb47dd54cda5ca288125b2ffa52b0164975c2a9942adf7b3c08c395945ff487",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:19:33.656Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "夏の夢",
+      "tags": [
+        "オリジナル",
+        "背景",
+        "風景",
+        "女の子",
+        "電車",
+        "海",
+        "空",
+        "雲"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149128663_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149128663",
+      "sourceCreatedAt": "2026-08-31T15:00:16.000Z"
+    },
+    {
       "id": "2cbdd851",
       "filename": "pixiv_149043455_p0.jpg",
       "path": "uploads/2026/09/89bc3dd8.jpg",
