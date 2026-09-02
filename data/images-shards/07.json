@@ -3,6 +3,37 @@
   "shardId": "07",
   "images": [
     {
+      "id": "52db6549",
+      "filename": "pixiv_149130893_p0.jpg",
+      "path": "uploads/2026/09/b824d9a2.jpg",
+      "size": 916678,
+      "width": 1200,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "c4791ffbf0d8ebdb0d637bf6038442cbc39e04072e9d53a6764d44103ef2c30f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:49:23.715Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Dream",
+      "tags": [
+        "女の子",
+        "背景",
+        "風景",
+        "創作",
+        "少女",
+        "插画",
+        "场景",
+        "天空",
+        "美少女",
+        "夜景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149130893_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149130893",
+      "sourceCreatedAt": "2026-08-31T15:33:26.000Z"
+    },
+    {
       "id": "cb191f62",
       "filename": "pixiv_149125385_p0.jpg",
       "path": "uploads/2026/09/6de14755.jpg",
