@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "e699d016",
+      "filename": "pixiv_149114348_p0.jpg",
+      "path": "uploads/2026/09/45182dfc.jpg",
+      "size": 1143477,
+      "width": 1014,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c0ec9069650c558d3d6e05313075360a53d8cc0d880749afcbd845c6f7c406ba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:19:54.905Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "オデニーツァらくがき(ボイスネタ)",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "オデット(原神)",
+        "オデット",
+        "ヴォジャニーツァ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149114348_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149114348",
+      "sourceCreatedAt": "2026-08-31T10:30:04.000Z"
+    },
+    {
       "id": "008b4f7d",
       "filename": "pixiv_149075032_p0.jpg",
       "path": "uploads/2026/09/4e1dfd01.jpg",
