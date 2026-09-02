@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "cb080094",
+      "filename": "pixiv_149133430_p0.jpg",
+      "path": "uploads/2026/09/3eb02163.jpg",
+      "size": 1535219,
+      "width": 1200,
+      "height": 777,
+      "mimeType": "image/jpeg",
+      "hash": "86826e1416b20ff4dd84aa5987b66921111780ad9c69a3ced0a60adb46fcdb3e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:18:30.547Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "19th",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149133430_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149133430",
+      "sourceCreatedAt": "2026-08-31T16:52:57.000Z"
+    },
+    {
       "id": "5fce07b1",
       "filename": "pixiv_149102099_p0.jpg",
       "path": "uploads/2026/09/a2a7334f.jpg",
