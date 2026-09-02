@@ -3,6 +3,34 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "03db8c14",
+      "filename": "pixiv_149087660_p0.jpg",
+      "path": "uploads/2026/09/891e0690.jpg",
+      "size": 1446922,
+      "width": 1200,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "747ff08f332c28497acb13f648b14351550040195704986d35bc14b2f614e710",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:17:32.601Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "君がいる",
+      "tags": [
+        "初音ミク",
+        "初音ミク生誕祭2026",
+        "初音ミク生誕祭",
+        "マジカルミライ",
+        "マジカルミライ2026",
+        "VOCALOID",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149087660_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149087660",
+      "sourceCreatedAt": "2026-08-30T15:09:12.000Z"
+    },
+    {
       "id": "9be0aaa1",
       "filename": "pixiv_149107857_p0.jpg",
       "path": "uploads/2026/09/18adb4f9.jpg",
