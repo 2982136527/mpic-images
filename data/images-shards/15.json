@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "4b1249cf",
+      "filename": "pixiv_149128957_p0.jpg",
+      "path": "uploads/2026/09/ff698cd8.jpg",
+      "size": 2158106,
+      "width": 1200,
+      "height": 1093,
+      "mimeType": "image/jpeg",
+      "hash": "603366275da088e62149cad8a3ed5e1b1a2a7ed51012c5eec34715560bb0cf67",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T04:17:18.311Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "和服化まとめ",
+      "tags": [
+        "着物",
+        "気ままに和服化",
+        "バンドリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149128957_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149128957",
+      "sourceCreatedAt": "2026-09-01T12:17:59.000Z"
+    },
+    {
       "id": "d49de59d",
       "filename": "pixiv_149072474_p0.jpg",
       "path": "uploads/2026/09/2fec3ecb.jpg",
