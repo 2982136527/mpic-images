@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "5ee1d9f9",
+      "filename": "pixiv_149133127_p0.jpg",
+      "path": "uploads/2026/09/e023278f.jpg",
+      "size": 865556,
+      "width": 766,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7535228a5427b75170f970175b6a5a0a3187c17d400bc2be822eede98b6399f9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T19:21:50.713Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "千夏",
+      "tags": [
+        "千夏(ゼンゼロ)",
+        "妄想エンジェル",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149133127_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149133127",
+      "sourceCreatedAt": "2026-08-31T16:41:10.000Z"
+    },
+    {
       "id": "28862bc5",
       "filename": "pixiv_149131041_p0.jpg",
       "path": "uploads/2026/09/914ba7f6.jpg",
