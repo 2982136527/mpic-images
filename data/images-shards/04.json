@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "28862bc5",
+      "filename": "pixiv_149131041_p0.jpg",
+      "path": "uploads/2026/09/914ba7f6.jpg",
+      "size": 714875,
+      "width": 880,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2beb79805e920fca4af53cc2f49bebd29dbeec65202a963fa1ab9915f5f4270d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-02T12:52:40.495Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "風間飛鳥",
+      "tags": [
+        "風間飛鳥",
+        "鉄拳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149131041_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149131041",
+      "sourceCreatedAt": "2026-08-31T15:36:52.000Z"
+    },
+    {
       "id": "7413de9f",
       "filename": "pixiv_149102632_p0.jpg",
       "path": "uploads/2026/09/6925d836.jpg",
