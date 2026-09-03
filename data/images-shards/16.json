@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "2ff12d60",
+      "filename": "pixiv_149171777_p0.jpg",
+      "path": "uploads/2026/09/67b9dc6f.jpg",
+      "size": 1384796,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7e6bb389176d6599cf4c97613d6aa25273197efabe89804b15e4616b72674485",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T19:20:51.340Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "虹硝子の向こう側",
+      "tags": [
+        "東方Project",
+        "東方",
+        "フランドール・スカーレット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149171777_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149171777",
+      "sourceCreatedAt": "2026-09-01T16:55:12.000Z"
+    },
+    {
       "id": "61cc6971",
       "filename": "pixiv_149167638_p0.jpg",
       "path": "uploads/2026/09/5528b969.jpg",
