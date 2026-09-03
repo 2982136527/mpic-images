@@ -3,6 +3,33 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "4d1ec08c",
+      "filename": "pixiv_149152276_p0.jpg",
+      "path": "uploads/2026/09/810d31ae.jpg",
+      "size": 673064,
+      "width": 1200,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "d3ad2d7b319a538a8222abbfcac376aade39d22a6d00f4aa954096213ff2ffc1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T19:17:31.387Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "まちがいさがし",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "小鳥遊ホシノ",
+        "ホシノ",
+        "ポンタイタチ",
+        "ホシノイタチ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149152276_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149152276",
+      "sourceCreatedAt": "2026-09-01T09:13:09.000Z"
+    },
+    {
       "id": "3076d6e3",
       "filename": "pixiv_149152892_p0.jpg",
       "path": "uploads/2026/09/8a0c28ca.jpg",
