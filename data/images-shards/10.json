@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "1bdb082f",
+      "filename": "pixiv_149173518_p0.jpg",
+      "path": "uploads/2026/09/9f09f21c.jpg",
+      "size": 1766185,
+      "width": 794,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d7f0b731e0fb7d4310ca8e6cca363b3293164028c0f50baba8758e147470dbad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:19:07.829Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "艾琳",
+      "tags": [
+        "メスケモ",
+        "人魚",
+        "女孩子",
+        "風景",
+        "furry"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149173518_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149173518",
+      "sourceCreatedAt": "2026-09-01T18:22:01.000Z"
+    },
+    {
       "id": "dea1151b",
       "filename": "pixiv_149174205_p0.jpg",
       "path": "uploads/2026/09/cdb06ca8.jpg",
