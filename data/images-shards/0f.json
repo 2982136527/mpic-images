@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "31e3db19",
+      "filename": "pixiv_149171628_p0.jpg",
+      "path": "uploads/2026/09/686cf0ee.jpg",
+      "size": 468908,
+      "width": 781,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fcfc7aeb18824a45c62e72c0ca4bd75482ff09af7da321be03685fceeb54c76c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:14:59.701Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "巡音ルカ",
+      "tags": [
+        "巡音ルカ",
+        "プロジェクトセカイ",
+        "プロセカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149171628_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149171628",
+      "sourceCreatedAt": "2026-09-01T16:48:35.000Z"
+    },
+    {
       "id": "8702ca66",
       "filename": "pixiv_149179907_p0.jpg",
       "path": "uploads/2026/09/ac99f742.jpg",
