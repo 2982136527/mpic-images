@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "ef492c64",
+      "filename": "pixiv_149168530_p0.jpg",
+      "path": "uploads/2026/09/3b77a1aa.jpg",
+      "size": 1096947,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "38e97a61431300f3c0d40ac253a2f806fbf0239918693e6fa830cce35b3f373a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T19:18:14.173Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ヴォジャニーツァ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ヴォジャニーツァ",
+        "Vodyanitsa",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149168530_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149168530",
+      "sourceCreatedAt": "2026-09-01T15:12:37.000Z"
+    },
+    {
       "id": "cd820b4e",
       "filename": "pixiv_149170516_p0.jpg",
       "path": "uploads/2026/09/98a63d7f.jpg",
