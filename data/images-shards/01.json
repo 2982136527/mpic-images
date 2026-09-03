@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "5ab8da39",
+      "filename": "pixiv_149161455_p0.jpg",
+      "path": "uploads/2026/09/7f297231.jpg",
+      "size": 683304,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "507ebdf9c6098f97224f94efda93fabee282758605d6907ef0f2496c0fa823c0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T19:19:57.361Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Don't watch, help me.",
+      "tags": [
+        "VTuber",
+        "バーチャルYouTuber",
+        "SamekoSaba"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149161455_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149161455",
+      "sourceCreatedAt": "2026-09-01T16:47:00.000Z"
+    },
+    {
       "id": "4eb6a301",
       "filename": "pixiv_149128739_p0.jpg",
       "path": "uploads/2026/09/8970b34d.jpg",
