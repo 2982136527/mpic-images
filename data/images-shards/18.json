@@ -3,6 +3,33 @@
   "shardId": "18",
   "images": [
     {
+      "id": "13ef97b9",
+      "filename": "pixiv_149137378_p0.jpg",
+      "path": "uploads/2026/09/0f591423.jpg",
+      "size": 589479,
+      "width": 920,
+      "height": 1007,
+      "mimeType": "image/jpeg",
+      "hash": "23976777447c26726888d49ba6c409c12e9505bfc98d55896c0c0c93630aefe8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:11:48.781Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "個人メモ：指の付け根の立体",
+      "tags": [
+        "漫画素材工房",
+        "描き方",
+        "人体",
+        "身体",
+        "美術解剖学",
+        "手"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149137378_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149137378",
+      "sourceCreatedAt": "2026-08-31T21:00:10.000Z"
+    },
+    {
       "id": "70a34eb7",
       "filename": "pixiv_149103802_p0.jpg",
       "path": "uploads/2026/09/0dee588a.jpg",
