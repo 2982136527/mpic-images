@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "31b01bcf",
+      "filename": "pixiv_149128756_p0.jpg",
+      "path": "uploads/2026/09/899920a6.jpg",
+      "size": 721527,
+      "width": 655,
+      "height": 919,
+      "mimeType": "image/jpeg",
+      "hash": "3a2ab5d344d5a293ddaff959e7507deee95a5668fef6a77cb4b059fbc814cd6e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:47:25.223Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "早苗さんと海デート!!",
+      "tags": [
+        "東方Project",
+        "東風谷早苗",
+        "セーラー服",
+        "東方Project1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149128756_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149128756",
+      "sourceCreatedAt": "2026-08-31T15:00:30.000Z"
+    },
+    {
       "id": "65e86223",
       "filename": "pixiv_149168312_p0.jpg",
       "path": "uploads/2026/09/9f76ee20.jpg",
