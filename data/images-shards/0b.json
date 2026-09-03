@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "e4b151e9",
+      "filename": "pixiv_149167198_p0.jpg",
+      "path": "uploads/2026/09/500bef98.jpg",
+      "size": 1027696,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "012f39ccaeb0e9e8f3a4365d7f80ed87db79a3cef2cd7a7ee8166a7725065264",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:47:16.085Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "miku（metallic）",
+      "tags": [
+        "初音ミク",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149167198_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149167198",
+      "sourceCreatedAt": "2026-09-01T14:53:37.000Z"
+    },
+    {
       "id": "7ba39426",
       "filename": "pixiv_149186730_p0.jpg",
       "path": "uploads/2026/09/3b94fbfe.jpg",
