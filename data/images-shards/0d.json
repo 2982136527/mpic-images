@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "5dcf9776",
+      "filename": "pixiv_149167767_p0.jpg",
+      "path": "uploads/2026/09/29d0457a.jpg",
+      "size": 1599606,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3ca37e1ead52f4fe2298346900cab134c1b34f09b008f8990a62c2bf8a107e43",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:18:11.950Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "SeeU15周年記念イラスト・設定画",
+      "tags": [
+        "VOCALOID",
+        "ボーカロイド",
+        "SeeU",
+        "シユ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149167767_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149167767",
+      "sourceCreatedAt": "2026-09-01T15:01:07.000Z"
+    },
+    {
       "id": "0104eb28",
       "filename": "pixiv_149128688_p0.jpg",
       "path": "uploads/2026/09/83e87184.jpg",
