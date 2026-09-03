@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "5ed80257",
+      "filename": "pixiv_149144999_p0.jpg",
+      "path": "uploads/2026/09/7f440f2a.jpg",
+      "size": 1246170,
+      "width": 1200,
+      "height": 720,
+      "mimeType": "image/jpeg",
+      "hash": "4a782293d2d047ca691ce64791d362a259c9672d083acd785346d389817ee809",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:46:59.223Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "commission-504",
+      "tags": [
+        "VTuber",
+        "六人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149144999_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149144999",
+      "sourceCreatedAt": "2026-09-01T03:52:52.000Z"
+    },
+    {
       "id": "f7e8cc6f",
       "filename": "pixiv_149151667_p0.jpg",
       "path": "uploads/2026/09/55cc9fcc.jpg",
