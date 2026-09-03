@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "b0713f4c",
+      "filename": "pixiv_149160602_p0.jpg",
+      "path": "uploads/2026/09/c4d5c653.jpg",
+      "size": 884613,
+      "width": 919,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "94364b4a6f09066c8083167193184042262fcc5cacb20fe4de0761866c2e837c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:17:01.197Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ニヤニヤ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ニヤニヤ教授",
+        "ロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149160602_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149160602",
+      "sourceCreatedAt": "2026-09-01T12:30:33.000Z"
+    },
+    {
       "id": "0fc66422",
       "filename": "pixiv_149153619_p0.jpg",
       "path": "uploads/2026/09/dd6012db.jpg",
