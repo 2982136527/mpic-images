@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "260df6d9",
+      "filename": "pixiv_149190310_p0.jpg",
+      "path": "uploads/2026/09/1c4bfbd6.jpg",
+      "size": 1095555,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "45e49dfac0e80db9e4b0fdf205b77e390b16b42e25a60f982d3f702a50895704",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:49:14.654Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "マジカルさくめあ",
+      "tags": [
+        "バーチャルYouTuber",
+        "VTuber",
+        "女の子",
+        "神楽めあ",
+        "結城さくな"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149190310_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149190310",
+      "sourceCreatedAt": "2026-09-02T09:17:47.000Z"
+    },
+    {
       "id": "e3a81f45",
       "filename": "pixiv_149162118_p0.jpg",
       "path": "uploads/2026/09/9d414dfa.jpg",
