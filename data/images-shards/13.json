@@ -3,6 +3,28 @@
   "shardId": "13",
   "images": [
     {
+      "id": "09a6c878",
+      "filename": "pixiv_149199285_p0.jpg",
+      "path": "uploads/2026/09/2e44d8bf.jpg",
+      "size": 532311,
+      "width": 800,
+      "height": 640,
+      "mimeType": "image/jpeg",
+      "hash": "fb858eb9a4cb4c5e45b31e2380e1d63b04a789856125801319ccada0ccf750b6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:54:45.214Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "呪夢まとめ28",
+      "tags": [
+        "夢術廻戦"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149199285_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149199285",
+      "sourceCreatedAt": "2026-09-02T12:53:43.000Z"
+    },
+    {
       "id": "8a54bf7c",
       "filename": "pixiv_149173958_p0.jpg",
       "path": "uploads/2026/09/2e5937bc.jpg",
