@@ -3,6 +3,35 @@
   "shardId": "01",
   "images": [
     {
+      "id": "201bb24c",
+      "filename": "pixiv_149148887_p0.jpg",
+      "path": "uploads/2026/09/e5704d54.jpg",
+      "size": 433248,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a08c99d78dcec32f68c0b8c3ffda957d2150e7d4ebf30640d5a61fcaedd9fa6e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:54:12.535Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Babydoll Cat ~",
+      "tags": [
+        "Hololive",
+        "HololiveID",
+        "Zetacrylic",
+        "VTuber",
+        "fanart",
+        "illustration",
+        "girl",
+        "ベスティア・ゼータ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149148887_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149148887",
+      "sourceCreatedAt": "2026-09-01T07:05:45.000Z"
+    },
+    {
       "id": "31b01bcf",
       "filename": "pixiv_149128756_p0.jpg",
       "path": "uploads/2026/09/899920a6.jpg",
