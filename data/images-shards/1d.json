@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "043deada",
+      "filename": "pixiv_149183326_p0.jpg",
+      "path": "uploads/2026/09/c501e065.jpg",
+      "size": 1043344,
+      "width": 1034,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "19ce3622f59aa22e95009cc81df656ae35d96cae0f6e13354041d34018dffd00",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:12:23.367Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🐱",
+      "tags": [
+        "鳴潮",
+        "景燃",
+        "漂泊者"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149183326_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149183326",
+      "sourceCreatedAt": "2026-09-02T04:12:35.000Z"
+    },
+    {
       "id": "c38144ab",
       "filename": "pixiv_149129483_p0.jpg",
       "path": "uploads/2026/09/06228a34.jpg",
