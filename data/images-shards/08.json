@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "ce49fbf0",
+      "filename": "pixiv_149176403_p0.jpg",
+      "path": "uploads/2026/09/1275ba00.jpg",
+      "size": 367066,
+      "width": 555,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "827aa3b01c789be42186935e9b7304684f77528635297dee96f6b481cfdcda23",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:14:24.127Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "260902",
+      "tags": [
+        "オリジナル",
+        "多摩川コインロッカー▷"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149176403_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149176403",
+      "sourceCreatedAt": "2026-09-01T21:48:05.000Z"
+    },
+    {
       "id": "686556bb",
       "filename": "pixiv_149086830_p0.jpg",
       "path": "uploads/2026/09/5cd04cc7.jpg",
