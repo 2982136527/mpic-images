@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "7f4b5852",
+      "filename": "pixiv_149197319_p0.jpg",
+      "path": "uploads/2026/09/5aa06c6d.jpg",
+      "size": 963904,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "c5c98b87d382e237f7a6a194f35832c635a48165674070d9d66ba9302756d3d1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:54:32.211Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "エンドフィールド",
+      "tags": [
+        "アークナイツ:エンドフィールド",
+        "明日方舟:终末地",
+        "ティフォロス(エンドフィールド)",
+        "提弗洛斯"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149197319_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149197319",
+      "sourceCreatedAt": "2026-09-02T12:09:44.000Z"
+    },
+    {
       "id": "8422baef",
       "filename": "pixiv_149193952_p0.jpg",
       "path": "uploads/2026/09/0359ae51.jpg",
