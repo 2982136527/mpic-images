@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "cc9001a6",
+      "filename": "pixiv_149182796_p0.jpg",
+      "path": "uploads/2026/09/232e7e77.jpg",
+      "size": 495128,
+      "width": 708,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f27459b206c893df0bb1aebb48d8fdc698184bef935fab3606bac871ac7c5026",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:54:24.201Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🍎",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "ウインバリアシオン(ウマ娘)",
+        "マインバリアシオン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149182796_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149182796",
+      "sourceCreatedAt": "2026-09-02T03:46:02.000Z"
+    },
+    {
       "id": "73789a2c",
       "filename": "pixiv_149150090_p0.jpg",
       "path": "uploads/2026/09/a114d33c.jpg",
