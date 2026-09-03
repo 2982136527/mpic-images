@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "b07068db",
+      "filename": "pixiv_149168755_p0.jpg",
+      "path": "uploads/2026/09/f0b085ec.jpg",
+      "size": 1340310,
+      "width": 931,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5731abc716a60090be1c5e5b9ce18e531e3cf6013b99cb73417ab96884969bc7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T19:16:05.645Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "絵チャ",
+      "tags": [
+        "美少女",
+        "右下の存在感",
+        "どの角度でもお美しいこと",
+        "え…絵チャ…!?",
+        "異物混入"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149168755_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149168755",
+      "sourceCreatedAt": "2026-09-01T15:17:54.000Z"
+    },
+    {
       "id": "77f6a4cd",
       "filename": "pixiv_149151611_p0.jpg",
       "path": "uploads/2026/09/8e051982.jpg",
