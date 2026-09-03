@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "41e2aa0a",
+      "filename": "pixiv_149157374_p0.jpg",
+      "path": "uploads/2026/09/b78924df.jpg",
+      "size": 1804122,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e276d3cb82c86f6caeaacd907ded2322da9ddd11c9cee69ed095103a70090744",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:50:03.415Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "水着エリシア",
+      "tags": [
+        "エリシア(崩壊3rd)",
+        "崩壊3rd",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149157374_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149157374",
+      "sourceCreatedAt": "2026-09-01T11:26:09.000Z"
+    },
+    {
       "id": "cee2b275",
       "filename": "pixiv_149199790_p0.jpg",
       "path": "uploads/2026/09/b5c4ee47.jpg",
