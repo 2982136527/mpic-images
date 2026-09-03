@@ -3,6 +3,33 @@
   "shardId": "14",
   "images": [
     {
+      "id": "590ea4f6",
+      "filename": "pixiv_149201193_p0.jpg",
+      "path": "uploads/2026/09/a6f4ba72.jpg",
+      "size": 879115,
+      "width": 897,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bc2731e0f0e814c7d46eb02c8b8d479224269957dae15a9c02a9b36326073fec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:12:52.928Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "デマラさんち",
+      "tags": [
+        "ゼンゼロ",
+        "邪兎屋",
+        "ニコ・デマラ",
+        "アンビー・デマラ",
+        "ビリー・キッド",
+        "猫宮又奈"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149201193_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149201193",
+      "sourceCreatedAt": "2026-09-02T13:34:20.000Z"
+    },
+    {
       "id": "2a31adf6",
       "filename": "pixiv_149173173_p0.jpg",
       "path": "uploads/2026/09/4a2a2720.jpg",
