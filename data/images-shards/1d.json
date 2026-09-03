@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "0162e5db",
+      "filename": "pixiv_149189549_p0.jpg",
+      "path": "uploads/2026/09/67cca85c.jpg",
+      "size": 619945,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b36be46336fa5833845fc2468bbdd9e7de412b7b07765abf8065458513485015",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:13:23.425Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "魔使マオ",
+      "tags": [
+        "魔使マオ",
+        "にじさんじイラコン2020"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149189549_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149189549",
+      "sourceCreatedAt": "2026-09-02T09:00:14.000Z"
+    },
+    {
       "id": "4244de5b",
       "filename": "pixiv_149191963_p0.jpg",
       "path": "uploads/2026/09/a1140bf7.jpg",
