@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "3ca0539b",
+      "filename": "pixiv_149153335_p0.jpg",
+      "path": "uploads/2026/09/7147c00b.jpg",
+      "size": 1262822,
+      "width": 1200,
+      "height": 649,
+      "mimeType": "image/jpeg",
+      "hash": "12bb93effa2096b9a6025d72e5459d68a775c8553412bfffd568f6dab4912d66",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:13:39.904Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "オリジナル",
+        "風景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149153335_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149153335",
+      "sourceCreatedAt": "2026-09-01T09:48:07.000Z"
+    },
+    {
       "id": "7187d5fa",
       "filename": "pixiv_149087536_p0.jpg",
       "path": "uploads/2026/09/56635455.jpg",
