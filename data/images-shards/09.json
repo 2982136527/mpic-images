@@ -3,6 +3,35 @@
   "shardId": "09",
   "images": [
     {
+      "id": "3364cb0c",
+      "filename": "pixiv_149156041_p0.jpg",
+      "path": "uploads/2026/09/5c73736d.jpg",
+      "size": 496037,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2eca3265c08114dad0c371ea042a87d716b76dd408d5a1bbc113913389a2490d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:54:51.448Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Murmuring Stream Yorktown",
+      "tags": [
+        "アズールレーン",
+        "ヨークタウンII(アズールレーン)",
+        "ヨークタウン(アズールレーン)",
+        "ウマ娘",
+        "スーパークリーク(ウマ娘)",
+        "コスプレ",
+        "中の人ネタ",
+        "アズールレーン100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149156041_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149156041",
+      "sourceCreatedAt": "2026-09-01T10:59:14.000Z"
+    },
+    {
       "id": "3582dc4a",
       "filename": "pixiv_149168256_p0.jpg",
       "path": "uploads/2026/09/7e20b4f1.jpg",
