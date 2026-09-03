@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "17eb5150",
+      "filename": "pixiv_149203712_p0.jpg",
+      "path": "uploads/2026/09/97838273.jpg",
+      "size": 796769,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c85412593a04414156a7f02810641d8fe58c080e8e9742f92fd17ecb8c4ad79c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:47:53.603Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "4280円",
+      "tags": [
+        "本間ひまわり",
+        "にじさんじ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149203712_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149203712",
+      "sourceCreatedAt": "2026-09-02T14:30:28.000Z"
+    },
+    {
       "id": "f6fe6538",
       "filename": "pixiv_149135212_p0.jpg",
       "path": "uploads/2026/09/83d09170.jpg",
