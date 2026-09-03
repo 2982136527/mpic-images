@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "a24ac213",
+      "filename": "pixiv_149167348_p0.jpg",
+      "path": "uploads/2026/09/866c2b0a.jpg",
+      "size": 853203,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "7502445e342746e7e6d49c38c88f6e69eeb508f4ad870140adeb1e8d371f86c2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T19:20:43.641Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "羽歌",
+      "tags": [
+        "プロジェクトセカイ",
+        "プロセカ",
+        "ビビバス",
+        "羽歌"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149167348_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149167348",
+      "sourceCreatedAt": "2026-09-01T14:57:10.000Z"
+    },
+    {
       "id": "f507f782",
       "filename": "pixiv_149142410_p0.jpg",
       "path": "uploads/2026/09/9d7b47f5.jpg",
