@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "38f4ff6b",
+      "filename": "pixiv_149160708_p0.jpg",
+      "path": "uploads/2026/09/974aa800.jpg",
+      "size": 742685,
+      "width": 1200,
+      "height": 1089,
+      "mimeType": "image/jpeg",
+      "hash": "a44f740f7773dcfc55426fb1c874f6d161d5feb843e037be7bf4f21e479f375f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:15:23.848Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "事件があるところに私あり！",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "まのさば",
+        "橘シェリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149160708_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149160708",
+      "sourceCreatedAt": "2026-09-01T12:32:14.000Z"
+    },
+    {
       "id": "ca145ecf",
       "filename": "pixiv_149089908_p0.jpg",
       "path": "uploads/2026/09/0d686266.jpg",
