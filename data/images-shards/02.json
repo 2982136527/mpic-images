@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "92cc943a",
+      "filename": "pixiv_149156842_p0.jpg",
+      "path": "uploads/2026/09/c23b6f7e.jpg",
+      "size": 1351617,
+      "width": 862,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "159f03ea614504820316e293edce05d6f3b77c58421299d9782bdf218b813901",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:18:53.987Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "モブ",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "クロレラ観察部",
+        "百鬼夜行連合学院のモブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149156842_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149156842",
+      "sourceCreatedAt": "2026-09-01T11:12:13.000Z"
+    },
+    {
       "id": "35bc6c99",
       "filename": "pixiv_149129590_p0.jpg",
       "path": "uploads/2026/09/c4f7b89e.jpg",
