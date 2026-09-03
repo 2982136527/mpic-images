@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "7976f210",
+      "filename": "pixiv_148975173_p0.jpg",
+      "path": "uploads/2026/09/965b576b.jpg",
+      "size": 1160582,
+      "width": 1200,
+      "height": 1114,
+      "mimeType": "image/jpeg",
+      "hash": "0e7a7375fde017444109949f116ec7bab593ff280b424bc992a80e428c88f90b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:19:51.923Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Pierro",
+      "tags": [
+        "muscle",
+        "abs",
+        "Genshin",
+        "pierro"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148975173_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148975173",
+      "sourceCreatedAt": "2026-08-28T04:15:11.000Z"
+    },
+    {
       "id": "52db6549",
       "filename": "pixiv_149130893_p0.jpg",
       "path": "uploads/2026/09/b824d9a2.jpg",
