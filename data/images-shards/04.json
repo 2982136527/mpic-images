@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "41b37cb4",
+      "filename": "pixiv_149151019_p0.jpg",
+      "path": "uploads/2026/09/74126a9d.jpg",
+      "size": 1244915,
+      "width": 838,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "11e2dd9e50befba1f4aba6cbd5d9c4c642f20a4943a59a80aeaf7b96c1fcc613",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T19:17:19.703Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "人間じゃないので",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149151019_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149151019",
+      "sourceCreatedAt": "2026-09-01T08:38:26.000Z"
+    },
+    {
       "id": "f0b24fd7",
       "filename": "pixiv_148063483_p0.jpg",
       "path": "uploads/2026/09/8ec4be6b.jpg",
