@@ -3,6 +3,37 @@
   "shardId": "11",
   "images": [
     {
+      "id": "357ad0c1",
+      "filename": "pixiv_148934746_p0.jpg",
+      "path": "uploads/2026/09/b38003d6.jpg",
+      "size": 605858,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6a0dcc78b8110d779203d8a88b742d21666ed2327f1aa1d7b2253e01747eaadc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:56:24.778Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ショウコ…",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "五十嵐ショウコ",
+        "炎と影編",
+        "ゲヘナ学園",
+        "やっちまったな",
+        "嵐(ブルーアーカイブ)",
+        "A・RA・SHI",
+        "ノックアウト",
+        "雷帝(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148934746_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148934746",
+      "sourceCreatedAt": "2026-08-27T02:41:40.000Z"
+    },
+    {
       "id": "0e2fb572",
       "filename": "pixiv_149143636_p0.jpg",
       "path": "uploads/2026/09/b9c7027c.jpg",
