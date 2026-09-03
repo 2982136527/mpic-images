@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "8108cf64",
+      "filename": "pixiv_149180687_p0.jpg",
+      "path": "uploads/2026/09/31a10526.jpg",
+      "size": 654881,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c90b2ca6b1c56c38be4d03b3a09d125a54ccc29a4962095ce5817bd0f34b4c44",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:17:22.020Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "超大風車",
+      "tags": [
+        "ファンタジー",
+        "オリジナル",
+        "風景",
+        "モノクロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149180687_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149180687",
+      "sourceCreatedAt": "2026-09-02T02:06:57.000Z"
+    },
+    {
       "id": "41301a06",
       "filename": "pixiv_149144245_p0.jpg",
       "path": "uploads/2026/09/dd31a092.jpg",
