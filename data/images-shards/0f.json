@@ -3,6 +3,33 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "430c2ab0",
+      "filename": "pixiv_149140467_p0.jpg",
+      "path": "uploads/2026/09/8c4239b9.jpg",
+      "size": 543871,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "407092e5a2d2aa3d6f488e5a1c995d01551965ce9347dc7f9a97b073564040e0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T19:16:45.771Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "nahida",
+      "tags": [
+        "GenshinImpact",
+        "ロリ",
+        "ナヒーダ",
+        "女の子",
+        "原神",
+        "nahida"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149140467_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149140467",
+      "sourceCreatedAt": "2026-08-31T23:52:20.000Z"
+    },
+    {
       "id": "b00b2600",
       "filename": "pixiv_148981669_p0.jpg",
       "path": "uploads/2026/09/c91c10f5.jpg",
