@@ -3,6 +3,33 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "86c7197f",
+      "filename": "pixiv_149149346_p0.jpg",
+      "path": "uploads/2026/09/02de6416.jpg",
+      "size": 646266,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "03942f74e05b5fa8d7081bccac5b40e732e86771ecaacb667b4d3f7d2a50674c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:16:32.689Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "マキナ(ブルーアーカイブ)",
+        "マキナ",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "블루아카이브"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149149346_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149149346",
+      "sourceCreatedAt": "2026-09-01T07:28:35.000Z"
+    },
+    {
       "id": "0633d3fa",
       "filename": "pixiv_149172209_p0.jpg",
       "path": "uploads/2026/09/3fe9da39.jpg",
