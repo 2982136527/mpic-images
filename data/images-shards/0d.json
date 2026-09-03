@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "15fd5bc8",
+      "filename": "pixiv_149167494_p0.jpg",
+      "path": "uploads/2026/09/4011c7d3.jpg",
+      "size": 388712,
+      "width": 721,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "28d38b80ee2a5642b402c250572973b18eb649ff26a6dafbcb15dae3760e2c71",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T19:16:55.154Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Herta",
+      "tags": [
+        "崩壊スターレイル",
+        "HonkaiStarRail",
+        "ヘルタ(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149167494_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149167494",
+      "sourceCreatedAt": "2026-09-01T15:00:01.000Z"
+    },
+    {
       "id": "3eacb6db",
       "filename": "pixiv_149155009_p0.jpg",
       "path": "uploads/2026/09/decadf54.jpg",
