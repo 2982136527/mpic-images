@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "7ccf5c24",
+      "filename": "pixiv_149183203_p0.jpg",
+      "path": "uploads/2026/09/b50206c7.jpg",
+      "size": 616470,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2b4a8730536f5a97507a68acd65c205b2b9e9b5d9ab7a272f9ecc78c79c3dbd8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T19:24:57.141Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "기지개 펴는 에피카",
+      "tags": [
+        "エピカ",
+        "Trickcal",
+        "트릭컬",
+        "에피카",
+        "トリッカル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149183203_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149183203",
+      "sourceCreatedAt": "2026-09-02T04:05:50.000Z"
+    },
+    {
       "id": "e747a2f1",
       "filename": "pixiv_149189520_p0.jpg",
       "path": "uploads/2026/09/cf6f7782.jpg",
