@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "018a4023",
+      "filename": "pixiv_149182324_p0.jpg",
+      "path": "uploads/2026/09/c1ad2c78.jpg",
+      "size": 1231247,
+      "width": 752,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a5ea242ffb648ce3de940f7e628010989b4b739993aade327ae7050280156212",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T19:21:35.536Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ファントム",
+      "tags": [
+        "NIKKE",
+        "ニケ",
+        "メガニケ",
+        "ファントム(勝利の女神:NIKKE)",
+        "勝利の女神:NIKKE"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149182324_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149182324",
+      "sourceCreatedAt": "2026-09-02T03:24:30.000Z"
+    },
+    {
       "id": "ff184168",
       "filename": "pixiv_149178139_p0.jpg",
       "path": "uploads/2026/09/369e5eaf.jpg",
