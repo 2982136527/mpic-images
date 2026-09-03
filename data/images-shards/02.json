@@ -3,6 +3,35 @@
   "shardId": "02",
   "images": [
     {
+      "id": "35bc6c99",
+      "filename": "pixiv_149129590_p0.jpg",
+      "path": "uploads/2026/09/c4f7b89e.jpg",
+      "size": 1343954,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "08ec150e1d1cb45923573e63479b5b5787c8e94651c0ba51e7c7b923d9399cce",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:17:38.712Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Commission",
+      "tags": [
+        "女の子",
+        "少女",
+        "ケモミミ",
+        "ロングヘアー",
+        "萌え袖",
+        "桜",
+        "花と女の子",
+        "commission"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149129590_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149129590",
+      "sourceCreatedAt": "2026-08-31T15:08:11.000Z"
+    },
+    {
       "id": "8eed06a2",
       "filename": "pixiv_149145851_p0.jpg",
       "path": "uploads/2026/09/5360eb07.jpg",
