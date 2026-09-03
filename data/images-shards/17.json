@@ -3,6 +3,33 @@
   "shardId": "17",
   "images": [
     {
+      "id": "2f15eeef",
+      "filename": "pixiv_149144469_p0.jpg",
+      "path": "uploads/2026/09/0a2005aa.jpg",
+      "size": 394809,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "495b52928908e83365e10525f896876893a7a5634c7fa5d77d499e25c1951601",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:51:50.634Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "アイン(ブルーアーカイブ)",
+        "ソフ(ブルーアーカイブ)",
+        "オウル(ブルーアーカイブ)",
+        "バニーガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149144469_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149144469",
+      "sourceCreatedAt": "2026-09-01T03:30:00.000Z"
+    },
+    {
       "id": "4876917b",
       "filename": "pixiv_149151736_p0.jpg",
       "path": "uploads/2026/09/6be35726.jpg",
