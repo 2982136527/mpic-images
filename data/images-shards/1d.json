@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "4244de5b",
+      "filename": "pixiv_149191963_p0.jpg",
+      "path": "uploads/2026/09/a1140bf7.jpg",
+      "size": 1188999,
+      "width": 1200,
+      "height": 614,
+      "mimeType": "image/jpeg",
+      "hash": "f1353af0eb015e30da26eaa7f0f161465419395db06de275bcc9a345414fd60f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:12:46.299Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "唱给晴天，唱给海，唱给恰好路过的你。",
+      "tags": [
+        "女孩子",
+        "崩坏星穹铁道"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149191963_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149191963",
+      "sourceCreatedAt": "2026-09-02T10:04:08.000Z"
+    },
+    {
       "id": "043deada",
       "filename": "pixiv_149183326_p0.jpg",
       "path": "uploads/2026/09/c501e065.jpg",
