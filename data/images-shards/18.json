@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "df7cebea",
+      "filename": "pixiv_149174116_p0.jpg",
+      "path": "uploads/2026/09/58a1e6b8.jpg",
+      "size": 754199,
+      "width": 978,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c134800e6d742a599ccff55cd3e5d5cd71f76794149fd77ec51ac9c31654dd25",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:48:42.305Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ぷよぷよ風マリン船長",
+      "tags": [
+        "宝鐘マリン",
+        "マリンのお宝"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149174116_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149174116",
+      "sourceCreatedAt": "2026-09-01T19:07:29.000Z"
+    },
+    {
       "id": "092172b6",
       "filename": "pixiv_149129130_p0.jpg",
       "path": "uploads/2026/09/7180f785.jpg",
