@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "66e72e4d",
+      "filename": "pixiv_149140499_p0.jpg",
+      "path": "uploads/2026/09/a7dc8447.jpg",
+      "size": 1067427,
+      "width": 782,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4c1e868aed253f54e49e24c9150a19907185eb2d966f003520481b4a64af395a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:13:33.132Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Razor",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "オリキャラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149140499_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149140499",
+      "sourceCreatedAt": "2026-08-31T23:53:55.000Z"
+    },
+    {
       "id": "370f7383",
       "filename": "pixiv_148958899_p0.jpg",
       "path": "uploads/2026/09/298c1bfe.jpg",
