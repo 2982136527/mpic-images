@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "a512adc7",
+      "filename": "pixiv_149167641_p0.jpg",
+      "path": "uploads/2026/09/d5f387cb.jpg",
+      "size": 775839,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "220fb7706f1c3c7475e3a7a42712364ae2ae8dea564bde7467ff19658db8d3d5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:47:59.563Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Skeb　ご依頼イラスト",
+      "tags": [
+        "Skeb",
+        "けもみみ",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149167641_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149167641",
+      "sourceCreatedAt": "2026-09-01T15:00:26.000Z"
+    },
+    {
       "id": "95bafbf9",
       "filename": "pixiv_149156421_p0.jpg",
       "path": "uploads/2026/09/2a8f7c43.jpg",
