@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "65e86223",
+      "filename": "pixiv_149168312_p0.jpg",
+      "path": "uploads/2026/09/9f76ee20.jpg",
+      "size": 541581,
+      "width": 1153,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c3044b8ba6c6db5f810edf2d8943fcf71ea575cab881ed5d2e9cad46a340ec23",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T04:16:47.152Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「たすけて～～っ」",
+      "tags": [
+        "狐耳",
+        "スパッツ",
+        "足袋",
+        "忍者",
+        "触手",
+        "ギャグ顔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149168312_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149168312",
+      "sourceCreatedAt": "2026-09-01T15:07:45.000Z"
+    },
+    {
       "id": "7bc24301",
       "filename": "pixiv_149203699_p0.jpg",
       "path": "uploads/2026/09/a6ea4d3d.jpg",
