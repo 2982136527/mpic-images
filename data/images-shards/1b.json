@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "f0a2e5a1",
+      "filename": "pixiv_149171069_p0.jpg",
+      "path": "uploads/2026/09/057feffe.jpg",
+      "size": 1414208,
+      "width": 878,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cd94d23d44b29055bdbb71ddaa271666ce87afe6a96a5c579286e99438ca00c6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-03T12:49:32.337Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🩵💙💜",
+      "tags": [
+        "アズールレーン",
+        "ヘレナ(アズールレーン)",
+        "AzurLane8thAnniv"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149171069_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149171069",
+      "sourceCreatedAt": "2026-09-01T16:25:32.000Z"
+    },
+    {
       "id": "a512adc7",
       "filename": "pixiv_149167641_p0.jpg",
       "path": "uploads/2026/09/d5f387cb.jpg",
