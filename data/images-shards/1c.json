@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "d529a582",
+      "filename": "pixiv_149213398_p0.jpg",
+      "path": "uploads/2026/09/54c721fe.jpg",
+      "size": 604553,
+      "width": 1200,
+      "height": 912,
+      "mimeType": "image/jpeg",
+      "hash": "bd07b03b7daa82ac346c0608fde47d5214bff70467a59a0b01d657531cb22cb4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:28:51.115Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "肩を組む少年2人",
+      "tags": [
+        "少年",
+        "男子",
+        "肩組み"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149213398_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149213398",
+      "sourceCreatedAt": "2026-09-02T21:35:42.000Z"
+    },
+    {
       "id": "ddcbda50",
       "filename": "pixiv_149240535_p0.jpg",
       "path": "uploads/2026/09/479bef00.jpg",
