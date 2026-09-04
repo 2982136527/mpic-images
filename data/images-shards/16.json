@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "5af466c3",
+      "filename": "pixiv_149206994_p0.jpg",
+      "path": "uploads/2026/09/a46b3aa2.jpg",
+      "size": 1185620,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f004a9ad69de68d9ec884db6c8ae09db6931dd18b217d493f28a514c39235fe3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T19:07:18.379Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "フローラ",
+      "tags": [
+        "NIKKE",
+        "勝利の女神:NIKKE",
+        "バニーガール",
+        "フローラ",
+        "フローラ(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149206994_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149206994",
+      "sourceCreatedAt": "2026-09-02T15:36:57.000Z"
+    },
+    {
       "id": "dc1454a9",
       "filename": "pixiv_149190710_p0.jpg",
       "path": "uploads/2026/09/54010cf7.jpg",
