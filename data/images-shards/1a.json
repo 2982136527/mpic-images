@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "d938a3a3",
+      "filename": "pixiv_149195647_p0.jpg",
+      "path": "uploads/2026/09/9ed1db49.jpg",
+      "size": 1419267,
+      "width": 973,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e5ed322e33f6ca9c49ce730890e76253d7f10df4f8366525a5a6b336d67c524d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:20:24.018Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「おかえり。大きくなったなぁ。」",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "異形",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149195647_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149195647",
+      "sourceCreatedAt": "2026-09-02T11:36:46.000Z"
+    },
+    {
       "id": "319b7886",
       "filename": "pixiv_149168748_p0.jpg",
       "path": "uploads/2026/09/499c8d08.jpg",
