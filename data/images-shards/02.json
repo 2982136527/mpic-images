@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "bcf96f33",
+      "filename": "pixiv_149168018_p0.jpg",
+      "path": "uploads/2026/09/d38dc3e8.jpg",
+      "size": 794661,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "05c526ad612a2c382f68ae77ac543846dd5c408534501f86eeaddddf7f5b72f0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:25:03.182Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Psyche",
+      "tags": [
+        "듀엣나이트어비스",
+        "듀나",
+        "二重螺旋",
+        "DuetNightAbyss"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149168018_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149168018",
+      "sourceCreatedAt": "2026-09-01T15:03:23.000Z"
+    },
+    {
       "id": "ea902511",
       "filename": "pixiv_149205045_p0.jpg",
       "path": "uploads/2026/09/f5a77675.jpg",
