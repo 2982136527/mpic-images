@@ -3,6 +3,28 @@
   "shardId": "07",
   "images": [
     {
+      "id": "e57bc335",
+      "filename": "pixiv_149233056_p0.jpg",
+      "path": "uploads/2026/09/47dcf863.jpg",
+      "size": 1328252,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9619452d0c32004ddea93294ca1722f1545764b16fd7dc71a258cfe172c72a8f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:29:13.698Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ぷれまと",
+      "tags": [
+        "デュエプレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149233056_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149233056",
+      "sourceCreatedAt": "2026-09-03T11:57:54.000Z"
+    },
+    {
       "id": "014ba420",
       "filename": "pixiv_149151665_p0.jpg",
       "path": "uploads/2026/09/27e0d797.jpg",
