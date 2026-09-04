@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "e652da24",
+      "filename": "pixiv_149216347_p0.jpg",
+      "path": "uploads/2026/09/92731995.jpg",
+      "size": 931226,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "68e9fbf26cdbd6b07c00ec96709bc3c4a448dfb6542834fc0e74c2a4535db15e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T19:02:00.071Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "スカラー",
+      "tags": [
+        "Tuda6",
+        "Commission",
+        "FinalFantasy"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149216347_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149216347",
+      "sourceCreatedAt": "2026-09-03T00:33:00.000Z"
+    },
+    {
       "id": "ce9ee0f9",
       "filename": "pixiv_148997905_p0.jpg",
       "path": "uploads/2026/09/4efbf64a.jpg",
