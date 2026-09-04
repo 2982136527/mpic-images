@@ -3,6 +3,37 @@
   "shardId": "00",
   "images": [
     {
+      "id": "addc6cb2",
+      "filename": "pixiv_149181704_p0.jpg",
+      "path": "uploads/2026/09/d6e50433.jpg",
+      "size": 665235,
+      "width": 1087,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "abee4b1a1d9bbc3ab957855127aa7d2a14991529495bb018d50c271122d86786",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:24:03.292Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ブルアカ漫画2660",
+      "tags": [
+        "漫画",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "サユリ(ブルーアーカイブ)",
+        "彼シャツ",
+        "先生(ブルーアーカイブ)",
+        "尾刃カンナ(水着)",
+        "二段ブチ抜き",
+        "うすほそ",
+        "先生(空崎ヒナ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149181704_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149181704",
+      "sourceCreatedAt": "2026-09-02T03:00:13.000Z"
+    },
+    {
       "id": "550a1841",
       "filename": "pixiv_149201459_p0.jpg",
       "path": "uploads/2026/09/4a6f28f0.jpg",
