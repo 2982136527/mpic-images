@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "07b5037a",
+      "filename": "pixiv_149228575_p0.jpg",
+      "path": "uploads/2026/09/991fb928.jpg",
+      "size": 807140,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b0f7ef79b3098ebbb21820252fa4f704f9bb138682b201ca14eea1af4c6f469a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T19:00:37.359Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "魔法少女まどかマギカ",
+        "鹿目まどか"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149228575_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149228575",
+      "sourceCreatedAt": "2026-09-03T10:02:52.000Z"
+    },
+    {
       "id": "0645741e",
       "filename": "pixiv_149226980_p0.jpg",
       "path": "uploads/2026/09/db225283.jpg",
