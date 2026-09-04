@@ -3,6 +3,36 @@
   "shardId": "02",
   "images": [
     {
+      "id": "ea902511",
+      "filename": "pixiv_149205045_p0.jpg",
+      "path": "uploads/2026/09/f5a77675.jpg",
+      "size": 1128495,
+      "width": 790,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6229e9ed2736ec3848be161f79af2b79e4dd9c4d512c512f6abd9446b4f908ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:24:56.502Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "通りすがり",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子",
+        "猫",
+        "背景",
+        "風景",
+        "空",
+        "夜",
+        "夕暮れ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149205045_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149205045",
+      "sourceCreatedAt": "2026-09-02T15:00:11.000Z"
+    },
+    {
       "id": "e9eda023",
       "filename": "pixiv_149114563_p0.jpg",
       "path": "uploads/2026/09/9233879b.jpg",
