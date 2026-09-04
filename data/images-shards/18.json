@@ -3,6 +3,28 @@
   "shardId": "18",
   "images": [
     {
+      "id": "a73f8f29",
+      "filename": "pixiv_149212986_p0.jpg",
+      "path": "uploads/2026/09/7aa466a3.jpg",
+      "size": 636359,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2dda30d4d45773d24709bbca0394f232e67e7deabc99542b11bb0b48a5a32f45",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T19:05:41.252Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "With tongue",
+      "tags": [
+        "R-18"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149212986_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149212986",
+      "sourceCreatedAt": "2026-09-02T21:06:40.000Z"
+    },
+    {
       "id": "9ff6a349",
       "filename": "pixiv_149189212_p0.jpg",
       "path": "uploads/2026/09/ba5a6850.jpg",
