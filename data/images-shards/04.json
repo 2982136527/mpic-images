@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "95cc95ad",
+      "filename": "pixiv_149188959_p0.jpg",
+      "path": "uploads/2026/09/e1cce842.jpg",
+      "size": 444877,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d7049438d5386f7b44b75355c11e2ae17d76bcb427c9a15b05204f338bf6b995",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:21:13.848Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "リンバスの落書きlog5",
+      "tags": [
+        "Limbus_Company",
+        "良秀(LCB)",
+        "ファウスト(LCB)",
+        "アラヤ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149188959_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149188959",
+      "sourceCreatedAt": "2026-09-02T08:40:24.000Z"
+    },
+    {
       "id": "41b37cb4",
       "filename": "pixiv_149151019_p0.jpg",
       "path": "uploads/2026/09/74126a9d.jpg",
