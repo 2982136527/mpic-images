@@ -3,6 +3,37 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "a3d28a76",
+      "filename": "pixiv_149228208_p0.jpg",
+      "path": "uploads/2026/09/9f497101.jpg",
+      "size": 663286,
+      "width": 733,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "265391fe7b6093c68bc3229902a0425386510fe8e57980f1b31abe362e59ae08",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T19:02:53.470Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "朝のワカモ",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "블루아카이브",
+        "狐坂ワカモ",
+        "ワカモ(ブルーアーカイブ)",
+        "狐っ娘",
+        "ブルアカ",
+        "下着",
+        "ゆうべはおたのしみでしたね",
+        "腋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149228208_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149228208",
+      "sourceCreatedAt": "2026-09-03T09:56:40.000Z"
+    },
+    {
       "id": "526ad7fc",
       "filename": "pixiv_149233809_p0.jpg",
       "path": "uploads/2026/09/948964c1.jpg",
