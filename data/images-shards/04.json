@@ -3,6 +3,28 @@
   "shardId": "04",
   "images": [
     {
+      "id": "4398bc25",
+      "filename": "pixiv_149078335_p0.jpg",
+      "path": "uploads/2026/09/c7ad571b.jpg",
+      "size": 1049851,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "174c3bdda88eaf467eb16104d17306e78978328eefd7066cca1b3930d091ad8e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T12:47:09.755Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "研究所パロまとめ",
+      "tags": [
+        "人外"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149078335_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149078335",
+      "sourceCreatedAt": "2026-08-30T12:31:46.000Z"
+    },
+    {
       "id": "63378f16",
       "filename": "pixiv_149187408_p0.jpg",
       "path": "uploads/2026/09/c194abd5.jpg",
