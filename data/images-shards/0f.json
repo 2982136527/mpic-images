@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "ce6dd772",
+      "filename": "pixiv_149205030_p0.jpg",
+      "path": "uploads/2026/09/b2bf8a25.jpg",
+      "size": 790115,
+      "width": 807,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0cfdfb878fd85231eec7cfa07cdc3f7b303c170580ca2e0eac38116648bba2e5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T12:43:39.042Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Rin",
+      "tags": [
+        "Fate/staynight",
+        "Fate",
+        "遠坂凛"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149205030_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149205030",
+      "sourceCreatedAt": "2026-09-02T15:00:09.000Z"
+    },
+    {
       "id": "0f16d66f",
       "filename": "pixiv_149182795_p0.jpg",
       "path": "uploads/2026/09/3176558e.jpg",
