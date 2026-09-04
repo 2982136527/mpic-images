@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "25a305b0",
+      "filename": "pixiv_149181951_p0.jpg",
+      "path": "uploads/2026/09/448b4039.jpg",
+      "size": 709406,
+      "width": 970,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bb3a6c5c0411038bb20ede82fc2aedc6995451e02c45ebeb80b67c1c8320b15b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:22:51.044Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "블루아카이브",
+        "ブルアカ",
+        "聖園ミカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149181951_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149181951",
+      "sourceCreatedAt": "2026-09-02T03:06:17.000Z"
+    },
+    {
       "id": "bf30b97d",
       "filename": "pixiv_149181077_p0.jpg",
       "path": "uploads/2026/09/0ffeb1f4.jpg",
