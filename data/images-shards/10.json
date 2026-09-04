@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "0fb96053",
+      "filename": "pixiv_149231252_p0.jpg",
+      "path": "uploads/2026/09/87af7dbc.jpg",
+      "size": 995387,
+      "width": 900,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "19476d56a6c95c9f5ebf36cdaaf7f81a19016a44c7384b676face331c2c4517c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:26:47.409Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🌟",
+      "tags": [
+        "マンダロリアン",
+        "マンダロリアン・アンド・グローグー",
+        "グローグー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149231252_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149231252",
+      "sourceCreatedAt": "2026-09-03T11:14:56.000Z"
+    },
+    {
       "id": "b313c0b0",
       "filename": "pixiv_149234350_p0.jpg",
       "path": "uploads/2026/09/aeef91d5.jpg",
