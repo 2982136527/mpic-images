@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "b3f9f023",
+      "filename": "pixiv_149184832_p0.jpg",
+      "path": "uploads/2026/09/ac253078.jpg",
+      "size": 245212,
+      "width": 1200,
+      "height": 1096,
+      "mimeType": "image/jpeg",
+      "hash": "0a3189a02d9dbb658d5b5067c1cd9d4ac50a8e6676cfb9a0f5e6e74becd96b7a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T12:40:47.910Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "はつねみく",
+      "tags": [
+        "初音ミク",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149184832_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149184832",
+      "sourceCreatedAt": "2026-09-02T05:31:04.000Z"
+    },
+    {
       "id": "25a305b0",
       "filename": "pixiv_149181951_p0.jpg",
       "path": "uploads/2026/09/448b4039.jpg",
