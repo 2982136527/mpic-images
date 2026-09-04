@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "1d08657e",
+      "filename": "pixiv_149167669_p0.jpg",
+      "path": "uploads/2026/09/ba7f7de3.jpg",
+      "size": 715930,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0757b385d167d373bbeaa4ccf4c3dd7abc52800dd458d7d02204383cece0a89e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T12:43:32.874Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "時雨（ワンドロ20260901）",
+      "tags": [
+        "艦これ",
+        "艦隊これくしょん",
+        "時雨(艦隊これくしょん)",
+        "時雨改三"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149167669_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149167669",
+      "sourceCreatedAt": "2026-09-01T15:00:30.000Z"
+    },
+    {
       "id": "e9bce338",
       "filename": "pixiv_148998690_p0.jpg",
       "path": "uploads/2026/09/1184e852.jpg",
