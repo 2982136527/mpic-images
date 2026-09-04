@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "9ccd21bc",
+      "filename": "pixiv_149172771_p0.jpg",
+      "path": "uploads/2026/09/53394c88.jpg",
+      "size": 1960056,
+      "width": 1200,
+      "height": 843,
+      "mimeType": "image/jpeg",
+      "hash": "930cd632ae23ebab3fcdd5cc2a20c5dc1de34ab312897cd1b43d14b02b5e1ab0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:20:44.925Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ぺこマリ詰め合わせ",
+      "tags": [
+        "宝鐘マリン",
+        "兎田ぺこら",
+        "ぺこマリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149172771_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149172771",
+      "sourceCreatedAt": "2026-09-01T17:40:41.000Z"
+    },
+    {
       "id": "02cdabc8",
       "filename": "pixiv_149183623_p0.jpg",
       "path": "uploads/2026/09/98b4353b.jpg",
