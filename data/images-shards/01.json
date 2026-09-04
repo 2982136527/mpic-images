@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "d9accfa2",
+      "filename": "pixiv_149198861_p0.jpg",
+      "path": "uploads/2026/09/4d75522e.jpg",
+      "size": 603982,
+      "width": 475,
+      "height": 791,
+      "mimeType": "image/jpeg",
+      "hash": "a4accfbcad1aaef8518f39bea3009a20b48998e1679a9081e84d242003f1244b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:25:10.140Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ミリアとココ",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "佐伯ミリア",
+        "まのさば二次創作",
+        "沢渡ココ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149198861_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149198861",
+      "sourceCreatedAt": "2026-09-02T12:43:19.000Z"
+    },
+    {
       "id": "04024502",
       "filename": "pixiv_149193885_p0.jpg",
       "path": "uploads/2026/09/ec86e1d4.jpg",
