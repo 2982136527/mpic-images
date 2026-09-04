@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "319b7886",
+      "filename": "pixiv_149168748_p0.jpg",
+      "path": "uploads/2026/09/499c8d08.jpg",
+      "size": 1922611,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5887a8d0317c104eba4343b046a54656e604faf27f378b3b9dbfdeec10e36f1d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:19:54.111Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "湖の姫",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "マジカルミライ2026",
+        "VOCALOID500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149168748_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149168748",
+      "sourceCreatedAt": "2026-09-01T15:17:46.000Z"
+    },
+    {
       "id": "41e2aa0a",
       "filename": "pixiv_149157374_p0.jpg",
       "path": "uploads/2026/09/b78924df.jpg",
