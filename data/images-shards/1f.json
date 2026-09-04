@@ -3,6 +3,37 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "c9d3fde1",
+      "filename": "pixiv_149189127_p0.jpg",
+      "path": "uploads/2026/09/be8c134c.jpg",
+      "size": 965644,
+      "width": 891,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c9ee3240ec4e377f080d50708bb06b661d66a2072b885824541a6e20da0a0c47",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T12:42:03.322Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "zatsune miku",
+      "tags": [
+        "女の子",
+        "初音ミク",
+        "イラスト",
+        "少女",
+        "ボカロ",
+        "ボーカロイド",
+        "HatsuneMiku",
+        "ツインテール",
+        "黒髪",
+        "雑音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149189127_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149189127",
+      "sourceCreatedAt": "2026-09-04T05:43:45.000Z"
+    },
+    {
       "id": "b3f9f023",
       "filename": "pixiv_149184832_p0.jpg",
       "path": "uploads/2026/09/ac253078.jpg",
