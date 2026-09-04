@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "49e61f3d",
+      "filename": "pixiv_149231143_p0.jpg",
+      "path": "uploads/2026/09/ed5ac273.jpg",
+      "size": 545986,
+      "width": 677,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "52553292190f1775c60e1ab114e24832310e831643de1edc27a060b97e4f7a72",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T18:59:51.629Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "エマ",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "まのさば",
+        "桜羽エマ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149231143_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149231143",
+      "sourceCreatedAt": "2026-09-03T11:59:52.000Z"
+    },
+    {
       "id": "af0f904d",
       "filename": "pixiv_149211199_p0.jpg",
       "path": "uploads/2026/09/68051272.jpg",
