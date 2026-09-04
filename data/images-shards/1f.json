@@ -3,6 +3,34 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "50b2cbc6",
+      "filename": "pixiv_149227633_p0.jpg",
+      "path": "uploads/2026/09/67be7ec5.jpg",
+      "size": 1560375,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2f49905f8e3b5b96e68d87327964d24d92300c88ca40c64559661eee3823142d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T12:44:56.526Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "原神",
+        "スカラマシュ",
+        "scaramouche",
+        "GenshinImpact",
+        "散兵",
+        "放浪者",
+        "wanderer"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149227633_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149227633",
+      "sourceCreatedAt": "2026-09-03T09:36:40.000Z"
+    },
+    {
       "id": "c9d3fde1",
       "filename": "pixiv_149189127_p0.jpg",
       "path": "uploads/2026/09/be8c134c.jpg",
