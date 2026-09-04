@@ -3,6 +3,35 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "8c30a4d5",
+      "filename": "pixiv_149207169_p0.jpg",
+      "path": "uploads/2026/09/a0a8a16b.jpg",
+      "size": 841423,
+      "width": 842,
+      "height": 1194,
+      "mimeType": "image/jpeg",
+      "hash": "bdda7b80314d7e755c80efc587a96149808dc7713bd817483dd6585a6a9f77a1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T18:57:34.240Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ソフトクリーム",
+      "tags": [
+        "pixiv食堂",
+        "イラスト",
+        "pixivカフェ",
+        "飯テロ",
+        "食べ物",
+        "食べ物イラスト",
+        "ソフトクリーム",
+        "アイスクリーム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149207169_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149207169",
+      "sourceCreatedAt": "2026-09-02T15:42:42.000Z"
+    },
+    {
       "id": "5b1f89cb",
       "filename": "pixiv_149222842_p0.jpg",
       "path": "uploads/2026/09/ffea5075.jpg",
