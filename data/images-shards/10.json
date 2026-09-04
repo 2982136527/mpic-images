@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "ab3e778c",
+      "filename": "pixiv_149203592_p0.jpg",
+      "path": "uploads/2026/09/660837bd.jpg",
+      "size": 1589565,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b97c502721a0d306f560efd021d5266fa2e90083b5aa3702dd500852632a0052",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T12:49:07.522Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "怪盗ファントムさん",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "ファントム(勝利の女神:NIKKE)",
+        "ファントム:セイントシーフ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149203592_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149203592",
+      "sourceCreatedAt": "2026-09-02T14:28:17.000Z"
+    },
+    {
       "id": "03bf7517",
       "filename": "pixiv_149171940_p0.jpg",
       "path": "uploads/2026/09/fb0ae460.jpg",
