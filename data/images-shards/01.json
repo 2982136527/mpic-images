@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "c761ecb6",
+      "filename": "pixiv_149193179_p0.jpg",
+      "path": "uploads/2026/09/993f3010.jpg",
+      "size": 1121517,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f8cb3cbc343c5a8e9f62f9353aef76f36380a98e4c1a11ca63246b4bed58c4ca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T12:46:11.317Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ココロ",
+      "tags": [
+        "女の子",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "渡海ココロ",
+        "BlueArchive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149193179_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149193179",
+      "sourceCreatedAt": "2026-09-02T10:38:59.000Z"
+    },
+    {
       "id": "d9accfa2",
       "filename": "pixiv_149198861_p0.jpg",
       "path": "uploads/2026/09/4d75522e.jpg",
