@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "81bd3087",
+      "filename": "pixiv_149207143_p0.jpg",
+      "path": "uploads/2026/09/80a8b99a.jpg",
+      "size": 952129,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b9f338ca3836a741d18da46b5080cfd9aae65e8a94d6ccc4336f81a0a3d4fce2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T19:01:10.554Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "レミエール",
+      "tags": [
+        "レミエール・ダン",
+        "zzzero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149207143_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149207143",
+      "sourceCreatedAt": "2026-09-02T15:41:48.000Z"
+    },
+    {
       "id": "4de80043",
       "filename": "pixiv_148124094_p0.jpg",
       "path": "uploads/2026/09/ea57527f.jpg",
