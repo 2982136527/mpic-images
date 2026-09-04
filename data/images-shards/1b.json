@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "b1a38dfc",
+      "filename": "pixiv_149205166_p0.jpg",
+      "path": "uploads/2026/09/012326f4.jpg",
+      "size": 1088057,
+      "width": 772,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "64a2cf7a5fa00a8cfb30376ed03fb7db00ea0a00d14498b17d907cc80cd55904",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T12:42:22.888Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "咲夜",
+      "tags": [
+        "東方",
+        "十六夜咲夜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149205166_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149205166",
+      "sourceCreatedAt": "2026-09-02T15:00:35.000Z"
+    },
+    {
       "id": "1058fb19",
       "filename": "pixiv_149205309_p0.jpg",
       "path": "uploads/2026/09/fd9d47e6.jpg",
