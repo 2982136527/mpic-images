@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "639bc90c",
+      "filename": "pixiv_149184948_p0.jpg",
+      "path": "uploads/2026/09/8e5fa10e.jpg",
+      "size": 736027,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6b9f49fb40562cf7bbee67a42bcb7ff437780357e0b8d81cbc0c4643ccfe04ce",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T12:43:52.379Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ER",
+      "tags": [
+        "EternalReturn:BlackSurvival"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149184948_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149184948",
+      "sourceCreatedAt": "2026-09-02T05:38:31.000Z"
+    },
+    {
       "id": "dd7572e8",
       "filename": "pixiv_149193272_p0.jpg",
       "path": "uploads/2026/09/fd7f27e8.jpg",
