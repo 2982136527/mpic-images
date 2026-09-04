@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "802dcb9c",
+      "filename": "pixiv_149231448_p0.jpg",
+      "path": "uploads/2026/09/d9f54aef.jpg",
+      "size": 1175147,
+      "width": 1000,
+      "height": 875,
+      "mimeType": "image/jpeg",
+      "hash": "94e7c38b5f608039dd6ab065c4132eaa3b437f8e5ddd2ba55e2a3d77819d1ace",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T12:43:00.871Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "マジカルミライ2026",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "マジカルミライ",
+        "マジカルミライ2026",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149231448_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149231448",
+      "sourceCreatedAt": "2026-09-03T11:20:18.000Z"
+    },
+    {
       "id": "79ed0b18",
       "filename": "pixiv_149205051_p0.jpg",
       "path": "uploads/2026/09/e1d3a491.jpg",
