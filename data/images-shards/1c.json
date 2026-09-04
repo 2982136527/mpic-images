@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "ddcbda50",
+      "filename": "pixiv_149240535_p0.jpg",
+      "path": "uploads/2026/09/479bef00.jpg",
+      "size": 281966,
+      "width": 747,
+      "height": 1052,
+      "mimeType": "image/jpeg",
+      "hash": "71f40f2c944459925cd182e0fa0e5401b1eb69e510e72da01872b7f0c970891c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:21:20.607Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "巫女さん神楽！",
+      "tags": [
+        "ポニーテール",
+        "神楽(カグライ)",
+        "長身女性",
+        "カグライ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149240535_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149240535",
+      "sourceCreatedAt": "2026-09-03T14:45:33.000Z"
+    },
+    {
       "id": "227b4bef",
       "filename": "pixiv_149172647_p0.jpg",
       "path": "uploads/2026/09/7a4fb4a0.jpg",
