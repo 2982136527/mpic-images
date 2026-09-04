@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "f109f3e1",
+      "filename": "pixiv_149215357_p0.jpg",
+      "path": "uploads/2026/09/c199718b.jpg",
+      "size": 601236,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bc44e2870a6978fb08ef99b30dc5b84f2c5b031f2a4e469180eb2778d2ca5f50",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T19:02:07.675Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Back to school Mori",
+      "tags": [
+        "MoriCalliope",
+        "vtuber",
+        "hololive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149215357_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149215357",
+      "sourceCreatedAt": "2026-09-02T23:29:07.000Z"
+    },
+    {
       "id": "87050870",
       "filename": "pixiv_149221024_p0.jpg",
       "path": "uploads/2026/09/90408c56.jpg",
