@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "d28a3ce5",
+      "filename": "pixiv_149205983_p0.jpg",
+      "path": "uploads/2026/09/2874ceb8.jpg",
+      "size": 1365885,
+      "width": 1200,
+      "height": 861,
+      "mimeType": "image/jpeg",
+      "hash": "949cce9484b6b62631e79670569e20f518cd996df1bb77417f6dca6dae5e74fb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T12:41:20.611Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Arcaea",
+      "tags": [
+        "Arcaea",
+        "サヤ(Arcaea)",
+        "ヴィータ(Arcaea)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149205983_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149205983",
+      "sourceCreatedAt": "2026-09-02T15:12:38.000Z"
+    },
+    {
       "id": "9d9f7632",
       "filename": "pixiv_149212848_p0.jpg",
       "path": "uploads/2026/09/cdd2ad40.jpg",
