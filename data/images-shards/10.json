@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "185363ab",
+      "filename": "pixiv_149184259_p0.jpg",
+      "path": "uploads/2026/09/2c97b1f0.jpg",
+      "size": 530055,
+      "width": 930,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "063f995bdab839ba7f6c1f34d41939041a89dc4419e76c90893fc7474bbdefa0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T19:01:17.826Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ホシノ",
+      "tags": [
+        "小鳥遊ホシノ",
+        "女の子",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "ブルアカ",
+        "サンダル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149184259_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149184259",
+      "sourceCreatedAt": "2026-09-02T05:00:03.000Z"
+    },
+    {
       "id": "ab3e778c",
       "filename": "pixiv_149203592_p0.jpg",
       "path": "uploads/2026/09/660837bd.jpg",
