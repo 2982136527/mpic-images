@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "890d90c7",
+      "filename": "pixiv_149177284_p0.jpg",
+      "path": "uploads/2026/09/94eb731c.jpg",
+      "size": 370872,
+      "width": 868,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "87f92a70794201cda47fd508653d479e2b12213516d632e0f9acb9fdee0e9c46",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T19:00:12.335Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "작업 IN",
+      "tags": [
+        "아인",
+        "IN"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149177284_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149177284",
+      "sourceCreatedAt": "2026-09-01T22:34:36.000Z"
+    },
+    {
       "id": "623b1630",
       "filename": "pixiv_149217448_p0.jpg",
       "path": "uploads/2026/09/2765a4b5.jpg",
