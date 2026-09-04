@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "ba81c27d",
+      "filename": "pixiv_149205906_p0.jpg",
+      "path": "uploads/2026/09/6cdecd2f.jpg",
+      "size": 1244995,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8855a4d421ace1527412733e9bf4332a34b16f56d8e109aa2bbe4a1faadad90b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:23:56.601Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "春はまだ夢の中",
+      "tags": [
+        "東方Project",
+        "東方",
+        "西行寺幽々子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149205906_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149205906",
+      "sourceCreatedAt": "2026-09-02T15:10:53.000Z"
+    },
+    {
       "id": "0db40e45",
       "filename": "pixiv_149211519_p0.jpg",
       "path": "uploads/2026/09/08ad3d36.jpg",
