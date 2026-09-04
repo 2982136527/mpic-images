@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "cff98f7d",
+      "filename": "pixiv_149209217_p0.jpg",
+      "path": "uploads/2026/09/200b5c39.jpg",
+      "size": 731084,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fe4c19f314452caaa51828e3a52a95d6dbb3a798e136d4f4e26523d3b1e520c8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T12:49:16.571Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "バニフェーヴル",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "オルフェーヴル(ウマ娘)",
+        "バニーウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149209217_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149209217",
+      "sourceCreatedAt": "2026-09-02T16:53:11.000Z"
+    },
+    {
       "id": "df36ddfa",
       "filename": "pixiv_149192873_p0.jpg",
       "path": "uploads/2026/09/f15d27ce.jpg",
