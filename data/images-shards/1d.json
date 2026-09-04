@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "d83abc5d",
+      "filename": "pixiv_149209761_p0.jpg",
+      "path": "uploads/2026/09/fbf292c0.jpg",
+      "size": 1095285,
+      "width": 1200,
+      "height": 1195,
+      "mimeType": "image/jpeg",
+      "hash": "74bce25eac3313beff76783b84c0beb0a06d9897ec33ed55122feeb6d1b09c7d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:21:27.169Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "자로",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "zilu",
+        "자로"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149209761_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149209761",
+      "sourceCreatedAt": "2026-09-02T17:17:37.000Z"
+    },
+    {
       "id": "0162e5db",
       "filename": "pixiv_149189549_p0.jpg",
       "path": "uploads/2026/09/67cca85c.jpg",
