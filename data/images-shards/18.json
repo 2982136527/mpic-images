@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "495c1a2c",
+      "filename": "pixiv_149181428_p0.jpg",
+      "path": "uploads/2026/09/a3339c1d.jpg",
+      "size": 1129388,
+      "width": 1200,
+      "height": 750,
+      "mimeType": "image/jpeg",
+      "hash": "c2a326393989e61e6f4dbf5584e002c04f2851f34f5d13e3f00d380363abecea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:24:49.786Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "自動車",
+        "車",
+        "レースクイーン",
+        "夜景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149181428_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149181428",
+      "sourceCreatedAt": "2026-09-02T02:48:59.000Z"
+    },
+    {
       "id": "5340a02c",
       "filename": "pixiv_149173829_p0.jpg",
       "path": "uploads/2026/09/6890be32.jpg",
