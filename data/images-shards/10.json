@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "b313c0b0",
+      "filename": "pixiv_149234350_p0.jpg",
+      "path": "uploads/2026/09/aeef91d5.jpg",
+      "size": 336278,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "6a391d4a8a707587f63d2c8365bafdf97816579d09cf192ada9afb9ed9d2bb9c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:26:40.595Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Chocomint Nerissa",
+      "tags": [
+        "バーチャルYouTuber",
+        "ホロライブ",
+        "HololiveEN",
+        "ネリッサ・レイヴンクロフト",
+        "NerissaRavencroft"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149234350_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149234350",
+      "sourceCreatedAt": "2026-09-03T12:22:28.000Z"
+    },
+    {
       "id": "4609b482",
       "filename": "pixiv_149224772_p0.jpg",
       "path": "uploads/2026/09/9c59a59e.jpg",
