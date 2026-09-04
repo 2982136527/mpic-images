@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "f6433832",
+      "filename": "pixiv_149205068_p0.jpg",
+      "path": "uploads/2026/09/0164fc9d.jpg",
+      "size": 1033230,
+      "width": 673,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3cbc44d6804d473c738ece46e478169153684a4800a06ac97ae3fdac8998a0d4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T12:45:12.369Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "モナ (commission)",
+      "tags": [
+        "モナ",
+        "原神",
+        "ソックス足裏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149205068_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149205068",
+      "sourceCreatedAt": "2026-09-02T15:00:15.000Z"
+    },
+    {
       "id": "05e9643b",
       "filename": "pixiv_149206418_p0.jpg",
       "path": "uploads/2026/09/1e9a611d.jpg",
