@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "8ec2303c",
+      "filename": "pixiv_149218517_p0.jpg",
+      "path": "uploads/2026/09/5fbf9127.jpg",
+      "size": 1004544,
+      "width": 1113,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6033f50d62c0468026d3025baa043fda9c83517ef7cad008bc668406f5e4af63",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:23:25.225Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "20260903",
+      "tags": [
+        "東方project",
+        "東方",
+        "西行寺幽々子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149218517_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149218517",
+      "sourceCreatedAt": "2026-09-03T02:45:16.000Z"
+    },
+    {
       "id": "6182d389",
       "filename": "pixiv_149232450_p0.jpg",
       "path": "uploads/2026/09/c7b8dbe2.jpg",
