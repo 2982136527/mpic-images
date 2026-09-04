@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "04024502",
+      "filename": "pixiv_149193885_p0.jpg",
+      "path": "uploads/2026/09/ec86e1d4.jpg",
+      "size": 1052513,
+      "width": 744,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5304d006afdaef70afe51b773fc8a75ec5bdad2548857452f41f6f2243cfa74a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:23:31.751Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "沃雅妮莎",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "沃雅妮莎",
+        "ヴォジャニーツァ",
+        "Vodyanitsa"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149193885_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149193885",
+      "sourceCreatedAt": "2026-09-02T10:59:04.000Z"
+    },
+    {
       "id": "6b2d975f",
       "filename": "pixiv_149213644_p0.jpg",
       "path": "uploads/2026/09/1c4d085e.jpg",
