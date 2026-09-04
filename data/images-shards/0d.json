@@ -3,6 +3,32 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "5b1f89cb",
+      "filename": "pixiv_149222842_p0.jpg",
+      "path": "uploads/2026/09/ffea5075.jpg",
+      "size": 1314249,
+      "width": 1016,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2a62cd99cb42b96dba10fc7d8858d480252e06df81ce4d3f53da6d2f5f7f1c87",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:26:01.016Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "大铃兰",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "スズラン(アークナイツ)",
+        "铃兰",
+        "獣耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149222842_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149222842",
+      "sourceCreatedAt": "2026-09-03T06:33:15.000Z"
+    },
+    {
       "id": "ba81c27d",
       "filename": "pixiv_149205906_p0.jpg",
       "path": "uploads/2026/09/6cdecd2f.jpg",
