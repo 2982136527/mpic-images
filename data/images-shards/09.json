@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "14213bcd",
+      "filename": "pixiv_149203234_p0.jpg",
+      "path": "uploads/2026/09/d91190c0.jpg",
+      "size": 1089420,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "584d3dcf98157a2c874b7318a5896229c3f99c430a6d59476be58620ef965e81",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T19:06:35.673Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "夏空の歌",
+      "tags": [
+        "崩壊スターレイル",
+        "ロビン(スターレイル)",
+        "穹ロビ",
+        "穹(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149203234_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149203234",
+      "sourceCreatedAt": "2026-09-02T14:19:23.000Z"
+    },
+    {
       "id": "a2be0747",
       "filename": "pixiv_149238631_p0.jpg",
       "path": "uploads/2026/09/7b387eb8.jpg",
