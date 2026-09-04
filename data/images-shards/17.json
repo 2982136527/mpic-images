@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "f3d2d26d",
+      "filename": "pixiv_149185653_p0.jpg",
+      "path": "uploads/2026/09/92f53c17.jpg",
+      "size": 511631,
+      "width": 673,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9cef186fff1ed1e9f01bb1500459d537cd85970bf1a06a036f32b4ca8fd6ff7e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:21:42.880Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "おしゃしゃ",
+      "tags": [
+        "バーチャルYouTuber",
+        "にじさんじ",
+        "VTuber",
+        "笹木咲"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149185653_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149185653",
+      "sourceCreatedAt": "2026-09-02T06:15:59.000Z"
+    },
+    {
       "id": "62cdb19d",
       "filename": "pixiv_148996989_p0.jpg",
       "path": "uploads/2026/09/9dc03597.jpg",
