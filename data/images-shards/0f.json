@@ -3,6 +3,33 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "d5593276",
+      "filename": "pixiv_149192930_p0.jpg",
+      "path": "uploads/2026/09/214ffb40.jpg",
+      "size": 462664,
+      "width": 612,
+      "height": 792,
+      "mimeType": "image/jpeg",
+      "hash": "b3b9b2c980c8674a302897c6c015177e59c358a9019238e97ff71dce78f88607",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T19:00:22.963Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "テイマクシェア",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "テイマク",
+        "トウカイテイオー(ウマ娘)",
+        "メジロマックイーン(ウマ娘)",
+        "ウマ娘百合ティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149192930_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149192930",
+      "sourceCreatedAt": "2026-09-02T10:31:46.000Z"
+    },
+    {
       "id": "b93a4215",
       "filename": "pixiv_149203408_p0.jpg",
       "path": "uploads/2026/09/2e3710ca.jpg",
