@@ -3,6 +3,35 @@
   "shardId": "10",
   "images": [
     {
+      "id": "4e0d7711",
+      "filename": "pixiv_149167553_p0.jpg",
+      "path": "uploads/2026/09/36d36944.jpg",
+      "size": 1374705,
+      "width": 722,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4535a1a5a2b36cee9104e7107ebde9bd40c8e7d05b60a607ce59f5d09705a8d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:22:57.958Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "zzzero Sigrid",
+      "tags": [
+        "zzzero",
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "zenlesszonezero",
+        "ゼンゼロ",
+        "SIGRID",
+        "シグリッド・ドゥ・ラズール",
+        "シグリッド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149167553_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149167553",
+      "sourceCreatedAt": "2026-09-01T15:00:10.000Z"
+    },
+    {
       "id": "09c90ee1",
       "filename": "pixiv_149223623_p0.jpg",
       "path": "uploads/2026/09/d3e4722e.jpg",
