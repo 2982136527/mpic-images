@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "ccaf33c6",
+      "filename": "pixiv_149233962_p0.jpg",
+      "path": "uploads/2026/09/88f48bff.jpg",
+      "size": 940941,
+      "width": 1023,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8e7339aa5c22b3c52fda0cae2cab458509f9e3c628d70ee947b91b9b848048a6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-04T04:26:54.969Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "メイドかぐやちゃん",
+      "tags": [
+        "超かぐや姫!",
+        "かぐや(超かぐや姫!)",
+        "酒寄彩葉",
+        "いろかぐ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149233962_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149233962",
+      "sourceCreatedAt": "2026-09-03T12:13:25.000Z"
+    },
+    {
       "id": "e67fa9a9",
       "filename": "pixiv_149240682_p0.jpg",
       "path": "uploads/2026/09/c4b5e2c0.jpg",
