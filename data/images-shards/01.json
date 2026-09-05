@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "d8d0ae24",
+      "filename": "pixiv_149225300_p0.jpg",
+      "path": "uploads/2026/09/85839769.jpg",
+      "size": 1180109,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "31ca4c453927e1f3162b1bdc00554e53966fbcdfdfc027cb4bfa6a37665a0a21",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T11:51:44.077Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "オデット",
+      "tags": [
+        "女の子",
+        "原神",
+        "GenshinImpact",
+        "オデット",
+        "オデット(原神)",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149225300_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149225300",
+      "sourceCreatedAt": "2026-09-03T08:22:40.000Z"
+    },
+    {
       "id": "5042abef",
       "filename": "pixiv_149268620_p0.jpg",
       "path": "uploads/2026/09/54d776e4.jpg",
