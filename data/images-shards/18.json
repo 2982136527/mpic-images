@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "c43b353d",
+      "filename": "pixiv_149259393_p0.jpg",
+      "path": "uploads/2026/09/f24e7202.jpg",
+      "size": 1049225,
+      "width": 676,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "24c9f7ca445ad79957d7f70e32574d71912f9a85c31bf9a7b1a9081175f3444b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:23:50.846Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カラセイLog8",
+      "tags": [
+        "カラセイ",
+        "漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149259393_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149259393",
+      "sourceCreatedAt": "2026-09-04T06:50:36.000Z"
+    },
+    {
       "id": "709808e7",
       "filename": "pixiv_149219041_p0.jpg",
       "path": "uploads/2026/09/10660181.jpg",
