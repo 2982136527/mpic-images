@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "13275b9b",
+      "filename": "pixiv_149258981_p0.jpg",
+      "path": "uploads/2026/09/120f1940.jpg",
+      "size": 1368053,
+      "width": 902,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7f31310fbff2345244674f5af8d4a070b5b0f55c39b8c04c7bba06e3548a668b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T11:51:57.419Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カフェ",
+      "tags": [
+        "少女",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149258981_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149258981",
+      "sourceCreatedAt": "2026-09-04T06:30:02.000Z"
+    },
+    {
       "id": "e9825ae6",
       "filename": "pixiv_149234919_p0.jpg",
       "path": "uploads/2026/09/6a65cfba.jpg",
