@@ -3,6 +3,28 @@
   "shardId": "11",
   "images": [
     {
+      "id": "af888ed2",
+      "filename": "pixiv_149241216_p0.jpg",
+      "path": "uploads/2026/09/ccd91e0a.jpg",
+      "size": 931587,
+      "width": 824,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4db8ea2e19bc475285bc2c822f8497961f85dae5e665530af54ef7a1832c5b76",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:16:35.490Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "/Dislike-scissors",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149241216_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149241216",
+      "sourceCreatedAt": "2026-09-03T15:00:16.000Z"
+    },
+    {
       "id": "071b8ab6",
       "filename": "pixiv_149266098_p0.jpg",
       "path": "uploads/2026/09/8076dc59.jpg",
