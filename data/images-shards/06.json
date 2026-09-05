@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "21f8696e",
+      "filename": "pixiv_149241125_p0.jpg",
+      "path": "uploads/2026/09/30d87e42.jpg",
+      "size": 1125424,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "9675b63c680ba8b303a763ef5581cb853bd12ea70b0066e7d11992d87b25a78d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:14:59.564Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "望",
+      "tags": [
+        "アークナイツ",
+        "Arknights",
+        "明日方舟",
+        "ウァン(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149241125_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149241125",
+      "sourceCreatedAt": "2026-09-03T15:00:02.000Z"
+    },
+    {
       "id": "d13bef72",
       "filename": "pixiv_149218455_p0.jpg",
       "path": "uploads/2026/09/107dbe36.jpg",
