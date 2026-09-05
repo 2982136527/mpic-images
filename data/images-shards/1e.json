@@ -3,6 +3,34 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "3a059eaf",
+      "filename": "pixiv_149013914_p0.jpg",
+      "path": "uploads/2026/09/8dcdc80b.jpg",
+      "size": 859470,
+      "width": 1087,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a508a6d5cb2532933088b332380e48db027a28fc4f2e8d21ccabd4727c80e9be",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T11:56:34.291Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ブルアカ漫画2656",
+      "tags": [
+        "漫画",
+        "ブルーアーカイブ",
+        "サユリ(ブルーアーカイブ)",
+        "マキナ(ブルーアーカイブ)",
+        "愛♡スクリ〜ム!",
+        "先生(ブルーアーカイブ)",
+        "イワシアイス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149013914_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149013914",
+      "sourceCreatedAt": "2026-08-29T03:00:10.000Z"
+    },
+    {
       "id": "670d4bde",
       "filename": "pixiv_149257511_p0.jpg",
       "path": "uploads/2026/09/3778e7dd.jpg",
