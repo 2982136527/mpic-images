@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "2fdc4c3e",
+      "filename": "pixiv_149255879_p0.jpg",
+      "path": "uploads/2026/09/180bf35d.jpg",
+      "size": 512612,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "747b3b2db356c43e370a69707d3c69c476b962de4624b6ec7d7efe8847f6aec5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:20:47.106Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "さやかの格好をするまどか",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "鹿目まどか",
+        "まどか☆マギカ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149255879_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149255879",
+      "sourceCreatedAt": "2026-09-04T03:37:43.000Z"
+    },
+    {
       "id": "e28bbd62",
       "filename": "pixiv_149223165_p0.jpg",
       "path": "uploads/2026/09/cf72bc36.jpg",
