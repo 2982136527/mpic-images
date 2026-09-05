@@ -3,6 +3,33 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "d1fe97ff",
+      "filename": "pixiv_149213820_p0.jpg",
+      "path": "uploads/2026/09/c74d99a6.jpg",
+      "size": 823295,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7e607721391badd7013206b021b8339e46bfbca90e14b0c114e2b4e5ab14a149",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:17:48.595Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カヨコ",
+      "tags": [
+        "女の子",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "鬼方カヨコ",
+        "鬼方カヨコ(ドレス)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149213820_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149213820",
+      "sourceCreatedAt": "2026-09-02T22:00:07.000Z"
+    },
+    {
       "id": "5e7f1d12",
       "filename": "pixiv_149227991_p0.jpg",
       "path": "uploads/2026/09/ae54c3e0.jpg",
