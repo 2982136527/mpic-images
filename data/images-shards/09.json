@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "822f2c3e",
+      "filename": "pixiv_149268162_p0.jpg",
+      "path": "uploads/2026/09/440d9ac6.jpg",
+      "size": 576332,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "873d988eac87597ec3dd1f703279e80d5ef7bf76b7e4414a048015a8332adf07",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T11:55:16.444Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "拈華",
+      "tags": [
+        "呪術廻戦",
+        "宿虎"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149268162_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149268162",
+      "sourceCreatedAt": "2026-09-04T11:17:34.000Z"
+    },
+    {
       "id": "f725d9a3",
       "filename": "pixiv_149231108_p0.jpg",
       "path": "uploads/2026/09/6db3bbf3.jpg",
