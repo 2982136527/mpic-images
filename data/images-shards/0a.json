@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "0036b8f6",
+      "filename": "pixiv_149242766_p0.jpg",
+      "path": "uploads/2026/09/7727980a.jpg",
+      "size": 681175,
+      "width": 811,
+      "height": 880,
+      "mimeType": "image/jpeg",
+      "hash": "23bef29e5edfc65886de5b8d94af844555c195e8d723c1b50be7bb431223a70b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:16:24.346Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Skeb",
+      "tags": [
+        "Commission",
+        "スケブ",
+        "Skeb",
+        "Skeb依頼絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149242766_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149242766",
+      "sourceCreatedAt": "2026-09-03T15:31:00.000Z"
+    },
+    {
       "id": "805739b0",
       "filename": "pixiv_149207372_p0.jpg",
       "path": "uploads/2026/09/e1df5cd2.jpg",
