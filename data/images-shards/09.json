@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "8e936aa6",
+      "filename": "pixiv_149231078_p0.jpg",
+      "path": "uploads/2026/09/509e7a36.jpg",
+      "size": 1034972,
+      "width": 813,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "31c3eae29f79dbdfa84e0bb77516ac7615903898fe967ded5094594533a668ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:18:46.186Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Alyosha",
+      "tags": [
+        "Alyosha",
+        "GenshinImpact"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149231078_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149231078",
+      "sourceCreatedAt": "2026-09-03T11:10:23.000Z"
+    },
+    {
       "id": "14213bcd",
       "filename": "pixiv_149203234_p0.jpg",
       "path": "uploads/2026/09/d91190c0.jpg",
