@@ -3,6 +3,28 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "5f83ec51",
+      "filename": "pixiv_149255838_p0.jpg",
+      "path": "uploads/2026/09/763e321b.jpg",
+      "size": 683222,
+      "width": 1152,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b78d3ae6d6f7033f503e3e4f2a8ec8303ed0d96f9ddd4524899a8803dff6ba1e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T18:12:36.974Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "underwear",
+      "tags": [
+        "deltarune"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149255838_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149255838",
+      "sourceCreatedAt": "2026-09-04T03:35:54.000Z"
+    },
+    {
       "id": "9a65cb4a",
       "filename": "pixiv_149241199_p0.jpg",
       "path": "uploads/2026/09/93ab6571.jpg",
