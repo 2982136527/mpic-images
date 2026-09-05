@@ -3,6 +3,28 @@
   "shardId": "13",
   "images": [
     {
+      "id": "f4dda23a",
+      "filename": "pixiv_149266690_p0.jpg",
+      "path": "uploads/2026/09/5d4a8b5c.jpg",
+      "size": 1046364,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d978abf4bc4996134101284c1e763381f144246bdca41a0a0ae3c78c13bdf216",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:17:54.239Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🧸",
+      "tags": [
+        "めめ村"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149266690_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149266690",
+      "sourceCreatedAt": "2026-09-04T10:48:39.000Z"
+    },
+    {
       "id": "730c4e06",
       "filename": "pixiv_149268541_p0.jpg",
       "path": "uploads/2026/09/43e83e01.jpg",
