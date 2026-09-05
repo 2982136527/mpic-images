@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "7527405f",
+      "filename": "pixiv_149239948_p0.jpg",
+      "path": "uploads/2026/09/d5f2e4f5.jpg",
+      "size": 949794,
+      "width": 1200,
+      "height": 893,
+      "mimeType": "image/jpeg",
+      "hash": "16bc659cd0eadba8945240ae7fb274b578cc7833088d508dea8b210c26581952",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:16:59.564Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ぐっ！",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "作画解放"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149239948_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149239948",
+      "sourceCreatedAt": "2026-09-03T14:30:25.000Z"
+    },
+    {
       "id": "af888ed2",
       "filename": "pixiv_149241216_p0.jpg",
       "path": "uploads/2026/09/ccd91e0a.jpg",
