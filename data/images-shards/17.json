@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "205a2a3c",
+      "filename": "pixiv_149274968_p0.jpg",
+      "path": "uploads/2026/09/ba2f5339.jpg",
+      "size": 697333,
+      "width": 933,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "572eb45c63f21a86ff1a8af173c36b6edf68a8e14d16b1a7470764ef43ddc802",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T11:51:09.668Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ミリア",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "まのさば",
+        "佐伯ミリア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149274968_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149274968",
+      "sourceCreatedAt": "2026-09-04T13:41:36.000Z"
+    },
+    {
       "id": "c97dc8e9",
       "filename": "pixiv_149231561_p0.jpg",
       "path": "uploads/2026/09/766dca70.jpg",
