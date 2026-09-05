@@ -3,6 +3,35 @@
   "shardId": "16",
   "images": [
     {
+      "id": "d2e27230",
+      "filename": "pixiv_149247606_p0.jpg",
+      "path": "uploads/2026/09/799b473c.jpg",
+      "size": 1218408,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c97bddbe643864f49a88e61ee52f33a5977e044ec0a0e99c71bb763b5b3d0c50",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:19:37.554Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "マリオネット",
+      "tags": [
+        "球体関節人形",
+        "初音ミク",
+        "VOCALOID",
+        "HatsuneMiku",
+        "Miku",
+        "パペット",
+        "人形",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149247606_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149247606",
+      "sourceCreatedAt": "2026-09-03T19:03:42.000Z"
+    },
+    {
       "id": "76a87ea0",
       "filename": "pixiv_149205649_p0.jpg",
       "path": "uploads/2026/09/f9e8ccad.jpg",
