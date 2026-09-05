@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "40da09a6",
+      "filename": "pixiv_149107822_p0.jpg",
+      "path": "uploads/2026/09/21baadab.jpg",
+      "size": 1216245,
+      "width": 866,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "712664e21fd2f38ed7cf61a1ac423a245581e33a025834805ec1b8e2bff12799",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T11:53:43.474Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ふわぷちテール",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149107822_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149107822",
+      "sourceCreatedAt": "2026-08-31T07:10:37.000Z"
+    },
+    {
       "id": "c43b353d",
       "filename": "pixiv_149259393_p0.jpg",
       "path": "uploads/2026/09/f24e7202.jpg",
