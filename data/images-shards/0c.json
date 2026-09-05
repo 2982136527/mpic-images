@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "66f5968d",
+      "filename": "pixiv_149237760_p0.jpg",
+      "path": "uploads/2026/09/75bc28b9.jpg",
+      "size": 475025,
+      "width": 1200,
+      "height": 647,
+      "mimeType": "image/jpeg",
+      "hash": "96d0aac5d0027c417f896149988b8279b9f2878b81b8a38b52849890f00e8e38",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T18:13:23.598Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "赤青黄",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149237760_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149237760",
+      "sourceCreatedAt": "2026-09-03T13:37:39.000Z"
+    },
+    {
       "id": "21f563f0",
       "filename": "pixiv_149241529_p0.jpg",
       "path": "uploads/2026/09/24d30575.jpg",
