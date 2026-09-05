@@ -3,6 +3,37 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "13e09524",
+      "filename": "pixiv_149234538_p0.jpg",
+      "path": "uploads/2026/09/8ff54033.jpg",
+      "size": 1466837,
+      "width": 906,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d563d6facdca9de84f219e96310f44fb059d7a0abc6afde270ef64af608a0be2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T11:49:50.122Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "紅霧異変起こすよ～",
+      "tags": [
+        "東方",
+        "レミリア・スカーレット",
+        "フランドール・スカーレット",
+        "十六夜咲夜",
+        "パチュリー・ノーレッジ",
+        "紅美鈴",
+        "小悪魔",
+        "東方Project",
+        "東方紅魔郷NewClassic",
+        "小悪魔(東方Project)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149234538_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149234538",
+      "sourceCreatedAt": "2026-09-03T12:26:41.000Z"
+    },
+    {
       "id": "a3d28a76",
       "filename": "pixiv_149228208_p0.jpg",
       "path": "uploads/2026/09/9f497101.jpg",
