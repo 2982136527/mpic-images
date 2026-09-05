@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "c19dc33c",
+      "filename": "pixiv_149241924_p0.jpg",
+      "path": "uploads/2026/09/5883c9d2.jpg",
+      "size": 1127803,
+      "width": 934,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cdd8f423c52b31c15a0d838ce6a1fd9f22d7c18b320633b453cfa599f76547ce",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T11:49:29.932Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ストレンジャー",
+      "tags": [
+        "リバース:1999",
+        "Reverse1999",
+        "女の子",
+        "ストレンジャー(リバース:1999)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149241924_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149241924",
+      "sourceCreatedAt": "2026-09-03T15:09:26.000Z"
+    },
+    {
       "id": "c2f41675",
       "filename": "pixiv_149241963_p0.jpg",
       "path": "uploads/2026/09/eb094d76.jpg",
