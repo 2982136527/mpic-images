@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "4e097ada",
+      "filename": "pixiv_149268126_p0.jpg",
+      "path": "uploads/2026/09/ce822f77.jpg",
+      "size": 1098912,
+      "width": 825,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "791f16b2fc86f54b919b179ec475afb51262b7d504b43309415427b992b61971",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T11:48:33.068Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "デオキシスメカ",
+      "tags": [
+        "デオキシス",
+        "ポケモン",
+        "ポケットモンスター",
+        "厚塗り",
+        "メカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149268126_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149268126",
+      "sourceCreatedAt": "2026-09-04T11:16:45.000Z"
+    },
+    {
       "id": "3fb7880f",
       "filename": "pixiv_149254493_p0.jpg",
       "path": "uploads/2026/09/b8cb205f.jpg",
