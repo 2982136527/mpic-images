@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "f05065a4",
+      "filename": "pixiv_149267690_p0.jpg",
+      "path": "uploads/2026/09/1896a2ce.jpg",
+      "size": 369688,
+      "width": 749,
+      "height": 1187,
+      "mimeType": "image/jpeg",
+      "hash": "dd2631f345de44d9edf9ebe0b5aa935d3557387eb0db052c68a7a03992afd140",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:23:20.998Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "政府刀トークまとめ",
+      "tags": [
+        "刀剣乱舞"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149267690_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149267690",
+      "sourceCreatedAt": "2026-09-04T11:06:15.000Z"
+    },
+    {
       "id": "71ad736a",
       "filename": "pixiv_149233487_p0.jpg",
       "path": "uploads/2026/09/077e01c1.jpg",
