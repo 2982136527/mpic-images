@@ -3,6 +3,36 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "7e9cde51",
+      "filename": "pixiv_149225022_p0.jpg",
+      "path": "uploads/2026/09/27198052.jpg",
+      "size": 1585987,
+      "width": 1200,
+      "height": 817,
+      "mimeType": "image/jpeg",
+      "hash": "beb5a8779d014a8c094b17aef2b82a0c6940b68792a9ccff44c1e95ff27a0e8e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:18:16.198Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Random post",
+      "tags": [
+        "Ave_Mujica",
+        "若葉睦",
+        "祐天寺にゃむ",
+        "ビオラ(バンドリ)",
+        "BanG_Dream!",
+        "三角初華",
+        "豊川祥子",
+        "バンドリ100users入り",
+        "安和すばる"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149225022_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149225022",
+      "sourceCreatedAt": "2026-09-03T08:10:44.000Z"
+    },
+    {
       "id": "d1fe97ff",
       "filename": "pixiv_149213820_p0.jpg",
       "path": "uploads/2026/09/c74d99a6.jpg",
