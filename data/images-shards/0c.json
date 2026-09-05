@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "21f563f0",
+      "filename": "pixiv_149241529_p0.jpg",
+      "path": "uploads/2026/09/24d30575.jpg",
+      "size": 768639,
+      "width": 1199,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f0d48bac27eb5ba4cfcc1c93dac5d1c0c5d402672d2aaf7855b93eacb4041c5d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T18:10:49.115Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "原神まとめ24",
+      "tags": [
+        "原神",
+        "GenshinImpact"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149241529_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149241529",
+      "sourceCreatedAt": "2026-09-03T15:02:10.000Z"
+    },
+    {
       "id": "4a812a04",
       "filename": "pixiv_149227487_p0.jpg",
       "path": "uploads/2026/09/ae306286.jpg",
