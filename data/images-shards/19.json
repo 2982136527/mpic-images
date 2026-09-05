@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "f4231a71",
+      "filename": "pixiv_149264203_p0.jpg",
+      "path": "uploads/2026/09/047660dd.jpg",
+      "size": 1025829,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "3ff06edeeb1072972857282d248cec9a6ad8aa54a5b949b57f8de730d29be748",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:15:18.688Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ティフォロスのオペレーター記念画像",
+      "tags": [
+        "ArknightsEndfield",
+        "ティフォロス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149264203_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149264203",
+      "sourceCreatedAt": "2026-09-04T09:44:05.000Z"
+    },
+    {
       "id": "50741d83",
       "filename": "pixiv_149183443_p0.jpg",
       "path": "uploads/2026/09/f7b65f76.jpg",
