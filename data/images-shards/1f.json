@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "7be3b4f3",
+      "filename": "pixiv_149241986_p0.jpg",
+      "path": "uploads/2026/09/77bdad18.jpg",
+      "size": 865123,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e32ded87b317c54ae7c4980d226e5fab1139db9ee09b0d36a50135bbfdb083af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T18:17:12.709Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ダブルピースしゃかーる",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "エアシャカール(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149241986_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149241986",
+      "sourceCreatedAt": "2026-09-03T15:11:02.000Z"
+    },
+    {
       "id": "6f390f2e",
       "filename": "pixiv_149086628_p0.jpg",
       "path": "uploads/2026/09/86a61379.jpg",
