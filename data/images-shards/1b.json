@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "41ca3415",
+      "filename": "pixiv_149257403_p0.jpg",
+      "path": "uploads/2026/09/312582bc.jpg",
+      "size": 1042358,
+      "width": 886,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "574585281ede42d877824d66f61a43a995dd48bad60603404b8b5e3e5a015aa7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T11:53:20.298Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Lll",
+      "tags": [
+        "Limbus_Company",
+        "LibraryOfRuina",
+        "LobotomyCorporation"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149257403_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149257403",
+      "sourceCreatedAt": "2026-09-04T05:02:00.000Z"
+    },
+    {
       "id": "1c627e65",
       "filename": "pixiv_149228366_p0.jpg",
       "path": "uploads/2026/09/02722bb0.jpg",
