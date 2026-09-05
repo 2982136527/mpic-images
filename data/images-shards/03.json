@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "d94508b5",
+      "filename": "pixiv_149231317_p0.jpg",
+      "path": "uploads/2026/09/1eef3cf8.jpg",
+      "size": 903899,
+      "width": 518,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d19af6702944463466c78ae76519370b860a041f3100db32e622c259a75440d2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:20:41.675Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "レミリア・スカーレット　イベントポスター",
+      "tags": [
+        "東方Project",
+        "レミリア・スカーレット",
+        "アナログ",
+        "透明水彩",
+        "水彩"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149231317_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149231317",
+      "sourceCreatedAt": "2026-09-03T11:16:25.000Z"
+    },
+    {
       "id": "e1689d29",
       "filename": "pixiv_149182120_p0.jpg",
       "path": "uploads/2026/09/4af09cfe.jpg",
