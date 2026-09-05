@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "4d7d8794",
+      "filename": "pixiv_149244366_p0.jpg",
+      "path": "uploads/2026/09/fc4272e6.jpg",
+      "size": 394463,
+      "width": 1099,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d92e8f5a70d9e480c86f3ae5e1bf854ce880801bb3dd22c28d17d929811a372d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T18:16:47.138Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "チアファインリベンジ",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ファインモーション(ウマ娘)",
+        "RUN&WIN",
+        "勝負服チェンジ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149244366_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149244366",
+      "sourceCreatedAt": "2026-09-03T16:21:14.000Z"
+    },
+    {
       "id": "fadbafa8",
       "filename": "pixiv_149231728_p0.jpg",
       "path": "uploads/2026/09/5f9ff4d7.jpg",
