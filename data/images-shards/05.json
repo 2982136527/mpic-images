@@ -3,6 +3,33 @@
   "shardId": "05",
   "images": [
     {
+      "id": "48855a1a",
+      "filename": "pixiv_149251096_p0.jpg",
+      "path": "uploads/2026/09/f2440a86.jpg",
+      "size": 998566,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "15297515709ffefe83afa8a6c9b296bf207f597e5074781e3ccfa2fbe0134a13",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:16:46.485Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "巡音ルカ",
+      "tags": [
+        "イラスト",
+        "VOCALOID",
+        "ボーカロイド",
+        "女の子",
+        "巡音ルカ",
+        "ボカロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149251096_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149251096",
+      "sourceCreatedAt": "2026-09-03T23:08:01.000Z"
+    },
+    {
       "id": "827adcba",
       "filename": "pixiv_149189308_p0.jpg",
       "path": "uploads/2026/09/e6645028.jpg",
