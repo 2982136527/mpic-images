@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "5042abef",
+      "filename": "pixiv_149268620_p0.jpg",
+      "path": "uploads/2026/09/54d776e4.jpg",
+      "size": 886716,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9478554905dd19d0ffdb78cb8013b08410536f6fa68c9ecd1979c2dbf2a63b64",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T11:50:09.995Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "シード",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "シード(ゼンゼロ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149268620_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149268620",
+      "sourceCreatedAt": "2026-09-04T11:27:53.000Z"
+    },
+    {
       "id": "9ad79541",
       "filename": "pixiv_149231310_p0.jpg",
       "path": "uploads/2026/09/7bb899e9.jpg",
