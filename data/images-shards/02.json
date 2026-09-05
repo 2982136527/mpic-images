@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "bd70034b",
+      "filename": "pixiv_149086519_p0.jpg",
+      "path": "uploads/2026/09/798869cf.jpg",
+      "size": 1547145,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "788e175aad2df70b00c476a64799ae4a70974a06ed87e81d060f58685993e703",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:21:29.446Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "19th",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "初音ミク生誕祭2026",
+        "初音未來",
+        "ミクさんと花",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149086519_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149086519",
+      "sourceCreatedAt": "2026-08-30T15:00:09.000Z"
+    },
+    {
       "id": "76d70df6",
       "filename": "pixiv_149272746_p0.jpg",
       "path": "uploads/2026/09/08f5abd3.jpg",
