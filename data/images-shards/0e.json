@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "ec554ac8",
+      "filename": "pixiv_149273489_p0.jpg",
+      "path": "uploads/2026/09/fe91a237.jpg",
+      "size": 913810,
+      "width": 905,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "04a128a2e12574a5dc75f77d59c0d1a63e4dcf34d12db20ea5aceb701071aac4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T11:52:15.775Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "大阪でのイベントのお知らせ",
+      "tags": [
+        "NIKKE"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149273489_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149273489",
+      "sourceCreatedAt": "2026-09-04T13:07:50.000Z"
+    },
+    {
       "id": "f05065a4",
       "filename": "pixiv_149267690_p0.jpg",
       "path": "uploads/2026/09/1896a2ce.jpg",
