@@ -3,6 +3,35 @@
   "shardId": "13",
   "images": [
     {
+      "id": "83e40ebf",
+      "filename": "pixiv_149216869_p0.jpg",
+      "path": "uploads/2026/09/02a57199.jpg",
+      "size": 801529,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c0ad2536a1d3108b42c15c1e8b7b88c2ef2d3fbdea95677b0d6152d6e776b613",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T18:14:14.247Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "アズレンまとめ",
+      "tags": [
+        "アズレン",
+        "アズールレーン",
+        "ボガトィーリ(アズールレーン)",
+        "ウゴリーノ・ヴィヴァルディ(アズールレーン)",
+        "北風(アズールレーン)",
+        "マエストラーレ(アズールレーン)",
+        "リベッチオ(アズールレーン)",
+        "アズールレーン九周年記念"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149216869_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149216869",
+      "sourceCreatedAt": "2026-09-03T01:06:40.000Z"
+    },
+    {
       "id": "c8f3aef3",
       "filename": "pixiv_149263152_p0.jpg",
       "path": "uploads/2026/09/7df6943f.jpg",
