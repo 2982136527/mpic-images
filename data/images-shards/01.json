@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "fadbafa8",
+      "filename": "pixiv_149231728_p0.jpg",
+      "path": "uploads/2026/09/5f9ff4d7.jpg",
+      "size": 442845,
+      "width": 998,
+      "height": 1065,
+      "mimeType": "image/jpeg",
+      "hash": "2fd5b2ca40d42cda020acd06bf163ce49bb24cd34655e1d372f02eaa3e32a8b5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T18:12:46.906Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "マーキングしたい…",
+      "tags": [
+        "創作",
+        "一次創作",
+        "マーキング",
+        "純愛"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149231728_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149231728",
+      "sourceCreatedAt": "2026-09-03T11:27:55.000Z"
+    },
+    {
       "id": "b8cad347",
       "filename": "pixiv_149241197_p0.jpg",
       "path": "uploads/2026/09/23283e3f.jpg",
