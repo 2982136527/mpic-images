@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "7ad30df0",
+      "filename": "pixiv_149210911_p0.jpg",
+      "path": "uploads/2026/09/e8a802a1.jpg",
+      "size": 543224,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c294f0c895a93ee3bed5e4e0871e9a873a2cbf89f8314803e0c22375ba3c5e8a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:22:56.151Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ときこ",
+      "tags": [
+        "Fate/GrandOrder",
+        "ウルズ(Fate)",
+        "藤丸立香",
+        "ぐだウル",
+        "マスターLOVE",
+        "ぐだ男"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149210911_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149210911",
+      "sourceCreatedAt": "2026-09-02T18:27:06.000Z"
+    },
+    {
       "id": "dce54bcd",
       "filename": "pixiv_149267060_p0.jpg",
       "path": "uploads/2026/09/f4f8dfd2.jpg",
