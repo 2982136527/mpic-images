@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "b8cad347",
+      "filename": "pixiv_149241197_p0.jpg",
+      "path": "uploads/2026/09/23283e3f.jpg",
+      "size": 1458587,
+      "width": 973,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9383fcd7fceba7795a2b3e46d5166e258e3df95d17f6871eb81f44a3503b2e72",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T18:10:24.260Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "雪ミク2026",
+      "tags": [
+        "初音ミク",
+        "雪ミク2026",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149241197_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149241197",
+      "sourceCreatedAt": "2026-09-03T15:00:12.000Z"
+    },
+    {
       "id": "3398ca85",
       "filename": "pixiv_149207001_p0.jpg",
       "path": "uploads/2026/09/b23a1a6c.jpg",
