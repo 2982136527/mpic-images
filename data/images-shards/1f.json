@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "0c74ad48",
+      "filename": "pixiv_149228982_p0.jpg",
+      "path": "uploads/2026/09/0cd57bad.jpg",
+      "size": 1267906,
+      "width": 783,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "338b079342a7250684b846509a1d03be408cc51d79d785e1d6f9696e044d7ba1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:15:43.017Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ティフォロス",
+      "tags": [
+        "ティフォロス",
+        "アークナイツ",
+        "アークナイツ:エンドフィールド",
+        "弓"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149228982_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149228982",
+      "sourceCreatedAt": "2026-09-03T10:16:15.000Z"
+    },
+    {
       "id": "66e9fb12",
       "filename": "pixiv_149233768_p0.jpg",
       "path": "uploads/2026/09/cb1e56cc.jpg",
