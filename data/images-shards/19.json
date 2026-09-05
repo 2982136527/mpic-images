@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "7ee1feac",
+      "filename": "pixiv_149276728_p0.jpg",
+      "path": "uploads/2026/09/c8b114e0.jpg",
+      "size": 837608,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e526fa262cfc98422a93cd166ac902ae38f6003c770ee5f38bfd5186937c0c98",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:23:09.765Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ウインディ",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "シンコウウインディ(ウマ娘)",
+        "スク水"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149276728_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149276728",
+      "sourceCreatedAt": "2026-09-04T14:20:15.000Z"
+    },
+    {
       "id": "9ff39ae0",
       "filename": "pixiv_149242200_p0.jpg",
       "path": "uploads/2026/09/b4d1eecd.jpg",
