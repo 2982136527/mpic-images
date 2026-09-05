@@ -3,6 +3,34 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "6894f229",
+      "filename": "pixiv_149262961_p0.jpg",
+      "path": "uploads/2026/09/f40473d6.jpg",
+      "size": 604993,
+      "width": 1067,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b6d420cdb8c96bdb0319c86d124dadbae0699640c1ebe94ef23654a7a7d71ab3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:18:55.139Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "赤ちゃんプレイ",
+      "tags": [
+        "ちいかわ",
+        "セイレーン(ちいかわ)",
+        "ハチワレ(でかつよ)",
+        "ラッコ(ちいかわ)",
+        "ハチラコ",
+        "セイラコ",
+        "ちいかわ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149262961_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149262961",
+      "sourceCreatedAt": "2026-09-04T09:05:07.000Z"
+    },
+    {
       "id": "00ad7794",
       "filename": "pixiv_149167704_p0.jpg",
       "path": "uploads/2026/09/f0c0b8ad.jpg",
