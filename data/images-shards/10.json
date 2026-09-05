@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "64b29580",
+      "filename": "pixiv_148164222_p0.jpg",
+      "path": "uploads/2026/09/bf693d06.jpg",
+      "size": 1299817,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "af9cdf900d3f9ecb206073768c3cf9b60fadbb6336bc0a1233d94f2a1ec0a6e5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T18:15:54.471Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "蕾米埃尔",
+      "tags": [
+        "女孩子",
+        "绝区零",
+        "蕾米埃尔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148164222_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148164222",
+      "sourceCreatedAt": "2026-08-08T07:48:57.000Z"
+    },
+    {
       "id": "8c3e2bf9",
       "filename": "pixiv_149260188_p0.jpg",
       "path": "uploads/2026/09/b21d65b4.jpg",
