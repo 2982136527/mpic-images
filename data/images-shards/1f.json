@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "daecd72e",
+      "filename": "pixiv_149264662_p0.jpg",
+      "path": "uploads/2026/09/8a9049d3.jpg",
+      "size": 1482562,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ae083421578021578924a14881ab6d808b4e7f6102463cc11f8f8a3a50eeb924",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-05T04:19:54.112Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "魔法少女まどかマギカ",
+        "佐倉杏子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149264662_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149264662",
+      "sourceCreatedAt": "2026-09-04T09:58:37.000Z"
+    },
+    {
       "id": "315e68ff",
       "filename": "pixiv_149241244_p0.jpg",
       "path": "uploads/2026/09/653ce5bc.jpg",
