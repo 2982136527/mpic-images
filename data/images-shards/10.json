@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "7257ef4a",
+      "filename": "pixiv_149278568_p0.jpg",
+      "path": "uploads/2026/09/d924c58e.jpg",
+      "size": 914117,
+      "width": 980,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e9323fef41bd8874f4492de1b676c1f38f5bf7d47f5c11d08031b545955a420d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:26:34.230Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "호헨하임양",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "女体化"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149278568_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149278568",
+      "sourceCreatedAt": "2026-09-04T15:00:29.000Z"
+    },
+    {
       "id": "973baa7b",
       "filename": "pixiv_149314101_p0.jpg",
       "path": "uploads/2026/09/f19a5172.jpg",
