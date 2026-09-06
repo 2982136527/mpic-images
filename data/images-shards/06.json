@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "d496a68a",
+      "filename": "pixiv_149278305_p0.jpg",
+      "path": "uploads/2026/09/1bd1ca69.jpg",
+      "size": 436946,
+      "width": 1200,
+      "height": 1101,
+      "mimeType": "image/jpeg",
+      "hash": "aa694c5a2e3746914a24faaf2808d5c1c1d9872aaaabf81e329b57a7477ce81c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:32:10.955Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "mnd夢達",
+      "tags": [
+        "マンダロリアン夢",
+        "mnd夢",
+        "夢絵",
+        "ディン・ジャリン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149278305_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149278305",
+      "sourceCreatedAt": "2026-09-04T14:58:05.000Z"
+    },
+    {
       "id": "cfbe8d73",
       "filename": "pixiv_149278551_p0.jpg",
       "path": "uploads/2026/09/036941cc.jpg",
