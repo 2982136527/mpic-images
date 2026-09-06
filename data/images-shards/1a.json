@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "03d977d8",
+      "filename": "pixiv_149269033_p0.jpg",
+      "path": "uploads/2026/09/e8767295.jpg",
+      "size": 439696,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "67544ffe3d4f06795b7203fe846db3f387a273507aa265fd6f5edbbcc832d8c9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:27:30.122Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カップラーメンが大好きな庶民とお嬢様",
+      "tags": [
+        "オリジナル",
+        "カップラーメン",
+        "お嬢様",
+        "無理すんな",
+        "嘔吐"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149269033_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149269033",
+      "sourceCreatedAt": "2026-09-04T11:37:04.000Z"
+    },
+    {
       "id": "2f866a6f",
       "filename": "pixiv_149281512_p0.jpg",
       "path": "uploads/2026/09/944f4d0c.jpg",
