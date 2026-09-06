@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "49c2cdd2",
+      "filename": "pixiv_149299700_p0.jpg",
+      "path": "uploads/2026/09/02facd6e.jpg",
+      "size": 219948,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "661245c2cc2285686a474e665bf7ba832979e2e96334188489a60826f37081da",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:29:17.257Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「キャラ/ロゴ/パッケージ」デザイン。",
+      "tags": [
+        "オリジナル",
+        "デザイン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149299700_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149299700",
+      "sourceCreatedAt": "2026-09-05T06:46:18.000Z"
+    },
+    {
       "id": "f844d66b",
       "filename": "pixiv_149278518_p0.jpg",
       "path": "uploads/2026/09/81017751.jpg",
