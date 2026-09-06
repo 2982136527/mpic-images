@@ -3,6 +3,35 @@
   "shardId": "10",
   "images": [
     {
+      "id": "386a333d",
+      "filename": "pixiv_149271696_p0.jpg",
+      "path": "uploads/2026/09/0e7d8c13.jpg",
+      "size": 686868,
+      "width": 932,
+      "height": 1159,
+      "mimeType": "image/jpeg",
+      "hash": "6b8816b24e37ff72d0c57c045a7e43fac72a5229377625d2efba15e89e75f82e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:08:14.422Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ワルプルギスの廻天みてきました",
+      "tags": [
+        "まどマギ",
+        "魔法少女まどか☆マギカ",
+        "美樹さやか",
+        "ほむさや",
+        "今夜はお楽しみですね",
+        "まどか☆マギカ100users入り",
+        "まどコスさやか",
+        "誘い受け"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149271696_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149271696",
+      "sourceCreatedAt": "2026-09-04T12:30:49.000Z"
+    },
+    {
       "id": "0656c4a1",
       "filename": "pixiv_149247181_p0.jpg",
       "path": "uploads/2026/09/35f19609.jpg",
