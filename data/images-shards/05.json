@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "42325b07",
+      "filename": "pixiv_149290160_p0.jpg",
+      "path": "uploads/2026/09/72b96b0b.jpg",
+      "size": 1440923,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "ebab5ca0e9f802670eab4fbacc579a3d3d842276d0203edcfe41a098cc59617a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:11:04.929Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Filtering Out",
+      "tags": [
+        "初音ミク",
+        "ボカコレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149290160_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149290160",
+      "sourceCreatedAt": "2026-09-05T00:03:55.000Z"
+    },
+    {
       "id": "1534f23d",
       "filename": "pixiv_149249528_p0.jpg",
       "path": "uploads/2026/09/55f54465.jpg",
