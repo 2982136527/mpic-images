@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "90b2c154",
+      "filename": "pixiv_149248359_p0.jpg",
+      "path": "uploads/2026/09/3f25bc72.jpg",
+      "size": 339372,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "826d0e5855d716f743d670f7459be7af6a993cfafcf4fe756d86f891db44f076",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:26:21.129Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Untitled",
+      "tags": [
+        "崩壊3rd",
+        "崩坏3rd",
+        "符华"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149248359_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149248359",
+      "sourceCreatedAt": "2026-09-03T20:04:08.000Z"
+    },
+    {
       "id": "c2cadb16",
       "filename": "pixiv_149014556_p0.jpg",
       "path": "uploads/2026/09/c795d253.jpg",
