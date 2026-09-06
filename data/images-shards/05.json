@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "0eb1f613",
+      "filename": "pixiv_149248287_p0.jpg",
+      "path": "uploads/2026/09/9b6762f4.jpg",
+      "size": 302409,
+      "width": 700,
+      "height": 953,
+      "mimeType": "image/jpeg",
+      "hash": "e159e6aec795fb32643d68bfcc49344337886bb025fdf2f1ea9df3c250c60cb1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T18:18:26.805Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "最近描いた絵とか",
+      "tags": [
+        "ブルーアーカイブ",
+        "マルクト(ブルーアーカイブ)",
+        "アイン(ブルーアーカイブ)",
+        "ソフ(ブルーアーカイブ)",
+        "オウル(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149248287_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149248287",
+      "sourceCreatedAt": "2026-09-03T19:59:35.000Z"
+    },
+    {
       "id": "c98c31be",
       "filename": "pixiv_149265254_p0.jpg",
       "path": "uploads/2026/09/096a84fd.jpg",
