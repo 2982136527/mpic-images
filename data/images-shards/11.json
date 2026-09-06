@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "ed1e4ec7",
+      "filename": "pixiv_149267971_p0.jpg",
+      "path": "uploads/2026/09/915f2bc0.jpg",
+      "size": 799230,
+      "width": 1200,
+      "height": 765,
+      "mimeType": "image/jpeg",
+      "hash": "20f542b9c84832665afd9f04a5aaf8054ba8ab7b9ed9eb746129ed300dcc20a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:07:47.359Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "♡仲良し♡",
+      "tags": [
+        "GenshinImpact",
+        "オデット(原神)",
+        "アリョーシャ(原神)",
+        "ヴォジャニーツァ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149267971_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149267971",
+      "sourceCreatedAt": "2026-09-04T11:13:05.000Z"
+    },
+    {
       "id": "b2032f2b",
       "filename": "pixiv_149314436_p0.jpg",
       "path": "uploads/2026/09/66dac6f1.jpg",
