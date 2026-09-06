@@ -3,6 +3,35 @@
   "shardId": "13",
   "images": [
     {
+      "id": "7b2e6718",
+      "filename": "pixiv_149288841_p0.jpg",
+      "path": "uploads/2026/09/7c467b20.jpg",
+      "size": 1350790,
+      "width": 1103,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1824a8d54ec9e1073ddc326288a4bb718c9db3420c4aac37f486342a611c618f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:28:25.902Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "リコロイとミライドンとコライドン",
+      "tags": [
+        "ポケットモンスター(アニポケ第8シリーズ)",
+        "リコ(アニポケ)",
+        "ロイ(アニポケ)",
+        "アニポケ",
+        "ミライドン",
+        "コライドン",
+        "ロイ(メガボルテージ)",
+        "ロイリコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149288841_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149288841",
+      "sourceCreatedAt": "2026-09-04T22:55:34.000Z"
+    },
+    {
       "id": "77e68128",
       "filename": "pixiv_149279679_p0.jpg",
       "path": "uploads/2026/09/cc78b532.jpg",
