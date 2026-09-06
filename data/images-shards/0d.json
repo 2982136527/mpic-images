@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "c983e716",
+      "filename": "pixiv_149279613_p0.jpg",
+      "path": "uploads/2026/09/d7a554ee.jpg",
+      "size": 554996,
+      "width": 964,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "461f38b382044bd50c76085de235087ec4a7657820cb8092c58fad03d2ec65eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T18:18:13.556Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "リーフの日 2026",
+      "tags": [
+        "FRLG",
+        "ポケモン",
+        "リーフ(トレーナー)",
+        "エーフィ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149279613_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149279613",
+      "sourceCreatedAt": "2026-09-04T15:16:25.000Z"
+    },
+    {
       "id": "afb7828a",
       "filename": "pixiv_149289887_p0.jpg",
       "path": "uploads/2026/09/f7d815d7.jpg",
