@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "afb7828a",
+      "filename": "pixiv_149289887_p0.jpg",
+      "path": "uploads/2026/09/f7d815d7.jpg",
+      "size": 605027,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df23d01144d4a4bfe3aba1aa8c0915ed073566473d5d8710d8907fe4ca6f2d8f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:14:37.187Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "メイド",
+      "tags": [
+        "メイド服",
+        "メイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149289887_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149289887",
+      "sourceCreatedAt": "2026-09-04T23:53:04.000Z"
+    },
+    {
       "id": "ae0245dd",
       "filename": "pixiv_149263611_p0.jpg",
       "path": "uploads/2026/09/645fb6bf.jpg",
