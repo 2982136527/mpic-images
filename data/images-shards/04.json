@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "3f63dbb1",
+      "filename": "pixiv_149262442_p0.jpg",
+      "path": "uploads/2026/09/5fbdda75.jpg",
+      "size": 481159,
+      "width": 805,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d46758f9b3b1e491b19419f6f2e221ac2b9d30a483008b5fff20763f05c07796",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:27:42.958Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "specimen",
+      "tags": [
+        "メカ",
+        "機械",
+        "SF"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149262442_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149262442",
+      "sourceCreatedAt": "2026-09-04T08:57:10.000Z"
+    },
+    {
       "id": "776ef8ff",
       "filename": "pixiv_149268083_p0.jpg",
       "path": "uploads/2026/09/760f7b99.jpg",
