@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "37aa4594",
+      "filename": "pixiv_149294296_p0.jpg",
+      "path": "uploads/2026/09/647db231.jpg",
+      "size": 1034515,
+      "width": 749,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aa85dbc6b294d39a9e77c8c8e542c07ce036e17af0a58f403880cede219d4fc5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:29:39.211Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Cultist Samantha",
+      "tags": [
+        "bahroo",
+        "高跟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149294296_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149294296",
+      "sourceCreatedAt": "2026-09-05T03:05:23.000Z"
+    },
+    {
       "id": "250841ca",
       "filename": "pixiv_149279467_p0.jpg",
       "path": "uploads/2026/09/a339169d.jpg",
