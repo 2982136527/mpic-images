@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "4cd814c3",
+      "filename": "pixiv_149306289_p0.jpg",
+      "path": "uploads/2026/09/6b935719.jpg",
+      "size": 842354,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "271dc08e6dd684d3744b1cc73d76d3287d9b286e9df8145f3295a0e62966ffc1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:10:14.734Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "後輩",
+      "tags": [
+        "めめ村",
+        "望月善",
+        "岩尾登"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149306289_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149306289",
+      "sourceCreatedAt": "2026-09-05T10:04:31.000Z"
+    },
+    {
       "id": "f5f4914e",
       "filename": "pixiv_149307686_p0.jpg",
       "path": "uploads/2026/09/33dffdad.jpg",
