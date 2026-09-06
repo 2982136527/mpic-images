@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "4fd6dddd",
+      "filename": "pixiv_149306864_p0.jpg",
+      "path": "uploads/2026/09/53bc0ca1.jpg",
+      "size": 877832,
+      "width": 1200,
+      "height": 672,
+      "mimeType": "image/jpeg",
+      "hash": "49c6e68a3ac7aba9d36245fc646139f533930fe73b29e30022e3e42672bcc733",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:08:40.075Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Werewolf Dragon",
+      "tags": [
+        "人外娘",
+        "狼娘",
+        "werewolf",
+        "Skeb"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149306864_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149306864",
+      "sourceCreatedAt": "2026-09-05T10:20:23.000Z"
+    },
+    {
       "id": "2aa37aed",
       "filename": "pixiv_149300849_p0.jpg",
       "path": "uploads/2026/09/4667b6f8.jpg",
