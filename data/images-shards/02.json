@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "87a48d4e",
+      "filename": "pixiv_149299969_p0.jpg",
+      "path": "uploads/2026/09/7bb0ebbc.jpg",
+      "size": 587191,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "a5598818d9bf5b247b1d5eb6c41b20e84d1bee90956dbc0c998a2dcae1bd1458",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:32:46.439Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "skeb依頼絵",
+      "tags": [
+        "ゲーミングチェア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149299969_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149299969",
+      "sourceCreatedAt": "2026-09-05T06:57:02.000Z"
+    },
+    {
       "id": "a1dc1102",
       "filename": "pixiv_149286174_p0.jpg",
       "path": "uploads/2026/09/c8acbc44.jpg",
