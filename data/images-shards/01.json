@@ -3,6 +3,35 @@
   "shardId": "01",
   "images": [
     {
+      "id": "234b5c4c",
+      "filename": "pixiv_149293993_p0.jpg",
+      "path": "uploads/2026/09/88eb634a.jpg",
+      "size": 1054297,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "be5367c78cafa08d070f2c1b29dc321919fb1e6f16f497adbc0540f4f4109703",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:25:03.949Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "知更鸟晴歌",
+      "tags": [
+        "女の子",
+        "水着",
+        "崩壊スターレイル",
+        "足指",
+        "知更鸟",
+        "Robin",
+        "ロビン(スターレイル)",
+        "サンダル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149293993_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149293993",
+      "sourceCreatedAt": "2026-09-05T03:00:08.000Z"
+    },
+    {
       "id": "4d7d8794",
       "filename": "pixiv_149244366_p0.jpg",
       "path": "uploads/2026/09/fc4272e6.jpg",
