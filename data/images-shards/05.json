@@ -3,6 +3,36 @@
   "shardId": "05",
   "images": [
     {
+      "id": "c98c31be",
+      "filename": "pixiv_149265254_p0.jpg",
+      "path": "uploads/2026/09/096a84fd.jpg",
+      "size": 555392,
+      "width": 1184,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6752df5293e1a16e8e43703e751ae0a00612870a69051470fe2c94ea03114753",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:11:22.728Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "新たな予言",
+      "tags": [
+        "名探偵プリキュア!",
+        "仮面ライダークウガ",
+        "クロスオーバー",
+        "キュアライダー",
+        "ウソノワール(妖精態)",
+        "誰かがやると思ったシリーズ",
+        "歴史をゼロから始めよう",
+        "嘘は言ってない",
+        "伝説は塗り替えるもの"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149265254_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149265254",
+      "sourceCreatedAt": "2026-09-04T10:08:40.000Z"
+    },
+    {
       "id": "42325b07",
       "filename": "pixiv_149290160_p0.jpg",
       "path": "uploads/2026/09/72b96b0b.jpg",
