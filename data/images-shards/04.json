@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "8803db17",
+      "filename": "pixiv_149314084_p0.jpg",
+      "path": "uploads/2026/09/3b05f61b.jpg",
+      "size": 779794,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "122f551368801610b227e5ea14aa09a687ce39bf4b92409b76dedc8df7c4d96d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:10:06.485Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "pulana",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "プラナ",
+        "プラナ(ブルーアーカイブ)",
+        "ai-assisted"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149314084_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149314084",
+      "sourceCreatedAt": "2026-09-05T12:59:15.000Z"
+    },
+    {
       "id": "288ce192",
       "filename": "pixiv_149297883_p0.jpg",
       "path": "uploads/2026/09/c8c25616.jpg",
