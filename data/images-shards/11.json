@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "11d7a60d",
+      "filename": "pixiv_149267352_p0.jpg",
+      "path": "uploads/2026/09/d74017d0.jpg",
+      "size": 538418,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "90c2fb9037396da43771b8b9c7b93615438de123ca0623ef5ec7fab80422c6a5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T18:16:29.981Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "サユリ",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "女の子",
+        "BlueArchive",
+        "ロリ",
+        "サユリ(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149267352_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149267352",
+      "sourceCreatedAt": "2026-09-04T11:01:01.000Z"
+    },
+    {
       "id": "20ed1d92",
       "filename": "pixiv_149256999_p0.jpg",
       "path": "uploads/2026/09/bedc9a52.jpg",
