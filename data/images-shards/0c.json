@@ -3,6 +3,35 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "f790bcfd",
+      "filename": "pixiv_149276194_p0.jpg",
+      "path": "uploads/2026/09/b56c8868.jpg",
+      "size": 732882,
+      "width": 1200,
+      "height": 873,
+      "mimeType": "image/jpeg",
+      "hash": "fe9096ce2b5a40c9fc1d4bfff411b55180832280f020a069fb10b3ae2a1bedb7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:07:34.027Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "タイタニック × トイ・ストーリー",
+      "tags": [
+        "タイタニック",
+        "トイ・ストーリー",
+        "トイストーリー",
+        "ウッディ・プライド",
+        "バズ・ライトイヤー",
+        "ピクサー",
+        "パロディ",
+        "ピクサー100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149276194_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149276194",
+      "sourceCreatedAt": "2026-09-04T14:07:51.000Z"
+    },
+    {
       "id": "b3e45b73",
       "filename": "pixiv_149307010_p0.jpg",
       "path": "uploads/2026/09/8a392258.jpg",
