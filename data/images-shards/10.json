@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "312d8d9f",
+      "filename": "pixiv_149277804_p0.jpg",
+      "path": "uploads/2026/09/2284934e.jpg",
+      "size": 1044465,
+      "width": 1200,
+      "height": 779,
+      "mimeType": "image/jpeg",
+      "hash": "00ecbc8de6f9b7d7dc949b6b3f6ab424ce276f32840793d3a3fdaa375a1884c0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:11:34.945Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "祝我生日快乐吧！",
+      "tags": [
+        "OC",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149277804_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149277804",
+      "sourceCreatedAt": "2026-09-04T14:45:36.000Z"
+    },
+    {
       "id": "386a333d",
       "filename": "pixiv_149271696_p0.jpg",
       "path": "uploads/2026/09/0e7d8c13.jpg",
