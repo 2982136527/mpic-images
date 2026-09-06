@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "bcc67b1c",
+      "filename": "pixiv_149279220_p0.jpg",
+      "path": "uploads/2026/09/c843e579.jpg",
+      "size": 605365,
+      "width": 1163,
+      "height": 1163,
+      "mimeType": "image/jpeg",
+      "hash": "ace163387eb97142b118619de9e3a1c3d085facb93d6b10fe33d60022f9ea231",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:29:49.952Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "畜生",
+      "tags": [
+        "ケロロ軍曹",
+        "ちびケロ",
+        "ギロロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149279220_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149279220",
+      "sourceCreatedAt": "2026-09-04T15:07:55.000Z"
+    },
+    {
       "id": "5d52264b",
       "filename": "pixiv_149299124_p0.jpg",
       "path": "uploads/2026/09/b00982ce.jpg",
