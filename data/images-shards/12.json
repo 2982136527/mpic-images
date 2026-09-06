@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "c25a94fa",
+      "filename": "pixiv_149249581_p0.jpg",
+      "path": "uploads/2026/09/adc309ba.jpg",
+      "size": 794827,
+      "width": 759,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "08a0f6eed7997bcb364e19560a579867eff7b27e6e5239b270e31483a448ceab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:27:48.654Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Ina's first day in school",
+      "tags": [
+        "ina",
+        "hololive",
+        "vtuber",
+        "fgo"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149249581_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149249581",
+      "sourceCreatedAt": "2026-09-03T21:34:32.000Z"
+    },
+    {
       "id": "f69a650b",
       "filename": "pixiv_149278401_p0.jpg",
       "path": "uploads/2026/09/6376a237.jpg",
