@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "c2f9fd16",
+      "filename": "pixiv_149313986_p0.jpg",
+      "path": "uploads/2026/09/4252e384.jpg",
+      "size": 1090236,
+      "width": 781,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "920a30f8efb6bcd0b8667acfe95295cd1006742e35b50ca4c95a61d2b1a66921",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T18:17:58.184Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "宿のお部屋の",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "白タイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149313986_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149313986",
+      "sourceCreatedAt": "2026-09-05T12:57:03.000Z"
+    },
+    {
       "id": "fef70630",
       "filename": "pixiv_149276278_p0.jpg",
       "path": "uploads/2026/09/e80ed9ee.jpg",
