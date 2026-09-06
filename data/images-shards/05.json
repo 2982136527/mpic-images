@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "1534f23d",
+      "filename": "pixiv_149249528_p0.jpg",
+      "path": "uploads/2026/09/55f54465.jpg",
+      "size": 734804,
+      "width": 1200,
+      "height": 809,
+      "mimeType": "image/jpeg",
+      "hash": "8385fff413354ed3eb7fb376d8a93586b03d7f5c988b761e42db3a9bb2878544",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:32:39.230Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Yamanin Zephyr",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "UmaMusume",
+        "ヤマニンゼファー(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149249528_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149249528",
+      "sourceCreatedAt": "2026-09-03T21:30:22.000Z"
+    },
+    {
       "id": "4e32acb8",
       "filename": "pixiv_149278517_p0.jpg",
       "path": "uploads/2026/09/8db7eb99.jpg",
