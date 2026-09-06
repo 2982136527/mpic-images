@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "d20a1124",
+      "filename": "pixiv_149314579_p0.jpg",
+      "path": "uploads/2026/09/5f9a74d5.jpg",
+      "size": 721532,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2f53053f7dde7abf717835042384d19379e7303c547507c80f0e0cfa72bf3544",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:28:53.045Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "プルにゃん",
+      "tags": [
+        "ゼンゼロ",
+        "プルクラ・フェリーニ",
+        "バーニス・ホワイト",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149314579_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149314579",
+      "sourceCreatedAt": "2026-09-05T13:06:21.000Z"
+    },
+    {
       "id": "9e90a028",
       "filename": "pixiv_149248765_p0.jpg",
       "path": "uploads/2026/09/1d65ce3c.jpg",
