@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "346fa9d2",
+      "filename": "pixiv_149245629_p0.jpg",
+      "path": "uploads/2026/09/b59ba2cd.jpg",
+      "size": 1007924,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a9c1dd576cfdd47eaf32abd879449f55c7e9b7f3ea0d86ccc6f7e89c98d96555",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:26:57.253Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Naga",
+      "tags": [
+        "NIKKE",
+        "swimsuit",
+        "Naga"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149245629_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149245629",
+      "sourceCreatedAt": "2026-09-03T17:11:40.000Z"
+    },
+    {
       "id": "c30bfa14",
       "filename": "pixiv_149300708_p0.jpg",
       "path": "uploads/2026/09/eb1bb93b.jpg",
