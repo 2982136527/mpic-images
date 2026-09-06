@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "c69dc062",
+      "filename": "pixiv_149279649_p0.jpg",
+      "path": "uploads/2026/09/b9825981.jpg",
+      "size": 1772795,
+      "width": 918,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a17963800b31ee79edc2e1064d90e8e448cd6c0f2879f9378154c68ed36f9c57",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:27:37.602Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "宇宙",
+      "tags": [
+        "星導ショウ",
+        "にじさんじ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149279649_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149279649",
+      "sourceCreatedAt": "2026-09-04T15:17:04.000Z"
+    },
+    {
       "id": "4a41d7c0",
       "filename": "pixiv_149302691_p0.jpg",
       "path": "uploads/2026/09/1d52afda.jpg",
