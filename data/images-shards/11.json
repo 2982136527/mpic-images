@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "7156eff5",
+      "filename": "pixiv_149284946_p0.jpg",
+      "path": "uploads/2026/09/0511715d.jpg",
+      "size": 457450,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "41fda97b8a946032d3f47de3f0702e149f68071e02609ddafcb333ad6ddc0be4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:11:29.108Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "OC Request",
+      "tags": [
+        "OC",
+        "谷間ホール",
+        "MapleStory"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149284946_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149284946",
+      "sourceCreatedAt": "2026-09-04T18:41:45.000Z"
+    },
+    {
       "id": "5ed6580f",
       "filename": "pixiv_149254970_p0.jpg",
       "path": "uploads/2026/09/acc0b310.jpg",
