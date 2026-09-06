@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "f5f4914e",
+      "filename": "pixiv_149307686_p0.jpg",
+      "path": "uploads/2026/09/33dffdad.jpg",
+      "size": 403401,
+      "width": 641,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0663653f5e1405d848f93687487f5cdb2b7d600ea8841342b944e4daf664b0d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:27:57.195Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ミヤコ",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "月雪ミヤコ",
+        "月雪ミヤコ(水着)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149307686_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149307686",
+      "sourceCreatedAt": "2026-09-05T10:42:57.000Z"
+    },
+    {
       "id": "afa71c82",
       "filename": "pixiv_149254152_p0.jpg",
       "path": "uploads/2026/09/5961f6d9.jpg",
