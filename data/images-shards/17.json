@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "a2f74a4c",
+      "filename": "pixiv_149296240_p0.jpg",
+      "path": "uploads/2026/09/b88d7d75.jpg",
+      "size": 505295,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e59c2533213f26e6b87be4a62c87188c64c8fd2bb7f6adcd2bad7f5b7b88ecaf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T18:17:03.127Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "うちのこリリィ",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "ロリキャラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149296240_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149296240",
+      "sourceCreatedAt": "2026-09-05T04:24:18.000Z"
+    },
+    {
       "id": "244610d5",
       "filename": "pixiv_149284304_p0.jpg",
       "path": "uploads/2026/09/73aacbee.jpg",
