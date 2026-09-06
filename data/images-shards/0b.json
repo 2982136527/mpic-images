@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "f9740af9",
+      "filename": "pixiv_149248984_p0.jpg",
+      "path": "uploads/2026/09/e09dd661.jpg",
+      "size": 638641,
+      "width": 744,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aff13fd349290e138a98f9b1ce6bd9754ea3c0d96940f4bc85ee19ae28e0edce",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:10:48.204Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "サマバケ百鬼姫",
+      "tags": [
+        "妖怪ウォッチ",
+        "百鬼姫",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149248984_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149248984",
+      "sourceCreatedAt": "2026-09-03T20:59:08.000Z"
+    },
+    {
       "id": "8f2539aa",
       "filename": "pixiv_149305897_p0.jpg",
       "path": "uploads/2026/09/cac48e82.jpg",
