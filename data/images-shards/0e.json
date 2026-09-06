@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "df0be05e",
+      "filename": "pixiv_149270479_p0.jpg",
+      "path": "uploads/2026/09/58de30f4.jpg",
+      "size": 1119711,
+      "width": 1200,
+      "height": 552,
+      "mimeType": "image/jpeg",
+      "hash": "bbc11e34cb3c227be5370369cee5d7c70398ee0cca1c721d8db5de43b8708a5e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:24:43.444Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "飞扬",
+      "tags": [
+        "稿件展示"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149270479_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149270479",
+      "sourceCreatedAt": "2026-09-04T12:04:36.000Z"
+    },
+    {
       "id": "f9f46adf",
       "filename": "pixiv_149241191_p0.jpg",
       "path": "uploads/2026/09/b36fbd1e.jpg",
