@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "382dc933",
+      "filename": "pixiv_149310543_p0.jpg",
+      "path": "uploads/2026/09/1b7ba955.jpg",
+      "size": 1157481,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1072ff9fe6eecf44f359406e05c2f14dff672f6d5c80c79b74a7768caf27d3fa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:25:57.318Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "あめふり",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "オリキャラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149310543_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149310543",
+      "sourceCreatedAt": "2026-09-05T11:47:05.000Z"
+    },
+    {
       "id": "5463cc97",
       "filename": "pixiv_149303223_p0.jpg",
       "path": "uploads/2026/09/650a5534.jpg",
