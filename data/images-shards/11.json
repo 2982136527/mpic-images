@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "fd6df3b7",
+      "filename": "pixiv_149299032_p0.jpg",
+      "path": "uploads/2026/09/56b451a0.jpg",
+      "size": 455960,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "6b71fdfabda04333094e2068b02b636890ec3ed572e1aec503f00a676be52ca5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:08:07.964Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ノルムー",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ノルムー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149299032_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149299032",
+      "sourceCreatedAt": "2026-09-05T06:18:25.000Z"
+    },
+    {
       "id": "ed1e4ec7",
       "filename": "pixiv_149267971_p0.jpg",
       "path": "uploads/2026/09/915f2bc0.jpg",
