@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "5d52264b",
+      "filename": "pixiv_149299124_p0.jpg",
+      "path": "uploads/2026/09/b00982ce.jpg",
+      "size": 708086,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "08071330a1c1baa24e14588e0d92eb3dda19375e115ecb863ee835100d1d46e7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:26:15.961Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ロクシー",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ロクシー(ゼンゼロ)",
+        "TESLA",
+        "ロクシー・イフリータ・プライス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149299124_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149299124",
+      "sourceCreatedAt": "2026-09-05T06:21:39.000Z"
+    },
+    {
       "id": "212dcd48",
       "filename": "pixiv_149235424_p0.jpg",
       "path": "uploads/2026/09/fa7db8d5.jpg",
