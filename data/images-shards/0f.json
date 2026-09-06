@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "8009705f",
+      "filename": "pixiv_149298231_p0.jpg",
+      "path": "uploads/2026/09/51404016.jpg",
+      "size": 984241,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1b3cb2aae693eac14111ee8f46e71c1602361add86bed7ada6f5509796800831",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:30:33.224Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "20260904",
+      "tags": [
+        "東方project",
+        "東方",
+        "蓬莱山輝夜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149298231_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149298231",
+      "sourceCreatedAt": "2026-09-05T05:46:00.000Z"
+    },
+    {
       "id": "226c001e",
       "filename": "pixiv_149297936_p0.jpg",
       "path": "uploads/2026/09/708bbd68.jpg",
