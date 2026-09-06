@@ -3,6 +3,37 @@
   "shardId": "05",
   "images": [
     {
+      "id": "4e32acb8",
+      "filename": "pixiv_149278517_p0.jpg",
+      "path": "uploads/2026/09/8db7eb99.jpg",
+      "size": 1039898,
+      "width": 1200,
+      "height": 727,
+      "mimeType": "image/jpeg",
+      "hash": "ccaf5705040226ee996bfe5dfd35f1d61c05462d3a192c8ef39ed166d4f8ef1f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:29:22.605Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Vol.0 連邦生徒会",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "七神リン",
+        "スモモ(ブルーアーカイブ)",
+        "扇喜アオイ",
+        "アユム",
+        "由良木モモカ",
+        "ハイネ(ブルーアーカイブ)",
+        "不知火カヤ",
+        "七度ユキノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149278517_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149278517",
+      "sourceCreatedAt": "2026-09-04T15:00:21.000Z"
+    },
+    {
       "id": "e38b0d53",
       "filename": "pixiv_149229664_p0.jpg",
       "path": "uploads/2026/09/3bd23d67.jpg",
