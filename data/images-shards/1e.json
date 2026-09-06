@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "8b078e07",
+      "filename": "pixiv_149086482_p0.jpg",
+      "path": "uploads/2026/09/ab911db2.jpg",
+      "size": 1525863,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e8def201770dce464812617b3404bff52e9821375c4f071b6e77e63fe1f549db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:31:06.672Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "永久の歌声",
+      "tags": [
+        "初音ミク誕生祭2026",
+        "初音ミク",
+        "VOCALOID",
+        "VOCALOID500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149086482_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149086482",
+      "sourceCreatedAt": "2026-08-30T15:00:06.000Z"
+    },
+    {
       "id": "33625488",
       "filename": "pixiv_149278090_p0.jpg",
       "path": "uploads/2026/09/bcbcaae3.jpg",
