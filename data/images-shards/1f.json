@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "89546f32",
+      "filename": "pixiv_149288806_p0.jpg",
+      "path": "uploads/2026/09/886e13c8.jpg",
+      "size": 2276165,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e6c20c4aecc021900cf13a0af3cc55049f23d8fbce5752aeccfe57d80a7220e7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:26:50.446Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "黒猫",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作",
+        "少女",
+        "ケモミミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149288806_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149288806",
+      "sourceCreatedAt": "2026-09-04T22:53:19.000Z"
+    },
+    {
       "id": "7be3b4f3",
       "filename": "pixiv_149241986_p0.jpg",
       "path": "uploads/2026/09/77bdad18.jpg",
