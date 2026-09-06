@@ -3,6 +3,33 @@
   "shardId": "12",
   "images": [
     {
+      "id": "be671c65",
+      "filename": "pixiv_149278971_p0.jpg",
+      "path": "uploads/2026/09/340ed220.jpg",
+      "size": 647948,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "44de7f7b46ffa2c16a53aef21b4da57f0056953b2c3148851365f84a638a040d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:13:36.228Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "20260904 いそがしき日",
+      "tags": [
+        "アイドルマスターシャイニーカラーズ",
+        "シャニマス",
+        "杜野凛世",
+        "櫻木真乃",
+        "園田智代子",
+        "福丸小糸"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149278971_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149278971",
+      "sourceCreatedAt": "2026-09-04T15:03:27.000Z"
+    },
+    {
       "id": "296b9089",
       "filename": "pixiv_149296110_p0.jpg",
       "path": "uploads/2026/09/dbd2597a.jpg",
