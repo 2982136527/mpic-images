@@ -3,6 +3,28 @@
   "shardId": "13",
   "images": [
     {
+      "id": "0c3e78ee",
+      "filename": "pixiv_149278816_p0.jpg",
+      "path": "uploads/2026/09/ceae54a5.jpg",
+      "size": 95305,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "43edc2a5243578cd1c0d805d64f036166d7d8d3846b95be27c2759026100b48b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:32:16.131Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【Web再録】Rendez-vous",
+      "tags": [
+        "リヴァハン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149278816_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149278816",
+      "sourceCreatedAt": "2026-09-04T15:01:53.000Z"
+    },
+    {
       "id": "7b2e6718",
       "filename": "pixiv_149288841_p0.jpg",
       "path": "uploads/2026/09/7c467b20.jpg",
