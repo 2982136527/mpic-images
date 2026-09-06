@@ -3,6 +3,28 @@
   "shardId": "12",
   "images": [
     {
+      "id": "f69a650b",
+      "filename": "pixiv_149278401_p0.jpg",
+      "path": "uploads/2026/09/6376a237.jpg",
+      "size": 1494347,
+      "width": 1200,
+      "height": 688,
+      "mimeType": "image/jpeg",
+      "hash": "93e4fa3986e0202233d34ae05bda23a29c9c780b3c4764cf74a2e36c1b513b1f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:24:25.139Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🔫",
+      "tags": [
+        "棗いつき"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149278401_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149278401",
+      "sourceCreatedAt": "2026-09-04T15:00:01.000Z"
+    },
+    {
       "id": "a1e2111a",
       "filename": "pixiv_149268898_p0.jpg",
       "path": "uploads/2026/09/79600971.jpg",
