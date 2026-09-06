@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "3de5badf",
+      "filename": "pixiv_149253045_p0.jpg",
+      "path": "uploads/2026/09/b317c38e.jpg",
+      "size": 1147654,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0fc38bc8eb50c873dca03fc3ab9404acf9d8377502e6aac144e0afa198aa5104",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:10:28.105Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ふう~",
+      "tags": [
+        "明日方舟终末地",
+        "アークナイツ:エンドフィールド",
+        "ArknightsEndfield",
+        "提弗洛斯"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149253045_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149253045",
+      "sourceCreatedAt": "2026-09-04T01:12:08.000Z"
+    },
+    {
       "id": "f790bcfd",
       "filename": "pixiv_149276194_p0.jpg",
       "path": "uploads/2026/09/b56c8868.jpg",
