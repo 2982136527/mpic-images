@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "6f584c80",
+      "filename": "pixiv_149285831_p0.jpg",
+      "path": "uploads/2026/09/a2c458b3.jpg",
+      "size": 1231290,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0f7a4c47caf94afdb285929e01b0f9af30be8018c40c5f123780058629a14968",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:28:02.304Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "心象結晶のクオリア",
+      "tags": [
+        "東方Project",
+        "東方",
+        "古明地さとり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149285831_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149285831",
+      "sourceCreatedAt": "2026-09-04T19:47:14.000Z"
+    },
+    {
       "id": "ca70e657",
       "filename": "pixiv_149305967_p0.jpg",
       "path": "uploads/2026/09/a27f81fa.jpg",
