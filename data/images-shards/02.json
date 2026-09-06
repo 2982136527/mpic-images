@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "f8b22e72",
+      "filename": "pixiv_149295994_p0.jpg",
+      "path": "uploads/2026/09/12454348.jpg",
+      "size": 462811,
+      "width": 982,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ae1515cf755ee38b3ae3e1520f7fb6eba3f9b369c48da0112dc2a655370b5b8e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:08:46.326Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ゴースト",
+      "tags": [
+        "ポケモン",
+        "オカルトマニア",
+        "着ぐるみ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149295994_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149295994",
+      "sourceCreatedAt": "2026-09-05T04:13:28.000Z"
+    },
+    {
       "id": "87a48d4e",
       "filename": "pixiv_149299969_p0.jpg",
       "path": "uploads/2026/09/7bb0ebbc.jpg",
