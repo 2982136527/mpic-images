@@ -3,6 +3,28 @@
   "shardId": "10",
   "images": [
     {
+      "id": "fef70630",
+      "filename": "pixiv_149276278_p0.jpg",
+      "path": "uploads/2026/09/e80ed9ee.jpg",
+      "size": 317464,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "00e03dc6649b5449cdd8da342194d56d823b501280d8070990febdadb9db9cb1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:14:12.230Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ｴﾝｼﾞｬﾘまとめ",
+      "tags": [
+        "エンジャリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149276278_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149276278",
+      "sourceCreatedAt": "2026-09-04T14:09:33.000Z"
+    },
+    {
       "id": "312d8d9f",
       "filename": "pixiv_149277804_p0.jpg",
       "path": "uploads/2026/09/2284934e.jpg",
