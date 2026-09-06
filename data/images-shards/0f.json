@@ -3,6 +3,34 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "226c001e",
+      "filename": "pixiv_149297936_p0.jpg",
+      "path": "uploads/2026/09/708bbd68.jpg",
+      "size": 812306,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "0f9410a48208fbdedb3f29b40ff0ea1ab28b003055b112805ffc8c59d63055ed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:25:13.979Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "回転寿司とボカロ",
+      "tags": [
+        "初音ミク",
+        "音街ウナ",
+        "重音テト",
+        "ボカロ",
+        "漫画",
+        "イラスト",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149297936_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149297936",
+      "sourceCreatedAt": "2026-09-05T05:33:42.000Z"
+    },
+    {
       "id": "3ba51604",
       "filename": "pixiv_149251025_p0.jpg",
       "path": "uploads/2026/09/22a49fb5.jpg",
