@@ -3,6 +3,33 @@
   "shardId": "06",
   "images": [
     {
+      "id": "c5fee112",
+      "filename": "pixiv_149261089_p0.jpg",
+      "path": "uploads/2026/09/48168dbe.jpg",
+      "size": 1561516,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5e7e00a44440ed9f496a79ea2a6a366402ab04c58bd6bc6627890c9706357662",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T18:14:07.784Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "汀の少女",
+      "tags": [
+        "少女",
+        "オリジナル",
+        "セーラー服",
+        "犬と少女",
+        "オリジナル1000users入り",
+        "海"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149261089_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149261089",
+      "sourceCreatedAt": "2026-09-04T08:03:55.000Z"
+    },
+    {
       "id": "473acc50",
       "filename": "pixiv_149281807_p0.jpg",
       "path": "uploads/2026/09/234f5edd.jpg",
