@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "81ea6df2",
+      "filename": "pixiv_149287404_p0.jpg",
+      "path": "uploads/2026/09/41abb51e.jpg",
+      "size": 510848,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5c106bb894ae87c944238beb101bdd56816e61bea2378ecff0889ed74bb7b5c6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:10:53.719Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "교복붘키",
+      "tags": [
+        "스텔라이브",
+        "텐코시부키"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149287404_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149287404",
+      "sourceCreatedAt": "2026-09-04T21:35:03.000Z"
+    },
+    {
       "id": "19bc0d1a",
       "filename": "pixiv_149248585_p0.jpg",
       "path": "uploads/2026/09/5185fcf6.jpg",
