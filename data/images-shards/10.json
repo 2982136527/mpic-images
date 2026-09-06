@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "973baa7b",
+      "filename": "pixiv_149314101_p0.jpg",
+      "path": "uploads/2026/09/f19a5172.jpg",
+      "size": 842404,
+      "width": 1200,
+      "height": 955,
+      "mimeType": "image/jpeg",
+      "hash": "42cd02cc448e7763798b32d7f77c89851bd5ef17bf60d5b5be193627d639a9af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T04:25:24.578Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "オデボジャ",
+      "tags": [
+        "原神",
+        "オデット(原神)",
+        "ボジャニーツァ",
+        "ヴォジャニーツァ",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149314101_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149314101",
+      "sourceCreatedAt": "2026-09-05T12:59:35.000Z"
+    },
+    {
       "id": "64b29580",
       "filename": "pixiv_148164222_p0.jpg",
       "path": "uploads/2026/09/bf693d06.jpg",
