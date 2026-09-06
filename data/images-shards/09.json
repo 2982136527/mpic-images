@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "e6858da6",
+      "filename": "pixiv_149298966_p0.jpg",
+      "path": "uploads/2026/09/ed6cbfdc.jpg",
+      "size": 990976,
+      "width": 1200,
+      "height": 1134,
+      "mimeType": "image/jpeg",
+      "hash": "4a31cf3063010b65475f504fbf838b3de6740621e520ef65d8d4babc39807180",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-06T12:11:43.705Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "タフィー",
+      "tags": [
+        "ANANTA",
+        "無限大Ananta",
+        "タフィー(ANANTA)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149298966_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149298966",
+      "sourceCreatedAt": "2026-09-05T06:15:48.000Z"
+    },
+    {
       "id": "1f26b172",
       "filename": "pixiv_149242913_p0.jpg",
       "path": "uploads/2026/09/6364562b.jpg",
