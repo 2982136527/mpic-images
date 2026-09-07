@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "f013f1c9",
+      "filename": "pixiv_149290724_p0.jpg",
+      "path": "uploads/2026/09/be441f94.jpg",
+      "size": 794350,
+      "width": 1200,
+      "height": 603,
+      "mimeType": "image/jpeg",
+      "hash": "ce4fb8994153372361284fc7dece3654944057948de5c74c876b230e6b79e966",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T14:16:21.926Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "どの子がすき？",
+      "tags": [
+        "女の子",
+        "ハロウィン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149290724_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149290724",
+      "sourceCreatedAt": "2026-09-05T00:31:26.000Z"
+    },
+    {
       "id": "dc2bb660",
       "filename": "pixiv_149337810_p0.jpg",
       "path": "uploads/2026/09/8420b6da.jpg",
