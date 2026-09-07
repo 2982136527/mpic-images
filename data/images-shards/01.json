@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "eddf02a4",
+      "filename": "pixiv_149304537_p0.jpg",
+      "path": "uploads/2026/09/e8f0d77d.jpg",
+      "size": 1249269,
+      "width": 905,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3c6d0eb8128a844a6be1577386d4c7cefd16b328ac6325f834d4bfffdecf32c5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:28:11.579Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "幼女戦記",
+        "ターニャ・デグレチャフ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149304537_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149304537",
+      "sourceCreatedAt": "2026-09-05T09:19:15.000Z"
+    },
+    {
       "id": "e4a5ec87",
       "filename": "pixiv_149346335_p0.jpg",
       "path": "uploads/2026/09/0431d5fd.jpg",
