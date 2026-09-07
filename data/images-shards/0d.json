@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "3a31d87d",
+      "filename": "pixiv_149298737_p0.jpg",
+      "path": "uploads/2026/09/23ef8a6a.jpg",
+      "size": 1137134,
+      "width": 664,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3726faccd4c6ce930d16e0f01b678c9ba0f57d09568bd007e94c0aee8ca19845",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:29:31.695Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "清霄",
+      "tags": [
+        "鸣潮",
+        "清霄"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149298737_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149298737",
+      "sourceCreatedAt": "2026-09-05T06:06:19.000Z"
+    },
+    {
       "id": "5292a3fb",
       "filename": "pixiv_149306480_p0.jpg",
       "path": "uploads/2026/09/c19389f7.jpg",
