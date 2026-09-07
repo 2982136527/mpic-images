@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "23bc753e",
+      "filename": "pixiv_149343177_p0.jpg",
+      "path": "uploads/2026/09/774ad6f6.jpg",
+      "size": 799099,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "046579fbc829d979418d6401f1929e97df60aee21b985efc6a6b649ab1f5a2c1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:23:54.100Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "パーシュース",
+      "tags": [
+        "AzurLane",
+        "パーシュース(アズールレーン)",
+        "アズールレーン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149343177_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149343177",
+      "sourceCreatedAt": "2026-09-06T12:40:15.000Z"
+    },
+    {
       "id": "6e9ceb40",
       "filename": "pixiv_149313966_p0.jpg",
       "path": "uploads/2026/09/e01ebb09.jpg",
