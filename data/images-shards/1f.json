@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "55e74c1a",
+      "filename": "pixiv_149320890_p0.jpg",
+      "path": "uploads/2026/09/6a6478ba.jpg",
+      "size": 941796,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "32026d114a685bcab200a68bfb9ee5afc1763ef356f91d254825f7d5356db6f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T14:13:46.575Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "# 20260905 ヤニねこ",
+      "tags": [
+        "ヤニねこ",
+        "ハメねこ",
+        "ヤクねこ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149320890_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149320890",
+      "sourceCreatedAt": "2026-09-05T15:16:47.000Z"
+    },
+    {
       "id": "45712101",
       "filename": "pixiv_149336444_p0.jpg",
       "path": "uploads/2026/09/aeec0d6b.jpg",
