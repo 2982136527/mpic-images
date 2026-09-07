@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "c21620d2",
+      "filename": "pixiv_149319821_p0.jpg",
+      "path": "uploads/2026/09/32edf598.jpg",
+      "size": 439396,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bcc62b85df01269aa294d91a23e061a5c69124964046807a8e134f5ccfbdc9c3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:29:01.262Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ゅぃゃょ　立ち絵",
+      "tags": [
+        "ゅぃゃょ",
+        "バーチャルYouTuber",
+        "バーチャルYouTuber100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149319821_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149319821",
+      "sourceCreatedAt": "2026-09-05T15:00:32.000Z"
+    },
+    {
       "id": "8b71a0e3",
       "filename": "pixiv_149279402_p0.jpg",
       "path": "uploads/2026/09/82ebadd5.jpg",
