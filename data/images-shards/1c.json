@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "40eed41a",
+      "filename": "pixiv_149324631_p0.jpg",
+      "path": "uploads/2026/09/8f1d6bbd.jpg",
+      "size": 785564,
+      "width": 610,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5a0b324715433d59a34ace395e3442a3bea6362cfb0eb2c26dd0d68dee872031",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:28:37.653Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "伊卡洛斯",
+      "tags": [
+        "そらのおとしもの",
+        "天使"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149324631_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149324631",
+      "sourceCreatedAt": "2026-09-05T17:07:19.000Z"
+    },
+    {
       "id": "87567c27",
       "filename": "pixiv_149291104_p0.jpg",
       "path": "uploads/2026/09/964753c7.jpg",
