@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "c4d1814b",
+      "filename": "pixiv_149329795_p0.jpg",
+      "path": "uploads/2026/09/4606f836.jpg",
+      "size": 401776,
+      "width": 600,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "6c37819cf2939cd07ada8aefc350cf701307282168f686b2d750d1f7d315bbd1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T19:53:56.955Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "FGOまとめ",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "藤丸立香",
+        "マシュ・キリエライト",
+        "ティアマト(Fate)",
+        "キングプロテア・オルタ(水着)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149329795_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149329795",
+      "sourceCreatedAt": "2026-09-05T22:17:35.000Z"
+    },
+    {
       "id": "a346de6d",
       "filename": "pixiv_149312493_p0.jpg",
       "path": "uploads/2026/09/2b4a6705.jpg",
