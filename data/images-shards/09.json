@@ -3,6 +3,34 @@
   "shardId": "09",
   "images": [
     {
+      "id": "7fd29e10",
+      "filename": "pixiv_149299895_p0.jpg",
+      "path": "uploads/2026/09/11ead2b7.jpg",
+      "size": 1409289,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "870d5e40c79fec8bdbde9ae2ecc3ae7e9e5849d8a6593aca41185404832c6895",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:24:35.600Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "忍たまログ5",
+      "tags": [
+        "忍たま",
+        "RKRN",
+        "くのたま",
+        "くのいち月間",
+        "忍たまたちに見つかるなの段",
+        "原作トモミ",
+        "くのたま100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149299895_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149299895",
+      "sourceCreatedAt": "2026-09-05T06:54:19.000Z"
+    },
+    {
       "id": "e6858da6",
       "filename": "pixiv_149298966_p0.jpg",
       "path": "uploads/2026/09/ed6cbfdc.jpg",
