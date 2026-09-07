@@ -3,6 +3,36 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "87567c27",
+      "filename": "pixiv_149291104_p0.jpg",
+      "path": "uploads/2026/09/964753c7.jpg",
+      "size": 1373435,
+      "width": 1200,
+      "height": 881,
+      "mimeType": "image/jpeg",
+      "hash": "d6bd3f9b5fb87d972f9685fab12b5db0e14b77471137d4abc1e5e54e18a42100",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:24:53.202Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "SD",
+        "endfield",
+        "アークナイツ:エンドフィールド",
+        "명일방주",
+        "アークナイツ",
+        "명일방주엔드필드",
+        "ロッシ(エンドフィールド)",
+        "ロッシーナ・ウルフパール・ルピーノ",
+        "ティフォロス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149291104_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149291104",
+      "sourceCreatedAt": "2026-09-05T00:54:32.000Z"
+    },
+    {
       "id": "0527d37f",
       "filename": "pixiv_149295326_p0.jpg",
       "path": "uploads/2026/09/d485d5d6.jpg",
