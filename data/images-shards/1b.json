@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "46b1479e",
+      "filename": "pixiv_149320954_p0.jpg",
+      "path": "uploads/2026/09/3e30a2e2.jpg",
+      "size": 1450020,
+      "width": 1200,
+      "height": 844,
+      "mimeType": "image/jpeg",
+      "hash": "c66935bb58cb9de72154282e86adaaba6779380f27d1342267ba589305ef9c3a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:28:05.555Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「任務完了」",
+      "tags": [
+        "創作",
+        "スーツ",
+        "スーツ女子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149320954_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149320954",
+      "sourceCreatedAt": "2026-09-05T15:18:11.000Z"
+    },
+    {
       "id": "e438d8dc",
       "filename": "pixiv_149345273_p0.jpg",
       "path": "uploads/2026/09/1a0dfba2.jpg",
