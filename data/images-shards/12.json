@@ -3,6 +3,33 @@
   "shardId": "12",
   "images": [
     {
+      "id": "ffab4fe1",
+      "filename": "pixiv_149314495_p0.jpg",
+      "path": "uploads/2026/09/affeb5a5.jpg",
+      "size": 953934,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6155cd3a4e5b5bf589fd1f6db4294ae0f121f563ad5fe82cadf310f5d337cd44",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:26:07.016Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "天童アリス",
+      "tags": [
+        "ロリ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "碧蓝档案",
+        "天童アリス",
+        "ai-assisted"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149314495_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149314495",
+      "sourceCreatedAt": "2026-09-05T13:04:21.000Z"
+    },
+    {
       "id": "a5c1d0e3",
       "filename": "pixiv_149107072_p0.jpg",
       "path": "uploads/2026/09/bb609d7d.jpg",
