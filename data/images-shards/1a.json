@@ -3,6 +3,28 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "913da97e",
+      "filename": "pixiv_149321954_p0.jpg",
+      "path": "uploads/2026/09/4a2518cb.jpg",
+      "size": 402393,
+      "width": 425,
+      "height": 595,
+      "mimeType": "image/jpeg",
+      "hash": "efbaf2b0d0ea8980996a09e1884966bd6d282b315a6861337bfcd0380cd27ed9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:29:06.676Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【TOKYO FES Sep.2026】新刊サンプルとお品書き",
+      "tags": [
+        "あらまた"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149321954_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149321954",
+      "sourceCreatedAt": "2026-09-05T15:42:17.000Z"
+    },
+    {
       "id": "2dee320a",
       "filename": "pixiv_149300401_p0.jpg",
       "path": "uploads/2026/09/28a45c77.jpg",
