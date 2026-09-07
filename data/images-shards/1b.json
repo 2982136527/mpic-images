@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "e438d8dc",
+      "filename": "pixiv_149345273_p0.jpg",
+      "path": "uploads/2026/09/1a0dfba2.jpg",
+      "size": 1159117,
+      "width": 1062,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "358ae38923fd1d8099b3d037e85033ddfe96c17a3eedb9795da890918669cfba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:27:36.312Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Superficial",
+      "tags": [
+        "プロセカ",
+        "プロジェクトセカイ",
+        "日野森雫"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149345273_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149345273",
+      "sourceCreatedAt": "2026-09-06T07:59:26.000Z"
+    },
+    {
       "id": "2db795f9",
       "filename": "pixiv_149261470_p0.jpg",
       "path": "uploads/2026/09/7d6a65ac.jpg",
