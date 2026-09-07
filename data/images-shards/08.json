@@ -3,6 +3,37 @@
   "shardId": "08",
   "images": [
     {
+      "id": "1c92bae4",
+      "filename": "pixiv_149351975_p0.jpg",
+      "path": "uploads/2026/09/1d5fc210.jpg",
+      "size": 960775,
+      "width": 1200,
+      "height": 658,
+      "mimeType": "image/jpeg",
+      "hash": "b7331c81726d3267e3a1cc36c9f6bec8e841f3262f36f27edfad2a4375f63e15",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:27:59.783Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "いちごジャム in 工場",
+      "tags": [
+        "クリーチャー",
+        "オリジナルクリーチャー",
+        "機械",
+        "機械室",
+        "工場",
+        "廃工場",
+        "配電盤",
+        "操作盤",
+        "パイプ",
+        "ケーブル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149351975_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149351975",
+      "sourceCreatedAt": "2026-09-06T10:39:51.000Z"
+    },
+    {
       "id": "3be1651d",
       "filename": "pixiv_149304214_p0.jpg",
       "path": "uploads/2026/09/ac63a61d.jpg",
