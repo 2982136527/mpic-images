@@ -3,6 +3,34 @@
   "shardId": "05",
   "images": [
     {
+      "id": "e529af6f",
+      "filename": "pixiv_149134626_p0.jpg",
+      "path": "uploads/2026/09/d7c93b49.jpg",
+      "size": 723350,
+      "width": 875,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d1f7208dac1ba481eb69d0d595aa1bd632b6fc7843a0e1edc37416bdeda23953",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T14:19:08.840Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "john doe",
+      "tags": [
+        "イラスト",
+        "ショタ",
+        "ゼンレスゾーンゼロ",
+        "男の娘",
+        "johndoe",
+        "femboy",
+        "ZenlessZoneZero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149134626_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149134626",
+      "sourceCreatedAt": "2026-08-31T17:47:39.000Z"
+    },
+    {
       "id": "bc415217",
       "filename": "pixiv_149330627_p0.jpg",
       "path": "uploads/2026/09/e4e36776.jpg",
