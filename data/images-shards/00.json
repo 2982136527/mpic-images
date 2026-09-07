@@ -3,6 +3,37 @@
   "shardId": "00",
   "images": [
     {
+      "id": "730eef6c",
+      "filename": "pixiv_149280891_p0.jpg",
+      "path": "uploads/2026/09/c3bcc068.jpg",
+      "size": 1017370,
+      "width": 1029,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4ad999b5cb4f94f571cf8cfee7fd58693c173dad02a59496d968e106ad4e35a8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:23:05.506Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "最近みた悪夢の漫画",
+      "tags": [
+        "悪夢",
+        "なぁにこれぇ",
+        "サンドマン(ジョジョの奇妙な冒険)",
+        "ガサ入れ",
+        "自律神経崩壊ちゃん",
+        "わけがわからないよ",
+        "なにこれカオス",
+        "実話ネタ",
+        "ポリゴン2",
+        "悪夢の共演"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149280891_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149280891",
+      "sourceCreatedAt": "2026-09-04T15:49:46.000Z"
+    },
+    {
       "id": "900e6b55",
       "filename": "pixiv_149129235_p0.jpg",
       "path": "uploads/2026/09/6a1f0c91.jpg",
