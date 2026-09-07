@@ -3,6 +3,33 @@
   "shardId": "17",
   "images": [
     {
+      "id": "fe1cfa65",
+      "filename": "pixiv_149319766_p0.jpg",
+      "path": "uploads/2026/09/5faee7d5.jpg",
+      "size": 1444105,
+      "width": 834,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d94feaa7571d65bb121ae59c8854dbc363cd3e26f3cd3b75340affba41306e42",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T14:12:22.954Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "クラレッタとロクシー",
+      "tags": [
+        "クラレッタ・フリンツ",
+        "ゼンレスゾーンゼロ",
+        "ロクシー(ゼンゼロ)",
+        "ロクシー",
+        "クラレッタ",
+        "ロクシー・イフリータ・プライス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149319766_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149319766",
+      "sourceCreatedAt": "2026-09-05T15:00:23.000Z"
+    },
+    {
       "id": "b04cdc10",
       "filename": "pixiv_149334250_p0.jpg",
       "path": "uploads/2026/09/12640c6e.jpg",
