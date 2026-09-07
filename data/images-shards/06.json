@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "fb715f4b",
+      "filename": "pixiv_149320733_p0.jpg",
+      "path": "uploads/2026/09/d4e94c06.jpg",
+      "size": 1100968,
+      "width": 667,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "b721a6468c2c7c223425fb39733f389767bf25b2597776edfdcda595580f3919",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T19:57:45.212Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "灯火をたどって",
+      "tags": [
+        "HIMEHINA",
+        "ヒメヒナ",
+        "鈴木ヒナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149320733_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149320733",
+      "sourceCreatedAt": "2026-09-05T15:13:06.000Z"
+    },
+    {
       "id": "6a3efa10",
       "filename": "pixiv_149334451_p0.jpg",
       "path": "uploads/2026/09/ee7cadba.jpg",
