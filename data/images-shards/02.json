@@ -3,6 +3,37 @@
   "shardId": "02",
   "images": [
     {
+      "id": "4500dcce",
+      "filename": "pixiv_149319685_p0.jpg",
+      "path": "uploads/2026/09/adf7fa15.jpg",
+      "size": 816677,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fb859dff69387e8686f2ef9a5a9054ea3929e44b7ae4e0d009c08b54d3a51994",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T19:56:26.142Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "暁美ほむら",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "まどマギ",
+        "まどか☆マギカ",
+        "ワルプルギスの廻天",
+        "暁美ほむら",
+        "ほむら",
+        "PuellaMagiMadokaMagica",
+        "イラスト",
+        "女の子",
+        "黒髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149319685_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149319685",
+      "sourceCreatedAt": "2026-09-05T15:00:11.000Z"
+    },
+    {
       "id": "f2d97f4d",
       "filename": "pixiv_149350263_p0.jpg",
       "path": "uploads/2026/09/e82b5bac.jpg",
