@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "2ec445eb",
+      "filename": "pixiv_149293635_p0.jpg",
+      "path": "uploads/2026/09/af194546.jpg",
+      "size": 1244627,
+      "width": 1170,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1eda00f65aae914d628abf96100394ab8d6c87b91beec7434bbca8370f9c1255",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T14:15:13.736Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Sinder",
+      "tags": [
+        "Sinder",
+        "SinderDoodle"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149293635_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149293635",
+      "sourceCreatedAt": "2026-09-05T02:51:02.000Z"
+    },
+    {
       "id": "41a3646f",
       "filename": "pixiv_149355363_p0.jpg",
       "path": "uploads/2026/09/88c636a3.jpg",
