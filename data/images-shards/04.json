@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "d3b7b2d9",
+      "filename": "pixiv_149324310_p0.jpg",
+      "path": "uploads/2026/09/65cd0744.jpg",
+      "size": 1267964,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c1229e8c2c383c99883addf97064c7c2c1b97af01459b8784c7695869ead862b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T14:14:46.048Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "隠された武器",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "Genshin",
+        "ローエン",
+        "ローエン(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149324310_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149324310",
+      "sourceCreatedAt": "2026-09-05T16:56:46.000Z"
+    },
+    {
       "id": "749b66bf",
       "filename": "pixiv_149321892_p0.jpg",
       "path": "uploads/2026/09/c780b43e.jpg",
