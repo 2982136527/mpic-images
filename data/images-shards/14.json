@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "2876e3b1",
+      "filename": "pixiv_149351693_p0.jpg",
+      "path": "uploads/2026/09/0ee01928.jpg",
+      "size": 879486,
+      "width": 961,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "662c1dd20e9cf84178c914dabb0558ba0ca979cc27262accc45340cd03f67c24",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T14:15:07.321Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "季節が回る",
+      "tags": [
+        "イラスト",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149351693_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149351693",
+      "sourceCreatedAt": "2026-09-06T10:31:31.000Z"
+    },
+    {
       "id": "82e58794",
       "filename": "pixiv_149318018_p0.jpg",
       "path": "uploads/2026/09/56c82d77.jpg",
