@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "749b66bf",
+      "filename": "pixiv_149321892_p0.jpg",
+      "path": "uploads/2026/09/c780b43e.jpg",
+      "size": 1089024,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "136bbc5f7f2f366a80f1d1f8633648f3fe31f5486e6a891cb6ff430929f670d9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:26:01.243Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "ビビアン(ゼンゼロ)",
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149321892_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149321892",
+      "sourceCreatedAt": "2026-09-05T15:40:10.000Z"
+    },
+    {
       "id": "aa628763",
       "filename": "pixiv_149305150_p0.jpg",
       "path": "uploads/2026/09/8e79f137.jpg",
