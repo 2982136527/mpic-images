@@ -3,6 +3,37 @@
   "shardId": "01",
   "images": [
     {
+      "id": "e4a5ec87",
+      "filename": "pixiv_149346335_p0.jpg",
+      "path": "uploads/2026/09/0431d5fd.jpg",
+      "size": 492239,
+      "width": 950,
+      "height": 950,
+      "mimeType": "image/jpeg",
+      "hash": "2f7f576579ceebaaa65a73dc38dcbcd59eae1d129b441ab7993409a7e6169d5c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:27:42.183Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "明日が月曜日ってほんとですか…？",
+      "tags": [
+        "ねこ",
+        "動物",
+        "猫",
+        "オリジナル",
+        "ましまろう",
+        "ひよこ",
+        "イラスト",
+        "ネコ",
+        "オリキャラ",
+        "現実逃避"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149346335_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149346335",
+      "sourceCreatedAt": "2026-09-06T08:26:49.000Z"
+    },
+    {
       "id": "ffc18cbb",
       "filename": "pixiv_149306330_p0.jpg",
       "path": "uploads/2026/09/5ad0f44f.jpg",
