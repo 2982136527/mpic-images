@@ -3,6 +3,37 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "41b4be34",
+      "filename": "pixiv_149133153_p0.jpg",
+      "path": "uploads/2026/09/5b5d42de.jpg",
+      "size": 723058,
+      "width": 1200,
+      "height": 631,
+      "mimeType": "image/jpeg",
+      "hash": "b1778159ab87422110ad1ee68b8912e97115d4b71e2661bf5d4deca6f061ba27",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T20:00:58.368Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ゼンゼロ",
+      "tags": [
+        "南宮羽",
+        "NangongYu",
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "ゼンゼロ",
+        "千夏(ゼンゼロ)",
+        "アリア",
+        "妄想エンジェル",
+        "Sunna",
+        "アリア(ゼンゼロ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149133153_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149133153",
+      "sourceCreatedAt": "2026-08-31T16:42:00.000Z"
+    },
+    {
       "id": "e482d09e",
       "filename": "pixiv_149313949_p0.jpg",
       "path": "uploads/2026/09/0db2598a.jpg",
