@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "f7ded950",
+      "filename": "pixiv_149283902_p0.jpg",
+      "path": "uploads/2026/09/56ec5746.jpg",
+      "size": 351685,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3a1e6f921e271512b0b3ae0bab3b11f22ca9d4d8db87a1a600f0ee019ec6733c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T19:55:29.520Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ヤオモモ",
+      "tags": [
+        "八百万百",
+        "僕のヒーローアカデミア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149283902_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149283902",
+      "sourceCreatedAt": "2026-09-04T17:45:46.000Z"
+    },
+    {
       "id": "e529af6f",
       "filename": "pixiv_149134626_p0.jpg",
       "path": "uploads/2026/09/d7c93b49.jpg",
