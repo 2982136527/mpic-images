@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "68adfd83",
+      "filename": "pixiv_149320654_p0.jpg",
+      "path": "uploads/2026/09/b21491a3.jpg",
+      "size": 1112678,
+      "width": 667,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "ed82ea4bc7269c9d49c18f0abca42840adfa644b7006c912e7c949cd16150044",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T14:16:56.852Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "祭りの誘い",
+      "tags": [
+        "HIMEHINA",
+        "田中姬",
+        "ヒメヒナ",
+        "田中ヒメ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149320654_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149320654",
+      "sourceCreatedAt": "2026-09-05T15:11:26.000Z"
+    },
+    {
       "id": "e3eceb2b",
       "filename": "pixiv_149317971_p0.jpg",
       "path": "uploads/2026/09/0f250ddd.jpg",
