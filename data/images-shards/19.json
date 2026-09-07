@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "c268e81e",
+      "filename": "pixiv_149311375_p0.jpg",
+      "path": "uploads/2026/09/ebf2786e.jpg",
+      "size": 355586,
+      "width": 663,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "996edf4397f8a78be0e8a65584d9f982908c826d399708d45fa449b657c7711d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T19:57:16.940Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "小鬼",
+      "tags": [
+        "女孩子",
+        "catgirl"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149311375_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149311375",
+      "sourceCreatedAt": "2026-09-05T12:01:52.000Z"
+    },
+    {
       "id": "59b2d23d",
       "filename": "pixiv_149319669_p0.jpg",
       "path": "uploads/2026/09/b57bd92b.jpg",
