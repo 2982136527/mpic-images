@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "6a9f9374",
+      "filename": "pixiv_149333565_p0.jpg",
+      "path": "uploads/2026/09/07963ff3.jpg",
+      "size": 751682,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09ef61ede1b66c56f4b25b19b3588e1fb17350a33a8cc2fd8b921200db8c2758",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T14:21:25.461Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Remi",
+      "tags": [
+        "ラミル",
+        "ゼンレスゾーンゼロ",
+        "レミエール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149333565_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149333565",
+      "sourceCreatedAt": "2026-09-06T01:15:23.000Z"
+    },
+    {
       "id": "b05f61c7",
       "filename": "pixiv_149356259_p0.jpg",
       "path": "uploads/2026/09/66dc34ea.jpg",
