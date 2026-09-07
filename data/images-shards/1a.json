@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "cc8044bf",
+      "filename": "pixiv_149343758_p0.jpg",
+      "path": "uploads/2026/09/546b7563.jpg",
+      "size": 797152,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0fa2a8c0964eba8afaef67f766f458c73f3370d6a9db954bdfeda8ae02723143",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T19:56:47.501Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ニャキヴィリ様まんが①",
+      "tags": [
+        "崩壊スターレイル",
+        "崩坏星穹铁道",
+        "ニャキヴィリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149343758_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149343758",
+      "sourceCreatedAt": "2026-09-06T07:11:17.000Z"
+    },
+    {
       "id": "c192d70d",
       "filename": "pixiv_149354195_p0.jpg",
       "path": "uploads/2026/09/48f46550.jpg",
