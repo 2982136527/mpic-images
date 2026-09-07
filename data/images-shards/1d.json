@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "06630a47",
+      "filename": "pixiv_149280147_p0.jpg",
+      "path": "uploads/2026/09/9d962c62.jpg",
+      "size": 860287,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2f911cc245b31b20b5c0666db7e9cdbb671bddfdf480d6df90dc9e1582eea1c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:23:39.652Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "普通の魔法使い",
+      "tags": [
+        "東方Project",
+        "東方",
+        "霧雨魔理沙",
+        "金髪金眼"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149280147_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149280147",
+      "sourceCreatedAt": "2026-09-04T15:30:03.000Z"
+    },
+    {
       "id": "d73f3dac",
       "filename": "pixiv_149241236_p0.jpg",
       "path": "uploads/2026/09/4f0a4a09.jpg",
