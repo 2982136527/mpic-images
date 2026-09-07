@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "83793e2e",
+      "filename": "pixiv_149337545_p0.jpg",
+      "path": "uploads/2026/09/d92f2997.jpg",
+      "size": 623491,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "81a318a9bfcace668c688f738822c54f67a078e96dd52583366144ee06ce0a39",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:26:39.811Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "お顔の描き方ポイント",
+      "tags": [
+        "描き方",
+        "講座"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149337545_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149337545",
+      "sourceCreatedAt": "2026-09-06T03:42:15.000Z"
+    },
+    {
       "id": "76675ba0",
       "filename": "pixiv_149254098_p0.jpg",
       "path": "uploads/2026/09/f1ea1fec.jpg",
