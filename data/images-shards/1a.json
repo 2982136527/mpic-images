@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "55868105",
+      "filename": "pixiv_149305083_p0.jpg",
+      "path": "uploads/2026/09/e9d9aabf.jpg",
+      "size": 646855,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f3c74d0aff5358fe554b5556cbb7ac6cb58245b0394b3e0eef1ea0cb0c0800ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:29:18.898Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ホロドリみおしゃ",
+      "tags": [
+        "ホロライブ",
+        "VTuber",
+        "バーチャルYouTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149305083_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149305083",
+      "sourceCreatedAt": "2026-09-05T09:35:28.000Z"
+    },
+    {
       "id": "913da97e",
       "filename": "pixiv_149321954_p0.jpg",
       "path": "uploads/2026/09/4a2518cb.jpg",
