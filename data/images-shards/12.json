@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "a86ae60b",
+      "filename": "pixiv_149345054_p0.jpg",
+      "path": "uploads/2026/09/741a9c7f.jpg",
+      "size": 678577,
+      "width": 632,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "696e9f4376740be997bd7b18c96d5d365ec3c5f18330ee625e0aeb0fd1f7acf8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T14:14:27.725Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ラバーメイド",
+      "tags": [
+        "ラバースーツ",
+        "ぴっちりスーツ",
+        "ラバーメイド",
+        "マスク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149345054_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149345054",
+      "sourceCreatedAt": "2026-09-06T07:52:07.000Z"
+    },
+    {
       "id": "ffab4fe1",
       "filename": "pixiv_149314495_p0.jpg",
       "path": "uploads/2026/09/affeb5a5.jpg",
