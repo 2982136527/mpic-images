@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "2af62d1a",
+      "filename": "pixiv_149287151_p0.jpg",
+      "path": "uploads/2026/09/2f3cd70b.jpg",
+      "size": 445654,
+      "width": 570,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5fa22a4a3f2b88220493c4c0fe27b2cd9fb3caeedb28cb311ab70c004d8c86b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T19:55:22.157Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "エーテル財団職員さん",
+      "tags": [
+        "ポケモン",
+        "ポケモンSM",
+        "エーテル財団職員"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149287151_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149287151",
+      "sourceCreatedAt": "2026-09-04T21:20:01.000Z"
+    },
+    {
       "id": "25601160",
       "filename": "pixiv_149151235_p0.jpg",
       "path": "uploads/2026/09/e272a07f.jpg",
