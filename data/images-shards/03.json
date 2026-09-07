@@ -3,6 +3,35 @@
   "shardId": "03",
   "images": [
     {
+      "id": "962f96bc",
+      "filename": "pixiv_149321652_p0.jpg",
+      "path": "uploads/2026/09/e69b6131.jpg",
+      "size": 752458,
+      "width": 672,
+      "height": 1162,
+      "mimeType": "image/jpeg",
+      "hash": "fd89bb9f21b423b6830564aaf06404c3b07dd950401b5603aa94571cdfc2c12b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T14:20:43.417Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ポリスメロンさん",
+      "tags": [
+        "ポケモン",
+        "ポケモン人間絵",
+        "pokemon",
+        "メロン",
+        "メロン(トレーナー)",
+        "ヌメラ",
+        "ユキハミ",
+        "Melony"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149321652_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149321652",
+      "sourceCreatedAt": "2026-09-05T15:34:30.000Z"
+    },
+    {
       "id": "9bbaab5e",
       "filename": "pixiv_149324940_p0.jpg",
       "path": "uploads/2026/09/21e4eb93.jpg",
