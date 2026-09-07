@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "04310de1",
+      "filename": "pixiv_149336057_p0.jpg",
+      "path": "uploads/2026/09/bab1b098.jpg",
+      "size": 1344348,
+      "width": 730,
+      "height": 978,
+      "mimeType": "image/jpeg",
+      "hash": "2488a34c53396ac0e26575967ccb02b2984f59097750b989118d5fcdb005fd79",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T19:54:32.359Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【ツイステ】オールキャラ本再販",
+      "tags": [
+        "ツイステ",
+        "ツイステッドワンダーランド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149336057_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149336057",
+      "sourceCreatedAt": "2026-09-06T02:57:06.000Z"
+    },
+    {
       "id": "eddf02a4",
       "filename": "pixiv_149304537_p0.jpg",
       "path": "uploads/2026/09/e8f0d77d.jpg",
