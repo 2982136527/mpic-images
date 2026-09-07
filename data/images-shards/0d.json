@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "6e436f4d",
+      "filename": "pixiv_149348175_p0.jpg",
+      "path": "uploads/2026/09/4ec9aa97.jpg",
+      "size": 600506,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "25719c1e78ac616f6c4f07a49a991274bb96e55fc0652d672f78a3a12e881dd4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:27:30.437Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "こういうのが好きという漫画",
+      "tags": [
+        "オリジナル",
+        "チャイナ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149348175_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149348175",
+      "sourceCreatedAt": "2026-09-06T09:08:34.000Z"
+    },
+    {
       "id": "0779fe88",
       "filename": "pixiv_149318039_p0.jpg",
       "path": "uploads/2026/09/0a9a7bdf.jpg",
