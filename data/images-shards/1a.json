@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "7d2de385",
+      "filename": "pixiv_149299077_p0.jpg",
+      "path": "uploads/2026/09/1cd857cb.jpg",
+      "size": 555146,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "739948fa5f31d9651d8c01ebeeb0e4c29e8d283658a7211d301f7f4d2cde7615",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T14:13:13.752Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "お師匠様",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "儀玄"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149299077_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149299077",
+      "sourceCreatedAt": "2026-09-05T06:20:08.000Z"
+    },
+    {
       "id": "8faaad11",
       "filename": "pixiv_149330284_p0.jpg",
       "path": "uploads/2026/09/9cbcc285.jpg",
