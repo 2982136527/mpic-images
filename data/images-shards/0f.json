@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "7c055e2f",
+      "filename": "pixiv_149354486_p0.jpg",
+      "path": "uploads/2026/09/a82f844b.jpg",
+      "size": 1132696,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5be4f321f11bb410662276fd15fea3098b735844c67ec0afd5e538dd2505b159",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T19:53:04.637Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "原神",
+        "ミティヤ",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149354486_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149354486",
+      "sourceCreatedAt": "2026-09-06T11:31:07.000Z"
+    },
+    {
       "id": "ff4390df",
       "filename": "pixiv_149319856_p0.jpg",
       "path": "uploads/2026/09/61c6dd62.jpg",
