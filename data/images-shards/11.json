@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "fa0b6255",
+      "filename": "pixiv_149334038_p0.jpg",
+      "path": "uploads/2026/09/96d3e5c3.jpg",
+      "size": 1493121,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "07141438a7aa3917abb6b4c844db369f3e231c9f2f78aabaf61d50a5b9cfb4aa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T19:55:56.502Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "初夏",
+      "tags": [
+        "東方",
+        "東方Project",
+        "大妖精",
+        "チルノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149334038_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149334038",
+      "sourceCreatedAt": "2026-09-06T01:34:26.000Z"
+    },
+    {
       "id": "91bda3a4",
       "filename": "pixiv_149319884_p0.jpg",
       "path": "uploads/2026/09/0133b853.jpg",
