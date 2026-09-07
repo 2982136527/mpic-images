@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "22d85c44",
+      "filename": "pixiv_149352020_p0.jpg",
+      "path": "uploads/2026/09/7adc06b2.jpg",
+      "size": 610765,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ff499876a8196713a519c98d62fd08050e82a4e046d3379acce02cec10e896b2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-07T04:27:25.048Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "隨筆",
+      "tags": [
+        "練習"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149352020_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149352020",
+      "sourceCreatedAt": "2026-09-06T10:41:05.000Z"
+    },
+    {
       "id": "62a55730",
       "filename": "pixiv_149354126_p0.jpg",
       "path": "uploads/2026/09/21ac0cbd.jpg",
