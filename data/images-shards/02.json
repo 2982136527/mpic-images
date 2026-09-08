@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "346ad301",
+      "filename": "pixiv_149170004_p0.jpg",
+      "path": "uploads/2026/09/c0fdc8aa.jpg",
+      "size": 1866577,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "39234fc11ee236574d6e09a6754b0b3082b644bed3f8ada95edb3243fd41f9ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:56:49.378Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "シュウ",
+      "tags": [
+        "アークナイツ",
+        "シュウ",
+        "シュウ(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149170004_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149170004",
+      "sourceCreatedAt": "2026-09-01T15:51:02.000Z"
+    },
+    {
       "id": "5b4d407e",
       "filename": "pixiv_149322703_p0.jpg",
       "path": "uploads/2026/09/c3069b76.jpg",
