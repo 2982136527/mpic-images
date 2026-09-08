@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "29802038",
+      "filename": "pixiv_149364735_p0.jpg",
+      "path": "uploads/2026/09/8c451089.jpg",
+      "size": 1813868,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "445cb775663b7813cbd6f9d1a79aaa5dfaa236f3cfedb66273cdf7e03c2feb0b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:51:49.321Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "仕事絵",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149364735_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149364735",
+      "sourceCreatedAt": "2026-09-06T14:53:29.000Z"
+    },
+    {
       "id": "0b84cef3",
       "filename": "pixiv_149384776_p0.jpg",
       "path": "uploads/2026/09/df2fb2cc.jpg",
