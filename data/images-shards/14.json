@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "5461a089",
+      "filename": "pixiv_149350676_p0.jpg",
+      "path": "uploads/2026/09/ec0ac723.jpg",
+      "size": 328940,
+      "width": 616,
+      "height": 650,
+      "mimeType": "image/jpeg",
+      "hash": "11d77fcb8a8d9175aad64eb50f96dfd59a4e20572b8bd6547eea1a6f485692a4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:56:18.524Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "落書きまとめ",
+      "tags": [
+        "超かぐや姫!",
+        "ぼっち・ざ・ろっく!",
+        "わたなれ",
+        "落書き"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149350676_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149350676",
+      "sourceCreatedAt": "2026-09-06T10:07:14.000Z"
+    },
+    {
       "id": "c7616ca5",
       "filename": "pixiv_149349059_p0.jpg",
       "path": "uploads/2026/09/3756b491.jpg",
