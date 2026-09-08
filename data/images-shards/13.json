@@ -3,6 +3,32 @@
   "shardId": "13",
   "images": [
     {
+      "id": "a42be237",
+      "filename": "pixiv_149130782_p0.jpg",
+      "path": "uploads/2026/09/470dd835.jpg",
+      "size": 716614,
+      "width": 818,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0245c55d316ba09eed86fce384ce20564cdc374f22ba250586640d57ce28110a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T04:30:18.247Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "8月に描いた落書きまとめ(2026)",
+      "tags": [
+        "東方Project",
+        "東方",
+        "2026落書きまとめ",
+        "落書きまとめ",
+        "東方遊戯兎/鈴仙・優曇華院・イナバ/因幡てゐ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149130782_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149130782",
+      "sourceCreatedAt": "2026-08-31T15:30:55.000Z"
+    },
+    {
       "id": "d470ae92",
       "filename": "pixiv_149278509_p0.jpg",
       "path": "uploads/2026/09/051adfdc.jpg",
