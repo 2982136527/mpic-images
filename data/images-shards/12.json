@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "d5c96ec4",
+      "filename": "pixiv_149322880_p0.jpg",
+      "path": "uploads/2026/09/b12523d3.jpg",
+      "size": 1459358,
+      "width": 758,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "02e7e7f145ff8e484cf31e5bb0d3aeb95bc6512d0c003367cff7538916b3cb6b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T19:26:27.615Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "アークナイツ:エンドフィールド",
+        "明日方舟终末地",
+        "ティフォン(アークナイツ)",
+        "ティフォロス(エンドフィールド)",
+        "ティフォロス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149322880_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149322880",
+      "sourceCreatedAt": "2026-09-05T16:08:42.000Z"
+    },
+    {
       "id": "fa404855",
       "filename": "pixiv_149370546_p0.jpg",
       "path": "uploads/2026/09/a664d096.jpg",
