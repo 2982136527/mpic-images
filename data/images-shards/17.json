@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "672d528d",
+      "filename": "pixiv_149379807_p0.jpg",
+      "path": "uploads/2026/09/fb766805.jpg",
+      "size": 1555042,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "ec6ded640273efac5c12f7cfe1eb8ae881408cf3fcbc425dd5b76fa62a281a6d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:51:07.758Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "残虹",
+      "tags": [
+        "NTE",
+        "残虹"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149379807_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149379807",
+      "sourceCreatedAt": "2026-09-07T02:54:25.000Z"
+    },
+    {
       "id": "c88c7964",
       "filename": "pixiv_149336083_p0.jpg",
       "path": "uploads/2026/09/db97e87b.jpg",
