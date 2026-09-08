@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "acc7ac32",
+      "filename": "pixiv_149389286_p0.jpg",
+      "path": "uploads/2026/09/249fc2ed.jpg",
+      "size": 700607,
+      "width": 871,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c662ef9fa40350567a1bdc9814f7ce71e02234e5499b9d84a7dbd1808f7bce2c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:52:20.987Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "また私の勝ちね！",
+      "tags": [
+        "東方Project",
+        "博麗霊夢",
+        "霧雨魔理沙",
+        "レイマリ",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149389286_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149389286",
+      "sourceCreatedAt": "2026-09-07T09:38:49.000Z"
+    },
+    {
       "id": "1f923c6a",
       "filename": "pixiv_149368448_p0.jpg",
       "path": "uploads/2026/09/0fef56cb.jpg",
