@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "91637a40",
+      "filename": "pixiv_149346988_p0.jpg",
+      "path": "uploads/2026/09/dc783266.jpg",
+      "size": 610331,
+      "width": 831,
+      "height": 468,
+      "mimeType": "image/jpeg",
+      "hash": "970562b8a1e3b19d4fc778e01a7d98f1de9d6a63812dfb5e128a9a2aa9e9b99a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T19:25:52.212Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Sea Glass",
+      "tags": [
+        "白髪",
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149346988_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149346988",
+      "sourceCreatedAt": "2026-09-06T08:44:55.000Z"
+    },
+    {
       "id": "346ad301",
       "filename": "pixiv_149170004_p0.jpg",
       "path": "uploads/2026/09/c0fdc8aa.jpg",
