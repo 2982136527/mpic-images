@@ -3,6 +3,32 @@
   "shardId": "13",
   "images": [
     {
+      "id": "d4a7a2d3",
+      "filename": "pixiv_149320872_p0.jpg",
+      "path": "uploads/2026/09/1f7633d9.jpg",
+      "size": 581874,
+      "width": 869,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8f8d7b74058de95fb92d1d0677bd0c2b48b53a059d8bf53728b70b6a998a34c1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T04:32:41.942Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Untitled",
+      "tags": [
+        "arknights",
+        "anime",
+        "arturia",
+        "virtuosa",
+        "Angel"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149320872_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149320872",
+      "sourceCreatedAt": "2026-09-05T15:16:22.000Z"
+    },
+    {
       "id": "8d2dc5d8",
       "filename": "pixiv_149387299_p0.jpg",
       "path": "uploads/2026/09/84d88ea9.jpg",
