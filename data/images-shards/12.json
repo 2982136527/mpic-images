@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "cd42c253",
+      "filename": "pixiv_149379589_p0.jpg",
+      "path": "uploads/2026/09/766feff6.jpg",
+      "size": 757842,
+      "width": 879,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d81303439917e75cda8d41d550de6247799fbf31840118c3615d262c0f421b70",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T04:32:16.204Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "きょうのわんこ",
+      "tags": [
+        "アズールレーン",
+        "高雄(アズールレーン)",
+        "耳揉み"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149379589_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149379589",
+      "sourceCreatedAt": "2026-09-07T02:42:07.000Z"
+    },
+    {
       "id": "fac3bf09",
       "filename": "pixiv_149370047_p0.jpg",
       "path": "uploads/2026/09/a6b23f8c.jpg",
