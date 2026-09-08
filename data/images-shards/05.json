@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "a255c033",
+      "filename": "pixiv_149365234_p0.jpg",
+      "path": "uploads/2026/09/88a56595.jpg",
+      "size": 530147,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ad11ea0f0e00bc6ab3d58a7fd1585c4fd28814a60b2b94007bd9511262cd9cc4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T19:32:12.733Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "翔鶴",
+      "tags": [
+        "艦隊これくしょん",
+        "艦これ",
+        "翔鶴(艦隊これくしょん)",
+        "夏服翔鶴"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149365234_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149365234",
+      "sourceCreatedAt": "2026-09-06T15:00:21.000Z"
+    },
+    {
       "id": "95696fac",
       "filename": "pixiv_149366173_p0.jpg",
       "path": "uploads/2026/09/c509fa73.jpg",
