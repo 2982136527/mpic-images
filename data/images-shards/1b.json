@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "e0dceda7",
+      "filename": "pixiv_149352440_p0.jpg",
+      "path": "uploads/2026/09/1895bec8.jpg",
+      "size": 960314,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c50a70bafac9c90b22eec9fe85c4a5debb24cabc8be6447a2fd9da38d7348e96",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T04:32:36.407Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "REBORN!!2",
+      "tags": [
+        "忍たま",
+        "超忍FES.39"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149352440_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149352440",
+      "sourceCreatedAt": "2026-09-06T10:51:58.000Z"
+    },
+    {
       "id": "d6924e08",
       "filename": "pixiv_149336305_p0.jpg",
       "path": "uploads/2026/09/a855096a.jpg",
