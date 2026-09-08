@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "e0c37f0d",
+      "filename": "pixiv_149391413_p0.jpg",
+      "path": "uploads/2026/09/ef543fc7.jpg",
+      "size": 1005456,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "699afa3de8943b15e36cc837ac2a3273afed74294885d7799b70e6100bb55242",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:59:03.637Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "部分的に青い落描き",
+      "tags": [
+        "シュヴァルグラン(ウマ娘)",
+        "フォーエバーヤング(ウマ娘)",
+        "ウマ娘プリティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149391413_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149391413",
+      "sourceCreatedAt": "2026-09-07T10:36:05.000Z"
+    },
+    {
       "id": "66251604",
       "filename": "pixiv_149387823_p0.jpg",
       "path": "uploads/2026/09/ef93ef53.jpg",
