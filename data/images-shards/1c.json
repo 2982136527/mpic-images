@@ -3,6 +3,37 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "e13c5dd8",
+      "filename": "pixiv_149365325_p0.jpg",
+      "path": "uploads/2026/09/11a57714.jpg",
+      "size": 430715,
+      "width": 770,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "560f529dfc4f22b114d4db7626476050746958eb46f3d5ebf0fb4e7a1c4d23d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T19:28:15.477Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "アリスとケイ（コミケ限定）",
+      "tags": [
+        "女の子",
+        "少女",
+        "魅惑のふともも",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "ロリ",
+        "勇者",
+        "天童アリス",
+        "ケイ(ブルーアーカイブ)",
+        "天童ケイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149365325_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149365325",
+      "sourceCreatedAt": "2026-09-06T15:00:39.000Z"
+    },
+    {
       "id": "82f207fe",
       "filename": "pixiv_149384783_p0.jpg",
       "path": "uploads/2026/09/b9d9f799.jpg",
