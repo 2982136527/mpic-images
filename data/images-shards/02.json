@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "d5056b86",
+      "filename": "pixiv_149370863_p0.jpg",
+      "path": "uploads/2026/09/227f1625.jpg",
+      "size": 1062091,
+      "width": 745,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8cd89a2842032cc966e666eb6d12bb7f6e57cad26cc5aac84c4ab556887f8e80",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T04:29:11.423Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "丹恒！",
+      "tags": [
+        "崩壊スターレイル",
+        "丹恒"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149370863_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149370863",
+      "sourceCreatedAt": "2026-09-06T17:41:53.000Z"
+    },
+    {
       "id": "5ca20205",
       "filename": "pixiv_149341026_p0.jpg",
       "path": "uploads/2026/09/766e767d.jpg",
