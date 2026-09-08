@@ -3,6 +3,28 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "837464fa",
+      "filename": "pixiv_149384209_p0.jpg",
+      "path": "uploads/2026/09/84c8ad59.jpg",
+      "size": 363643,
+      "width": 1179,
+      "height": 1158,
+      "mimeType": "image/jpeg",
+      "hash": "3dde66ba81ec027347ed949bb1d5d9706129074f0fd113ee9af8ac8f3f4ab822",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T04:31:51.825Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "銀土log",
+      "tags": [
+        "銀土"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149384209_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149384209",
+      "sourceCreatedAt": "2026-09-07T06:22:46.000Z"
+    },
+    {
       "id": "6a9f9374",
       "filename": "pixiv_149333565_p0.jpg",
       "path": "uploads/2026/09/07963ff3.jpg",
