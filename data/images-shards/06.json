@@ -3,6 +3,28 @@
   "shardId": "06",
   "images": [
     {
+      "id": "1838f7ca",
+      "filename": "pixiv_149363177_p0.jpg",
+      "path": "uploads/2026/09/ff86ac05.jpg",
+      "size": 315638,
+      "width": 876,
+      "height": 772,
+      "mimeType": "image/jpeg",
+      "hash": "653d5b56ee48b78c260593d7b5bfd75308b8f441b4b8a5b4deaec175496ec86b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:52:46.337Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "明晰夢",
+      "tags": [
+        "アスカガ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149363177_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149363177",
+      "sourceCreatedAt": "2026-09-06T14:19:35.000Z"
+    },
+    {
       "id": "13589f8d",
       "filename": "pixiv_149380838_p0.jpg",
       "path": "uploads/2026/09/5325cdb6.jpg",
