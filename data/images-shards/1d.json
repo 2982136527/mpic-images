@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "b9a898f0",
+      "filename": "pixiv_149367204_p0.jpg",
+      "path": "uploads/2026/09/9da4ce2e.jpg",
+      "size": 1109719,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "704db949bba3cf0da0c349327689dcbeb731229a1ca8c30b3f058a54a3564043",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:56:11.454Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ごきげんよう！",
+      "tags": [
+        "ポケモン",
+        "ぽこあポケモン",
+        "メタモン",
+        "カイリュー",
+        "なにこの仔かわいい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149367204_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149367204",
+      "sourceCreatedAt": "2026-09-06T15:33:43.000Z"
+    },
+    {
       "id": "7ebfb090",
       "filename": "pixiv_149365105_p0.jpg",
       "path": "uploads/2026/09/045b977e.jpg",
