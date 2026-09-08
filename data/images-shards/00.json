@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "06089d28",
+      "filename": "pixiv_149380699_p0.jpg",
+      "path": "uploads/2026/09/5d9323d8.jpg",
+      "size": 317995,
+      "width": 460,
+      "height": 625,
+      "mimeType": "image/jpeg",
+      "hash": "790c9945a7194ebbc47dcda1becbe408739047f9294ddaecd056a03faf4e4576",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T04:27:02.395Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "敵と遭遇してしまった魔法少女",
+      "tags": [
+        "魔法少女",
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149380699_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149380699",
+      "sourceCreatedAt": "2026-09-07T03:31:26.000Z"
+    },
+    {
       "id": "5a64f560",
       "filename": "pixiv_149120322_p0.jpg",
       "path": "uploads/2026/09/681d9dbd.jpg",
