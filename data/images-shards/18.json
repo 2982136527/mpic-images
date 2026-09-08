@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "13da3636",
+      "filename": "pixiv_149360637_p0.jpg",
+      "path": "uploads/2026/09/5a5a7814.jpg",
+      "size": 667282,
+      "width": 898,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d67a8bc56b3de659ed99da3a682f041b92cb057c25f03efc15e70515b059d087",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T04:27:42.079Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "フレネミー百合ちゃん",
+      "tags": [
+        "落書き",
+        "百合",
+        "フレネミー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149360637_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149360637",
+      "sourceCreatedAt": "2026-09-06T13:27:50.000Z"
+    },
+    {
       "id": "e5025689",
       "filename": "pixiv_149365445_p0.jpg",
       "path": "uploads/2026/09/5e2183ba.jpg",
