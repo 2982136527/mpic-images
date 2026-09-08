@@ -3,6 +3,32 @@
   "shardId": "17",
   "images": [
     {
+      "id": "07c091b8",
+      "filename": "pixiv_149337329_p0.jpg",
+      "path": "uploads/2026/09/eedce071.jpg",
+      "size": 262012,
+      "width": 720,
+      "height": 720,
+      "mimeType": "image/jpeg",
+      "hash": "752013e11d0e32ee904cd34909c3c05123e4148546d3e4ff9b96fa2e134003cc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:55:01.128Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "ブルアカ",
+        "블루아카이브",
+        "鬼怒川カスミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149337329_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149337329",
+      "sourceCreatedAt": "2026-09-06T03:34:33.000Z"
+    },
+    {
       "id": "f4014028",
       "filename": "pixiv_149363794_p0.jpg",
       "path": "uploads/2026/09/e06552b5.jpg",
