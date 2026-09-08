@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "a6d700c6",
+      "filename": "pixiv_149192626_p0.jpg",
+      "path": "uploads/2026/09/7dc24011.jpg",
+      "size": 698189,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f15a80b8bb247bf889fdf59485dc5238fea10540c166ee16223e3d740b87a42b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T19:30:06.462Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "フレネミー",
+      "tags": [
+        "女の子",
+        "いらすとや",
+        "フレネミー",
+        "フレネミー百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149192626_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149192626",
+      "sourceCreatedAt": "2026-09-02T10:23:50.000Z"
+    },
+    {
       "id": "170d3304",
       "filename": "pixiv_149169966_p0.jpg",
       "path": "uploads/2026/09/051ddddb.jpg",
