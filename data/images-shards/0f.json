@@ -3,6 +3,32 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "3aef8e51",
+      "filename": "pixiv_149337325_p0.jpg",
+      "path": "uploads/2026/09/114eb266.jpg",
+      "size": 569992,
+      "width": 590,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ceab07ebf4dcf3885ead7a310b4590a2b3a1cbd5dd58bd0b5da4ae2e60ecf911",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:53:23.237Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "블루아카이브",
+        "ブルアカ",
+        "桜井ミヨ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149337325_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149337325",
+      "sourceCreatedAt": "2026-09-06T03:34:11.000Z"
+    },
+    {
       "id": "3c4b7a5b",
       "filename": "pixiv_149329370_p0.jpg",
       "path": "uploads/2026/09/5a54e419.jpg",
