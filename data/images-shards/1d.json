@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "7ebfb090",
+      "filename": "pixiv_149365105_p0.jpg",
+      "path": "uploads/2026/09/045b977e.jpg",
+      "size": 715824,
+      "width": 862,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dca06819b2fe262d2ea6df2312da64c0f3a6f1c06f378d7170d2496d9d694c30",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T04:29:58.685Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "わすれもの。",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149365105_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149365105",
+      "sourceCreatedAt": "2026-09-06T15:00:05.000Z"
+    },
+    {
       "id": "77a47221",
       "filename": "pixiv_149350546_p0.jpg",
       "path": "uploads/2026/09/28ab93ab.jpg",
