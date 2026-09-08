@@ -3,6 +3,37 @@
   "shardId": "01",
   "images": [
     {
+      "id": "9f023dc5",
+      "filename": "pixiv_149330811_p0.jpg",
+      "path": "uploads/2026/09/f34bdab0.jpg",
+      "size": 1304644,
+      "width": 1200,
+      "height": 858,
+      "mimeType": "image/jpeg",
+      "hash": "22ba3c8e12711cea297efb6261493ea6e2a58246dc5756a324e0e1930115d23f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:54:46.743Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "4人で踏み出す一歩",
+      "tags": [
+        "名探偵プリキュア!",
+        "キュアアンサー",
+        "キュアミスティック",
+        "キュアエクレール",
+        "キュアアルカナ",
+        "precure",
+        "ポチタン",
+        "シュシュタン",
+        "マシュタン",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149330811_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149330811",
+      "sourceCreatedAt": "2026-09-05T23:12:11.000Z"
+    },
+    {
       "id": "f741a39e",
       "filename": "pixiv_149348637_p0.jpg",
       "path": "uploads/2026/09/84778efa.jpg",
