@@ -3,6 +3,34 @@
   "shardId": "01",
   "images": [
     {
+      "id": "f741a39e",
+      "filename": "pixiv_149348637_p0.jpg",
+      "path": "uploads/2026/09/84778efa.jpg",
+      "size": 1188368,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7497500c2df9fb65a93dcad402d3848e69f8483bd9b182f30227f036a86d24a3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:53:52.472Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "リンとレミエールと瞬光",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "レミエール・ダン",
+        "リン(ゼンゼロ)",
+        "葉瞬光",
+        "レミリン",
+        "キャプションも本編",
+        "君は生き延びることができるか?"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149348637_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149348637",
+      "sourceCreatedAt": "2026-09-06T09:19:45.000Z"
+    },
+    {
       "id": "22ea0f30",
       "filename": "pixiv_149335785_p0.jpg",
       "path": "uploads/2026/09/622f04a2.jpg",
