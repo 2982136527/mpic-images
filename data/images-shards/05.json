@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "9556083f",
+      "filename": "pixiv_149371095_p0.jpg",
+      "path": "uploads/2026/09/f92ae66e.jpg",
+      "size": 857695,
+      "width": 1200,
+      "height": 1049,
+      "mimeType": "image/jpeg",
+      "hash": "8ae81cef74891e3d303c59f3317b8df52a333f3a6a7c1d26571ba5285004b1b2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:55:47.454Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "동섕돈",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "ドンキホーテ(LCB)",
+        "돈키호테"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149371095_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149371095",
+      "sourceCreatedAt": "2026-09-06T17:55:02.000Z"
+    },
+    {
       "id": "ff7a9149",
       "filename": "pixiv_149361819_p0.jpg",
       "path": "uploads/2026/09/f6094d0f.jpg",
