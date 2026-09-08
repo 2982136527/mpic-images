@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "f364fa1b",
+      "filename": "pixiv_149333454_p0.jpg",
+      "path": "uploads/2026/09/88978059.jpg",
+      "size": 328900,
+      "width": 600,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "e9dc9b19deb9b232ed8e61c5d096697941da3697dffce39602e58979047bf195",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:50:13.402Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "おだんご",
+      "tags": [
+        "ポケモン",
+        "カフェライチュウ",
+        "おだんご",
+        "やはり偏るアンケート",
+        "みたらしだんご",
+        "ライチュウの扱いに定評のあるカフェ",
+        "でれれれれれれーん",
+        "ライチュウも楽しそうですね",
+        "おだんごヘアー",
+        "ちがう、そうじゃない"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149333454_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149333454",
+      "sourceCreatedAt": "2026-09-06T01:14:22.000Z"
+    },
+    {
       "id": "3fe4ca56",
       "filename": "pixiv_149360884_p0.jpg",
       "path": "uploads/2026/09/190b1357.jpg",
