@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "48179129",
+      "filename": "pixiv_149322145_p0.jpg",
+      "path": "uploads/2026/09/7a8bb878.jpg",
+      "size": 965841,
+      "width": 761,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ae4315af329b16468abe4c31b3d6afeb3ce4a8505fb853a71b3cd39def869bac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:50:58.045Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "二階堂ヒロ",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "二階堂ヒロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149322145_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149322145",
+      "sourceCreatedAt": "2026-09-05T15:47:32.000Z"
+    },
+    {
       "id": "837464fa",
       "filename": "pixiv_149384209_p0.jpg",
       "path": "uploads/2026/09/84c8ad59.jpg",
