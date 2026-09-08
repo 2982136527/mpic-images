@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "3fe4ca56",
+      "filename": "pixiv_149360884_p0.jpg",
+      "path": "uploads/2026/09/190b1357.jpg",
+      "size": 693583,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "413386a0d64b2ab6543b565d814f3173da492466d72e9946323ff2552d31d3f9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T04:29:41.113Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "神所创造的世界，并非完美",
+      "tags": [
+        "我修院",
+        "淳平",
+        "德川",
+        "奶龙"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149360884_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149360884",
+      "sourceCreatedAt": "2026-09-06T13:31:38.000Z"
+    },
+    {
       "id": "442afb1c",
       "filename": "pixiv_149369046_p0.jpg",
       "path": "uploads/2026/09/bd9d6cb2.jpg",
