@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "6ad446fd",
+      "filename": "pixiv_149342791_p0.jpg",
+      "path": "uploads/2026/09/d697bf0c.jpg",
+      "size": 311104,
+      "width": 1200,
+      "height": 983,
+      "mimeType": "image/jpeg",
+      "hash": "b340ce3d86b2acdbc6e5a5446d6af7c9ea4cc54130df6daa1c78993bc7c4eb76",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T19:33:13.630Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "SWまとめ",
+      "tags": [
+        "STARWARS",
+        "マンダロリアン",
+        "クローンウォーズ",
+        "ゼロカンパニー",
+        "STARWARS100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149342791_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149342791",
+      "sourceCreatedAt": "2026-09-06T06:40:27.000Z"
+    },
+    {
       "id": "e13c5dd8",
       "filename": "pixiv_149365325_p0.jpg",
       "path": "uploads/2026/09/11a57714.jpg",
