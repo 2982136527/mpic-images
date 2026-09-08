@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "db27dcb7",
+      "filename": "pixiv_149173048_p0.jpg",
+      "path": "uploads/2026/09/044654cc.jpg",
+      "size": 1058221,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2dd5bed6f2f6ec997e398cb0169532518f2ad3ab3a5ab676a07cb3fcdaf6abe8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:57:21.130Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ほむさやほむ",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "ワルプルギスの廻天",
+        "ほむさや",
+        "まどか☆マギカ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149173048_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149173048",
+      "sourceCreatedAt": "2026-09-01T17:55:55.000Z"
+    },
+    {
       "id": "3712bd3b",
       "filename": "pixiv_149295395_p0.jpg",
       "path": "uploads/2026/09/12cfeba6.jpg",
