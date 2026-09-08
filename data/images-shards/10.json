@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "442afb1c",
+      "filename": "pixiv_149369046_p0.jpg",
+      "path": "uploads/2026/09/bd9d6cb2.jpg",
+      "size": 807623,
+      "width": 879,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3f9b235d6a42bd20cad0f86aba212e9c359468dff3e9a49049cc89ac380f9a7d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T04:29:17.306Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "デュエル・マスターズ",
+        "一音の妖精"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149369046_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149369046",
+      "sourceCreatedAt": "2026-09-06T16:28:57.000Z"
+    },
+    {
       "id": "f9f47331",
       "filename": "pixiv_149350717_p0.jpg",
       "path": "uploads/2026/09/b2d17801.jpg",
