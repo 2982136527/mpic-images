@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "29b7b20b",
+      "filename": "pixiv_149374822_p0.jpg",
+      "path": "uploads/2026/09/81805e8f.jpg",
+      "size": 651645,
+      "width": 956,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "951ac2ff2e2b843d1efdad781024493288b5a1d3cffea8df71a5a33ce5b62b57",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T19:27:44.982Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "サニーミルク",
+        "東方",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149374822_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149374822",
+      "sourceCreatedAt": "2026-09-06T22:02:43.000Z"
+    },
+    {
       "id": "9f023dc5",
       "filename": "pixiv_149330811_p0.jpg",
       "path": "uploads/2026/09/f34bdab0.jpg",
