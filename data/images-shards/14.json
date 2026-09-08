@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "35eedffb",
+      "filename": "pixiv_149365225_p0.jpg",
+      "path": "uploads/2026/09/76c62ea7.jpg",
+      "size": 327910,
+      "width": 1200,
+      "height": 889,
+      "mimeType": "image/jpeg",
+      "hash": "70cf7cd00f694b024c00dcd02f19320e7583ce717e2c5c6f516ce3ed8cf602c0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T19:27:52.855Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "OPlog",
+      "tags": [
+        "くいゾロ",
+        "ルゾロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149365225_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149365225",
+      "sourceCreatedAt": "2026-09-06T15:00:19.000Z"
+    },
+    {
       "id": "ee92f86d",
       "filename": "pixiv_149343290_p0.jpg",
       "path": "uploads/2026/09/a0c7e9af.jpg",
