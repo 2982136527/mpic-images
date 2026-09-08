@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "c64ad527",
+      "filename": "pixiv_149372561_p0.jpg",
+      "path": "uploads/2026/09/0942588b.jpg",
+      "size": 889333,
+      "width": 830,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "76206a6a379d150b2cf29cb440ee7119f9c098ed664ceee032e8440c41f12835",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:50:23.843Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ほちかわちゃん",
+      "tags": [
+        "星川サラ",
+        "にじさんじ",
+        "バーチャルYouTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149372561_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149372561",
+      "sourceCreatedAt": "2026-09-06T19:35:00.000Z"
+    },
+    {
       "id": "e0dceda7",
       "filename": "pixiv_149352440_p0.jpg",
       "path": "uploads/2026/09/1895bec8.jpg",
