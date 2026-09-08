@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "f9f47331",
+      "filename": "pixiv_149350717_p0.jpg",
+      "path": "uploads/2026/09/b2d17801.jpg",
+      "size": 210751,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "6c542a4dfe9e74247dcaaa443857b85a175ba6af8fb8ebae528e94205ea53367",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T04:29:00.048Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "水イロ魂",
+      "tags": [
+        "ブルーアーカイブ",
+        "棗イロハ",
+        "丹花イブキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149350717_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149350717",
+      "sourceCreatedAt": "2026-09-06T10:08:05.000Z"
+    },
+    {
       "id": "68adfd83",
       "filename": "pixiv_149320654_p0.jpg",
       "path": "uploads/2026/09/b21491a3.jpg",
