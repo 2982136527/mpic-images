@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "dad66ee4",
+      "filename": "pixiv_149324820_p0.jpg",
+      "path": "uploads/2026/09/74adfe79.jpg",
+      "size": 430315,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b487859a0c13b54bff3c6c66274bcb58fe4adf1b122b18284edf7212619ea144",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:54:25.211Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カルト教団の御神体",
+      "tags": [
+        "漫画",
+        "ニンゲン",
+        "怪異"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149324820_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149324820",
+      "sourceCreatedAt": "2026-09-05T17:14:57.000Z"
+    },
+    {
       "id": "184290f1",
       "filename": "pixiv_149390400_p0.jpg",
       "path": "uploads/2026/09/593bc7ad.jpg",
