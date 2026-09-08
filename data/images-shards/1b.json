@@ -3,6 +3,28 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "e8429b4e",
+      "filename": "pixiv_149327707_p0.jpg",
+      "path": "uploads/2026/09/731e278f.jpg",
+      "size": 655988,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "336be256001c018d75299a42d1969ad21722133a83599a34ecb35b3a8f302413",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T19:33:06.045Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "甚直まとめ2",
+      "tags": [
+        "甚直"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149327707_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149327707",
+      "sourceCreatedAt": "2026-09-05T19:57:10.000Z"
+    },
+    {
       "id": "04637e2e",
       "filename": "pixiv_149170250_p0.jpg",
       "path": "uploads/2026/09/4a36e8c6.jpg",
