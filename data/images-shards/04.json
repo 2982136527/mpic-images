@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "03be7413",
+      "filename": "pixiv_149365241_p0.jpg",
+      "path": "uploads/2026/09/275f85d7.jpg",
+      "size": 1492429,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "bd9ab3698ef7270610508b67327177fd5f1ad6c3a604e1dcb68d4118ea4071fa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T04:24:06.573Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "君を辿る軌跡",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "鹿目まどか",
+        "暁美ほむら",
+        "まどか☆マギカ5000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149365241_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149365241",
+      "sourceCreatedAt": "2026-09-06T15:00:22.000Z"
+    },
+    {
       "id": "b38b2dd3",
       "filename": "pixiv_149318092_p0.jpg",
       "path": "uploads/2026/09/c5841254.jpg",
