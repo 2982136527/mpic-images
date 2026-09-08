@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "d431294d",
+      "filename": "pixiv_149183285_p0.jpg",
+      "path": "uploads/2026/09/e735f39c.jpg",
+      "size": 1037351,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "73e16eea5944541061006e6efc515ca4bd445835879a0a312c3d530157584df3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:57:39.620Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "amanecer",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149183285_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149183285",
+      "sourceCreatedAt": "2026-09-02T04:10:33.000Z"
+    },
+    {
       "id": "ca2e08e3",
       "filename": "pixiv_149357182_p0.jpg",
       "path": "uploads/2026/09/218c2007.jpg",
