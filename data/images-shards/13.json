@@ -3,6 +3,33 @@
   "shardId": "13",
   "images": [
     {
+      "id": "9424af4b",
+      "filename": "pixiv_149353749_p0.jpg",
+      "path": "uploads/2026/09/9dde1685.jpg",
+      "size": 1356139,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "28b14ece57b89aacc5950e6916700940b6c0af1b1b3071800b6efe4277fd17d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T12:53:00.186Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "メノとウインディ",
+      "tags": [
+        "フェノーメノ(ウマ娘)",
+        "シンコウウインディ(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "ゆけゆけ、きらぼし調査隊!",
+        "ガブガブ☆スキャンプ",
+        "剛毅なる紫焔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149353749_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149353749",
+      "sourceCreatedAt": "2026-09-06T11:16:03.000Z"
+    },
+    {
       "id": "d4a7a2d3",
       "filename": "pixiv_149320872_p0.jpg",
       "path": "uploads/2026/09/1f7633d9.jpg",
