@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "823fb8bb",
+      "filename": "pixiv_149390155_p0.jpg",
+      "path": "uploads/2026/09/87352b60.jpg",
+      "size": 938417,
+      "width": 962,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "63d48bc5e27766d8a3dda9b60b0cc9b65ed0f770faa0d88c9ae17c8cd57387c1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T19:26:10.465Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "不安定な魔法少女",
+      "tags": [
+        "女の子",
+        "イラスト",
+        "オリジナル",
+        "オリジナルキャラクター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149390155_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149390155",
+      "sourceCreatedAt": "2026-09-07T10:02:10.000Z"
+    },
+    {
       "id": "80453496",
       "filename": "pixiv_149362864_p0.jpg",
       "path": "uploads/2026/09/31962786.jpg",
