@@ -3,6 +3,33 @@
   "shardId": "12",
   "images": [
     {
+      "id": "63549716",
+      "filename": "pixiv_149355618_p0.jpg",
+      "path": "uploads/2026/09/ed0069bf.jpg",
+      "size": 737062,
+      "width": 707,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "2daa74ffacf101362a827e04fd99df10b96899bdf439b56b68933af083c5e4af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T19:29:22.096Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "妖夢",
+      "tags": [
+        "東方",
+        "魂魄妖夢",
+        "東方Project",
+        "半人半霊の庭師",
+        "東方妖々夢",
+        "イケみょん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149355618_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149355618",
+      "sourceCreatedAt": "2026-09-06T11:57:29.000Z"
+    },
+    {
       "id": "d5c96ec4",
       "filename": "pixiv_149322880_p0.jpg",
       "path": "uploads/2026/09/b12523d3.jpg",
