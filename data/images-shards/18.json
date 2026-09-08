@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "d178a105",
+      "filename": "pixiv_149367860_p0.jpg",
+      "path": "uploads/2026/09/34922574.jpg",
+      "size": 833131,
+      "width": 798,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b5e22903eda6a480d6dc68aef126049df2b3c4c3f668607dcb7ec5be762d32a5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-08T04:25:02.715Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "こいし",
+      "tags": [
+        "東方",
+        "古明地こいし",
+        "東方地霊殿"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149367860_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149367860",
+      "sourceCreatedAt": "2026-09-06T15:52:56.000Z"
+    },
+    {
       "id": "f294f109",
       "filename": "pixiv_149317892_p0.jpg",
       "path": "uploads/2026/09/ea5a0a15.jpg",
