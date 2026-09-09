@@ -3,6 +3,35 @@
   "shardId": "05",
   "images": [
     {
+      "id": "d9e5aece",
+      "filename": "pixiv_149418337_p0.jpg",
+      "path": "uploads/2026/09/9ef9f6a4.jpg",
+      "size": 1349265,
+      "width": 1200,
+      "height": 864,
+      "mimeType": "image/jpeg",
+      "hash": "e8a21b5cf7dd9ea199460401b0169a334783a9ac39aad41f7612d49656309d90",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T13:00:15.330Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "鬼滅いろいろ",
+      "tags": [
+        "鬼滅の刃",
+        "煉獄杏寿郎",
+        "甘露寺蜜璃",
+        "胡蝶しのぶ",
+        "富岡義勇",
+        "宇随天元",
+        "伊黒小芭内",
+        "鬼滅の刃100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149418337_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149418337",
+      "sourceCreatedAt": "2026-09-08T03:19:54.000Z"
+    },
+    {
       "id": "8dae341f",
       "filename": "pixiv_149416983_p0.jpg",
       "path": "uploads/2026/09/59058e78.jpg",
