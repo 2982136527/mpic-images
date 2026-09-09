@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "db5d6e1b",
+      "filename": "pixiv_149384966_p0.jpg",
+      "path": "uploads/2026/09/1e9a175b.jpg",
+      "size": 979949,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "96873edda08cfea7fdcd627766c8c9bb8fb9162527b8c53fb6e2efecc3240968",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:31:59.400Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Summer Beach",
+      "tags": [
+        "白丝",
+        "水着",
+        "ビキニ",
+        "原创"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149384966_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149384966",
+      "sourceCreatedAt": "2026-09-07T07:02:46.000Z"
+    },
+    {
       "id": "185d87f9",
       "filename": "pixiv_149365934_p0.jpg",
       "path": "uploads/2026/09/b17cd0d1.jpg",
