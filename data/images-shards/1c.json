@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "6ec630e7",
+      "filename": "pixiv_149437647_p0.jpg",
+      "path": "uploads/2026/09/d6936604.jpg",
+      "size": 564984,
+      "width": 757,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "18ac28fab091b1cb4ab7daeb7534f4db149d072d2fd4cf2d4b6a17f917147e21",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T19:14:50.902Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Trigle",
+      "tags": [
+        "迷迭香",
+        "阿米娅",
+        "凯尔希",
+        "明日方舟",
+        "アーミヤ(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149437647_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149437647",
+      "sourceCreatedAt": "2026-09-08T14:22:33.000Z"
+    },
+    {
       "id": "d411e55f",
       "filename": "pixiv_149403071_p0.jpg",
       "path": "uploads/2026/09/82841731.jpg",
