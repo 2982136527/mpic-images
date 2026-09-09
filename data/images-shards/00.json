@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "9600c39c",
+      "filename": "pixiv_149422399_p0.jpg",
+      "path": "uploads/2026/09/7ae52078.jpg",
+      "size": 795638,
+      "width": 873,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b0f0ddf9f1ceed6b0ec3311d3de578de539f9f958c345a8a1cebc5d9ae46846f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T19:15:29.031Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "クレヨンしんちゃん",
+      "tags": [
+        "女の子",
+        "クレヨンしんちゃん",
+        "girl",
+        "少女",
+        "イラスト",
+        "酢乙女あい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149422399_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149422399",
+      "sourceCreatedAt": "2026-09-08T06:46:54.000Z"
+    },
+    {
       "id": "d60682d3",
       "filename": "pixiv_149431982_p0.jpg",
       "path": "uploads/2026/09/3f227e91.jpg",
