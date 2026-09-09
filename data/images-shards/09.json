@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "02d74b5d",
+      "filename": "pixiv_149381217_p0.jpg",
+      "path": "uploads/2026/09/afcaf5ef.jpg",
+      "size": 1188051,
+      "width": 831,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "56748ae933ab7c65d9ac1c56ebce8cc47794ffa6a99a56472e87bafb2b184bda",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:32:45.306Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "💙hinata",
+      "tags": [
+        "girl",
+        "xg",
+        "hinata"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149381217_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149381217",
+      "sourceCreatedAt": "2026-09-07T03:56:33.000Z"
+    },
+    {
       "id": "313244b9",
       "filename": "pixiv_149382848_p0.jpg",
       "path": "uploads/2026/09/347aa7cd.jpg",
