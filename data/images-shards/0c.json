@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "c7a30b6c",
+      "filename": "pixiv_149421342_p0.jpg",
+      "path": "uploads/2026/09/7aad92e4.jpg",
+      "size": 492597,
+      "width": 875,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "495b4917db3b0fe6dd745aaaf2f7da474ac2bb8e24249efb5c21aae9ed1977d6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:34:59.315Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Skebご依頼",
+      "tags": [
+        "skeb依頼絵",
+        "commission"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149421342_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149421342",
+      "sourceCreatedAt": "2026-09-08T05:54:51.000Z"
+    },
+    {
       "id": "db5d6e1b",
       "filename": "pixiv_149384966_p0.jpg",
       "path": "uploads/2026/09/1e9a175b.jpg",
