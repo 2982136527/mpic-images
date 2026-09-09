@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "3cf4fce4",
+      "filename": "pixiv_149419328_p0.jpg",
+      "path": "uploads/2026/09/8fcc5683.jpg",
+      "size": 677894,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "0e9db4dc8f529720563e74a71c2937ca75547200f8810b1713e88f8dc9a77761",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T19:19:41.674Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "熱異常",
+      "tags": [
+        "VOCALOID",
+        "足立レイ",
+        "熱異常"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149419328_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149419328",
+      "sourceCreatedAt": "2026-09-08T04:05:55.000Z"
+    },
+    {
       "id": "8cf48e1c",
       "filename": "pixiv_149431008_p0.jpg",
       "path": "uploads/2026/09/db6dbeb4.jpg",
