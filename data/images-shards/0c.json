@@ -3,6 +3,35 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "a149d85e",
+      "filename": "pixiv_149250176_p0.jpg",
+      "path": "uploads/2026/09/89b6c239.jpg",
+      "size": 1317460,
+      "width": 987,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aa029462c9a709c77b6d3a4da47a43b74a9fede1948140b3effc10c58e71958c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T13:03:36.039Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "海牛押船",
+      "tags": [
+        "海",
+        "船舶",
+        "ジュゴン",
+        "ウーパールーパー",
+        "海牛",
+        "タグボート",
+        "巨大生物",
+        "有害超獣"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149250176_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149250176",
+      "sourceCreatedAt": "2026-09-03T22:10:03.000Z"
+    },
+    {
       "id": "0b442f67",
       "filename": "pixiv_149439396_p0.jpg",
       "path": "uploads/2026/09/cb98d089.jpg",
