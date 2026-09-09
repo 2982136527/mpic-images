@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "6f7d761f",
+      "filename": "pixiv_149418552_p0.jpg",
+      "path": "uploads/2026/09/38e5b6f2.jpg",
+      "size": 922585,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2fd7bab2c5b2f4c41e0ad8fa075487f316ad3ba0a2d2d46c51a804a8e1e771b1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T12:57:37.188Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "Birds"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149418552_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149418552",
+      "sourceCreatedAt": "2026-09-08T03:27:15.000Z"
+    },
+    {
       "id": "64948a96",
       "filename": "pixiv_149405808_p0.jpg",
       "path": "uploads/2026/09/f5dc14d6.jpg",
