@@ -3,6 +3,35 @@
   "shardId": "13",
   "images": [
     {
+      "id": "3f5f53db",
+      "filename": "pixiv_149435774_p0.jpg",
+      "path": "uploads/2026/09/4b6f9c75.jpg",
+      "size": 794245,
+      "width": 642,
+      "height": 1065,
+      "mimeType": "image/jpeg",
+      "hash": "feb820d0f0b981dd4b9a487649f84ed07ed6f99cd68aaf87e009b0f9ac27699b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:37:45.656Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カナリィちゃん",
+      "tags": [
+        "ポケモン",
+        "ポケットモンスター",
+        "pokemon",
+        "ポケモン人間絵",
+        "カナリィ",
+        "シビルドン",
+        "Canari",
+        "LEGENDSZ-A"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149435774_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149435774",
+      "sourceCreatedAt": "2026-09-08T13:14:15.000Z"
+    },
+    {
       "id": "b3d1ddf9",
       "filename": "pixiv_149383656_p0.jpg",
       "path": "uploads/2026/09/9689a880.jpg",
