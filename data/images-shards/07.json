@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "1de3baae",
+      "filename": "pixiv_149418519_p0.jpg",
+      "path": "uploads/2026/09/75f03d31.jpg",
+      "size": 424610,
+      "width": 1087,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9fb6cefa334d0299162438b844fc10ecaa53f75f6d00c79af1b0f30808f46f72",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:34:28.441Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "仕事絵",
+      "tags": [
+        "commission",
+        "仕事絵",
+        "男の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149418519_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149418519",
+      "sourceCreatedAt": "2026-09-08T03:25:43.000Z"
+    },
+    {
       "id": "24194586",
       "filename": "pixiv_149369541_p0.jpg",
       "path": "uploads/2026/09/d08a17c9.jpg",
