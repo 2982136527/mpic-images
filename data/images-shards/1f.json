@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "1acf4daf",
+      "filename": "pixiv_149428360_p0.jpg",
+      "path": "uploads/2026/09/150edea9.jpg",
+      "size": 887358,
+      "width": 747,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "19863d0df61790db8c9951c14b87c55baf561b3cf34f8a8b604e74381206b8f3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:32:26.583Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "電車はいつもマスターの腕に",
+      "tags": [
+        "初音ミク",
+        "電車内",
+        "これはいい初音",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149428360_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149428360",
+      "sourceCreatedAt": "2026-09-08T10:23:11.000Z"
+    },
+    {
       "id": "ff1eefde",
       "filename": "pixiv_149376729_p0.jpg",
       "path": "uploads/2026/09/f3300599.jpg",
