@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "657bb26f",
+      "filename": "pixiv_149430715_p0.jpg",
+      "path": "uploads/2026/09/52658a7c.jpg",
+      "size": 663369,
+      "width": 895,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6ba2ea66c0bfac3c69a043ba3dd61875ea7d3b828785e57f508aec3f9c8e6dc1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T12:55:30.677Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "まどろみの薬師",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149430715_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149430715",
+      "sourceCreatedAt": "2026-09-08T11:22:15.000Z"
+    },
+    {
       "id": "bb26a26f",
       "filename": "pixiv_149418079_p0.jpg",
       "path": "uploads/2026/09/38e844cd.jpg",
