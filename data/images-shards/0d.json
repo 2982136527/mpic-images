@@ -3,6 +3,37 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "34344639",
+      "filename": "pixiv_149200506_p0.jpg",
+      "path": "uploads/2026/09/768c6e55.jpg",
+      "size": 760721,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "98462a8e0d7ff0ff192e9133937bea16fa61e309b2bdddb355de0ab4df133c27",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T13:04:13.723Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "きめつちいログ",
+      "tags": [
+        "鬼滅の刃",
+        "ちいかわ",
+        "童磨",
+        "猗窩座",
+        "セイレーン",
+        "クロスオーバー",
+        "ちいかわ500users入り",
+        "鬼滅の刃1000users入り",
+        "鬼滅のちいかわ",
+        "心の無い化物と化物の奇跡のコラボ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149200506_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149200506",
+      "sourceCreatedAt": "2026-09-02T13:18:57.000Z"
+    },
+    {
       "id": "8ee6da96",
       "filename": "pixiv_149379849_p0.jpg",
       "path": "uploads/2026/09/3d8ad16b.jpg",
