@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "deca193e",
+      "filename": "pixiv_149422105_p0.jpg",
+      "path": "uploads/2026/09/7aef2d15.jpg",
+      "size": 805089,
+      "width": 1200,
+      "height": 821,
+      "mimeType": "image/jpeg",
+      "hash": "e177f4a04df06fa869ab293ff89d2e99575617bf0790fdcb57e665f40ccfb65a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T19:15:21.921Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "cms",
+      "tags": [
+        "オリジナル",
+        "委托",
+        "仕事絵",
+        "commission",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149422105_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149422105",
+      "sourceCreatedAt": "2026-09-08T06:31:28.000Z"
+    },
+    {
       "id": "236dbee8",
       "filename": "pixiv_149412070_p0.jpg",
       "path": "uploads/2026/09/ea290856.jpg",
