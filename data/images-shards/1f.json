@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "4dccea02",
+      "filename": "pixiv_149396873_p0.jpg",
+      "path": "uploads/2026/09/e30f43c6.jpg",
+      "size": 955599,
+      "width": 870,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "608e8b47dd195068d5c47384dbaa21f5bc64e2d8bdaca82ec69ba1d0b625f1e4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:29:35.442Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "『 正しくないもの』",
+      "tags": [
+        "まのさば",
+        "二階堂ヒロ",
+        "魔法少女ノ魔女裁判"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149396873_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149396873",
+      "sourceCreatedAt": "2026-09-07T12:32:47.000Z"
+    },
+    {
       "id": "d431294d",
       "filename": "pixiv_149183285_p0.jpg",
       "path": "uploads/2026/09/e735f39c.jpg",
