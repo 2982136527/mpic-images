@@ -3,6 +3,33 @@
   "shardId": "04",
   "images": [
     {
+      "id": "5fc4d45b",
+      "filename": "pixiv_149421379_p0.jpg",
+      "path": "uploads/2026/09/4d12bb33.jpg",
+      "size": 1335697,
+      "width": 725,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "609464bfcc3956a99324d6dba38ff7141d0ca45c411f39ab06954abe0a8d088f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T13:03:01.047Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ミント",
+      "tags": [
+        "女の子",
+        "明日方舟",
+        "Arknights",
+        "アークナイツ",
+        "薄绿",
+        "ミント(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149421379_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149421379",
+      "sourceCreatedAt": "2026-09-08T05:56:30.000Z"
+    },
+    {
       "id": "6f7d761f",
       "filename": "pixiv_149418552_p0.jpg",
       "path": "uploads/2026/09/38e5b6f2.jpg",
