@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "c4786ad6",
+      "filename": "pixiv_149401142_p0.jpg",
+      "path": "uploads/2026/09/3e5f608b.jpg",
+      "size": 354846,
+      "width": 1195,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3ac9cac6b4844b0e56450a4ed0af97422fb9fe0cbd6eba66de90362724c3ac24",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T19:17:57.689Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「先約があるの」",
+      "tags": [
+        "トリッシュ",
+        "暗殺チーム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149401142_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149401142",
+      "sourceCreatedAt": "2026-09-07T14:04:47.000Z"
+    },
+    {
       "id": "d131b1bd",
       "filename": "pixiv_149378681_p0.jpg",
       "path": "uploads/2026/09/cb19040b.jpg",
