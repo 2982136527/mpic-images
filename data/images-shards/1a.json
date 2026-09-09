@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "3d31d864",
+      "filename": "pixiv_149372324_p0.jpg",
+      "path": "uploads/2026/09/e8a770ba.jpg",
+      "size": 1018873,
+      "width": 1028,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "50f3f23a89262ad9d514ac47bad818fbbb4b8538524f73bbcac65e3971f1bbd6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:32:11.545Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "유횡",
+      "tags": [
+        "ProjectMoon",
+        "Limbus_Company",
+        "リンバスカンパニー",
+        "림버스컴퍼니",
+        "유리",
+        "유횡"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149372324_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149372324",
+      "sourceCreatedAt": "2026-09-06T19:16:47.000Z"
+    },
+    {
       "id": "c379bbfb",
       "filename": "pixiv_149398610_p0.jpg",
       "path": "uploads/2026/09/7dc94ae7.jpg",
