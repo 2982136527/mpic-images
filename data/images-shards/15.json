@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "f1fae583",
+      "filename": "pixiv_149392747_p0.jpg",
+      "path": "uploads/2026/09/a94c770c.jpg",
+      "size": 1003586,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6dce973be46b079296f6acfb7e766f997c91d37fa128b08fa1c7e9654aaa43d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T19:15:42.319Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ゴルメノちゃん",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ゴールドシップ(ウマ娘)",
+        "フェノーメノ(ウマ娘)",
+        "ゴルメノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149392747_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149392747",
+      "sourceCreatedAt": "2026-09-07T11:05:28.000Z"
+    },
+    {
       "id": "a9af6c1c",
       "filename": "pixiv_149212977_p0.jpg",
       "path": "uploads/2026/09/4e7329ef.jpg",
