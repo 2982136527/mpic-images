@@ -3,6 +3,28 @@
   "shardId": "04",
   "images": [
     {
+      "id": "10405631",
+      "filename": "pixiv_149413054_p0.jpg",
+      "path": "uploads/2026/09/17183094.jpg",
+      "size": 1806583,
+      "width": 927,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2b27a5cbd71b8266fbcdd0587c5b6f874faf39e458074736651b303ec15efd7b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:34:03.122Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "華枕",
+      "tags": [
+        "CARNELIAN"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149413054_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149413054",
+      "sourceCreatedAt": "2026-09-07T22:05:01.000Z"
+    },
+    {
       "id": "857c4237",
       "filename": "pixiv_149411522_p0.jpg",
       "path": "uploads/2026/09/8282ba22.jpg",
