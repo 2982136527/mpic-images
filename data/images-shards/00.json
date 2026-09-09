@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "aaa75734",
+      "filename": "pixiv_149369242_p0.jpg",
+      "path": "uploads/2026/09/63ee8ba4.jpg",
+      "size": 868290,
+      "width": 755,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "69f21dffd55f608004609fbfa634f2fc3f70547496eb5b4f72217351cb2e6d54",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:30:23.321Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "commission",
+      "tags": [
+        "女の子",
+        "角娘",
+        "尻尾"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149369242_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149369242",
+      "sourceCreatedAt": "2026-09-06T16:35:20.000Z"
+    },
+    {
       "id": "de4a45e1",
       "filename": "pixiv_149403782_p0.jpg",
       "path": "uploads/2026/09/40060832.jpg",
