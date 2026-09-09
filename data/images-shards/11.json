@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "2d23dde8",
+      "filename": "pixiv_149402818_p0.jpg",
+      "path": "uploads/2026/09/bc1cf294.jpg",
+      "size": 597467,
+      "width": 781,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d8b52b5acc1091e29a49ba50a09984256990eb87af474e7bff5fd79cbc4b636e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:33:22.781Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "KAITO",
+      "tags": [
+        "KAITO",
+        "プロジェクトセカイ",
+        "プロセカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149402818_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149402818",
+      "sourceCreatedAt": "2026-09-07T14:42:50.000Z"
+    },
+    {
       "id": "2887781c",
       "filename": "pixiv_149319688_p0.jpg",
       "path": "uploads/2026/09/488f1903.jpg",
