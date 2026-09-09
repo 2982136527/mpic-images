@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "84676cf8",
+      "filename": "pixiv_149390143_p0.jpg",
+      "path": "uploads/2026/09/d60d2b70.jpg",
+      "size": 942483,
+      "width": 843,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "58e084273a1ea592712ac41849f0840e19f5aeeca048d59c7e0b2c34c1844448",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:34:09.898Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ホシノ",
+      "tags": [
+        "ブルーアーカイブ",
+        "小鳥遊ホシノ",
+        "黒タイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149390143_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149390143",
+      "sourceCreatedAt": "2026-09-07T10:01:59.000Z"
+    },
+    {
       "id": "2258bbcd",
       "filename": "pixiv_149399857_p0.jpg",
       "path": "uploads/2026/09/37a042dc.jpg",
