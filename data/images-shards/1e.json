@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "279317de",
+      "filename": "pixiv_149368932_p0.jpg",
+      "path": "uploads/2026/09/4adbb4ca.jpg",
+      "size": 353135,
+      "width": 800,
+      "height": 1120,
+      "mimeType": "image/jpeg",
+      "hash": "b70d5fbb33175da1ca3d3d1a0adfe62e8ea0317c34fe405dea0eba529b48ec15",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T19:13:43.846Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "FGOログ⑪",
+      "tags": [
+        "FGO",
+        "ボイジャー(Fate)",
+        "アーサー・ペンドラゴン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149368932_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149368932",
+      "sourceCreatedAt": "2026-09-06T16:24:52.000Z"
+    },
+    {
       "id": "e03991c0",
       "filename": "pixiv_149404710_p0.jpg",
       "path": "uploads/2026/09/99d922fc.jpg",
