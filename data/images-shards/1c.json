@@ -3,6 +3,33 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "2cbfd1ad",
+      "filename": "pixiv_149427269_p0.jpg",
+      "path": "uploads/2026/09/df2caa1d.jpg",
+      "size": 667583,
+      "width": 1200,
+      "height": 777,
+      "mimeType": "image/jpeg",
+      "hash": "c600f233cc2cdbdd82d8eed81600794a4072243865f2c8374414d0dc9c249a16",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T12:57:27.145Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "れいまり",
+      "tags": [
+        "イラスト",
+        "東方",
+        "東方Project",
+        "博麗霊夢",
+        "霧雨魔理沙",
+        "映画館"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149427269_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149427269",
+      "sourceCreatedAt": "2026-09-08T09:54:19.000Z"
+    },
+    {
       "id": "3ba0f185",
       "filename": "pixiv_149424211_p0.jpg",
       "path": "uploads/2026/09/5fd83c81.jpg",
