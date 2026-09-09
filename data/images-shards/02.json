@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "021588cd",
+      "filename": "pixiv_149399729_p0.jpg",
+      "path": "uploads/2026/09/70039216.jpg",
+      "size": 917797,
+      "width": 703,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f645679b2c5d2062e238a9f43ad29ee5bc09be867ab7c64cc12742ecb5b26110",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T19:21:59.606Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "fox",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "狐坂ワカモ",
+        "BlueArchive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149399729_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149399729",
+      "sourceCreatedAt": "2026-09-07T13:32:20.000Z"
+    },
+    {
       "id": "8886083d",
       "filename": "pixiv_149411370_p0.jpg",
       "path": "uploads/2026/09/4a658a80.jpg",
