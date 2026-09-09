@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "b9a61b7f",
+      "filename": "pixiv_149428242_p0.jpg",
+      "path": "uploads/2026/09/020aea9b.jpg",
+      "size": 872319,
+      "width": 875,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c53f7d92986237004ba4083e4dfadf55e2e7d9bfe6b8ebc68d937ae1d8bed56e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:32:32.705Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "それじゃあ入れていきますね",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "セーラー服",
+        "耳掻き"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149428242_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149428242",
+      "sourceCreatedAt": "2026-09-08T10:19:23.000Z"
+    },
+    {
       "id": "628111af",
       "filename": "pixiv_149415316_p0.jpg",
       "path": "uploads/2026/09/20648fd6.jpg",
