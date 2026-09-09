@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "8dae341f",
+      "filename": "pixiv_149416983_p0.jpg",
+      "path": "uploads/2026/09/59058e78.jpg",
+      "size": 1371583,
+      "width": 854,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3c83b3fbcbfc05f0c7e6141e6107f834f52f139714f776a94b566f35dead43f5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T12:58:55.143Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "アーチ",
+      "tags": [
+        "オリジナル",
+        "ファンタジー",
+        "風景",
+        "加藤オズワルド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149416983_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149416983",
+      "sourceCreatedAt": "2026-09-08T02:09:53.000Z"
+    },
+    {
       "id": "e4489b4e",
       "filename": "pixiv_149378000_p0.jpg",
       "path": "uploads/2026/09/d001afea.jpg",
