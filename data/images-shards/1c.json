@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "d411e55f",
+      "filename": "pixiv_149403071_p0.jpg",
+      "path": "uploads/2026/09/82841731.jpg",
+      "size": 182352,
+      "width": 723,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "94194f27159f98163f691d3b56ccabf17ae2b9ba7fc2cc051dcaaa7267a470d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T19:13:50.373Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ごみを見る目",
+      "tags": [
+        "The_Amazing_Digital_Circus",
+        "Pomni"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149403071_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149403071",
+      "sourceCreatedAt": "2026-09-07T14:48:20.000Z"
+    },
+    {
       "id": "a1674d2e",
       "filename": "pixiv_149428092_p0.jpg",
       "path": "uploads/2026/09/43275302.jpg",
