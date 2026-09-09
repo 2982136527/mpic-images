@@ -3,6 +3,37 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "ff1eefde",
+      "filename": "pixiv_149376729_p0.jpg",
+      "path": "uploads/2026/09/f3300599.jpg",
+      "size": 808056,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09dd9086b84c250cfb2a789b705d96c33fb4362d6688a151f1a12818a77add0a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:31:53.392Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "メイドアリスです！！",
+      "tags": [
+        "ブルーアーカイブ",
+        "天童アリス",
+        "天童アリス(メイド)",
+        "ブルアカ",
+        "BlueArchive",
+        "アリス",
+        "ゲーム開発部",
+        "メイド服",
+        "メイド",
+        "白亜の予告状"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149376729_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149376729",
+      "sourceCreatedAt": "2026-09-06T23:47:12.000Z"
+    },
+    {
       "id": "4dccea02",
       "filename": "pixiv_149396873_p0.jpg",
       "path": "uploads/2026/09/e30f43c6.jpg",
