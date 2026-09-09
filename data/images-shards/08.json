@@ -3,6 +3,28 @@
   "shardId": "08",
   "images": [
     {
+      "id": "8e8a729f",
+      "filename": "pixiv_149389527_p0.jpg",
+      "path": "uploads/2026/09/3a719cd5.jpg",
+      "size": 794273,
+      "width": 1200,
+      "height": 720,
+      "mimeType": "image/jpeg",
+      "hash": "3b74385d350987540970e02befcde2098682b7bdd035dd009963d8b350bde155",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T19:16:55.638Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "追い風",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149389527_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149389527",
+      "sourceCreatedAt": "2026-09-07T09:46:50.000Z"
+    },
+    {
       "id": "e2cf1f1f",
       "filename": "pixiv_149391097_p0.jpg",
       "path": "uploads/2026/09/17045b77.jpg",
