@@ -3,6 +3,35 @@
   "shardId": "03",
   "images": [
     {
+      "id": "4cda6cf1",
+      "filename": "pixiv_149403627_p0.jpg",
+      "path": "uploads/2026/09/23ba341d.jpg",
+      "size": 722392,
+      "width": 698,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "eadbc3fe2ab9c191dcd136080c3fa0f3ff6695c9e15dfd5deaadd33d921d9bfd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T19:22:46.714Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ミヤコ",
+      "tags": [
+        "美少女",
+        "少女",
+        "女の子",
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "月雪ミヤコ",
+        "ミヤコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149403627_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149403627",
+      "sourceCreatedAt": "2026-09-07T15:00:01.000Z"
+    },
+    {
       "id": "75132674",
       "filename": "pixiv_149424728_p0.jpg",
       "path": "uploads/2026/09/06103420.jpg",
