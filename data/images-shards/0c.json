@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "4da91d57",
+      "filename": "pixiv_149405647_p0.jpg",
+      "path": "uploads/2026/09/8719262d.jpg",
+      "size": 473046,
+      "width": 942,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d3d28aab8955598c86e18df1da48e4a178d4a6d702c760df3da0c6e07f36e451",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T12:57:19.707Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "マリーちゃん",
+      "tags": [
+        "ブルーアーカイブ",
+        "伊落マリー",
+        "サンダル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149405647_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149405647",
+      "sourceCreatedAt": "2026-09-07T15:35:03.000Z"
+    },
+    {
       "id": "45f7ae6c",
       "filename": "pixiv_149428043_p0.jpg",
       "path": "uploads/2026/09/53126bbe.jpg",
