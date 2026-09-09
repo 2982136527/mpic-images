@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "628111af",
+      "filename": "pixiv_149415316_p0.jpg",
+      "path": "uploads/2026/09/20648fd6.jpg",
+      "size": 520273,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "93d8e6c1fdde54c863a403db98540253b8c28defdc1077b69748ca677567340d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:32:05.479Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "あぐらのポーズを描きたい人へ",
+      "tags": [
+        "描き方",
+        "コツ",
+        "ハウツー",
+        "ノウハウ",
+        "講座",
+        "上達法"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149415316_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149415316",
+      "sourceCreatedAt": "2026-09-08T00:29:17.000Z"
+    },
+    {
       "id": "aaa75734",
       "filename": "pixiv_149369242_p0.jpg",
       "path": "uploads/2026/09/63ee8ba4.jpg",
