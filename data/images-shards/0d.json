@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "d61f347f",
+      "filename": "pixiv_149406147_p0.jpg",
+      "path": "uploads/2026/09/e747fc15.jpg",
+      "size": 1351224,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "63ead9d4c893866e35aac4f2995c9897405626fccff9c9724200bfa52cd67881",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T19:14:23.584Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "ホシクイ",
+        "瓶詰め"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149406147_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149406147",
+      "sourceCreatedAt": "2026-09-07T15:47:32.000Z"
+    },
+    {
       "id": "34344639",
       "filename": "pixiv_149200506_p0.jpg",
       "path": "uploads/2026/09/768c6e55.jpg",
