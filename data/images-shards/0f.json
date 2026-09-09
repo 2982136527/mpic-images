@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "270c7320",
+      "filename": "pixiv_149408573_p0.jpg",
+      "path": "uploads/2026/09/21be687b.jpg",
+      "size": 778475,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f853053b9e90d3da5da89045a88207d942b3fbc8208b263c2fb35a4ff61ca479",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T19:22:24.386Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "グランアレグリア",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "グランアレグリア(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149408573_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149408573",
+      "sourceCreatedAt": "2026-09-07T17:15:16.000Z"
+    },
+    {
       "id": "88201e93",
       "filename": "pixiv_149388327_p0.jpg",
       "path": "uploads/2026/09/bf695a6c.jpg",
