@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "a9af6c1c",
+      "filename": "pixiv_149212977_p0.jpg",
+      "path": "uploads/2026/09/4e7329ef.jpg",
+      "size": 666829,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b854575b55091bf83c031dd9fb4214ff72c4684c80daa3eb528e6a1138b7fbaa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T13:03:52.246Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "推し！",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "まのさば",
+        "まのさば二次創作",
+        "ココエマ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149212977_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149212977",
+      "sourceCreatedAt": "2026-09-02T21:06:11.000Z"
+    },
+    {
       "id": "7ef7f266",
       "filename": "pixiv_149395010_p0.jpg",
       "path": "uploads/2026/09/b54a9e7a.jpg",
