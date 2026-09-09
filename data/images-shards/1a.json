@@ -3,6 +3,28 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "4c4e65a0",
+      "filename": "pixiv_149378674_p0.jpg",
+      "path": "uploads/2026/09/ce40c7ef.jpg",
+      "size": 865454,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0df3408b40941a042c31b53a5bf3456eace921c8f4f23484f7b2f902f34695ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T13:01:41.496Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "3397 - 蓝 / Blue",
+      "tags": [
+        "jrpencil"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149378674_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149378674",
+      "sourceCreatedAt": "2026-09-07T01:49:18.000Z"
+    },
+    {
       "id": "4755513d",
       "filename": "pixiv_149417357_p0.jpg",
       "path": "uploads/2026/09/6e8d87d4.jpg",
