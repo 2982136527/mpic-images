@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "20943352",
+      "filename": "pixiv_149403767_p0.jpg",
+      "path": "uploads/2026/09/22479229.jpg",
+      "size": 878279,
+      "width": 1200,
+      "height": 584,
+      "mimeType": "image/jpeg",
+      "hash": "1c4bf6203fc484c5351dc237daa1d8000e30d24831353da233220a5457ec294c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:29:29.612Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "心露の空",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "風景",
+        "空"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149403767_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149403767",
+      "sourceCreatedAt": "2026-09-07T15:00:21.000Z"
+    },
+    {
       "id": "5bbe3559",
       "filename": "pixiv_149347089_p0.jpg",
       "path": "uploads/2026/09/7dd432d2.jpg",
