@@ -3,6 +3,35 @@
   "shardId": "05",
   "images": [
     {
+      "id": "e4489b4e",
+      "filename": "pixiv_149378000_p0.jpg",
+      "path": "uploads/2026/09/d001afea.jpg",
+      "size": 591405,
+      "width": 1200,
+      "height": 881,
+      "mimeType": "image/jpeg",
+      "hash": "c08bc1167b2ab3cdb3e03984c358d1829c880392b09cd6bb73d3752a2a5abc1d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T12:58:45.389Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Awo!",
+      "tags": [
+        "명일방주",
+        "アークナイツ",
+        "명일방주엔드필드",
+        "ロッシ(エンドフィールド)",
+        "endfield",
+        "アークナイツ:エンドフィールド",
+        "ロッシーナ・ウルフパール・ルピーノ",
+        "犬かき"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149378000_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149378000",
+      "sourceCreatedAt": "2026-09-07T01:05:31.000Z"
+    },
+    {
       "id": "66e26b4e",
       "filename": "pixiv_149408651_p0.jpg",
       "path": "uploads/2026/09/fbce551e.jpg",
