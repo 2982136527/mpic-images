@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "e2cf1f1f",
+      "filename": "pixiv_149391097_p0.jpg",
+      "path": "uploads/2026/09/17045b77.jpg",
+      "size": 450759,
+      "width": 771,
+      "height": 771,
+      "mimeType": "image/jpeg",
+      "hash": "85681b9c4b99ba4fcf74a73e81508855dc5f03f4c6ad3f191111216d0966abeb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T12:59:54.205Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "創作男子まとめ3",
+      "tags": [
+        "創作",
+        "男子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149391097_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149391097",
+      "sourceCreatedAt": "2026-09-07T10:31:18.000Z"
+    },
+    {
       "id": "7ec52344",
       "filename": "pixiv_149425016_p0.jpg",
       "path": "uploads/2026/09/bc221517.jpg",
