@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "75132674",
+      "filename": "pixiv_149424728_p0.jpg",
+      "path": "uploads/2026/09/06103420.jpg",
+      "size": 1259024,
+      "width": 1200,
+      "height": 785,
+      "mimeType": "image/jpeg",
+      "hash": "846dd5c8e55f2578d0f6b739849795598b9666d2061eb8ab990942e20db47713",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T19:18:33.283Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "双子の王",
+      "tags": [
+        "アークナイツ",
+        "arknights",
+        "テレジア(アークナイツ)",
+        "テレシス(アークナイツ)",
+        "明日方舟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149424728_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149424728",
+      "sourceCreatedAt": "2026-09-08T08:33:47.000Z"
+    },
+    {
       "id": "b18823cb",
       "filename": "pixiv_149412639_p0.jpg",
       "path": "uploads/2026/09/7b7cd373.jpg",
