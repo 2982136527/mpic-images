@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "d909b9d5",
+      "filename": "pixiv_149394316_p0.jpg",
+      "path": "uploads/2026/09/bf9cd95a.jpg",
+      "size": 744025,
+      "width": 832,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "13b80734171e84e190f9d976901c2686279a668f78026850afb26c67f1c1f897",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:38:06.922Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "夏イベの戦利品",
+      "tags": [
+        "艦これ",
+        "艦隊これくしょん",
+        "空母ヲ級",
+        "深海棲艦"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149394316_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149394316",
+      "sourceCreatedAt": "2026-09-07T11:43:43.000Z"
+    },
+    {
       "id": "9372a711",
       "filename": "pixiv_149366078_p0.jpg",
       "path": "uploads/2026/09/49f3db83.jpg",
