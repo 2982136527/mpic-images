@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "286b48d7",
+      "filename": "pixiv_149408871_p0.jpg",
+      "path": "uploads/2026/09/7b03df92.jpg",
+      "size": 1654835,
+      "width": 838,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d818bdd4339bb5713712fe4877413fe7858c44f51fa4ecca9fcaff75ce90cd86",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:30:05.092Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "風景",
+        "背景",
+        "アナログ",
+        "オリジナル",
+        "風景画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149408871_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149408871",
+      "sourceCreatedAt": "2026-09-07T17:30:24.000Z"
+    },
+    {
       "id": "49433b27",
       "filename": "pixiv_149405410_p0.jpg",
       "path": "uploads/2026/09/c6711e53.jpg",
