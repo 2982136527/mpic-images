@@ -3,6 +3,37 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "c379bbfb",
+      "filename": "pixiv_149398610_p0.jpg",
+      "path": "uploads/2026/09/7dc94ae7.jpg",
+      "size": 389737,
+      "width": 993,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "cc6ec469ffab87eb3e2e03cc9642295bda0d64d26500cd571079c31fddf03759",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-09T04:31:47.218Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "クリーチャー #3",
+      "tags": [
+        "手術着",
+        "クリーチャー",
+        "オリジナルクリーチャー",
+        "ショベルカー",
+        "重機",
+        "アーム",
+        "医療器具",
+        "医者",
+        "ケーブル",
+        "電工設備"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149398610_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149398610",
+      "sourceCreatedAt": "2026-09-07T13:07:39.000Z"
+    },
+    {
       "id": "cc8044bf",
       "filename": "pixiv_149343758_p0.jpg",
       "path": "uploads/2026/09/546b7563.jpg",
