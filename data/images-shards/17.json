@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "a05e6613",
+      "filename": "pixiv_149467557_p0.jpg",
+      "path": "uploads/2026/09/6430f9df.jpg",
+      "size": 1098905,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f0927d169b09d49cd31658e545e0ac02659b2f677906017d3a84f203ae337283",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T19:14:07.477Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "憂い（ウイ）",
+      "tags": [
+        "Trickcal",
+        "トリッカル",
+        "트릭컬",
+        "ウイ(トリッカル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149467557_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149467557",
+      "sourceCreatedAt": "2026-09-09T11:15:31.000Z"
+    },
+    {
       "id": "c153de45",
       "filename": "pixiv_149437357_p0.jpg",
       "path": "uploads/2026/09/1cce967e.jpg",
