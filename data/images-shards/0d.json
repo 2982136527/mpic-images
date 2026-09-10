@@ -3,6 +3,28 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "3be0f1c4",
+      "filename": "pixiv_149439376_p0.jpg",
+      "path": "uploads/2026/09/23d563ae.jpg",
+      "size": 1691234,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1d36d7156ddf656108c9ec0765155afe49ccfcf8ec90a74c34a0c08ad57ef1be",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:27:45.698Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "烤仓鼠",
+      "tags": [
+        "Neet仓鼠鼠"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149439376_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149439376",
+      "sourceCreatedAt": "2026-09-08T14:37:21.000Z"
+    },
+    {
       "id": "35a2a779",
       "filename": "pixiv_149388443_p0.jpg",
       "path": "uploads/2026/09/6bba59e7.jpg",
