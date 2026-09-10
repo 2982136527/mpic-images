@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "f82413c8",
+      "filename": "pixiv_149449478_p0.jpg",
+      "path": "uploads/2026/09/deb44e71.jpg",
+      "size": 1102353,
+      "width": 769,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6b62b3687f84eaad1597246cddbcdc01f50ff4c6a549f571635264686c148811",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T12:55:11.285Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "イブキ",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "丹花イブキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149449478_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149449478",
+      "sourceCreatedAt": "2026-09-08T21:56:07.000Z"
+    },
+    {
       "id": "b8ec72d6",
       "filename": "pixiv_149403719_p0.jpg",
       "path": "uploads/2026/09/51e04729.jpg",
