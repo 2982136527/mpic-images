@@ -3,6 +3,37 @@
   "shardId": "18",
   "images": [
     {
+      "id": "1d26a5e1",
+      "filename": "pixiv_149465906_p0.jpg",
+      "path": "uploads/2026/09/510cee8d.jpg",
+      "size": 297020,
+      "width": 725,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b1ae6f2e10b73c51f6eaf34cefc71431b05d396e8a24d9f17ceef7b4f037a17a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:36:05.495Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "メイド",
+      "tags": [
+        "女の子",
+        "メイド",
+        "メイド服",
+        "イラスト",
+        "マンハッタンカフェ(ウマ娘)",
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "100日チャレンジ",
+        "美少女",
+        "可愛い"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149465906_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149465906",
+      "sourceCreatedAt": "2026-09-09T10:36:29.000Z"
+    },
+    {
       "id": "3b2f068e",
       "filename": "pixiv_149387901_p0.jpg",
       "path": "uploads/2026/09/7f193f08.jpg",
