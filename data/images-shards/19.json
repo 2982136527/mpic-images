@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "ebae91cf",
+      "filename": "pixiv_149415667_p0.jpg",
+      "path": "uploads/2026/09/537bc1b6.jpg",
+      "size": 317153,
+      "width": 1200,
+      "height": 881,
+      "mimeType": "image/jpeg",
+      "hash": "3cc125fa852f942b34a98839a396086ead58f6ceabc6effe9c4c285fcb6b39c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T12:55:56.832Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "휴식타임",
+      "tags": [
+        "트릭컬",
+        "SD",
+        "Trickcal",
+        "アイシア(トリッカル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149415667_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149415667",
+      "sourceCreatedAt": "2026-09-08T00:53:46.000Z"
+    },
+    {
       "id": "2e4f0ae3",
       "filename": "pixiv_149470645_p0.jpg",
       "path": "uploads/2026/09/e1951755.jpg",
