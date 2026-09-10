@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "c45a2bda",
+      "filename": "pixiv_149459818_p0.jpg",
+      "path": "uploads/2026/09/f66021d5.jpg",
+      "size": 1238735,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "30b92aaf8bf8832d18cf6d4d2fd52709232f462d0e96a3f43c474116dc61aa60",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T12:57:32.456Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "東方project",
+        "チルノ",
+        "ドロワーズ",
+        "ドロチラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149459818_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149459818",
+      "sourceCreatedAt": "2026-09-09T07:16:56.000Z"
+    },
+    {
       "id": "d6db5d2c",
       "filename": "pixiv_149433470_p0.jpg",
       "path": "uploads/2026/09/69ecdcf7.jpg",
