@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "440c61e9",
+      "filename": "pixiv_149434621_p0.jpg",
+      "path": "uploads/2026/09/2f581ded.jpg",
+      "size": 1282951,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8361d31dec36b5dd8de3d40190ce6e05a1ff96b161a661d17cb02c6100e28091",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:31:54.364Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Arona X Plana",
+      "tags": [
+        "BlueArchive",
+        "アロナ(ブルーアーカイブ)",
+        "プラナ(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149434621_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149434621",
+      "sourceCreatedAt": "2026-09-08T12:51:00.000Z"
+    },
+    {
       "id": "021d9b36",
       "filename": "pixiv_149474350_p0.jpg",
       "path": "uploads/2026/09/9d5d63c5.jpg",
