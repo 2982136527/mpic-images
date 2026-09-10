@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "acd639dd",
+      "filename": "pixiv_149447610_p0.jpg",
+      "path": "uploads/2026/09/6b208b0f.jpg",
+      "size": 263067,
+      "width": 890,
+      "height": 931,
+      "mimeType": "image/jpeg",
+      "hash": "3256899284c1435a5b1dce0507e523096a8093edc368d2534dded4f5e71f44b5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T19:09:10.623Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Recent tweets",
+      "tags": [
+        "rickandmorty",
+        "Rick&morty",
+        "リックアンドモーティ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149447610_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149447610",
+      "sourceCreatedAt": "2026-09-08T19:46:12.000Z"
+    },
+    {
       "id": "1202bc37",
       "filename": "pixiv_149458122_p0.jpg",
       "path": "uploads/2026/09/597f5223.jpg",
