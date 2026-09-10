@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "278c782b",
+      "filename": "pixiv_149464035_p0.jpg",
+      "path": "uploads/2026/09/659b1fd6.jpg",
+      "size": 536107,
+      "width": 1125,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "203acb56cfa3263058a329e8369b41b0ed8d9d5cb03709e21a32f428c36f77f3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:30:46.254Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ビビミク",
+      "tags": [
+        "落書き",
+        "プロセカ",
+        "プロジェクトセカイ",
+        "ビビミク",
+        "濡れ透け"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149464035_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149464035",
+      "sourceCreatedAt": "2026-09-09T09:45:13.000Z"
+    },
+    {
       "id": "0a3f4fab",
       "filename": "pixiv_149440738_p0.jpg",
       "path": "uploads/2026/09/f70e4690.jpg",
