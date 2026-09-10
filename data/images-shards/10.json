@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "3579b0ad",
+      "filename": "pixiv_149464102_p0.jpg",
+      "path": "uploads/2026/09/c87d02aa.jpg",
+      "size": 727043,
+      "width": 965,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4ec7dd2b55f399d7391670c45ac30e58111a2f794b700775e3f3c199ff84ca36",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:32:20.371Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "✘💻",
+      "tags": [
+        "プロセカ",
+        "プロジェクトセカイ",
+        "バツミク",
+        "ニーゴミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149464102_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149464102",
+      "sourceCreatedAt": "2026-09-09T09:47:49.000Z"
+    },
+    {
       "id": "e8811925",
       "filename": "pixiv_149381039_p0.jpg",
       "path": "uploads/2026/09/9abf581b.jpg",
