@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "6515c771",
+      "filename": "pixiv_149266142_p0.jpg",
+      "path": "uploads/2026/09/5f1c5f28.jpg",
+      "size": 1499689,
+      "width": 1200,
+      "height": 837,
+      "mimeType": "image/jpeg",
+      "hash": "8478f0f1361510ab1ef311fedd25b874149d8a4415728075f621953844b17766",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T12:58:38.307Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "MIKU",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "VOCALOID500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149266142_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149266142",
+      "sourceCreatedAt": "2026-09-04T10:33:29.000Z"
+    },
+    {
       "id": "7c97e8c4",
       "filename": "pixiv_149434188_p0.jpg",
       "path": "uploads/2026/09/802f894d.jpg",
