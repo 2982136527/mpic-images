@@ -3,6 +3,32 @@
   "shardId": "06",
   "images": [
     {
+      "id": "32cafd27",
+      "filename": "pixiv_149447719_p0.jpg",
+      "path": "uploads/2026/09/d1a23ef4.jpg",
+      "size": 371460,
+      "width": 1101,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a977ec78e29cc7fbfb25855655758a41fd30caeffb62dcac2cd4dd5a00106678",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:32:09.054Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "假面骑士",
+        "仮面ライダー",
+        "女体化",
+        "ライダー少女",
+        "仮面ライダーマイス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149447719_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149447719",
+      "sourceCreatedAt": "2026-09-08T19:55:15.000Z"
+    },
+    {
       "id": "ffc41002",
       "filename": "pixiv_149431990_p0.jpg",
       "path": "uploads/2026/09/94cb5a9b.jpg",
