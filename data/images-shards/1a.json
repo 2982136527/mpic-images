@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "3f80c6b1",
+      "filename": "pixiv_149435619_p0.jpg",
+      "path": "uploads/2026/09/393791a5.jpg",
+      "size": 544434,
+      "width": 984,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "eca96cbc58512b0820ea7fe1b3c07efdec4939aa712ad4511a2f5cef4fed8ed9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T19:11:04.407Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Lueur Angélique",
+      "tags": [
+        "ヴィクトワールピサ(ウマ娘)",
+        "ウマ娘",
+        "ウマ娘プリティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149435619_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149435619",
+      "sourceCreatedAt": "2026-09-08T13:10:43.000Z"
+    },
+    {
       "id": "c45a2bda",
       "filename": "pixiv_149459818_p0.jpg",
       "path": "uploads/2026/09/f66021d5.jpg",
