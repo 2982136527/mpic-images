@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "72316cf3",
+      "filename": "pixiv_149447525_p0.jpg",
+      "path": "uploads/2026/09/c99d4eb8.jpg",
+      "size": 196713,
+      "width": 300,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14de5cdec961cc887f51cdaf48db3bd54dbeae0ae35a6cb7fee4d29de5cd5f28",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T12:57:48.578Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Grandfather paradox3",
+      "tags": [
+        "rickandmorty",
+        "Rick&morty",
+        "リックアンドモーティ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149447525_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149447525",
+      "sourceCreatedAt": "2026-09-08T19:39:10.000Z"
+    },
+    {
       "id": "c49572b4",
       "filename": "pixiv_149467733_p0.jpg",
       "path": "uploads/2026/09/701bd469.jpg",
