@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "d0c15665",
+      "filename": "pixiv_149433191_p0.jpg",
+      "path": "uploads/2026/09/235b0d94.jpg",
+      "size": 581517,
+      "width": 595,
+      "height": 842,
+      "mimeType": "image/jpeg",
+      "hash": "2d8433a3bc9ba9282c41bdef8e9ab512263d0aca61193d56108113d617b3ac41",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:30:51.947Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "zzz-log",
+      "tags": [
+        "百合",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149433191_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149433191",
+      "sourceCreatedAt": "2026-09-08T12:19:21.000Z"
+    },
+    {
       "id": "f959a5b4",
       "filename": "pixiv_149441882_p0.jpg",
       "path": "uploads/2026/09/ac29b04e.jpg",
