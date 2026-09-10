@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "cd53f31c",
+      "filename": "pixiv_149439430_p0.jpg",
+      "path": "uploads/2026/09/6ffa3724.jpg",
+      "size": 1309742,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "43f3e36b7b1c5595070f9a973d34204d2db83be9e947392c7d898b366e096840",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:27:51.555Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Hermes",
+      "tags": [
+        "戦艦少女",
+        "战舰少女",
+        "ハーミーズ(戦艦少女)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149439430_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149439430",
+      "sourceCreatedAt": "2026-09-08T14:39:03.000Z"
+    },
+    {
       "id": "99a9d0b3",
       "filename": "pixiv_149423099_p0.jpg",
       "path": "uploads/2026/09/8458344b.jpg",
