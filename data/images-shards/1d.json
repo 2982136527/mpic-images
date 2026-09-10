@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "8e5e161e",
+      "filename": "pixiv_149455270_p0.jpg",
+      "path": "uploads/2026/09/d938dc41.jpg",
+      "size": 787163,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b8edcc5ac7b065b2bdb85e73090e7e8197d8f6b445b299cb5596a5f7aa8830d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:28:27.270Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "20260908",
+      "tags": [
+        "丹花イブキ",
+        "ブルーアーカイブ",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149455270_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149455270",
+      "sourceCreatedAt": "2026-09-09T03:23:04.000Z"
+    },
+    {
       "id": "3c315027",
       "filename": "pixiv_149469729_p0.jpg",
       "path": "uploads/2026/09/28f573cd.jpg",
