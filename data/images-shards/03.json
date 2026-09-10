@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "021d9b36",
+      "filename": "pixiv_149474350_p0.jpg",
+      "path": "uploads/2026/09/9d5d63c5.jpg",
+      "size": 598816,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ff2d588d8eb7373f5ccb0069d36f21b4c84b0e288265166b4cb2fcb88ca6807c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:31:16.696Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "学園アイドルマスター",
+        "倉本千奈",
+        "篠澤広"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149474350_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149474350",
+      "sourceCreatedAt": "2026-09-09T13:35:39.000Z"
+    },
+    {
       "id": "4cda6cf1",
       "filename": "pixiv_149403627_p0.jpg",
       "path": "uploads/2026/09/23ba341d.jpg",
