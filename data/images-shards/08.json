@@ -3,6 +3,28 @@
   "shardId": "08",
   "images": [
     {
+      "id": "f9c4b79b",
+      "filename": "pixiv_149425021_p0.jpg",
+      "path": "uploads/2026/09/293466c8.jpg",
+      "size": 1330181,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f1a4710532ebb2d74257782568f37467a3b2cd4456c0948cd33ebb1a0bad61e2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:32:56.252Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Big dinner",
+      "tags": [
+        "original"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149425021_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149425021",
+      "sourceCreatedAt": "2026-09-08T08:46:05.000Z"
+    },
+    {
       "id": "cef22098",
       "filename": "pixiv_149409273_p0.jpg",
       "path": "uploads/2026/09/a4d5767c.jpg",
