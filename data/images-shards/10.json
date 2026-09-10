@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "b10fc895",
+      "filename": "pixiv_149463742_p0.jpg",
+      "path": "uploads/2026/09/58cb4de8.jpg",
+      "size": 1480150,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b22c8fcfac10606ae23795ad892e856600d33bad2d03d98709f409f817b09052",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T12:56:38.348Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "DAY2",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ヴォジャニーツァ",
+        "原神100users入り",
+        "水中"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149463742_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149463742",
+      "sourceCreatedAt": "2026-09-09T09:36:30.000Z"
+    },
+    {
       "id": "3579b0ad",
       "filename": "pixiv_149464102_p0.jpg",
       "path": "uploads/2026/09/c87d02aa.jpg",
