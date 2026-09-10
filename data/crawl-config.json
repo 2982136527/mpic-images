@@ -136,10 +136,10 @@
   "lastRunAt": "2026-09-10T13:01:50.150Z",
   "continuation": {
     "lastScheduledAt": "2026-09-10T12:52:17.407Z",
-    "lastStatus": "scheduled",
-    "lastDetail": "GitHub Actions run started enabled=true enabledSources=9 force=false windowMs=480000",
+    "lastStatus": "accepted",
+    "lastDetail": "GitHub Actions run finished batches=1 fetched=53 duplicates=82 errors=0 reason=time_budget_reached",
     "lastAttemptAt": "2026-09-10T12:52:17.407Z",
-    "lastAcceptedAt": "2026-09-09T19:23:32.927Z",
+    "lastAcceptedAt": "2026-09-10T13:01:51.640Z",
     "lastUrl": "https://github.com/2982136527/mpic/actions/runs/34479167690"
   }
 }
