@@ -3,6 +3,33 @@
   "shardId": "05",
   "images": [
     {
+      "id": "20dc59ac",
+      "filename": "pixiv_149434949_p0.jpg",
+      "path": "uploads/2026/09/7198d015.jpg",
+      "size": 723589,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "149d0ed1a49fbb88cbdb61a59b88fa548375dc150c36bb78235e2571f905eba7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:30:18.905Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Angels All Around Me…",
+      "tags": [
+        "チェンソーマン",
+        "chainsawman",
+        "鏈鋸人",
+        "天使の悪魔",
+        "天使",
+        "少年"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149434949_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149434949",
+      "sourceCreatedAt": "2026-09-08T12:59:02.000Z"
+    },
+    {
       "id": "11b71da4",
       "filename": "pixiv_149442203_p0.jpg",
       "path": "uploads/2026/09/26fab3cb.jpg",
