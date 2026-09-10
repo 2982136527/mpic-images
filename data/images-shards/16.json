@@ -3,6 +3,28 @@
   "shardId": "16",
   "images": [
     {
+      "id": "94fe8a2f",
+      "filename": "pixiv_149465834_p0.jpg",
+      "path": "uploads/2026/09/fe63aad7.jpg",
+      "size": 859815,
+      "width": 1200,
+      "height": 1104,
+      "mimeType": "image/jpeg",
+      "hash": "12c366f6c6ec1fee7dc85588f047172b0fb9ca77c12ff616d08fcb0563b17477",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:32:26.022Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ご都合魔法",
+      "tags": [
+        "まのさばネタバレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149465834_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149465834",
+      "sourceCreatedAt": "2026-09-09T10:34:26.000Z"
+    },
+    {
       "id": "263634fa",
       "filename": "pixiv_149460446_p0.jpg",
       "path": "uploads/2026/09/563a21ab.jpg",
