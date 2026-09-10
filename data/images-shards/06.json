@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "4c7d7b64",
+      "filename": "pixiv_149462190_p0.jpg",
+      "path": "uploads/2026/09/31acc5fc.jpg",
+      "size": 1375282,
+      "width": 1100,
+      "height": 950,
+      "mimeType": "image/jpeg",
+      "hash": "794b972fba2c3814a5ae980e3c363967f4a4e88f2de202aa523cc9c580ebcab2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T12:52:31.284Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "インターネットの七色に輝く仲間たち",
+      "tags": [
+        "イラスト",
+        "party_parrot",
+        "ゲーミングPC"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149462190_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149462190",
+      "sourceCreatedAt": "2026-09-09T08:53:39.000Z"
+    },
+    {
       "id": "fb8d54e1",
       "filename": "pixiv_149437520_p0.jpg",
       "path": "uploads/2026/09/950438e0.jpg",
