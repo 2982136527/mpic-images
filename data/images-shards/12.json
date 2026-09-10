@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "68cd5411",
+      "filename": "pixiv_149459915_p0.jpg",
+      "path": "uploads/2026/09/f567f80c.jpg",
+      "size": 342547,
+      "width": 859,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2b561e3c34fea6c9b439f325b5433eed07378fbb5803d17a42f8cc7382439777",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T19:14:39.531Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "父と子の日常まとめ",
+      "tags": [
+        "マンダロリアン",
+        "グローグー",
+        "SW",
+        "STARWARS500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149459915_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149459915",
+      "sourceCreatedAt": "2026-09-09T07:22:17.000Z"
+    },
+    {
       "id": "c28dd636",
       "filename": "pixiv_149439650_p0.jpg",
       "path": "uploads/2026/09/e0ba80d3.jpg",
