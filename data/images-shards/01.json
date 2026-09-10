@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "98c45c6a",
+      "filename": "pixiv_149416733_p0.jpg",
+      "path": "uploads/2026/09/4b99201c.jpg",
+      "size": 1638319,
+      "width": 974,
+      "height": 693,
+      "mimeType": "image/jpeg",
+      "hash": "d31911f5081cc7b16397d163931a021d5fce697f2ffd34d95869911de88646ea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:28:38.976Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ほの暮しの庭ラクガキ",
+      "tags": [
+        "ほの暮しの庭",
+        "アメ",
+        "キスケ(ほの暮しの庭)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149416733_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149416733",
+      "sourceCreatedAt": "2026-09-08T01:56:44.000Z"
+    },
+    {
       "id": "a246b66b",
       "filename": "pixiv_149201749_p0.jpg",
       "path": "uploads/2026/09/de6b153c.jpg",
