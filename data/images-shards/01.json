@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "16790e09",
+      "filename": "pixiv_149469370_p0.jpg",
+      "path": "uploads/2026/09/fd1da4d6.jpg",
+      "size": 3305028,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ce75ce4f314913756be2e6f085a516392f124547acafd40d8b38fc9baf9bcc0d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:30:34.271Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "プロセカバースデーイラストまとめ",
+      "tags": [
+        "プロジェクトセカイ",
+        "プロセカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149469370_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149469370",
+      "sourceCreatedAt": "2026-09-09T11:58:51.000Z"
+    },
+    {
       "id": "e5d8f90f",
       "filename": "pixiv_149446428_p0.jpg",
       "path": "uploads/2026/09/4dea1302.jpg",
