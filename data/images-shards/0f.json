@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "e3c0ca99",
+      "filename": "pixiv_149419107_p0.jpg",
+      "path": "uploads/2026/09/470233ab.jpg",
+      "size": 937362,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2ad883a720917b054b915fd75e32f043470e9cea8aff58e5103acfd65dcb820c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T12:53:40.953Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "返校",
+      "tags": [
+        "AIBO",
+        "艾波",
+        "叶晴"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149419107_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149419107",
+      "sourceCreatedAt": "2026-09-08T03:56:30.000Z"
+    },
+    {
       "id": "41fc8c9b",
       "filename": "pixiv_149453756_p0.jpg",
       "path": "uploads/2026/09/876c9a4a.jpg",
