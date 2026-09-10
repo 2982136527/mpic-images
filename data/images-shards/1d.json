@@ -3,6 +3,33 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "b640d632",
+      "filename": "pixiv_149460489_p0.jpg",
+      "path": "uploads/2026/09/b11d6a52.jpg",
+      "size": 841730,
+      "width": 984,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "da47a2345d62002a9cd746109e0b5d55b1e7e9c06bebc20eaacadf4f05f286bb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T19:09:17.659Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "チルノ",
+        "サニーミルク",
+        "東方",
+        "東方Project",
+        "サニチル",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149460489_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149460489",
+      "sourceCreatedAt": "2026-09-09T07:47:55.000Z"
+    },
+    {
       "id": "a7be52a5",
       "filename": "pixiv_149430811_p0.jpg",
       "path": "uploads/2026/09/95bb249f.jpg",
