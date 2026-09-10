@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "dfb81932",
+      "filename": "pixiv_149422253_p0.jpg",
+      "path": "uploads/2026/09/0fef12f7.jpg",
+      "size": 655650,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "69a29ae327cd89601d74181d1e7443028fb499c914e3f1a5a9db7bb0304d8b6a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T12:54:21.477Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🦕",
+      "tags": [
+        "Limbus_Company",
+        "LimbusCompany",
+        "LCD",
+        "에즈라",
+        "모제스",
+        "앵두"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149422253_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149422253",
+      "sourceCreatedAt": "2026-09-08T06:39:37.000Z"
+    },
+    {
       "id": "9c0d87a9",
       "filename": "pixiv_149429896_p0.jpg",
       "path": "uploads/2026/09/3c520fb7.jpg",
