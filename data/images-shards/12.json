@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "5c561c64",
+      "filename": "pixiv_149439444_p0.jpg",
+      "path": "uploads/2026/09/cce550f2.jpg",
+      "size": 551428,
+      "width": 947,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9ca6fb74e30b983d2cdb806c48e8409d3f88bbe1b8ec45b5ae4392e368a4feaf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T12:56:05.182Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ファイノン",
+      "tags": [
+        "ファイノン",
+        "HonkaiStarRail",
+        "Phainon",
+        "天使",
+        "スーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149439444_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149439444",
+      "sourceCreatedAt": "2026-09-08T14:39:26.000Z"
+    },
+    {
       "id": "278c782b",
       "filename": "pixiv_149464035_p0.jpg",
       "path": "uploads/2026/09/659b1fd6.jpg",
