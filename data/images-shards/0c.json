@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "cd1f0c7d",
+      "filename": "pixiv_149451503_p0.jpg",
+      "path": "uploads/2026/09/266dac71.jpg",
+      "size": 951789,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0e2a32f249325c1b646dc17a230f2d488fa8429f0100fb064a3579b188eb2368",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:33:14.270Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "⭐Pokedex ポケモン図鑑  Kanto 001-045⭐",
+      "tags": [
+        "ポケモン",
+        "Pokedex",
+        "ポケモン図鑑",
+        "ポケットモンスター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149451503_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149451503",
+      "sourceCreatedAt": "2026-09-08T23:58:28.000Z"
+    },
+    {
       "id": "1becd567",
       "filename": "pixiv_149451746_p0.jpg",
       "path": "uploads/2026/09/17dcf8b6.jpg",
