@@ -3,6 +3,28 @@
   "shardId": "00",
   "images": [
     {
+      "id": "7c97e8c4",
+      "filename": "pixiv_149434188_p0.jpg",
+      "path": "uploads/2026/09/802f894d.jpg",
+      "size": 1334725,
+      "width": 1200,
+      "height": 1168,
+      "mimeType": "image/jpeg",
+      "hash": "ae9cecbda6aba170a371bb1b353459f3cc2ca7196e60d7541472883de4444109",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:31:47.753Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "再録",
+      "tags": [
+        "ドラえもん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149434188_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149434188",
+      "sourceCreatedAt": "2026-09-08T12:41:03.000Z"
+    },
+    {
       "id": "b58dfb97",
       "filename": "pixiv_149406015_p0.jpg",
       "path": "uploads/2026/09/e4342e3b.jpg",
