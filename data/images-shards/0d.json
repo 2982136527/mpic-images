@@ -3,6 +3,33 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "4b5ae187",
+      "filename": "pixiv_149462743_p0.jpg",
+      "path": "uploads/2026/09/38080099.jpg",
+      "size": 1250717,
+      "width": 785,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1c358ae3b0ed1e4330aacfe7d86cd9ac70c4f940c49f12114f1686391ef64596",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T13:00:51.587Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ユウカ",
+      "tags": [
+        "早瀬ユウカ",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "블루아카이브",
+        "ユウカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149462743_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149462743",
+      "sourceCreatedAt": "2026-09-09T09:04:36.000Z"
+    },
+    {
       "id": "c2c37a55",
       "filename": "pixiv_149469443_p0.jpg",
       "path": "uploads/2026/09/135cf202.jpg",
