@@ -3,6 +3,28 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "e1b323b0",
+      "filename": "pixiv_149442163_p0.jpg",
+      "path": "uploads/2026/09/b3ee0081.jpg",
+      "size": 1153213,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ba1baa687c84b8b42cea6ae42f75e07a75e1d0bdc883c4848a7d56d09d2da648",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T12:55:30.716Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🍨",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149442163_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149442163",
+      "sourceCreatedAt": "2026-09-08T15:30:47.000Z"
+    },
+    {
       "id": "12b224b2",
       "filename": "pixiv_149468540_p0.jpg",
       "path": "uploads/2026/09/62458628.jpg",
