@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "8670f1db",
+      "filename": "pixiv_149430309_p0.jpg",
+      "path": "uploads/2026/09/7f704358.jpg",
+      "size": 939784,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ccd6f2e267f2e1dd0d378811650841132be3392ee49128f5f6739e198b184438",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:29:09.729Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "白と黒",
+        "桔梗"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149430309_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149430309",
+      "sourceCreatedAt": "2026-09-08T11:11:54.000Z"
+    },
+    {
       "id": "021588cd",
       "filename": "pixiv_149399729_p0.jpg",
       "path": "uploads/2026/09/70039216.jpg",
