@@ -3,6 +3,32 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "bf17fa4d",
+      "filename": "pixiv_149467269_p0.jpg",
+      "path": "uploads/2026/09/f02e05dd.jpg",
+      "size": 1411505,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e7054dc554263a6e2f7040cec0c6962b8ba9a3437e3965143806696f02f496df",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T12:58:06.588Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Hsin",
+      "tags": [
+        "心(鳴潮)",
+        "心月狐",
+        "鳴潮",
+        "WutheringWaves",
+        "鸣潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149467269_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149467269",
+      "sourceCreatedAt": "2026-09-09T11:07:19.000Z"
+    },
+    {
       "id": "729a9056",
       "filename": "pixiv_149419469_p0.jpg",
       "path": "uploads/2026/09/984a93f5.jpg",
