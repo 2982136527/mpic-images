@@ -3,6 +3,32 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "c7f76fd9",
+      "filename": "pixiv_149405164_p0.jpg",
+      "path": "uploads/2026/09/f2ff17de.jpg",
+      "size": 304201,
+      "width": 700,
+      "height": 953,
+      "mimeType": "image/jpeg",
+      "hash": "d8eb3e65a1e183b005bc4ac86349e47daf823b84f715cd432b4d3458281d5b50",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:30:57.963Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "最近描いた絵とか",
+      "tags": [
+        "ブルーアーカイブ",
+        "大野ツクヨ",
+        "千鳥ミチル",
+        "久田イズナ",
+        "濡れ透け"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149405164_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149405164",
+      "sourceCreatedAt": "2026-09-07T15:24:13.000Z"
+    },
+    {
       "id": "270c7320",
       "filename": "pixiv_149408573_p0.jpg",
       "path": "uploads/2026/09/21be687b.jpg",
