@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "aaa0d42c",
+      "filename": "pixiv_149433423_p0.jpg",
+      "path": "uploads/2026/09/3a7d01fb.jpg",
+      "size": 574899,
+      "width": 595,
+      "height": 842,
+      "mimeType": "image/jpeg",
+      "hash": "42e790c072c9fa36bf9c4d216ef9a10e465bdce57d84a92fc741d8de9c3b6ba3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:30:00.790Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【艦これ】log30",
+      "tags": [
+        "百合",
+        "艦隊これくしょん",
+        "鳳翔",
+        "シンスイカッコカリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149433423_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149433423",
+      "sourceCreatedAt": "2026-09-08T12:32:56.000Z"
+    },
+    {
       "id": "5eaedeef",
       "filename": "pixiv_149373657_p0.jpg",
       "path": "uploads/2026/09/6f28510b.jpg",
