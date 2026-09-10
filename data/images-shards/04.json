@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "9c68a18c",
+      "filename": "pixiv_149447547_p0.jpg",
+      "path": "uploads/2026/09/35718a53.jpg",
+      "size": 357811,
+      "width": 1200,
+      "height": 1075,
+      "mimeType": "image/jpeg",
+      "hash": "486b1c6d70bc3d25c75821d581bc03d35fe2a384a42d385e382260cef79ec9c4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T19:10:28.704Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "recent evil Morty related tweets",
+      "tags": [
+        "rickandmorty",
+        "Rick&morty",
+        "リックアンドモーティ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149447547_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149447547",
+      "sourceCreatedAt": "2026-09-08T19:40:56.000Z"
+    },
+    {
       "id": "4e623703",
       "filename": "pixiv_149463043_p0.jpg",
       "path": "uploads/2026/09/f482b88d.jpg",
