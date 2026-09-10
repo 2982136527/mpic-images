@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "3c315027",
+      "filename": "pixiv_149469729_p0.jpg",
+      "path": "uploads/2026/09/28f573cd.jpg",
+      "size": 1384912,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8cbcb3b7b167e23d33e1a15eaca5668b526ab4f753d3e3aca606d943919f8616",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:28:12.432Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "鳳えむ誕生祭2026",
+      "tags": [
+        "プロセカ",
+        "鳳えむ",
+        "ワンダショ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149469729_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149469729",
+      "sourceCreatedAt": "2026-09-09T12:02:10.000Z"
+    },
+    {
       "id": "f37a36f2",
       "filename": "pixiv_149450405_p0.jpg",
       "path": "uploads/2026/09/df3d6075.jpg",
