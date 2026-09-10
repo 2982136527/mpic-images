@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "a39e3852",
+      "filename": "pixiv_149456888_p0.jpg",
+      "path": "uploads/2026/09/e97d98c3.jpg",
+      "size": 1105027,
+      "width": 934,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fc20beed36fc8cf7edf15a433a676c416e198b8b4103dd09cc8618fa033d794d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:29:32.504Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "(＾▽＾)",
+      "tags": [
+        "女の子",
+        "Skeb",
+        "セーラー服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149456888_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149456888",
+      "sourceCreatedAt": "2026-09-09T04:48:08.000Z"
+    },
+    {
       "id": "33831a7d",
       "filename": "pixiv_149380549_p0.jpg",
       "path": "uploads/2026/09/33749b0f.jpg",
