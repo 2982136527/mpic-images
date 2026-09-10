@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "d2b3fc1b",
+      "filename": "pixiv_149454922_p0.jpg",
+      "path": "uploads/2026/09/03447d74.jpg",
+      "size": 746158,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "8f6715bd26c9c5da1df36026be9f86df69cff12dedf98a9f7913d1e597c9c48f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T12:56:32.505Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "煎鸡腿排",
+      "tags": [
+        "原创",
+        "oc",
+        "ケモミミ",
+        "料理"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149454922_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149454922",
+      "sourceCreatedAt": "2026-09-09T03:05:20.000Z"
+    },
+    {
       "id": "27ab7016",
       "filename": "pixiv_149467922_p0.jpg",
       "path": "uploads/2026/09/8c07fe23.jpg",
