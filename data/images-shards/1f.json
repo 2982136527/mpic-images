@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "4a562449",
+      "filename": "pixiv_149451653_p0.jpg",
+      "path": "uploads/2026/09/feac131b.jpg",
+      "size": 610125,
+      "width": 1023,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d124a3f8ce5e2c34d33a92ef4c4751448cb6bf3e247d7f437432433e01b5ffa0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:30:07.057Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Princess Daisy",
+      "tags": [
+        "デイジー姫",
+        "スーパーマリオ",
+        "Daisy"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149451653_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149451653",
+      "sourceCreatedAt": "2026-09-09T00:03:50.000Z"
+    },
+    {
       "id": "815f6e81",
       "filename": "pixiv_149429126_p0.jpg",
       "path": "uploads/2026/09/e91c761f.jpg",
