@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "9cd270d1",
+      "filename": "pixiv_149440908_p0.jpg",
+      "path": "uploads/2026/09/bb48e401.jpg",
+      "size": 1358996,
+      "width": 1086,
+      "height": 739,
+      "mimeType": "image/jpeg",
+      "hash": "ba201fba6c43b30937753aeb8d11d769650938b415a253ef38053768887ee165",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T19:05:50.212Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "GNSN log_3",
+      "tags": [
+        "原神",
+        "嘉明",
+        "シロネン",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149440908_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149440908",
+      "sourceCreatedAt": "2026-09-08T15:04:03.000Z"
+    },
+    {
       "id": "4d7f3098",
       "filename": "pixiv_149260546_p0.jpg",
       "path": "uploads/2026/09/a58d8c63.jpg",
