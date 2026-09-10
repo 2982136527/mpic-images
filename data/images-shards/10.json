@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "280d2c1d",
+      "filename": "pixiv_149436727_p0.jpg",
+      "path": "uploads/2026/09/cbb95b72.jpg",
+      "size": 609459,
+      "width": 640,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7441f709d71790fe69de96bc800de7e11fde6b5b25735d3d67991a2fe2a1eb2c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T12:57:06.238Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "オグリキャップ(ウマ娘)",
+        "ウマ娘シンデレラグレイ",
+        "オリジナルウマ娘",
+        "オグリローマン(ウマ娘)",
+        "ミルワカバ",
+        "ネイティヴダンサー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149436727_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149436727",
+      "sourceCreatedAt": "2026-09-08T13:35:11.000Z"
+    },
+    {
       "id": "b10fc895",
       "filename": "pixiv_149463742_p0.jpg",
       "path": "uploads/2026/09/58cb4de8.jpg",
