@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "f4640f43",
+      "filename": "pixiv_149451767_p0.jpg",
+      "path": "uploads/2026/09/59cc38c9.jpg",
+      "size": 944972,
+      "width": 826,
+      "height": 1169,
+      "mimeType": "image/jpeg",
+      "hash": "c998860fac68fb7ecda5dfc3c96e365c9aa97175e9b2b9645e117842bb937cf2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T19:06:24.760Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "八雲紫",
+      "tags": [
+        "八雲紫",
+        "東方",
+        "東方Project",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149451767_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149451767",
+      "sourceCreatedAt": "2026-09-09T00:10:35.000Z"
+    },
+    {
       "id": "80c360fc",
       "filename": "pixiv_149241794_p0.jpg",
       "path": "uploads/2026/09/8c977725.jpg",
