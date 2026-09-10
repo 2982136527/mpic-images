@@ -3,6 +3,28 @@
   "shardId": "05",
   "images": [
     {
+      "id": "11b71da4",
+      "filename": "pixiv_149442203_p0.jpg",
+      "path": "uploads/2026/09/26fab3cb.jpg",
+      "size": 920727,
+      "width": 798,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b82088f41d3c6092e07dd2f562f37d0b023273e691bd507ad5fbdbe83baeb90a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:28:33.214Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🚲",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149442203_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149442203",
+      "sourceCreatedAt": "2026-09-08T15:31:25.000Z"
+    },
+    {
       "id": "d9e5aece",
       "filename": "pixiv_149418337_p0.jpg",
       "path": "uploads/2026/09/9ef9f6a4.jpg",
