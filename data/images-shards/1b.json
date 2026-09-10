@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "12b224b2",
+      "filename": "pixiv_149468540_p0.jpg",
+      "path": "uploads/2026/09/62458628.jpg",
+      "size": 519828,
+      "width": 1200,
+      "height": 743,
+      "mimeType": "image/jpeg",
+      "hash": "b334aa10f091c1ac8f2d6055a7ce5d41ea52f33d62ec72d905d0abd10df7cc02",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-10T04:29:49.503Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Suicaの新キャラ見た時思った事",
+      "tags": [
+        "ガーテンオブバンバン",
+        "Suica"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149468540_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149468540",
+      "sourceCreatedAt": "2026-09-09T11:38:43.000Z"
+    },
+    {
       "id": "1d5a2aaf",
       "filename": "pixiv_149440559_p0.jpg",
       "path": "uploads/2026/09/6acc597d.jpg",
