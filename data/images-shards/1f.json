@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "a8406891",
+      "filename": "pixiv_149486399_p0.jpg",
+      "path": "uploads/2026/09/cd273997.jpg",
+      "size": 709485,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8a4c36754a20dd341bbcfe56620b3d41b6907b0537f8cffe20c20d223ab56068",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:12:37.744Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "フランドール・スカーレット",
+        "東方",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149486399_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149486399",
+      "sourceCreatedAt": "2026-09-09T21:08:25.000Z"
+    },
+    {
       "id": "f463235a",
       "filename": "pixiv_149463086_p0.jpg",
       "path": "uploads/2026/09/7f53214f.jpg",
