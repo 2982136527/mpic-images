@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "8d13aa7d",
+      "filename": "pixiv_149490678_p0.jpg",
+      "path": "uploads/2026/09/f909fb30.jpg",
+      "size": 936469,
+      "width": 1200,
+      "height": 526,
+      "mimeType": "image/jpeg",
+      "hash": "f198733cca53f826212429c581a1cb3f9ad8bfda492e3b82a97c19d7ca0dfa47",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T12:49:12.581Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "絵封筒",
+      "tags": [
+        "女の子",
+        "アナログ",
+        "創作",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149490678_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149490678",
+      "sourceCreatedAt": "2026-09-10T01:24:45.000Z"
+    },
+    {
       "id": "3fb78fb2",
       "filename": "pixiv_149459171_p0.jpg",
       "path": "uploads/2026/09/227ebdd3.jpg",
