@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "6367d6b2",
+      "filename": "pixiv_149459273_p0.jpg",
+      "path": "uploads/2026/09/a1f0b821.jpg",
+      "size": 637665,
+      "width": 719,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "72c49a52b3f2e4458c6e7bdd45d1834288f6521db32297043f941827a6ba49d6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:16:46.714Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "zzzero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149459273_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149459273",
+      "sourceCreatedAt": "2026-09-09T06:52:46.000Z"
+    },
+    {
       "id": "1100e61b",
       "filename": "pixiv_149464490_p0.jpg",
       "path": "uploads/2026/09/5c5beae2.jpg",
