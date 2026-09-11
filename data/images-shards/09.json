@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "b88118d9",
+      "filename": "pixiv_149492223_p0.jpg",
+      "path": "uploads/2026/09/5a18fd97.jpg",
+      "size": 1335350,
+      "width": 861,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3b5ac874d89cd33d6c776bd3fe19c87113bfa444306dbe0bbd0f333b3deeeef8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T12:50:01.638Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「おでかけしたいな」",
+      "tags": [
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149492223_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149492223",
+      "sourceCreatedAt": "2026-09-10T02:54:40.000Z"
+    },
+    {
       "id": "e3c1167e",
       "filename": "pixiv_149464618_p0.jpg",
       "path": "uploads/2026/09/63cad6dc.jpg",
