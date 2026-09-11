@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "d95aecb1",
+      "filename": "pixiv_149486199_p0.jpg",
+      "path": "uploads/2026/09/7e838897.jpg",
+      "size": 717744,
+      "width": 1048,
+      "height": 1002,
+      "mimeType": "image/jpeg",
+      "hash": "35dbb41f6d0dd31abbf700f66e21dba9729adfa540b7c1312ec6fdb0b009b5d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T12:47:10.950Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "個人メモ：手首の基本",
+      "tags": [
+        "漫画素材工房",
+        "描き方",
+        "人体",
+        "身体",
+        "手",
+        "手首"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149486199_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149486199",
+      "sourceCreatedAt": "2026-09-09T21:00:07.000Z"
+    },
+    {
       "id": "b6ca7487",
       "filename": "pixiv_149486489_p0.jpg",
       "path": "uploads/2026/09/7b77ef0f.jpg",
