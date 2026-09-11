@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "3a4942bc",
+      "filename": "pixiv_149477494_p0.jpg",
+      "path": "uploads/2026/09/6eee4533.jpg",
+      "size": 513049,
+      "width": 1131,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4123ba9686f61214643072c370f3375505e74d93f99f4867c7e41eb34bf4e7dc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:12:45.818Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "commission do not use",
+      "tags": [
+        "commission",
+        "donotuse",
+        "拟人",
+        "personification",
+        "药物拟人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149477494_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149477494",
+      "sourceCreatedAt": "2026-09-09T14:48:14.000Z"
+    },
+    {
       "id": "98a4d3e8",
       "filename": "pixiv_149454329_p0.jpg",
       "path": "uploads/2026/09/ffeb29ea.jpg",
