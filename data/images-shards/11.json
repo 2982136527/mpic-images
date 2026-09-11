@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "5bcf1e41",
+      "filename": "pixiv_149486414_p0.jpg",
+      "path": "uploads/2026/09/29a9cd3b.jpg",
+      "size": 1779861,
+      "width": 990,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cdc8f05755e3d6a114b138986d4b6619f065a0b33cc610f5bb26883a74fae3eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:16:55.191Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "METROID RAVENOUS",
+      "tags": [
+        "メトロイド",
+        "サムス・アラン",
+        "サムス",
+        "任天堂",
+        "メトロイドラヴェナス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149486414_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149486414",
+      "sourceCreatedAt": "2026-09-09T21:09:15.000Z"
+    },
+    {
       "id": "faa1c781",
       "filename": "pixiv_149493759_p0.jpg",
       "path": "uploads/2026/09/9860bbf0.jpg",
