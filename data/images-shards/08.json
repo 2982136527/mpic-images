@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "7ff9b209",
+      "filename": "pixiv_149477302_p0.jpg",
+      "path": "uploads/2026/09/88db209d.jpg",
+      "size": 505237,
+      "width": 680,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "hash": "ac5d2f1d3b3d8893f766700f1533806f513cc057fe1d8bf5b92e3df38b8f732d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T12:53:16.140Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ふわふわ",
+      "tags": [
+        "オリジナル",
+        "ハムスター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149477302_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149477302",
+      "sourceCreatedAt": "2026-09-09T14:43:30.000Z"
+    },
+    {
       "id": "19890472",
       "filename": "pixiv_149477445_p0.jpg",
       "path": "uploads/2026/09/ef1bb514.jpg",
