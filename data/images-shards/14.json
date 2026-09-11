@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "fcb0cc51",
+      "filename": "pixiv_149492006_p0.jpg",
+      "path": "uploads/2026/09/c7f1e783.jpg",
+      "size": 838593,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e8bede82db057fbcca4bb6b78401fcc9056392a4e3ceb30570eefd86df3257ab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:28:56.164Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "地雷系ミク",
+      "tags": [
+        "初音ミク",
+        "地雷系"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149492006_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149492006",
+      "sourceCreatedAt": "2026-09-10T02:42:03.000Z"
+    },
+    {
       "id": "3a2fec13",
       "filename": "pixiv_149505896_p0.jpg",
       "path": "uploads/2026/09/4a86c11e.jpg",
