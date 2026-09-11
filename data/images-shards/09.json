@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "d280eee4",
+      "filename": "pixiv_149510783_p0.jpg",
+      "path": "uploads/2026/09/4ca90552.jpg",
+      "size": 793502,
+      "width": 906,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "add26e985cadee40003e28898d4b0bec6c5977d3eb117b42f2b20681d428bd73",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:10:51.092Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "KENZEN④",
+      "tags": [
+        "ペルソナ4",
+        "主直",
+        "白鐘直斗"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149510783_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149510783",
+      "sourceCreatedAt": "2026-09-10T13:20:27.000Z"
+    },
+    {
       "id": "b88118d9",
       "filename": "pixiv_149492223_p0.jpg",
       "path": "uploads/2026/09/5a18fd97.jpg",
