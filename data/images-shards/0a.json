@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "63cd991d",
+      "filename": "pixiv_149511117_p0.jpg",
+      "path": "uploads/2026/09/60b6c9cc.jpg",
+      "size": 214512,
+      "width": 768,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "3865926872d76f66be690b5fa725d3004997c2e37e79f8f6ed571fd7242295b7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T12:49:33.168Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "宵崎奏",
+        "朝比奈まふゆ",
+        "かなまふ",
+        "まふかな",
+        "奏まふ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149511117_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149511117",
+      "sourceCreatedAt": "2026-09-10T13:27:59.000Z"
+    },
+    {
       "id": "10c8fbe3",
       "filename": "pixiv_149442119_p0.jpg",
       "path": "uploads/2026/09/d7c48fc9.jpg",
