@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "736ab8d1",
+      "filename": "pixiv_149481908_p0.jpg",
+      "path": "uploads/2026/09/272b894b.jpg",
+      "size": 712116,
+      "width": 773,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "61793bfc6ffd521b63a3a2ff7afc257a296ad6b5849186f18533f99cfd5fa6a0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T12:48:29.211Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "初めて癖に刺さった",
+      "tags": [
+        "星のカービィ",
+        "星のカービィワールドビヨンド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149481908_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149481908",
+      "sourceCreatedAt": "2026-09-09T16:32:51.000Z"
+    },
+    {
       "id": "783c99f7",
       "filename": "pixiv_149491674_p0.jpg",
       "path": "uploads/2026/09/125e020b.jpg",
