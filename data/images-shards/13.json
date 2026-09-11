@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "973fbfe6",
+      "filename": "pixiv_149455369_p0.jpg",
+      "path": "uploads/2026/09/6c8e3118.jpg",
+      "size": 627087,
+      "width": 1099,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2242def6121429c713ba8f8ef7ea03a6bbfc1b95619b4de35e1a294e05bf2206",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:34:45.244Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "へしさにまとめ",
+      "tags": [
+        "へし切長谷部(刀剣乱舞)",
+        "へしさに",
+        "刀さに",
+        "刀剣乱夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149455369_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149455369",
+      "sourceCreatedAt": "2026-09-09T03:27:31.000Z"
+    },
+    {
       "id": "11e42d87",
       "filename": "pixiv_149500753_p0.jpg",
       "path": "uploads/2026/09/ed84195d.jpg",
