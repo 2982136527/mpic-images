@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "df7a5cc9",
+      "filename": "pixiv_149477288_p0.jpg",
+      "path": "uploads/2026/09/bb929f0c.jpg",
+      "size": 906290,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7c7b872947c07f222983f0034527f2844444dfdeb20076bda3115a3c1cfbf3cd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:10:26.498Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "알리사",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "알리사"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149477288_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149477288",
+      "sourceCreatedAt": "2026-09-09T14:43:13.000Z"
+    },
+    {
       "id": "bd92fd41",
       "filename": "pixiv_149440407_p0.jpg",
       "path": "uploads/2026/09/d9043eff.jpg",
