@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "cf35f132",
+      "filename": "pixiv_149492049_p0.jpg",
+      "path": "uploads/2026/09/ffbcf8cb.jpg",
+      "size": 826816,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "038db73ffb301cc0ac643b87ac6a676763f946b3310ab5a3da6a0b74ac6c4bff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T12:50:47.733Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "花火",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "線香花火",
+        "夏の思い出"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149492049_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149492049",
+      "sourceCreatedAt": "2026-09-10T02:44:29.000Z"
+    },
+    {
       "id": "8d13aa7d",
       "filename": "pixiv_149490678_p0.jpg",
       "path": "uploads/2026/09/f909fb30.jpg",
