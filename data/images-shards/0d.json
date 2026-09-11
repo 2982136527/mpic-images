@@ -3,6 +3,37 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "72bc73f4",
+      "filename": "pixiv_149492221_p0.jpg",
+      "path": "uploads/2026/09/021dcf6e.jpg",
+      "size": 1078959,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "707ac90265c4c09e323655d4a91808d4631e159c5a5968f9342f73cf8fca640e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:27:26.910Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "雑",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "百合",
+        "ハーモニー(アークナイツ)",
+        "ホルン(アークナイツ)",
+        "イネス(アークナイツ)",
+        "シュウ(アークナイツ)",
+        "リン・ユーシャ(アークナイツ)",
+        "チェン・センユー",
+        "オクギ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149492221_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149492221",
+      "sourceCreatedAt": "2026-09-10T02:54:39.000Z"
+    },
+    {
       "id": "e80c88eb",
       "filename": "pixiv_149451314_p0.jpg",
       "path": "uploads/2026/09/21ed8b87.jpg",
