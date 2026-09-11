@@ -3,6 +3,37 @@
   "shardId": "05",
   "images": [
     {
+      "id": "13438c1a",
+      "filename": "pixiv_149509617_p0.jpg",
+      "path": "uploads/2026/09/987af98d.jpg",
+      "size": 1894951,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "001ce5c0f99aa86a4e6354937c83fb98e82077b12575260dc60ad5a117be28a9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:09:43.551Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "少女作業中　紅魔郷",
+      "tags": [
+        "東方",
+        "少女作業中",
+        "パチュリー・ノーレッジ",
+        "レミリア・スカーレット",
+        "フランドール・スカーレット",
+        "十六夜咲夜",
+        "小悪魔(東方Project)",
+        "紅美鈴",
+        "チルノ",
+        "ルーミア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149509617_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149509617",
+      "sourceCreatedAt": "2026-09-10T12:57:35.000Z"
+    },
+    {
       "id": "5e65d547",
       "filename": "pixiv_149460171_p0.jpg",
       "path": "uploads/2026/09/9a037757.jpg",
