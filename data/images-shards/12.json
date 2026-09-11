@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "08ae5977",
+      "filename": "pixiv_149477142_p0.jpg",
+      "path": "uploads/2026/09/242a8685.jpg",
+      "size": 1182925,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a826a7f9b6a8009336276b56d5caa4553b07ca1eda83a733d722197f40cf3f14",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:13:08.900Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "にじさんじ",
+        "戌亥とこ",
+        "バーチャルYouTuber100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149477142_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149477142",
+      "sourceCreatedAt": "2026-09-09T14:40:00.000Z"
+    },
+    {
       "id": "9374bc5b",
       "filename": "pixiv_149462223_p0.jpg",
       "path": "uploads/2026/09/85125e32.jpg",
