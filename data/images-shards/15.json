@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "1751f901",
+      "filename": "pixiv_149463159_p0.jpg",
+      "path": "uploads/2026/09/8692108b.jpg",
+      "size": 1270962,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ce5777107bcf17e4b56c1d831c3c30fc233746ebf67369a641c75768bb3c3fcb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:32:59.764Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "こいしちゃん",
+      "tags": [
+        "東方",
+        "東方Project",
+        "古明地こいし"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149463159_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149463159",
+      "sourceCreatedAt": "2026-09-09T09:19:21.000Z"
+    },
+    {
       "id": "39dd2e38",
       "filename": "pixiv_149406484_p0.jpg",
       "path": "uploads/2026/09/be9286c3.jpg",
