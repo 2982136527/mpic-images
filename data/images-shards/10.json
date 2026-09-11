@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "943c48d4",
+      "filename": "pixiv_149500374_p0.jpg",
+      "path": "uploads/2026/09/2aa0dcd2.jpg",
+      "size": 537691,
+      "width": 785,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a9b4a022a22a5bd124e3dd13c0fe7851c6e1029e510c974c26807dbd3f1ea83b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:31:12.736Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "落書きまとめ１４枚",
+      "tags": [
+        "オリジナル",
+        "黒髪",
+        "茶髪",
+        "赤髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149500374_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149500374",
+      "sourceCreatedAt": "2026-09-10T09:07:26.000Z"
+    },
+    {
       "id": "280d2c1d",
       "filename": "pixiv_149436727_p0.jpg",
       "path": "uploads/2026/09/cbb95b72.jpg",
