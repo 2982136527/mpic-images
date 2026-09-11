@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "3a45d2e1",
+      "filename": "pixiv_149442729_p0.jpg",
+      "path": "uploads/2026/09/5ab26483.jpg",
+      "size": 1126750,
+      "width": 813,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d60d802cf59c04386b8fc3973bb953395aab869a7eed62a2f7942cce2f16e936",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:29:43.909Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "シロコテラー",
+      "tags": [
+        "シロコ*テラー",
+        "ブルーアーカイブ",
+        "ブルアカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149442729_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149442729",
+      "sourceCreatedAt": "2026-09-08T15:45:22.000Z"
+    },
+    {
       "id": "e145e3ac",
       "filename": "pixiv_149506094_p0.jpg",
       "path": "uploads/2026/09/ef9753d7.jpg",
