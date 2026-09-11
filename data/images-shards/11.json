@@ -3,6 +3,35 @@
   "shardId": "11",
   "images": [
     {
+      "id": "faa1c781",
+      "filename": "pixiv_149493759_p0.jpg",
+      "path": "uploads/2026/09/9860bbf0.jpg",
+      "size": 237589,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "404dddf1ba5be1519c1e0fbf301cf3df852cde02df2c3c6db28a9f2eb5aab6fd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:16:27.382Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Swimmeronii",
+      "tags": [
+        "Hololive",
+        "HololiveEN",
+        "kronillust",
+        "クロニーラ",
+        "VTuber",
+        "fanart",
+        "illustration",
+        "girl"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149493759_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149493759",
+      "sourceCreatedAt": "2026-09-10T04:03:10.000Z"
+    },
+    {
       "id": "41af2979",
       "filename": "pixiv_149505037_p0.jpg",
       "path": "uploads/2026/09/c726c5df.jpg",
