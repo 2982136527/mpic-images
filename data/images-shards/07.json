@@ -3,6 +3,28 @@
   "shardId": "07",
   "images": [
     {
+      "id": "8ff7cae7",
+      "filename": "pixiv_149453240_p0.jpg",
+      "path": "uploads/2026/09/81ec56f9.jpg",
+      "size": 1189571,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a0c5f2821c9cf8c19fcc79ef8501e2a79fa6543b4c7d13c2d186aec02102db9c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:10:15.443Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ROMA",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149453240_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149453240",
+      "sourceCreatedAt": "2026-09-09T01:40:35.000Z"
+    },
+    {
       "id": "e0fd26f2",
       "filename": "pixiv_149507957_p0.jpg",
       "path": "uploads/2026/09/79149980.jpg",
