@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "674cd178",
+      "filename": "pixiv_149485129_p0.jpg",
+      "path": "uploads/2026/09/d5c1d610.jpg",
+      "size": 713095,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "520e8681ea34b1c339b4d2dde30e0142890205fa82c799a6311ac1457a65a4ac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:32:25.985Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "びっくり",
+      "tags": [
+        "VOCALOID",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149485129_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149485129",
+      "sourceCreatedAt": "2026-09-09T19:38:09.000Z"
+    },
+    {
       "id": "91ed3cd2",
       "filename": "pixiv_149504226_p0.jpg",
       "path": "uploads/2026/09/6a2c2a65.jpg",
