@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "e0fd26f2",
+      "filename": "pixiv_149507957_p0.jpg",
+      "path": "uploads/2026/09/79149980.jpg",
+      "size": 749459,
+      "width": 865,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "252585075985a11c6f0419ae440d57a56bc98b9dd8fb051588381df13f899e16",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:07:36.535Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "まどマギ",
+      "tags": [
+        "まどマギ",
+        "美樹さやか",
+        "ほむさや",
+        "まどか☆マギカ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149507957_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149507957",
+      "sourceCreatedAt": "2026-09-10T12:18:20.000Z"
+    },
+    {
       "id": "05370e05",
       "filename": "pixiv_149467983_p0.jpg",
       "path": "uploads/2026/09/50cbc3d1.jpg",
