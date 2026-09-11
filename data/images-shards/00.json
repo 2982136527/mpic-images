@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "d7cc180f",
+      "filename": "pixiv_149497035_p0.jpg",
+      "path": "uploads/2026/09/fe72e217.jpg",
+      "size": 709465,
+      "width": 1114,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0f4e47d361282f03a7c94b402bd3e5ad5104eee70eb7821bcbc7c2b36893409d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:32:12.288Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Strawberry [Sketch]",
+      "tags": [
+        "ファミレス",
+        "ケーキ",
+        "いちご"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149497035_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149497035",
+      "sourceCreatedAt": "2026-09-10T07:00:04.000Z"
+    },
+    {
       "id": "ad60e49b",
       "filename": "pixiv_149499345_p0.jpg",
       "path": "uploads/2026/09/b60fbf32.jpg",
