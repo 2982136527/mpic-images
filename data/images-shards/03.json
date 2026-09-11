@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "64d28653",
+      "filename": "pixiv_149504262_p0.jpg",
+      "path": "uploads/2026/09/66bb36c5.jpg",
+      "size": 893824,
+      "width": 1200,
+      "height": 1119,
+      "mimeType": "image/jpeg",
+      "hash": "41140aaeaa6109e90ae8ec813bee4e27b1720a863e7472d993ff536676e4f4c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:11:57.633Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "日避け",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149504262_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149504262",
+      "sourceCreatedAt": "2026-09-10T11:00:12.000Z"
+    },
+    {
       "id": "0f47623f",
       "filename": "pixiv_149503875_p0.jpg",
       "path": "uploads/2026/09/2ddf2864.jpg",
