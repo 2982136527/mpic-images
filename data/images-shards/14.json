@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "e5e1e8af",
+      "filename": "pixiv_149485277_p0.jpg",
+      "path": "uploads/2026/09/6cabd68a.jpg",
+      "size": 847941,
+      "width": 977,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "56f858f0cd6b854107224d591349edf85f33ab9239bc63c03b638126f1a66585",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:31:05.291Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ありがとうございます。",
+      "tags": [
+        "星のカービィ",
+        "星のカービィワールドビヨンド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149485277_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149485277",
+      "sourceCreatedAt": "2026-09-09T19:51:42.000Z"
+    },
+    {
       "id": "6baaafd2",
       "filename": "pixiv_149512083_p0.jpg",
       "path": "uploads/2026/09/0f5fa958.jpg",
