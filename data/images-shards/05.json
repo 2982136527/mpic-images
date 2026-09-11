@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "5e65d547",
+      "filename": "pixiv_149460171_p0.jpg",
+      "path": "uploads/2026/09/9a037757.jpg",
+      "size": 529317,
+      "width": 971,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1aafeac93697bb1528b4d847665c905a083ea23260ba7975aec5eba11ed5790f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T12:52:43.324Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "블루아카이브",
+        "ブルアカ",
+        "明星ヒマリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149460171_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149460171",
+      "sourceCreatedAt": "2026-09-09T07:31:58.000Z"
+    },
+    {
       "id": "3d2b52f2",
       "filename": "pixiv_149456141_p0.jpg",
       "path": "uploads/2026/09/fef44ea2.jpg",
