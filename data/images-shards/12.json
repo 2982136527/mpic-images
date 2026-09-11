@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "9374bc5b",
+      "filename": "pixiv_149462223_p0.jpg",
+      "path": "uploads/2026/09/85125e32.jpg",
+      "size": 1007993,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "054c7c86d5ba5f13468cb580f05127033d3afdcd145855f9ad2f401a0e2f3045",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:10:43.529Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "魔王ちゃん",
+      "tags": [
+        "ステラソラ",
+        "StellaSora",
+        "魔王(ステラソラ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149462223_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149462223",
+      "sourceCreatedAt": "2026-09-09T08:54:51.000Z"
+    },
+    {
       "id": "aa91ace2",
       "filename": "pixiv_149453630_p0.jpg",
       "path": "uploads/2026/09/ad74e249.jpg",
