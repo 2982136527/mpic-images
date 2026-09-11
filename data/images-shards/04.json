@@ -3,6 +3,33 @@
   "shardId": "04",
   "images": [
     {
+      "id": "2a01788e",
+      "filename": "pixiv_149271016_p0.jpg",
+      "path": "uploads/2026/09/3865b24f.jpg",
+      "size": 1539327,
+      "width": 1200,
+      "height": 709,
+      "mimeType": "image/jpeg",
+      "hash": "7365fac4e31c290e3e164124172dbdf7d15f17bc27e103db4cb7ad10a32a8953",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:14:45.470Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "蒼きアズライール",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "蒼きアズライール",
+        "アズライール(Fate)",
+        "第二再臨",
+        "Fate/GO500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149271016_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149271016",
+      "sourceCreatedAt": "2026-09-04T12:16:12.000Z"
+    },
+    {
       "id": "7ea07516",
       "filename": "pixiv_149478161_p0.jpg",
       "path": "uploads/2026/09/7ac7ef66.jpg",
