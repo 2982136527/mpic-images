@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "919599c8",
+      "filename": "pixiv_149478433_p0.jpg",
+      "path": "uploads/2026/09/9dba1842.jpg",
+      "size": 833969,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1215d83b778c280b9e056867a15469fba9864641baf6568f3ff3b6739818e50e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:26:15.320Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "萌え袖",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "ピンク髪",
+        "ハート目"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149478433_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149478433",
+      "sourceCreatedAt": "2026-09-09T15:01:24.000Z"
+    },
+    {
       "id": "e075834f",
       "filename": "pixiv_149404517_p0.jpg",
       "path": "uploads/2026/09/f7310eac.jpg",
