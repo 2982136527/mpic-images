@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "374ddab8",
+      "filename": "pixiv_149506259_p0.jpg",
+      "path": "uploads/2026/09/c7677425.jpg",
+      "size": 953951,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "61d6958413a16c8da0e9ea68e6c21eb4c491ca600c0747e8144f96878d7b4bfa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T12:51:35.217Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "祝重版❗『演出大事典』",
+      "tags": [
+        "描き方",
+        "講座"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149506259_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149506259",
+      "sourceCreatedAt": "2026-09-10T11:43:48.000Z"
+    },
+    {
       "id": "8576864b",
       "filename": "pixiv_149440348_p0.jpg",
       "path": "uploads/2026/09/fde3f10f.jpg",
