@@ -3,6 +3,35 @@
   "shardId": "11",
   "images": [
     {
+      "id": "0566bd67",
+      "filename": "pixiv_149494982_p0.jpg",
+      "path": "uploads/2026/09/45761486.jpg",
+      "size": 887333,
+      "width": 1011,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2a86822c9b8e7dfb7386b3d9affede5e58ea5e927a6b26ee4602ea655c0db18a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:32:46.612Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "実装記念に頼んでみた",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "ファレノプシス(ウマ娘)",
+        "異次元の投稿者",
+        "はえーよホセ",
+        "和装ウマ娘",
+        "絶佳の暁闇",
+        "くノ一"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149494982_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149494982",
+      "sourceCreatedAt": "2026-09-10T05:10:28.000Z"
+    },
+    {
       "id": "931c8cc1",
       "filename": "pixiv_149463931_p0.jpg",
       "path": "uploads/2026/09/faf042e6.jpg",
