@@ -3,6 +3,34 @@
   "shardId": "01",
   "images": [
     {
+      "id": "bd92fd41",
+      "filename": "pixiv_149440407_p0.jpg",
+      "path": "uploads/2026/09/d9043eff.jpg",
+      "size": 1041381,
+      "width": 1200,
+      "height": 759,
+      "mimeType": "image/jpeg",
+      "hash": "2e31987fc0de2a31330faab8d90626b5a01c42be96bebfa8c1301c5a08a3c710",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:07:18.614Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "サンクチュアリ",
+      "tags": [
+        "オリジナル",
+        "風景",
+        "幻想",
+        "水鏡",
+        "イラスト",
+        "宇宙",
+        "星空"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149440407_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149440407",
+      "sourceCreatedAt": "2026-09-08T15:00:19.000Z"
+    },
+    {
       "id": "0f345e33",
       "filename": "pixiv_149453254_p0.jpg",
       "path": "uploads/2026/09/7ca857fc.jpg",
