@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "1f9745ba",
+      "filename": "pixiv_149480219_p0.jpg",
+      "path": "uploads/2026/09/16685cbd.jpg",
+      "size": 244627,
+      "width": 720,
+      "height": 720,
+      "mimeType": "image/jpeg",
+      "hash": "56d0a48ee60211eea60498c8e4d453d675ec14b534842487ce94d163545d8f86",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:33:35.647Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "世界の向こう側へ…！？",
+      "tags": [
+        "星のカービィ",
+        "カービィ",
+        "星のカービィワールドビヨンド",
+        "ワールドビヨンド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149480219_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149480219",
+      "sourceCreatedAt": "2026-09-09T15:38:56.000Z"
+    },
+    {
       "id": "68cd5411",
       "filename": "pixiv_149459915_p0.jpg",
       "path": "uploads/2026/09/f567f80c.jpg",
