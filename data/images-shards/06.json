@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "b17a0cbc",
+      "filename": "pixiv_149440364_p0.jpg",
+      "path": "uploads/2026/09/33bb2b34.jpg",
+      "size": 550315,
+      "width": 1200,
+      "height": 908,
+      "mimeType": "image/jpeg",
+      "hash": "7b8f122c3e2901d2bc5d49401abb292e53ce9771207e0715a28cd0515b00a579",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:26:02.348Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "クラピカ",
+      "tags": [
+        "クラピカ",
+        "HUNTER×HUNTER",
+        "fanart"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149440364_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149440364",
+      "sourceCreatedAt": "2026-09-08T15:00:14.000Z"
+    },
+    {
       "id": "8e967694",
       "filename": "pixiv_149454308_p0.jpg",
       "path": "uploads/2026/09/b7617a55.jpg",
