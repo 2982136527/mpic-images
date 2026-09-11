@@ -3,6 +3,28 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "e145e3ac",
+      "filename": "pixiv_149506094_p0.jpg",
+      "path": "uploads/2026/09/ef9753d7.jpg",
+      "size": 632097,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ac89a488edd2545ebe2983ff689e6796c39e2463ff0d7b73bc159b9092710ae5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:26:33.339Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "リョ桜アンソロジー寄稿",
+      "tags": [
+        "リョ桜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149506094_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149506094",
+      "sourceCreatedAt": "2026-09-10T11:39:32.000Z"
+    },
+    {
       "id": "dc87d0d2",
       "filename": "pixiv_149460873_p0.jpg",
       "path": "uploads/2026/09/876f8673.jpg",
