@@ -3,6 +3,35 @@
   "shardId": "02",
   "images": [
     {
+      "id": "aabc3ff0",
+      "filename": "pixiv_149512671_p0.jpg",
+      "path": "uploads/2026/09/b7ee0da0.jpg",
+      "size": 1581941,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fbec0334c76a7a4effb1700825548e04e68b22134f694279fbc3ca6f095cb936",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T12:52:01.200Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Claret X Roxy",
+      "tags": [
+        "Claret",
+        "Roxy",
+        "梁星",
+        "Illustration",
+        "liangxing",
+        "kikol",
+        "kikoldraws",
+        "ZenlessZoneZero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149512671_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149512671",
+      "sourceCreatedAt": "2026-09-10T14:02:43.000Z"
+    },
+    {
       "id": "03836221",
       "filename": "pixiv_149466428_p0.jpg",
       "path": "uploads/2026/09/c1c9f7f9.jpg",
