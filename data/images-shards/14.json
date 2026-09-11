@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "3a2fec13",
+      "filename": "pixiv_149505896_p0.jpg",
+      "path": "uploads/2026/09/4a86c11e.jpg",
+      "size": 937176,
+      "width": 1200,
+      "height": 921,
+      "mimeType": "image/jpeg",
+      "hash": "097fc99b0513edede860b131092661f6178c450a1463ca3b4f00e1e9437d4d58",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:28:41.982Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "フリンズさん",
+      "tags": [
+        "原神",
+        "フリンズ",
+        "Flins"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149505896_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149505896",
+      "sourceCreatedAt": "2026-09-10T11:34:26.000Z"
+    },
+    {
       "id": "664f8386",
       "filename": "pixiv_149448611_p0.jpg",
       "path": "uploads/2026/09/afe1eb7f.jpg",
