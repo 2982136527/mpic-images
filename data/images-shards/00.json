@@ -3,6 +3,37 @@
   "shardId": "00",
   "images": [
     {
+      "id": "10d8fe7a",
+      "filename": "pixiv_149457437_p0.jpg",
+      "path": "uploads/2026/09/c2c5621d.jpg",
+      "size": 1027733,
+      "width": 1200,
+      "height": 828,
+      "mimeType": "image/jpeg",
+      "hash": "a51915763d7856c2db460031ba5bfc6a322711aee65c4eb4caf131a7b9e397a4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T12:51:08.976Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "竜華キサキ(水着)",
+        "竜華キサキ",
+        "キサキ(ブルーアーカイブ)",
+        "BlueArchive",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "少女",
+        "女の子",
+        "風呂",
+        "ブルーアーカイブ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149457437_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149457437",
+      "sourceCreatedAt": "2026-09-09T05:17:45.000Z"
+    },
+    {
       "id": "1fa0ec99",
       "filename": "pixiv_149489110_p0.jpg",
       "path": "uploads/2026/09/bb218b2c.jpg",
