@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "ab0a862d",
+      "filename": "pixiv_149494361_p0.jpg",
+      "path": "uploads/2026/09/2e240f38.jpg",
+      "size": 466434,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "41f713c602709086fa44aa3cc4bec552e3242d8aa8213982030e641954157d50",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:34:52.054Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "スゼlog",
+      "tags": [
+        "スタゼノ",
+        "dcst腐向け100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149494361_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149494361",
+      "sourceCreatedAt": "2026-09-10T04:47:21.000Z"
+    },
+    {
       "id": "facf0a33",
       "filename": "pixiv_148354387_p0.jpg",
       "path": "uploads/2026/09/8510f43c.jpg",
