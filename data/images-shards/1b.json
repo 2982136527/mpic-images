@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "75a2bf69",
+      "filename": "pixiv_149505292_p0.jpg",
+      "path": "uploads/2026/09/dc543f15.jpg",
+      "size": 1763124,
+      "width": 808,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1820fc53a8515ceacecfad3807337f06feded33c9153bf382bb5930572d33070",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:10:06.517Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "マジミラ2026ミク",
+      "tags": [
+        "VOCALOID",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149505292_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149505292",
+      "sourceCreatedAt": "2026-09-10T11:20:50.000Z"
+    },
+    {
       "id": "7180aeec",
       "filename": "pixiv_149483740_p0.jpg",
       "path": "uploads/2026/09/9f4296b6.jpg",
