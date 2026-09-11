@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "18c86f25",
+      "filename": "pixiv_149478808_p0.jpg",
+      "path": "uploads/2026/09/388ffe83.jpg",
+      "size": 1233469,
+      "width": 821,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bbf56421d9438c881200361a92490cc4fbb45802fc47e7d3b9c5836c6a422551",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T04:28:48.810Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "DreamscapeCC",
+        "ArknightsEndfield",
+        "ティフォロス",
+        "提弗洛斯"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149478808_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149478808",
+      "sourceCreatedAt": "2026-09-09T15:05:59.000Z"
+    },
+    {
       "id": "9f4eaf85",
       "filename": "pixiv_149440601_p0.jpg",
       "path": "uploads/2026/09/8cc9f2fa.jpg",
