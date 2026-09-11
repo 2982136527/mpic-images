@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "93623008",
+      "filename": "pixiv_149509615_p0.jpg",
+      "path": "uploads/2026/09/a49c9004.jpg",
+      "size": 1518443,
+      "width": 1200,
+      "height": 811,
+      "mimeType": "image/jpeg",
+      "hash": "f138755b0f48e254d96137310c82b7b4bda2b885fe89aa05763e81bd8046048e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T12:50:54.453Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "TOKYO FES Sep. 2026",
+      "tags": [
+        "オリジナル",
+        "お品書き",
+        "花"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149509615_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149509615",
+      "sourceCreatedAt": "2026-09-10T12:57:30.000Z"
+    },
+    {
       "id": "973fbfe6",
       "filename": "pixiv_149455369_p0.jpg",
       "path": "uploads/2026/09/6c8e3118.jpg",
