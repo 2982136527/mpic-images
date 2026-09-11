@@ -3,6 +3,34 @@
   "shardId": "17",
   "images": [
     {
+      "id": "1100e61b",
+      "filename": "pixiv_149464490_p0.jpg",
+      "path": "uploads/2026/09/5c5beae2.jpg",
+      "size": 1124956,
+      "width": 693,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9a4dbfd98990cf7a514a9d7c0dd01b14c599a4874d282756d7f141fc6d46784f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-11T19:10:35.043Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "アズレン9周年",
+      "tags": [
+        "アズールレーン",
+        "マックス・インメルマン(アズールレーン)",
+        "ゲッツ・フォン・ベルリヒンゲン(アズールレーン)",
+        "アズレン",
+        "アズールレーン九周年記念",
+        "乳合わせ",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149464490_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149464490",
+      "sourceCreatedAt": "2026-09-09T09:59:46.000Z"
+    },
+    {
       "id": "2b907e5a",
       "filename": "pixiv_149456852_p0.jpg",
       "path": "uploads/2026/09/69acd1dd.jpg",
