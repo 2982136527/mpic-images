@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "1275cff3",
+      "filename": "pixiv_149490874_p0.jpg",
+      "path": "uploads/2026/09/6bf5e382.jpg",
+      "size": 1218697,
+      "width": 1200,
+      "height": 695,
+      "mimeType": "image/jpeg",
+      "hash": "ed7730b1e0ad7c1f6554c1700460378ea7debec5a003e62a468f5c01937b6194",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T12:12:48.212Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "新しいお友達",
+      "tags": [
+        "星のカービィ",
+        "ワールドビヨンド",
+        "ゼンブ教えてヤルヨ",
+        "ありそうで困る",
+        "星のカービィワールドビヨンド",
+        "フシギな少女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149490874_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149490874",
+      "sourceCreatedAt": "2026-09-10T01:35:07.000Z"
+    },
+    {
       "id": "5bcf1e41",
       "filename": "pixiv_149486414_p0.jpg",
       "path": "uploads/2026/09/29a9cd3b.jpg",
