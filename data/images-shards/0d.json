@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "419d0b00",
+      "filename": "pixiv_149535479_p0.jpg",
+      "path": "uploads/2026/09/e74c4a7d.jpg",
+      "size": 1003010,
+      "width": 927,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3c69f794786df310b840911665a40b02779bca967ca1f650f7b82c77dcff0b5b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:27:32.753Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ヒナちゃんとねこ",
+      "tags": [
+        "ブルーアーカイブ",
+        "空崎ヒナ",
+        "猫",
+        "ブルーアーカイブ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149535479_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149535479",
+      "sourceCreatedAt": "2026-09-11T08:29:25.000Z"
+    },
+    {
       "id": "e1d8cc84",
       "filename": "pixiv_149497866_p0.jpg",
       "path": "uploads/2026/09/0fc695ec.jpg",
