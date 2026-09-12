@@ -3,6 +3,37 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "2db0c89b",
+      "filename": "pixiv_149507771_p0.jpg",
+      "path": "uploads/2026/09/cef929be.jpg",
+      "size": 200401,
+      "width": 1200,
+      "height": 668,
+      "mimeType": "image/jpeg",
+      "hash": "cfcc584922441fd5532b9a6cc332c36b07a1c24b01a6f0a5a9e5eb9b73b83ac9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T12:09:21.861Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "なかよくケンカしな",
+      "tags": [
+        "仮面ライダー",
+        "仮面ライダーマイス",
+        "トムとジェリー",
+        "マオウとマイス",
+        "だれかがやると思った",
+        "誰かやると思った",
+        "親の顔より見た光景",
+        "トムと仮面ライダー",
+        "職場で見たらあかんやつ",
+        "混ぜすぎカオス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149507771_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149507771",
+      "sourceCreatedAt": "2026-09-10T12:13:35.000Z"
+    },
+    {
       "id": "41b3660d",
       "filename": "pixiv_149506860_p0.jpg",
       "path": "uploads/2026/09/9605db77.jpg",
