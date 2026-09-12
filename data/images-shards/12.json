@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "66b5c934",
+      "filename": "pixiv_149493282_p0.jpg",
+      "path": "uploads/2026/09/95ca0610.jpg",
+      "size": 920097,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ddf8f3c490bc488697ba630b228f6e27f95905464ba2bdaddf0a221d0976f21e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T18:23:14.985Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "玲ちゃん",
+      "tags": [
+        "五桐玲",
+        "イキヅライブ!_LOVELIVE!_BLUEBIRD",
+        "イキヅライブ!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149493282_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149493282",
+      "sourceCreatedAt": "2026-09-10T03:40:45.000Z"
+    },
+    {
       "id": "0a33f6bd",
       "filename": "pixiv_149501772_p0.jpg",
       "path": "uploads/2026/09/aee83fe0.jpg",
