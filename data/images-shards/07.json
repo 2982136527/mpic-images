@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "5b74a39e",
+      "filename": "pixiv_149486324_p0.jpg",
+      "path": "uploads/2026/09/d2d6296d.jpg",
+      "size": 726287,
+      "width": 1200,
+      "height": 1103,
+      "mimeType": "image/jpeg",
+      "hash": "ce67a048832d5d42c45fee4f5f02d549f4f274ed0a002849dc2e4ad9ccdd003a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T12:13:35.402Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "らくがき",
+      "tags": [
+        "Fate/GrandOrder",
+        "牛若丸(Fate)",
+        "デンジャラス・ビースト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149486324_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149486324",
+      "sourceCreatedAt": "2026-09-09T21:03:52.000Z"
+    },
+    {
       "id": "621df6b2",
       "filename": "pixiv_149542894_p0.jpg",
       "path": "uploads/2026/09/67069bb5.jpg",
