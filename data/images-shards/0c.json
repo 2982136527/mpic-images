@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "a23ea23b",
+      "filename": "pixiv_149529547_p0.jpg",
+      "path": "uploads/2026/09/b4eeb1ea.jpg",
+      "size": 1205334,
+      "width": 777,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9e37b96fd4687734519c64db960b92b172c5e5a21d5327a05107582265c06504",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T18:19:03.867Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Queen A HArts",
+      "tags": [
+        "HonkaiStarRail",
+        "崩壊スターレイル",
+        "虚照",
+        "アッハ",
+        "Nihilux"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149529547_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149529547",
+      "sourceCreatedAt": "2026-09-11T03:32:12.000Z"
+    },
+    {
       "id": "e9127b59",
       "filename": "pixiv_149364575_p0.jpg",
       "path": "uploads/2026/09/28807898.jpg",
