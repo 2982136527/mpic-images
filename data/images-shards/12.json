@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "1bce1e91",
+      "filename": "pixiv_149532601_p0.jpg",
+      "path": "uploads/2026/09/af7f8027.jpg",
+      "size": 602150,
+      "width": 650,
+      "height": 690,
+      "mimeType": "image/jpeg",
+      "hash": "393dfd4c7970e4cae0a1fc4f250ba040f99d8daf059690da4f79d5e7587aaa70",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:26:37.637Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ねこねこねこねこねこねこねこねこねこ",
+      "tags": [
+        "わんだふるぷりきゅあ!",
+        "猫屋敷ユキ",
+        "猫屋敷まゆ",
+        "ニャンダフルプリキュア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149532601_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149532601",
+      "sourceCreatedAt": "2026-09-11T06:12:27.000Z"
+    },
+    {
       "id": "bf1384a4",
       "filename": "pixiv_149505959_p0.jpg",
       "path": "uploads/2026/09/b0f8e100.jpg",
