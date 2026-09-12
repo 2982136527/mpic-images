@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "ec2a2d8d",
+      "filename": "pixiv_149479997_p0.jpg",
+      "path": "uploads/2026/09/a608196d.jpg",
+      "size": 876204,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9e42ef4b29791df87d92c1efebdd70ac88c5fced0173964fbdd03253af000bee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T18:25:39.806Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ilulu universe",
+      "tags": [
+        "小林さんちのメイドラゴン",
+        "イルル(小林さんちのメイドラゴン)",
+        "イルル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149479997_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149479997",
+      "sourceCreatedAt": "2026-09-09T15:32:56.000Z"
+    },
+    {
       "id": "4b2775ed",
       "filename": "pixiv_149507548_p0.jpg",
       "path": "uploads/2026/09/ee2f8925.jpg",
