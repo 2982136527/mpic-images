@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "0d6f8456",
+      "filename": "pixiv_149504658_p0.jpg",
+      "path": "uploads/2026/09/2938870d.jpg",
+      "size": 1183237,
+      "width": 896,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "41ad98ec8f68cc9c5f6198f0c058252149ee153bbdfe2918d212b7bb82400828",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:28:38.832Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "スミカ",
+      "tags": [
+        "ブルーアーカイブ",
+        "小森スミカ",
+        "ロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149504658_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149504658",
+      "sourceCreatedAt": "2026-09-10T11:05:15.000Z"
+    },
+    {
       "id": "5d69cd01",
       "filename": "pixiv_149460003_p0.jpg",
       "path": "uploads/2026/09/ff83782b.jpg",
