@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "0e4d7dd4",
+      "filename": "pixiv_149543027_p0.jpg",
+      "path": "uploads/2026/09/4d58c2e0.jpg",
+      "size": 403308,
+      "width": 1200,
+      "height": 750,
+      "mimeType": "image/jpeg",
+      "hash": "73f7d2528056effc14b8d1c2af86653e72d883098a5577b884cf8b6c957397a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T18:26:10.909Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "にじさんじLOG 4",
+      "tags": [
+        "にじさんじ",
+        "星導ショウ",
+        "小柳ロウ",
+        "伊波ライ",
+        "Dytica",
+        "バーチャルYouTuber500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149543027_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149543027",
+      "sourceCreatedAt": "2026-09-11T11:43:30.000Z"
+    },
+    {
       "id": "d1017f5d",
       "filename": "pixiv_149522338_p0.jpg",
       "path": "uploads/2026/09/e7ce5401.jpg",
