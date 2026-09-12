@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "b02a321f",
+      "filename": "pixiv_149515268_p0.jpg",
+      "path": "uploads/2026/09/b6a5a639.jpg",
+      "size": 483432,
+      "width": 826,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1be8aca4782b0921071ec62fa538f594f37446ac5b74817ed27891bdf1b50523",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T12:13:28.172Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "天童ケイ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "天童ケイ",
+        "ケイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149515268_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149515268",
+      "sourceCreatedAt": "2026-09-10T15:00:54.000Z"
+    },
+    {
       "id": "9328d431",
       "filename": "pixiv_149494139_p0.jpg",
       "path": "uploads/2026/09/158aca6d.jpg",
