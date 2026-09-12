@@ -3,6 +3,36 @@
   "shardId": "12",
   "images": [
     {
+      "id": "bf1384a4",
+      "filename": "pixiv_149505959_p0.jpg",
+      "path": "uploads/2026/09/b0f8e100.jpg",
+      "size": 640609,
+      "width": 723,
+      "height": 964,
+      "mimeType": "image/jpeg",
+      "hash": "68373b824dcddb2c6160befbd3f93c639e06473b1925fa96e7333d4ce324f466",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:24:39.544Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "W＆ノクス",
+      "tags": [
+        "仮面ライダーW",
+        "仮面ライダーゼッツ",
+        "仮面ライダーノクス",
+        "ナイトメア・ドーパント",
+        "ルナメモリ",
+        "ミッドナイトシャドウ",
+        "さぁ、お前の罪を数えろ!",
+        "紙になった男",
+        "泉京水"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149505959_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149505959",
+      "sourceCreatedAt": "2026-09-10T11:36:05.000Z"
+    },
+    {
       "id": "08ae5977",
       "filename": "pixiv_149477142_p0.jpg",
       "path": "uploads/2026/09/242a8685.jpg",
