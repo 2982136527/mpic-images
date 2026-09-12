@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "467346d0",
+      "filename": "pixiv_149519924_p0.jpg",
+      "path": "uploads/2026/09/fda7ff47.jpg",
+      "size": 704339,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "324f2b5119f02f2102f09cbc0aadd1ca17e67cde304d4e3fc69da50dffaf3c2f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:33:52.731Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "おおきなまりさ",
+      "tags": [
+        "東方",
+        "東方Project",
+        "霧雨魔理沙",
+        "むちむち"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149519924_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149519924",
+      "sourceCreatedAt": "2026-09-10T17:27:54.000Z"
+    },
+    {
       "id": "df7a5cc9",
       "filename": "pixiv_149477288_p0.jpg",
       "path": "uploads/2026/09/bb929f0c.jpg",
