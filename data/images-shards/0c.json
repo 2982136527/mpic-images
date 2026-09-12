@@ -3,6 +3,28 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "141858d3",
+      "filename": "pixiv_149505197_p0.jpg",
+      "path": "uploads/2026/09/490b0f92.jpg",
+      "size": 1310578,
+      "width": 1200,
+      "height": 749,
+      "mimeType": "image/jpeg",
+      "hash": "d8cad406b8e9014d8faf33d6cd5ca95c2c8e5d68bea3082e6b60be9770e2ab68",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:31:00.960Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "きゃわろーど",
+      "tags": [
+        "十王星南"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149505197_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149505197",
+      "sourceCreatedAt": "2026-09-10T11:18:34.000Z"
+    },
+    {
       "id": "0284f4e5",
       "filename": "pixiv_149540656_p0.jpg",
       "path": "uploads/2026/09/608eebb8.jpg",
