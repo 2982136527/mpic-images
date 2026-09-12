@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "28f2e0c2",
+      "filename": "pixiv_149500372_p0.jpg",
+      "path": "uploads/2026/09/d6bc9cf0.jpg",
+      "size": 1328975,
+      "width": 1200,
+      "height": 705,
+      "mimeType": "image/jpeg",
+      "hash": "e83be3dd14f1fc53b828e63ccfb891c4526a054997f54471ec1f372ae326c140",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:25:26.651Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "シューゲイザー",
+      "tags": [
+        "部屋",
+        "魚眼",
+        "背景",
+        "空間"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149500372_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149500372",
+      "sourceCreatedAt": "2026-09-10T09:07:25.000Z"
+    },
+    {
       "id": "2a01788e",
       "filename": "pixiv_149271016_p0.jpg",
       "path": "uploads/2026/09/3865b24f.jpg",
