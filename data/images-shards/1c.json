@@ -3,6 +3,36 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "1201c44c",
+      "filename": "pixiv_149536957_p0.jpg",
+      "path": "uploads/2026/09/07741062.jpg",
+      "size": 1388229,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a6dd4ff5bd38aa30649963357214e75fb4ccf1f507f39719f26cef37624eb1d2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:31:08.031Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "キュアヤムヤム",
+      "tags": [
+        "プリキュア",
+        "precure",
+        "デリシャスパーティ♡プリキュア",
+        "デリシャスパーティプリキュア",
+        "デパプリ",
+        "キュアヤムヤム",
+        "華満らん",
+        "プリキュア100users入り",
+        "デパプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149536957_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149536957",
+      "sourceCreatedAt": "2026-09-11T09:12:06.000Z"
+    },
+    {
       "id": "f2f88d02",
       "filename": "pixiv_149512750_p0.jpg",
       "path": "uploads/2026/09/b2b748f4.jpg",
