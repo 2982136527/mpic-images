@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "adb5f3f8",
+      "filename": "pixiv_149547562_p0.jpg",
+      "path": "uploads/2026/09/24c7fc56.jpg",
+      "size": 841430,
+      "width": 1200,
+      "height": 851,
+      "mimeType": "image/jpeg",
+      "hash": "1df688c7049615699a4d846e5073323e56241c7e8f7a2eb885ed15b4001a889d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:27:07.535Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "外ハネちゃんLINEスタンプ",
+      "tags": [
+        "オリジナル",
+        "LINEスタンプ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149547562_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149547562",
+      "sourceCreatedAt": "2026-09-11T13:16:40.000Z"
+    },
+    {
       "id": "4277ff29",
       "filename": "pixiv_149529904_p0.jpg",
       "path": "uploads/2026/09/7b904853.jpg",
