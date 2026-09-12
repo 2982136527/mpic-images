@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "9ef5a885",
+      "filename": "pixiv_149478282_p0.jpg",
+      "path": "uploads/2026/09/b384b648.jpg",
+      "size": 478590,
+      "width": 663,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2ae841f9be5df1e8a39a2d95e141503be2101d8beaf56fa943e31d31fa37a78b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:27:00.497Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "郡上かなで",
+      "tags": [
+        "上伊那ぼたん、酔へる姿は百合の花",
+        "郡上かなで"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149478282_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149478282",
+      "sourceCreatedAt": "2026-09-09T15:00:34.000Z"
+    },
+    {
       "id": "8fcb87d8",
       "filename": "pixiv_149474385_p0.jpg",
       "path": "uploads/2026/09/ec972864.jpg",
