@@ -3,6 +3,34 @@
   "shardId": "01",
   "images": [
     {
+      "id": "88cf3220",
+      "filename": "pixiv_149501234_p0.jpg",
+      "path": "uploads/2026/09/ce10e064.jpg",
+      "size": 944268,
+      "width": 1200,
+      "height": 823,
+      "mimeType": "image/jpeg",
+      "hash": "892e3acce6cb17b35757d84243e20d2245390fed508508533e7f6bf9eb0f26d5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T12:09:10.957Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "初個展『擬花』",
+      "tags": [
+        "擬花",
+        "制服",
+        "女の子",
+        "向日葵",
+        "ひまわり",
+        "花",
+        "花と女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149501234_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149501234",
+      "sourceCreatedAt": "2026-09-10T09:33:16.000Z"
+    },
+    {
       "id": "467346d0",
       "filename": "pixiv_149519924_p0.jpg",
       "path": "uploads/2026/09/fda7ff47.jpg",
