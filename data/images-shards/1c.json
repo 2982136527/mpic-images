@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "bf022c4d",
+      "filename": "pixiv_149533587_p0.jpg",
+      "path": "uploads/2026/09/97f8930c.jpg",
+      "size": 1390634,
+      "width": 860,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b7737798eba99d24f28e11f2111cf234ff700f976eb63cc263ea171e4469c4fa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:25:47.594Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🌸巡音ルカ🌸",
+      "tags": [
+        "VOCALOID",
+        "巡音ルカ",
+        "横顔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149533587_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149533587",
+      "sourceCreatedAt": "2026-09-11T07:05:51.000Z"
+    },
+    {
       "id": "3a4942bc",
       "filename": "pixiv_149477494_p0.jpg",
       "path": "uploads/2026/09/6eee4533.jpg",
