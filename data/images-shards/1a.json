@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "98d2aef3",
+      "filename": "pixiv_149490815_p0.jpg",
+      "path": "uploads/2026/09/c0a04404.jpg",
+      "size": 697569,
+      "width": 713,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c9fa9b63733e4f44036dd3e90e8f26e80f0a8c9d835f2837bdb67edeb2cb51d1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T12:09:53.092Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "マキナ(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149490815_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149490815",
+      "sourceCreatedAt": "2026-09-10T01:31:52.000Z"
+    },
+    {
       "id": "9ef5a885",
       "filename": "pixiv_149478282_p0.jpg",
       "path": "uploads/2026/09/b384b648.jpg",
