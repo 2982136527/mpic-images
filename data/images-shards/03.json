@@ -3,6 +3,28 @@
   "shardId": "03",
   "images": [
     {
+      "id": "5e289cf4",
+      "filename": "pixiv_149520530_p0.jpg",
+      "path": "uploads/2026/09/6b4f2a0f.jpg",
+      "size": 573907,
+      "width": 1200,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "e3a62cf1223f3557d5251f01afa659a1c1a67f542003f793f559c53080dbd2d4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T18:18:17.436Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "スカルド",
+      "tags": [
+        "ノスフェラトゥさん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149520530_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149520530",
+      "sourceCreatedAt": "2026-09-11T17:08:53.000Z"
+    },
+    {
       "id": "6b0529f0",
       "filename": "pixiv_149517458_p0.jpg",
       "path": "uploads/2026/09/2afb299f.jpg",
