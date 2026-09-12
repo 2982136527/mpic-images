@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "4b2775ed",
+      "filename": "pixiv_149507548_p0.jpg",
+      "path": "uploads/2026/09/ee2f8925.jpg",
+      "size": 604293,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cd200744ec45b0c8da9b9a763ad3153b2cddd87543174b9d46c7e470bb8fe0c9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T18:25:17.041Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ゼノスタまとめ",
+      "tags": [
+        "dcst腐向け",
+        "ゼノスタ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149507548_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149507548",
+      "sourceCreatedAt": "2026-09-10T12:09:09.000Z"
+    },
+    {
       "id": "7924301c",
       "filename": "pixiv_149515256_p0.jpg",
       "path": "uploads/2026/09/90b963bc.jpg",
