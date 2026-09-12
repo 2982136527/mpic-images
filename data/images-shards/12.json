@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "a55edbf2",
+      "filename": "pixiv_149534812_p0.jpg",
+      "path": "uploads/2026/09/8ed5c6f0.jpg",
+      "size": 683055,
+      "width": 733,
+      "height": 1042,
+      "mimeType": "image/jpeg",
+      "hash": "d338ae56af8f3ca2d9c81bc4636315c6360b3960dc02b798fa239ae2e6b2c302",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:31:15.954Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ゆぎお詰め。52",
+      "tags": [
+        "ブラックマジシャンガール",
+        "遊戯王OCG"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149534812_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149534812",
+      "sourceCreatedAt": "2026-09-11T08:02:44.000Z"
+    },
+    {
       "id": "5d4da5ab",
       "filename": "pixiv_149547319_p0.jpg",
       "path": "uploads/2026/09/0442eae4.jpg",
