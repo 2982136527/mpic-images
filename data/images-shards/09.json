@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "c05c13d7",
+      "filename": "pixiv_149515117_p0.jpg",
+      "path": "uploads/2026/09/90398117.jpg",
+      "size": 802223,
+      "width": 973,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0f9d49084d8e23a8e3a7baf7d4493c59adb5ffc121981c27a5f89a0ebdbee3b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:24:56.523Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Orb",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149515117_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149515117",
+      "sourceCreatedAt": "2026-09-10T15:00:16.000Z"
+    },
+    {
       "id": "d280eee4",
       "filename": "pixiv_149510783_p0.jpg",
       "path": "uploads/2026/09/4ca90552.jpg",
