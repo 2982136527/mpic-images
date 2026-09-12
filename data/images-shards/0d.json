@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "8060a95c",
+      "filename": "pixiv_149504554_p0.jpg",
+      "path": "uploads/2026/09/242d92cf.jpg",
+      "size": 711966,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "32e42fd80ba463e59e0f54f359bcb64969f1004a3c5eb9aff2fde6db1051edd5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T12:11:45.077Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "プロムン雑らくがき",
+      "tags": [
+        "LimbusCompany",
+        "Library_Of_Ruina"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149504554_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149504554",
+      "sourceCreatedAt": "2026-09-10T11:03:08.000Z"
+    },
+    {
       "id": "62277d57",
       "filename": "pixiv_149504805_p0.jpg",
       "path": "uploads/2026/09/8263459d.jpg",
