@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "7924301c",
+      "filename": "pixiv_149515256_p0.jpg",
+      "path": "uploads/2026/09/90b963bc.jpg",
+      "size": 1148524,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e287cb1a66e10c8954e5dbc57e1fe86f34806a5f454c766df9439672bdbd7722",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T18:22:26.427Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "nophenia",
+      "tags": [
+        "女の子",
+        "ケモミミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149515256_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149515256",
+      "sourceCreatedAt": "2026-09-10T15:00:50.000Z"
+    },
+    {
       "id": "7e8a783c",
       "filename": "pixiv_149503733_p0.jpg",
       "path": "uploads/2026/09/0c06b830.jpg",
