@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "dbc70d9c",
+      "filename": "pixiv_149533968_p0.jpg",
+      "path": "uploads/2026/09/29633666.jpg",
+      "size": 998406,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3d94fd94bc1d241ae012a04fdd1e0bdaed29d430f1ff737cd5a7bd59fa76ff3f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:33:45.861Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "BlueArchive",
+        "ブルーアーカイブ",
+        "下倉メグ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149533968_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149533968",
+      "sourceCreatedAt": "2026-09-11T07:26:14.000Z"
+    },
+    {
       "id": "01b071a2",
       "filename": "pixiv_149366381_p0.jpg",
       "path": "uploads/2026/09/4fb774c2.jpg",
