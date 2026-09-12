@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "64884d79",
+      "filename": "pixiv_149503870_p0.jpg",
+      "path": "uploads/2026/09/b3128db7.jpg",
+      "size": 348970,
+      "width": 856,
+      "height": 824,
+      "mimeType": "image/jpeg",
+      "hash": "d6f1e3270825d88153c2e6626b2f266bedcbd9b193787f9e1d295bfffa38a153",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T12:16:09.831Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "kibi",
+      "tags": [
+        "星のカービィワールドビヨンド",
+        "星のカービィ",
+        "レオタード",
+        "ラテックス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149503870_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149503870",
+      "sourceCreatedAt": "2026-09-10T10:51:03.000Z"
+    },
+    {
       "id": "b02a321f",
       "filename": "pixiv_149515268_p0.jpg",
       "path": "uploads/2026/09/b6a5a639.jpg",
