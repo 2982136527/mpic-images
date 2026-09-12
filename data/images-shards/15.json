@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "6324efec",
+      "filename": "pixiv_149509108_p0.jpg",
+      "path": "uploads/2026/09/71ccbdf7.jpg",
+      "size": 1279842,
+      "width": 1200,
+      "height": 1196,
+      "mimeType": "image/jpeg",
+      "hash": "98f3d80e3789f5bb42f3557e47453715130db137c70c91e859fab8734e59e928",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T18:22:43.248Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "9/13 レイチュリ新刊サンプル",
+      "tags": [
+        "レイチュリ",
+        "OVERtheGALAXIAS10"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149509108_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149509108",
+      "sourceCreatedAt": "2026-09-10T12:45:17.000Z"
+    },
+    {
       "id": "2dcc9427",
       "filename": "pixiv_149541874_p0.jpg",
       "path": "uploads/2026/09/cc177180.jpg",
