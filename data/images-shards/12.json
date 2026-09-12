@@ -3,6 +3,37 @@
   "shardId": "12",
   "images": [
     {
+      "id": "2f4e772f",
+      "filename": "pixiv_149511338_p0.jpg",
+      "path": "uploads/2026/09/c0e61a10.jpg",
+      "size": 702905,
+      "width": 1007,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "23931ace7dd34846ef7a88ebc07eee71ca16302f75ec01463a633c33a893bebe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T12:10:07.491Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "クレヨンしんちゃん",
+      "tags": [
+        "クレヨンしんちゃん",
+        "イラスト",
+        "女の子",
+        "少女",
+        "黒髪",
+        "girl",
+        "男の子",
+        "酢乙女あい",
+        "風間トオル",
+        "野原しんのすけ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149511338_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149511338",
+      "sourceCreatedAt": "2026-09-10T13:32:52.000Z"
+    },
+    {
       "id": "a55edbf2",
       "filename": "pixiv_149534812_p0.jpg",
       "path": "uploads/2026/09/8ed5c6f0.jpg",
