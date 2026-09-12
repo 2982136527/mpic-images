@@ -3,6 +3,32 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "a94034a0",
+      "filename": "pixiv_149488728_p0.jpg",
+      "path": "uploads/2026/09/9eacbf4d.jpg",
+      "size": 1218294,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a5326a30c4c43580e2c85d7a59419af83be85b91a55907a306b1e4c97e73df80",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T04:27:22.303Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "『19th』",
+      "tags": [
+        "初音ミク",
+        "HatsuneMiku",
+        "VOCALOID",
+        "初音ミク誕生祭2026",
+        "初音ミク生誕祭2026"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149488728_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149488728",
+      "sourceCreatedAt": "2026-09-09T23:22:14.000Z"
+    },
+    {
       "id": "c07d4e6d",
       "filename": "pixiv_149442041_p0.jpg",
       "path": "uploads/2026/09/cec7936c.jpg",
