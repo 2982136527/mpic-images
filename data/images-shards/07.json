@@ -3,6 +3,28 @@
   "shardId": "07",
   "images": [
     {
+      "id": "621df6b2",
+      "filename": "pixiv_149542894_p0.jpg",
+      "path": "uploads/2026/09/67069bb5.jpg",
+      "size": 1093018,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "93e93933fa00f61abebfa83cc3ba642e7013aabed5203bef494bb55fabe8c58e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-12T12:08:26.280Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "work illust",
+      "tags": [
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149542894_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149542894",
+      "sourceCreatedAt": "2026-09-11T11:40:08.000Z"
+    },
+    {
       "id": "dad76ddb",
       "filename": "pixiv_149503781_p0.jpg",
       "path": "uploads/2026/09/7d71a142.jpg",
