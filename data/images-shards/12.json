@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "30261a88",
+      "filename": "pixiv_149553742_p0.jpg",
+      "path": "uploads/2026/09/d901eb1c.jpg",
+      "size": 471451,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9b75424778486c29960f02e90548bc1beeb49e07e917f7807ec52d42d8a8639f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:39:50.494Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "衝撃",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "ワルプルギスの廻天",
+        "まどか☆マギカ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149553742_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149553742",
+      "sourceCreatedAt": "2026-09-11T15:25:20.000Z"
+    },
+    {
       "id": "66b5c934",
       "filename": "pixiv_149493282_p0.jpg",
       "path": "uploads/2026/09/95ca0610.jpg",
