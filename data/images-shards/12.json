@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "2da6a23b",
+      "filename": "pixiv_149574651_p0.jpg",
+      "path": "uploads/2026/09/e2f24722.jpg",
+      "size": 843686,
+      "width": 767,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "986a37d2eccdbe906edb01f7013505e19ff7336e3e6ff3b40a68df87225d9414",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T13:20:40.589Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🐣？",
+      "tags": [
+        "東雲彰人",
+        "プロセカ",
+        "プロジェクトセカイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149574651_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149574651",
+      "sourceCreatedAt": "2026-09-12T07:07:52.000Z"
+    },
+    {
       "id": "8f2f3601",
       "filename": "pixiv_149547932_p0.jpg",
       "path": "uploads/2026/09/41ecc6d3.jpg",
