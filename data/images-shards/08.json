@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "35c88868",
+      "filename": "pixiv_149567189_p0.jpg",
+      "path": "uploads/2026/09/7431c818.jpg",
+      "size": 1248599,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "596a4463730eb74cfdb3e8826ab26de1d5dc68bf23fe6e0b2e958b0fb2ef526d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:38:00.887Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "陽光",
+      "tags": [
+        "女の子",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149567189_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149567189",
+      "sourceCreatedAt": "2026-09-12T02:17:30.000Z"
+    },
+    {
       "id": "7f3bf72f",
       "filename": "pixiv_149519270_p0.jpg",
       "path": "uploads/2026/09/62831b42.jpg",
