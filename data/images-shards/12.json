@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "8f2f3601",
+      "filename": "pixiv_149547932_p0.jpg",
+      "path": "uploads/2026/09/41ecc6d3.jpg",
+      "size": 1392876,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "60538945cbd5e0fc0543f187bc92814f9abb1fd2f4a3a3944b37c87c642874f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T13:18:06.208Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Ember",
+      "tags": [
+        "アークナイツ:エンドフィールド",
+        "エンドフィールド",
+        "ArknightsEndfield",
+        "エンバー(エンドフィールド)",
+        "终末地"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149547932_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149547932",
+      "sourceCreatedAt": "2026-09-11T13:25:15.000Z"
+    },
+    {
       "id": "30261a88",
       "filename": "pixiv_149553742_p0.jpg",
       "path": "uploads/2026/09/d901eb1c.jpg",
