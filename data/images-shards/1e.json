@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "a9bfb89c",
+      "filename": "pixiv_149541915_p0.jpg",
+      "path": "uploads/2026/09/b24658e4.jpg",
+      "size": 478279,
+      "width": 671,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2029da55e98db5537fbae7c0425bfeace44357db3895f2cdc7bbd354ff8d5513",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:37:26.553Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "レスカガール",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "girlfriend",
+        "サンダル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149541915_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149541915",
+      "sourceCreatedAt": "2026-09-11T11:16:13.000Z"
+    },
+    {
       "id": "6bf6a628",
       "filename": "pixiv_149543314_p0.jpg",
       "path": "uploads/2026/09/8b783792.jpg",
