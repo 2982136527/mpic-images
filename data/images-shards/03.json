@@ -3,6 +3,34 @@
   "shardId": "03",
   "images": [
     {
+      "id": "b3b5d68d",
+      "filename": "pixiv_149395892_p0.jpg",
+      "path": "uploads/2026/09/6dd0036d.jpg",
+      "size": 764471,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "671921d73ff0ae8b3a7162131e7956648b277c87c0b0d1af807035280ac38c35",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T13:24:15.710Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "初音ミク",
+      "tags": [
+        "イラスト",
+        "VOCALOID",
+        "初音ミク",
+        "女の子",
+        "ボーカロイド",
+        "ボカロ",
+        "HatsuneMiku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149395892_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149395892",
+      "sourceCreatedAt": "2026-09-07T12:12:34.000Z"
+    },
+    {
       "id": "81b5804d",
       "filename": "pixiv_149549484_p0.jpg",
       "path": "uploads/2026/09/0f9a8acc.jpg",
