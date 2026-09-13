@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "c8069f06",
+      "filename": "pixiv_149551845_p0.jpg",
+      "path": "uploads/2026/09/25f9f793.jpg",
+      "size": 429583,
+      "width": 1200,
+      "height": 745,
+      "mimeType": "image/jpeg",
+      "hash": "550fe1edfbc6761ec2124cc0aad254fd66b0d4fc37d59411be8d25b712a507c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T13:22:24.952Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "小悪魔(東方Project)",
+        "東方",
+        "東方Project",
+        "東方紅魔郷NewClassic"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149551845_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149551845",
+      "sourceCreatedAt": "2026-09-11T14:57:36.000Z"
+    },
+    {
       "id": "dbf2baf0",
       "filename": "pixiv_149548750_p0.jpg",
       "path": "uploads/2026/09/476ca7b7.jpg",
