@@ -3,6 +3,33 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "38b4e32b",
+      "filename": "pixiv_149563085_p0.jpg",
+      "path": "uploads/2026/09/1a8a3ff7.jpg",
+      "size": 1055573,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "553666e3a8d4ead6c5c6b3b5301ea82d031914ee19ba89c87a554f59079dbf11",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T13:22:53.586Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "レトロルーム",
+      "tags": [
+        "illustration",
+        "イラスト",
+        "オリキャラ",
+        "originalcharacter",
+        "OC",
+        "レトロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149563085_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149563085",
+      "sourceCreatedAt": "2026-09-11T23:13:44.000Z"
+    },
+    {
       "id": "b79640e8",
       "filename": "pixiv_149547794_p0.jpg",
       "path": "uploads/2026/09/703ce82e.jpg",
