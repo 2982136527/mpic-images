@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "b79640e8",
+      "filename": "pixiv_149547794_p0.jpg",
+      "path": "uploads/2026/09/703ce82e.jpg",
+      "size": 1264663,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "49955467c4b099f16678f1cec67ed515b7669164089c5cfece9fec9ea335dba0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:41:21.187Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【商業BL】新作告知！",
+      "tags": [
+        "創作BL",
+        "商業BL",
+        "触手",
+        "BL"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149547794_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149547794",
+      "sourceCreatedAt": "2026-09-11T14:18:47.000Z"
+    },
+    {
       "id": "49c71696",
       "filename": "pixiv_149518925_p0.jpg",
       "path": "uploads/2026/09/84086772.jpg",
