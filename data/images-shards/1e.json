@@ -3,6 +3,32 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "6bf6a628",
+      "filename": "pixiv_149543314_p0.jpg",
+      "path": "uploads/2026/09/8b783792.jpg",
+      "size": 1097006,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4a3935f4e3cdf68c1c923e3e078f39e16d4d92619b9d2884f844355465238978",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:36:59.033Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "元気をもらえた日",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "イラスト",
+        "女の子",
+        "日常"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149543314_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149543314",
+      "sourceCreatedAt": "2026-09-11T11:50:50.000Z"
+    },
+    {
       "id": "867bd34c",
       "filename": "pixiv_149540557_p0.jpg",
       "path": "uploads/2026/09/475eb58a.jpg",
