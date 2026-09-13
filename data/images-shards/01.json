@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "b63d7db9",
+      "filename": "pixiv_149568304_p0.jpg",
+      "path": "uploads/2026/09/4a2bf318.jpg",
+      "size": 631915,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "29780e025af8b13490bf2d909cf81fe51c4b5dbc1aaad7353e58e35a2d37cccd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:39:33.355Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "少し考えればわかるよね？",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "まのさば",
+        "桜羽エマ",
+        "反転エマ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149568304_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149568304",
+      "sourceCreatedAt": "2026-09-12T03:00:15.000Z"
+    },
+    {
       "id": "5435a372",
       "filename": "pixiv_149585122_p0.jpg",
       "path": "uploads/2026/09/005a1bf0.jpg",
