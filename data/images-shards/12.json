@@ -3,6 +3,28 @@
   "shardId": "12",
   "images": [
     {
+      "id": "d63ea628",
+      "filename": "pixiv_149566692_p0.jpg",
+      "path": "uploads/2026/09/c851389a.jpg",
+      "size": 172348,
+      "width": 1200,
+      "height": 630,
+      "mimeType": "image/jpeg",
+      "hash": "bb3dc548dc688a78150ad494c38624146b964fa7887211ccfe50bde613c573e8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T18:47:04.171Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "神が魔界を作った時…",
+      "tags": [
+        "神が私を作った時"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149566692_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149566692",
+      "sourceCreatedAt": "2026-09-12T01:57:53.000Z"
+    },
+    {
       "id": "f64aba17",
       "filename": "pixiv_149568607_p0.jpg",
       "path": "uploads/2026/09/e75d9114.jpg",
