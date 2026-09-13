@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "c0d92060",
+      "filename": "pixiv_149384099_p0.jpg",
+      "path": "uploads/2026/09/89caec20.jpg",
+      "size": 1519051,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1264cdb78066d2644d780625bda588df6f13a4cfdce08131513de5f2e0d7aff8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:45:15.007Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "奏ちゃんの新しいペット",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "dog",
+        "犬と女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149384099_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149384099",
+      "sourceCreatedAt": "2026-09-07T06:16:35.000Z"
+    },
+    {
       "id": "52fb09d6",
       "filename": "pixiv_149553146_p0.jpg",
       "path": "uploads/2026/09/62c76c36.jpg",
