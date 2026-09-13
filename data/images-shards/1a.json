@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "b4393e9e",
+      "filename": "pixiv_149551995_p0.jpg",
+      "path": "uploads/2026/09/8534f694.jpg",
+      "size": 695649,
+      "width": 823,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d9952f9e163e89f7e30e9304273e71849fabe98cebff64b7c6e7618a49f2cac8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T13:26:21.400Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "癒月ちょこ",
+      "tags": [
+        "バーチャルYouTuber",
+        "癒月ちょこ",
+        "VTuber",
+        "ホロライブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149551995_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149551995",
+      "sourceCreatedAt": "2026-09-11T15:00:08.000Z"
+    },
+    {
       "id": "9a0bbd0c",
       "filename": "pixiv_149538499_p0.jpg",
       "path": "uploads/2026/09/f572cd2f.jpg",
