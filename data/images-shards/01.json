@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "0b6f1b82",
+      "filename": "pixiv_149563208_p0.jpg",
+      "path": "uploads/2026/09/7bc08c88.jpg",
+      "size": 846539,
+      "width": 1200,
+      "height": 839,
+      "mimeType": "image/jpeg",
+      "hash": "842b2e945222bcbba02a7c81a87280d9f1658ef208cf6c6e24aa090aaf815515",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:44:24.409Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "光ファイバー",
+      "tags": [
+        "白髪",
+        "女の子",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149563208_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149563208",
+      "sourceCreatedAt": "2026-09-12T03:20:13.000Z"
+    },
+    {
       "id": "2346e412",
       "filename": "pixiv_149538881_p0.jpg",
       "path": "uploads/2026/09/2b0513fc.jpg",
