@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "52fb09d6",
+      "filename": "pixiv_149553146_p0.jpg",
+      "path": "uploads/2026/09/62c76c36.jpg",
+      "size": 432063,
+      "width": 830,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "604449f134f3a3234493f979f652278bd44976c00d3088e954cb4423042c5b08",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:39:00.190Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "そんな かっこう やめちまえ！",
+      "tags": [
+        "ポケモン",
+        "HGSS",
+        "コトネ(トレーナー)",
+        "シルバー(トレーナー)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149553146_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149553146",
+      "sourceCreatedAt": "2026-09-11T15:12:25.000Z"
+    },
+    {
       "id": "6f47c00f",
       "filename": "pixiv_149552193_p0.jpg",
       "path": "uploads/2026/09/29cfb397.jpg",
