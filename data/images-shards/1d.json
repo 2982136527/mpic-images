@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "3b56e416",
+      "filename": "pixiv_149579018_p0.jpg",
+      "path": "uploads/2026/09/c500e458.jpg",
+      "size": 483857,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "2e3917f8c58af14298042e3c445930f2317b4da835888e9e44155c2aaaecce42",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T13:19:58.670Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "自戒",
+      "tags": [
+        "東方",
+        "大妖精",
+        "ルーミア",
+        "チルノ",
+        "鼻提灯"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149579018_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149579018",
+      "sourceCreatedAt": "2026-09-12T09:23:48.000Z"
+    },
+    {
       "id": "c8ecb366",
       "filename": "pixiv_149556708_p0.jpg",
       "path": "uploads/2026/09/9bf3ead4.jpg",
