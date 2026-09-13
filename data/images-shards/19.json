@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "ec43b5e6",
+      "filename": "pixiv_149563709_p0.jpg",
+      "path": "uploads/2026/09/b70f9740.jpg",
+      "size": 752390,
+      "width": 1200,
+      "height": 1028,
+      "mimeType": "image/jpeg",
+      "hash": "83563363d9c1130c2a8154f132c92ba26ee1bc5264f7778f009e2f22c31a25c3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T13:20:23.447Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ちいかわ×エヴァンゲリオン",
+      "tags": [
+        "エヴァンゲリオン",
+        "ちいかわ",
+        "ちいえば"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149563709_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149563709",
+      "sourceCreatedAt": "2026-09-11T23:44:08.000Z"
+    },
+    {
       "id": "8c85dd5f",
       "filename": "pixiv_149577701_p0.jpg",
       "path": "uploads/2026/09/1586bf84.jpg",
