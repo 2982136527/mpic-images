@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "c66d81eb",
+      "filename": "pixiv_149552070_p0.jpg",
+      "path": "uploads/2026/09/d22bc117.jpg",
+      "size": 1009310,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "d9b1f67ae2d386cc4ff7e7f5a2507210ed4a094d3ffc591bb58711cf924e00b5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T13:20:05.888Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ワッさん",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "ワルプルギスの廻天",
+        "ワス",
+        "まどか☆マギカ100users入り",
+        "メルトジェム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149552070_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149552070",
+      "sourceCreatedAt": "2026-09-11T15:00:18.000Z"
+    },
+    {
       "id": "5fb111dd",
       "filename": "pixiv_149560460_p0.jpg",
       "path": "uploads/2026/09/b867e627.jpg",
