@@ -3,6 +3,28 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "0fdba234",
+      "filename": "pixiv_149585428_p0.jpg",
+      "path": "uploads/2026/09/aa6a6299.jpg",
+      "size": 459897,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f1dcf9aa6c75e2562d2bc5c4ecde35280b7f0f14285ca9307a14e2ccab59c23a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T18:51:26.515Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "skeb依頼絵",
+      "tags": [
+        "バニーガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149585428_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149585428",
+      "sourceCreatedAt": "2026-09-12T11:52:49.000Z"
+    },
+    {
       "id": "b75df21c",
       "filename": "pixiv_149547903_p0.jpg",
       "path": "uploads/2026/09/33ff5cfe.jpg",
