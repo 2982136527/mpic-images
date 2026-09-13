@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "dbf2baf0",
+      "filename": "pixiv_149548750_p0.jpg",
+      "path": "uploads/2026/09/476ca7b7.jpg",
+      "size": 1006056,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "507a5dec0aa04d79a1a6cdc5c436d56d29f369cb2013e372c8cb546644782fbc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T13:19:16.485Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ご安全に！",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "工事現場"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149548750_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149548750",
+      "sourceCreatedAt": "2026-09-11T13:42:48.000Z"
+    },
+    {
       "id": "15d48fdf",
       "filename": "pixiv_148479617_p0.jpg",
       "path": "uploads/2026/09/82dbb4f0.jpg",
