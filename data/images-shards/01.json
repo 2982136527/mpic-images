@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "5435a372",
+      "filename": "pixiv_149585122_p0.jpg",
+      "path": "uploads/2026/09/005a1bf0.jpg",
+      "size": 2276535,
+      "width": 875,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cbbcb7be0b60000914a1188e275108b46046c7a0a80453ae267ebf97393b198c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:37:05.903Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "“the flavor of a god”",
+      "tags": [
+        "插画",
+        "原创",
+        "OC",
+        "創作",
+        "オリジナル",
+        "commission"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149585122_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149585122",
+      "sourceCreatedAt": "2026-09-12T11:45:54.000Z"
+    },
+    {
       "id": "6174160d",
       "filename": "pixiv_149515086_p0.jpg",
       "path": "uploads/2026/09/abf3b7ec.jpg",
