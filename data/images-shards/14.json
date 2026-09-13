@@ -3,6 +3,32 @@
   "shardId": "14",
   "images": [
     {
+      "id": "3d0f0fc3",
+      "filename": "pixiv_149561205_p0.jpg",
+      "path": "uploads/2026/09/c708f845.jpg",
+      "size": 1429758,
+      "width": 821,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2b20b22371e9c6eefc224db4954e61c78b229d7139a56629e7191a00d8848880",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T13:18:27.565Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "魔法使いの街の秋",
+      "tags": [
+        "女の子",
+        "少女",
+        "白髪",
+        "魔法使い",
+        "秋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149561205_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149561205",
+      "sourceCreatedAt": "2026-09-11T21:34:48.000Z"
+    },
+    {
       "id": "45e68ae7",
       "filename": "pixiv_149577900_p0.jpg",
       "path": "uploads/2026/09/c1517fac.jpg",
