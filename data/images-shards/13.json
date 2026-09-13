@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "1751c65e",
+      "filename": "pixiv_149571656_p0.jpg",
+      "path": "uploads/2026/09/8bd894b8.jpg",
+      "size": 787604,
+      "width": 985,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5db289d234cb7d89f02d78ae375a4ff65889ef738c885b7e2bdd178666305054",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T18:44:15.718Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "海",
+      "tags": [
+        "サニーゴ",
+        "ガラルサニーゴ",
+        "ヒドイデ",
+        "海"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149571656_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149571656",
+      "sourceCreatedAt": "2026-09-12T05:11:28.000Z"
+    },
+    {
       "id": "82a2e8f4",
       "filename": "pixiv_149523357_p0.jpg",
       "path": "uploads/2026/09/90f4d65d.jpg",
