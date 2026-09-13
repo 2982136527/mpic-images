@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "fdc64cbe",
+      "filename": "pixiv_149554477_p0.jpg",
+      "path": "uploads/2026/09/2bc19f57.jpg",
+      "size": 744769,
+      "width": 853,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "12f9fc214be8adcbd573c1db7775034db4ca9de2db40e3e562dc948d4420f3ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:41:34.725Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "马",
+      "tags": [
+        "うちの子",
+        "褐色肌"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149554477_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149554477",
+      "sourceCreatedAt": "2026-09-11T15:42:20.000Z"
+    },
+    {
       "id": "a9bfb89c",
       "filename": "pixiv_149541915_p0.jpg",
       "path": "uploads/2026/09/b24658e4.jpg",
