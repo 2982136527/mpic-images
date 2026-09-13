@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "ee012ab3",
+      "filename": "pixiv_149552010_p0.jpg",
+      "path": "uploads/2026/09/1bcb3a48.jpg",
+      "size": 2158379,
+      "width": 863,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2ed5368fd3140714240da2296c392cce0e47eb9fb6839274242ed01ff50c41f0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:44:03.301Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "後宮の棘6",
+      "tags": [
+        "女の子",
+        "美少女",
+        "中華風"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149552010_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149552010",
+      "sourceCreatedAt": "2026-09-11T15:00:10.000Z"
+    },
+    {
       "id": "dd780788",
       "filename": "pixiv_149559117_p0.jpg",
       "path": "uploads/2026/09/00f2e7bc.jpg",
