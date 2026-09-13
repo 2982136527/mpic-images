@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "95b64b98",
+      "filename": "pixiv_149532687_p0.jpg",
+      "path": "uploads/2026/09/c3f2ccdc.jpg",
+      "size": 1024404,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3bf41d7b672c5985725ac1f01eae9da2d5a82ecd5a7f7b6b88c9c518bfd849c0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:43:08.399Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "にこにー",
+      "tags": [
+        "ラブライブ!",
+        "μ's",
+        "矢澤にこ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149532687_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149532687",
+      "sourceCreatedAt": "2026-09-11T06:18:00.000Z"
+    },
+    {
       "id": "494810cf",
       "filename": "pixiv_149527562_p0.jpg",
       "path": "uploads/2026/09/6546c69f.jpg",
