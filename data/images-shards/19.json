@@ -3,6 +3,32 @@
   "shardId": "19",
   "images": [
     {
+      "id": "2ad50851",
+      "filename": "pixiv_149570298_p0.jpg",
+      "path": "uploads/2026/09/43a214a1.jpg",
+      "size": 1112211,
+      "width": 695,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6e77f7f5cc62dc8565728c89404551304c1daddb453e7a197d3f2e86611246ca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:38:50.496Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Collection",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "少女",
+        "創作",
+        "金髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149570298_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149570298",
+      "sourceCreatedAt": "2026-09-12T04:15:23.000Z"
+    },
+    {
       "id": "a804e464",
       "filename": "pixiv_149538159_p0.jpg",
       "path": "uploads/2026/09/b38c1790.jpg",
