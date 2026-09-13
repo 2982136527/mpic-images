@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "cace53ce",
+      "filename": "pixiv_149574571_p0.jpg",
+      "path": "uploads/2026/09/d5109666.jpg",
+      "size": 1580849,
+      "width": 1010,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ceaddfa72dc96bc5d5ee9b69ab88b60dccfbec14bcd92f25b040c462a246bc38",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T18:46:52.799Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "空っぽだから聞かないで",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149574571_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149574571",
+      "sourceCreatedAt": "2026-09-12T07:05:15.000Z"
+    },
+    {
       "id": "8da60e2c",
       "filename": "pixiv_149554700_p0.jpg",
       "path": "uploads/2026/09/25f31271.jpg",
