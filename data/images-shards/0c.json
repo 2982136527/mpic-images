@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "cbe49b0e",
+      "filename": "pixiv_149578798_p0.jpg",
+      "path": "uploads/2026/09/55c919c9.jpg",
+      "size": 646386,
+      "width": 983,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "63e40eb1e957614a8e884074cb830fd62d901d1c285729b1756ef2bb72cbd69f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:37:13.107Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "大図書館擬人化立ち絵 表情差分",
+      "tags": [
+        "東方",
+        "立ち絵",
+        "Skeb",
+        "擬人化"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149578798_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149578798",
+      "sourceCreatedAt": "2026-09-12T09:17:00.000Z"
+    },
+    {
       "id": "fac4b2f6",
       "filename": "pixiv_149365118_p0.jpg",
       "path": "uploads/2026/09/6308fd4d.jpg",
