@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "c8ecb366",
+      "filename": "pixiv_149556708_p0.jpg",
+      "path": "uploads/2026/09/9bf3ead4.jpg",
+      "size": 831954,
+      "width": 1024,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3719aaefd15e8d75906f23da726d446c68756ade06e9b200dc95ae8c8e714965",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:39:40.059Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🐙事后",
+      "tags": [
+        "BanG_Dream!",
+        "Ave_Mujica",
+        "豊川祥子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149556708_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149556708",
+      "sourceCreatedAt": "2026-09-11T16:53:35.000Z"
+    },
+    {
       "id": "47304162",
       "filename": "pixiv_149558236_p0.jpg",
       "path": "uploads/2026/09/557bbeae.jpg",
