@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "b983b29d",
+      "filename": "pixiv_149545752_p0.jpg",
+      "path": "uploads/2026/09/3b31f087.jpg",
+      "size": 807200,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "869f7768c36fe0c7fc4f52e3956b1a82332495a16a6c1b17e8f0e69d498264fb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T04:43:21.945Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "DAY4",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "オデット(原神)",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149545752_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149545752",
+      "sourceCreatedAt": "2026-09-11T12:38:46.000Z"
+    },
+    {
       "id": "0e53fc17",
       "filename": "pixiv_149552544_p0.jpg",
       "path": "uploads/2026/09/60f07baa.jpg",
