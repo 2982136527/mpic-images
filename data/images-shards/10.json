@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "06fd9cbd",
+      "filename": "pixiv_149570056_p0.jpg",
+      "path": "uploads/2026/09/e2a1fca0.jpg",
+      "size": 506622,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "32ed92c63f0fa0648e48a5cf242ffdf1f99ddfa55111c431c283b427e61f4466",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-13T13:23:21.569Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ケモドリ雑まとめ2",
+      "tags": [
+        "ガルパ",
+        "バンドリ",
+        "イラスト",
+        "BanG",
+        "Dream!",
+        "BanG_Dream!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149570056_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149570056",
+      "sourceCreatedAt": "2026-09-12T04:04:45.000Z"
+    },
+    {
       "id": "14a54a77",
       "filename": "pixiv_149579394_p0.jpg",
       "path": "uploads/2026/09/4fad70eb.jpg",
