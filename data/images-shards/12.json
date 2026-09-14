@@ -3,6 +3,36 @@
   "shardId": "12",
   "images": [
     {
+      "id": "a1a3e0e0",
+      "filename": "pixiv_149596527_p0.jpg",
+      "path": "uploads/2026/09/4c22305c.jpg",
+      "size": 712680,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "53f5e4eec50c2a003abf24668ef8d52a217cf100490944cfe6d7d61e3cc2ce61",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T20:18:59.815Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "なかよし ( シロッコ & ハマーン & クワトロ )",
+      "tags": [
+        "ガンダム",
+        "機動戦士Ζガンダム",
+        "クワトロ・バジーナ",
+        "ハマーン・カーン",
+        "三馬鹿トリオ",
+        "いつものサッカン",
+        "パプテマス・シロッコ",
+        "ハマーン様",
+        "舞台裏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149596527_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149596527",
+      "sourceCreatedAt": "2026-09-12T15:34:46.000Z"
+    },
+    {
       "id": "2e14daf0",
       "filename": "pixiv_149586778_p0.jpg",
       "path": "uploads/2026/09/588d8a6a.jpg",
