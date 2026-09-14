@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "918f00d0",
+      "filename": "pixiv_149585243_p0.jpg",
+      "path": "uploads/2026/09/85161269.jpg",
+      "size": 882923,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "0de9f732149ff87f06bc187573dccbebcd28ff74a3d5bc1c44c0d1eb8be0e68e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T20:21:34.455Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "マイスまとめ1",
+      "tags": [
+        "仮面ライダーマイス",
+        "腐可思議",
+        "ムトン(仮面ライダーマイス)",
+        "仮面ライダーダット",
+        "ダット(仮面ライダーマイス)",
+        "仮面ライダーマオウ",
+        "謎の黒い仮面ライダーマイス",
+        "翼不可思議",
+        "黒い仮面ライダーマイス",
+        "ネタが多すぎてタグに困る"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149585243_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149585243",
+      "sourceCreatedAt": "2026-09-12T11:48:41.000Z"
+    },
+    {
       "id": "b3c65d31",
       "filename": "pixiv_149591945_p0.jpg",
       "path": "uploads/2026/09/b2e14a29.jpg",
