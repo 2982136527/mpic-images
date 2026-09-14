@@ -3,6 +3,36 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "033a3a18",
+      "filename": "pixiv_149441539_p0.jpg",
+      "path": "uploads/2026/09/1b3e5281.jpg",
+      "size": 697576,
+      "width": 991,
+      "height": 980,
+      "mimeType": "image/jpeg",
+      "hash": "95d0d743adfcbd8b25c6da8031a9f3978e5a9959ab8a9cf5d60852e32d1fae3d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:51:47.628Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ステアトまとめ３",
+      "tags": [
+        "ステアト",
+        "ウマ娘プリティーダービー",
+        "未実装幻覚U娘",
+        "ステイゴールド(ウマ娘)",
+        "オリエンタルアート",
+        "史実夫婦",
+        "史実親子",
+        "ステゴ一族",
+        "馬とウマ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149441539_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149441539",
+      "sourceCreatedAt": "2026-09-08T15:16:13.000Z"
+    },
+    {
       "id": "9f9bffd8",
       "filename": "pixiv_149573726_p0.jpg",
       "path": "uploads/2026/09/473e3ea9.jpg",
