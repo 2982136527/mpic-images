@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "deef774f",
+      "filename": "pixiv_149631109_p0.jpg",
+      "path": "uploads/2026/09/683a098f.jpg",
+      "size": 285108,
+      "width": 624,
+      "height": 1012,
+      "mimeType": "image/jpeg",
+      "hash": "2543fd4d73a8c974991830e0187a58a5552afacfda2db319145c4b71720f2c8b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T15:02:13.174Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ゲームとか動画ばっか開いてないでミクを構って",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149631109_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149631109",
+      "sourceCreatedAt": "2026-09-13T12:03:31.000Z"
+    },
+    {
       "id": "a22432bb",
       "filename": "pixiv_149594560_p0.jpg",
       "path": "uploads/2026/09/522df64d.jpg",
