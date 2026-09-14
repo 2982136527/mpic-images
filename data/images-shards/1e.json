@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "6cc74546",
+      "filename": "pixiv_149555521_p0.jpg",
+      "path": "uploads/2026/09/6065c7c5.jpg",
+      "size": 1156827,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f7f499c070414fff83d69c26597dfb7796d65591c5c9e66e5623665147b917f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:53:19.859Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ワールドビヨンドの新キャラ",
+      "tags": [
+        "星のカービィ",
+        "星のカービィワールドビヨンド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149555521_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149555521",
+      "sourceCreatedAt": "2026-09-11T16:11:08.000Z"
+    },
+    {
       "id": "123cd13e",
       "filename": "pixiv_149605640_p0.jpg",
       "path": "uploads/2026/09/81da3a90.jpg",
