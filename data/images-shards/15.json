@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "65bc5e52",
+      "filename": "pixiv_149557423_p0.jpg",
+      "path": "uploads/2026/09/ba0f220f.jpg",
+      "size": 333504,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a155de7e71c51b934a24e88de507ae9a50e15f0e0ba1d98753d43afe3d71ef71",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T15:04:36.942Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "구멍 파우",
+      "tags": [
+        "림버스컴퍼니",
+        "Limbus_Company",
+        "LobotomyCorporation"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149557423_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149557423",
+      "sourceCreatedAt": "2026-09-11T17:25:25.000Z"
+    },
+    {
       "id": "97f21865",
       "filename": "pixiv_149585275_p0.jpg",
       "path": "uploads/2026/09/f11d7902.jpg",
