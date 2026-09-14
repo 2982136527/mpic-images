@@ -3,6 +3,36 @@
   "shardId": "15",
   "images": [
     {
+      "id": "af030ae8",
+      "filename": "pixiv_149592628_p0.jpg",
+      "path": "uploads/2026/09/94db8950.jpg",
+      "size": 1130441,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "419b50dcf07ac61e2340c0ba7c5b5efe7e0e3eb61b2e204227b72d8f60e4704d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T20:19:54.518Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ブラックペッパー",
+      "tags": [
+        "プリキュア",
+        "precure",
+        "デリシャスパーティ♡プリキュア",
+        "デリシャスパーティプリキュア",
+        "デパプリ",
+        "品田拓海",
+        "ブラックペッパー(プリキュア)",
+        "プリキュア100users入り",
+        "デパプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149592628_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149592628",
+      "sourceCreatedAt": "2026-09-12T14:18:27.000Z"
+    },
+    {
       "id": "65bc5e52",
       "filename": "pixiv_149557423_p0.jpg",
       "path": "uploads/2026/09/ba0f220f.jpg",
