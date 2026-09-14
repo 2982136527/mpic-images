@@ -3,6 +3,37 @@
   "shardId": "05",
   "images": [
     {
+      "id": "8b892bff",
+      "filename": "pixiv_149582916_p0.jpg",
+      "path": "uploads/2026/09/48f8928f.jpg",
+      "size": 2009345,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "48610bb6530f73f5828a4f4d95c35690d4f366f741f4bc4c372be8083f7202d9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T14:59:47.122Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "『世界で一番おいしいアイス🍨』",
+      "tags": [
+        "プリキュア",
+        "名探偵プリキュア!",
+        "たんプリ",
+        "森亜るるか",
+        "帆羽くれあ",
+        "るるくれ",
+        "マシュタン",
+        "シュシュタン",
+        "くれるる",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149582916_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149582916",
+      "sourceCreatedAt": "2026-09-12T11:00:12.000Z"
+    },
+    {
       "id": "781357ae",
       "filename": "pixiv_149432504_p0.jpg",
       "path": "uploads/2026/09/4014c552.jpg",
