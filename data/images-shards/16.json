@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "ffb50955",
+      "filename": "pixiv_149628477_p0.jpg",
+      "path": "uploads/2026/09/ced812d6.jpg",
+      "size": 1100209,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "48ce18b224240d62ee8520aa14facf21e0bfd48c26ed1fca3fce42894fde2c3b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T14:58:33.281Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "タイムカプセル",
+      "tags": [
+        "女の子",
+        "*Luna",
+        "1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149628477_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149628477",
+      "sourceCreatedAt": "2026-09-13T11:13:19.000Z"
+    },
+    {
       "id": "14dc0daf",
       "filename": "pixiv_149586813_p0.jpg",
       "path": "uploads/2026/09/1910d46b.jpg",
