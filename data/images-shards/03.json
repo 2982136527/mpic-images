@@ -3,6 +3,35 @@
   "shardId": "03",
   "images": [
     {
+      "id": "aa39d5a6",
+      "filename": "pixiv_149586465_p0.jpg",
+      "path": "uploads/2026/09/279f3069.jpg",
+      "size": 736673,
+      "width": 477,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4c5615591109779172590478a1eeb900588c567e3da13b3e32831fc684f7bf6f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T15:01:43.349Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ガッチャアイス漫画",
+      "tags": [
+        "仮面ライダーガッチャード",
+        "仮面ライダーマジェード",
+        "DAIGOも台所",
+        "DAIGO算",
+        "キュアアルカナ",
+        "仮面ライダーガッチャードデイブレイク",
+        "右下の存在感",
+        "職場で見たらあかんやつ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149586465_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149586465",
+      "sourceCreatedAt": "2026-09-12T12:10:06.000Z"
+    },
+    {
       "id": "602f425b",
       "filename": "pixiv_149585060_p0.jpg",
       "path": "uploads/2026/09/6da3d626.jpg",
