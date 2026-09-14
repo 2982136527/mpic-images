@@ -3,6 +3,36 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "68ff0bef",
+      "filename": "pixiv_149575484_p0.jpg",
+      "path": "uploads/2026/09/989db2ef.jpg",
+      "size": 999200,
+      "width": 696,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "38cc1c1afa1e8effc4e32f0d53a7494e640bf0709b07d8c8e5db131b4eb5fefa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T20:23:14.898Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "第１回まどコス選手権",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "まどマギ",
+        "美樹さやか",
+        "暁美ほむら",
+        "巴マミ",
+        "佐倉杏子",
+        "まどコスさやか",
+        "キュウべえ",
+        "まどか☆マギカ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149575484_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149575484",
+      "sourceCreatedAt": "2026-09-12T07:40:14.000Z"
+    },
+    {
       "id": "dca180b6",
       "filename": "pixiv_149602833_p0.jpg",
       "path": "uploads/2026/09/4d46d81b.jpg",
