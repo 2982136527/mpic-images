@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "aea9cc0e",
+      "filename": "pixiv_149582258_p0.jpg",
+      "path": "uploads/2026/09/a34d4d5b.jpg",
+      "size": 427769,
+      "width": 937,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "31d099573d26818b201fe9c9abc6673bc4a196d7174c1a6c8e55081fbb843935",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T20:21:12.358Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "日和",
+      "tags": [
+        "ギャグマンガ日和",
+        "飛鳥組",
+        "小野妹子",
+        "聖徳太子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149582258_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149582258",
+      "sourceCreatedAt": "2026-09-12T10:43:18.000Z"
+    },
+    {
       "id": "a7113d78",
       "filename": "pixiv_149572102_p0.jpg",
       "path": "uploads/2026/09/93ee78e5.jpg",
