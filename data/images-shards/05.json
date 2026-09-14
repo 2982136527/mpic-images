@@ -3,6 +3,37 @@
   "shardId": "05",
   "images": [
     {
+      "id": "781357ae",
+      "filename": "pixiv_149432504_p0.jpg",
+      "path": "uploads/2026/09/4014c552.jpg",
+      "size": 1295659,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "be55d3bfed2bd2fe175c7f31853a37d2caf338b6d091221b70898b736d8c362a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:51:34.787Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "秋桜が咲く青い丘",
+      "tags": [
+        "風景",
+        "コスモス",
+        "秋桜",
+        "背景",
+        "星空",
+        "個展",
+        "まころん",
+        "夜景",
+        "空",
+        "星"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149432504_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149432504",
+      "sourceCreatedAt": "2026-09-08T12:02:30.000Z"
+    },
+    {
       "id": "81f45bdb",
       "filename": "pixiv_149523685_p0.jpg",
       "path": "uploads/2026/09/6f5854ee.jpg",
