@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "a22432bb",
+      "filename": "pixiv_149594560_p0.jpg",
+      "path": "uploads/2026/09/522df64d.jpg",
+      "size": 1057102,
+      "width": 1200,
+      "height": 681,
+      "mimeType": "image/jpeg",
+      "hash": "f631d180b8e67e9b0c941070080fc03f49d440a515d01af8b885f80505f9af9d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T14:59:28.549Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ロード・ログレス",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "ロード・ログレス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149594560_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149594560",
+      "sourceCreatedAt": "2026-09-12T15:00:21.000Z"
+    },
+    {
       "id": "1e6bf70d",
       "filename": "pixiv_149586441_p0.jpg",
       "path": "uploads/2026/09/992b3188.jpg",
