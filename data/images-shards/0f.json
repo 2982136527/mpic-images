@@ -3,6 +3,33 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "ff57c1d0",
+      "filename": "pixiv_149597525_p0.jpg",
+      "path": "uploads/2026/09/a669bfc6.jpg",
+      "size": 905960,
+      "width": 701,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "473b2828dc477e08fb2869884553e332121d4911cb078271856ccda08de1409c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T15:00:20.740Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ヴェスナ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "Genshin",
+        "ヴェスナ",
+        "ヴェスナ(原神)",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149597525_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149597525",
+      "sourceCreatedAt": "2026-09-12T16:00:45.000Z"
+    },
+    {
       "id": "c1b5d284",
       "filename": "pixiv_149581634_p0.jpg",
       "path": "uploads/2026/09/100615fa.jpg",
