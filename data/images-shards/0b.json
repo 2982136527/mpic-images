@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "b20fe132",
+      "filename": "pixiv_149585486_p0.jpg",
+      "path": "uploads/2026/09/8d019a3b.jpg",
+      "size": 1304314,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "94d654a6c785b0344359f2441940c676906ef842e2a9713fa4d565d5418bd501",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:51:13.933Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ムツキ",
+      "tags": [
+        "ブルーアーカイブ",
+        "浅黄ムツキ",
+        "ブルアカ",
+        "バニーガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149585486_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149585486",
+      "sourceCreatedAt": "2026-09-12T11:54:11.000Z"
+    },
+    {
       "id": "dd852695",
       "filename": "pixiv_149567847_p0.jpg",
       "path": "uploads/2026/09/fd1b9044.jpg",
