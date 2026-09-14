@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "d6da11f4",
+      "filename": "pixiv_149608249_p0.jpg",
+      "path": "uploads/2026/09/2a4888a4.jpg",
+      "size": 744138,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "81adbce60c19c69d5d666e5d55cfaf2077b83ab557c32a632aaec55bd2012cde",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T15:07:03.100Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "重音テト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149608249_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149608249",
+      "sourceCreatedAt": "2026-09-13T00:55:57.000Z"
+    },
+    {
       "id": "bb992cc2",
       "filename": "pixiv_149611034_p0.jpg",
       "path": "uploads/2026/09/367a9d0b.jpg",
