@@ -3,6 +3,32 @@
   "shardId": "08",
   "images": [
     {
+      "id": "2ee33bc2",
+      "filename": "pixiv_149595581_p0.jpg",
+      "path": "uploads/2026/09/93632ff9.jpg",
+      "size": 1455562,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "109d269b26f98a74d079ab78ceac232965076637f36965a70607cc9cdf610047",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T15:05:54.607Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "原神",
+        "ヴォジャニーツァ",
+        "アリョーシャ",
+        "ミティヤ",
+        "オデット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149595581_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149595581",
+      "sourceCreatedAt": "2026-09-12T15:14:23.000Z"
+    },
+    {
       "id": "5dc2683e",
       "filename": "pixiv_149593283_p0.jpg",
       "path": "uploads/2026/09/c820f3d2.jpg",
