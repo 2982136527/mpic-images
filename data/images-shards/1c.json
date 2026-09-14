@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "69b59e8c",
+      "filename": "pixiv_149575948_p0.jpg",
+      "path": "uploads/2026/09/6225a791.jpg",
+      "size": 621523,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "eb159ef92b38c5a60bcad05724112eb2be1895d83cca05e636c7b29ec74d1871",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T15:03:50.138Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🚌",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149575948_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149575948",
+      "sourceCreatedAt": "2026-09-12T07:58:37.000Z"
+    },
+    {
       "id": "367345a1",
       "filename": "pixiv_149587272_p0.jpg",
       "path": "uploads/2026/09/60175756.jpg",
