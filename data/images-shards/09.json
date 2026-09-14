@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "63ef14be",
+      "filename": "pixiv_149563611_p0.jpg",
+      "path": "uploads/2026/09/b502aebe.jpg",
+      "size": 984725,
+      "width": 1017,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ea3acb54312b0b17b80f2c4c6500af8bf5460ab6ae44e865e64cf9ab0d30f4e3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:44:01.286Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "半兵衛",
+      "tags": [
+        "SEKIRO",
+        "隻狼"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149563611_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149563611",
+      "sourceCreatedAt": "2026-09-11T23:39:38.000Z"
+    },
+    {
       "id": "483b25ab",
       "filename": "pixiv_149570180_p0.jpg",
       "path": "uploads/2026/09/d50b68d6.jpg",
