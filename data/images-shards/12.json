@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "d0b0f060",
+      "filename": "pixiv_149566717_p0.jpg",
+      "path": "uploads/2026/09/e2a04568.jpg",
+      "size": 1229873,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "1aefc058bf47aa04f76bd853be02618ae7be1c40e9dfeaf95a09142eed852ebf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T20:16:43.262Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "暮色的玄方城",
+      "tags": [
+        "鸣潮",
+        "鳴潮1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149566717_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149566717",
+      "sourceCreatedAt": "2026-09-12T01:59:18.000Z"
+    },
+    {
       "id": "deb1d350",
       "filename": "pixiv_149431295_p0.jpg",
       "path": "uploads/2026/09/8d9c8c16.jpg",
