@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "3026e4d0",
+      "filename": "pixiv_149608567_p0.jpg",
+      "path": "uploads/2026/09/4e5c2625.jpg",
+      "size": 284167,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c7fb4de87579634e22de12b6eb56a621787310df5bfcdb69a5920bf8e276eeef",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T20:26:10.780Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "rkrn夢ログ20",
+      "tags": [
+        "忍玉-夢",
+        "rkrn夢",
+        "rkrnプラス",
+        "忍玉-夢500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149608567_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149608567",
+      "sourceCreatedAt": "2026-09-13T01:05:11.000Z"
+    },
+    {
       "id": "693ba65d",
       "filename": "pixiv_149568257_p0.jpg",
       "path": "uploads/2026/09/11cb1650.jpg",
