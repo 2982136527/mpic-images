@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "d0052088",
+      "filename": "pixiv_149594538_p0.jpg",
+      "path": "uploads/2026/09/dc8e7c02.jpg",
+      "size": 587146,
+      "width": 1200,
+      "height": 947,
+      "mimeType": "image/jpeg",
+      "hash": "b89388c2a80dde48554a2ddb1b347581f14b7799845f8cddcdad969d5dd0628e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T20:17:24.980Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "どこまでも",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149594538_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149594538",
+      "sourceCreatedAt": "2026-09-12T15:00:17.000Z"
+    },
+    {
       "id": "254bbcfb",
       "filename": "pixiv_149613668_p0.jpg",
       "path": "uploads/2026/09/d603aa86.jpg",
