@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "cf7b3e68",
+      "filename": "pixiv_149596186_p0.jpg",
+      "path": "uploads/2026/09/798bc457.jpg",
+      "size": 770253,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0ed0d748a1661bb619b0f943633dbb0158c034864570d3713dd13d9add099cdf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T20:22:43.068Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "まのさば！",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "まのさば",
+        "エマヒロ",
+        "シェリハン",
+        "けものさば"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149596186_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149596186",
+      "sourceCreatedAt": "2026-09-12T15:43:38.000Z"
+    },
+    {
       "id": "91c3f583",
       "filename": "pixiv_149575910_p0.jpg",
       "path": "uploads/2026/09/c150bb0b.jpg",
