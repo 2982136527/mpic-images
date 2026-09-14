@@ -3,6 +3,36 @@
   "shardId": "18",
   "images": [
     {
+      "id": "dbcc1024",
+      "filename": "pixiv_149619278_p0.jpg",
+      "path": "uploads/2026/09/b57aae65.jpg",
+      "size": 442985,
+      "width": 607,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "2047a5d843def7c26ba0af84b55d13447892e7a2bc7bb343462e6cf3a5a6b3ec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T20:22:25.758Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "時の流れへ。",
+      "tags": [
+        "ねこ",
+        "動物",
+        "猫",
+        "オリジナル",
+        "ましまろう",
+        "イラスト",
+        "ネコ",
+        "オリキャラ",
+        "オリジナル100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149619278_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149619278",
+      "sourceCreatedAt": "2026-09-13T07:22:01.000Z"
+    },
+    {
       "id": "0bbc8264",
       "filename": "pixiv_149624219_p0.jpg",
       "path": "uploads/2026/09/334d1ded.jpg",
