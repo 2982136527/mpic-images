@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "602f425b",
+      "filename": "pixiv_149585060_p0.jpg",
+      "path": "uploads/2026/09/6da3d626.jpg",
+      "size": 939476,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4a5f602a1241aec2168480b783ddc8c52fc6471a0786789026f5bd0347f41709",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:47:48.183Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "魔法がない",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "中性",
+        "星",
+        "猫"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149585060_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149585060",
+      "sourceCreatedAt": "2026-09-12T11:44:37.000Z"
+    },
+    {
       "id": "2461b3aa",
       "filename": "pixiv_149555487_p0.jpg",
       "path": "uploads/2026/09/d751c92a.jpg",
