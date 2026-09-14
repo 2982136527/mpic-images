@@ -3,6 +3,28 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "6468ff45",
+      "filename": "pixiv_149594883_p0.jpg",
+      "path": "uploads/2026/09/1148835b.jpg",
+      "size": 1105582,
+      "width": 790,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "86d7d480e89cc238ec015f505c09a8339fdb77d535bbd9a819b355443513413e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:45:45.783Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "花弁の下で",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149594883_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149594883",
+      "sourceCreatedAt": "2026-09-12T15:02:09.000Z"
+    },
+    {
       "id": "896f95f8",
       "filename": "pixiv_149552842_p0.jpg",
       "path": "uploads/2026/09/75cbebca.jpg",
