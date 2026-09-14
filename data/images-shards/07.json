@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "8e64ea2c",
+      "filename": "pixiv_149603892_p0.jpg",
+      "path": "uploads/2026/09/d25ce0e6.jpg",
+      "size": 951892,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3393906a2e89fc19bbc0a7fc0692103f38e3d6ed88abec5c9bb019ca89093316",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T20:26:30.414Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【押都+小平太】採用試験",
+      "tags": [
+        "忍たま",
+        "七松小平太",
+        "押都長烈"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149603892_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149603892",
+      "sourceCreatedAt": "2026-09-12T21:30:02.000Z"
+    },
+    {
       "id": "e59f39cb",
       "filename": "pixiv_149594499_p0.jpg",
       "path": "uploads/2026/09/b23d0721.jpg",
