@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "f266c71b",
+      "filename": "pixiv_149564918_p0.jpg",
+      "path": "uploads/2026/09/fd74322b.jpg",
+      "size": 677513,
+      "width": 776,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0b67bfa66c63de33ee7a0faa7a8d9f794b2c6a6291576eeb13f59c745d45423a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:50:39.795Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Fuwawa",
+      "tags": [
+        "fuwawa",
+        "hololive",
+        "vtuber",
+        "フワワ・アビスガード"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149564918_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149564918",
+      "sourceCreatedAt": "2026-09-12T00:40:27.000Z"
+    },
+    {
       "id": "391bd3f6",
       "filename": "pixiv_149515437_p0.jpg",
       "path": "uploads/2026/09/e1b2881b.jpg",
