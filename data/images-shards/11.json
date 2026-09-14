@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "e99fa048",
+      "filename": "pixiv_149577382_p0.jpg",
+      "path": "uploads/2026/09/46cac198.jpg",
+      "size": 219392,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "19bd21ba56142f5d910cedfa46e99d2e337b78fa9cdd2ee993a54e1ce0545d20",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:48:42.034Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "나 보고싶었나~?",
+      "tags": [
+        "崩壊スターレイル",
+        "キュレネ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149577382_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149577382",
+      "sourceCreatedAt": "2026-09-12T08:41:59.000Z"
+    },
+    {
       "id": "eaeb9142",
       "filename": "pixiv_149553537_p0.jpg",
       "path": "uploads/2026/09/bee69578.jpg",
