@@ -3,6 +3,35 @@
   "shardId": "04",
   "images": [
     {
+      "id": "dcd92983",
+      "filename": "pixiv_149579745_p0.jpg",
+      "path": "uploads/2026/09/44572e23.jpg",
+      "size": 852800,
+      "width": 713,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aeac3af6efc1fc98adfef00713c3af5c5afb54830ed3b77edbeb11929d9ce15d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:48:54.946Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "兄妹のコラボ衣装",
+      "tags": [
+        "绝区零",
+        "ゼンレスゾーンゼロ",
+        "zzzero",
+        "ZenlessZoneZero",
+        "ゼンゼロ",
+        "リン(ゼンゼロ)",
+        "アキラ(ゼンゼロ)",
+        "100日チャレンジ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149579745_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149579745",
+      "sourceCreatedAt": "2026-09-12T09:44:17.000Z"
+    },
+    {
       "id": "746572f1",
       "filename": "pixiv_149524073_p0.jpg",
       "path": "uploads/2026/09/e80bfbd0.jpg",
