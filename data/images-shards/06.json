@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "dbeb2ab9",
+      "filename": "pixiv_149564790_p0.jpg",
+      "path": "uploads/2026/09/497d85ba.jpg",
+      "size": 968985,
+      "width": 1200,
+      "height": 941,
+      "mimeType": "image/jpeg",
+      "hash": "3ada02c886a9fb971f14e559df5fe9eccb5567375559e96b54e30469d1916c24",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:48:48.155Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "9.12",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "ブルアカ",
+        "伊落マリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149564790_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149564790",
+      "sourceCreatedAt": "2026-09-12T00:35:14.000Z"
+    },
+    {
       "id": "f9d120ce",
       "filename": "pixiv_149587189_p0.jpg",
       "path": "uploads/2026/09/184fe7dd.jpg",
