@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "e7142c6c",
+      "filename": "pixiv_149595093_p0.jpg",
+      "path": "uploads/2026/09/35176314.jpg",
+      "size": 859421,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "340f5f46b84795ca3de7af23a9b99c3778261636e524c777c4d8891311538c31",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:46:41.267Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "同窓会",
+      "tags": [
+        "オリジナル",
+        "創作百合",
+        "創作",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149595093_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149595093",
+      "sourceCreatedAt": "2026-09-12T15:04:16.000Z"
+    },
+    {
       "id": "d5b0d684",
       "filename": "pixiv_149569464_p0.jpg",
       "path": "uploads/2026/09/13eeb5eb.jpg",
