@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "ecf6ad7c",
+      "filename": "pixiv_149565295_p0.jpg",
+      "path": "uploads/2026/09/38b2a73a.jpg",
+      "size": 801367,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "34ec58bb4461e7dfb1cdf0691714a70aeb5e26adcb59e46208d43daaafea6fb9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:47:31.174Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "十六夜咲夜",
+        "東方",
+        "東方Project",
+        "ボロ絵",
+        "東方紅魔郷NewClassic"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149565295_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149565295",
+      "sourceCreatedAt": "2026-09-12T00:59:21.000Z"
+    },
+    {
       "id": "5d724a67",
       "filename": "pixiv_149596619_p0.jpg",
       "path": "uploads/2026/09/5ae859d6.jpg",
