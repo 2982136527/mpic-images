@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "0eeed41c",
+      "filename": "pixiv_149583757_p0.jpg",
+      "path": "uploads/2026/09/e5356f9a.jpg",
+      "size": 1103627,
+      "width": 1200,
+      "height": 677,
+      "mimeType": "image/jpeg",
+      "hash": "bb4ed7ed7ee4998281604dc56368020205415c3d58d90dd2c97b17893dfcccb9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T15:05:33.185Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "On Stage",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "女の子",
+        "Miku",
+        "演唱会",
+        "サイハイブーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149583757_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149583757",
+      "sourceCreatedAt": "2026-09-12T11:15:52.000Z"
+    },
+    {
       "id": "03110c03",
       "filename": "pixiv_149594540_p0.jpg",
       "path": "uploads/2026/09/5a4d71e7.jpg",
