@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "ecfebbaf",
+      "filename": "pixiv_149586902_p0.jpg",
+      "path": "uploads/2026/09/0cbe4f8f.jpg",
+      "size": 673964,
+      "width": 773,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5e10725bf563525b9590db3b9f1cd336a54f3a655f5e338c1eb5db92b01a5045",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T15:03:41.382Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "制服祥ちゃん",
+      "tags": [
+        "豊川祥子",
+        "Ave_Mujica"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149586902_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149586902",
+      "sourceCreatedAt": "2026-09-12T12:19:36.000Z"
+    },
+    {
       "id": "cb26dc27",
       "filename": "pixiv_149613446_p0.jpg",
       "path": "uploads/2026/09/1580a789.jpg",
