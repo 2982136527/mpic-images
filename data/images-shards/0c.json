@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "ead279ae",
+      "filename": "pixiv_149604242_p0.jpg",
+      "path": "uploads/2026/09/3b697d7d.jpg",
+      "size": 1313345,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "47226b33d59cd4f6d565822ef701ea3ec2865b1ea2ada4950d7a80727e2254b6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T20:20:05.703Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "黄泉の霊炎",
+      "tags": [
+        "鳴潮",
+        "WutheringWaves",
+        "景燃"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149604242_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149604242",
+      "sourceCreatedAt": "2026-09-12T21:51:14.000Z"
+    },
+    {
       "id": "fe2271ec",
       "filename": "pixiv_149596540_p0.jpg",
       "path": "uploads/2026/09/c6e02ab3.jpg",
