@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "6bdc4f47",
+      "filename": "pixiv_149431634_p0.jpg",
+      "path": "uploads/2026/09/98a04e68.jpg",
+      "size": 1699121,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14748965361be6a20951e24ab17f802fc0fe3162fb48c553f7eb4bdcf4b6c1ed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T20:24:09.439Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "消さないで",
+      "tags": [
+        "オリジナル",
+        "スーツ",
+        "眼鏡男子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149431634_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149431634",
+      "sourceCreatedAt": "2026-09-08T11:45:19.000Z"
+    },
+    {
       "id": "68ff0bef",
       "filename": "pixiv_149575484_p0.jpg",
       "path": "uploads/2026/09/989db2ef.jpg",
