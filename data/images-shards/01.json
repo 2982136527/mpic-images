@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "b357734d",
+      "filename": "pixiv_149597690_p0.jpg",
+      "path": "uploads/2026/09/4b022afd.jpg",
+      "size": 1387336,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d388d32047372ea703e83eef711f0e8a97450622ed3161938b057c5ffd169954",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:44:09.499Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Waves",
+      "tags": [
+        "女の子",
+        "Lily(ATDAN)",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149597690_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149597690",
+      "sourceCreatedAt": "2026-09-12T16:05:41.000Z"
+    },
+    {
       "id": "7448aa7e",
       "filename": "pixiv_149556747_p0.jpg",
       "path": "uploads/2026/09/d3969a9e.jpg",
