@@ -3,6 +3,34 @@
   "shardId": "10",
   "images": [
     {
+      "id": "b3c65d31",
+      "filename": "pixiv_149591945_p0.jpg",
+      "path": "uploads/2026/09/b2e14a29.jpg",
+      "size": 366170,
+      "width": 828,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4103112de1d2167c169f34463e2db5ab332d4ec96ab650e81a54d656e7f487bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T04:50:19.395Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "速写兔兔",
+      "tags": [
+        "女の子",
+        "アークナイツ",
+        "明日方舟",
+        "アーミヤ(アークナイツ)",
+        "阿米娅",
+        "Arknights",
+        "メイド服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149591945_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149591945",
+      "sourceCreatedAt": "2026-09-12T14:03:41.000Z"
+    },
+    {
       "id": "099e8c24",
       "filename": "pixiv_149555649_p0.jpg",
       "path": "uploads/2026/09/0d8c0d00.jpg",
