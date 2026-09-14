@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "5a6396dc",
+      "filename": "pixiv_149616084_p0.jpg",
+      "path": "uploads/2026/09/cf65df01.jpg",
+      "size": 289142,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "08ef3ae835c1e084abfdac9af46d0b1ac75a98075d603ce313e4dae526b36fea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T20:22:13.761Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "モッブ",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149616084_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149616084",
+      "sourceCreatedAt": "2026-09-13T05:32:44.000Z"
+    },
+    {
       "id": "ecfacff2",
       "filename": "pixiv_149612548_p0.jpg",
       "path": "uploads/2026/09/045d3f9f.jpg",
