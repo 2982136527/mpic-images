@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "dca180b6",
+      "filename": "pixiv_149602833_p0.jpg",
+      "path": "uploads/2026/09/4d46d81b.jpg",
+      "size": 1776891,
+      "width": 1049,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "66ff5ad32ca48330d207760a0be6336c384c84c10e2d09e79a3ee70b2ea32f2e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-14T15:04:26.974Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "The Barista",
+      "tags": [
+        "オリジナル",
+        "コーヒー",
+        "イラスト",
+        "アナログ",
+        "EUDETENIS"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149602833_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149602833",
+      "sourceCreatedAt": "2026-09-12T20:25:09.000Z"
+    },
+    {
       "id": "bbfc24df",
       "filename": "pixiv_149556901_p0.jpg",
       "path": "uploads/2026/09/c8e1115c.jpg",
