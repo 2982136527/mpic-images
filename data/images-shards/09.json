@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "500ac1b2",
+      "filename": "pixiv_149641086_p0.jpg",
+      "path": "uploads/2026/09/88f4dd98.jpg",
+      "size": 559067,
+      "width": 1200,
+      "height": 954,
+      "mimeType": "image/jpeg",
+      "hash": "6db3a322017eee8fdf936ac6fa055a970fc35e6ed6b8f53ad30dfc222b77d19a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:26:57.876Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "SSR LOG",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149641086_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149641086",
+      "sourceCreatedAt": "2026-09-13T15:17:13.000Z"
+    },
+    {
       "id": "c8612ca0",
       "filename": "pixiv_149623425_p0.jpg",
       "path": "uploads/2026/09/a55ac0a5.jpg",
