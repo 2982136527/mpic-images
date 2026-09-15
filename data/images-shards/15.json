@@ -3,6 +3,28 @@
   "shardId": "15",
   "images": [
     {
+      "id": "9d75abe6",
+      "filename": "pixiv_149662496_p0.jpg",
+      "path": "uploads/2026/09/545099ed.jpg",
+      "size": 718213,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e9d599e3f6584aa3f15fe50176ebd83f3b2b1a87348924a416b727ccc08bb29a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T19:48:04.427Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "tgak log",
+      "tags": [
+        "桃源暗鬼"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149662496_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149662496",
+      "sourceCreatedAt": "2026-09-14T09:25:01.000Z"
+    },
+    {
       "id": "aaf2b45e",
       "filename": "pixiv_149657088_p0.jpg",
       "path": "uploads/2026/09/3b62cd55.jpg",
