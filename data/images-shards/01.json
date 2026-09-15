@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "bf73d54a",
+      "filename": "pixiv_149641584_p0.jpg",
+      "path": "uploads/2026/09/5f603724.jpg",
+      "size": 371060,
+      "width": 1200,
+      "height": 432,
+      "mimeType": "image/jpeg",
+      "hash": "b49a99ec0fcfbad478138c843cee1544a57f0704b342ebf7a77ea188f4413fb2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:28:12.585Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ミコテイルちゃんのヘッダー用イラスト",
+      "tags": [
+        "ロリ",
+        "変身ヒロイン",
+        "魔法少女",
+        "白スク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149641584_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149641584",
+      "sourceCreatedAt": "2026-09-13T15:28:30.000Z"
+    },
+    {
       "id": "65fc90b0",
       "filename": "pixiv_149624800_p0.jpg",
       "path": "uploads/2026/09/c6ab5383.jpg",
