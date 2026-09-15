@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "edde99ce",
+      "filename": "pixiv_149605230_p0.jpg",
+      "path": "uploads/2026/09/17c3636d.jpg",
+      "size": 530870,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c8e6e6d02c1999f1783be3a8894aac11aa8208fd6cf139ac4b1dce43edebe7c5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:33:00.164Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カフェ",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "マンハッタンカフェ(ウマ娘)",
+        "ウマ娘スーツダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149605230_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149605230",
+      "sourceCreatedAt": "2026-09-12T22:41:15.000Z"
+    },
+    {
       "id": "6af0b5ac",
       "filename": "pixiv_149620851_p0.jpg",
       "path": "uploads/2026/09/363749bc.jpg",
