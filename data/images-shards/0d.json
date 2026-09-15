@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "5f01d920",
+      "filename": "pixiv_149637110_p0.jpg",
+      "path": "uploads/2026/09/ee772ed6.jpg",
+      "size": 496525,
+      "width": 834,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bd90d9947747a9ad2593132fa9f162789353cd33b650afa7fe85f8c35aa1138c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:30:11.428Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "がんばったで賞",
+      "tags": [
+        "ほの暮しの庭",
+        "アメ(ほの暮しの庭)",
+        "リン(ほの暮しの庭)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149637110_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149637110",
+      "sourceCreatedAt": "2026-09-13T14:03:30.000Z"
+    },
+    {
       "id": "1b47f030",
       "filename": "pixiv_149594892_p0.jpg",
       "path": "uploads/2026/09/90d3f2f3.jpg",
