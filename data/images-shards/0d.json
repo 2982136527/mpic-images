@@ -3,6 +3,28 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "dd2027cb",
+      "filename": "pixiv_149666007_p0.jpg",
+      "path": "uploads/2026/09/fbd06b6d.jpg",
+      "size": 959230,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "529dbbeae66c5dfc3ac13dbcbf9a6c2490abd3065bff15151f57daa865b26dc3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:46:10.176Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "かなまふ",
+      "tags": [
+        "かなまふ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149666007_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149666007",
+      "sourceCreatedAt": "2026-09-14T11:00:20.000Z"
+    },
+    {
       "id": "21834f98",
       "filename": "pixiv_149606351_p0.jpg",
       "path": "uploads/2026/09/e05179a5.jpg",
