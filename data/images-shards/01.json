@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "cecc2821",
+      "filename": "pixiv_149448046_p0.jpg",
+      "path": "uploads/2026/09/e964ba8d.jpg",
+      "size": 929119,
+      "width": 805,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cf84d5fe75dacb807c1387d4a8048dab321dc837f3043c7187572561b940044f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:52:34.241Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "エンペルト",
+      "tags": [
+        "ポケモン",
+        "ポケットモンスター",
+        "厚塗り",
+        "エンペルト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149448046_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149448046",
+      "sourceCreatedAt": "2026-09-08T20:20:30.000Z"
+    },
+    {
       "id": "70e47bb8",
       "filename": "pixiv_149615734_p0.jpg",
       "path": "uploads/2026/09/32a9b390.jpg",
