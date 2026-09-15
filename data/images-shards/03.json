@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "e976fa5c",
+      "filename": "pixiv_149619382_p0.jpg",
+      "path": "uploads/2026/09/57ee8c62.jpg",
+      "size": 653134,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bb07e06846f80cd36038e24e8e9526ea81724b14c41766c8a814ff6200bfa64c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:30:48.517Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ねじれ",
+      "tags": [
+        "僕のヒーローアカデミア",
+        "波動ねじれ",
+        "チアガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149619382_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149619382",
+      "sourceCreatedAt": "2026-09-13T07:25:24.000Z"
+    },
+    {
       "id": "24c2c22b",
       "filename": "pixiv_149599791_p0.jpg",
       "path": "uploads/2026/09/cdd07df6.jpg",
