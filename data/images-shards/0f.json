@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "0f75e88d",
+      "filename": "pixiv_149659373_p0.jpg",
+      "path": "uploads/2026/09/b9c97f2c.jpg",
+      "size": 746481,
+      "width": 706,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "82125b3b53d9d2bbdabff736b96e3b9d78bc85a50769623db4d561b6fc440a80",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T19:47:41.600Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "マリー(健全)",
+      "tags": [
+        "ブルーアーカイブ",
+        "伊落マリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149659373_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149659373",
+      "sourceCreatedAt": "2026-09-14T07:28:04.000Z"
+    },
+    {
       "id": "559eb9c6",
       "filename": "pixiv_149606128_p0.jpg",
       "path": "uploads/2026/09/75255918.jpg",
