@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "ff3cbf85",
+      "filename": "pixiv_149638769_p0.jpg",
+      "path": "uploads/2026/09/2dcf54c0.jpg",
+      "size": 656702,
+      "width": 1019,
+      "height": 1082,
+      "mimeType": "image/jpeg",
+      "hash": "17a2782f5ca0d6dc68aa0ce4042ae4c300915ac6a06fbf4e62e6bc9cfaaf17bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:31:54.176Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Claret🦇",
+      "tags": [
+        "AZZ",
+        "ZenlessZoneZero",
+        "ZZZ",
+        "ZZZero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149638769_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149638769",
+      "sourceCreatedAt": "2026-09-13T14:37:41.000Z"
+    },
+    {
       "id": "09b51438",
       "filename": "pixiv_149639939_p0.jpg",
       "path": "uploads/2026/09/c8cfa159.jpg",
