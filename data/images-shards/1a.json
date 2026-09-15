@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "4ca1ecd2",
+      "filename": "pixiv_149612703_p0.jpg",
+      "path": "uploads/2026/09/2dca9a82.jpg",
+      "size": 706632,
+      "width": 639,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0b009a01333fb2f206a432d8baea8fbcc3ab94c3da6b6630b7f46787ee15db73",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T19:44:06.468Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ヒナ、べろだして",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "空崎ヒナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149612703_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149612703",
+      "sourceCreatedAt": "2026-09-13T03:34:59.000Z"
+    },
+    {
       "id": "3491e5b7",
       "filename": "pixiv_149657845_p0.jpg",
       "path": "uploads/2026/09/deef1d98.jpg",
