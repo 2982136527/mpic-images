@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "24c2c22b",
+      "filename": "pixiv_149599791_p0.jpg",
+      "path": "uploads/2026/09/cdd07df6.jpg",
+      "size": 2583992,
+      "width": 1200,
+      "height": 1183,
+      "mimeType": "image/jpeg",
+      "hash": "d35d570df6dec236c96985b47292decf51a56020b911df39fd383da0744f5d8d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:27:27.589Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "学園アイドルマスター",
+        "十王星南"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149599791_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149599791",
+      "sourceCreatedAt": "2026-09-12T17:27:25.000Z"
+    },
+    {
       "id": "9f583607",
       "filename": "pixiv_149478206_p0.jpg",
       "path": "uploads/2026/09/2fd13572.jpg",
