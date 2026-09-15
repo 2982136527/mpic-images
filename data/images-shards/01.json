@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "65fc90b0",
+      "filename": "pixiv_149624800_p0.jpg",
+      "path": "uploads/2026/09/c6ab5383.jpg",
+      "size": 1654710,
+      "width": 838,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "24ff053923ed97e5a68853b83b22a193de965599b683831bd380e14b25cc41b4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:27:06.423Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "星痕",
+      "tags": [
+        "原神",
+        "Genshin",
+        "アルベド(原神)",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149624800_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149624800",
+      "sourceCreatedAt": "2026-09-13T09:54:11.000Z"
+    },
+    {
       "id": "fc4214fb",
       "filename": "pixiv_149667269_p0.jpg",
       "path": "uploads/2026/09/18f8c320.jpg",
