@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "3491e5b7",
+      "filename": "pixiv_149657845_p0.jpg",
+      "path": "uploads/2026/09/deef1d98.jpg",
+      "size": 558701,
+      "width": 796,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4c9bc5852c3adec08ee405092d27f5b0a7d2b470af23b72d20ccf70e4c53aed2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T19:39:58.473Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "似",
+      "tags": [
+        "原神",
+        "七七(原神)",
+        "白朮(原神)",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149657845_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149657845",
+      "sourceCreatedAt": "2026-09-14T06:07:41.000Z"
+    },
+    {
       "id": "720d58e9",
       "filename": "pixiv_149623373_p0.jpg",
       "path": "uploads/2026/09/f6f5a5c9.jpg",
