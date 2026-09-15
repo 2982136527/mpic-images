@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "70182bb1",
+      "filename": "pixiv_149639426_p0.jpg",
+      "path": "uploads/2026/09/03e11f2d.jpg",
+      "size": 1292127,
+      "width": 1200,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "a01e5e935c9cb8b579c443ce7ef4e745868f3e3aca187bfc20329bddd04e05b5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T19:40:38.770Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "アリスメアまとめ",
+      "tags": [
+        "イラスト",
+        "Alice_mare",
+        "アリスメア",
+        "100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149639426_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149639426",
+      "sourceCreatedAt": "2026-09-13T14:52:50.000Z"
+    },
+    {
       "id": "371efd04",
       "filename": "pixiv_149636663_p0.jpg",
       "path": "uploads/2026/09/7bccc756.jpg",
