@@ -3,6 +3,37 @@
   "shardId": "11",
   "images": [
     {
+      "id": "04cc7431",
+      "filename": "pixiv_149628978_p0.jpg",
+      "path": "uploads/2026/09/4576f352.jpg",
+      "size": 594236,
+      "width": 477,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5357395bfba936ab223b386acc5fb4ca383311910f077e40749443743ba310f6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:45:19.824Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カイザの日＆ガヴ",
+      "tags": [
+        "仮面ライダーガヴ",
+        "仮面ライダーカイザ",
+        "草加スマイル",
+        "カイザの日",
+        "草加せんべい",
+        "913",
+        "仮面ライダー555",
+        "変身ベルトガヴ",
+        "混ぜるな超危険",
+        "(首が折れる音)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149628978_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149628978",
+      "sourceCreatedAt": "2026-09-13T11:24:05.000Z"
+    },
+    {
       "id": "b416118a",
       "filename": "pixiv_149602775_p0.jpg",
       "path": "uploads/2026/09/113709a2.jpg",
