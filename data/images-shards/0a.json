@@ -3,6 +3,36 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "3d752c0c",
+      "filename": "pixiv_149594697_p0.jpg",
+      "path": "uploads/2026/09/6845879d.jpg",
+      "size": 574592,
+      "width": 900,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "012806282a6ec6d4cad6f1923fba4a060b8df4a2f4b1d4dcd9879c3a1c3c6668",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T19:39:16.389Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カルデア南海大決戦",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "蒼きアズライール",
+        "紅閻魔(水着)",
+        "キングプロテア・オルタ(水着)",
+        "小野小町(水着)",
+        "小野篁(水着)",
+        "アステリオス(Fate)",
+        "カルデア南海大決戦!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149594697_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149594697",
+      "sourceCreatedAt": "2026-09-12T15:00:46.000Z"
+    },
+    {
       "id": "95b8b44c",
       "filename": "pixiv_149655280_p0.jpg",
       "path": "uploads/2026/09/23834b3b.jpg",
