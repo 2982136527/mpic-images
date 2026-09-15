@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "5c40f51d",
+      "filename": "pixiv_149645286_p0.jpg",
+      "path": "uploads/2026/09/5400a3a7.jpg",
+      "size": 1098722,
+      "width": 655,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "84633839bdaeea05fea9a7807eceae836b807b6ade85996fd78ab8560e188448",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:50:46.832Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Suoming",
+      "tags": [
+        "WutheringWaves",
+        "鸣潮",
+        "鳴潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149645286_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149645286",
+      "sourceCreatedAt": "2026-09-13T17:41:11.000Z"
+    },
+    {
       "id": "882475ed",
       "filename": "pixiv_149633392_p0.jpg",
       "path": "uploads/2026/09/e544ba82.jpg",
