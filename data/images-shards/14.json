@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "bec1048b",
+      "filename": "pixiv_149663812_p0.jpg",
+      "path": "uploads/2026/09/2e15622b.jpg",
+      "size": 753648,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8df42c2845afc4316d06bfcbe95297a376fe828baf190619377adfa301365d9f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T19:40:47.519Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "寝る子",
+      "tags": [
+        "女の子",
+        "イラスト",
+        "オリジナル",
+        "オリジナルキャラクター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149663812_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149663812",
+      "sourceCreatedAt": "2026-09-14T10:02:37.000Z"
+    },
+    {
       "id": "d204f532",
       "filename": "pixiv_149664998_p0.jpg",
       "path": "uploads/2026/09/6b7921e6.jpg",
