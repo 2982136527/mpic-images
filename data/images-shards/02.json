@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "e03ebc31",
+      "filename": "pixiv_149646719_p0.jpg",
+      "path": "uploads/2026/09/f00eb6ef.jpg",
+      "size": 346750,
+      "width": 1037,
+      "height": 867,
+      "mimeType": "image/jpeg",
+      "hash": "b395f296886949e90f99bd73129b200580c66be2c1f51a099635620aabcabc90",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T19:48:45.000Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "marina",
+      "tags": [
+        "Splatoon"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149646719_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149646719",
+      "sourceCreatedAt": "2026-09-13T19:13:20.000Z"
+    },
+    {
       "id": "d72d3060",
       "filename": "pixiv_149626848_p0.jpg",
       "path": "uploads/2026/09/3806977e.jpg",
