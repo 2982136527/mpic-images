@@ -3,6 +3,28 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "1d9dafb4",
+      "filename": "pixiv_149646347_p0.jpg",
+      "path": "uploads/2026/09/e54b1d53.jpg",
+      "size": 859019,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7bedfed3bb12865a47550b58b345f895e03c301555aefbe68e8d2bc4fdfb7807",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:47:58.033Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ねちゃったの？",
+      "tags": [
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149646347_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149646347",
+      "sourceCreatedAt": "2026-09-13T18:46:35.000Z"
+    },
+    {
       "id": "0c855fe8",
       "filename": "pixiv_149601973_p0.jpg",
       "path": "uploads/2026/09/4309b0fa.jpg",
