@@ -3,6 +3,37 @@
   "shardId": "11",
   "images": [
     {
+      "id": "e50134c1",
+      "filename": "pixiv_149662618_p0.jpg",
+      "path": "uploads/2026/09/453ea271.jpg",
+      "size": 1295429,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c7b7ce3063f5a8c35ca0172815b1000975d8ab5ceab5909b7367c88656ac641b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:49:14.874Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "『Hatsune Miku』",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "HatsuneMiku",
+        "ファンアート",
+        "イラスト",
+        "初音ミクイラスト",
+        "ボカロ",
+        "女の子",
+        "制服",
+        "青春"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149662618_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149662618",
+      "sourceCreatedAt": "2026-09-14T09:29:31.000Z"
+    },
+    {
       "id": "d30b91d6",
       "filename": "pixiv_149655675_p0.jpg",
       "path": "uploads/2026/09/0d4ee430.jpg",
