@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "9f583607",
+      "filename": "pixiv_149478206_p0.jpg",
+      "path": "uploads/2026/09/2fd13572.jpg",
+      "size": 1115201,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "4e46cf69e1852383181c3d4d9f729c282a1e0dc595271ecb599d54813b14deaa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:52:04.888Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "サインください",
+      "tags": [
+        "HonkaiStarRail",
+        "崩壊スターレイル",
+        "アベンチュリン(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149478206_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149478206",
+      "sourceCreatedAt": "2026-09-09T15:00:21.000Z"
+    },
+    {
       "id": "b39d4a3f",
       "filename": "pixiv_149661173_p0.jpg",
       "path": "uploads/2026/09/a20febb5.jpg",
