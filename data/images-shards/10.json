@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "bf356ba7",
+      "filename": "pixiv_149672136_p0.jpg",
+      "path": "uploads/2026/09/f895982f.jpg",
+      "size": 1129238,
+      "width": 959,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7ced4b013af96157d88a27bc3fb200ef62e4d4770e35d88958012d15de3c4948",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:51:24.173Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ズッ友",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "まのさば",
+        "桜羽エマ",
+        "橘シェリー",
+        "遠野ハンナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149672136_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149672136",
+      "sourceCreatedAt": "2026-09-14T13:13:54.000Z"
+    },
+    {
       "id": "918f00d0",
       "filename": "pixiv_149585243_p0.jpg",
       "path": "uploads/2026/09/85161269.jpg",
