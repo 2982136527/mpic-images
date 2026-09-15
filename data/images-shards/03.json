@@ -3,6 +3,35 @@
   "shardId": "03",
   "images": [
     {
+      "id": "9518b558",
+      "filename": "pixiv_149607911_p0.jpg",
+      "path": "uploads/2026/09/41a78bca.jpg",
+      "size": 665733,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b4c155a9a5642d720c8725845acb50b20553b51384e8998e028afaa8283a4442",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:35:45.412Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "忍たま",
+      "tags": [
+        "忍たま",
+        "鉢屋三郎",
+        "不破雷蔵",
+        "桜木清右衛門",
+        "若王寺勘兵衛",
+        "七松小平太",
+        "RKRN",
+        "忍たま100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149607911_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149607911",
+      "sourceCreatedAt": "2026-09-13T00:39:20.000Z"
+    },
+    {
       "id": "e976fa5c",
       "filename": "pixiv_149619382_p0.jpg",
       "path": "uploads/2026/09/57ee8c62.jpg",
