@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "eb2c196f",
+      "filename": "pixiv_149627299_p0.jpg",
+      "path": "uploads/2026/09/a8180b99.jpg",
+      "size": 690180,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "631a9e14e15dd6408b7be305410ea7efa8acf7b0a15287c62a60292836003af5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:45:27.199Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "三リョらくがき",
+      "tags": [
+        "三リョ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149627299_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149627299",
+      "sourceCreatedAt": "2026-09-13T10:52:13.000Z"
+    },
+    {
       "id": "92f239df",
       "filename": "pixiv_149602615_p0.jpg",
       "path": "uploads/2026/09/c400221f.jpg",
