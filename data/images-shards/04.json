@@ -3,6 +3,28 @@
   "shardId": "04",
   "images": [
     {
+      "id": "fd85ac7c",
+      "filename": "pixiv_149631160_p0.jpg",
+      "path": "uploads/2026/09/7c11b3d8.jpg",
+      "size": 1170212,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "20cd9e04ae52f375084bc733316fdb864ed24a5cfd98f7e20211fc484786253b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:51:31.283Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "☆",
+      "tags": [
+        "Overwatch"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149631160_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149631160",
+      "sourceCreatedAt": "2026-09-13T12:04:31.000Z"
+    },
+    {
       "id": "db7a8ed8",
       "filename": "pixiv_149623680_p0.jpg",
       "path": "uploads/2026/09/48b4f0c3.jpg",
