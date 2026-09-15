@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "e372c0ea",
+      "filename": "pixiv_149641578_p0.jpg",
+      "path": "uploads/2026/09/0c9be7a2.jpg",
+      "size": 1142890,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "683f5b9a626f174671f6f6002ecf24678c2484731994cafa42108bcefab1688f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:26:35.020Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "超かぐや姫!まとめ③",
+      "tags": [
+        "酒寄彩葉",
+        "かぐや(超かぐや姫!)",
+        "月見ヤチヨ",
+        "超かぐや姫!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149641578_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149641578",
+      "sourceCreatedAt": "2026-09-13T15:28:22.000Z"
+    },
+    {
       "id": "cecc2821",
       "filename": "pixiv_149448046_p0.jpg",
       "path": "uploads/2026/09/e964ba8d.jpg",
