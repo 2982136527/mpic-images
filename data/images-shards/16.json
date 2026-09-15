@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "2e1b7966",
+      "filename": "pixiv_149662176_p0.jpg",
+      "path": "uploads/2026/09/54147713.jpg",
+      "size": 1061916,
+      "width": 745,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8e41768bda3ab37c2ab35e19d80f15361b68905e1a11823924a490e4904e50e6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:50:03.154Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "JCイブキ",
+      "tags": [
+        "BlueArchive",
+        "丹花イブキ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149662176_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149662176",
+      "sourceCreatedAt": "2026-09-14T09:13:32.000Z"
+    },
+    {
       "id": "95862d4a",
       "filename": "pixiv_149575456_p0.jpg",
       "path": "uploads/2026/09/3f592c7c.jpg",
