@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "09b51438",
+      "filename": "pixiv_149639939_p0.jpg",
+      "path": "uploads/2026/09/c8cfa159.jpg",
+      "size": 627750,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "bedd2b2a116c10313d2090bbe7987e4a446f6e7fc8c98691e44d45cb48625e18",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:29:46.072Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "うさみみメイド",
+      "tags": [
+        "メイド",
+        "けもみみ",
+        "うさみみ",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149639939_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149639939",
+      "sourceCreatedAt": "2026-09-13T15:00:27.000Z"
+    },
+    {
       "id": "2d750ebf",
       "filename": "pixiv_149625813_p0.jpg",
       "path": "uploads/2026/09/e06a2eb7.jpg",
