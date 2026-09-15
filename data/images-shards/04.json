@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "cda95447",
+      "filename": "pixiv_149649757_p0.jpg",
+      "path": "uploads/2026/09/ab51f016.jpg",
+      "size": 989801,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e4b159c4af70a06682dbac31d53b81b1e44d585b7d88683ebf6bf9e717489eaf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:29:38.987Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "アトリエ",
+      "tags": [
+        "イラスト",
+        "illustration",
+        "オリキャラ",
+        "originalcharacter"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149649757_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149649757",
+      "sourceCreatedAt": "2026-09-13T22:37:54.000Z"
+    },
+    {
       "id": "a3ba7f25",
       "filename": "pixiv_149641029_p0.jpg",
       "path": "uploads/2026/09/8bad809e.jpg",
