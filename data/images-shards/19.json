@@ -3,6 +3,33 @@
   "shardId": "19",
   "images": [
     {
+      "id": "8a512f14",
+      "filename": "pixiv_149625081_p0.jpg",
+      "path": "uploads/2026/09/5c9f51d6.jpg",
+      "size": 906257,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "113372ddc526b35fb1767fb3d46829cfe90324a18e74bddb2c7b51b511638e71",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:50:40.013Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "看板猫のいる宿",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "猫と女の子",
+        "笑顔",
+        "浴衣",
+        "旅館"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149625081_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149625081",
+      "sourceCreatedAt": "2026-09-13T10:00:11.000Z"
+    },
+    {
       "id": "030b0dc1",
       "filename": "pixiv_149658595_p0.jpg",
       "path": "uploads/2026/09/bc7fc8f9.jpg",
