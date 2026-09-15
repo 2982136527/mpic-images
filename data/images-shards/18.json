@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "d8a50287",
+      "filename": "pixiv_149610625_p0.jpg",
+      "path": "uploads/2026/09/2f06f825.jpg",
+      "size": 614850,
+      "width": 618,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "287f1ef2be2c406c8c2ea3e9c761c86a4a023a5099c801bbaa89acd73176961b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:51:16.791Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Veera",
+      "tags": [
+        "バーチャルYouTuber",
+        "VTuber",
+        "drawveera"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149610625_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149610625",
+      "sourceCreatedAt": "2026-09-13T02:27:11.000Z"
+    },
+    {
       "id": "70386f4c",
       "filename": "pixiv_149655659_p0.jpg",
       "path": "uploads/2026/09/2e86fb52.jpg",
