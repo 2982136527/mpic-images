@@ -3,6 +3,34 @@
   "shardId": "12",
   "images": [
     {
+      "id": "78a7f23c",
+      "filename": "pixiv_149666342_p0.jpg",
+      "path": "uploads/2026/09/fcec0336.jpg",
+      "size": 1270743,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a362b1cf57caa8de13661e871aa827f792c09ce8232e4bd88e267ed608261ed2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T19:40:54.717Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "星海の記憶",
+      "tags": [
+        "ゲーム",
+        "宇宙",
+        "風景",
+        "背景",
+        "星空",
+        "イラスト",
+        "幻想"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149666342_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149666342",
+      "sourceCreatedAt": "2026-09-14T11:04:51.000Z"
+    },
+    {
       "id": "1e920062",
       "filename": "pixiv_149612730_p0.jpg",
       "path": "uploads/2026/09/5ecc58eb.jpg",
