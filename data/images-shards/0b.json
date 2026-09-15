@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "01418e46",
+      "filename": "pixiv_149663977_p0.jpg",
+      "path": "uploads/2026/09/98d68183.jpg",
+      "size": 619093,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a3f9dcf080eed02af8b879c1b8e7d63984a3405e0b8a79f5452b4e61d9f8103f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:47:06.795Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "よかったね",
+      "tags": [
+        "めめ村",
+        "めい舞"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149663977_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149663977",
+      "sourceCreatedAt": "2026-09-14T10:07:22.000Z"
+    },
+    {
       "id": "f28038b8",
       "filename": "pixiv_149663142_p0.jpg",
       "path": "uploads/2026/09/5e3e6971.jpg",
