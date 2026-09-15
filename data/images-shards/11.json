@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "ad471176",
+      "filename": "pixiv_149635889_p0.jpg",
+      "path": "uploads/2026/09/39b078c1.jpg",
+      "size": 2087498,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "929ace4030c3307b326d9635a25e448c6747c4afe447bc4d99260fee83db42bb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:31:15.053Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "天ジャまとめ",
+      "tags": [
+        "天幕のジャードゥーガル",
+        "トルソル",
+        "天ジャ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149635889_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149635889",
+      "sourceCreatedAt": "2026-09-13T18:05:38.000Z"
+    },
+    {
       "id": "c236c227",
       "filename": "pixiv_149610569_p0.jpg",
       "path": "uploads/2026/09/22c40943.jpg",
