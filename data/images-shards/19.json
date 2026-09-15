@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "030b0dc1",
+      "filename": "pixiv_149658595_p0.jpg",
+      "path": "uploads/2026/09/bc7fc8f9.jpg",
+      "size": 346568,
+      "width": 1200,
+      "height": 671,
+      "mimeType": "image/jpeg",
+      "hash": "3dd91115730e5dc8e3e870a19d1ef64aa85a5d5c8621c2ff96e873f749d0ad5b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:49:22.485Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "汗の描き方",
+      "tags": [
+        "描き方",
+        "講座",
+        "メイキング",
+        "汗"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149658595_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149658595",
+      "sourceCreatedAt": "2026-09-14T06:50:33.000Z"
+    },
+    {
       "id": "deef774f",
       "filename": "pixiv_149631109_p0.jpg",
       "path": "uploads/2026/09/683a098f.jpg",
