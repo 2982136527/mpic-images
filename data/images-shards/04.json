@@ -3,6 +3,37 @@
   "shardId": "04",
   "images": [
     {
+      "id": "a3ba7f25",
+      "filename": "pixiv_149641029_p0.jpg",
+      "path": "uploads/2026/09/8bad809e.jpg",
+      "size": 845422,
+      "width": 915,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4683e62e61b1b4aa2d6e759b9109c24c1e7d78b557f91931b25d4edbdbcaf21e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T04:51:52.334Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ポケモンになっちゃうポケモン化イラストまとめ",
+      "tags": [
+        "ポケットモンスター",
+        "ポケモン",
+        "ポケモン化",
+        "TF",
+        "transfur",
+        "獣化",
+        "ケモノ",
+        "ゾロアーク",
+        "ルガルガン",
+        "ポケモン100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149641029_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149641029",
+      "sourceCreatedAt": "2026-09-13T15:16:00.000Z"
+    },
+    {
       "id": "fd85ac7c",
       "filename": "pixiv_149631160_p0.jpg",
       "path": "uploads/2026/09/7c11b3d8.jpg",
