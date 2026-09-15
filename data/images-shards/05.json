@@ -3,6 +3,28 @@
   "shardId": "05",
   "images": [
     {
+      "id": "1025e4a9",
+      "filename": "pixiv_149603810_p0.jpg",
+      "path": "uploads/2026/09/dbc8fe05.jpg",
+      "size": 668987,
+      "width": 756,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1e5fd3bbe8d2a8aa8d0a43c3a077b5b610b7c99009ed05c86371c429644dfaad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T19:48:14.732Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "今だけダブチ食べ美"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149603810_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149603810",
+      "sourceCreatedAt": "2026-09-12T21:24:24.000Z"
+    },
+    {
       "id": "627f1170",
       "filename": "pixiv_149659279_p0.jpg",
       "path": "uploads/2026/09/a66ceca5.jpg",
