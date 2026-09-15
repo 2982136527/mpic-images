@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "a4ed0961",
+      "filename": "pixiv_149637282_p0.jpg",
+      "path": "uploads/2026/09/e22dbc48.jpg",
+      "size": 639542,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "be156f551c397927292bc79d120114ff02e92b0b051cc24073c66bad881c65db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:28:33.620Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "明日方舟",
+        "Ave_Mujica"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149637282_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149637282",
+      "sourceCreatedAt": "2026-09-13T14:06:55.000Z"
+    },
+    {
       "id": "b8ca3a88",
       "filename": "pixiv_149666681_p0.jpg",
       "path": "uploads/2026/09/131c6a51.jpg",
