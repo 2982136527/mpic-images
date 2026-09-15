@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "fc0bbc19",
+      "filename": "pixiv_149614323_p0.jpg",
+      "path": "uploads/2026/09/666c2afe.jpg",
+      "size": 1255453,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "26f2698524058aeabd1db908dcd98a7b79b1ae74eb9240264e84eaa507935db4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:32:25.933Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "千歌ちゃん",
+      "tags": [
+        "ラブライブ!サンシャイン!!",
+        "Aqours",
+        "高海千歌"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149614323_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149614323",
+      "sourceCreatedAt": "2026-09-13T04:30:46.000Z"
+    },
+    {
       "id": "c0aefd2f",
       "filename": "pixiv_149667666_p0.jpg",
       "path": "uploads/2026/09/75153190.jpg",
