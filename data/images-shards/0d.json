@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "83b88998",
+      "filename": "pixiv_149662110_p0.jpg",
+      "path": "uploads/2026/09/b81579b9.jpg",
+      "size": 542626,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ba4c431f00349815bd255b9fb0f7d7ccf803445574ed125bee620de27160bd4a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T19:47:49.774Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ウルビダ",
+      "tags": [
+        "イナズマイレブン",
+        "イナイレ女子",
+        "ウルビダ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149662110_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149662110",
+      "sourceCreatedAt": "2026-09-14T09:11:21.000Z"
+    },
+    {
       "id": "2342de06",
       "filename": "pixiv_149651585_p0.jpg",
       "path": "uploads/2026/09/36794aff.jpg",
