@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "efe4ed20",
+      "filename": "pixiv_149616189_p0.jpg",
+      "path": "uploads/2026/09/c2286c96.jpg",
+      "size": 602820,
+      "width": 787,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ef29b4ec4e271cb762fe4997acda2a04e4535f8de4f4df2877da639ebcff455d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:30:03.601Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "롭젤라",
+      "tags": [
+        "림버스컴퍼니",
+        "Limbus_Company",
+        "LobotomyCorporation",
+        "黒タイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149616189_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149616189",
+      "sourceCreatedAt": "2026-09-13T05:36:32.000Z"
+    },
+    {
       "id": "a4ed0961",
       "filename": "pixiv_149637282_p0.jpg",
       "path": "uploads/2026/09/e22dbc48.jpg",
