@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "1e920062",
+      "filename": "pixiv_149612730_p0.jpg",
+      "path": "uploads/2026/09/5ecc58eb.jpg",
+      "size": 373067,
+      "width": 701,
+      "height": 932,
+      "mimeType": "image/jpeg",
+      "hash": "2fd29b14d71e49e64bd32377a6d5fa39e6ba9591e10a71dbd49d944e806d3602",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-15T13:31:02.726Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "じと…",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "空崎ヒナ",
+        "BlueArchive",
+        "ジト目"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149612730_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149612730",
+      "sourceCreatedAt": "2026-09-13T03:35:50.000Z"
+    },
+    {
       "id": "3b30421d",
       "filename": "pixiv_149672556_p0.jpg",
       "path": "uploads/2026/09/ddbf7379.jpg",
