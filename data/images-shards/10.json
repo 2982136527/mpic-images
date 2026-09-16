@@ -3,6 +3,34 @@
   "shardId": "10",
   "images": [
     {
+      "id": "a78e0672",
+      "filename": "pixiv_149689858_p0.jpg",
+      "path": "uploads/2026/09/28735ffc.jpg",
+      "size": 316832,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57fd6e5e1ac0680073bfb32bbab1caef7512106d4f75ebb063ad13de2edd9740",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T19:39:04.082Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Bunny Girl Peko",
+      "tags": [
+        "Hololive",
+        "ぺこらーと",
+        "VTuber",
+        "fanart",
+        "illustration",
+        "girl",
+        "兎田ぺこら"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149689858_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149689858",
+      "sourceCreatedAt": "2026-09-15T02:07:13.000Z"
+    },
+    {
       "id": "0fd00208",
       "filename": "pixiv_149655016_p0.jpg",
       "path": "uploads/2026/09/0ca05984.jpg",
