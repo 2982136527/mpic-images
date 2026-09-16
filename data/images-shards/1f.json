@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "28aeb7ad",
+      "filename": "pixiv_149700709_p0.jpg",
+      "path": "uploads/2026/09/50259b6b.jpg",
+      "size": 296905,
+      "width": 496,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fcae28e4c7619ddcbb375496da701d20f97c53eca305fbc951189845dbccf337",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T13:34:06.557Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "学園祭ちは",
+      "tags": [
+        "輪堂千速",
+        "ホロライブ",
+        "バーチャルYouTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149700709_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149700709",
+      "sourceCreatedAt": "2026-09-15T10:14:52.000Z"
+    },
+    {
       "id": "16d2943a",
       "filename": "pixiv_149692968_p0.jpg",
       "path": "uploads/2026/09/6d94df06.jpg",
