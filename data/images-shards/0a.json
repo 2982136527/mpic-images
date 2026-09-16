@@ -3,6 +3,33 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "6da620b2",
+      "filename": "pixiv_149676924_p0.jpg",
+      "path": "uploads/2026/09/c60e5384.jpg",
+      "size": 1249614,
+      "width": 1200,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "b298b72eed3d08e2d4b72ec5a4686a7d3a1e63d70e86761a87b5bae6d0d225be",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:41:35.930Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ピクニック",
+      "tags": [
+        "原神",
+        "サンドローネ(原神)",
+        "コロンビーナ(原神)",
+        "ピクニック",
+        "原神100users入り",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149676924_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149676924",
+      "sourceCreatedAt": "2026-09-14T15:00:16.000Z"
+    },
+    {
       "id": "7e609234",
       "filename": "pixiv_149619620_p0.jpg",
       "path": "uploads/2026/09/bf30864c.jpg",
