@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "7d87b0e1",
+      "filename": "pixiv_149689133_p0.jpg",
+      "path": "uploads/2026/09/44984f22.jpg",
+      "size": 759499,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "03b43c3bf8b1d1d8396453ad3f91a89feb7fb39e7affeaff342360e678caafa6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T13:29:05.235Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "百翁新刊《契印》試閱",
+      "tags": [
+        "三角初華",
+        "豊川祥子",
+        "ういさき",
+        "さきうい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149689133_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149689133",
+      "sourceCreatedAt": "2026-09-15T01:23:07.000Z"
+    },
+    {
       "id": "331bcc00",
       "filename": "pixiv_149620152_p0.jpg",
       "path": "uploads/2026/09/982e8db8.jpg",
