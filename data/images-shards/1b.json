@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "468f6456",
+      "filename": "pixiv_149680774_p0.jpg",
+      "path": "uploads/2026/09/f03eec1e.jpg",
+      "size": 398048,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ceda2226402bb409bd2418fdc7e5c32c70cd836839e03f21f6e83797c9596e8d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:47:16.117Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Untitled",
+      "tags": [
+        "明日方舟",
+        "アークナイツ",
+        "Arknights",
+        "イェラ(アークナイツ)",
+        "青舌"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149680774_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149680774",
+      "sourceCreatedAt": "2026-09-14T16:41:27.000Z"
+    },
+    {
       "id": "8d0d07ec",
       "filename": "pixiv_149691096_p0.jpg",
       "path": "uploads/2026/09/f85b9c99.jpg",
