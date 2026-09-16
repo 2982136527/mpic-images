@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "e1a819cd",
+      "filename": "pixiv_149640516_p0.jpg",
+      "path": "uploads/2026/09/b2c4fef4.jpg",
+      "size": 1479253,
+      "width": 1200,
+      "height": 1158,
+      "mimeType": "image/jpeg",
+      "hash": "90c9001108249a771c9abe5d483be6c817fea3dab42a20bbc0f7ddf1683a4738",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T19:31:37.335Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ワールドビヨンド",
+      "tags": [
+        "星のカービィ",
+        "カービィ",
+        "星のカービィワールドビヨンド",
+        "カービィハウス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149640516_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149640516",
+      "sourceCreatedAt": "2026-09-13T15:05:46.000Z"
+    },
+    {
       "id": "0b247edb",
       "filename": "pixiv_149672761_p0.jpg",
       "path": "uploads/2026/09/42571d7b.jpg",
