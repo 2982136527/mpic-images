@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "ae8af063",
+      "filename": "pixiv_149673606_p0.jpg",
+      "path": "uploads/2026/09/44c77034.jpg",
+      "size": 533849,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "bbb71fda753d0ff232ea45ded2d0c31d20263c26cee31b11057fcd5edb4f2607",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:43:13.073Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "首の筋肉が描けない人へ",
+      "tags": [
+        "描き方",
+        "コツ",
+        "ハウツー",
+        "ノウハウ",
+        "上達法"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149673606_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149673606",
+      "sourceCreatedAt": "2026-09-14T13:45:53.000Z"
+    },
+    {
       "id": "e63cb2de",
       "filename": "pixiv_149695593_p0.jpg",
       "path": "uploads/2026/09/7fa53a76.jpg",
