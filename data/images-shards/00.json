@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "a7015802",
+      "filename": "pixiv_149679192_p0.jpg",
+      "path": "uploads/2026/09/532ec219.jpg",
+      "size": 910725,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d862a34cc14c4c8c8d3b12d9198e76943d9857a1fe054073cdcd1fa5183b32a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T19:36:20.679Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "リスクのあるユニット",
+      "tags": [
+        "オリジナル",
+        "オリキャラ",
+        "ラックスティーラー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149679192_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149679192",
+      "sourceCreatedAt": "2026-09-14T15:47:27.000Z"
+    },
+    {
       "id": "fc80eae7",
       "filename": "pixiv_149706036_p0.jpg",
       "path": "uploads/2026/09/2033eeec.jpg",
