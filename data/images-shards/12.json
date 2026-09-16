@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "556695b8",
+      "filename": "pixiv_149678352_p0.jpg",
+      "path": "uploads/2026/09/13aa0c1e.jpg",
+      "size": 495552,
+      "width": 1086,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5d082392ad221e07ad5522ac362a933e780ee4c35408ee8c4e6264c02ab211c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T13:31:33.287Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "小叶",
+      "tags": [
+        "女の子",
+        "欠損",
+        "オリキャラ",
+        "切断"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149678352_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149678352",
+      "sourceCreatedAt": "2026-09-14T15:25:17.000Z"
+    },
+    {
       "id": "81a25da5",
       "filename": "pixiv_149492710_p0.jpg",
       "path": "uploads/2026/09/0295d924.jpg",
