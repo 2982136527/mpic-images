@@ -3,6 +3,37 @@
   "shardId": "04",
   "images": [
     {
+      "id": "2df9fac2",
+      "filename": "pixiv_149711242_p0.jpg",
+      "path": "uploads/2026/09/b9b6b544.jpg",
+      "size": 1022137,
+      "width": 905,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "02b30b1d6f1311c332d96defb53f85e830848ecc19af542a6565d601fc1d60eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T19:35:29.226Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "今年の水着まとめ",
+      "tags": [
+        "ゼンゼロ",
+        "カリン・ウィクス",
+        "アレクサンドリナ・セバスチャン",
+        "ダイアリン",
+        "照",
+        "プロメイア",
+        "ルーシー(ゼンゼロ)",
+        "イドリー・マーフィー",
+        "儀玄",
+        "儀降"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149711242_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149711242",
+      "sourceCreatedAt": "2026-09-15T14:10:03.000Z"
+    },
+    {
       "id": "708a9e19",
       "filename": "pixiv_149702932_p0.jpg",
       "path": "uploads/2026/09/41546aea.jpg",
