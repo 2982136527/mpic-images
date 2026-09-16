@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "0fd00208",
+      "filename": "pixiv_149655016_p0.jpg",
+      "path": "uploads/2026/09/0ca05984.jpg",
+      "size": 539517,
+      "width": 643,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f19705d957e543c8589e4452148a9607d156ce918fa251ea69f4e95098c9544b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T19:36:30.212Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ブラックキャット",
+      "tags": [
+        "水着",
+        "足指",
+        "おっぱい",
+        "ブラックキャット(MARVEL)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149655016_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149655016",
+      "sourceCreatedAt": "2026-09-14T03:39:23.000Z"
+    },
+    {
       "id": "e840cf37",
       "filename": "pixiv_149659756_p0.jpg",
       "path": "uploads/2026/09/4631e450.jpg",
