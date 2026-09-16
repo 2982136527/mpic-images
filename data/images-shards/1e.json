@@ -3,6 +3,32 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "5bdadef0",
+      "filename": "pixiv_149651569_p0.jpg",
+      "path": "uploads/2026/09/e23e6181.jpg",
+      "size": 209909,
+      "width": 700,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "a16f7041194b9d5507de915d0ed46d55a5a2b85caae13c88110095d8e36a8cec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T13:27:23.665Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "そうですか。",
+      "tags": [
+        "東方",
+        "ルーミア",
+        "東方紅魔郷NewClassic",
+        "圧",
+        "東方Project250users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149651569_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149651569",
+      "sourceCreatedAt": "2026-09-14T00:26:15.000Z"
+    },
+    {
       "id": "34f088f1",
       "filename": "pixiv_149700615_p0.jpg",
       "path": "uploads/2026/09/bc5e66b3.jpg",
