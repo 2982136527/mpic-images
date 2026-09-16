@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "a02ce8a4",
+      "filename": "pixiv_149666938_p0.jpg",
+      "path": "uploads/2026/09/6ce4187c.jpg",
+      "size": 779292,
+      "width": 1200,
+      "height": 1167,
+      "mimeType": "image/jpeg",
+      "hash": "82e52d2ae5d53c72adc7faf0f9a69e9502454422046ebc1aa4e733655827eb73",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:45:27.514Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カフェ坊ちゃま",
+      "tags": [
+        "原神",
+        "イルーガ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149666938_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149666938",
+      "sourceCreatedAt": "2026-09-14T11:20:27.000Z"
+    },
+    {
       "id": "0459405a",
       "filename": "pixiv_149606419_p0.jpg",
       "path": "uploads/2026/09/47ab359a.jpg",
