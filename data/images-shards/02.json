@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "c7cb825d",
+      "filename": "pixiv_149682509_p0.jpg",
+      "path": "uploads/2026/09/a08e0bc1.jpg",
+      "size": 867952,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a82aa42843644b02a0ad7d0843aba6551f2a1181afc3af30001703008cd756cb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:43:06.067Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "甘えんぼう",
+      "tags": [
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149682509_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149682509",
+      "sourceCreatedAt": "2026-09-14T18:12:40.000Z"
+    },
+    {
       "id": "e03ebc31",
       "filename": "pixiv_149646719_p0.jpg",
       "path": "uploads/2026/09/f00eb6ef.jpg",
