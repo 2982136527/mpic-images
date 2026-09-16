@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "8059ffe6",
+      "filename": "pixiv_149708578_p0.jpg",
+      "path": "uploads/2026/09/148fac4f.jpg",
+      "size": 516373,
+      "width": 866,
+      "height": 1147,
+      "mimeType": "image/jpeg",
+      "hash": "f9c5f6448961b84d3796dc184ff1f182d652e2534b7d32825b1b26960402dc19",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T13:29:37.709Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🫙落書き詰め",
+      "tags": [
+        "創作BL",
+        "創作",
+        "BL"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149708578_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149708578",
+      "sourceCreatedAt": "2026-09-15T13:12:03.000Z"
+    },
+    {
       "id": "48f6b4ed",
       "filename": "pixiv_149698203_p0.jpg",
       "path": "uploads/2026/09/5e46f766.jpg",
