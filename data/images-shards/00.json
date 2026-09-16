@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "2fc70a16",
+      "filename": "pixiv_149696514_p0.jpg",
+      "path": "uploads/2026/09/3a525819.jpg",
+      "size": 2068114,
+      "width": 759,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "da3eceded46a853aea9bbd0ca84d07af9645ebafa2cb7fb95048fcdf425d6253",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T19:31:50.757Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝟱 𝟭𝟬𝘁𝗵 𝗔𝗻𝗻𝗶𝘃𝗲𝗿𝘀𝗮𝗿𝘆 !!",
+      "tags": [
+        "ペルソナ5",
+        "persona5",
+        "主人公(ペルソナ5)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149696514_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149696514",
+      "sourceCreatedAt": "2026-09-15T08:01:57.000Z"
+    },
+    {
       "id": "f21e47c5",
       "filename": "pixiv_149459247_p0.jpg",
       "path": "uploads/2026/09/69cd14b1.jpg",
