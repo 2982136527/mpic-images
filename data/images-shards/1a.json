@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "2ef8bfe0",
+      "filename": "pixiv_149680204_p0.jpg",
+      "path": "uploads/2026/09/272de042.jpg",
+      "size": 513192,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d0beece6d9fa54e45c1b16e1b8d86e9fa2a3139e2d97deedbc950c9c97f58409",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:45:34.565Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "重音テト",
+        "kasaneteto",
+        "TETO",
+        "teto"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149680204_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149680204",
+      "sourceCreatedAt": "2026-09-14T16:18:41.000Z"
+    },
+    {
       "id": "c7ef715d",
       "filename": "pixiv_149660314_p0.jpg",
       "path": "uploads/2026/09/4065ac37.jpg",
