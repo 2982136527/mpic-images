@@ -3,6 +3,37 @@
   "shardId": "02",
   "images": [
     {
+      "id": "ac095bac",
+      "filename": "pixiv_149694303_p0.jpg",
+      "path": "uploads/2026/09/f6ed77f0.jpg",
+      "size": 621736,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e894f28fee46cc37fff03b992c70441a664b81ab71a569d16cedaf62e884ee6b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T19:34:51.166Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "令和ライダーまとめ",
+      "tags": [
+        "令和ライダー",
+        "仮面ライダーゼロワン",
+        "仮面ライダーセイバー",
+        "仮面ライダーリバイス",
+        "仮面ライダーギーツ",
+        "仮面ライダーガッチャード",
+        "仮面ライダーガヴ",
+        "仮面ライダーゼッツ",
+        "仮面ライダーマイス",
+        "左上の存在感"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149694303_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149694303",
+      "sourceCreatedAt": "2026-09-15T06:10:24.000Z"
+    },
+    {
       "id": "1e815fb6",
       "filename": "pixiv_149659563_p0.jpg",
       "path": "uploads/2026/09/cc19a74f.jpg",
