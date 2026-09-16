@@ -3,6 +3,37 @@
   "shardId": "12",
   "images": [
     {
+      "id": "81a25da5",
+      "filename": "pixiv_149492710_p0.jpg",
+      "path": "uploads/2026/09/0295d924.jpg",
+      "size": 2403917,
+      "width": 1150,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9ddb7ace23541a83013f1b3123dacf19af1b3b4d3b7337ac55308f4ca84a47e3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:48:29.246Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ほむさや",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "暁美ほむら",
+        "美樹さやか",
+        "まどか☆マギカ100users入り",
+        "ほむさや",
+        "髪型チェンジ",
+        "まどかヘア",
+        "まどか☆マギカ5000users入り",
+        "まどか☆マギカ500users入り",
+        "魚眼"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149492710_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149492710",
+      "sourceCreatedAt": "2026-09-10T03:11:22.000Z"
+    },
+    {
       "id": "61c4fb5d",
       "filename": "pixiv_149451943_p0.jpg",
       "path": "uploads/2026/09/410f36cd.jpg",
