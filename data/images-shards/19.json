@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "61ec6d09",
+      "filename": "pixiv_149641279_p0.jpg",
+      "path": "uploads/2026/09/74201045.jpg",
+      "size": 576773,
+      "width": 627,
+      "height": 885,
+      "mimeType": "image/jpeg",
+      "hash": "dfffff71d1c4f44f26010aaf984fb1ba1ef378b97fa3f21681ea8f6aa6586e09",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T13:31:12.860Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "さくら",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "女子高生",
+        "青田芽依"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149641279_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149641279",
+      "sourceCreatedAt": "2026-09-13T15:21:24.000Z"
+    },
+    {
       "id": "7d87b0e1",
       "filename": "pixiv_149689133_p0.jpg",
       "path": "uploads/2026/09/44984f22.jpg",
