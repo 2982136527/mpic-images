@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "a5849be7",
+      "filename": "pixiv_149682940_p0.jpg",
+      "path": "uploads/2026/09/ce8001cd.jpg",
+      "size": 953674,
+      "width": 669,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c97bdd715f498571ab0f51944b88e1309198bf01cef3d38201e04588b3dbb172",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:45:55.606Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "♏",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ミエール・ダン",
+        "レミエール・ダン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149682940_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149682940",
+      "sourceCreatedAt": "2026-09-14T18:44:38.000Z"
+    },
+    {
       "id": "6eee0de9",
       "filename": "pixiv_149651498_p0.jpg",
       "path": "uploads/2026/09/445db9f4.jpg",
