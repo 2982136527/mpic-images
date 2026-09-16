@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "6f3886c5",
+      "filename": "pixiv_149643187_p0.jpg",
+      "path": "uploads/2026/09/c11cd583.jpg",
+      "size": 490814,
+      "width": 695,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c6fbeaf2ed3c45974b3504b4d6c1d746ec6c966c2475e61f0093c07cd8e0dc77",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:42:44.051Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "篠沢",
+      "tags": [
+        "学園アイドルマスター",
+        "篠澤広"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149643187_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149643187",
+      "sourceCreatedAt": "2026-09-13T16:11:37.000Z"
+    },
+    {
       "id": "edde99ce",
       "filename": "pixiv_149605230_p0.jpg",
       "path": "uploads/2026/09/17c3636d.jpg",
