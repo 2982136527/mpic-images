@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "204545cf",
+      "filename": "pixiv_149697250_p0.jpg",
+      "path": "uploads/2026/09/efc853b1.jpg",
+      "size": 1261077,
+      "width": 864,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0ddcb619ab8a1327d0714269425e7a85cf2ba7edd9bab1a964adf1f8cf1247bc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:43:37.069Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【プロセカ】1️⃣1️⃣9️⃣",
+      "tags": [
+        "プロジェクトセカイ",
+        "プロセカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149697250_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149697250",
+      "sourceCreatedAt": "2026-09-15T08:32:34.000Z"
+    },
+    {
       "id": "c7cb825d",
       "filename": "pixiv_149682509_p0.jpg",
       "path": "uploads/2026/09/a08e0bc1.jpg",
