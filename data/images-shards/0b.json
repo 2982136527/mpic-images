@@ -3,6 +3,32 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "8db50607",
+      "filename": "pixiv_149678397_p0.jpg",
+      "path": "uploads/2026/09/5384b921.jpg",
+      "size": 899463,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ed1e4c2a36eee0b8783b3c3cd8a5b6158fe9c13e73734044c0148f97e0ff7992",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T13:26:07.924Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "パチュリー",
+      "tags": [
+        "東方Project",
+        "パチュリー・ノーレッジ",
+        "丸眼鏡",
+        "おっぱちゅりー",
+        "東方Project1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149678397_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149678397",
+      "sourceCreatedAt": "2026-09-14T15:26:13.000Z"
+    },
+    {
       "id": "7cad0f6b",
       "filename": "pixiv_149643578_p0.jpg",
       "path": "uploads/2026/09/c66a7652.jpg",
