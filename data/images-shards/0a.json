@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "b0d0c3f8",
+      "filename": "pixiv_149652931_p0.jpg",
+      "path": "uploads/2026/09/12095e97.jpg",
+      "size": 790801,
+      "width": 857,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "93d0f10a2facc689147d763df4de75796dfeb966263d3985f4c63aad16b8ac28",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T19:31:00.457Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ミク誕+まとめ",
+      "tags": [
+        "重音テト",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149652931_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149652931",
+      "sourceCreatedAt": "2026-09-14T01:48:12.000Z"
+    },
+    {
       "id": "2f51a61e",
       "filename": "pixiv_149639823_p0.jpg",
       "path": "uploads/2026/09/0931b5d1.jpg",
