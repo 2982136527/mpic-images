@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "e63cb2de",
+      "filename": "pixiv_149695593_p0.jpg",
+      "path": "uploads/2026/09/7fa53a76.jpg",
+      "size": 1234553,
+      "width": 1200,
+      "height": 745,
+      "mimeType": "image/jpeg",
+      "hash": "d10b8e495cd0411213bdc96a8215bd5de48089db08ab1e1a98a126f4d772a117",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:42:51.725Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "景燃",
+      "tags": [
+        "鳴潮",
+        "景燃"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149695593_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149695593",
+      "sourceCreatedAt": "2026-09-15T07:17:49.000Z"
+    },
+    {
       "id": "8b52da2b",
       "filename": "pixiv_149697663_p0.jpg",
       "path": "uploads/2026/09/afeee24d.jpg",
