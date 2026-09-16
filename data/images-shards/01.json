@@ -3,6 +3,28 @@
   "shardId": "01",
   "images": [
     {
+      "id": "c311c9bd",
+      "filename": "pixiv_149661209_p0.jpg",
+      "path": "uploads/2026/09/1a048928.jpg",
+      "size": 281671,
+      "width": 703,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3fe474f436891fb1ecf7da2d2bc2579fdb0bb9825bdde6d28b53724471deb06c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T19:35:22.531Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "BLACKSOULS",
+      "tags": [
+        "BLACKSOULS"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149661209_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149661209",
+      "sourceCreatedAt": "2026-09-14T08:46:43.000Z"
+    },
+    {
       "id": "257ecf4a",
       "filename": "pixiv_149665706_p0.jpg",
       "path": "uploads/2026/09/3e2dcb95.jpg",
