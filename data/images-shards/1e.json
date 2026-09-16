@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "d2afff77",
+      "filename": "pixiv_149641655_p0.jpg",
+      "path": "uploads/2026/09/1d226f3f.jpg",
+      "size": 1834683,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "316a7224576e0028b7b1cf50517553075322c2126c49944f55ab385bd7ec087e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:40:28.884Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "一矢",
+      "tags": [
+        "オリジナル",
+        "ReSURGUM"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149641655_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149641655",
+      "sourceCreatedAt": "2026-09-13T15:30:04.000Z"
+    },
+    {
       "id": "1deb42cb",
       "filename": "pixiv_149657497_p0.jpg",
       "path": "uploads/2026/09/43955994.jpg",
