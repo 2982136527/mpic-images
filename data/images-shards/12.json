@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "15012643",
+      "filename": "pixiv_149709135_p0.jpg",
+      "path": "uploads/2026/09/628e9015.jpg",
+      "size": 529809,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "13db917dd499c3dce7af19efc4c10f78ddb0f76f68a0c71c03905e2c1c1da389",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:46:40.836Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Arumi-mama",
+      "tags": [
+        "女の子",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149709135_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149709135",
+      "sourceCreatedAt": "2026-09-15T13:27:44.000Z"
+    },
+    {
       "id": "ccc2372c",
       "filename": "pixiv_149706805_p0.jpg",
       "path": "uploads/2026/09/695d8f86.jpg",
