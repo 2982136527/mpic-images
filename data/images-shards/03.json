@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "fb33821c",
+      "filename": "pixiv_149677532_p0.jpg",
+      "path": "uploads/2026/09/2b0cb93d.jpg",
+      "size": 802846,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2aa3f0927992ecb72aff6d728454cb7f0fe027feeafe8f3cc5595c073025efed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:46:47.687Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "淵上コトネ",
+      "tags": [
+        "淵上コトネ",
+        "ブルーアーカイブ",
+        "ブルアカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149677532_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149677532",
+      "sourceCreatedAt": "2026-09-14T15:06:29.000Z"
+    },
+    {
       "id": "c07aa841",
       "filename": "pixiv_149706363_p0.jpg",
       "path": "uploads/2026/09/bc3153ec.jpg",
