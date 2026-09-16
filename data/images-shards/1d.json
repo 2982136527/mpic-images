@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "19e6b580",
+      "filename": "pixiv_149639921_p0.jpg",
+      "path": "uploads/2026/09/1a7e0f46.jpg",
+      "size": 678898,
+      "width": 931,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f9b2fe783df91edcf8e2ab62e80c9d7302218531a8035b3ba34595f0bfae69c4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:39:45.737Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "正解",
+      "tags": [
+        "正解",
+        "仕事絵",
+        "重音テト",
+        "正解(雨良)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149639921_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149639921",
+      "sourceCreatedAt": "2026-09-13T15:00:24.000Z"
+    },
+    {
       "id": "94298d64",
       "filename": "pixiv_149612535_p0.jpg",
       "path": "uploads/2026/09/c7890c4b.jpg",
