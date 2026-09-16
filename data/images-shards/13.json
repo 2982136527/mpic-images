@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "7f1c3fcf",
+      "filename": "pixiv_149654743_p0.jpg",
+      "path": "uploads/2026/09/c1d4f656.jpg",
+      "size": 1172241,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "422a358abfdaa9d7f4411229802cde5060654842cecb1e2c22e90bfa3b165e5c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T13:27:02.993Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "穂乃果",
+      "tags": [
+        "ラブライブ!",
+        "μ's",
+        "高坂穂乃果"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149654743_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149654743",
+      "sourceCreatedAt": "2026-09-14T03:24:07.000Z"
+    },
+    {
       "id": "e71fa6e4",
       "filename": "pixiv_149698950_p0.jpg",
       "path": "uploads/2026/09/777d954e.jpg",
