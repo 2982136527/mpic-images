@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "c13402ac",
+      "filename": "pixiv_149684150_p0.jpg",
+      "path": "uploads/2026/09/95e7455f.jpg",
+      "size": 1098745,
+      "width": 764,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "418bb34a699aa52f89648f99fcfcbaa149997d2379a1c95f3d8c6b1a0486533d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T19:34:25.931Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "リネ蛍詰め",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "リネ蛍",
+        "lynlumi"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149684150_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149684150",
+      "sourceCreatedAt": "2026-09-14T20:24:09.000Z"
+    },
+    {
       "id": "a742d3cc",
       "filename": "pixiv_149686610_p0.jpg",
       "path": "uploads/2026/09/8b8606de.jpg",
