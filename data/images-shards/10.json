@@ -3,6 +3,34 @@
   "shardId": "10",
   "images": [
     {
+      "id": "8b52da2b",
+      "filename": "pixiv_149697663_p0.jpg",
+      "path": "uploads/2026/09/afeee24d.jpg",
+      "size": 656791,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aac6abb1017851acdd4284ad6413f846ca4bdbdc32cb1ac29464e309f9b0302c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:42:09.270Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ワニノコと出会う話",
+      "tags": [
+        "ポケモン",
+        "オリジナルトレーナー",
+        "ポケモンと生活",
+        "ポケモンと社会",
+        "ワニノコ",
+        "オーダイル",
+        "ジョーイさん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149697663_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149697663",
+      "sourceCreatedAt": "2026-09-15T08:48:54.000Z"
+    },
+    {
       "id": "55860053",
       "filename": "pixiv_149640263_p0.jpg",
       "path": "uploads/2026/09/bf7877a7.jpg",
