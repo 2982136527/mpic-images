@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "35592ec5",
+      "filename": "pixiv_149698312_p0.jpg",
+      "path": "uploads/2026/09/6ea2007d.jpg",
+      "size": 1838072,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "628cd55071b740f517242f42c2f6725cb17e2f8c19c471ac9696f90099c140a8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:43:50.736Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "足立レイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149698312_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149698312",
+      "sourceCreatedAt": "2026-09-15T09:03:42.000Z"
+    },
+    {
       "id": "d2afff77",
       "filename": "pixiv_149641655_p0.jpg",
       "path": "uploads/2026/09/1d226f3f.jpg",
