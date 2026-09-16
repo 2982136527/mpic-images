@@ -3,6 +3,33 @@
   "shardId": "03",
   "images": [
     {
+      "id": "7ee0b12e",
+      "filename": "pixiv_149701131_p0.jpg",
+      "path": "uploads/2026/09/44895047.jpg",
+      "size": 1242660,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c251fc16518e89ae4292b5459a440808b11c0587c5eb5fcaa85d44cf97a99bf9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T04:41:15.190Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "塑心",
+      "tags": [
+        "アルトリア(アークナイツ)",
+        "女の子",
+        "仕事絵",
+        "アークナイツ",
+        "塑心",
+        "明日方舟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149701131_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149701131",
+      "sourceCreatedAt": "2026-09-15T10:29:03.000Z"
+    },
+    {
       "id": "9518b558",
       "filename": "pixiv_149607911_p0.jpg",
       "path": "uploads/2026/09/41a78bca.jpg",
