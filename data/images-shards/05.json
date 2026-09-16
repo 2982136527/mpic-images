@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "af9d9f71",
+      "filename": "pixiv_149492143_p0.jpg",
+      "path": "uploads/2026/09/88e3a626.jpg",
+      "size": 920443,
+      "width": 925,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "42112d2953a5319bce0228b4ea1f594ba6f520743ace701f6755d30406be62cd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T19:40:08.164Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "音は合ってなくても気にすんな！",
+      "tags": [
+        "初音ミク",
+        "VOCALOID1000users入り",
+        "ギター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149492143_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149492143",
+      "sourceCreatedAt": "2026-09-10T02:50:05.000Z"
+    },
+    {
       "id": "873eab41",
       "filename": "pixiv_149657235_p0.jpg",
       "path": "uploads/2026/09/2bfd8387.jpg",
