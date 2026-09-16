@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "8ee51f30",
+      "filename": "pixiv_149693340_p0.jpg",
+      "path": "uploads/2026/09/e1763702.jpg",
+      "size": 866683,
+      "width": 987,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b0c50f9a6c8e3802f8f5283bf445a54b9f1e474e793479f91a6b99baac0ade89",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T13:26:39.036Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "0916受注通販",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149693340_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149693340",
+      "sourceCreatedAt": "2026-09-15T05:14:24.000Z"
+    },
+    {
       "id": "72a68e9d",
       "filename": "pixiv_149706635_p0.jpg",
       "path": "uploads/2026/09/a32fc9e9.jpg",
