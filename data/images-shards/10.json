@@ -3,6 +3,28 @@
   "shardId": "10",
   "images": [
     {
+      "id": "e840cf37",
+      "filename": "pixiv_149659756_p0.jpg",
+      "path": "uploads/2026/09/4631e450.jpg",
+      "size": 1118561,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "6de673f0ce4eabc504bb65d1bed99bf9ef76c3ee648fb98540e34a9f371b4bd3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T19:32:25.898Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "重置版",
+      "tags": [
+        "绝区零"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149659756_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149659756",
+      "sourceCreatedAt": "2026-09-14T07:47:12.000Z"
+    },
+    {
       "id": "15a623b4",
       "filename": "pixiv_149677259_p0.jpg",
       "path": "uploads/2026/09/61894405.jpg",
