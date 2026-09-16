@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "511604c1",
+      "filename": "pixiv_149652471_p0.jpg",
+      "path": "uploads/2026/09/cd56bc41.jpg",
+      "size": 823140,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "092fd9a34d3518f05428337fe6b57ce1885886dbd84b10d18582bcd6c5729828",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-16T13:29:56.298Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "実装記念",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ヴェスナ(原神)",
+        "ヴェスナ",
+        "Vesna"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149652471_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149652471",
+      "sourceCreatedAt": "2026-09-14T01:21:45.000Z"
+    },
+    {
       "id": "896846f4",
       "filename": "pixiv_149660494_p0.jpg",
       "path": "uploads/2026/09/36890444.jpg",
