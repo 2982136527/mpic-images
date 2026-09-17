@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "86c36f2a",
+      "filename": "pixiv_149676968_p0.jpg",
+      "path": "uploads/2026/09/c70659fa.jpg",
+      "size": 1173249,
+      "width": 676,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7a258179a05735799242073bf8f92de4cdaf755f251331dc960e9452d0865532",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:44:27.447Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "イルーガ",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "イルーガ",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149676968_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149676968",
+      "sourceCreatedAt": "2026-09-14T15:00:23.000Z"
+    },
+    {
       "id": "a78e0672",
       "filename": "pixiv_149689858_p0.jpg",
       "path": "uploads/2026/09/28735ffc.jpg",
