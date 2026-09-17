@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "c0b81c36",
+      "filename": "pixiv_149742524_p0.jpg",
+      "path": "uploads/2026/09/09dc564c.jpg",
+      "size": 963809,
+      "width": 1036,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "45b5d34f1172f1eb8f32d14ce88dfe468335825ada3bf3658517737fa2b0c83a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T13:26:00.361Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "갸루멘",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "LobotomyCorporation",
+        "Carmen"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149742524_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149742524",
+      "sourceCreatedAt": "2026-09-16T12:26:39.000Z"
+    },
+    {
       "id": "3d8079d0",
       "filename": "pixiv_149701442_p0.jpg",
       "path": "uploads/2026/09/0f90c91b.jpg",
