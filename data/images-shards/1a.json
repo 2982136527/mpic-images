@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "b72f0578",
+      "filename": "pixiv_149718919_p0.jpg",
+      "path": "uploads/2026/09/6ad5d425.jpg",
+      "size": 1451047,
+      "width": 1000,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "d3fcc71d3e8046e0c06e71d950e280a08f03ec36f50fef1f2b79d2466311ae43",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T13:31:41.584Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "高銀ログ",
+      "tags": [
+        "高銀",
+        "蛟九"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149718919_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149718919",
+      "sourceCreatedAt": "2026-09-15T18:05:26.000Z"
+    },
+    {
       "id": "d041a274",
       "filename": "pixiv_149713831_p0.jpg",
       "path": "uploads/2026/09/efd28950.jpg",
