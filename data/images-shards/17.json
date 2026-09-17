@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "e63d0b5f",
+      "filename": "pixiv_149713356_p0.jpg",
+      "path": "uploads/2026/09/b0b33d77.jpg",
+      "size": 1325133,
+      "width": 1200,
+      "height": 1080,
+      "mimeType": "image/jpeg",
+      "hash": "b8120184924e034995bb8218df6afcee16237607bfa57a89f215335ba3bf584f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:48:51.639Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "『足元注意！』",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149713356_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149713356",
+      "sourceCreatedAt": "2026-09-15T15:00:10.000Z"
+    },
+    {
       "id": "2eae1a96",
       "filename": "pixiv_149736804_p0.jpg",
       "path": "uploads/2026/09/cf3c11bd.jpg",
