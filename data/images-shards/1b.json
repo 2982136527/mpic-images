@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "d748d25c",
+      "filename": "pixiv_149735152_p0.jpg",
+      "path": "uploads/2026/09/cda9459b.jpg",
+      "size": 1719245,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3dbaca16fac190b2fc4bd0824eb1c1386b50566b84a96d9a5b09c2884462855e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:45:44.786Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "たいやき魔理沙さん",
+      "tags": [
+        "東方",
+        "東方Project",
+        "霧雨魔理沙",
+        "制服",
+        "猫耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149735152_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149735152",
+      "sourceCreatedAt": "2026-09-16T09:19:52.000Z"
+    },
+    {
       "id": "ceb38ed4",
       "filename": "pixiv_149668959_p0.jpg",
       "path": "uploads/2026/09/ec2ac5e9.jpg",
