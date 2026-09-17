@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "d0495b1e",
+      "filename": "pixiv_149681516_p0.jpg",
+      "path": "uploads/2026/09/90783c97.jpg",
+      "size": 1150277,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "ea1ca782adc277fcdcdab3a1802ef8df7de15aa71cf1bd424c403efbc504a0b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:42:14.030Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "내려쳐라!",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "이스마엘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149681516_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149681516",
+      "sourceCreatedAt": "2026-09-14T17:15:55.000Z"
+    },
+    {
       "id": "c03156e8",
       "filename": "pixiv_149729052_p0.jpg",
       "path": "uploads/2026/09/aa8996e5.jpg",
