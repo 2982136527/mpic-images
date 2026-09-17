@@ -3,6 +3,37 @@
   "shardId": "16",
   "images": [
     {
+      "id": "81d2c2dc",
+      "filename": "pixiv_149700814_p0.jpg",
+      "path": "uploads/2026/09/4f340824.jpg",
+      "size": 688255,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5e767ddfbae92a973ccb63c24d7a706042f4c85c76d5b71b67bb72924a7a470f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:42:33.875Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Summer's vacation.",
+      "tags": [
+        "皮モノ",
+        "skinsuit",
+        "fireemblem",
+        "TSF",
+        "漫画",
+        "バルドル#(ファイアーエムブレム)",
+        "ヘズ(FE)",
+        "ヴァーリ(FEH)",
+        "ファイアーエムブレムヒーローズ",
+        "ルーン(FEH)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149700814_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149700814",
+      "sourceCreatedAt": "2026-09-15T10:18:22.000Z"
+    },
+    {
       "id": "36f07781",
       "filename": "pixiv_149720686_p0.jpg",
       "path": "uploads/2026/09/f3391cf1.jpg",
