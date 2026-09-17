@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "3066ff01",
+      "filename": "pixiv_148742083_p0.jpg",
+      "path": "uploads/2026/09/9c549858.jpg",
+      "size": 1210665,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "604afba32f7c28de48c53c31d973a7af6c978e613314e200dec77495404b90f8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:52:39.644Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "デビットビット",
+      "tags": [
+        "UTAU",
+        "カロガド",
+        "ナース",
+        "本家",
+        "カロガド(病)",
+        "デビットビット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148742083_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148742083",
+      "sourceCreatedAt": "2026-08-22T08:53:00.000Z"
+    },
+    {
       "id": "86c36f2a",
       "filename": "pixiv_149676968_p0.jpg",
       "path": "uploads/2026/09/c70659fa.jpg",
