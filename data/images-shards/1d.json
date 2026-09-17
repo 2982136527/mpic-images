@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "c7f14d84",
+      "filename": "pixiv_149732434_p0.jpg",
+      "path": "uploads/2026/09/e024435e.jpg",
+      "size": 789494,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "76be21f1e4244f9e72d039bc326af5136cf1d243175e7341a29652cf82ce5834",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:42:49.868Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "9章終了目前のまとめ",
+      "tags": [
+        "Limbus_Company",
+        "LimbusCompany"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149732434_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149732434",
+      "sourceCreatedAt": "2026-09-16T07:45:23.000Z"
+    },
+    {
       "id": "83c72dfd",
       "filename": "pixiv_149685002_p0.jpg",
       "path": "uploads/2026/09/65e9292d.jpg",
