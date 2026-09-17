@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "5c6ed6a2",
+      "filename": "pixiv_149701402_p0.jpg",
+      "path": "uploads/2026/09/6e533d3d.jpg",
+      "size": 647963,
+      "width": 894,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f25cd197c2882bbaa402f41b6a4d931cf59ca6095a06831cf782f1a67265ffd1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T13:22:13.177Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "wip",
+      "tags": [
+        "名探偵プリキュア!",
+        "森亜るるか",
+        "キュアアルカナ・シャドウ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149701402_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149701402",
+      "sourceCreatedAt": "2026-09-15T10:35:20.000Z"
+    },
+    {
       "id": "aa31d3cc",
       "filename": "pixiv_149733933_p0.jpg",
       "path": "uploads/2026/09/d77f2d24.jpg",
