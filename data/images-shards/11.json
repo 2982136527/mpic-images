@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "e4970ec2",
+      "filename": "pixiv_149739872_p0.jpg",
+      "path": "uploads/2026/09/eba81db2.jpg",
+      "size": 1237586,
+      "width": 871,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "068507c6774434e906e6d695d87c4257092b46e3a1fbf22a8de6d3065fe8a715",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:49:45.125Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「つかまえたー！」",
+      "tags": [
+        "初音ミク",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149739872_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149739872",
+      "sourceCreatedAt": "2026-09-16T11:25:42.000Z"
+    },
+    {
       "id": "a1781729",
       "filename": "pixiv_149719141_p0.jpg",
       "path": "uploads/2026/09/c70d74ff.jpg",
