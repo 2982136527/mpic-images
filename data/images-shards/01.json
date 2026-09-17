@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "92445b61",
+      "filename": "pixiv_149736284_p0.jpg",
+      "path": "uploads/2026/09/4f549506.jpg",
+      "size": 833181,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "35db5c6408e9816241a9f0e3310b033fbab170d98ac011f0bfe3769105fd0dc0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:44:55.413Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "さくたん",
+      "tags": [
+        "バーチャルYouTuber",
+        "結城さくな",
+        "VTuber",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149736284_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149736284",
+      "sourceCreatedAt": "2026-09-16T09:56:17.000Z"
+    },
+    {
       "id": "fc2e2867",
       "filename": "pixiv_149709284_p0.jpg",
       "path": "uploads/2026/09/076f0d60.jpg",
