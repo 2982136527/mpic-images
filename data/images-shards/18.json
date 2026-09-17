@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "98b0380d",
+      "filename": "pixiv_149739822_p0.jpg",
+      "path": "uploads/2026/09/be9ed2b7.jpg",
+      "size": 987890,
+      "width": 877,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6535ffa2c3e9218802a508021393d75643198316bf1d576b8ee4e33d5dfaf853",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:47:22.015Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「だーれだ？」",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "目隠し",
+        "VOCALOID1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149739822_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149739822",
+      "sourceCreatedAt": "2026-09-16T11:24:26.000Z"
+    },
+    {
       "id": "dfc4291e",
       "filename": "pixiv_149727743_p0.jpg",
       "path": "uploads/2026/09/d7cc61c2.jpg",
