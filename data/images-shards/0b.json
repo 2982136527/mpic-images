@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "d555c575",
+      "filename": "pixiv_149731285_p0.jpg",
+      "path": "uploads/2026/09/0a7865dc.jpg",
+      "size": 728182,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6301dfac6fd6a502fa71077e1e1e7e5b3e0a153edd45af29cc3044e2a2ce24f5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T13:25:24.164Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "末路",
+      "tags": [
+        "原創",
+        "插画",
+        "女の子",
+        "オリジナル250users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149731285_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149731285",
+      "sourceCreatedAt": "2026-09-16T06:50:18.000Z"
+    },
+    {
       "id": "6c06c04e",
       "filename": "pixiv_149690345_p0.jpg",
       "path": "uploads/2026/09/99672749.jpg",
