@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "f62f48cc",
+      "filename": "pixiv_149697290_p0.jpg",
+      "path": "uploads/2026/09/a67d2ac5.jpg",
+      "size": 175480,
+      "width": 823,
+      "height": 821,
+      "mimeType": "image/jpeg",
+      "hash": "b0cd96a068f6f408e04040c84da47de53ee51bec1e72e9ac32619249d6b7b783",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:50:28.275Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Untitled",
+      "tags": [
+        "oc",
+        "yunayu",
+        "オリキャラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149697290_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149697290",
+      "sourceCreatedAt": "2026-09-15T08:33:54.000Z"
+    },
+    {
       "id": "8c9db1bc",
       "filename": "pixiv_149690995_p0.jpg",
       "path": "uploads/2026/09/abbdeeff.jpg",
