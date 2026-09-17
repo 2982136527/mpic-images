@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "8b7a90f0",
+      "filename": "pixiv_149676969_p0.jpg",
+      "path": "uploads/2026/09/9dd4e7c4.jpg",
+      "size": 805719,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "d092697182a26fd2877b0aaed96f08d3b67d1778273c547f26437f2bf85efb7e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:44:32.688Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "寒江の雪",
+      "tags": [
+        "女の子",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149676969_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149676969",
+      "sourceCreatedAt": "2026-09-14T15:00:23.000Z"
+    },
+    {
       "id": "8092caa8",
       "filename": "pixiv_149692475_p0.jpg",
       "path": "uploads/2026/09/c6b1c692.jpg",
