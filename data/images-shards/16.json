@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "825e2f30",
+      "filename": "pixiv_149699272_p0.jpg",
+      "path": "uploads/2026/09/ada12dda.jpg",
+      "size": 1000148,
+      "width": 787,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0ee3763753595017c43ca8069508879d975dd3fc67d1a7f03d544ee33d888a37",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:47:43.990Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "シルバニーウルフ。",
+      "tags": [
+        "崩壊:スターレイル",
+        "銀狼(スターレイル)",
+        "バニーガール",
+        "バニースーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149699272_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149699272",
+      "sourceCreatedAt": "2026-09-15T09:35:15.000Z"
+    },
+    {
       "id": "696fd45d",
       "filename": "pixiv_149707750_p0.jpg",
       "path": "uploads/2026/09/72795d46.jpg",
