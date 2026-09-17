@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "f279c302",
+      "filename": "pixiv_149697778_p0.jpg",
+      "path": "uploads/2026/09/eb46f54d.jpg",
+      "size": 446951,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3cb1d2d6534c1e46849cc0d04c386a0bfed30a567e2b4a7359f009b158941aba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:41:50.058Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "タマザラシと出会う話",
+      "tags": [
+        "ポケモン",
+        "タマザラシ",
+        "オリジナルトレーナー",
+        "ポケモンと生活",
+        "ハピナス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149697778_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149697778",
+      "sourceCreatedAt": "2026-09-15T08:53:39.000Z"
+    },
+    {
       "id": "6177d372",
       "filename": "pixiv_149736875_p0.jpg",
       "path": "uploads/2026/09/62fed6cf.jpg",
