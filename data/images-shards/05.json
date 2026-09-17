@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "daa050de",
+      "filename": "pixiv_149704015_p0.jpg",
+      "path": "uploads/2026/09/8edc6f11.jpg",
+      "size": 487702,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e44e16951f0b58980170ceebdf2fb044b9f3c5595033bb45c7cf5b47964583bc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:49:35.882Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "近況報告",
+      "tags": [
+        "ぱせり絵",
+        "実録",
+        "実録漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149704015_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149704015",
+      "sourceCreatedAt": "2026-09-15T11:35:43.000Z"
+    },
+    {
       "id": "4a58f390",
       "filename": "pixiv_149695051_p0.jpg",
       "path": "uploads/2026/09/0107ea9e.jpg",
