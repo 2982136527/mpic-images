@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "d041a274",
+      "filename": "pixiv_149713831_p0.jpg",
+      "path": "uploads/2026/09/efd28950.jpg",
+      "size": 1234805,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "60e4d9c4c1fd50eb4e793c18c362739ba7a98d8ac859f1f6782f348dbfd7023d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T13:27:00.921Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "rkgk",
+      "tags": [
+        "落書き",
+        "女の子",
+        "猫耳",
+        "白髪",
+        "VTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149713831_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149713831",
+      "sourceCreatedAt": "2026-09-15T15:03:58.000Z"
+    },
+    {
       "id": "e454cda2",
       "filename": "pixiv_149714255_p0.jpg",
       "path": "uploads/2026/09/5f82f1af.jpg",
