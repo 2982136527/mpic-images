@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "d6b7b782",
+      "filename": "pixiv_149739945_p0.jpg",
+      "path": "uploads/2026/09/6d631f99.jpg",
+      "size": 969971,
+      "width": 865,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c0edcb0e991aa5a97ba2f443018300a9c44a982d3d35f5eccfe3d8e0f7fb9bde",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:46:56.212Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「ねーねー」",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "VOCALOID1000users入り",
+        "サイハイソックス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149739945_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149739945",
+      "sourceCreatedAt": "2026-09-16T11:27:45.000Z"
+    },
+    {
       "id": "d1c36239",
       "filename": "pixiv_149731376_p0.jpg",
       "path": "uploads/2026/09/422eb587.jpg",
