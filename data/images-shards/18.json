@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "2dce0946",
+      "filename": "pixiv_149739658_p0.jpg",
+      "path": "uploads/2026/09/6427f4b7.jpg",
+      "size": 567728,
+      "width": 637,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cfc393f7cbc5fe9e6ad5461dcb8c8838b635214eaa4353733867d04f2d0f6de1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T13:31:12.262Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "調月リオ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149739658_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149739658",
+      "sourceCreatedAt": "2026-09-16T11:19:53.000Z"
+    },
+    {
       "id": "b63494fe",
       "filename": "pixiv_149679053_p0.jpg",
       "path": "uploads/2026/09/1a56a6bd.jpg",
