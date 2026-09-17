@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "acec46f8",
+      "filename": "pixiv_149714491_p0.jpg",
+      "path": "uploads/2026/09/67d81355.jpg",
+      "size": 872573,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "a293229b2ee7badef1aef47f992b68dd3fa645dfef79900eb7872b61325160c1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:45:27.661Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "蕾米埃尔",
+      "tags": [
+        "绝区零",
+        "zzzero",
+        "Remielle",
+        "レミエール・ダン",
+        "ZenlessZoneZero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149714491_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149714491",
+      "sourceCreatedAt": "2026-09-15T15:18:31.000Z"
+    },
+    {
       "id": "af9d9f71",
       "filename": "pixiv_149492143_p0.jpg",
       "path": "uploads/2026/09/88e3a626.jpg",
