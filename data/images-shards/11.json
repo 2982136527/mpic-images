@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "997315a1",
+      "filename": "pixiv_149732629_p0.jpg",
+      "path": "uploads/2026/09/01ded74b.jpg",
+      "size": 630368,
+      "width": 804,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "396e1846093e357d9767f5dad98d2ff70bc100b2fb89e1eb8ae94d397e6f09e4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:44:47.308Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "秋は黒パンプス",
+      "tags": [
+        "女の子",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149732629_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149732629",
+      "sourceCreatedAt": "2026-09-16T07:55:28.000Z"
+    },
+    {
       "id": "75e00b90",
       "filename": "pixiv_149718014_p0.jpg",
       "path": "uploads/2026/09/76eaef45.jpg",
