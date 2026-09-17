@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "e99ff5dc",
+      "filename": "pixiv_149720002_p0.jpg",
+      "path": "uploads/2026/09/7df5ed87.jpg",
+      "size": 1279846,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6e04ce88fd9363d1f714addacefc75cccad8a36ce92a48ad6028ad8a2a389ea3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T13:27:16.467Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ronova 1",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ロノヴァ",
+        "Ronova"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149720002_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149720002",
+      "sourceCreatedAt": "2026-09-15T19:23:50.000Z"
+    },
+    {
       "id": "a3108e3f",
       "filename": "pixiv_149738666_p0.jpg",
       "path": "uploads/2026/09/70b13b33.jpg",
