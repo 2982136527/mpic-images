@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "0aeafd6c",
+      "filename": "pixiv_149713370_p0.jpg",
+      "path": "uploads/2026/09/d5f77e2b.jpg",
+      "size": 559126,
+      "width": 823,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "acabced8936612d3e4a222038609f81d18cd5492cc518ef7d6066cc388c2f51c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:50:07.435Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "大空スバル",
+      "tags": [
+        "バーチャルYouTuber",
+        "VTuber",
+        "ホロライブ",
+        "大空スバル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149713370_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149713370",
+      "sourceCreatedAt": "2026-09-15T15:00:12.000Z"
+    },
+    {
       "id": "6d42254d",
       "filename": "pixiv_149733844_p0.jpg",
       "path": "uploads/2026/09/7ac85971.jpg",
