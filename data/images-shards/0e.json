@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "4e05951d",
+      "filename": "pixiv_149687302_p0.jpg",
+      "path": "uploads/2026/09/cca71d60.jpg",
+      "size": 285410,
+      "width": 589,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b7db24d3a28ef66972312eef4ee4a47230af22af280ef12efe16b7590e9cd8c9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T13:26:46.631Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "創作OL",
+      "tags": [
+        "OL",
+        "オリジナル",
+        "オフショルダー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149687302_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149687302",
+      "sourceCreatedAt": "2026-09-14T23:30:03.000Z"
+    },
+    {
       "id": "22336305",
       "filename": "pixiv_149694655_p0.jpg",
       "path": "uploads/2026/09/7f68d57d.jpg",
