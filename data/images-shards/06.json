@@ -3,6 +3,33 @@
   "shardId": "06",
   "images": [
     {
+      "id": "d9883818",
+      "filename": "pixiv_149736659_p0.jpg",
+      "path": "uploads/2026/09/6f1d5782.jpg",
+      "size": 922806,
+      "width": 891,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9c40e210a7a8c4e373f58e1c1980c6566b58c94dc0011baf616f09cb2c0aee32",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:43:30.606Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "冥王ペッパー",
+      "tags": [
+        "獣人",
+        "ネコ",
+        "猫",
+        "死神",
+        "冥王",
+        "鎌"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149736659_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149736659",
+      "sourceCreatedAt": "2026-09-16T10:02:13.000Z"
+    },
+    {
       "id": "b507c601",
       "filename": "pixiv_149671812_p0.jpg",
       "path": "uploads/2026/09/a8e622be.jpg",
