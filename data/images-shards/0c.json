@@ -3,6 +3,36 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "2cb445b9",
+      "filename": "pixiv_149713382_p0.jpg",
+      "path": "uploads/2026/09/66ed338c.jpg",
+      "size": 111419,
+      "width": 680,
+      "height": 430,
+      "mimeType": "image/jpeg",
+      "hash": "b0116c175cf3f089e52042e7937cf6699cadb757017e6fd624bb8a6ca706fc68",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:48:15.051Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "sundown",
+      "tags": [
+        "オリジナル",
+        "風景",
+        "幻想",
+        "女の子",
+        "星空",
+        "イラスト",
+        "天の川",
+        "流れ星",
+        "夕焼け"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149713382_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149713382",
+      "sourceCreatedAt": "2026-09-15T15:00:13.000Z"
+    },
+    {
       "id": "282cca08",
       "filename": "pixiv_149733421_p0.jpg",
       "path": "uploads/2026/09/fb05792a.jpg",
