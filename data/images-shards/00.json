@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "075214b2",
+      "filename": "pixiv_149733382_p0.jpg",
+      "path": "uploads/2026/09/f73b5f88.jpg",
+      "size": 603182,
+      "width": 707,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "fcd289d7c67594bdbda5a3249555242de4573bc610d7f5adf61bdad96ac8bd23",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T13:24:56.923Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Fleur",
+      "tags": [
+        "Marionette",
+        "puppet",
+        "人形娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149733382_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149733382",
+      "sourceCreatedAt": "2026-09-16T08:25:51.000Z"
+    },
+    {
       "id": "3c9ea6f4",
       "filename": "pixiv_149478316_p0.jpg",
       "path": "uploads/2026/09/7006f4bd.jpg",
