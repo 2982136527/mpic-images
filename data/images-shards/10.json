@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "6a4190e4",
+      "filename": "pixiv_149729575_p0.jpg",
+      "path": "uploads/2026/09/66c3d77a.jpg",
+      "size": 1338492,
+      "width": 1200,
+      "height": 745,
+      "mimeType": "image/jpeg",
+      "hash": "998c32ca08b3c3ab155225903b30985f4bd4870e59acb0c2d82a0a0c076d6503",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T13:26:54.363Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "日出",
+      "tags": [
+        "场景",
+        "女子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149729575_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149729575",
+      "sourceCreatedAt": "2026-09-16T05:19:03.000Z"
+    },
+    {
       "id": "3066ff01",
       "filename": "pixiv_148742083_p0.jpg",
       "path": "uploads/2026/09/9c549858.jpg",
