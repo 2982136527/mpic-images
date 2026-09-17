@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "3b22c87f",
+      "filename": "pixiv_149708828_p0.jpg",
+      "path": "uploads/2026/09/8954bf42.jpg",
+      "size": 672473,
+      "width": 1200,
+      "height": 884,
+      "mimeType": "image/jpeg",
+      "hash": "acaa808b1abbb62da75bc0b251eb7382dc3753b7522fc9f0fca1967a2189c8a8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:43:23.446Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "따스하지만은 않던 목소리",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "카르멘",
+        "Carmen"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149708828_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149708828",
+      "sourceCreatedAt": "2026-09-15T13:17:10.000Z"
+    },
+    {
       "id": "2a53df51",
       "filename": "pixiv_149728893_p0.jpg",
       "path": "uploads/2026/09/76d21e0d.jpg",
