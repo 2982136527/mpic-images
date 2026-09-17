@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "2b922565",
+      "filename": "pixiv_149736264_p0.jpg",
+      "path": "uploads/2026/09/7701978a.jpg",
+      "size": 517248,
+      "width": 827,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dca824c4c2cef5e82d2762a9bcf7b7fbb97d0b7b09ed7d6527543d91220330db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:43:42.741Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "メディスン",
+      "tags": [
+        "イラスト",
+        "東方",
+        "東方Project",
+        "メディスン・メランコリー",
+        "東方Project100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149736264_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149736264",
+      "sourceCreatedAt": "2026-09-16T09:55:39.000Z"
+    },
+    {
       "id": "c7f14d84",
       "filename": "pixiv_149732434_p0.jpg",
       "path": "uploads/2026/09/e024435e.jpg",
