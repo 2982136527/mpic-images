@@ -3,6 +3,28 @@
   "shardId": "01",
   "images": [
     {
+      "id": "fc2e2867",
+      "filename": "pixiv_149709284_p0.jpg",
+      "path": "uploads/2026/09/076f0d60.jpg",
+      "size": 849912,
+      "width": 1200,
+      "height": 553,
+      "mimeType": "image/jpeg",
+      "hash": "b9edc2ababa68741e821c1d2df615f70ac0a1d91720ed4a13d1e139b82db3990",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:43:57.016Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Despite everything,",
+      "tags": [
+        "Undertale"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149709284_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149709284",
+      "sourceCreatedAt": "2026-09-15T13:26:47.000Z"
+    },
+    {
       "id": "d0495b1e",
       "filename": "pixiv_149681516_p0.jpg",
       "path": "uploads/2026/09/90783c97.jpg",
