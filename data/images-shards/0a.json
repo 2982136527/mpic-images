@@ -3,6 +3,37 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "2474a232",
+      "filename": "pixiv_149736944_p0.jpg",
+      "path": "uploads/2026/09/51fa3e8b.jpg",
+      "size": 1141173,
+      "width": 1060,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "841394c5431fc649ae6690879e9927110e46ea2a13c949e804bdcaa6fe3fe4fc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:45:56.543Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "グレイトドラゴン（ドラクエ）",
+      "tags": [
+        "グレイトドラゴン",
+        "ドラクエ",
+        "DQ",
+        "モンスター",
+        "竜",
+        "ドラゴンクエストモンスターズ",
+        "ドラゴンクエスト",
+        "dq",
+        "ドラゴン",
+        "龍"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149736944_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149736944",
+      "sourceCreatedAt": "2026-09-16T10:11:18.000Z"
+    },
+    {
       "id": "b0d0c3f8",
       "filename": "pixiv_149652931_p0.jpg",
       "path": "uploads/2026/09/12095e97.jpg",
