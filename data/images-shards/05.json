@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "4a58f390",
+      "filename": "pixiv_149695051_p0.jpg",
+      "path": "uploads/2026/09/0107ea9e.jpg",
+      "size": 788874,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "726345ed09b230be19e5501c85c9dde097b5c1061a76d36f8e45f6d8728d0c9b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:47:15.937Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ハルカ",
+      "tags": [
+        "ハルカ(トレーナー)",
+        "ポケットモンスター",
+        "ポケモン",
+        "ポケモン人間絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149695051_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149695051",
+      "sourceCreatedAt": "2026-09-15T06:50:14.000Z"
+    },
+    {
       "id": "acec46f8",
       "filename": "pixiv_149714491_p0.jpg",
       "path": "uploads/2026/09/67d81355.jpg",
