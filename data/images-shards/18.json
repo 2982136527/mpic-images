@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "cce81bc9",
+      "filename": "pixiv_149705336_p0.jpg",
+      "path": "uploads/2026/09/1fdee55a.jpg",
+      "size": 507854,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bb6c00cec437d2a5cf2ce9d8e115a774a182933fe69d8f0d5711b66dbc3af3b7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T13:28:20.181Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "紲星あかり",
+        "VOICEROID",
+        "VOICEROID500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149705336_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149705336",
+      "sourceCreatedAt": "2026-09-15T12:03:10.000Z"
+    },
+    {
       "id": "30e242a9",
       "filename": "pixiv_149712579_p0.jpg",
       "path": "uploads/2026/09/ba4fe3a1.jpg",
