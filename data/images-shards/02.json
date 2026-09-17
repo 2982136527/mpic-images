@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "6d42254d",
+      "filename": "pixiv_149733844_p0.jpg",
+      "path": "uploads/2026/09/7ac85971.jpg",
+      "size": 989652,
+      "width": 1153,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "559802cdc1dfde8f3e899d1d2aa05e17e332a37f94038e145abe77d49ef51e75",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T19:46:38.137Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "frandre",
+      "tags": [
+        "東方Project",
+        "フランドール・スカーレット",
+        "触手",
+        "ハイソックス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149733844_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149733844",
+      "sourceCreatedAt": "2026-09-16T08:43:13.000Z"
+    },
+    {
       "id": "3e110348",
       "filename": "pixiv_149682288_p0.jpg",
       "path": "uploads/2026/09/33d31dcd.jpg",
