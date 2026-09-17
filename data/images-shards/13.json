@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "12cbc9aa",
+      "filename": "pixiv_149714505_p0.jpg",
+      "path": "uploads/2026/09/2ae5d861.jpg",
+      "size": 697008,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09eb0bacf350670caa5d9d702f3d458f574d46f955263290d47e7304a2545e7d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T13:31:34.781Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "最近見た可愛い服",
+      "tags": [
+        "アイドルマスターシンデレラガールズ",
+        "デレマス",
+        "三船美優"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149714505_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149714505",
+      "sourceCreatedAt": "2026-09-15T15:18:54.000Z"
+    },
+    {
       "id": "1e857bd8",
       "filename": "pixiv_149725294_p0.jpg",
       "path": "uploads/2026/09/17c1338d.jpg",
