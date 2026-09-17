@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "02294fcb",
+      "filename": "pixiv_149710701_p0.jpg",
+      "path": "uploads/2026/09/b9381220.jpg",
+      "size": 817965,
+      "width": 1200,
+      "height": 1055,
+      "mimeType": "image/jpeg",
+      "hash": "5c14321629f686dba6ad783a0a46e46949c5e31f97533f2c16d7b75fad696394",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:50:14.178Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "rubysama Request",
+      "tags": [
+        "獣耳",
+        "fox"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149710701_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149710701",
+      "sourceCreatedAt": "2026-09-15T13:59:22.000Z"
+    },
+    {
       "id": "b207f627",
       "filename": "pixiv_149700935_p0.jpg",
       "path": "uploads/2026/09/7b1a4f32.jpg",
