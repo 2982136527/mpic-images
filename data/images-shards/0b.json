@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "39f24e38",
+      "filename": "pixiv_149728169_p0.jpg",
+      "path": "uploads/2026/09/205d860c.jpg",
+      "size": 895405,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "641f305594a31145037d2a28d522d825eeebf7aaf627a4dd41dc9aa54a2ca1d4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:49:52.414Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ドラゴン化おねえさん",
+      "tags": [
+        "transfur",
+        "ケモノ",
+        "メスケモ",
+        "ドラゴン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149728169_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149728169",
+      "sourceCreatedAt": "2026-09-16T04:00:57.000Z"
+    },
+    {
       "id": "015f4bc7",
       "filename": "pixiv_149735277_p0.jpg",
       "path": "uploads/2026/09/973dd3dc.jpg",
