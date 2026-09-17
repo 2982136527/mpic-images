@@ -3,6 +3,33 @@
   "shardId": "04",
   "images": [
     {
+      "id": "15d314bc",
+      "filename": "pixiv_149736787_p0.jpg",
+      "path": "uploads/2026/09/5977d72a.jpg",
+      "size": 865267,
+      "width": 1067,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bbd1e61f64baf53d91598bed88d4bb595948412ebdaa8474824bb7af005ba22c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-17T04:43:51.904Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "勇者ラテ",
+      "tags": [
+        "ラグドール",
+        "猫",
+        "ネコ",
+        "勇者",
+        "騎士",
+        "双剣"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149736787_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149736787",
+      "sourceCreatedAt": "2026-09-16T10:05:42.000Z"
+    },
+    {
       "id": "2df9fac2",
       "filename": "pixiv_149711242_p0.jpg",
       "path": "uploads/2026/09/b9b6b544.jpg",
