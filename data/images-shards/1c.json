@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "a3b53c08",
+      "filename": "pixiv_149765766_p0.jpg",
+      "path": "uploads/2026/09/d93370a6.jpg",
+      "size": 788155,
+      "width": 644,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "73b01e8110186e40e444c2ead5e409e0ac8576068b0806ba57dba262ff753a30",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T13:01:00.244Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "リンドヴェルヌ",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "リンドヴェルヌ・サンブリンガー",
+        "空域巡警局"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149765766_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149765766",
+      "sourceCreatedAt": "2026-09-17T05:48:19.000Z"
+    },
+    {
       "id": "37a286cb",
       "filename": "pixiv_149714582_p0.jpg",
       "path": "uploads/2026/09/b0713261.jpg",
