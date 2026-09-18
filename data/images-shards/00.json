@@ -3,6 +3,37 @@
   "shardId": "00",
   "images": [
     {
+      "id": "4127fdd0",
+      "filename": "pixiv_149744303_p0.jpg",
+      "path": "uploads/2026/09/40fde0fb.jpg",
+      "size": 960461,
+      "width": 1200,
+      "height": 576,
+      "mimeType": "image/jpeg",
+      "hash": "a1b79b518e2ff90d5dac7b529a48edbf111e9baa5a6fe2b94ba9cc2f886ed707",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T12:56:53.224Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Carlotta",
+      "tags": [
+        "鳴潮",
+        "鸣潮",
+        "WutheringWaves",
+        "カルロッタ(鳴潮)",
+        "見つめ合う",
+        "鳴潮1000users入り",
+        "漂泊者",
+        "男漂泊者",
+        "カルロッタ・モンテリ",
+        "女の顔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149744303_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149744303",
+      "sourceCreatedAt": "2026-09-16T13:03:14.000Z"
+    },
+    {
       "id": "22e6be0e",
       "filename": "pixiv_149749291_p0.jpg",
       "path": "uploads/2026/09/b6c89727.jpg",
