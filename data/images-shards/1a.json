@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "9546889e",
+      "filename": "pixiv_149739446_p0.jpg",
+      "path": "uploads/2026/09/f5e5bb13.jpg",
+      "size": 1392698,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e381904eb0cbbdff7162d5bb4a68d7f188c75a3bae18ee1cf1c60120147a63df",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T13:00:43.274Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Springfield",
+      "tags": [
+        "スプリングフィールド(ドールズフロントライン)",
+        "ドールズフロントライン",
+        "少女前線",
+        "ドルフロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149739446_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149739446",
+      "sourceCreatedAt": "2026-09-16T11:14:26.000Z"
+    },
+    {
       "id": "455224c4",
       "filename": "pixiv_149732713_p0.jpg",
       "path": "uploads/2026/09/21552b1f.jpg",
