@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "e8659412",
+      "filename": "pixiv_149749430_p0.jpg",
+      "path": "uploads/2026/09/4559ee57.jpg",
+      "size": 991014,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "3ab0edbf4ab9b795db420a62c4cbea31c1898e6c36dbff72b20f775ef496ab05",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:36:32.198Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "emhr",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "二階堂ヒロ",
+        "桜羽エマ",
+        "エマヒロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149749430_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149749430",
+      "sourceCreatedAt": "2026-09-16T15:00:32.000Z"
+    },
+    {
       "id": "d81ed737",
       "filename": "pixiv_149739165_p0.jpg",
       "path": "uploads/2026/09/294b55e6.jpg",
