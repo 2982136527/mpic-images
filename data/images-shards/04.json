@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "4368634d",
+      "filename": "pixiv_149749382_p0.jpg",
+      "path": "uploads/2026/09/58ea3c42.jpg",
+      "size": 804382,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "deb80f80e7a6316db41ea32cde189b24f2183e69943457df021ab80dc58b240e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T19:00:04.667Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ジト目",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "ジト目",
+        "ジャージ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149749382_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149749382",
+      "sourceCreatedAt": "2026-09-16T15:00:23.000Z"
+    },
+    {
       "id": "1f9b69e2",
       "filename": "pixiv_149773906_p0.jpg",
       "path": "uploads/2026/09/14c3ffc9.jpg",
