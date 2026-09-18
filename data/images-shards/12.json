@@ -3,6 +3,28 @@
   "shardId": "12",
   "images": [
     {
+      "id": "531d002a",
+      "filename": "pixiv_149751373_p0.jpg",
+      "path": "uploads/2026/09/aaa8b9e5.jpg",
+      "size": 820418,
+      "width": 1200,
+      "height": 1179,
+      "mimeType": "image/jpeg",
+      "hash": "8364eb8c3433384c232baac8adb8c673e6cc0e31767db6a52329730ade86cf3c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:39:26.359Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "五悠雑多Xまとめ",
+      "tags": [
+        "五悠"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149751373_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149751373",
+      "sourceCreatedAt": "2026-09-16T15:40:58.000Z"
+    },
+    {
       "id": "9fb27313",
       "filename": "pixiv_149587362_p0.jpg",
       "path": "uploads/2026/09/e578ee7c.jpg",
