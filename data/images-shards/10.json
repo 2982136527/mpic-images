@@ -3,6 +3,34 @@
   "shardId": "10",
   "images": [
     {
+      "id": "5ae93204",
+      "filename": "pixiv_149730256_p0.jpg",
+      "path": "uploads/2026/09/d9d60b14.jpg",
+      "size": 501746,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "54c4efd0376d43aae7fa64214e3f50fc4020eaf84288cb7e891ec4e13f6eb745",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:32:20.511Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Phoenix",
+      "tags": [
+        "ZenlessZoneZero",
+        "ゼンゼロ",
+        "Phoenix",
+        "菲欧妮",
+        "フィオニー・レファエラ",
+        "绝区零",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149730256_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149730256",
+      "sourceCreatedAt": "2026-09-16T05:58:37.000Z"
+    },
+    {
       "id": "41effe2a",
       "filename": "pixiv_149724050_p0.jpg",
       "path": "uploads/2026/09/1ef34767.jpg",
