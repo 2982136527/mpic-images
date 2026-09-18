@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "d81ed737",
+      "filename": "pixiv_149739165_p0.jpg",
+      "path": "uploads/2026/09/294b55e6.jpg",
+      "size": 1292988,
+      "width": 768,
+      "height": 1024,
+      "mimeType": "image/jpeg",
+      "hash": "3463d11c7817bbef12f389bb75a0bdbf5ad1fdea11d839dc945e665e0240e2c9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:35:43.174Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ホシノ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "小鳥遊ホシノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149739165_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149739165",
+      "sourceCreatedAt": "2026-09-16T11:06:27.000Z"
+    },
+    {
       "id": "ed8d36d0",
       "filename": "pixiv_149743691_p0.jpg",
       "path": "uploads/2026/09/f9d1aace.jpg",
