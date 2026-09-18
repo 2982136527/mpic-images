@@ -3,6 +3,35 @@
   "shardId": "01",
   "images": [
     {
+      "id": "11cedaa7",
+      "filename": "pixiv_149713422_p0.jpg",
+      "path": "uploads/2026/09/123e0f57.jpg",
+      "size": 1130958,
+      "width": 691,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7010e5e41ea61af105467cd501b075e0c1a79ff555d2c7b93a91f7bfc8147a20",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:31:11.118Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ワルウララだよっ…！",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ハルウララ(ウマ娘)",
+        "キングヘイロー(ウマ娘)",
+        "セイウンスカイ(ウマ娘)",
+        "スペシャルウィーク(ウマ娘)",
+        "ママヘイロー",
+        "ワルウララ",
+        "キングママ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149713422_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149713422",
+      "sourceCreatedAt": "2026-09-15T15:00:21.000Z"
+    },
+    {
       "id": "e88a3612",
       "filename": "pixiv_149698242_p0.jpg",
       "path": "uploads/2026/09/016e14a5.jpg",
