@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "4970d52d",
+      "filename": "pixiv_149755638_p0.jpg",
+      "path": "uploads/2026/09/98e977bb.jpg",
+      "size": 1340721,
+      "width": 840,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "029727e082aa1583cacbb3c2a6f978b9201b705b00eb78523cdb158fec307c85",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:35:49.144Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Snezhnaya 7.0: Wanderer edition",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "Wanderer",
+        "Scaramouche",
+        "放浪者"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149755638_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149755638",
+      "sourceCreatedAt": "2026-09-16T19:07:21.000Z"
+    },
+    {
       "id": "d2d45261",
       "filename": "pixiv_149719589_p0.jpg",
       "path": "uploads/2026/09/0994e7e5.jpg",
