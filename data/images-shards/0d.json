@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "ac953f53",
+      "filename": "pixiv_149758023_p0.jpg",
+      "path": "uploads/2026/09/4bfd2cc9.jpg",
+      "size": 606595,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8e57927dbf89266bc6542efd0f9c38211130a1e150cec1f6c9b3d56b64561f08",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T13:02:35.867Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Succubus Sinder.",
+      "tags": [
+        "sinder",
+        "vtuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149758023_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149758023",
+      "sourceCreatedAt": "2026-09-16T22:02:33.000Z"
+    },
+    {
       "id": "bbc69474",
       "filename": "pixiv_149745500_p0.jpg",
       "path": "uploads/2026/09/f6425bf7.jpg",
