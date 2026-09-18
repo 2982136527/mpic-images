@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "5c28b01e",
+      "filename": "pixiv_149723625_p0.jpg",
+      "path": "uploads/2026/09/85465ff9.jpg",
+      "size": 286379,
+      "width": 500,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "a0ed2c0aac3a3052dc19852ba09290740ad47a4c40f941b6184db68a6926399a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:34:09.563Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "兎田ぺこら",
+      "tags": [
+        "兎田ぺこら",
+        "ホロライブ",
+        "獣耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149723625_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149723625",
+      "sourceCreatedAt": "2026-09-15T23:25:10.000Z"
+    },
+    {
       "id": "cffc121f",
       "filename": "pixiv_149750043_p0.jpg",
       "path": "uploads/2026/09/8fe7ebf3.jpg",
