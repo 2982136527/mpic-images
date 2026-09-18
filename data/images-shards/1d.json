@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "09cbb035",
+      "filename": "pixiv_149771961_p0.jpg",
+      "path": "uploads/2026/09/b5488944.jpg",
+      "size": 688236,
+      "width": 1200,
+      "height": 1004,
+      "mimeType": "image/jpeg",
+      "hash": "7b362d8a5ac305ab7d50033de29b6e77a757eff0036baca8e7445793726c40bb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:33:20.268Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "こういう関係性が好き",
+      "tags": [
+        "めめ村"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149771961_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149771961",
+      "sourceCreatedAt": "2026-09-17T10:01:00.000Z"
+    },
+    {
       "id": "3dbe55f9",
       "filename": "pixiv_149742932_p0.jpg",
       "path": "uploads/2026/09/92891f8f.jpg",
