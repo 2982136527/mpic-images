@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "776311ee",
+      "filename": "pixiv_149736096_p0.jpg",
+      "path": "uploads/2026/09/7ebae365.jpg",
+      "size": 633387,
+      "width": 860,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e0a3508f0f63d345a6d0d9521057dd87c1cf3bf97d6f5f6f4a1a008c1140fa67",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T12:57:40.787Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カロガド",
+      "tags": [
+        "カロガド",
+        "UTAU"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149736096_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149736096",
+      "sourceCreatedAt": "2026-09-16T09:50:27.000Z"
+    },
+    {
       "id": "4a268d01",
       "filename": "pixiv_149735245_p0.jpg",
       "path": "uploads/2026/09/72d03a89.jpg",
