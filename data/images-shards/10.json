@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "41effe2a",
+      "filename": "pixiv_149724050_p0.jpg",
+      "path": "uploads/2026/09/1ef34767.jpg",
+      "size": 268026,
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/jpeg",
+      "hash": "d50fa3c73d4ccce342a4138732c1b36f59b6e73565a9e2dcc6338c3ff4370ff2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:32:00.609Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "夏色まつり",
+      "tags": [
+        "夏色まつり",
+        "ホロライブ",
+        "画像揚げ",
+        "バーチャルYouTuber1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149724050_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149724050",
+      "sourceCreatedAt": "2026-09-15T23:53:02.000Z"
+    },
+    {
       "id": "dc9b79bc",
       "filename": "pixiv_149738293_p0.jpg",
       "path": "uploads/2026/09/ba28b1c8.jpg",
