@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "9c3cfb3b",
+      "filename": "pixiv_149739722_p0.jpg",
+      "path": "uploads/2026/09/58288105.jpg",
+      "size": 688019,
+      "width": 1068,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "30e14de390cc6cc0af07e73eaa720e9790b9be688359d2e6e3da09ef68cd908b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T13:01:07.871Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "君の全部を知りたい",
+      "tags": [
+        "創作",
+        "一次創作",
+        "ヤンデレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149739722_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149739722",
+      "sourceCreatedAt": "2026-09-16T11:21:25.000Z"
+    },
+    {
       "id": "16e082ef",
       "filename": "pixiv_149759443_p0.jpg",
       "path": "uploads/2026/09/c87e835b.jpg",
