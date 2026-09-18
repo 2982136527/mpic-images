@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "ff36a4c0",
+      "filename": "pixiv_149752567_p0.jpg",
+      "path": "uploads/2026/09/4b6a0a4f.jpg",
+      "size": 389911,
+      "width": 650,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "5fbb509070691779f0efbdb94f4e01cfb297d6876140e0d5e39f50ffe98b56a8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:33:32.760Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "手塚らくがき",
+      "tags": [
+        "手塚治虫",
+        "アセチレン・ランプ",
+        "丸首ブーン",
+        "夢絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149752567_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149752567",
+      "sourceCreatedAt": "2026-09-16T16:18:34.000Z"
+    },
+    {
       "id": "d66f3e13",
       "filename": "pixiv_149777017_p0.jpg",
       "path": "uploads/2026/09/1d2f0dc5.jpg",
