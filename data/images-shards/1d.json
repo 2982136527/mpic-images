@@ -3,6 +3,34 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "bf3ac945",
+      "filename": "pixiv_149729647_p0.jpg",
+      "path": "uploads/2026/09/bb1e6f09.jpg",
+      "size": 764741,
+      "width": 972,
+      "height": 1060,
+      "mimeType": "image/jpeg",
+      "hash": "a102aa6a1ee6c839b6020311121eea451e775002f64d824d24ca6ac6cf55891e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:32:46.023Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Marvel Bunny Girls",
+      "tags": [
+        "rogue",
+        "xmen",
+        "jeangrey",
+        "spiderman",
+        "blackcat",
+        "Marvel",
+        "PetraParker"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149729647_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149729647",
+      "sourceCreatedAt": "2026-09-16T05:23:11.000Z"
+    },
+    {
       "id": "98e293a1",
       "filename": "pixiv_149750932_p0.jpg",
       "path": "uploads/2026/09/d69cd62b.jpg",
