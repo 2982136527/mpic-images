@@ -3,6 +3,28 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "a9782855",
+      "filename": "pixiv_149730487_p0.jpg",
+      "path": "uploads/2026/09/ec76b2e0.jpg",
+      "size": 129221,
+      "width": 640,
+      "height": 360,
+      "mimeType": "image/jpeg",
+      "hash": "1b61233630df8ce3976a029930cfb875f1b9a8ff55c7627ca2a86dc4d0367b2a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:30:24.729Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "いろいろ202608",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149730487_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149730487",
+      "sourceCreatedAt": "2026-09-16T06:09:53.000Z"
+    },
+    {
       "id": "58567e0b",
       "filename": "pixiv_149730856_p0.jpg",
       "path": "uploads/2026/09/143d8a61.jpg",
