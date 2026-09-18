@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "8374bed5",
+      "filename": "pixiv_149716294_p0.jpg",
+      "path": "uploads/2026/09/54132d1c.jpg",
+      "size": 2380594,
+      "width": 833,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "839757f85f9a39ca2dcc72592638dc3222693af899653aa067163525ff36a704",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T12:55:43.550Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "レイン",
+      "tags": [
+        "レイン",
+        "岩倉玲音",
+        "serialexperimentslain"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149716294_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149716294",
+      "sourceCreatedAt": "2026-09-15T16:05:38.000Z"
+    },
+    {
       "id": "7209798f",
       "filename": "pixiv_149733709_p0.jpg",
       "path": "uploads/2026/09/2ed5ce54.jpg",
