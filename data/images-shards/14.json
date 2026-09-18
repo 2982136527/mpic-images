@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "9b562252",
+      "filename": "pixiv_149768758_p0.jpg",
+      "path": "uploads/2026/09/25488b2a.jpg",
+      "size": 1631246,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "97226f7d97ffed645f0912d9fd3bb871f978a9d392e3f0a04692e938a1ad2028",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T19:01:22.898Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "たいやき霊夢さん",
+      "tags": [
+        "東方",
+        "東方Project",
+        "博麗霊夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149768758_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149768758",
+      "sourceCreatedAt": "2026-09-17T08:14:59.000Z"
+    },
+    {
       "id": "9dbe517d",
       "filename": "pixiv_149744854_p0.jpg",
       "path": "uploads/2026/09/110e88a5.jpg",
