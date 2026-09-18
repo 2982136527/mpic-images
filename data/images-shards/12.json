@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "8422c74a",
+      "filename": "pixiv_149767667_p0.jpg",
+      "path": "uploads/2026/09/be3a29c2.jpg",
+      "size": 828430,
+      "width": 809,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a783524b8b8bcba86ffbe3c04627b558ccef019da2730a30fe8eea7f7dbabd63",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:36:56.638Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ぷんすかロッシ",
+      "tags": [
+        "アークナイツ:エンドフィールド",
+        "ロッシ(エンドフィールド)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149767667_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149767667",
+      "sourceCreatedAt": "2026-09-17T07:25:22.000Z"
+    },
+    {
       "id": "45dab1a3",
       "filename": "pixiv_149773144_p0.jpg",
       "path": "uploads/2026/09/f714dd2c.jpg",
