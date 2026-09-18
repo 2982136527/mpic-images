@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "3dbe55f9",
+      "filename": "pixiv_149742932_p0.jpg",
+      "path": "uploads/2026/09/92891f8f.jpg",
+      "size": 522167,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "23072d09ad69ac83c0f3977b8e5bf65767335350de9e8ed9e982ac6c63b82eb0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:32:56.803Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "よく描くOC3選",
+      "tags": [
+        "OC",
+        "オリジナル",
+        "一次創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149742932_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149742932",
+      "sourceCreatedAt": "2026-09-16T12:34:41.000Z"
+    },
+    {
       "id": "bf3ac945",
       "filename": "pixiv_149729647_p0.jpg",
       "path": "uploads/2026/09/bb1e6f09.jpg",
