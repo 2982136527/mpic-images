@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "980a4c1b",
+      "filename": "pixiv_149749319_p0.jpg",
+      "path": "uploads/2026/09/1f3d4a64.jpg",
+      "size": 940725,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1e29e794d27635fc65e176fbfcde8e306bde840ca9cfaa995070532f999eeab2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:31:54.807Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "草原の描き方",
+      "tags": [
+        "オリジナル",
+        "描き方",
+        "講座",
+        "風景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149749319_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149749319",
+      "sourceCreatedAt": "2026-09-16T15:00:13.000Z"
+    },
+    {
       "id": "72da92ef",
       "filename": "pixiv_149706124_p0.jpg",
       "path": "uploads/2026/09/d8afa12b.jpg",
