@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "a0efa2be",
+      "filename": "pixiv_149728392_p0.jpg",
+      "path": "uploads/2026/09/7e604502.jpg",
+      "size": 667331,
+      "width": 973,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4ebc668ee54f5b5b6f16911f4357874fb159154b91fd822cb8226fd1c71d6d69",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:36:12.583Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Corey (Hotline Miami 2) comm",
+      "tags": [
+        "ホットラインマイアミ",
+        "HotlineMiami2",
+        "hotlinemiami",
+        "corey",
+        "Hotline_Miami"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149728392_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149728392",
+      "sourceCreatedAt": "2026-09-16T04:14:51.000Z"
+    },
+    {
       "id": "f21688c2",
       "filename": "pixiv_149773493_p0.jpg",
       "path": "uploads/2026/09/42d8a8d0.jpg",
