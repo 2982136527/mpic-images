@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "7bfadee9",
+      "filename": "pixiv_149766422_p0.jpg",
+      "path": "uploads/2026/09/30d7cc81.jpg",
+      "size": 1573961,
+      "width": 989,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9081c80cdfa8050f3e144f66ac09de8112999c7fc6f5547883be640b7fd1e9af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T18:59:46.776Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "葛飾北斎×初音ミク",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "女の子",
+        "HatsuneMiku",
+        "Miku",
+        "ボカロ",
+        "イラスト",
+        "少女",
+        "ボーカロイド",
+        "ツインテール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149766422_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149766422",
+      "sourceCreatedAt": "2026-09-17T06:21:05.000Z"
+    },
+    {
       "id": "5c28b01e",
       "filename": "pixiv_149723625_p0.jpg",
       "path": "uploads/2026/09/85465ff9.jpg",
