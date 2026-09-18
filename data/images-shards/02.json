@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "7b6c022c",
+      "filename": "pixiv_149746537_p0.jpg",
+      "path": "uploads/2026/09/e104a09c.jpg",
+      "size": 582231,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e5f475b975cc14f07996b554892106551c87d6c3d8f08a617ceb740677d3e10a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:35:36.755Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "咲夜さん没イラストまとめ",
+      "tags": [
+        "東方Project",
+        "東方",
+        "十六夜咲夜",
+        "咲夜",
+        "没イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149746537_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149746537",
+      "sourceCreatedAt": "2026-09-16T13:57:12.000Z"
+    },
+    {
       "id": "5e02a6bb",
       "filename": "pixiv_149750826_p0.jpg",
       "path": "uploads/2026/09/d88cbcff.jpg",
