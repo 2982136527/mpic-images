@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "e0d26611",
+      "filename": "pixiv_149586990_p0.jpg",
+      "path": "uploads/2026/09/4ba32c1d.jpg",
+      "size": 1772281,
+      "width": 1200,
+      "height": 998,
+      "mimeType": "image/jpeg",
+      "hash": "d0cbf71f8ff14c34183ade954694acf1263b9c03d895ca15254c4de3d20af7c9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T19:05:10.758Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "プロジェクトセカイ",
+        "プロセカ",
+        "天馬司",
+        "ブリキノダンス(TheMusicStyle)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149586990_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149586990",
+      "sourceCreatedAt": "2026-09-12T12:21:39.000Z"
+    },
+    {
       "id": "2039f633",
       "filename": "pixiv_149774050_p0.jpg",
       "path": "uploads/2026/09/6a533950.jpg",
