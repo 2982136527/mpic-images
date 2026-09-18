@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "ff3f7a1b",
+      "filename": "pixiv_149719424_p0.jpg",
+      "path": "uploads/2026/09/bd607dfd.jpg",
+      "size": 558152,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "63c9819ed82de48d2461023257430b07b57ed5355b08a4318178caaa3c8ac197",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:31:05.318Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "WAIFURTUNES VER 1.14",
+      "tags": [
+        "diives",
+        "xingzuotemple",
+        "wuhuaguo",
+        "videogame",
+        "waifurtunes"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149719424_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149719424",
+      "sourceCreatedAt": "2026-09-15T18:39:00.000Z"
+    },
+    {
       "id": "825e2f30",
       "filename": "pixiv_149699272_p0.jpg",
       "path": "uploads/2026/09/ada12dda.jpg",
