@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "630ad5b2",
+      "filename": "pixiv_149741193_p0.jpg",
+      "path": "uploads/2026/09/86fa923c.jpg",
+      "size": 728708,
+      "width": 735,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ee21471d31245a1d95367a875cec194aabb12126c5b1648d516fbe40ab891512",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T13:01:33.859Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "フリードリヒ・カール",
+      "tags": [
+        "アズールレーン",
+        "アズレン",
+        "AzurLane",
+        "フリードリヒ・カール(アズールレーン)",
+        "ミッドナイト・チャンネル",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149741193_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149741193",
+      "sourceCreatedAt": "2026-09-16T12:00:08.000Z"
+    },
+    {
       "id": "77d92ec4",
       "filename": "pixiv_149737363_p0.jpg",
       "path": "uploads/2026/09/27b1ea6d.jpg",
