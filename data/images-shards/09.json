@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "a888c376",
+      "filename": "pixiv_149727993_p0.jpg",
+      "path": "uploads/2026/09/40b58e75.jpg",
+      "size": 799059,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9eff53abb22b588e0ac7b56c4ee6246c1bf6794a32c9f574b4528578bb57c0b4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:35:24.876Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "『リバースブルーxリバースエンド』",
+      "tags": [
+        "リバースブルーxリバースエンド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149727993_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149727993",
+      "sourceCreatedAt": "2026-09-16T03:52:22.000Z"
+    },
+    {
       "id": "c3a1bb87",
       "filename": "pixiv_149749032_p0.jpg",
       "path": "uploads/2026/09/407c6b5b.jpg",
