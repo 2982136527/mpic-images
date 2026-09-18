@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "3d2ccce7",
+      "filename": "pixiv_149746237_p0.jpg",
+      "path": "uploads/2026/09/8895f9d1.jpg",
+      "size": 1640793,
+      "width": 1200,
+      "height": 995,
+      "mimeType": "image/jpeg",
+      "hash": "809697ae548adc8531c080796413214802bce710c87a1ce2ee9ec25476019537",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:32:28.028Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "OSAKAアート＆てづくりバザールVOL.52",
+      "tags": [
+        "オリジナル",
+        "建物"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149746237_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149746237",
+      "sourceCreatedAt": "2026-09-16T13:49:30.000Z"
+    },
+    {
       "id": "5ae93204",
       "filename": "pixiv_149730256_p0.jpg",
       "path": "uploads/2026/09/d9d60b14.jpg",
