@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "cffc121f",
+      "filename": "pixiv_149750043_p0.jpg",
+      "path": "uploads/2026/09/8fe7ebf3.jpg",
+      "size": 770191,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "835b1f559abb350152cf751b86e1cbd8ac7650da33b21dc1be61858fd6964051",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:33:57.374Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ユニコーン",
+      "tags": [
+        "女の子",
+        "アズールレーン",
+        "碧蓝航线",
+        "ユニコーン(アズールレーン)",
+        "独角兽",
+        "アズールレーン500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149750043_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149750043",
+      "sourceCreatedAt": "2026-09-16T15:08:02.000Z"
+    },
+    {
       "id": "3d2ccce7",
       "filename": "pixiv_149746237_p0.jpg",
       "path": "uploads/2026/09/8895f9d1.jpg",
