@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "f2265925",
+      "filename": "pixiv_149770609_p0.jpg",
+      "path": "uploads/2026/09/afbe7f2d.jpg",
+      "size": 647049,
+      "width": 618,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ef5cc8a5a010747bfd77a3442a970ea1d8683424fff4129531b3bc7e501a4865",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T04:39:09.268Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "角楯カリン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149770609_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149770609",
+      "sourceCreatedAt": "2026-09-17T09:21:43.000Z"
+    },
+    {
       "id": "d9108ff6",
       "filename": "pixiv_149770655_p0.jpg",
       "path": "uploads/2026/09/675293c9.jpg",
