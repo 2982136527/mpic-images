@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "65ede9c9",
+      "filename": "pixiv_149775584_p0.jpg",
+      "path": "uploads/2026/09/cb066f8f.jpg",
+      "size": 1222481,
+      "width": 684,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "91888fc9ceeacf606b4a3361b40eced576dce14a66f7800ff8e9faec2af1eb66",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-18T12:58:20.810Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "寸前",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "イラスト",
+        "異形",
+        "特殊部隊"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149775584_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149775584",
+      "sourceCreatedAt": "2026-09-17T11:37:41.000Z"
+    },
+    {
       "id": "e3bc8a02",
       "filename": "pixiv_149772352_p0.jpg",
       "path": "uploads/2026/09/05370ea1.jpg",
