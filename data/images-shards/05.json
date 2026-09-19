@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "819a6c5f",
+      "filename": "pixiv_149785997_p0.jpg",
+      "path": "uploads/2026/09/d90afb79.jpg",
+      "size": 648628,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d5c9846250c53b587cf79304d3c2948a91508d4f23409d01a56f4527d014a852",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:31:23.398Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "원레그",
+      "tags": [
+        "Limbus_Company",
+        "LimbusCompany",
+        "원레그",
+        "ブーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149785997_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149785997",
+      "sourceCreatedAt": "2026-09-17T15:32:24.000Z"
+    },
+    {
       "id": "4e7ee6c8",
       "filename": "pixiv_149785422_p0.jpg",
       "path": "uploads/2026/09/43d67269.jpg",
