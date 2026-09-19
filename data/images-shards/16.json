@@ -3,6 +3,37 @@
   "shardId": "16",
   "images": [
     {
+      "id": "b8d5f877",
+      "filename": "pixiv_149777266_p0.jpg",
+      "path": "uploads/2026/09/ea93c092.jpg",
+      "size": 1077580,
+      "width": 1200,
+      "height": 1182,
+      "mimeType": "image/jpeg",
+      "hash": "a449162753fcd6a9c1b63e5c85051e15e9844d74d093dd4540695453abdce189",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T18:37:07.646Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ひとくちアズレン",
+      "tags": [
+        "アズールレーン",
+        "碧蓝航线",
+        "ローン(アズールレーン)",
+        "能代(アズールレーン)",
+        "エルベ(アズールレーン)",
+        "シラ(アズールレーン)",
+        "ロイヤル・フォーチュン(アズールレーン)",
+        "デヴォンシャー(アズールレーン)",
+        "伊404(アズールレーン)",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149777266_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149777266",
+      "sourceCreatedAt": "2026-09-17T12:15:42.000Z"
+    },
+    {
       "id": "9eeab3ff",
       "filename": "pixiv_149794917_p0.jpg",
       "path": "uploads/2026/09/f6a74132.jpg",
