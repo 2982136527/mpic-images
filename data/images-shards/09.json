@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "60b20436",
+      "filename": "pixiv_149811412_p0.jpg",
+      "path": "uploads/2026/09/520bccef.jpg",
+      "size": 885241,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "babee71f7e43edb93a78a14ac6fa1bbf8c8f38f08832ef004a57a4ac8cec0372",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:30:55.767Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Ibuki 👀",
+      "tags": [
+        "丹花イブキ",
+        "ブルーアーカイブ",
+        "ブルアカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149811412_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149811412",
+      "sourceCreatedAt": "2026-09-18T11:39:41.000Z"
+    },
+    {
       "id": "6a03a009",
       "filename": "pixiv_149750465_p0.jpg",
       "path": "uploads/2026/09/632532c3.jpg",
