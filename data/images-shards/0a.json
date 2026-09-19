@@ -3,6 +3,28 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "0fd060ce",
+      "filename": "pixiv_149778193_p0.jpg",
+      "path": "uploads/2026/09/d7721ff5.jpg",
+      "size": 744895,
+      "width": 1200,
+      "height": 1051,
+      "mimeType": "image/jpeg",
+      "hash": "97334842874e402884b0b4989467d461fd551f297aa8baf7e152547388c062ca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T12:35:41.821Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "グリムアロエちゃ…!!",
+      "tags": [
+        "グリム・アロエ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149778193_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149778193",
+      "sourceCreatedAt": "2026-09-17T12:36:11.000Z"
+    },
+    {
       "id": "462d7cca",
       "filename": "pixiv_149791911_p0.jpg",
       "path": "uploads/2026/09/2112e6f5.jpg",
