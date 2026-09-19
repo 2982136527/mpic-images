@@ -3,6 +3,35 @@
   "shardId": "17",
   "images": [
     {
+      "id": "d8f49f09",
+      "filename": "pixiv_149774406_p0.jpg",
+      "path": "uploads/2026/09/c7fa11f8.jpg",
+      "size": 1047708,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c844c325c98ca4ecaca208edbec5dd50fe2f3ccdab3c467774124f880803c3b5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T12:32:28.805Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "うさぎのアクリル画",
+      "tags": [
+        "オリジナル",
+        "うさぎ",
+        "ペット",
+        "アクリル画",
+        "アナログ",
+        "アクリル",
+        "ネザーランドドワーフ",
+        "思い出の中"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149774406_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149774406",
+      "sourceCreatedAt": "2026-09-17T11:07:26.000Z"
+    },
+    {
       "id": "cc52f613",
       "filename": "pixiv_149751692_p0.jpg",
       "path": "uploads/2026/09/3fc59031.jpg",
