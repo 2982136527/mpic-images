@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "cc52f613",
+      "filename": "pixiv_149751692_p0.jpg",
+      "path": "uploads/2026/09/3fc59031.jpg",
+      "size": 685902,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d3376859e734629cffa92aa24ffd51ec4a9b451cb5cdf9ba379e447663b5174f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T12:31:28.110Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "kuroko",
+      "tags": [
+        "ブルアカ",
+        "BlueArchive",
+        "ブルーアーカイブ",
+        "シロコ*テラー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149751692_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149751692",
+      "sourceCreatedAt": "2026-09-16T15:51:05.000Z"
+    },
+    {
       "id": "037bff12",
       "filename": "pixiv_149776567_p0.jpg",
       "path": "uploads/2026/09/951df510.jpg",
