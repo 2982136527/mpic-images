@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "8af06940",
+      "filename": "pixiv_149759303_p0.jpg",
+      "path": "uploads/2026/09/1cf4dc8b.jpg",
+      "size": 586883,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f513640c8921dc1f9e10539f956e819adb9975c5cccde987555ff5b0e3daf4d1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T18:40:27.435Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ほの暮ついろぐ",
+      "tags": [
+        "キスアメ",
+        "ほの暮らしの庭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149759303_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149759303",
+      "sourceCreatedAt": "2026-09-16T23:38:55.000Z"
+    },
+    {
       "id": "635ce462",
       "filename": "pixiv_149750427_p0.jpg",
       "path": "uploads/2026/09/803cc843.jpg",
