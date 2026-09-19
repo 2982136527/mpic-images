@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "f5a20fa0",
+      "filename": "pixiv_149798660_p0.jpg",
+      "path": "uploads/2026/09/683127d8.jpg",
+      "size": 1569602,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "76bac4f2eac36176d8cf181f28460ba8cb8c25a2191b77eea713af677f60aebe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T12:30:50.379Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "宵花火",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "浴衣",
+        "花火"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149798660_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149798660",
+      "sourceCreatedAt": "2026-09-18T03:46:34.000Z"
+    },
+    {
       "id": "1cb499fe",
       "filename": "pixiv_149635154_p0.jpg",
       "path": "uploads/2026/09/794c1492.jpg",
