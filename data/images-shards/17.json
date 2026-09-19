@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "3e8f2c24",
+      "filename": "pixiv_149782258_p0.jpg",
+      "path": "uploads/2026/09/50f3410f.jpg",
+      "size": 756307,
+      "width": 768,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c2931bde8359a8f263748be1da043570ab672c49d657df31020d5d40ff650bcc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:30:42.642Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🫐",
+      "tags": [
+        "Persona3",
+        "ペルソナ3",
+        "結城理",
+        "ペルソナ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149782258_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149782258",
+      "sourceCreatedAt": "2026-09-17T14:10:49.000Z"
+    },
+    {
       "id": "e1aa7d30",
       "filename": "pixiv_149751043_p0.jpg",
       "path": "uploads/2026/09/f236ea0a.jpg",
