@@ -3,6 +3,33 @@
   "shardId": "12",
   "images": [
     {
+      "id": "6948373f",
+      "filename": "pixiv_149757772_p0.jpg",
+      "path": "uploads/2026/09/7cbf00e7.jpg",
+      "size": 905398,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "3962f5203fb98a88b06c10781b9f1fffd699d080d969644591852a801b340d85",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:34:02.434Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Friends",
+      "tags": [
+        "アナログ",
+        "Traditional",
+        "マーベル",
+        "Marvel_Rivals",
+        "ゴア・ザ・ブッチャー",
+        "マンティス(MARVEL)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149757772_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149757772",
+      "sourceCreatedAt": "2026-09-16T21:53:01.000Z"
+    },
+    {
       "id": "34f9ef32",
       "filename": "pixiv_149784504_p0.jpg",
       "path": "uploads/2026/09/2b46a5b5.jpg",
