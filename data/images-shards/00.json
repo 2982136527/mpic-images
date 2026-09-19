@@ -3,6 +3,28 @@
   "shardId": "00",
   "images": [
     {
+      "id": "aec43d88",
+      "filename": "pixiv_149770370_p0.jpg",
+      "path": "uploads/2026/09/e7fe545f.jpg",
+      "size": 703631,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bacb13a56c5c9b993abf72933467a2d4afb839a127405101a86ce9ac35acd7fb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T12:27:10.876Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🧋🧋",
+      "tags": [
+        "崩坏星穹铁道"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149770370_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149770370",
+      "sourceCreatedAt": "2026-09-17T09:13:15.000Z"
+    },
+    {
       "id": "927ac376",
       "filename": "pixiv_149744301_p0.jpg",
       "path": "uploads/2026/09/08fb7158.jpg",
