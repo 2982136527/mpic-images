@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "8680fc60",
+      "filename": "pixiv_149777392_p0.jpg",
+      "path": "uploads/2026/09/2bae653b.jpg",
+      "size": 803622,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e418508ac79ff3bd8fdd45aba3ed605978bdfc45dc4e302fb886a57549bcdd09",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:31:48.762Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "원레그에 대한 고찰",
+      "tags": [
+        "Limbus_Company",
+        "LimbusCompany",
+        "원레그"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149777392_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149777392",
+      "sourceCreatedAt": "2026-09-17T12:18:40.000Z"
+    },
+    {
       "id": "46a2406f",
       "filename": "pixiv_149810081_p0.jpg",
       "path": "uploads/2026/09/3570c6b7.jpg",
