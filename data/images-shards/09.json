@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "17a55fd5",
+      "filename": "pixiv_149784381_p0.jpg",
+      "path": "uploads/2026/09/e1f4d0ad.jpg",
+      "size": 666236,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "091d36e4d7081f7a8f80c354f8809ed3b277bddb8d05b248975527e1bd58427e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T18:34:48.028Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "簡単な草原の描き方",
+      "tags": [
+        "オリジナル",
+        "風景",
+        "背景",
+        "草"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149784381_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149784381",
+      "sourceCreatedAt": "2026-09-17T15:00:20.000Z"
+    },
+    {
       "id": "a9f4df64",
       "filename": "pixiv_149798514_p0.jpg",
       "path": "uploads/2026/09/4e2067b5.jpg",
