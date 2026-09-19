@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "6af8daa4",
+      "filename": "pixiv_149786830_p0.jpg",
+      "path": "uploads/2026/09/cb3a57ab.jpg",
+      "size": 962250,
+      "width": 1200,
+      "height": 918,
+      "mimeType": "image/jpeg",
+      "hash": "ba896a66625970f73ce8c76952e69a1ff56fc3b33c82f53ef35cf73609a7413a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:36:23.017Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "!!!!ABOUT GAME!!!",
+      "tags": [
+        "notice"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149786830_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149786830",
+      "sourceCreatedAt": "2026-09-17T15:59:48.000Z"
+    },
+    {
       "id": "546e43cb",
       "filename": "pixiv_149766447_p0.jpg",
       "path": "uploads/2026/09/700cbf10.jpg",
