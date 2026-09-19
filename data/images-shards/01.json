@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "1ab7521d",
+      "filename": "pixiv_149784369_p0.jpg",
+      "path": "uploads/2026/09/e0aad251.jpg",
+      "size": 845946,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "44e290ca09c24ba4b45388723b885911ff51093cee109df0cdb18bf304177612",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T12:30:57.115Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Fern",
+      "tags": [
+        "葬送のフリーレン",
+        "フェルン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149784369_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149784369",
+      "sourceCreatedAt": "2026-09-17T15:00:18.000Z"
+    },
+    {
       "id": "50e00082",
       "filename": "pixiv_149804861_p0.jpg",
       "path": "uploads/2026/09/e3ee4662.jpg",
