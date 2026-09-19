@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "15891b24",
+      "filename": "pixiv_149810945_p0.jpg",
+      "path": "uploads/2026/09/5fd61018.jpg",
+      "size": 1476151,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ac1d185b07c4e31833e9dbaa24f8ce5ef5778425e5f036eca587e9703bab939d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:36:10.249Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "スタゼノLOG2",
+      "tags": [
+        "スタゼノ",
+        "dcst腐向け100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149810945_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149810945",
+      "sourceCreatedAt": "2026-09-18T11:30:06.000Z"
+    },
+    {
       "id": "833e8b03",
       "filename": "pixiv_149750769_p0.jpg",
       "path": "uploads/2026/09/d94cd5fc.jpg",
