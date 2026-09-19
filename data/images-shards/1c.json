@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "2f10878a",
+      "filename": "pixiv_149801342_p0.jpg",
+      "path": "uploads/2026/09/bbc0ca44.jpg",
+      "size": 714726,
+      "width": 1200,
+      "height": 1024,
+      "mimeType": "image/jpeg",
+      "hash": "591ac05a9ab5224c9a5f56c2698e6a4c11a1b632d6c132957be88856a99f2269",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T18:36:42.466Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "大妖精",
+        "東方",
+        "東方Project",
+        "東方紅魔郷NewClassic"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149801342_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149801342",
+      "sourceCreatedAt": "2026-09-18T06:24:35.000Z"
+    },
+    {
       "id": "19b029bf",
       "filename": "pixiv_149772662_p0.jpg",
       "path": "uploads/2026/09/f7ad7e22.jpg",
