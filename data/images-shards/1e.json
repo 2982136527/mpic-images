@@ -3,6 +3,36 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "1cb499fe",
+      "filename": "pixiv_149635154_p0.jpg",
+      "path": "uploads/2026/09/794c1492.jpg",
+      "size": 708440,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "032d043378340549f90e014978ae56bd7c2c8899e56005af5191f0cc41b6a3c3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:34:28.717Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "昼と夜",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "コロンビーナ(原神)",
+        "Columbina",
+        "サンドローネ(原神)",
+        "Sandrone",
+        "コロサン",
+        "Sandbina",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149635154_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149635154",
+      "sourceCreatedAt": "2026-09-13T13:25:07.000Z"
+    },
+    {
       "id": "b26ecc56",
       "filename": "pixiv_149763958_p0.jpg",
       "path": "uploads/2026/09/6886a2e0.jpg",
