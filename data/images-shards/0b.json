@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "7971dba9",
+      "filename": "pixiv_149807043_p0.jpg",
+      "path": "uploads/2026/09/e613abfb.jpg",
+      "size": 1729937,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "924a3dffc3b61b69bcaa182adcb52f4892a4cbaa2acf4cd8c815492f73b160e6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:29:31.320Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🎵",
+      "tags": [
+        "崩壊:スターレイル",
+        "ロビン(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149807043_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149807043",
+      "sourceCreatedAt": "2026-09-18T10:00:05.000Z"
+    },
+    {
       "id": "b8b181af",
       "filename": "pixiv_148686440_p0.jpg",
       "path": "uploads/2026/09/70bd053c.jpg",
