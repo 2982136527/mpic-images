@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "e1aa7d30",
+      "filename": "pixiv_149751043_p0.jpg",
+      "path": "uploads/2026/09/f236ea0a.jpg",
+      "size": 1505610,
+      "width": 676,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a010c0b08ac5ff0bff1d726ac4bef760b6f483ce217b4a461c800be920585724",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:29:21.840Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "耶耶比比",
+      "tags": [
+        "超时空要塞"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149751043_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149751043",
+      "sourceCreatedAt": "2026-09-16T15:31:18.000Z"
+    },
+    {
       "id": "319f1010",
       "filename": "pixiv_149733751_p0.jpg",
       "path": "uploads/2026/09/ee7005f7.jpg",
