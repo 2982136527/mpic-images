@@ -3,6 +3,35 @@
   "shardId": "01",
   "images": [
     {
+      "id": "dbb1ff37",
+      "filename": "pixiv_149775450_p0.jpg",
+      "path": "uploads/2026/09/679752e6.jpg",
+      "size": 1196980,
+      "width": 721,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "61d69152094a9e172650de66c9930e913f0eff75947f167aff7d013cc9147eb2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:27:13.278Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "White Mist",
+      "tags": [
+        "插画",
+        "女の子",
+        "原创",
+        "女",
+        "OC",
+        "創作",
+        "オリジナル",
+        "commission"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149775450_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149775450",
+      "sourceCreatedAt": "2026-09-17T11:34:09.000Z"
+    },
+    {
       "id": "6b35cdf9",
       "filename": "pixiv_149751864_p0.jpg",
       "path": "uploads/2026/09/45129802.jpg",
