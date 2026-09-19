@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "bd003d3c",
+      "filename": "pixiv_149767264_p0.jpg",
+      "path": "uploads/2026/09/7be6a869.jpg",
+      "size": 774192,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "309d3876a1e934560d30edc9c0a421d3b7af6cf6fb5dcfc2518c2edef60169bb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:32:38.173Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "迷ったな",
+      "tags": [
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149767264_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149767264",
+      "sourceCreatedAt": "2026-09-17T07:04:57.000Z"
+    },
+    {
       "id": "49e2f985",
       "filename": "pixiv_149794547_p0.jpg",
       "path": "uploads/2026/09/1a73d4f6.jpg",
