@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "635ce462",
+      "filename": "pixiv_149750427_p0.jpg",
+      "path": "uploads/2026/09/803cc843.jpg",
+      "size": 1229125,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bb22ed1ca16c16b512e044b8bea14d006658a9f7aae6565fb3fb869b9c01e6bd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T18:34:57.675Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "アルカナ",
+      "tags": [
+        "NIKKE",
+        "勝利の女神:NIKKE",
+        "アルカナ",
+        "バニーガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149750427_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149750427",
+      "sourceCreatedAt": "2026-09-16T15:16:50.000Z"
+    },
+    {
       "id": "67cb63d7",
       "filename": "pixiv_149800999_p0.jpg",
       "path": "uploads/2026/09/dc7f4b3f.jpg",
