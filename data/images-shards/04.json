@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "cb3f3e3f",
+      "filename": "pixiv_149796880_p0.jpg",
+      "path": "uploads/2026/09/3baf2b5c.jpg",
+      "size": 1062301,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "407edd06d02dcf970e1e12c28836ed0f2802a282cbac36155c5c51562e87a3b8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T12:35:24.931Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "さねぎゆオメガバ本サンプル",
+      "tags": [
+        "さねぎゆ",
+        "風が織りなす水模様"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149796880_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149796880",
+      "sourceCreatedAt": "2026-09-18T02:18:32.000Z"
+    },
+    {
       "id": "e5f74861",
       "filename": "pixiv_149757437_p0.jpg",
       "path": "uploads/2026/09/7779257d.jpg",
