@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "9701e607",
+      "filename": "pixiv_149763273_p0.jpg",
+      "path": "uploads/2026/09/8dacebc0.jpg",
+      "size": 509097,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "72bce756645ddb9228d4c67977d4ebeab46a4de051c30358c8c02048d8fbac69",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:31:55.543Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "おめかし",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "千鳥ミチル",
+        "千鳥ミチル(ドレス)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149763273_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149763273",
+      "sourceCreatedAt": "2026-09-17T03:27:22.000Z"
+    },
+    {
       "id": "41bd8d82",
       "filename": "pixiv_149590433_p0.jpg",
       "path": "uploads/2026/09/17de2697.jpg",
