@@ -3,6 +3,35 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "546e43cb",
+      "filename": "pixiv_149766447_p0.jpg",
+      "path": "uploads/2026/09/700cbf10.jpg",
+      "size": 129214,
+      "width": 566,
+      "height": 708,
+      "mimeType": "image/jpeg",
+      "hash": "a89eb55928b3fdfb7afe84476d9b8068274d3a28410a55f3a49683d883999dca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:30:36.841Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "リキヤと鉄の漫画",
+      "tags": [
+        "漫画",
+        "一次創作",
+        "オリジナル漫画",
+        "BL漫画",
+        "新刊",
+        "商業BL",
+        "創作BL",
+        "創作漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149766447_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149766447",
+      "sourceCreatedAt": "2026-09-17T06:22:17.000Z"
+    },
+    {
       "id": "e0d26611",
       "filename": "pixiv_149586990_p0.jpg",
       "path": "uploads/2026/09/4ba32c1d.jpg",
