@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "499c32f1",
+      "filename": "pixiv_149792507_p0.jpg",
+      "path": "uploads/2026/09/ac94a816.jpg",
+      "size": 1154097,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "70f84e925690bfab639cb8f618c0b4a79cec88043c23c98ac479ecc6bf37d3c3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T12:31:52.891Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "commission",
+      "tags": [
+        "女の子",
+        "ゴシック",
+        "チョーカー",
+        "彼シャツ",
+        "首輪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149792507_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149792507",
+      "sourceCreatedAt": "2026-09-17T21:40:37.000Z"
+    },
+    {
       "id": "aa4075e3",
       "filename": "pixiv_149792307_p0.jpg",
       "path": "uploads/2026/09/3c893807.jpg",
