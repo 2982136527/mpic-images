@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "a9f4df64",
+      "filename": "pixiv_149798514_p0.jpg",
+      "path": "uploads/2026/09/4e2067b5.jpg",
+      "size": 808071,
+      "width": 739,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14fd9f7b54c7e89c9bdf6d07f00db578e9a4f6f3753410d6d3da8aadcd2ea973",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T18:33:44.668Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "女の子",
+        "明日方舟",
+        "凯尔希"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149798514_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149798514",
+      "sourceCreatedAt": "2026-09-18T03:39:16.000Z"
+    },
+    {
       "id": "da231019",
       "filename": "pixiv_149753586_p0.jpg",
       "path": "uploads/2026/09/d2cd3eaf.jpg",
