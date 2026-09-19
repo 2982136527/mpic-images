@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "17b37b50",
+      "filename": "pixiv_148714586_p0.jpg",
+      "path": "uploads/2026/09/f7f22253.jpg",
+      "size": 1633871,
+      "width": 819,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "87221ee48e6db3e8c946fe8949c74cba5d1852b5cd636e6ab83a9e995464ff4d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T18:40:02.559Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "蝕",
+      "tags": [
+        "オリジナル",
+        "ReSURGUM"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148714586_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148714586",
+      "sourceCreatedAt": "2026-08-21T15:00:32.000Z"
+    },
+    {
       "id": "b3061e6f",
       "filename": "pixiv_149749304_p0.jpg",
       "path": "uploads/2026/09/44ac8833.jpg",
