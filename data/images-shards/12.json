@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "34f9ef32",
+      "filename": "pixiv_149784504_p0.jpg",
+      "path": "uploads/2026/09/2b46a5b5.jpg",
+      "size": 1107028,
+      "width": 926,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "46b0352d6bc1a024592ea8e7da024591e81ad37d39530345af1d823e32f8c77e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:33:10.136Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "NivelArena",
+      "tags": [
+        "NivelArena",
+        "StellarBlade"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149784504_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149784504",
+      "sourceCreatedAt": "2026-09-17T15:00:50.000Z"
+    },
+    {
       "id": "85a1e95a",
       "filename": "pixiv_149784336_p0.jpg",
       "path": "uploads/2026/09/383825bd.jpg",
