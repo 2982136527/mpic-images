@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "cf4fe050",
+      "filename": "pixiv_149753882_p0.jpg",
+      "path": "uploads/2026/09/b3d1a670.jpg",
+      "size": 542554,
+      "width": 1200,
+      "height": 590,
+      "mimeType": "image/jpeg",
+      "hash": "03ceaec674950c232462dc132b51a037d486ca5cbae56028c472b6d79bd76518",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T18:34:13.517Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "림버스 여러가지",
+      "tags": [
+        "Limbus_Company",
+        "Limbuscompany"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149753882_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149753882",
+      "sourceCreatedAt": "2026-09-16T17:09:28.000Z"
+    },
+    {
       "id": "96b55a3a",
       "filename": "pixiv_149768424_p0.jpg",
       "path": "uploads/2026/09/2ef68b61.jpg",
