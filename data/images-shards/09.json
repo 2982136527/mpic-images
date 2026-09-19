@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "8fbff474",
+      "filename": "pixiv_149803186_p0.jpg",
+      "path": "uploads/2026/09/f7d75a58.jpg",
+      "size": 291823,
+      "width": 500,
+      "height": 400,
+      "mimeType": "image/jpeg",
+      "hash": "4823465d326beef507552b90b5442b26b9444579de9d751fbaab86f9beb80cc1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T12:28:54.695Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【再公開】ナージャまんが傑作選",
+      "tags": [
+        "漫画",
+        "お絵描き掲示板",
+        "まとめ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149803186_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149803186",
+      "sourceCreatedAt": "2026-09-18T07:59:39.000Z"
+    },
+    {
       "id": "674dfb5c",
       "filename": "pixiv_149776188_p0.jpg",
       "path": "uploads/2026/09/71f3b710.jpg",
