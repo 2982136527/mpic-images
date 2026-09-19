@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "aa4075e3",
+      "filename": "pixiv_149792307_p0.jpg",
+      "path": "uploads/2026/09/3c893807.jpg",
+      "size": 504442,
+      "width": 1200,
+      "height": 1199,
+      "mimeType": "image/jpeg",
+      "hash": "c7ec8eccdb45f6bb53e5aadc9e3179be0d50d874defbc6780649e67a32e87c31",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:36:56.354Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "グローグーLOG",
+      "tags": [
+        "マンダロリアン・アンド・グローグー",
+        "グローグー",
+        "マンダロリアン",
+        "ルーク・スカイウォーカー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149792307_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149792307",
+      "sourceCreatedAt": "2026-09-17T21:28:50.000Z"
+    },
+    {
       "id": "1ae25d01",
       "filename": "pixiv_149773944_p0.jpg",
       "path": "uploads/2026/09/c41131c6.jpg",
