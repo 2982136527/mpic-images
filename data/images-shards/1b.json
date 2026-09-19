@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "024b1711",
+      "filename": "pixiv_149799901_p0.jpg",
+      "path": "uploads/2026/09/d1d64388.jpg",
+      "size": 949697,
+      "width": 1200,
+      "height": 734,
+      "mimeType": "image/jpeg",
+      "hash": "5690b8fbdad15195b71056c9184ddf0a4d7dfa9203d57427bad01e809e958367",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T12:27:53.342Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": ":D",
+      "tags": [
+        "少女",
+        "原神",
+        "百合",
+        "裸足",
+        "ヴォジャニーツァ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149799901_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149799901",
+      "sourceCreatedAt": "2026-09-18T04:57:53.000Z"
+    },
+    {
       "id": "ef86bbde",
       "filename": "pixiv_149767795_p0.jpg",
       "path": "uploads/2026/09/a5ff2657.jpg",
