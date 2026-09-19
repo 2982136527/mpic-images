@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "4913373d",
+      "filename": "pixiv_149806829_p0.jpg",
+      "path": "uploads/2026/09/3f8ba116.jpg",
+      "size": 563763,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dc87d1b8e228fb00cdf715a7f873b1a5c2fe857c8230edb5c6e95b71aa7eb82d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T12:33:04.626Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "イーシェン師匠！",
+      "tags": [
+        "ゼンゼロ",
+        "イーシェン",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149806829_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149806829",
+      "sourceCreatedAt": "2026-09-18T09:53:29.000Z"
+    },
+    {
       "id": "4f37ea07",
       "filename": "pixiv_149769176_p0.jpg",
       "path": "uploads/2026/09/bcb7bb51.jpg",
