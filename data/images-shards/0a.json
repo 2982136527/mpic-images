@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "462d7cca",
+      "filename": "pixiv_149791911_p0.jpg",
+      "path": "uploads/2026/09/2112e6f5.jpg",
+      "size": 959194,
+      "width": 939,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dc62e62d8577471ce3fb1aabdabc6fd9c47494bddf36d4510bde2a96880db6cf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T12:32:22.367Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カルテジア",
+      "tags": [
+        "女の子",
+        "少女",
+        "鳴潮",
+        "カルテジア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149791911_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149791911",
+      "sourceCreatedAt": "2026-09-17T21:01:03.000Z"
+    },
+    {
       "id": "3c2d6637",
       "filename": "pixiv_149798626_p0.jpg",
       "path": "uploads/2026/09/f5749e54.jpg",
