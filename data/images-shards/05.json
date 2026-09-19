@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "79e2a5b2",
+      "filename": "pixiv_149803896_p0.jpg",
+      "path": "uploads/2026/09/78da2b90.jpg",
+      "size": 1053803,
+      "width": 768,
+      "height": 1024,
+      "mimeType": "image/jpeg",
+      "hash": "5e8b9c4d583c14b21dc8c438f6dcf2ce53c0f47977ed7b754009f38f2ddbb936",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T18:36:14.755Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カゴメカゴメ",
+      "tags": [
+        "フランドール・スカーレット",
+        "フラン",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149803896_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149803896",
+      "sourceCreatedAt": "2026-09-18T08:24:36.000Z"
+    },
+    {
       "id": "9f192f30",
       "filename": "pixiv_149797906_p0.jpg",
       "path": "uploads/2026/09/6603007e.jpg",
