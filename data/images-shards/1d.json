@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "b5b307ab",
+      "filename": "pixiv_149788105_p0.jpg",
+      "path": "uploads/2026/09/43003bda.jpg",
+      "size": 1127544,
+      "width": 1200,
+      "height": 1040,
+      "mimeType": "image/jpeg",
+      "hash": "0b9c459d9048b7e514719957d80803a01b483ab077559e7c819a5f5a47d283a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T04:28:54.064Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "팔레트",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "팔레트",
+        "裸足"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149788105_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149788105",
+      "sourceCreatedAt": "2026-09-17T16:43:38.000Z"
+    },
+    {
       "id": "65ede9c9",
       "filename": "pixiv_149775584_p0.jpg",
       "path": "uploads/2026/09/cb066f8f.jpg",
