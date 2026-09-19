@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "42764ec8",
+      "filename": "pixiv_149799580_p0.jpg",
+      "path": "uploads/2026/09/188d5def.jpg",
+      "size": 1204196,
+      "width": 855,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "49a9bc0ad3ecca306cb789c9d5141ad1c9226482c6fa661fb5833865d1cf1dbd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T18:38:05.274Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "お寿司屋さんでの燕さん",
+      "tags": [
+        "雨夜燕",
+        "学マス",
+        "寿司"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149799580_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149799580",
+      "sourceCreatedAt": "2026-09-18T04:38:33.000Z"
+    },
+    {
       "id": "d8f49f09",
       "filename": "pixiv_149774406_p0.jpg",
       "path": "uploads/2026/09/c7fa11f8.jpg",
