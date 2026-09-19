@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "7159b3dc",
+      "filename": "pixiv_149779716_p0.jpg",
+      "path": "uploads/2026/09/eeebd6eb.jpg",
+      "size": 1043390,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "74ebd0da38383dc393797fe5c946e76030c713228d4262913e29cd763a77df4b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-19T18:37:02.032Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "おやつスケッチ",
+      "tags": [
+        "スイーツ",
+        "おやつ",
+        "ショートケーキ",
+        "苺"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149779716_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149779716",
+      "sourceCreatedAt": "2026-09-17T13:08:41.000Z"
+    },
+    {
       "id": "b3c1e53a",
       "filename": "pixiv_149757071_p0.jpg",
       "path": "uploads/2026/09/9ec4a4ba.jpg",
