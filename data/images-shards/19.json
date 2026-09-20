@@ -3,6 +3,28 @@
   "shardId": "19",
   "images": [
     {
+      "id": "545c7b74",
+      "filename": "pixiv_149820553_p0.jpg",
+      "path": "uploads/2026/09/7a3f4b8a.jpg",
+      "size": 2460196,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f46e79975c615c3607e5226f1e5710939f72e14168fb5622775950940e6a3766",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:48:25.541Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "REVEL4TION",
+      "tags": [
+        "n4gi_chan"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149820553_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149820553",
+      "sourceCreatedAt": "2026-09-18T15:00:16.000Z"
+    },
+    {
       "id": "74d1af68",
       "filename": "pixiv_149808325_p0.jpg",
       "path": "uploads/2026/09/f30b3559.jpg",
