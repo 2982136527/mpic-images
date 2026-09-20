@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "776aa2e3",
+      "filename": "pixiv_149641575_p0.jpg",
+      "path": "uploads/2026/09/62780585.jpg",
+      "size": 1126787,
+      "width": 763,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d1f5e799e63fe557e7c9662229b804dce159498eb5da9f13e374fa555601f1e5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:08:12.096Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "こいし",
+      "tags": [
+        "東方Project",
+        "東方",
+        "古明地こいし",
+        "東方Project500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149641575_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149641575",
+      "sourceCreatedAt": "2026-09-13T15:28:18.000Z"
+    },
+    {
       "id": "2be5da6b",
       "filename": "pixiv_149806570_p0.jpg",
       "path": "uploads/2026/09/f11f17a7.jpg",
