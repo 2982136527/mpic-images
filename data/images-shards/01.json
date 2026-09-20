@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "07049dfc",
+      "filename": "pixiv_149792845_p0.jpg",
+      "path": "uploads/2026/09/42235e8b.jpg",
+      "size": 709387,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "2869c6d57f95b1ce91aa2f5641fbaf4b533acd106688ad37092f631acbc3a057",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T18:42:46.931Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "今日の商人",
+      "tags": [
+        "オリジナル",
+        "今日の商人",
+        "ダークファンタジー",
+        "人外娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149792845_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149792845",
+      "sourceCreatedAt": "2026-09-17T22:00:08.000Z"
+    },
+    {
       "id": "057fb229",
       "filename": "pixiv_149849147_p0.jpg",
       "path": "uploads/2026/09/8d668f22.jpg",
