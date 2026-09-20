@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "6746230f",
+      "filename": "pixiv_149811723_p0.jpg",
+      "path": "uploads/2026/09/f8f57809.jpg",
+      "size": 847571,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c0d55c03ae450d965dc018c530312b451151622d45fcdee11b2f94773fbbc26a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:51:12.971Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "JapaneseGoblin",
+        "YMN姉貴"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149811723_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149811723",
+      "sourceCreatedAt": "2026-09-18T11:47:33.000Z"
+    },
+    {
       "id": "e840312e",
       "filename": "pixiv_149857429_p0.jpg",
       "path": "uploads/2026/09/7affc6db.jpg",
