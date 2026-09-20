@@ -3,6 +3,32 @@
   "shardId": "08",
   "images": [
     {
+      "id": "d5a69507",
+      "filename": "pixiv_149812718_p0.jpg",
+      "path": "uploads/2026/09/6925fe69.jpg",
+      "size": 687474,
+      "width": 959,
+      "height": 1090,
+      "mimeType": "image/jpeg",
+      "hash": "72da2a876d43578d5fc9fe9fd4dee2f102f2a27f66c5b5ba7c62fbd179a1d40f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:04:10.845Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "星アハ",
+      "tags": [
+        "アッハ",
+        "星",
+        "崩壊スターレイル",
+        "星虚",
+        "虚照"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149812718_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149812718",
+      "sourceCreatedAt": "2026-09-18T12:04:13.000Z"
+    },
+    {
       "id": "610bbbbd",
       "filename": "pixiv_149806606_p0.jpg",
       "path": "uploads/2026/09/3b119256.jpg",
