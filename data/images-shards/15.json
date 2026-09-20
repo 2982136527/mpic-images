@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "ebe757fc",
+      "filename": "pixiv_149820502_p0.jpg",
+      "path": "uploads/2026/09/3f4847d9.jpg",
+      "size": 1293991,
+      "width": 750,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "944210033ff86c33300fd87dcb8b8a6e3d45abc1dd11f2359837e290db293b03",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T18:46:14.312Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カエラが作ったホロシールド",
+      "tags": [
+        "ホロライブ",
+        "カエラ・コヴァルスキア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149820502_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149820502",
+      "sourceCreatedAt": "2026-09-18T15:00:09.000Z"
+    },
+    {
       "id": "776aa2e3",
       "filename": "pixiv_149641575_p0.jpg",
       "path": "uploads/2026/09/62780585.jpg",
