@@ -3,6 +3,32 @@
   "shardId": "09",
   "images": [
     {
+      "id": "38205824",
+      "filename": "pixiv_149809160_p0.jpg",
+      "path": "uploads/2026/09/7249f8ad.jpg",
+      "size": 245454,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "e72cb80cab7993cdfa140b6377fc43f3ecc2ebe983755764e7c9ad7ca639cf76",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:06:21.591Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "헿",
+      "tags": [
+        "블루아카이브",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "天童アリス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149809160_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149809160",
+      "sourceCreatedAt": "2026-09-18T10:52:15.000Z"
+    },
+    {
       "id": "f59f72c8",
       "filename": "pixiv_149849745_p0.jpg",
       "path": "uploads/2026/09/cccc03d3.jpg",
