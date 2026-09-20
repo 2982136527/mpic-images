@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "b2a1d806",
+      "filename": "pixiv_149800184_p0.jpg",
+      "path": "uploads/2026/09/71890089.jpg",
+      "size": 608042,
+      "width": 1171,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "247921925baf65c0f592c33b01e528dad74ecf9186ee9be1a53938b6c5916321",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:47:27.731Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "mayoi slime",
+      "tags": [
+        "ロリ",
+        "monogatari",
+        "物語シリーズ",
+        "八九寺真宵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149800184_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149800184",
+      "sourceCreatedAt": "2026-09-18T05:13:26.000Z"
+    },
+    {
       "id": "2c0cd74b",
       "filename": "pixiv_149853428_p0.jpg",
       "path": "uploads/2026/09/351408dc.jpg",
