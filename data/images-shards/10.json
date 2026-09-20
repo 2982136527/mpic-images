@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "a4c5506f",
+      "filename": "pixiv_149847487_p0.jpg",
+      "path": "uploads/2026/09/579c1a5e.jpg",
+      "size": 871707,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "34813edb18b77707622970a87b9b091e35b7f24c6e655d585e03953a289fdd2d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:05:49.573Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "イラスト",
+        "マゼラン(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149847487_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149847487",
+      "sourceCreatedAt": "2026-09-19T09:37:48.000Z"
+    },
+    {
       "id": "6746230f",
       "filename": "pixiv_149811723_p0.jpg",
       "path": "uploads/2026/09/f8f57809.jpg",
