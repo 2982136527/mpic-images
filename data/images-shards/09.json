@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "6acebe5f",
+      "filename": "pixiv_149784425_p0.jpg",
+      "path": "uploads/2026/09/e75df420.jpg",
+      "size": 1872774,
+      "width": 1200,
+      "height": 899,
+      "mimeType": "image/jpeg",
+      "hash": "617c0051d6f7be6ac3824793aeaa41966727af7cdf36b5cc509169f2eaad362e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:45:27.397Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "エイメス",
+      "tags": [
+        "鳴潮",
+        "エイメス",
+        "鳴潮5000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149784425_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149784425",
+      "sourceCreatedAt": "2026-09-17T15:00:28.000Z"
+    },
+    {
       "id": "17a55fd5",
       "filename": "pixiv_149784381_p0.jpg",
       "path": "uploads/2026/09/e1f4d0ad.jpg",
