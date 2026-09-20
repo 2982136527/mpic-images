@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "a3af6cc4",
+      "filename": "pixiv_149820595_p0.jpg",
+      "path": "uploads/2026/09/c10b9f6e.jpg",
+      "size": 797080,
+      "width": 744,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ebf48762c886eccc08e7805f85f175580033afb8594625bd955ce1d396cab290",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:49:57.187Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🟨",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "トランプ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149820595_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149820595",
+      "sourceCreatedAt": "2026-09-18T15:00:22.000Z"
+    },
+    {
       "id": "87e3b99a",
       "filename": "pixiv_149800762_p0.jpg",
       "path": "uploads/2026/09/e7d923ea.jpg",
