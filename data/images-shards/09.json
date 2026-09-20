@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "d266f5ab",
+      "filename": "pixiv_149841612_p0.jpg",
+      "path": "uploads/2026/09/c38b8895.jpg",
+      "size": 718385,
+      "width": 709,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "357649f68529b469f4409dc3363a34350dccf27bc9ec147ece96bb7f0aefd97c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:09:50.034Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "春原シュン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149841612_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149841612",
+      "sourceCreatedAt": "2026-09-19T06:28:20.000Z"
+    },
+    {
       "id": "72ddb9fc",
       "filename": "pixiv_149814564_p0.jpg",
       "path": "uploads/2026/09/9e8a798d.jpg",
