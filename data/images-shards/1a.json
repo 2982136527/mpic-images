@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "f23384ae",
+      "filename": "pixiv_149818957_p0.jpg",
+      "path": "uploads/2026/09/8cfcd90a.jpg",
+      "size": 479992,
+      "width": 1200,
+      "height": 731,
+      "mimeType": "image/jpeg",
+      "hash": "d9077920888f4e772355fb3453d3638b7ee060845ab57e22f0209e083bdb92be",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:46:37.385Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "上官と部下71",
+      "tags": [
+        "漫画",
+        "上官と部下"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149818957_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149818957",
+      "sourceCreatedAt": "2026-09-18T16:24:31.000Z"
+    },
+    {
       "id": "17b37b50",
       "filename": "pixiv_148714586_p0.jpg",
       "path": "uploads/2026/09/f7f22253.jpg",
