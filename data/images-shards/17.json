@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "705c4f99",
+      "filename": "pixiv_149798807_p0.jpg",
+      "path": "uploads/2026/09/188dbfa1.jpg",
+      "size": 1100089,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d214b296fea064042a19f8d78e999c346337545ce14f18de1b59862e9eb41879",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T18:43:40.662Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "梨子ちゃん",
+      "tags": [
+        "ラブライブ!サンシャイン!!",
+        "桜内梨子",
+        "Aqours"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149798807_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149798807",
+      "sourceCreatedAt": "2026-09-18T03:55:21.000Z"
+    },
+    {
       "id": "4b2e4d87",
       "filename": "pixiv_149820564_p0.jpg",
       "path": "uploads/2026/09/2c61f8f2.jpg",
