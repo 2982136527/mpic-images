@@ -3,6 +3,33 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "56959fd9",
+      "filename": "pixiv_149807771_p0.jpg",
+      "path": "uploads/2026/09/26236e44.jpg",
+      "size": 318130,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "0c9181a4a077d8c6c3a59215838b39c7d67a5472da992221fd1499ffbb5b3c81",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:51:05.777Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ぺたん。",
+      "tags": [
+        "デフォルメ",
+        "ホロライブ",
+        "hololive",
+        "白上フブキ",
+        "イカ耳",
+        "バーチャルYouTuber100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149807771_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149807771",
+      "sourceCreatedAt": "2026-09-18T10:13:43.000Z"
+    },
+    {
       "id": "4e3a8acf",
       "filename": "pixiv_149800406_p0.jpg",
       "path": "uploads/2026/09/21d3e000.jpg",
