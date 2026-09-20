@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "391fc9fc",
+      "filename": "pixiv_149838656_p0.jpg",
+      "path": "uploads/2026/09/36b4ffeb.jpg",
+      "size": 1465220,
+      "width": 1200,
+      "height": 658,
+      "mimeType": "image/jpeg",
+      "hash": "295b6379f270be6206bd07364a2a112608e0de503a18059eb0907e225d2dca9b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:02:27.664Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "9% summer",
+      "tags": [
+        "東方",
+        "チルノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149838656_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149838656",
+      "sourceCreatedAt": "2026-09-19T04:26:06.000Z"
+    },
+    {
       "id": "b6fc36f2",
       "filename": "pixiv_149832315_p0.jpg",
       "path": "uploads/2026/09/e81efdd1.jpg",
