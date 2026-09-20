@@ -3,6 +3,28 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "a57c7568",
+      "filename": "pixiv_149820889_p0.jpg",
+      "path": "uploads/2026/09/505eb57e.jpg",
+      "size": 755903,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6d09ee46e8847d16d5f65f1c58a6383bb3b946ec9d418831913179d4d02e26e6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:51:57.964Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ルカニコまとめ",
+      "tags": [
+        "ルカニコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149820889_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149820889",
+      "sourceCreatedAt": "2026-09-18T15:01:52.000Z"
+    },
+    {
       "id": "196a1251",
       "filename": "pixiv_149832601_p0.jpg",
       "path": "uploads/2026/09/5c926466.jpg",
