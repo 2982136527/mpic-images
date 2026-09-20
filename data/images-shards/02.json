@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "89f8bafa",
+      "filename": "pixiv_149842330_p0.jpg",
+      "path": "uploads/2026/09/0b5d2497.jpg",
+      "size": 840612,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "436547fd135c37662cac327c1b08ee5942a5825c324fd43c95c1cf9f65a8ae7b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T18:41:55.492Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "フィオニー",
+        "フィオニー・レファエラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149842330_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149842330",
+      "sourceCreatedAt": "2026-09-19T06:57:01.000Z"
+    },
+    {
       "id": "54d4b76f",
       "filename": "pixiv_149820449_p0.jpg",
       "path": "uploads/2026/09/2a629498.jpg",
