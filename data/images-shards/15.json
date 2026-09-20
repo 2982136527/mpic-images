@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "2ba062d6",
+      "filename": "pixiv_149821995_p0.jpg",
+      "path": "uploads/2026/09/3acab71f.jpg",
+      "size": 289029,
+      "width": 1200,
+      "height": 872,
+      "mimeType": "image/jpeg",
+      "hash": "2116d30352dc583926dc6f8a76f5b31a248344ee293a5399e73b62315b8c6243",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T18:48:10.315Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ファル子",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "スマートファルコン(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149821995_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149821995",
+      "sourceCreatedAt": "2026-09-18T15:20:41.000Z"
+    },
+    {
       "id": "ebe757fc",
       "filename": "pixiv_149820502_p0.jpg",
       "path": "uploads/2026/09/3f4847d9.jpg",
