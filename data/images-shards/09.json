@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "53b5587c",
+      "filename": "pixiv_149820558_p0.jpg",
+      "path": "uploads/2026/09/a8a42962.jpg",
+      "size": 1791513,
+      "width": 1050,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "795c49e1c42a61183b3d1a5bb6c1616aa9632ee02d8a26abddfb0623aaf2326a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T18:45:42.074Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Saber Alter",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "セイバーオルタ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149820558_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149820558",
+      "sourceCreatedAt": "2026-09-18T15:00:17.000Z"
+    },
+    {
       "id": "0745b305",
       "filename": "pixiv_149808562_p0.jpg",
       "path": "uploads/2026/09/b82b07ce.jpg",
