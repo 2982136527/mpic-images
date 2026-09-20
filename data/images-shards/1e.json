@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "80eef0ec",
+      "filename": "pixiv_149826247_p0.jpg",
+      "path": "uploads/2026/09/19c68740.jpg",
+      "size": 1913386,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9b9a5908914ee1aadb54f449989258368e066ee0a65637dfaf8453fc70bf46de",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T18:42:06.587Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「見えてるよ」",
+      "tags": [
+        "東方Project",
+        "東方",
+        "古明地こいし"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149826247_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149826247",
+      "sourceCreatedAt": "2026-09-18T17:51:55.000Z"
+    },
+    {
       "id": "58469776",
       "filename": "pixiv_149641545_p0.jpg",
       "path": "uploads/2026/09/883d5efd.jpg",
