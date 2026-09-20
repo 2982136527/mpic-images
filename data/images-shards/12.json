@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "0cb7ce3b",
+      "filename": "pixiv_149804289_p0.jpg",
+      "path": "uploads/2026/09/69bf6b8b.jpg",
+      "size": 1386699,
+      "width": 799,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ce979b7cf0c2176a59b7dd8967b064c1b84454bf3d0509ae924182c5c486ff0b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T18:44:01.638Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "暁美ほむら",
+      "tags": [
+        "暁美ほむら",
+        "魔法少女まどか☆マギカ",
+        "まどか☆マギカ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149804289_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149804289",
+      "sourceCreatedAt": "2026-09-18T08:39:56.000Z"
+    },
+    {
       "id": "c9ec4f01",
       "filename": "pixiv_148772655_p0.jpg",
       "path": "uploads/2026/09/3825c88e.jpg",
