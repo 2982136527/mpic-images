@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "e840312e",
+      "filename": "pixiv_149857429_p0.jpg",
+      "path": "uploads/2026/09/7affc6db.jpg",
+      "size": 903037,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dff86957869372fa7f9850c69235e7245fa6f511b781cfe3b70df336655f15c5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:48:32.570Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "バンドリまとめ21",
+      "tags": [
+        "百合",
+        "バンドリ",
+        "BanG_Dream!",
+        "むつさき"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149857429_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149857429",
+      "sourceCreatedAt": "2026-09-19T13:20:01.000Z"
+    },
+    {
       "id": "583c9e1e",
       "filename": "pixiv_149788655_p0.jpg",
       "path": "uploads/2026/09/6d6b5887.jpg",
