@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "3a7de165",
+      "filename": "pixiv_149657962_p0.jpg",
+      "path": "uploads/2026/09/b9cf229e.jpg",
+      "size": 1003181,
+      "width": 1120,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b6652b2cf8f443d2659976572caf6c1063ca96b00e9e5d4edeff012e979336c9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T18:48:49.102Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "-",
+      "tags": [
+        "原创",
+        "角娘",
+        "赤眼",
+        "金髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149657962_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149657962",
+      "sourceCreatedAt": "2026-09-14T06:14:56.000Z"
+    },
+    {
       "id": "4886b365",
       "filename": "pixiv_149795736_p0.jpg",
       "path": "uploads/2026/09/d94ff7d3.jpg",
