@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "2aad23a5",
+      "filename": "pixiv_149796681_p0.jpg",
+      "path": "uploads/2026/09/cfde68ea.jpg",
+      "size": 1305280,
+      "width": 686,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1af0101b2d35aaae753221ebe00b0633f09f0152e36dc09a1db9417523e28356",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:01:25.244Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "mika",
+      "tags": [
+        "女の子",
+        "聖園ミカ",
+        "BlueArchive",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149796681_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149796681",
+      "sourceCreatedAt": "2026-09-18T02:06:13.000Z"
+    },
+    {
       "id": "545c7b74",
       "filename": "pixiv_149820553_p0.jpg",
       "path": "uploads/2026/09/7a3f4b8a.jpg",
