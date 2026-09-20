@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "df1beb8b",
+      "filename": "pixiv_149850316_p0.jpg",
+      "path": "uploads/2026/09/d4e8ab4d.jpg",
+      "size": 979065,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ab0c4ebab2099a2d9445e4288d662b593324d5f33e96f30dd8fd7a278a18292a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T18:47:50.798Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "いつもの流れ",
+      "tags": [
+        "漫画",
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "先生(ブルーアーカイブ)",
+        "仲正イチカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149850316_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149850316",
+      "sourceCreatedAt": "2026-09-19T10:53:37.000Z"
+    },
+    {
       "id": "57e56de1",
       "filename": "pixiv_149858911_p0.jpg",
       "path": "uploads/2026/09/6be7dfbf.jpg",
