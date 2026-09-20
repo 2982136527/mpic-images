@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "0a14e35a",
+      "filename": "pixiv_149817678_p0.jpg",
+      "path": "uploads/2026/09/9589833c.jpg",
+      "size": 649632,
+      "width": 650,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "871b82d3db400b3ce97410555237c7377d122943dc06a9eb1f3bcf730b74e5b2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T18:45:50.648Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Skeb110",
+      "tags": [
+        "Skeb",
+        "獣耳",
+        "義肢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149817678_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149817678",
+      "sourceCreatedAt": "2026-09-18T13:55:11.000Z"
+    },
+    {
       "id": "9f206cd8",
       "filename": "pixiv_149849257_p0.jpg",
       "path": "uploads/2026/09/c2fb3e67.jpg",
