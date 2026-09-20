@@ -3,6 +3,34 @@
   "shardId": "12",
   "images": [
     {
+      "id": "c9ec4f01",
+      "filename": "pixiv_148772655_p0.jpg",
+      "path": "uploads/2026/09/3825c88e.jpg",
+      "size": 1167041,
+      "width": 820,
+      "height": 1086,
+      "mimeType": "image/jpeg",
+      "hash": "7456dc738f1363adb91f4f21ae3adee8f8171bc9235d751b28ac1d4164069fc7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:08:35.231Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Baubau!!!",
+      "tags": [
+        "女の子",
+        "HololiveEN",
+        "FUWAMOCO",
+        "FWMCpix",
+        "VTuber",
+        "Fuwawa_Abyssgard",
+        "Mococo_Abyssgard"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148772655_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148772655",
+      "sourceCreatedAt": "2026-08-23T01:00:03.000Z"
+    },
+    {
       "id": "444d7a8a",
       "filename": "pixiv_149849553_p0.jpg",
       "path": "uploads/2026/09/e6f0a881.jpg",
