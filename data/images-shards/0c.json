@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "2592e77a",
+      "filename": "pixiv_149818301_p0.jpg",
+      "path": "uploads/2026/09/7d3ef5df.jpg",
+      "size": 703557,
+      "width": 859,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "def5b8e6bc2ab116b2e65d1af11da545a506ce7f7953bb3da0fc46695adea5ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:04:48.472Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ポケモン",
+        "ギャラドス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149818301_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149818301",
+      "sourceCreatedAt": "2026-09-18T14:07:37.000Z"
+    },
+    {
       "id": "a2110bee",
       "filename": "pixiv_149810339_p0.jpg",
       "path": "uploads/2026/09/7ff88078.jpg",
