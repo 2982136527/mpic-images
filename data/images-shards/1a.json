@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "097b7aac",
+      "filename": "pixiv_149803509_p0.jpg",
+      "path": "uploads/2026/09/e8ab4104.jpg",
+      "size": 949731,
+      "width": 686,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6423522568f28d5336815876df3b35b290d3ca73c966dc186cca3710b3f7a898",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:07:21.664Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "shinosawa hiro",
+      "tags": [
+        "篠澤広",
+        "女の子",
+        "学園アイドルマスター",
+        "少女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149803509_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149803509",
+      "sourceCreatedAt": "2026-09-18T08:08:29.000Z"
+    },
+    {
       "id": "e0995a98",
       "filename": "pixiv_149835078_p0.jpg",
       "path": "uploads/2026/09/b4abec33.jpg",
