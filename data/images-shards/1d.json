@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "ab969c99",
+      "filename": "pixiv_149843485_p0.jpg",
+      "path": "uploads/2026/09/69c10009.jpg",
+      "size": 1418105,
+      "width": 805,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c903c57d2d8c977a31cbbd317c945d01f9a2f0941dadb8bb425695eed8fbd069",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:07:14.577Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Pretty Bad Day",
+      "tags": [
+        "明日方舟",
+        "德克萨斯",
+        "テキサス(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149843485_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149843485",
+      "sourceCreatedAt": "2026-09-19T07:38:51.000Z"
+    },
+    {
       "id": "abfb34b7",
       "filename": "pixiv_149826411_p0.jpg",
       "path": "uploads/2026/09/00115ee9.jpg",
