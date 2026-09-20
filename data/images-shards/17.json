@@ -3,6 +3,37 @@
   "shardId": "17",
   "images": [
     {
+      "id": "a91db146",
+      "filename": "pixiv_149797612_p0.jpg",
+      "path": "uploads/2026/09/5bc76954.jpg",
+      "size": 761223,
+      "width": 1087,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b1b60b46e76d262b4e2eb6c136a8a4cc58c5cdd85bd73b657a1165f15fe9841c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:50:38.801Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ボイロ（広義）漫画2677",
+      "tags": [
+        "漫画",
+        "足立レイ",
+        "唐揚げ",
+        "Twitter",
+        "二段ブチ抜き",
+        "足立レイ構文",
+        "メイド服",
+        "唐揚げにレモン大戦争",
+        "画像揚げ",
+        "青い鳥"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149797612_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149797612",
+      "sourceCreatedAt": "2026-09-18T03:00:09.000Z"
+    },
+    {
       "id": "b5919478",
       "filename": "pixiv_149788318_p0.jpg",
       "path": "uploads/2026/09/a46616a9.jpg",
