@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "a186bbcd",
+      "filename": "pixiv_149813265_p0.jpg",
+      "path": "uploads/2026/09/0f3cda35.jpg",
+      "size": 1235002,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9216713d01c3df6171817ba433138782055bba618ffaf74de76e208c52a730d8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:06:54.235Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "SilverPalace 白銀の城",
+      "tags": [
+        "SilverPalace",
+        "白銀の城",
+        "探偵(白銀の城)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149813265_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149813265",
+      "sourceCreatedAt": "2026-09-18T12:16:12.000Z"
+    },
+    {
       "id": "a0979d8d",
       "filename": "pixiv_149800808_p0.jpg",
       "path": "uploads/2026/09/6994b6fb.jpg",
