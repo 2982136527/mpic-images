@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "03647d5c",
+      "filename": "pixiv_149803564_p0.jpg",
+      "path": "uploads/2026/09/3ecd331c.jpg",
+      "size": 617068,
+      "width": 736,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ed3d7eefbf60e1f46ff24bc797b4599b3ea424566aa000db009c2556c50a58ce",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:49:50.372Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "温泉 花火",
+      "tags": [
+        "HonkaiStarRail",
+        "女の子",
+        "花火(スターレイル)",
+        "温泉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149803564_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149803564",
+      "sourceCreatedAt": "2026-09-18T08:10:58.000Z"
+    },
+    {
       "id": "b2a18d0f",
       "filename": "pixiv_149796082_p0.jpg",
       "path": "uploads/2026/09/8d73ce03.jpg",
