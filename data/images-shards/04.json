@@ -3,6 +3,37 @@
   "shardId": "04",
   "images": [
     {
+      "id": "48c75a9f",
+      "filename": "pixiv_149804049_p0.jpg",
+      "path": "uploads/2026/09/5385c20d.jpg",
+      "size": 444933,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "9d73f8ec2f09eb69c0f3650d6708c3301b75db31cddb7c30c872300410064ee7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:04:41.418Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Terminal",
+      "tags": [
+        "風景",
+        "風景画",
+        "背景",
+        "天空",
+        "女の子",
+        "sunset",
+        "wallpaper",
+        "猫耳",
+        "夕焼け",
+        "景色"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149804049_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149804049",
+      "sourceCreatedAt": "2026-09-18T08:30:04.000Z"
+    },
+    {
       "id": "64132608",
       "filename": "pixiv_149796280_p0.jpg",
       "path": "uploads/2026/09/ac5bfdc1.jpg",
