@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "a0979d8d",
+      "filename": "pixiv_149800808_p0.jpg",
+      "path": "uploads/2026/09/6994b6fb.jpg",
+      "size": 1184364,
+      "width": 825,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "749a528512adb7ae5be75c8adeec80821d3ccfdfb8cf09bf3680dee096959f1a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:03:54.982Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Arka",
+      "tags": [
+        "original",
+        "oc",
+        "illustration"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149800808_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149800808",
+      "sourceCreatedAt": "2026-09-18T05:52:33.000Z"
+    },
+    {
       "id": "ca7d346f",
       "filename": "pixiv_149839276_p0.jpg",
       "path": "uploads/2026/09/892baadb.jpg",
