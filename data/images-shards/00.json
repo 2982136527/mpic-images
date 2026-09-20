@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "17238d1a",
+      "filename": "pixiv_149810932_p0.jpg",
+      "path": "uploads/2026/09/9ec70557.jpg",
+      "size": 979345,
+      "width": 687,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a3d34f5b2d1a9b6c5f1687308d73ea6842f444105870aba5a1a0d303035ab2e3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:48:46.144Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🐙",
+      "tags": [
+        "アズールレーン",
+        "ゴールデン・ハインド(アズールレーン)",
+        "アズールレーン500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149810932_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149810932",
+      "sourceCreatedAt": "2026-09-18T11:30:03.000Z"
+    },
+    {
       "id": "bd4ce9a8",
       "filename": "pixiv_149796120_p0.jpg",
       "path": "uploads/2026/09/94826e4e.jpg",
