@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "a2110bee",
+      "filename": "pixiv_149810339_p0.jpg",
+      "path": "uploads/2026/09/7ff88078.jpg",
+      "size": 587868,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2f1d098939b728768dcc61596a0ba3bd97fd3f1699fe35a6fd2c3a03d21f0fc0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:03:12.404Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "小悪魔",
+      "tags": [
+        "東方Project",
+        "東方",
+        "小悪魔",
+        "小悪魔(東方Project)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149810339_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149810339",
+      "sourceCreatedAt": "2026-09-18T11:14:00.000Z"
+    },
+    {
       "id": "9adb6154",
       "filename": "pixiv_149784817_p0.jpg",
       "path": "uploads/2026/09/a7da17c1.jpg",
