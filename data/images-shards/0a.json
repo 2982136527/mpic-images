@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "cef64896",
+      "filename": "pixiv_149820557_p0.jpg",
+      "path": "uploads/2026/09/82c5a68f.jpg",
+      "size": 1646665,
+      "width": 713,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e85491919bd29ea88cf08d5217684b5ec226334120f3c623ced5a96f4054b4e0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:44:53.439Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "雪村千絵莉",
+      "tags": [
+        "あまいろショコラータ",
+        "雪村千絵莉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149820557_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149820557",
+      "sourceCreatedAt": "2026-09-18T15:00:17.000Z"
+    },
+    {
       "id": "0fd060ce",
       "filename": "pixiv_149778193_p0.jpg",
       "path": "uploads/2026/09/d7721ff5.jpg",
