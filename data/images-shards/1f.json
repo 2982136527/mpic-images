@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "2c0cd74b",
+      "filename": "pixiv_149853428_p0.jpg",
+      "path": "uploads/2026/09/351408dc.jpg",
+      "size": 1207065,
+      "width": 712,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0c6adfa74e80c45f0c4e4cfd7d32bb617121ab516258bb14cbd5dc1f5e75c418",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:45:56.866Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "デビットビット",
+      "tags": [
+        "デビットビット",
+        "カロガド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149853428_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149853428",
+      "sourceCreatedAt": "2026-09-19T12:22:05.000Z"
+    },
+    {
       "id": "b8300eaf",
       "filename": "pixiv_149808623_p0.jpg",
       "path": "uploads/2026/09/0647db87.jpg",
