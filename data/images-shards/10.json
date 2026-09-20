@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "a38f4b05",
+      "filename": "pixiv_149787069_p0.jpg",
+      "path": "uploads/2026/09/1fccbb74.jpg",
+      "size": 741237,
+      "width": 1200,
+      "height": 721,
+      "mimeType": "image/jpeg",
+      "hash": "299e3971e9e48f51dc6735c0593cdbaddbf309d9e661c4d02a28a7d0d0228b7b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T18:46:03.784Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "艾莉西亚",
+      "tags": [
+        "女の子",
+        "崩壊:スターレイル",
+        "崩坏3rd",
+        "爱莉希雅"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149787069_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149787069",
+      "sourceCreatedAt": "2026-09-17T16:06:02.000Z"
+    },
+    {
       "id": "a4c5506f",
       "filename": "pixiv_149847487_p0.jpg",
       "path": "uploads/2026/09/579c1a5e.jpg",
