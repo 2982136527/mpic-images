@@ -3,6 +3,37 @@
   "shardId": "07",
   "images": [
     {
+      "id": "0f295e40",
+      "filename": "pixiv_149651216_p0.jpg",
+      "path": "uploads/2026/09/58bf9378.jpg",
+      "size": 1126368,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4ea95b8985fa7bd7964e1356f3ba5f0a7266717a29a6cab95aa9dd414ae914f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:53:26.803Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "希罗",
+      "tags": [
+        "まのさば",
+        "まのさばネタバレ",
+        "魔女化ヒロ",
+        "二阶堂希罗",
+        "二階堂ヒロ",
+        "魔法少女ノ魔女裁判",
+        "着物",
+        "和服",
+        "和装",
+        "魔法少女ノ因習村"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149651216_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149651216",
+      "sourceCreatedAt": "2026-09-14T00:00:33.000Z"
+    },
+    {
       "id": "a5b5a0b1",
       "filename": "pixiv_149806025_p0.jpg",
       "path": "uploads/2026/09/17911f2c.jpg",
