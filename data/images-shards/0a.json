@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "4886b365",
+      "filename": "pixiv_149795736_p0.jpg",
+      "path": "uploads/2026/09/d94ff7d3.jpg",
+      "size": 459202,
+      "width": 1200,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "b1c158992e8fd60524ee5557f434565cc6c1cc35451b997271ac9d5bfbe50c38",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:09:42.830Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "원레그",
+      "tags": [
+        "LimbusCompany",
+        "Limbus_Company",
+        "림버스",
+        "tall_girl",
+        "원레그"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149795736_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149795736",
+      "sourceCreatedAt": "2026-09-18T01:01:58.000Z"
+    },
+    {
       "id": "89340051",
       "filename": "pixiv_149826641_p0.jpg",
       "path": "uploads/2026/09/efc74021.jpg",
