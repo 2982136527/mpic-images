@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "84840754",
+      "filename": "pixiv_149837380_p0.jpg",
+      "path": "uploads/2026/09/da9145eb.jpg",
+      "size": 653183,
+      "width": 1067,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57403a06ab41cf3c0bdce778c3538408a47897f64fb90d2844d1fd601953a1e1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T13:04:17.675Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "スヌートチャレンジ",
+      "tags": [
+        "ちいかわ",
+        "セイレーン(ちいかわ)",
+        "漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149837380_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149837380",
+      "sourceCreatedAt": "2026-09-19T03:33:11.000Z"
+    },
+    {
       "id": "f7aa2c6b",
       "filename": "pixiv_149818237_p0.jpg",
       "path": "uploads/2026/09/c077738c.jpg",
