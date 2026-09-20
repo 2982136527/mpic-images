@@ -3,6 +3,32 @@
   "shardId": "13",
   "images": [
     {
+      "id": "01b00dd7",
+      "filename": "pixiv_149797183_p0.jpg",
+      "path": "uploads/2026/09/c474647b.jpg",
+      "size": 848148,
+      "width": 1200,
+      "height": 864,
+      "mimeType": "image/jpeg",
+      "hash": "3b7078ecdeaaca0adfd9dd5a55755e495e015fb132d789154228769cd91a9631",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T04:45:50.235Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "👁️",
+      "tags": [
+        "東方Project",
+        "東方",
+        "八雲紫",
+        "女の子",
+        "金髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149797183_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149797183",
+      "sourceCreatedAt": "2026-09-18T02:36:10.000Z"
+    },
+    {
       "id": "2117044b",
       "filename": "pixiv_149796032_p0.jpg",
       "path": "uploads/2026/09/db421465.jpg",
