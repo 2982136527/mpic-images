@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "2e07601a",
+      "filename": "pixiv_149841394_p0.jpg",
+      "path": "uploads/2026/09/c4a3e042.jpg",
+      "size": 955366,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "afd580e69ea73bd05e5732b45d413d6a48c9bf9117a6923b2df5a033482c5c52",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-20T18:45:58.385Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "のらねっこあら",
+      "tags": [
+        "にじさんじ",
+        "Vtuber",
+        "文野環"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149841394_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149841394",
+      "sourceCreatedAt": "2026-09-19T06:18:46.000Z"
+    },
+    {
       "id": "79322d38",
       "filename": "pixiv_149829052_p0.jpg",
       "path": "uploads/2026/09/715a739a.jpg",
