@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "2ed2c70d",
+      "filename": "pixiv_149854989_p0.jpg",
+      "path": "uploads/2026/09/fcaf1963.jpg",
+      "size": 1289847,
+      "width": 1200,
+      "height": 913,
+      "mimeType": "image/jpeg",
+      "hash": "99cd6ce0e6dbed583877345ecfb07cc20d18969ba263cb063a05acd2d5364fac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T15:04:41.946Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ウルトラバイオレットうつほ！",
+      "tags": [
+        "東方",
+        "霊烏路空",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149854989_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149854989",
+      "sourceCreatedAt": "2026-09-19T12:29:39.000Z"
+    },
+    {
       "id": "766d3d0e",
       "filename": "pixiv_149880292_p0.jpg",
       "path": "uploads/2026/09/67c675ce.jpg",
