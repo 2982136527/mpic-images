@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "ffd43a23",
+      "filename": "pixiv_149838695_p0.jpg",
+      "path": "uploads/2026/09/3a860eb6.jpg",
+      "size": 886851,
+      "width": 630,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6b55192724168be6d15ce47f42a9f4689d7544ea26e2b39aa72ad1dd8b328a2e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T20:24:55.500Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Skeb112",
+      "tags": [
+        "Skeb",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149838695_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149838695",
+      "sourceCreatedAt": "2026-09-19T04:27:54.000Z"
+    },
+    {
       "id": "0966041b",
       "filename": "pixiv_149870724_p0.jpg",
       "path": "uploads/2026/09/c413481c.jpg",
