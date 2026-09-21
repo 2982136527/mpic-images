@@ -3,6 +3,34 @@
   "shardId": "10",
   "images": [
     {
+      "id": "f862dac4",
+      "filename": "pixiv_149843342_p0.jpg",
+      "path": "uploads/2026/09/e5096ec1.jpg",
+      "size": 687428,
+      "width": 773,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "828faf514dd23f1a164d733ac379984dfbc4518d2429e977ba1d5e70d255deeb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T15:08:18.292Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Cecilia Immergreen",
+      "tags": [
+        "セシリア・イマーグリーン",
+        "CeciliaImmergreen",
+        "ホロライブ",
+        "VTuber",
+        "hololive",
+        "ロングヘアー",
+        "Immergination"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149843342_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149843342",
+      "sourceCreatedAt": "2026-09-19T07:33:41.000Z"
+    },
+    {
       "id": "fb9e46d1",
       "filename": "pixiv_149872272_p0.jpg",
       "path": "uploads/2026/09/a638130f.jpg",
