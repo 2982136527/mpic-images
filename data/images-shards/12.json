@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "249ed297",
+      "filename": "pixiv_149849345_p0.jpg",
+      "path": "uploads/2026/09/07259844.jpg",
+      "size": 1437621,
+      "width": 751,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f7cfc6bb477bd4219eb181b645783ce4e65833ad4dd37428d8b7495f0e3b4eeb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T20:24:23.267Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "怪我してる…",
+      "tags": [
+        "ファルカ",
+        "ニコ・リヤン",
+        "原神",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149849345_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149849345",
+      "sourceCreatedAt": "2026-09-19T10:26:55.000Z"
+    },
+    {
       "id": "b80460d9",
       "filename": "pixiv_149848099_p0.jpg",
       "path": "uploads/2026/09/95e15345.jpg",
