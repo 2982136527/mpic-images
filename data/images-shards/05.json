@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "1d519d0e",
+      "filename": "pixiv_149843423_p0.jpg",
+      "path": "uploads/2026/09/c926fa8a.jpg",
+      "size": 1025424,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "48718f6d42bf1e4f981a077c942c2813fe8791cc0c8010316d35d75bd0893fbd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T15:08:47.257Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🌑",
+      "tags": [
+        "ZenlessZoneZero",
+        "葉瞬光",
+        "ゼンレスゾーンゼロ",
+        "绝区零"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149843423_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149843423",
+      "sourceCreatedAt": "2026-09-19T07:36:26.000Z"
+    },
+    {
       "id": "3d9df908",
       "filename": "pixiv_149848394_p0.jpg",
       "path": "uploads/2026/09/ddd6c719.jpg",
