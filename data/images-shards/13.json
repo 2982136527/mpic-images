@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "c1416be2",
+      "filename": "pixiv_149892574_p0.jpg",
+      "path": "uploads/2026/09/c82b413c.jpg",
+      "size": 1704454,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "55d501edbd839ca79ee454feea6d718334224f6d53891d8166cc08f4bf9e92da",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T15:06:51.063Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "お邪魔虫",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149892574_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149892574",
+      "sourceCreatedAt": "2026-09-20T10:33:03.000Z"
+    },
+    {
       "id": "f7fc7821",
       "filename": "pixiv_148827170_p0.jpg",
       "path": "uploads/2026/09/d9215ceb.jpg",
