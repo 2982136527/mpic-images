@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "24b306ad",
+      "filename": "pixiv_149838374_p0.jpg",
+      "path": "uploads/2026/09/df5c81e6.jpg",
+      "size": 891395,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3e85102267714af9869f54cf962b639160a6dc9284caee0e1e5e2170838d3bd6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T15:10:02.334Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "梨子ちゃん",
+      "tags": [
+        "ラブライブ!",
+        "桜内梨子",
+        "Aqours"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149838374_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149838374",
+      "sourceCreatedAt": "2026-09-19T04:13:21.000Z"
+    },
+    {
       "id": "8899197c",
       "filename": "pixiv_149833907_p0.jpg",
       "path": "uploads/2026/09/9bc4315f.jpg",
