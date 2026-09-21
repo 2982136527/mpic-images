@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "aa591da1",
+      "filename": "pixiv_149862029_p0.jpg",
+      "path": "uploads/2026/09/626b3615.jpg",
+      "size": 811429,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7d63e9c5386b399af2418bef3f88542f120fcbb7057183d1d923e5a377bce068",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:44:54.697Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "サブカル地雷",
+      "tags": [
+        "オリジナル",
+        "サブカル",
+        "地雷系",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149862029_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149862029",
+      "sourceCreatedAt": "2026-09-19T15:00:23.000Z"
+    },
+    {
       "id": "3a7de165",
       "filename": "pixiv_149657962_p0.jpg",
       "path": "uploads/2026/09/b9cf229e.jpg",
