@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "477f9a74",
+      "filename": "pixiv_149824516_p0.jpg",
+      "path": "uploads/2026/09/e1592f5d.jpg",
+      "size": 1019557,
+      "width": 751,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "444bd4f9a45775ec4d14be4b4b2eda277e0f1c0ec5e5719b1c0dc5c4c4a1937f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T20:25:06.725Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "泳装提弗洛斯",
+      "tags": [
+        "终末地",
+        "提弗洛斯",
+        "水着",
+        "ティフォロス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149824516_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149824516",
+      "sourceCreatedAt": "2026-09-18T16:32:58.000Z"
+    },
+    {
       "id": "34153526",
       "filename": "pixiv_149860689_p0.jpg",
       "path": "uploads/2026/09/b895c896.jpg",
