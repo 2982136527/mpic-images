@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "6fde34e1",
+      "filename": "pixiv_149826109_p0.jpg",
+      "path": "uploads/2026/09/ea8ea59b.jpg",
+      "size": 1348694,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "596704a766a26bb4e7b1551e22031336b96be9f372b21df8148a3d228f88c862",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:46:53.080Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "まとめ",
+      "tags": [
+        "Limbus_Company",
+        "アークナイツ",
+        "ファウスト(LCB)",
+        "イシュメール(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149826109_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149826109",
+      "sourceCreatedAt": "2026-09-18T17:43:33.000Z"
+    },
+    {
       "id": "20bd5e52",
       "filename": "pixiv_149853881_p0.jpg",
       "path": "uploads/2026/09/5667484b.jpg",
