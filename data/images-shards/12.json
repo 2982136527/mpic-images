@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "10cc2e82",
+      "filename": "pixiv_149863586_p0.jpg",
+      "path": "uploads/2026/09/ffc8dc99.jpg",
+      "size": 732412,
+      "width": 595,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a6b85f8dc31cadeeae9d596bb62a6f55160deb8605048bf5214091d3badd5f4f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T20:26:18.691Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "~海~",
+      "tags": [
+        "オリジナル",
+        "ケモミミ",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149863586_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149863586",
+      "sourceCreatedAt": "2026-09-19T15:25:39.000Z"
+    },
+    {
       "id": "249ed297",
       "filename": "pixiv_149849345_p0.jpg",
       "path": "uploads/2026/09/07259844.jpg",
