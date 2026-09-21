@@ -3,6 +3,35 @@
   "shardId": "15",
   "images": [
     {
+      "id": "4aa74872",
+      "filename": "pixiv_149861069_p0.jpg",
+      "path": "uploads/2026/09/5482b99c.jpg",
+      "size": 257192,
+      "width": 450,
+      "height": 500,
+      "mimeType": "image/jpeg",
+      "hash": "ba7e479d9cb7f3d4b4c469a1d66a9ddfbb0fbbec85a148cbd64e526277456321",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:49:46.812Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "グレルカの日",
+      "tags": [
+        "ポケモン",
+        "ブイズ",
+        "グレイシア",
+        "グレイシア(ポケモン)",
+        "ルカリオ",
+        "グレルカ",
+        "グレルカの日",
+        "ポケモンの日"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149861069_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149861069",
+      "sourceCreatedAt": "2026-09-19T14:41:46.000Z"
+    },
+    {
       "id": "56cbb2fa",
       "filename": "pixiv_149848785_p0.jpg",
       "path": "uploads/2026/09/e016fa11.jpg",
