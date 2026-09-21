@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "766d3d0e",
+      "filename": "pixiv_149880292_p0.jpg",
+      "path": "uploads/2026/09/67c675ce.jpg",
+      "size": 892871,
+      "width": 1200,
+      "height": 1195,
+      "mimeType": "image/jpeg",
+      "hash": "cb385d6f81075a0d9714f6365a9cfda459b8f16cefa3669bfdf0e807bc711e1e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:50:42.985Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "乙女怪獣キャラメリゼ",
+      "tags": [
+        "乙女怪獣キャラメリゼ",
+        "赤石黒絵",
+        "南新汰"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149880292_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149880292",
+      "sourceCreatedAt": "2026-09-20T04:02:13.000Z"
+    },
+    {
       "id": "e2ff098b",
       "filename": "pixiv_149877349_p0.jpg",
       "path": "uploads/2026/09/a507851a.jpg",
