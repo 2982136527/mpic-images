@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "6cc9f59e",
+      "filename": "pixiv_149823831_p0.jpg",
+      "path": "uploads/2026/09/9dc883c3.jpg",
+      "size": 929231,
+      "width": 1200,
+      "height": 1145,
+      "mimeType": "image/jpeg",
+      "hash": "f6d8b51267042c0b6cddb959acc5f2d80c1e9e9224bca6766431c137d88fb2ef",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:45:28.147Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "잔느",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "잔느"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149823831_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149823831",
+      "sourceCreatedAt": "2026-09-18T16:07:51.000Z"
+    },
+    {
       "id": "07049dfc",
       "filename": "pixiv_149792845_p0.jpg",
       "path": "uploads/2026/09/42235e8b.jpg",
