@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "5d3f21a9",
+      "filename": "pixiv_149863432_p0.jpg",
+      "path": "uploads/2026/09/f4bede9a.jpg",
+      "size": 901930,
+      "width": 667,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "39e87d14c73b81fbb26fd55141a3cf1f4eccab1dfcca322172acecaad546c2bc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:51:16.311Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "VOCALOID",
+        "ボカロ",
+        "初音ミク",
+        "北斎ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149863432_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149863432",
+      "sourceCreatedAt": "2026-09-19T15:21:51.000Z"
+    },
+    {
       "id": "8545e137",
       "filename": "pixiv_149846926_p0.jpg",
       "path": "uploads/2026/09/efd6d847.jpg",
