@@ -3,6 +3,28 @@
   "shardId": "18",
   "images": [
     {
+      "id": "b8dc00eb",
+      "filename": "pixiv_149855858_p0.jpg",
+      "path": "uploads/2026/09/216df734.jpg",
+      "size": 430948,
+      "width": 700,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "c33601a95f221483c89f4ee597c482aa9cbf3ec421e34fd143265f0836ac60db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T20:26:11.410Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "月見",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149855858_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149855858",
+      "sourceCreatedAt": "2026-09-19T12:47:33.000Z"
+    },
+    {
       "id": "f3304ae2",
       "filename": "pixiv_149867328_p0.jpg",
       "path": "uploads/2026/09/f0fc82b8.jpg",
