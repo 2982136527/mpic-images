@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "1b9a3100",
+      "filename": "pixiv_149831126_p0.jpg",
+      "path": "uploads/2026/09/5c285913.jpg",
+      "size": 491540,
+      "width": 600,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "c5ae484eaa8c843b085b425390d46832181d999cce2eed10eb8e9b776b1f2d71",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:50:36.301Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ブリギッドちゃん",
+      "tags": [
+        "明日方舟",
+        "アークナイツ",
+        "ブリギッド(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149831126_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149831126",
+      "sourceCreatedAt": "2026-09-18T23:00:42.000Z"
+    },
+    {
       "id": "0e67cabd",
       "filename": "pixiv_149877442_p0.jpg",
       "path": "uploads/2026/09/ee765718.jpg",
