@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "b80460d9",
+      "filename": "pixiv_149848099_p0.jpg",
+      "path": "uploads/2026/09/95e15345.jpg",
+      "size": 711808,
+      "width": 1100,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "5ba826e1adbd7d141047b9aa4e6d5a38cac3fa786d55f315a1011b9ef51d3774",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T15:06:17.757Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「skeb」馬刺飯さん",
+      "tags": [
+        "Skeb",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149848099_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149848099",
+      "sourceCreatedAt": "2026-09-19T09:56:47.000Z"
+    },
+    {
       "id": "c0ace3b6",
       "filename": "pixiv_149841923_p0.jpg",
       "path": "uploads/2026/09/8daed7bb.jpg",
