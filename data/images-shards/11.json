@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "cc473c3c",
+      "filename": "pixiv_149875566_p0.jpg",
+      "path": "uploads/2026/09/cd23cd2b.jpg",
+      "size": 1164864,
+      "width": 690,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "81f4d448fbb380dc9f39aa5a4078247554383a56768163d2532fa632d6db4843",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T15:05:12.770Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Dragon lady",
+      "tags": [
+        "モンスター娘",
+        "ドラゴン娘",
+        "dragongirl",
+        "Skeb"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149875566_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149875566",
+      "sourceCreatedAt": "2026-09-20T01:06:16.000Z"
+    },
+    {
       "id": "fccba7d7",
       "filename": "pixiv_149694770_p0.jpg",
       "path": "uploads/2026/09/c2ee9490.jpg",
