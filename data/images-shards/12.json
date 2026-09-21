@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "6e5c2e80",
+      "filename": "pixiv_149836403_p0.jpg",
+      "path": "uploads/2026/09/d4803d82.jpg",
+      "size": 866954,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "75ad4d4316898267247d23e85d3a13fff15af928ed2bb9a2bbe7f50fc91e4495",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T20:28:05.361Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "先生のお仕事が終わるのを待っている子",
+      "tags": [
+        "女の子",
+        "逆座り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149836403_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149836403",
+      "sourceCreatedAt": "2026-09-19T03:00:09.000Z"
+    },
+    {
       "id": "10cc2e82",
       "filename": "pixiv_149863586_p0.jpg",
       "path": "uploads/2026/09/ffc8dc99.jpg",
