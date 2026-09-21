@@ -3,6 +3,36 @@
   "shardId": "00",
   "images": [
     {
+      "id": "60d2dec5",
+      "filename": "pixiv_149849224_p0.jpg",
+      "path": "uploads/2026/09/e24c216e.jpg",
+      "size": 1147708,
+      "width": 842,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dfdb2e66e4d6b9e85f16ba40612b6df79c1b4bce9868365b7bc21eab641bb2f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:49:33.653Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "アリスとケイ",
+      "tags": [
+        "ブルアカ",
+        "天童アリス",
+        "天童ケイ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "天童アリス(臨戦)",
+        "ケイ(ブルーアーカイブ)",
+        "ブルーアーカイブ100users入り",
+        "アリケイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149849224_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149849224",
+      "sourceCreatedAt": "2026-09-19T10:23:11.000Z"
+    },
+    {
       "id": "99e633f3",
       "filename": "pixiv_149837197_p0.jpg",
       "path": "uploads/2026/09/76a1f70e.jpg",
