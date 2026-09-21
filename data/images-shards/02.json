@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "136b382c",
+      "filename": "pixiv_149851978_p0.jpg",
+      "path": "uploads/2026/09/c2434a15.jpg",
+      "size": 1451080,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "028f2c15f556496667830fca094aa9170fcb7e34610ad26c0a116ada643a48f7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T15:05:58.551Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "どんなアバターにしようかな～",
+      "tags": [
+        "崩壊スターレイル",
+        "火花(スターレイル)",
+        "花火(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149851978_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149851978",
+      "sourceCreatedAt": "2026-09-19T11:28:03.000Z"
+    },
+    {
       "id": "ce2a9af8",
       "filename": "pixiv_149848666_p0.jpg",
       "path": "uploads/2026/09/701479b9.jpg",
