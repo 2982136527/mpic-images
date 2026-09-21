@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "773c9bdf",
+      "filename": "pixiv_149834155_p0.jpg",
+      "path": "uploads/2026/09/7eb6085e.jpg",
+      "size": 928248,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "366aeb9e4ad2c97ce1c08d64176639faeb5e55cbe7a75eefdad3621646c47f6d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:51:57.018Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Zentreya",
+      "tags": [
+        "VTuber",
+        "Zentreya"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149834155_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149834155",
+      "sourceCreatedAt": "2026-09-19T01:26:17.000Z"
+    },
+    {
       "id": "4aa74872",
       "filename": "pixiv_149861069_p0.jpg",
       "path": "uploads/2026/09/5482b99c.jpg",
