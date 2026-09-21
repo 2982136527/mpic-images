@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "b509201e",
+      "filename": "pixiv_149872911_p0.jpg",
+      "path": "uploads/2026/09/48842828.jpg",
+      "size": 1438878,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "99cf3ce8a5324995bd717a0af889697b026e4c4ccf3e7fe0933fd1f3059b4b71",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T20:25:32.926Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ここは女学院 (オト男組)",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149872911_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149872911",
+      "sourceCreatedAt": "2026-09-19T23:08:53.000Z"
+    },
+    {
       "id": "f22af7b5",
       "filename": "pixiv_149865255_p0.jpg",
       "path": "uploads/2026/09/e4de7d8d.jpg",
