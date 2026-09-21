@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "051f9a6e",
+      "filename": "pixiv_149880401_p0.jpg",
+      "path": "uploads/2026/09/d1e86b1f.jpg",
+      "size": 1033397,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e0c67a60238275f147e425bb7e6c4016800e36ae89155fa6e99baffaf12754ce",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:49:19.547Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "れみ",
+      "tags": [
+        "東方",
+        "東方Project",
+        "レミリア・スカーレット",
+        "白タイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149880401_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149880401",
+      "sourceCreatedAt": "2026-09-20T04:06:58.000Z"
+    },
+    {
       "id": "aa1dd967",
       "filename": "pixiv_149825109_p0.jpg",
       "path": "uploads/2026/09/1e7aed61.jpg",
