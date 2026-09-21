@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "309d7010",
+      "filename": "pixiv_149854351_p0.jpg",
+      "path": "uploads/2026/09/6b123484.jpg",
+      "size": 1483765,
+      "width": 816,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "be80ae5eb50f22453ce98984c973b2e5f67782be81b47b13b7698f61655d1ba2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T20:27:05.111Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "キュアアルカナ",
+      "tags": [
+        "名探偵プリキュア!",
+        "キュアアルカナ",
+        "森亜るるか",
+        "シャインアルカナロッド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149854351_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149854351",
+      "sourceCreatedAt": "2026-09-19T12:15:22.000Z"
+    },
+    {
       "id": "4a57786b",
       "filename": "pixiv_149861524_p0.jpg",
       "path": "uploads/2026/09/33c63334.jpg",
