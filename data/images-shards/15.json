@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "56cbb2fa",
+      "filename": "pixiv_149848785_p0.jpg",
+      "path": "uploads/2026/09/e016fa11.jpg",
+      "size": 579008,
+      "width": 908,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5de1b473344b1196346e19e752b42639ee975ece9658f0293df3fbbbd649310f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:44:40.909Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ハロウィン！",
+      "tags": [
+        "ぐだ子",
+        "FGO",
+        "Fate/GrandOrder"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149848785_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149848785",
+      "sourceCreatedAt": "2026-09-19T10:10:46.000Z"
+    },
+    {
       "id": "89e7e620",
       "filename": "pixiv_149898389_p0.jpg",
       "path": "uploads/2026/09/5dee13d7.jpg",
