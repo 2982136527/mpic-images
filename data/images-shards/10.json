@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "bbf5138d",
+      "filename": "pixiv_149890471_p0.jpg",
+      "path": "uploads/2026/09/33581d4a.jpg",
+      "size": 364923,
+      "width": 648,
+      "height": 365,
+      "mimeType": "image/jpeg",
+      "hash": "04bf2adc67bde615d79290d8f82300ec87a4a8c37fe86cbcc6ee5c6fc05ed3af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T20:25:44.386Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "校服",
+      "tags": [
+        "裸足",
+        "少女",
+        "原创",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149890471_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149890471",
+      "sourceCreatedAt": "2026-09-20T09:38:43.000Z"
+    },
+    {
       "id": "f862dac4",
       "filename": "pixiv_149843342_p0.jpg",
       "path": "uploads/2026/09/e5096ec1.jpg",
