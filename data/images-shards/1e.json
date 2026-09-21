@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "a9c7e242",
+      "filename": "pixiv_149846330_p0.jpg",
+      "path": "uploads/2026/09/e97d6b05.jpg",
+      "size": 879954,
+      "width": 1200,
+      "height": 855,
+      "mimeType": "image/jpeg",
+      "hash": "007f1b83a41d9abdd4653d60495264a54dab464344282a4c52c9cb49369b4da3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T15:10:45.523Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "리퀘입니다",
+      "tags": [
+        "OC",
+        "Limbus_Company"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149846330_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149846330",
+      "sourceCreatedAt": "2026-09-19T09:03:23.000Z"
+    },
+    {
       "id": "cb664d81",
       "filename": "pixiv_149833269_p0.jpg",
       "path": "uploads/2026/09/156f2222.jpg",
