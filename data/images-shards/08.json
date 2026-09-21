@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "b52b2e55",
+      "filename": "pixiv_149890281_p0.jpg",
+      "path": "uploads/2026/09/dc799ad7.jpg",
+      "size": 571967,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4dd6f75cb956e3d7c0023e4edb7b72f963408d17653cf742ac818ba894247f92",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T20:28:57.967Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "移動中",
+      "tags": [
+        "女の子",
+        "制服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149890281_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149890281",
+      "sourceCreatedAt": "2026-09-20T09:32:23.000Z"
+    },
+    {
       "id": "f1265914",
       "filename": "pixiv_149688744_p0.jpg",
       "path": "uploads/2026/09/81f55ef3.jpg",
