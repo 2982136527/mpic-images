@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "4a57786b",
+      "filename": "pixiv_149861524_p0.jpg",
+      "path": "uploads/2026/09/33c63334.jpg",
+      "size": 505322,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "79b2914dfb2f797d4e70728287b98d70a4f0aa0243cdbef922934becd83c0337",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T15:11:01.893Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ゴールデンバニー赤織さん",
+      "tags": [
+        "女の子",
+        "バニーガール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149861524_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149861524",
+      "sourceCreatedAt": "2026-09-19T14:52:29.000Z"
+    },
+    {
       "id": "07d8dd6d",
       "filename": "pixiv_149889659_p0.jpg",
       "path": "uploads/2026/09/2fb5a109.jpg",
