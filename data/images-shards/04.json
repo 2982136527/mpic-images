@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "ec235e38",
+      "filename": "pixiv_149850911_p0.jpg",
+      "path": "uploads/2026/09/95215bc2.jpg",
+      "size": 1181140,
+      "width": 1200,
+      "height": 857,
+      "mimeType": "image/jpeg",
+      "hash": "c34785089d895d056aea1b96178d7fa7db84de548adca5ca18128a45d0088155",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:47:50.001Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "御坂",
+      "tags": [
+        "御坂美琴",
+        "とある科学の超電磁砲"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149850911_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149850911",
+      "sourceCreatedAt": "2026-09-19T11:02:39.000Z"
+    },
+    {
       "id": "0b536bc3",
       "filename": "pixiv_149849618_p0.jpg",
       "path": "uploads/2026/09/184084d6.jpg",
