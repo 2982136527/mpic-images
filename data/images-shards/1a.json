@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "34153526",
+      "filename": "pixiv_149860689_p0.jpg",
+      "path": "uploads/2026/09/b895c896.jpg",
+      "size": 1342117,
+      "width": 988,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "339e97c6d1c4c66ade93f4cd99c509e0052d6791dc574aac708c4cb777dc689f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T20:23:54.570Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "プロセカまとめ",
+      "tags": [
+        "プロセカ",
+        "あいえな"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149860689_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149860689",
+      "sourceCreatedAt": "2026-09-19T14:32:52.000Z"
+    },
+    {
       "id": "d7782271",
       "filename": "pixiv_149867042_p0.jpg",
       "path": "uploads/2026/09/d8486fe2.jpg",
