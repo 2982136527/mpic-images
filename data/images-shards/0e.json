@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "2143ec45",
+      "filename": "pixiv_149843825_p0.jpg",
+      "path": "uploads/2026/09/30449028.jpg",
+      "size": 964551,
+      "width": 1200,
+      "height": 1040,
+      "mimeType": "image/jpeg",
+      "hash": "027158078a9de3cbb1ecc786e86f9323cf33d0d3c47a6ed57a9179aee4cddb1e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:44:34.409Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "エルデンナイトレインまとめ3",
+      "tags": [
+        "NIGHTREIGN"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149843825_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149843825",
+      "sourceCreatedAt": "2026-09-19T07:52:29.000Z"
+    },
+    {
       "id": "b9da6cc8",
       "filename": "pixiv_149839246_p0.jpg",
       "path": "uploads/2026/09/1a6efc5a.jpg",
