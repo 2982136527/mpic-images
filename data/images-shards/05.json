@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "fdb43cda",
+      "filename": "pixiv_149899943_p0.jpg",
+      "path": "uploads/2026/09/6cd20478.jpg",
+      "size": 1111287,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5fd77b19f553216153d5eff806653bea10b9a2dc1fe99a44786b3f2d8200a533",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:46:39.471Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「-心-」",
+      "tags": [
+        "心",
+        "心(鳴潮)",
+        "Hsin",
+        "鳴潮",
+        "WutheringWaves"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149899943_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149899943",
+      "sourceCreatedAt": "2026-09-20T13:07:18.000Z"
+    },
+    {
       "id": "635331ee",
       "filename": "pixiv_149865600_p0.jpg",
       "path": "uploads/2026/09/86763776.jpg",
