@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "ab7c4d60",
+      "filename": "pixiv_149878678_p0.jpg",
+      "path": "uploads/2026/09/e6bf54dd.jpg",
+      "size": 215538,
+      "width": 496,
+      "height": 496,
+      "mimeType": "image/jpeg",
+      "hash": "354902a7332f342ab80762947c8e3b89ded261772cbf5654419464f33b45bffa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T15:06:07.369Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "高1高3",
+      "tags": [
+        "プロセカ",
+        "花里みのり",
+        "桐谷遥",
+        "はるみの",
+        "みのはる"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149878678_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149878678",
+      "sourceCreatedAt": "2026-09-20T03:02:33.000Z"
+    },
+    {
       "id": "fc00c0e1",
       "filename": "pixiv_149860362_p0.jpg",
       "path": "uploads/2026/09/84cd8dc8.jpg",
