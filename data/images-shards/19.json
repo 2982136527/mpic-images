@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "a5e4252a",
+      "filename": "pixiv_149885993_p0.jpg",
+      "path": "uploads/2026/09/3e6e9c6b.jpg",
+      "size": 594987,
+      "width": 1200,
+      "height": 839,
+      "mimeType": "image/jpeg",
+      "hash": "a311bd8bdb9df440df349ecb7e305a44760d11eec35137fa437c731022fdcc0a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T15:08:06.098Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "たかこま",
+      "tags": [
+        "篁小",
+        "たかこま"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149885993_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149885993",
+      "sourceCreatedAt": "2026-09-20T07:32:22.000Z"
+    },
+    {
       "id": "4ee70839",
       "filename": "pixiv_149844665_p0.jpg",
       "path": "uploads/2026/09/6a1ae541.jpg",
