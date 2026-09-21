@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "a2e59a6f",
+      "filename": "pixiv_149855297_p0.jpg",
+      "path": "uploads/2026/09/32bcabfb.jpg",
+      "size": 415540,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "35d63e9a4283f18db88463de3e140119495e0e9327fc6eed6eee74a5d7c46c96",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T15:07:33.912Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "薄い細いミクさんが好き",
+      "tags": [
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149855297_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149855297",
+      "sourceCreatedAt": "2026-09-19T12:34:47.000Z"
+    },
+    {
       "id": "915a9e43",
       "filename": "pixiv_149877796_p0.jpg",
       "path": "uploads/2026/09/326992e1.jpg",
