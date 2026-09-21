@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "37e46768",
+      "filename": "pixiv_149865174_p0.jpg",
+      "path": "uploads/2026/09/295f066f.jpg",
+      "size": 1274619,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "b9038b6ef1148249b880fae977b86dc1c1af00a41a141dd344f28602306b48c2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:50:20.191Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "キュアスカイ",
+      "tags": [
+        "キュアスカイ",
+        "ソラ・ハレワタール",
+        "ひろがるスカイ!プリキュア",
+        "プリキュア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149865174_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149865174",
+      "sourceCreatedAt": "2026-09-19T16:06:17.000Z"
+    },
+    {
       "id": "5adafa08",
       "filename": "pixiv_149892290_p0.jpg",
       "path": "uploads/2026/09/983d30d9.jpg",
