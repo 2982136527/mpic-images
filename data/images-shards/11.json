@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "14da0221",
+      "filename": "pixiv_149824251_p0.jpg",
+      "path": "uploads/2026/09/225e23df.jpg",
+      "size": 1219640,
+      "width": 1200,
+      "height": 695,
+      "mimeType": "image/jpeg",
+      "hash": "e4b8fec10c81ed20db5f666d6219536ea062bec14d892b4fd9d1a0c8be3523de",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T20:27:52.690Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "マブガル",
+      "tags": [
+        "マブガル",
+        "マブラヴ",
+        "ガールズガーデン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149824251_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149824251",
+      "sourceCreatedAt": "2026-09-18T16:23:32.000Z"
+    },
+    {
       "id": "309d7010",
       "filename": "pixiv_149854351_p0.jpg",
       "path": "uploads/2026/09/6b123484.jpg",
