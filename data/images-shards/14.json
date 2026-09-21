@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "4110fc93",
+      "filename": "pixiv_149893952_p0.jpg",
+      "path": "uploads/2026/09/26e98a17.jpg",
+      "size": 603896,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "560356693a2fccc76fbef2952904fd27f2a0cef4bf8dff95b6f61b275ec66820",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T15:11:21.577Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "博麗霊夢",
+        "東方",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149893952_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149893952",
+      "sourceCreatedAt": "2026-09-20T11:03:04.000Z"
+    },
+    {
       "id": "2d2d2616",
       "filename": "pixiv_149886842_p0.jpg",
       "path": "uploads/2026/09/7833aa12.jpg",
