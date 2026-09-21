@@ -3,6 +3,32 @@
   "shardId": "07",
   "images": [
     {
+      "id": "ffe85dea",
+      "filename": "pixiv_149870266_p0.jpg",
+      "path": "uploads/2026/09/3fd42056.jpg",
+      "size": 474385,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "96a430b1df4795dbe04d9c5262e104ceea40709f9f08eacf61f4d6c2159a5237",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T20:27:19.880Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "灰色の空",
+      "tags": [
+        "オリジナル",
+        "空",
+        "雲",
+        "曇天",
+        "山"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149870266_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149870266",
+      "sourceCreatedAt": "2026-09-19T20:31:34.000Z"
+    },
+    {
       "id": "29271a02",
       "filename": "pixiv_149861905_p0.jpg",
       "path": "uploads/2026/09/cf3310a5.jpg",
