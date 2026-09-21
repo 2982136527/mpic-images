@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "1104b5eb",
+      "filename": "pixiv_149874697_p0.jpg",
+      "path": "uploads/2026/09/b1da8be9.jpg",
+      "size": 455313,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6fb94203df3d6e9b5afe36351a48244b8c15774059ce8b1ff8d75de032aa7cfb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-21T04:45:38.036Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "どぱがきユキちゃん",
+      "tags": [
+        "ボカロ",
+        "ボーカロイド",
+        "イラスト",
+        "歌愛ユキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149874697_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149874697",
+      "sourceCreatedAt": "2026-09-20T00:31:15.000Z"
+    },
+    {
       "id": "2143ec45",
       "filename": "pixiv_149843825_p0.jpg",
       "path": "uploads/2026/09/30449028.jpg",
