@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "fb785808",
+      "filename": "pixiv_149864537_p0.jpg",
+      "path": "uploads/2026/09/84189987.jpg",
+      "size": 1423191,
+      "width": 1200,
+      "height": 742,
+      "mimeType": "image/jpeg",
+      "hash": "6cdb157bb40841ded9e5c684ea375b4a1ac373e4d1169d3d33bbead6dc4a0b5b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T13:21:38.749Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ゆく夏",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "天童ケイ",
+        "浴衣"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149864537_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149864537",
+      "sourceCreatedAt": "2026-09-19T15:49:03.000Z"
+    },
+    {
       "id": "8b46df6b",
       "filename": "pixiv_149916469_p0.jpg",
       "path": "uploads/2026/09/ab29b44e.jpg",
