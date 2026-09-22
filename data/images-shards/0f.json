@@ -3,6 +3,28 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "1c6bec47",
+      "filename": "pixiv_149741837_p0.jpg",
+      "path": "uploads/2026/09/9773d5b0.jpg",
+      "size": 1738386,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "0522f011a5baa1af1d526eabcfad3d3ba8a69f32f763a2c307f571071b9c18d4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T19:48:57.708Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "この席、どうぞ",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149741837_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149741837",
+      "sourceCreatedAt": "2026-09-16T12:09:50.000Z"
+    },
+    {
       "id": "750c95d9",
       "filename": "pixiv_149932778_p0.jpg",
       "path": "uploads/2026/09/ffb3d0bc.jpg",
