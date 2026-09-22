@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "fd94ff93",
+      "filename": "pixiv_149939914_p0.jpg",
+      "path": "uploads/2026/09/8a54d6ce.jpg",
+      "size": 1034668,
+      "width": 854,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ca3f21c07d1889317d927b7f952c13ed6d43b76354b1775761e9accec3b7c750",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T13:23:41.987Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "少女",
+        "duck"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149939914_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149939914",
+      "sourceCreatedAt": "2026-09-21T12:14:21.000Z"
+    },
+    {
       "id": "9e05f14f",
       "filename": "pixiv_149945262_p0.jpg",
       "path": "uploads/2026/09/0f272263.jpg",
