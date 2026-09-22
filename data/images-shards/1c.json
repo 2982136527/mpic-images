@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "4dcb5ef5",
+      "filename": "pixiv_149905232_p0.jpg",
+      "path": "uploads/2026/09/a80595fb.jpg",
+      "size": 1871667,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "da0ea0bee7d12cc11778a44d8f8bddf0059ff8636b2e5ca1e37c0f09f509da12",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:41:09.176Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カプラ・リブラス",
+      "tags": [
+        "REJECT",
+        "カプラ・リブラス",
+        "VTuber",
+        "バーチャルYouTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149905232_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149905232",
+      "sourceCreatedAt": "2026-09-20T15:00:14.000Z"
+    },
+    {
       "id": "02744c4a",
       "filename": "pixiv_149892614_p0.jpg",
       "path": "uploads/2026/09/2c3d8beb.jpg",
