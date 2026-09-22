@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "def65b0d",
+      "filename": "pixiv_149904228_p0.jpg",
+      "path": "uploads/2026/09/db186bed.jpg",
+      "size": 738858,
+      "width": 1200,
+      "height": 1104,
+      "mimeType": "image/jpeg",
+      "hash": "7bcadafc79afab113e72dfcb1f0e43cf5c67a29d4fa967f7c96b8cb298da5e49",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T13:28:22.267Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "彰人まとめ9（前）",
+      "tags": [
+        "東雲彰人",
+        "プロセカ",
+        "プロジェクトセカイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149904228_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149904228",
+      "sourceCreatedAt": "2026-09-20T14:39:20.000Z"
+    },
+    {
       "id": "f2e28515",
       "filename": "pixiv_149881176_p0.jpg",
       "path": "uploads/2026/09/25594653.jpg",
