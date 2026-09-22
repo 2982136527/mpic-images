@@ -3,6 +3,28 @@
   "shardId": "19",
   "images": [
     {
+      "id": "953d67e1",
+      "filename": "pixiv_149903038_p0.jpg",
+      "path": "uploads/2026/09/59c72fea.jpg",
+      "size": 448353,
+      "width": 1081,
+      "height": 971,
+      "mimeType": "image/jpeg",
+      "hash": "1ba67b9bb6e9aa614fe2d9c3ec3fda9c408eacef4024ebd4b16b6802286c6dfc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:47:09.583Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🍹",
+      "tags": [
+        "アスカガ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149903038_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149903038",
+      "sourceCreatedAt": "2026-09-20T14:13:45.000Z"
+    },
+    {
       "id": "a5e4252a",
       "filename": "pixiv_149885993_p0.jpg",
       "path": "uploads/2026/09/3e6e9c6b.jpg",
