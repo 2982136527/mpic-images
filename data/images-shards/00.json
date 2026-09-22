@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "5c36675f",
+      "filename": "pixiv_149883416_p0.jpg",
+      "path": "uploads/2026/09/277e06b6.jpg",
+      "size": 1266252,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e7b95974fdce329f9aac1a99f64d6e0c28eb0f8e32d5c13bf660dfced53370e6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T19:42:15.742Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "夢みるアリス",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "少女",
+        "創作",
+        "金髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149883416_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149883416",
+      "sourceCreatedAt": "2026-09-20T06:03:19.000Z"
+    },
+    {
       "id": "63967de1",
       "filename": "pixiv_149862277_p0.jpg",
       "path": "uploads/2026/09/b6e40c6f.jpg",
