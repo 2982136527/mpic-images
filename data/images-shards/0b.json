@@ -3,6 +3,28 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "1d036ee5",
+      "filename": "pixiv_149891419_p0.jpg",
+      "path": "uploads/2026/09/ef7e1163.jpg",
+      "size": 701784,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "3db7ba78368a2b2c2b6100696a5ba6fd3c5f0970f1d6f1c85956e43686dd1691",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:45:12.186Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "牢帕",
+      "tags": [
+        "アルミオシオンの医術師"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149891419_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149891419",
+      "sourceCreatedAt": "2026-09-20T10:02:37.000Z"
+    },
+    {
       "id": "fe4fd290",
       "filename": "pixiv_149894987_p0.jpg",
       "path": "uploads/2026/09/4b016ef4.jpg",
