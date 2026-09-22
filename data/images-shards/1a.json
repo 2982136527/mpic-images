@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "1c5efaed",
+      "filename": "pixiv_149904213_p0.jpg",
+      "path": "uploads/2026/09/dafb90cb.jpg",
+      "size": 1341166,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "e3a119dbd87555dd30116ca0841493cf90c6f20fa965e21cc50c17fa467002d6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:47:50.694Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Like Before",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149904213_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149904213",
+      "sourceCreatedAt": "2026-09-20T14:38:50.000Z"
+    },
+    {
       "id": "1f91787f",
       "filename": "pixiv_149913096_p0.jpg",
       "path": "uploads/2026/09/2e63af1a.jpg",
