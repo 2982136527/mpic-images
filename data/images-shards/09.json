@@ -3,6 +3,37 @@
   "shardId": "09",
   "images": [
     {
+      "id": "2f6dafa0",
+      "filename": "pixiv_149748870_p0.jpg",
+      "path": "uploads/2026/09/161ef041.jpg",
+      "size": 948930,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fa747062e399cec273502b027ad1698260cff828a5e40a93c185cf65e3be2e0d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:49:41.465Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "暁美ほむら(アジト服)",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "まどマギ",
+        "魔法少女まどかマギカ",
+        "ワルプルギスの廻天",
+        "暁美ほむら",
+        "ほむら",
+        "PuellaMagiMadokaMagica",
+        "イラスト",
+        "黒髪",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149748870_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149748870",
+      "sourceCreatedAt": "2026-09-16T14:51:24.000Z"
+    },
+    {
       "id": "f63e2c4e",
       "filename": "pixiv_149929935_p0.jpg",
       "path": "uploads/2026/09/6d4a5dee.jpg",
