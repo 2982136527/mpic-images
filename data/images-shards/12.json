@@ -3,6 +3,28 @@
   "shardId": "12",
   "images": [
     {
+      "id": "40cf0109",
+      "filename": "pixiv_149918439_p0.jpg",
+      "path": "uploads/2026/09/6deeba97.jpg",
+      "size": 625894,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "76d6acf78aa575dd2ffbed78585cfaf5213053dd9d4b7b74b233b980ecbbf10a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T19:50:23.467Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "落書き",
+      "tags": [
+        "秋田のメスガキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149918439_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149918439",
+      "sourceCreatedAt": "2026-09-21T01:00:42.000Z"
+    },
+    {
       "id": "72c6f411",
       "filename": "pixiv_149905157_p0.jpg",
       "path": "uploads/2026/09/f614d9c5.jpg",
