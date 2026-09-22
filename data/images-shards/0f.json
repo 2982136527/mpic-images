@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "1d9f130f",
+      "filename": "pixiv_149892229_p0.jpg",
+      "path": "uploads/2026/09/349f9558.jpg",
+      "size": 790158,
+      "width": 738,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8512d0eb30452d99d34375659bf9ef508516c3b6c3fa7414080da2e9d2a34d64",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:42:51.435Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "朝倉藤四郎",
+      "tags": [
+        "朝倉藤四郎(刀剣乱舞)",
+        "朝倉藤四郎",
+        "刀剣乱舞",
+        "作者は高速槍"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149892229_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149892229",
+      "sourceCreatedAt": "2026-09-20T10:25:05.000Z"
+    },
+    {
       "id": "bd3dede1",
       "filename": "pixiv_149814468_p0.jpg",
       "path": "uploads/2026/09/d44eb7d5.jpg",
