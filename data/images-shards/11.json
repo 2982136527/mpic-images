@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "96cb637a",
+      "filename": "pixiv_149893753_p0.jpg",
+      "path": "uploads/2026/09/c9791694.jpg",
+      "size": 1013726,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c68cc80f353714f8ab521ff108b4de7a211832656faaad0bba33420e0eb8c699",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T19:46:38.318Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "シェリー",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "まのさば",
+        "橘シェリー",
+        "女の子",
+        "まのさば100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149893753_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149893753",
+      "sourceCreatedAt": "2026-09-20T11:00:51.000Z"
+    },
+    {
       "id": "0f995001",
       "filename": "pixiv_149875992_p0.jpg",
       "path": "uploads/2026/09/51905adc.jpg",
