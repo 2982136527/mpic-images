@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "8f20cce1",
+      "filename": "pixiv_149911577_p0.jpg",
+      "path": "uploads/2026/09/23cce7d3.jpg",
+      "size": 1098623,
+      "width": 941,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d1d4ab6d973c642503dea0f65e17528d726ef5318e8633b13a29d91c2acb2265",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:42:30.334Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "왜, 영화가 눈에 안들어와?",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "잔느"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149911577_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149911577",
+      "sourceCreatedAt": "2026-09-20T18:17:09.000Z"
+    },
+    {
       "id": "b63215ab",
       "filename": "pixiv_149852469_p0.jpg",
       "path": "uploads/2026/09/8d820ce2.jpg",
