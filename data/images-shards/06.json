@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "29d2a56f",
+      "filename": "pixiv_149916995_p0.jpg",
+      "path": "uploads/2026/09/51cd1476.jpg",
+      "size": 821291,
+      "width": 624,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "356e0e503a65145156c75910d5040e554889f137e16ac7470637e269490ce77d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T13:25:30.667Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "蛸足",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子",
+        "タコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149916995_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149916995",
+      "sourceCreatedAt": "2026-09-20T23:53:50.000Z"
+    },
+    {
       "id": "de2e4379",
       "filename": "pixiv_149862047_p0.jpg",
       "path": "uploads/2026/09/7fba8681.jpg",
