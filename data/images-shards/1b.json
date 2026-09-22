@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "2aab80a7",
+      "filename": "pixiv_149890883_p0.jpg",
+      "path": "uploads/2026/09/e8a9e139.jpg",
+      "size": 1182965,
+      "width": 976,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9e92a382e1e3a5e08ead9292e6a2b572b5a6a5f294398d83af8859238e673442",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T13:22:17.466Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "OC",
+        "黑丝",
+        "女の子",
+        "苏筱白"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149890883_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149890883",
+      "sourceCreatedAt": "2026-09-20T09:51:39.000Z"
+    },
+    {
       "id": "4c04949a",
       "filename": "pixiv_149945560_p0.jpg",
       "path": "uploads/2026/09/41cfb61f.jpg",
