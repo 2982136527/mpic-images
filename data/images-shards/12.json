@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "ef5e33f2",
+      "filename": "pixiv_149893145_p0.jpg",
+      "path": "uploads/2026/09/56bc1c72.jpg",
+      "size": 794049,
+      "width": 686,
+      "height": 1197,
+      "mimeType": "image/jpeg",
+      "hash": "8ea62ff65e7ebe41bc226a3a0e2cf4c5f73da4c095d5df1799b26bbef925f2e7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:51:02.420Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "アイス好きシロナさん",
+      "tags": [
+        "ポケモン",
+        "ポケットモンスター",
+        "pokemon",
+        "シロナ",
+        "バイバニラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149893145_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149893145",
+      "sourceCreatedAt": "2026-09-20T10:48:49.000Z"
+    },
+    {
       "id": "e0ce6aae",
       "filename": "pixiv_148877079_p0.jpg",
       "path": "uploads/2026/09/7e6362e0.jpg",
