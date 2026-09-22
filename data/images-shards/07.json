@@ -3,6 +3,32 @@
   "shardId": "07",
   "images": [
     {
+      "id": "5cc6e1a6",
+      "filename": "pixiv_149910800_p0.jpg",
+      "path": "uploads/2026/09/844cbe6d.jpg",
+      "size": 631904,
+      "width": 806,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bef8666c52f287a27eff31a0ed62fa70cae29125cbbb7b9c4be9e962f213d050",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:47:57.600Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Another Lauma",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "菈乌玛",
+        "Lauma",
+        "角娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149910800_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149910800",
+      "sourceCreatedAt": "2026-09-20T17:38:44.000Z"
+    },
+    {
       "id": "522b6371",
       "filename": "pixiv_149908748_p0.jpg",
       "path": "uploads/2026/09/bc76419e.jpg",
