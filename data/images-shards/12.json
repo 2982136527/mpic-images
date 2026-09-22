@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "efc67958",
+      "filename": "pixiv_149872295_p0.jpg",
+      "path": "uploads/2026/09/853a011a.jpg",
+      "size": 1213690,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "96408f5489218efb0577a90e04b4eaa2559df75812a5f179de01af6c2b7e3c0c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T13:24:31.118Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "スケブ納品物748",
+      "tags": [
+        "女の子",
+        "Skeb",
+        "VTuber",
+        "向日守ぽた"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149872295_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149872295",
+      "sourceCreatedAt": "2026-09-19T22:35:33.000Z"
+    },
+    {
       "id": "ef5e33f2",
       "filename": "pixiv_149893145_p0.jpg",
       "path": "uploads/2026/09/56bc1c72.jpg",
