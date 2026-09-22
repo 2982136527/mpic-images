@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "03fadb8c",
+      "filename": "pixiv_149906030_p0.jpg",
+      "path": "uploads/2026/09/45567167.jpg",
+      "size": 733176,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f8aa8aabf7a47c51fcae5c971c8b99a48df48dfd9798b2eccb00cb29988cc04b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:47:43.960Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ロッシちゃん",
+      "tags": [
+        "アークナイツ:エンドフィールド",
+        "ロッシ(エンドフィールド)",
+        "终末地"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149906030_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149906030",
+      "sourceCreatedAt": "2026-09-20T15:09:04.000Z"
+    },
+    {
       "id": "25b29c39",
       "filename": "pixiv_149890839_p0.jpg",
       "path": "uploads/2026/09/3c4d7898.jpg",
