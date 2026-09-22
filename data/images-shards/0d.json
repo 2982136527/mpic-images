@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "c6e05a81",
+      "filename": "pixiv_149864532_p0.jpg",
+      "path": "uploads/2026/09/4ec76a4d.jpg",
+      "size": 1152206,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b976ce3742ccdaa0d37ebbf03c4d9fc78749c6f1f2196c8d0c1fa843f9556534",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:44:40.777Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "女の子",
+        "清宵",
+        "WutheringWaves",
+        "鸣潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149864532_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149864532",
+      "sourceCreatedAt": "2026-09-19T15:48:58.000Z"
+    },
+    {
       "id": "6064ab3f",
       "filename": "pixiv_149937723_p0.jpg",
       "path": "uploads/2026/09/47807f5d.jpg",
