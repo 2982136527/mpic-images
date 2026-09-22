@@ -3,6 +3,37 @@
   "shardId": "01",
   "images": [
     {
+      "id": "8b46df6b",
+      "filename": "pixiv_149916469_p0.jpg",
+      "path": "uploads/2026/09/ab29b44e.jpg",
+      "size": 1512061,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "362ca2b77cd54f2c2c6de41a8dfd722aac75f88dd7a30dc1a6a3dacac379f715",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T13:21:24.929Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "キュアスカイ",
+      "tags": [
+        "プリキュア",
+        "precure",
+        "ひろがるスカイ!プリキュア",
+        "ひろがるスカイプリキュア",
+        "ひろプリ",
+        "キュアスカイ",
+        "ソラ・ハレワタール",
+        "プリキュア100users入り",
+        "ひろプリ100users入り",
+        "キュアスカイ生誕祭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149916469_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149916469",
+      "sourceCreatedAt": "2026-09-20T23:22:58.000Z"
+    },
+    {
       "id": "d12688c9",
       "filename": "pixiv_149897404_p0.jpg",
       "path": "uploads/2026/09/dd96b5c8.jpg",
