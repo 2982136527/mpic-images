@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "ad1b6352",
+      "filename": "pixiv_149915823_p0.jpg",
+      "path": "uploads/2026/09/91a86ac6.jpg",
+      "size": 284373,
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/jpeg",
+      "hash": "baaa15afaa5dacc56358f5230feba4434971f7c7f3f5f039838a34e9e1f43d41",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:47:24.080Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "篠澤広",
+      "tags": [
+        "篠澤広",
+        "学園アイドルマスター",
+        "モナ・リザ",
+        "アイマス1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149915823_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149915823",
+      "sourceCreatedAt": "2026-09-20T22:49:29.000Z"
+    },
+    {
       "id": "1a5b16a2",
       "filename": "pixiv_149927950_p0.jpg",
       "path": "uploads/2026/09/88a2bd12.jpg",
