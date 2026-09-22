@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "2ae91f63",
+      "filename": "pixiv_149905456_p0.jpg",
+      "path": "uploads/2026/09/bc17cbe8.jpg",
+      "size": 1130957,
+      "width": 736,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "516a5abae393a721dcd525fb601e5aaf9fe8f0e0fb0eb8fbd132a5e5e7da55c4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:42:58.166Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ウサギとキャロットケーキ",
+      "tags": [
+        "東方",
+        "レミリア・スカーレット",
+        "フランドール・スカーレット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149905456_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149905456",
+      "sourceCreatedAt": "2026-09-20T15:01:21.000Z"
+    },
+    {
       "id": "f54385a4",
       "filename": "pixiv_149943584_p0.jpg",
       "path": "uploads/2026/09/e4310fe1.jpg",
