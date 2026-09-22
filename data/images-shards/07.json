@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "d269e2fe",
+      "filename": "pixiv_149891618_p0.jpg",
+      "path": "uploads/2026/09/2ee5cba2.jpg",
+      "size": 760494,
+      "width": 1200,
+      "height": 1003,
+      "mimeType": "image/jpeg",
+      "hash": "850eb7e59564516d92bf6e5c275e127720fd4dd88a245c8858226e9ec0748cee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:48:42.662Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "画商コンビ",
+      "tags": [
+        "イラスト",
+        "創作",
+        "オリジナル",
+        "漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149891618_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149891618",
+      "sourceCreatedAt": "2026-09-20T10:07:23.000Z"
+    },
+    {
       "id": "5cc6e1a6",
       "filename": "pixiv_149910800_p0.jpg",
       "path": "uploads/2026/09/844cbe6d.jpg",
