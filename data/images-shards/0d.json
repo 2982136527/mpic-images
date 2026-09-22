@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "6064ab3f",
+      "filename": "pixiv_149937723_p0.jpg",
+      "path": "uploads/2026/09/47807f5d.jpg",
+      "size": 1367587,
+      "width": 1200,
+      "height": 1172,
+      "mimeType": "image/jpeg",
+      "hash": "5de93989c1c51c0fbe7662d2ca8e96c085eda7ef85b7890916768a36b45b085a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:43:28.882Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "キーボード少女",
+      "tags": [
+        "オリジナル",
+        "キートップ",
+        "キーボード"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149937723_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149937723",
+      "sourceCreatedAt": "2026-09-21T11:30:02.000Z"
+    },
+    {
       "id": "2ae91f63",
       "filename": "pixiv_149905456_p0.jpg",
       "path": "uploads/2026/09/bc17cbe8.jpg",
