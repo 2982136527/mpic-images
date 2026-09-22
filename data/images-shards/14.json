@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "56d3e926",
+      "filename": "pixiv_149918311_p0.jpg",
+      "path": "uploads/2026/09/0c768ab0.jpg",
+      "size": 1355985,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "acbfa5dc2de19b53a14a000e05ffd46108c3dea2b1cdb8b1dfe0aaf1a336c66a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T19:51:07.263Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ロエルカまとめ",
+      "tags": [
+        "ロエルカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149918311_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149918311",
+      "sourceCreatedAt": "2026-09-21T00:57:46.000Z"
+    },
+    {
       "id": "58a2947a",
       "filename": "pixiv_149911035_p0.jpg",
       "path": "uploads/2026/09/03341547.jpg",
