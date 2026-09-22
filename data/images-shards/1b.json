@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "4c04949a",
+      "filename": "pixiv_149945560_p0.jpg",
+      "path": "uploads/2026/09/41cfb61f.jpg",
+      "size": 1366857,
+      "width": 1091,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1cad8c0ea7471769646ba91d6370ab049a5f78b40534c1c1167ea7919b3caa1c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:45:19.408Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Welcome, Bryan.",
+      "tags": [
+        "Residentevil",
+        "バイオハザード",
+        "Biohazard",
+        "グレース・アッシュクロフト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149945560_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149945560",
+      "sourceCreatedAt": "2026-09-21T14:10:52.000Z"
+    },
+    {
       "id": "356da16d",
       "filename": "pixiv_149854336_p0.jpg",
       "path": "uploads/2026/09/72adf049.jpg",
