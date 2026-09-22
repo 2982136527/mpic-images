@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "ab4690db",
+      "filename": "pixiv_149907185_p0.jpg",
+      "path": "uploads/2026/09/f7dff885.jpg",
+      "size": 1390999,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d67f4a4bd62b0bfac8eebc8ab9d2be62a98a181f7619b2778bfe09c4ed9e870d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:44:33.968Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "読書の秋",
+      "tags": [
+        "ポケモン",
+        "ガラル探検隊",
+        "メガガルーラ",
+        "カラカラ",
+        "なにこの仔たちかわいい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149907185_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149907185",
+      "sourceCreatedAt": "2026-09-20T15:35:33.000Z"
+    },
+    {
       "id": "7bd6d61e",
       "filename": "pixiv_149861357_p0.jpg",
       "path": "uploads/2026/09/de67f72c.jpg",
