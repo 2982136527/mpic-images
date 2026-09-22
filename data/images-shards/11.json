@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "6a956934",
+      "filename": "pixiv_149924772_p0.jpg",
+      "path": "uploads/2026/09/9082ca5f.jpg",
+      "size": 1052289,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "61cfcf8e7c9bab815c826c0dbb787ce854c7cdac744c60dee40cc74ab4d29050",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T19:50:50.346Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ヴィルシーナは隠したい",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "ヴィルシーナ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149924772_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149924772",
+      "sourceCreatedAt": "2026-09-21T05:11:32.000Z"
+    },
+    {
       "id": "ed2efb86",
       "filename": "pixiv_149928564_p0.jpg",
       "path": "uploads/2026/09/f37355ac.jpg",
