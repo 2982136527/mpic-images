@@ -3,6 +3,28 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "8ff068c7",
+      "filename": "pixiv_149890263_p0.jpg",
+      "path": "uploads/2026/09/001894c0.jpg",
+      "size": 557381,
+      "width": 871,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6783b5d340ce22be5abc3f46d0db702bfe622aed367dc40d4a71b7698b81509b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:43:07.989Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "妄想ゴッホコラボカフェメニュー",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149890263_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149890263",
+      "sourceCreatedAt": "2026-09-20T09:31:44.000Z"
+    },
+    {
       "id": "1d9f130f",
       "filename": "pixiv_149892229_p0.jpg",
       "path": "uploads/2026/09/349f9558.jpg",
