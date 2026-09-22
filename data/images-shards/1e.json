@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "9fed8cbd",
+      "filename": "pixiv_149890961_p0.jpg",
+      "path": "uploads/2026/09/c83d56c7.jpg",
+      "size": 711254,
+      "width": 1200,
+      "height": 684,
+      "mimeType": "image/jpeg",
+      "hash": "93a30d128c7dd193875a5e441a304cef44d27a65193e7e039d089e6b25282a96",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:42:15.166Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "AUORP",
+        "創作",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149890961_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149890961",
+      "sourceCreatedAt": "2026-09-20T09:54:12.000Z"
+    },
+    {
       "id": "e9a30cb1",
       "filename": "pixiv_149859285_p0.jpg",
       "path": "uploads/2026/09/1d3ebf70.jpg",
