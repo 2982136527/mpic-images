@@ -3,6 +3,35 @@
   "shardId": "19",
   "images": [
     {
+      "id": "02b753b6",
+      "filename": "pixiv_149937501_p0.jpg",
+      "path": "uploads/2026/09/c4cd13fc.jpg",
+      "size": 280184,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a91bb01e7c655d1a4b4f38486046b8ce60fef91be82808cbece7bfe91c970f8b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T19:51:22.295Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Maidronii",
+      "tags": [
+        "Hololive",
+        "HololiveEN",
+        "kronillust",
+        "クロニーラ",
+        "VTuber",
+        "fanart",
+        "illustration",
+        "girl"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149937501_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149937501",
+      "sourceCreatedAt": "2026-09-21T11:24:31.000Z"
+    },
+    {
       "id": "bcdc6e79",
       "filename": "pixiv_149922898_p0.jpg",
       "path": "uploads/2026/09/46d40800.jpg",
