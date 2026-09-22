@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "2d4f527d",
+      "filename": "pixiv_149905142_p0.jpg",
+      "path": "uploads/2026/09/ed15939c.jpg",
+      "size": 523119,
+      "width": 768,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f6d7fbf177ad9ddbfe708f8acfd654f01564880cd4b354ca510598f03cbacc76",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:43:42.099Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "すきありっ。",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149905142_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149905142",
+      "sourceCreatedAt": "2026-09-20T15:00:01.000Z"
+    },
+    {
       "id": "f2e963a8",
       "filename": "pixiv_149848271_p0.jpg",
       "path": "uploads/2026/09/3d4a1dce.jpg",
