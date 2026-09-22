@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "b47ad24a",
+      "filename": "pixiv_149906826_p0.jpg",
+      "path": "uploads/2026/09/1e253c12.jpg",
+      "size": 1294073,
+      "width": 1200,
+      "height": 910,
+      "mimeType": "image/jpeg",
+      "hash": "5beca87c8a457ae3317790f1e1ab52b5b2a852dc2a8214d27fe2266422a784ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T13:28:02.813Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "縁側レジェンド",
+      "tags": [
+        "Splatoon",
+        "スプラトゥーン",
+        "3号(Splatoon)",
+        "8号(Splatoon)",
+        "アタリメ司令",
+        "タコワサ将軍"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149906826_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149906826",
+      "sourceCreatedAt": "2026-09-20T15:27:41.000Z"
+    },
+    {
       "id": "fd94ff93",
       "filename": "pixiv_149939914_p0.jpg",
       "path": "uploads/2026/09/8a54d6ce.jpg",
