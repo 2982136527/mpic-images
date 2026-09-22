@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "b23578ca",
+      "filename": "pixiv_149887137_p0.jpg",
+      "path": "uploads/2026/09/4ab11336.jpg",
+      "size": 624344,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "663a9f2517d656947f1f07ca3b1a6f26220e4661ec1be8ccfdd4ac91fde2e357",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T19:50:42.342Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "いいなり彼女",
+      "tags": [
+        "制服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149887137_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149887137",
+      "sourceCreatedAt": "2026-09-20T08:07:06.000Z"
+    },
+    {
       "id": "a82768ae",
       "filename": "pixiv_149916797_p0.jpg",
       "path": "uploads/2026/09/4485bbd1.jpg",
