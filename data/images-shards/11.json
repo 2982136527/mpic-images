@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "e4a93b8b",
+      "filename": "pixiv_149926849_p0.jpg",
+      "path": "uploads/2026/09/eb785050.jpg",
+      "size": 596236,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "3ed4f32b7c20d3b21fae1354b828a2f87353d0217a23a648785d71d3c8e1b522",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T13:25:04.445Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "体の描き方が分からない人へ",
+      "tags": [
+        "描き方",
+        "コツ",
+        "ハウツー",
+        "ノウハウ",
+        "上達法",
+        "練習法"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149926849_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149926849",
+      "sourceCreatedAt": "2026-09-21T06:30:52.000Z"
+    },
+    {
       "id": "39556f94",
       "filename": "pixiv_149904797_p0.jpg",
       "path": "uploads/2026/09/b094de60.jpg",
