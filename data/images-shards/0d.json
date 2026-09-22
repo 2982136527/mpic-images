@@ -3,6 +3,32 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "e7ad72ad",
+      "filename": "pixiv_149927163_p0.jpg",
+      "path": "uploads/2026/09/d05db1ef.jpg",
+      "size": 1459487,
+      "width": 934,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3a85d82445c4de051bd3571b62890ab0263b063c70a4428bec45391d774e77ab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T04:44:57.718Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Firefly",
+      "tags": [
+        "HonkaiStarRail",
+        "崩壊スターレイル",
+        "Firefly",
+        "流萤",
+        "ホタル(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149927163_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149927163",
+      "sourceCreatedAt": "2026-09-21T06:43:18.000Z"
+    },
+    {
       "id": "c6e05a81",
       "filename": "pixiv_149864532_p0.jpg",
       "path": "uploads/2026/09/4ec76a4d.jpg",
