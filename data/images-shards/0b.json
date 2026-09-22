@@ -3,6 +3,28 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "4efa7626",
+      "filename": "pixiv_149866076_p0.jpg",
+      "path": "uploads/2026/09/b079e240.jpg",
+      "size": 442269,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dbe1179c89152acc3fe997da3cd1285a747b93e7bd8a59df6b9298b486dedd58",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T13:23:15.228Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "団地に、原爆を作る2",
+      "tags": [
+        "漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149866076_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149866076",
+      "sourceCreatedAt": "2026-09-19T16:34:32.000Z"
+    },
+    {
       "id": "1d036ee5",
       "filename": "pixiv_149891419_p0.jpg",
       "path": "uploads/2026/09/ef7e1163.jpg",
