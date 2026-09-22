@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "d8ba2a90",
+      "filename": "pixiv_149883175_p0.jpg",
+      "path": "uploads/2026/09/fc26e22e.jpg",
+      "size": 390250,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2c6dc5404d634eef77b88ec66fc4872b49dac236214d544ac488b430a702f5f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-22T13:26:16.980Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "もふもふうふ",
+      "tags": [
+        "もふもふうふ",
+        "フクッチ",
+        "真の点P"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149883175_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149883175",
+      "sourceCreatedAt": "2026-09-20T05:56:12.000Z"
+    },
+    {
       "id": "929e998c",
       "filename": "pixiv_149934128_p0.jpg",
       "path": "uploads/2026/09/c76e3bd9.jpg",
