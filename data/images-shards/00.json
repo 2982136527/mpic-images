@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "ffc4c09b",
+      "filename": "pixiv_149965125_p0.jpg",
+      "path": "uploads/2026/09/3ac8c0d0.jpg",
+      "size": 1017036,
+      "width": 1053,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "50ba56260312fd30e930e7139efe86c361229f897bab9b9c488e6fde19d0ad02",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:40:09.359Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "石神のぞみ",
+      "tags": [
+        "バーチャルYouTuber",
+        "にじさんじ",
+        "VTuber",
+        "石神のぞみ",
+        "にじさんじ共通衣装"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149965125_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149965125",
+      "sourceCreatedAt": "2026-09-22T03:43:14.000Z"
+    },
+    {
       "id": "0a2d66aa",
       "filename": "pixiv_149891036_p0.jpg",
       "path": "uploads/2026/09/e387c849.jpg",
