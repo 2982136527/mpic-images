@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "1f3589fa",
+      "filename": "pixiv_149948189_p0.jpg",
+      "path": "uploads/2026/09/e0ea5e23.jpg",
+      "size": 868813,
+      "width": 781,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cf026fb3dfda8c75df60e53514eb9f8db78b81385c40f9b355b8b0ad12edce02",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T13:40:41.730Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "エタリタ",
+      "tags": [
+        "EternalReturn:BlackSurvival",
+        "이터널리턴",
+        "루치아",
+        "エターナルリターン",
+        "エタリタ",
+        "Lucia"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149948189_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149948189",
+      "sourceCreatedAt": "2026-09-21T15:02:35.000Z"
+    },
+    {
       "id": "a4d74ac7",
       "filename": "pixiv_149906375_p0.jpg",
       "path": "uploads/2026/09/03206639.jpg",
