@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "f36e15c3",
+      "filename": "pixiv_149909488_p0.jpg",
+      "path": "uploads/2026/09/2fab6a04.jpg",
+      "size": 1299336,
+      "width": 1200,
+      "height": 876,
+      "mimeType": "image/jpeg",
+      "hash": "7178a82b5d6d5aaf87fc8ac01ff2443aa30709f8f23f8343f7d73790166f7795",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T13:43:35.489Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ルカキリ記録Ⅰ",
+      "tags": [
+        "ルカキリ",
+        "原神BL"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149909488_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149909488",
+      "sourceCreatedAt": "2026-09-20T16:46:35.000Z"
+    },
+    {
       "id": "898bf3fe",
       "filename": "pixiv_149942005_p0.jpg",
       "path": "uploads/2026/09/8205e0ba.jpg",
