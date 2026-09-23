@@ -3,6 +3,28 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "0e4aca76",
+      "filename": "pixiv_149953564_p0.jpg",
+      "path": "uploads/2026/09/8f1b2a06.jpg",
+      "size": 517287,
+      "width": 1200,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "cfedb7a2c0e8cc68e242613b0914a5d0e83e16789dbd2a78d457a2cd59e83fb7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:36:15.240Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "生きてる",
+      "tags": [
+        "コナンアウトキャスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149953564_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149953564",
+      "sourceCreatedAt": "2026-09-22T21:03:28.000Z"
+    },
+    {
       "id": "1c6bec47",
       "filename": "pixiv_149741837_p0.jpg",
       "path": "uploads/2026/09/9773d5b0.jpg",
