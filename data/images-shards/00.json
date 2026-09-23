@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "65f4626b",
+      "filename": "pixiv_149948790_p0.jpg",
+      "path": "uploads/2026/09/7be3c034.jpg",
+      "size": 472347,
+      "width": 1200,
+      "height": 630,
+      "mimeType": "image/jpeg",
+      "hash": "9b7a7e157340b887860c5cc0669f5cbd164443f208ff72ac24e32bc33a1f4927",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T13:38:24.353Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "エンドフィールドのティフォロスちゃん描く配信",
+      "tags": [
+        "配信告知",
+        "Twitch"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149948790_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149948790",
+      "sourceCreatedAt": "2026-09-21T15:13:43.000Z"
+    },
+    {
       "id": "69a46cd1",
       "filename": "pixiv_149912888_p0.jpg",
       "path": "uploads/2026/09/0916cec1.jpg",
