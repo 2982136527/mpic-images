@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "0af95ed2",
+      "filename": "pixiv_149967749_p0.jpg",
+      "path": "uploads/2026/09/5f104354.jpg",
+      "size": 1171032,
+      "width": 818,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3a77cbf37fae0df4eadde457b9570b8dea96fa8375467717d292a02f6da77d83",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T13:40:07.841Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "秋例大祭13 サンプル/お品書き",
+      "tags": [
+        "東方Project",
+        "東方",
+        "摩多羅隠岐奈",
+        "博麗神社例大祭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149967749_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149967749",
+      "sourceCreatedAt": "2026-09-22T05:28:35.000Z"
+    },
+    {
       "id": "0c2f26fe",
       "filename": "pixiv_149974083_p0.jpg",
       "path": "uploads/2026/09/353ded65.jpg",
