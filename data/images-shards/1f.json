@@ -3,6 +3,28 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "9122396f",
+      "filename": "pixiv_149944738_p0.jpg",
+      "path": "uploads/2026/09/fca8249d.jpg",
+      "size": 1493794,
+      "width": 825,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f38d407aa01f34548c0456295e1486fb3008ca61e1e31d7ad6a5df08171a3733",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T13:40:51.931Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "まとめ　雑",
+      "tags": [
+        "まとめ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149944738_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149944738",
+      "sourceCreatedAt": "2026-09-21T13:54:20.000Z"
+    },
+    {
       "id": "b6866efc",
       "filename": "pixiv_149980989_p0.jpg",
       "path": "uploads/2026/09/fffacf87.jpg",
