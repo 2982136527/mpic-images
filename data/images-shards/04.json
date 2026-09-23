@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "a091ba80",
+      "filename": "pixiv_149965836_p0.jpg",
+      "path": "uploads/2026/09/6ac4adad.jpg",
+      "size": 587807,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ca94f3eff8ada1ba79120fde10fc3b95a7df107e3c77ffe3f55bcad3d5de828a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T19:47:11.036Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "驯子",
+      "tags": [
+        "東方Project",
+        "東方",
+        "道神馴子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149965836_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149965836",
+      "sourceCreatedAt": "2026-09-22T04:11:11.000Z"
+    },
+    {
       "id": "0af95ed2",
       "filename": "pixiv_149967749_p0.jpg",
       "path": "uploads/2026/09/5f104354.jpg",
