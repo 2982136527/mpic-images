@@ -3,6 +3,36 @@
   "shardId": "11",
   "images": [
     {
+      "id": "f32ff92a",
+      "filename": "pixiv_149923759_p0.jpg",
+      "path": "uploads/2026/09/746569e2.jpg",
+      "size": 971487,
+      "width": 1200,
+      "height": 662,
+      "mimeType": "image/jpeg",
+      "hash": "6e5002661943cc2df1d37d4c8c3043c5f26a4874dee66254163e8b2d8e7b120d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T19:44:34.636Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "誕生日",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "オカルト研究部",
+        "衣斐レナ",
+        "白尾エリ",
+        "板垣カノエ",
+        "椎名ツムギ",
+        "ワイルドハント芸術学院のモブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149923759_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149923759",
+      "sourceCreatedAt": "2026-09-21T04:31:05.000Z"
+    },
+    {
       "id": "d9b1665b",
       "filename": "pixiv_149972929_p0.jpg",
       "path": "uploads/2026/09/bc4b4bb3.jpg",
