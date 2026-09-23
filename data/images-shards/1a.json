@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "ee863558",
+      "filename": "pixiv_149951341_p0.jpg",
+      "path": "uploads/2026/09/7ea347ea.jpg",
+      "size": 616314,
+      "width": 958,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d539065a4fd9778b34cef9603bec8aaa12a4d5e8f3ba37fffb19d42c3110e90a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T13:40:20.395Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "パーカーりんちゃん",
+      "tags": [
+        "落書き",
+        "鏡音リン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149951341_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149951341",
+      "sourceCreatedAt": "2026-09-21T16:16:50.000Z"
+    },
+    {
       "id": "d45ec576",
       "filename": "pixiv_149943712_p0.jpg",
       "path": "uploads/2026/09/ab7e810b.jpg",
