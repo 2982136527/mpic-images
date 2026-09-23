@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "3831a911",
+      "filename": "pixiv_149965508_p0.jpg",
+      "path": "uploads/2026/09/347e77b8.jpg",
+      "size": 1077498,
+      "width": 896,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "67e81ab9b108a480d7355e79962e605753dd53d6b9962249377c2877110937fe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T13:38:34.583Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ヒーローちゃん",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149965508_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149965508",
+      "sourceCreatedAt": "2026-09-22T03:59:19.000Z"
+    },
+    {
       "id": "79510248",
       "filename": "pixiv_149965448_p0.jpg",
       "path": "uploads/2026/09/8e2a7f99.jpg",
