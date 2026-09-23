@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "b539f0a6",
+      "filename": "pixiv_149952530_p0.jpg",
+      "path": "uploads/2026/09/c06606ff.jpg",
+      "size": 1011068,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5418075b86c35787dee567fae02b7c21e2507f633226259643e83d148fc14f2e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T13:36:12.381Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ペンギンと写真家",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "ペンギン",
+        "南極"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149952530_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149952530",
+      "sourceCreatedAt": "2026-09-21T16:59:04.000Z"
+    },
+    {
       "id": "75eb60ca",
       "filename": "pixiv_149965716_p0.jpg",
       "path": "uploads/2026/09/4a3430ef.jpg",
