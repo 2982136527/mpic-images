@@ -3,6 +3,32 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "007aa227",
+      "filename": "pixiv_149968779_p0.jpg",
+      "path": "uploads/2026/09/e2545031.jpg",
+      "size": 1128784,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "5cfa2c5aed1793bb57c12fa29e3438d648eab65c6682d5326ae85b8bf2e09657",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T19:39:58.383Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "風景",
+        "空",
+        "電線"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149968779_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149968779",
+      "sourceCreatedAt": "2026-09-22T06:09:30.000Z"
+    },
+    {
       "id": "b67b9d11",
       "filename": "pixiv_149976961_p0.jpg",
       "path": "uploads/2026/09/4c0690cd.jpg",
