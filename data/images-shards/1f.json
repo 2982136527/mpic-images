@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "b6866efc",
+      "filename": "pixiv_149980989_p0.jpg",
+      "path": "uploads/2026/09/fffacf87.jpg",
+      "size": 548979,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "85969c529549d9a90919d1fdd9a4f116fa6049d36b564c921d2ea5c4df843eaf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:43:47.987Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子",
+        "白と黒"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149980989_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149980989",
+      "sourceCreatedAt": "2026-09-22T12:03:43.000Z"
+    },
+    {
       "id": "df43545c",
       "filename": "pixiv_149905663_p0.jpg",
       "path": "uploads/2026/09/955d0e12.jpg",
