@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "c95ca47c",
+      "filename": "pixiv_149955654_p0.jpg",
+      "path": "uploads/2026/09/228b23bd.jpg",
+      "size": 674545,
+      "width": 542,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d49dbfc07399b8bffa11a3af2c40ef4d98e7eec1602235a88dcd23c629da80fc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:41:28.068Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "さよならララ",
+      "tags": [
+        "さよならララ",
+        "大津茉里",
+        "まりララ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149955654_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149955654",
+      "sourceCreatedAt": "2026-09-21T19:57:34.000Z"
+    },
+    {
       "id": "b924b5c1",
       "filename": "pixiv_149956845_p0.jpg",
       "path": "uploads/2026/09/2593d179.jpg",
