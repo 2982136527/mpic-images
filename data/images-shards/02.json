@@ -3,6 +3,34 @@
   "shardId": "02",
   "images": [
     {
+      "id": "655226bf",
+      "filename": "pixiv_149946212_p0.jpg",
+      "path": "uploads/2026/09/fdb8b510.jpg",
+      "size": 498420,
+      "width": 1200,
+      "height": 838,
+      "mimeType": "image/jpeg",
+      "hash": "2623708d70249ff10fd3de33829eb21903f6893048a34a9de5bb8ce1807d48dd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:42:01.066Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "リンバスログ10",
+      "tags": [
+        "Limbus_Company",
+        "クロシン(リンバス)",
+        "クローマー",
+        "シンクレア",
+        "ヴァレンチーナ",
+        "ルチオ",
+        "LimbusCompany"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149946212_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149946212",
+      "sourceCreatedAt": "2026-09-21T14:24:03.000Z"
+    },
+    {
       "id": "81f78997",
       "filename": "pixiv_149907491_p0.jpg",
       "path": "uploads/2026/09/8cea446c.jpg",
