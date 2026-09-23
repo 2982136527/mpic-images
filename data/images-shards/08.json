@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "c8b5aaf4",
+      "filename": "pixiv_149965462_p0.jpg",
+      "path": "uploads/2026/09/898ff7a8.jpg",
+      "size": 1104572,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "566a244255e2d1eef276dd2d28f83a19034db70ea5d825e3fd1150c30f415c15",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:39:08.258Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "藍鵲兒",
+      "tags": [
+        "少女",
+        "花",
+        "雷索納斯",
+        "藍鵲兒"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149965462_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149965462",
+      "sourceCreatedAt": "2026-09-22T03:57:29.000Z"
+    },
+    {
       "id": "b3789ce9",
       "filename": "pixiv_149947902_p0.jpg",
       "path": "uploads/2026/09/ccc2be15.jpg",
