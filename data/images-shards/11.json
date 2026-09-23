@@ -3,6 +3,37 @@
   "shardId": "11",
   "images": [
     {
+      "id": "3f111fcd",
+      "filename": "pixiv_149963694_p0.jpg",
+      "path": "uploads/2026/09/9800a33d.jpg",
+      "size": 799827,
+      "width": 1200,
+      "height": 511,
+      "mimeType": "image/jpeg",
+      "hash": "d5151ff861d7320bcadb6d5e5d3e6663c1cdf1ab53c4a32e218c40da3eb2b324",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:38:08.509Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "夏の化石",
+      "tags": [
+        "創作",
+        "ファンタジー",
+        "オリジナル",
+        "コンセプトアート",
+        "背景",
+        "風景",
+        "空",
+        "イラスト",
+        "ドラゴン",
+        "雲"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149963694_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149963694",
+      "sourceCreatedAt": "2026-09-22T02:53:19.000Z"
+    },
+    {
       "id": "6a956934",
       "filename": "pixiv_149924772_p0.jpg",
       "path": "uploads/2026/09/9082ca5f.jpg",
