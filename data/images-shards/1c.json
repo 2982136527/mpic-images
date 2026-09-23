@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "245bc7ac",
+      "filename": "pixiv_149947935_p0.jpg",
+      "path": "uploads/2026/09/a6c1cf39.jpg",
+      "size": 832125,
+      "width": 1018,
+      "height": 1134,
+      "mimeType": "image/jpeg",
+      "hash": "3e91babcc890dacc15611ad50430cd3f72f7972ef937a914b795d3f62b6066cb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:36:03.945Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "リバースブルー×リバースエンド",
+      "tags": [
+        "仕事絵",
+        "リバースブルー×リバースエンド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149947935_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149947935",
+      "sourceCreatedAt": "2026-09-21T15:00:33.000Z"
+    },
+    {
       "id": "a9cde822",
       "filename": "pixiv_149936762_p0.jpg",
       "path": "uploads/2026/09/9cd62418.jpg",
