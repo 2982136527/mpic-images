@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "f3ffc19e",
+      "filename": "pixiv_149920862_p0.jpg",
+      "path": "uploads/2026/09/3ced943a.jpg",
+      "size": 1233747,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5abf03c2113f5ed694290cb45b9a07a3a4f7d4547bb65e34c49b82ae5ae7dff7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T19:43:13.750Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "タペ作った",
+      "tags": [
+        "うちゅーねこ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149920862_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149920862",
+      "sourceCreatedAt": "2026-09-21T02:47:39.000Z"
+    },
+    {
       "id": "bc667e60",
       "filename": "pixiv_149905250_p0.jpg",
       "path": "uploads/2026/09/0ffe00e2.jpg",
