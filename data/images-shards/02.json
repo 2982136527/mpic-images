@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "78d3dedc",
+      "filename": "pixiv_149961659_p0.jpg",
+      "path": "uploads/2026/09/e59ea05e.jpg",
+      "size": 490327,
+      "width": 844,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5857efe1653f7148696c34f09f2b3b62cc4551c3729d035b60e7741205a0e95a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T13:37:42.082Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "お題箱で描いたやつ",
+      "tags": [
+        "オリジナル",
+        "モカちゃん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149961659_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149961659",
+      "sourceCreatedAt": "2026-09-22T01:25:45.000Z"
+    },
+    {
       "id": "655226bf",
       "filename": "pixiv_149946212_p0.jpg",
       "path": "uploads/2026/09/fdb8b510.jpg",
