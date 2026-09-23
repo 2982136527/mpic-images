@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "d5a49a5b",
+      "filename": "pixiv_149905913_p0.jpg",
+      "path": "uploads/2026/09/8f6aa62d.jpg",
+      "size": 1230745,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "4bd2f858df54dcfe80a1f7ba316ba2ce6f959252a6770547fd27a4ba2eb22871",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T13:35:11.389Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "北国急行プロジェクト",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "HoYoFair",
+        "仕事絵",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149905913_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149905913",
+      "sourceCreatedAt": "2026-09-20T15:06:54.000Z"
+    },
+    {
       "id": "d14e0c19",
       "filename": "pixiv_149933360_p0.jpg",
       "path": "uploads/2026/09/e02d32b4.jpg",
