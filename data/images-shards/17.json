@@ -3,6 +3,35 @@
   "shardId": "17",
   "images": [
     {
+      "id": "803aba80",
+      "filename": "pixiv_149978432_p0.jpg",
+      "path": "uploads/2026/09/5aeafbd4.jpg",
+      "size": 1018649,
+      "width": 810,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d4e2a07909389542a9a088affb16d749d4cda185edf128f9f5ca35a13fb13d9a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T19:43:52.419Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "少女漫画を布教されるローズキングダム",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "ローズキングダム(ウマ娘)",
+        "キセキ(ウマ娘)",
+        "メジロライアン(ウマ娘)",
+        "少女漫画",
+        "違う、そうじゃない",
+        "なにこれかわいい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149978432_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149978432",
+      "sourceCreatedAt": "2026-09-22T11:06:29.000Z"
+    },
+    {
       "id": "bb7a80cb",
       "filename": "pixiv_149969033_p0.jpg",
       "path": "uploads/2026/09/e6897fba.jpg",
