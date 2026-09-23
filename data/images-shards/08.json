@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "01bd4f9b",
+      "filename": "pixiv_149910192_p0.jpg",
+      "path": "uploads/2026/09/20dd7c9e.jpg",
+      "size": 1212936,
+      "width": 841,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b529655d1a5e9f4431a1fa639e215bd467d7d202c5f0c585f84b463b0e9cfee5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:45:00.886Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "かまってー",
+      "tags": [
+        "橘ヒカリ",
+        "ブルアカ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149910192_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149910192",
+      "sourceCreatedAt": "2026-09-20T17:12:12.000Z"
+    },
+    {
       "id": "b20923e7",
       "filename": "pixiv_149972451_p0.jpg",
       "path": "uploads/2026/09/1f8ea886.jpg",
