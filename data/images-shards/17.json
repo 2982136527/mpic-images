@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "bb7a80cb",
+      "filename": "pixiv_149969033_p0.jpg",
+      "path": "uploads/2026/09/e6897fba.jpg",
+      "size": 1282839,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "b28985427b3dc6aaaead6a6c67a849fd1d93dcc45d9c0a16d1025138e6bb943b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T19:40:06.225Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "マフィア",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ローエン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149969033_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149969033",
+      "sourceCreatedAt": "2026-09-22T06:20:32.000Z"
+    },
+    {
       "id": "e2624a52",
       "filename": "pixiv_149933634_p0.jpg",
       "path": "uploads/2026/09/48f4c1b0.jpg",
