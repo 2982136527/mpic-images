@@ -3,6 +3,28 @@
   "shardId": "05",
   "images": [
     {
+      "id": "9da8f824",
+      "filename": "pixiv_149984321_p0.jpg",
+      "path": "uploads/2026/09/9c414ba2.jpg",
+      "size": 517422,
+      "width": 640,
+      "height": 896,
+      "mimeType": "image/jpeg",
+      "hash": "c87bd61130aba15c136b38de104583eee98e7226f1c155303e9fd798568aeb48",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T19:38:42.986Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "アークナイツはじめた",
+      "tags": [
+        "アークナイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149984321_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149984321",
+      "sourceCreatedAt": "2026-09-22T13:15:58.000Z"
+    },
+    {
       "id": "4085bd4a",
       "filename": "pixiv_149948886_p0.jpg",
       "path": "uploads/2026/09/6d380af8.jpg",
