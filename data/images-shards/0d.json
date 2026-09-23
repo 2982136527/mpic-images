@@ -3,6 +3,32 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "eca7420d",
+      "filename": "pixiv_149923017_p0.jpg",
+      "path": "uploads/2026/09/c9e81fe8.jpg",
+      "size": 1139315,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2129d6f535c0a0a5ebce123e55bdb8f0d143d42db09fa844632b93f73bf4a31b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:36:29.689Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "検品済み、愛情未確認",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作",
+        "少女",
+        "original"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149923017_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149923017",
+      "sourceCreatedAt": "2026-09-21T04:01:23.000Z"
+    },
+    {
       "id": "f0adc7cd",
       "filename": "pixiv_149896697_p0.jpg",
       "path": "uploads/2026/09/f2e609ac.jpg",
