@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "9d5a98da",
+      "filename": "pixiv_149932031_p0.jpg",
+      "path": "uploads/2026/09/558ceec7.jpg",
+      "size": 1208126,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c81587d06f8dbc9f289b158f5a0860dbdcb4a129d0dbb79e1417e229e237ab02",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T19:39:27.813Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ハロウィンジャックちゃん",
+      "tags": [
+        "ジャック・ザ・リッパー(Fate)",
+        "切り裂きゾンビナース",
+        "Fate/GrandOrder"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149932031_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149932031",
+      "sourceCreatedAt": "2026-09-21T09:09:51.000Z"
+    },
+    {
       "id": "78d3dedc",
       "filename": "pixiv_149961659_p0.jpg",
       "path": "uploads/2026/09/e59ea05e.jpg",
