@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "b5d53bdd",
+      "filename": "pixiv_149940672_p0.jpg",
+      "path": "uploads/2026/09/79bb6982.jpg",
+      "size": 756517,
+      "width": 722,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "28d02334e4c483c933fcba1335b15ff6db44b30e1e7926506e9dadf55a256e1e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:43:39.768Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ライオン",
+      "tags": [
+        "アズールレーン",
+        "アズレン",
+        "AzurLane",
+        "ライオン(アズールレーン)",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149940672_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149940672",
+      "sourceCreatedAt": "2026-09-21T12:30:01.000Z"
+    },
+    {
       "id": "d868905f",
       "filename": "pixiv_149901956_p0.jpg",
       "path": "uploads/2026/09/ddec8d19.jpg",
