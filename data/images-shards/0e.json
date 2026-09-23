@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "b67b9d11",
+      "filename": "pixiv_149976961_p0.jpg",
+      "path": "uploads/2026/09/4c0690cd.jpg",
+      "size": 960890,
+      "width": 1000,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a6d17aa2346e8343e6a2d75e719bc3bd187c86debf28861cbe8b5800466a5299",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T13:43:42.736Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "東條希ちゃん 制服",
+      "tags": [
+        "ラブライブ!",
+        "東條希",
+        "制服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149976961_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149976961",
+      "sourceCreatedAt": "2026-09-22T10:31:34.000Z"
+    },
+    {
       "id": "b28cf962",
       "filename": "pixiv_149964262_p0.jpg",
       "path": "uploads/2026/09/a2c450b2.jpg",
