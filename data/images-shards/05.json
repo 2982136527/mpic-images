@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "39a633a7",
+      "filename": "pixiv_149971083_p0.jpg",
+      "path": "uploads/2026/09/3943c1e4.jpg",
+      "size": 495914,
+      "width": 1028,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8ca547ae64cc61758537ee84110002f47441dd7bf4f7584be7a879dd217b0892",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:39:26.315Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "emo rin",
+      "tags": [
+        "ロリ",
+        "少女",
+        "ボーカロイド",
+        "鏡音リン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149971083_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149971083",
+      "sourceCreatedAt": "2026-09-22T07:39:24.000Z"
+    },
+    {
       "id": "8b322425",
       "filename": "pixiv_149890142_p0.jpg",
       "path": "uploads/2026/09/004a5819.jpg",
