@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "6e077496",
+      "filename": "pixiv_149948448_p0.jpg",
+      "path": "uploads/2026/09/78ab6473.jpg",
+      "size": 845344,
+      "width": 486,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "29ff756d7224390c17df4c8cd62468db3c527673997823fc85c3e9ed7a72970e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T19:44:15.787Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "翠氷を抱く氷精チルノ",
+      "tags": [
+        "アナログ",
+        "東方Project",
+        "油彩",
+        "油絵",
+        "東方チルノ祭",
+        "チルノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149948448_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149948448",
+      "sourceCreatedAt": "2026-09-21T15:06:30.000Z"
+    },
+    {
       "id": "466e54c0",
       "filename": "pixiv_149965407_p0.jpg",
       "path": "uploads/2026/09/74e4299a.jpg",
