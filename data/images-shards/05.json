@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "e1de40f8",
+      "filename": "pixiv_149952386_p0.jpg",
+      "path": "uploads/2026/09/d3fd2eb5.jpg",
+      "size": 805370,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b0a75855d63bfa7c163459456ed71a9e3eb45e3996fc35bb93a3f3f8e04c0178",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T13:34:57.720Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "ホシクイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149952386_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149952386",
+      "sourceCreatedAt": "2026-09-21T16:53:17.000Z"
+    },
+    {
       "id": "1af80518",
       "filename": "pixiv_149956775_p0.jpg",
       "path": "uploads/2026/09/6bbef52b.jpg",
