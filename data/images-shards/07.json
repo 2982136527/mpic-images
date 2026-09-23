@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "0c18ce06",
+      "filename": "pixiv_149935453_p0.jpg",
+      "path": "uploads/2026/09/71c047a1.jpg",
+      "size": 539914,
+      "width": 791,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "43c0449c4f79b73afa307424c3ccfb31a131428f3e11199bd4e27f6c675f391e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T13:39:53.507Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "MRR",
+      "tags": [
+        "まのさば",
+        "魔法少女ノ魔女裁判",
+        "氷上メルル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149935453_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149935453",
+      "sourceCreatedAt": "2026-09-21T10:38:40.000Z"
+    },
+    {
       "id": "036c8e6c",
       "filename": "pixiv_149946203_p0.jpg",
       "path": "uploads/2026/09/f3192b1b.jpg",
