@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "0c2f26fe",
+      "filename": "pixiv_149974083_p0.jpg",
+      "path": "uploads/2026/09/353ded65.jpg",
+      "size": 393916,
+      "width": 1200,
+      "height": 810,
+      "mimeType": "image/jpeg",
+      "hash": "ab8954e42ce0040af1935585e522861583b518efe4129609e040d0331d243b23",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T13:38:51.701Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ペニー",
+      "tags": [
+        "スパイダーマン",
+        "ペニー・パーカー",
+        "スパイダーバース",
+        "スパイダーマン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149974083_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149974083",
+      "sourceCreatedAt": "2026-09-22T09:13:34.000Z"
+    },
+    {
       "id": "49eafbaf",
       "filename": "pixiv_149941251_p0.jpg",
       "path": "uploads/2026/09/7a084069.jpg",
