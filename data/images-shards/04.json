@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "5bcf4901",
+      "filename": "pixiv_149947794_p0.jpg",
+      "path": "uploads/2026/09/610880c0.jpg",
+      "size": 1235350,
+      "width": 629,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7043433861b2aa87432ba001563536d86c8a47718f622346d761dba32c7ce226",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:36:49.307Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ヴォジャニーツァ",
+      "tags": [
+        "原神",
+        "ヴォジャニーツァ",
+        "原神100users入り",
+        "水中"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149947794_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149947794",
+      "sourceCreatedAt": "2026-09-21T15:00:07.000Z"
+    },
+    {
       "id": "3a1509cb",
       "filename": "pixiv_149878869_p0.jpg",
       "path": "uploads/2026/09/1eceddc9.jpg",
