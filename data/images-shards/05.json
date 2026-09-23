@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "6242d235",
+      "filename": "pixiv_149965620_p0.jpg",
+      "path": "uploads/2026/09/9671b8b9.jpg",
+      "size": 996643,
+      "width": 773,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7def73c16dbc364061344f2a3e0ad6bfa4c3f5c6b65035182dfe164005d6cab0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:41:36.203Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Wimpy Fall",
+      "tags": [
+        "初音ミク",
+        "重音テト",
+        "VOCALOID",
+        "水鉄砲"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149965620_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149965620",
+      "sourceCreatedAt": "2026-09-22T04:01:53.000Z"
+    },
+    {
       "id": "39a633a7",
       "filename": "pixiv_149971083_p0.jpg",
       "path": "uploads/2026/09/3943c1e4.jpg",
