@@ -3,6 +3,32 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "bc667e60",
+      "filename": "pixiv_149905250_p0.jpg",
+      "path": "uploads/2026/09/0ffe00e2.jpg",
+      "size": 1046620,
+      "width": 880,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fcfac63ddf2686c465b0168da2b8a83005f7ccbf5400a0ca2c54f33c67aecd6d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T19:38:04.793Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "春呼び姫",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "ファンタジー",
+        "エルフ",
+        "ピンク髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149905250_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149905250",
+      "sourceCreatedAt": "2026-09-20T15:00:16.000Z"
+    },
+    {
       "id": "993d3abb",
       "filename": "pixiv_149953149_p0.jpg",
       "path": "uploads/2026/09/b34d0331.jpg",
