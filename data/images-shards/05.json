@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "4085bd4a",
+      "filename": "pixiv_149948886_p0.jpg",
+      "path": "uploads/2026/09/6d380af8.jpg",
+      "size": 1612365,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "00685d7e7a72e0e01fe2539b7eed9439ece0f27f77e427dc49f6a81564fb5396",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T19:38:15.371Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "夕染めの街",
+      "tags": [
+        "オリジナル",
+        "ファンタジー",
+        "風景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149948886_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149948886",
+      "sourceCreatedAt": "2026-09-21T15:15:14.000Z"
+    },
+    {
       "id": "652f4c38",
       "filename": "pixiv_149947980_p0.jpg",
       "path": "uploads/2026/09/3b85b136.jpg",
