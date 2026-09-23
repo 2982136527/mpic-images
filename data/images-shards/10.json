@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "c9b3737c",
+      "filename": "pixiv_149915033_p0.jpg",
+      "path": "uploads/2026/09/83ebe3a0.jpg",
+      "size": 240712,
+      "width": 500,
+      "height": 500,
+      "mimeType": "image/jpeg",
+      "hash": "a8f407677a0ffd22f31f538c3ce943d86239df5e256a2912efb021b85c971d03",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T04:40:00.629Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ミスターシービー",
+      "tags": [
+        "ミスターシービー(ウマ娘)",
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "ウマ娘プリティーダービー1000users入り",
+        "おそらく猫"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149915033_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149915033",
+      "sourceCreatedAt": "2026-09-20T22:02:08.000Z"
+    },
+    {
       "id": "aa32a4e7",
       "filename": "pixiv_149924097_p0.jpg",
       "path": "uploads/2026/09/670317f2.jpg",
