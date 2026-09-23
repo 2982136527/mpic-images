@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "385feff3",
+      "filename": "pixiv_149961584_p0.jpg",
+      "path": "uploads/2026/09/f0edfc2b.jpg",
+      "size": 2239512,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2e3f2e234f6860181fad7f45afcacd8c6d97b9fd8a7e08db9367028f72d2f4c4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T19:41:25.471Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "虎の神",
+      "tags": [
+        "オリジナル",
+        "和風",
+        "創作",
+        "イラスト",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149961584_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149961584",
+      "sourceCreatedAt": "2026-09-22T01:22:07.000Z"
+    },
+    {
       "id": "d821c244",
       "filename": "pixiv_149967621_p0.jpg",
       "path": "uploads/2026/09/0fab3247.jpg",
