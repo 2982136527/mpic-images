@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "acec5302",
+      "filename": "pixiv_149979156_p0.jpg",
+      "path": "uploads/2026/09/5a386a3a.jpg",
+      "size": 904714,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "59f3e12b6949b2e1abddac590927aac9c28407d7ee8708541eee178c56920bcf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-23T19:47:39.542Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "まだやれる",
+      "tags": [
+        "漫画",
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "先生(ブルーアーカイブ)",
+        "仲正イチカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149979156_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149979156",
+      "sourceCreatedAt": "2026-09-22T11:25:31.000Z"
+    },
+    {
       "id": "c741482c",
       "filename": "pixiv_149977589_p0.jpg",
       "path": "uploads/2026/09/9236bc6f.jpg",
