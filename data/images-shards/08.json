@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "f1824530",
+      "filename": "pixiv_149989438_p0.jpg",
+      "path": "uploads/2026/09/ad70ccf9.jpg",
+      "size": 660535,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1fe4709240c0079eda67efe0ba0bd742539eb8477dabe1782e91d6f546084710",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:34:19.879Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "なんだその目",
+      "tags": [
+        "The_Amazing_Digital_Circus",
+        "Pomni",
+        "Jax"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149989438_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149989438",
+      "sourceCreatedAt": "2026-09-22T15:02:09.000Z"
+    },
+    {
       "id": "31e2d7c2",
       "filename": "pixiv_149947976_p0.jpg",
       "path": "uploads/2026/09/16b30b72.jpg",
