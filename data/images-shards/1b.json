@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "b7408090",
+      "filename": "pixiv_149989056_p0.jpg",
+      "path": "uploads/2026/09/e33eec2f.jpg",
+      "size": 706550,
+      "width": 946,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5c919adfc63e4b2e02e72d39be6b454adfad4ad2efabe37c715a3cd6a78c72db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T19:57:02.728Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Out of Reach",
+      "tags": [
+        "オリジナル",
+        "ファッション",
+        "スーツ",
+        "男性"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149989056_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149989056",
+      "sourceCreatedAt": "2026-09-22T15:00:11.000Z"
+    },
+    {
       "id": "82dfdbe2",
       "filename": "pixiv_149999973_p0.jpg",
       "path": "uploads/2026/09/fec1ad4c.jpg",
