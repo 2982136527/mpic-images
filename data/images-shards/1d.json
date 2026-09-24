@@ -3,6 +3,33 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "c109ef03",
+      "filename": "pixiv_150028261_p0.jpg",
+      "path": "uploads/2026/09/c9976b9c.jpg",
+      "size": 654681,
+      "width": 924,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0cf6b49cfe223516d5421612c15566cf767a5c6c8ebcfcfd5ec7312e6ae7a77f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:34:53.916Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "満月珈琲店コラボカフェ開催",
+      "tags": [
+        "満月珈琲店",
+        "満月珈琲店の星詠み",
+        "コラボカフェ",
+        "食べ物",
+        "飲み物",
+        "FOOD"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150028261_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150028261",
+      "sourceCreatedAt": "2026-09-23T13:46:19.000Z"
+    },
+    {
       "id": "8f9fc8cc",
       "filename": "pixiv_149931520_p0.jpg",
       "path": "uploads/2026/09/6e77dd04.jpg",
