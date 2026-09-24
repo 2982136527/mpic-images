@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "2c905888",
+      "filename": "pixiv_149947912_p0.jpg",
+      "path": "uploads/2026/09/bb518f13.jpg",
+      "size": 812286,
+      "width": 834,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ae8fb07a2cf41c1fe3896d364ee57aafece2b5460dc3b4e61f2f4e3a6f841eeb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T13:30:35.203Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "レミリア",
+      "tags": [
+        "東方",
+        "レミリア・スカーレット",
+        "東方紅魔郷NewClassic"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149947912_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149947912",
+      "sourceCreatedAt": "2026-09-21T15:00:28.000Z"
+    },
+    {
       "id": "ebe4dd89",
       "filename": "pixiv_150013293_p0.jpg",
       "path": "uploads/2026/09/45921643.jpg",
