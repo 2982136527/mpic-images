@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "53342a1d",
+      "filename": "pixiv_150025431_p0.jpg",
+      "path": "uploads/2026/09/ed85fed9.jpg",
+      "size": 391007,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aef3d75197f30a839f44ca77c9979174ee998c03d272ba3d755f91338437548f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T20:02:05.551Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "先住ポケモンによる洗礼！",
+      "tags": [
+        "タマザラシ",
+        "はじまりのピカチュウ",
+        "ピカチュウ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150025431_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150025431",
+      "sourceCreatedAt": "2026-09-23T12:47:55.000Z"
+    },
+    {
       "id": "99ef3038",
       "filename": "pixiv_149989091_p0.jpg",
       "path": "uploads/2026/09/1d7b7f39.jpg",
