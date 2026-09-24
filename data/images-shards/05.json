@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "f8a707c9",
+      "filename": "pixiv_149965828_p0.jpg",
+      "path": "uploads/2026/09/6afaac76.jpg",
+      "size": 948762,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e49fdbee07bd52b4f24f2d74290c33577960ba724ee36783816b20fc4948d015",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T19:59:55.690Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "「どこに連れて行ってくれるの？」",
+      "tags": [
+        "初音ミク",
+        "助手席",
+        "シートベルト",
+        "3点式シートベルト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149965828_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149965828",
+      "sourceCreatedAt": "2026-09-22T04:10:46.000Z"
+    },
+    {
       "id": "dbb8a465",
       "filename": "pixiv_150007422_p0.jpg",
       "path": "uploads/2026/09/cf530952.jpg",
