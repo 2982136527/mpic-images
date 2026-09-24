@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "cefda265",
+      "filename": "pixiv_149978132_p0.jpg",
+      "path": "uploads/2026/09/5543bbce.jpg",
+      "size": 1342553,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3635cc6cadcbfda0657051d2a9bc006550614fc6d8e0a8320515ce3dd85fc225",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:41:33.874Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Tachyon",
+      "tags": [
+        "アグネスタキオン(ウマ娘)",
+        "アグネスタキオン",
+        "Lunatic_Lab",
+        "ウマ娘",
+        "ウマ娘プリティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149978132_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149978132",
+      "sourceCreatedAt": "2026-09-22T11:01:08.000Z"
+    },
+    {
       "id": "2ff10618",
       "filename": "pixiv_150023432_p0.jpg",
       "path": "uploads/2026/09/188412d7.jpg",
