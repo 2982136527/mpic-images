@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "0753dcdd",
+      "filename": "pixiv_149968833_p0.jpg",
+      "path": "uploads/2026/09/674efe46.jpg",
+      "size": 1049908,
+      "width": 825,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "69b230b48870891d8147a4fcf57d31e5e9dcf6881893339ed4e5a82e379ac2cd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:39:58.497Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Ubel",
+      "tags": [
+        "Ubel",
+        "Frieren"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149968833_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149968833",
+      "sourceCreatedAt": "2026-09-22T06:11:41.000Z"
+    },
+    {
       "id": "b55336bc",
       "filename": "pixiv_150016105_p0.jpg",
       "path": "uploads/2026/09/ca51365e.jpg",
