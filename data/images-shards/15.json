@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "e0d73d7b",
+      "filename": "pixiv_150016206_p0.jpg",
+      "path": "uploads/2026/09/6e693300.jpg",
+      "size": 540514,
+      "width": 800,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "74b36d6de29c08892f2ab61a6b78c3da3aa089f0d33a348c62f13b267deb5c67",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T20:00:03.347Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ヴェ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ヴェスナ",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150016206_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150016206",
+      "sourceCreatedAt": "2026-09-23T09:18:15.000Z"
+    },
+    {
       "id": "2f9f2cff",
       "filename": "pixiv_150000786_p0.jpg",
       "path": "uploads/2026/09/c048e096.jpg",
