@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "b44c3e43",
+      "filename": "pixiv_150018882_p0.jpg",
+      "path": "uploads/2026/09/c6bd4e08.jpg",
+      "size": 1117763,
+      "width": 594,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "20cb6862db9ae3cf09ac088a8df4eeb446a08938910b1e4ce0d93acc3eb851d2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:37:08.949Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "胡桃",
+      "tags": [
+        "女の子",
+        "原神",
+        "胡桃(原神)",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150018882_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150018882",
+      "sourceCreatedAt": "2026-09-23T10:30:01.000Z"
+    },
+    {
       "id": "4c323fd6",
       "filename": "pixiv_149908893_p0.jpg",
       "path": "uploads/2026/09/f0e28341.jpg",
