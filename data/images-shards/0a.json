@@ -3,6 +3,33 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "c652e1bc",
+      "filename": "pixiv_149947754_p0.jpg",
+      "path": "uploads/2026/09/de5951da.jpg",
+      "size": 821450,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b47dfb87a02d3a32a6a6d81d3858e935a05c229929ce7988fe4a0091a6bddb6e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:39:10.936Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "甲板でお昼寝",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "サユリ(ブルーアーカイブ)",
+        "猫",
+        "サミー(ブルーアーカイブ)",
+        "お昼寝"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149947754_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149947754",
+      "sourceCreatedAt": "2026-09-21T15:00:01.000Z"
+    },
+    {
       "id": "aa08a776",
       "filename": "pixiv_149916420_p0.jpg",
       "path": "uploads/2026/09/adf4138e.jpg",
