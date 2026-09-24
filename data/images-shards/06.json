@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "6b03ed8d",
+      "filename": "pixiv_149989043_p0.jpg",
+      "path": "uploads/2026/09/9170e52f.jpg",
+      "size": 656770,
+      "width": 683,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1defdf7c53f62fb822f28aa37bb3122584a235eeef1c2aef96351119e08ae620",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:35:17.804Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "フランドール",
+      "tags": [
+        "東方",
+        "フランドール・スカーレット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149989043_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149989043",
+      "sourceCreatedAt": "2026-09-22T15:00:09.000Z"
+    },
+    {
       "id": "9d433dc1",
       "filename": "pixiv_149983184_p0.jpg",
       "path": "uploads/2026/09/dbb23e62.jpg",
