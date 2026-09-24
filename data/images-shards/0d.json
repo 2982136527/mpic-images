@@ -3,6 +3,25 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "09de0731",
+      "filename": "pixiv_149980419_p0.jpg",
+      "path": "uploads/2026/09/c877a9bd.jpg",
+      "size": 445775,
+      "width": 823,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "368c853d84081d5b4a42ab020fbfd55eed576e37e478ba0396bb6d4b427287bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:37:22.526Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "サジョアヤ",
+      "sourceProvider": "pixiv",
+      "sourceId": "149980419_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149980419",
+      "sourceCreatedAt": "2026-09-22T11:55:54.000Z"
+    },
+    {
       "id": "f8ba669a",
       "filename": "pixiv_149960195_p0.jpg",
       "path": "uploads/2026/09/b794120a.jpg",
