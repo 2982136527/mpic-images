@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "2f9f2cff",
+      "filename": "pixiv_150000786_p0.jpg",
+      "path": "uploads/2026/09/c048e096.jpg",
+      "size": 954530,
+      "width": 762,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b3e5f492bf2c1710d218d4bdfb85c909ca1466e8b79aae05a5e13a02cf5803f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T13:35:09.298Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Hsin",
+      "tags": [
+        "Hsin",
+        "鳴潮",
+        "裸足"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150000786_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150000786",
+      "sourceCreatedAt": "2026-09-22T23:32:42.000Z"
+    },
+    {
       "id": "cbe35534",
       "filename": "pixiv_149956485_p0.jpg",
       "path": "uploads/2026/09/1a38b626.jpg",
