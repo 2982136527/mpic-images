@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "f0f9abf3",
+      "filename": "pixiv_150020439_p0.jpg",
+      "path": "uploads/2026/09/6dc36769.jpg",
+      "size": 848834,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fd6d5070494228d3ee61d590db8eef60ca39c506197b3849921473c084b18ed0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:39:18.037Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "くそウザ福福",
+      "tags": [
+        "ゼンゼロ",
+        "橘福福",
+        "儀玄"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150020439_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150020439",
+      "sourceCreatedAt": "2026-09-23T11:03:43.000Z"
+    },
+    {
       "id": "f1824530",
       "filename": "pixiv_149989438_p0.jpg",
       "path": "uploads/2026/09/ad70ccf9.jpg",
