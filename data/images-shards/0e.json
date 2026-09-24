@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "ca8f221a",
+      "filename": "pixiv_150003232_p0.jpg",
+      "path": "uploads/2026/09/e9f567b5.jpg",
+      "size": 601404,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a811d75e82f05d85d51a2983bea598872a968d90e6b776c8047af4f20de2f69e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T13:41:17.055Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "skebリクエスト絵",
+      "tags": [
+        "買い物",
+        "すじ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150003232_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150003232",
+      "sourceCreatedAt": "2026-09-23T01:31:07.000Z"
+    },
+    {
       "id": "b1b10ef0",
       "filename": "pixiv_149993838_p0.jpg",
       "path": "uploads/2026/09/7e6f6fed.jpg",
