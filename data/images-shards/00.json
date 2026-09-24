@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "6927cbe0",
+      "filename": "pixiv_149966910_p0.jpg",
+      "path": "uploads/2026/09/a23b6338.jpg",
+      "size": 1019562,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "35937a48d2bc3cf1cd90f325a61759df5cdcba5870ede0751fbcfaee370c8128",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:35:43.080Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "雨",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "エレン・ジョー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149966910_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149966910",
+      "sourceCreatedAt": "2026-09-22T04:56:38.000Z"
+    },
+    {
       "id": "6f1d2f15",
       "filename": "pixiv_149946957_p0.jpg",
       "path": "uploads/2026/09/378e6e80.jpg",
