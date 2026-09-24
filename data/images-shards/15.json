@@ -3,6 +3,33 @@
   "shardId": "15",
   "images": [
     {
+      "id": "02aa5fa8",
+      "filename": "pixiv_150011296_p0.jpg",
+      "path": "uploads/2026/09/85bb914d.jpg",
+      "size": 727818,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "351c75594e285c05bab0bda3678428fea994ce69484941a8b4280a8aeff6e6aa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:36:32.313Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "完成するか分からないやつまとめ",
+      "tags": [
+        "東方Project",
+        "東方",
+        "霧雨魔理沙",
+        "博麗霊夢",
+        "十六夜咲夜",
+        "レイマリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150011296_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150011296",
+      "sourceCreatedAt": "2026-09-23T06:46:42.000Z"
+    },
+    {
       "id": "28c166d5",
       "filename": "pixiv_149988113_p0.jpg",
       "path": "uploads/2026/09/cd2de179.jpg",
