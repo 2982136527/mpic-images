@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "1a4083e8",
+      "filename": "pixiv_149970028_p0.jpg",
+      "path": "uploads/2026/09/aea14734.jpg",
+      "size": 1965142,
+      "width": 957,
+      "height": 1169,
+      "mimeType": "image/jpeg",
+      "hash": "24dc06827db3c5e98581aeea05695cdb9d71d153590a087578e032e362639fe9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T20:05:35.702Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "あなた様色に染め上げてください",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ",
+        "Fairy(ゼンゼロ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149970028_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149970028",
+      "sourceCreatedAt": "2026-09-22T07:00:01.000Z"
+    },
+    {
       "id": "fc42a933",
       "filename": "pixiv_149948235_p0.jpg",
       "path": "uploads/2026/09/0f364eb6.jpg",
