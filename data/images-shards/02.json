@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "58fdde26",
+      "filename": "pixiv_150010263_p0.jpg",
+      "path": "uploads/2026/09/9c8c8c45.jpg",
+      "size": 908848,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3879dc4c84907aa9060adb6354a154e67fb0f6edadf91e46fe80faf65b2530b6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T20:05:10.193Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "RAWR...",
+      "tags": [
+        "BlueArchive",
+        "ケイ(ブルーアーカイブ)",
+        "天童ケイ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150010263_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150010263",
+      "sourceCreatedAt": "2026-09-23T06:08:46.000Z"
+    },
+    {
       "id": "2d626dfe",
       "filename": "pixiv_148931227_p0.jpg",
       "path": "uploads/2026/09/87afd125.jpg",
