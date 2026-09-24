@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "26fd6290",
+      "filename": "pixiv_149965651_p0.jpg",
+      "path": "uploads/2026/09/355bb238.jpg",
+      "size": 958402,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d49bd3c67d64cc2b552742352301d0e1ba07c27d3cc4bfb722365bba73fc68bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T13:33:38.597Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "でっかいでっかいでっかい声で",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149965651_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149965651",
+      "sourceCreatedAt": "2026-09-22T04:03:30.000Z"
+    },
+    {
       "id": "cd8c0402",
       "filename": "pixiv_149973662_p0.jpg",
       "path": "uploads/2026/09/b3f65320.jpg",
