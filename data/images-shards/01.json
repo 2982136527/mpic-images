@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "f5a5f15c",
+      "filename": "pixiv_150013346_p0.jpg",
+      "path": "uploads/2026/09/2375abc3.jpg",
+      "size": 400417,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "21e7322c0bc043b4ffe6ada57de01ac2ead2a03559cf5e6ee60f3610a82c5cb2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:34:06.224Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "渚トラウト",
+      "tags": [
+        "にじさんじ",
+        "渚トラウト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150013346_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150013346",
+      "sourceCreatedAt": "2026-09-23T08:00:01.000Z"
+    },
+    {
       "id": "c7359337",
       "filename": "pixiv_149918540_p0.jpg",
       "path": "uploads/2026/09/e285db84.jpg",
