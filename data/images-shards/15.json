@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "5ca285bf",
+      "filename": "pixiv_150004715_p0.jpg",
+      "path": "uploads/2026/09/feb26e03.jpg",
+      "size": 226064,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "249645475301e9289cd485cb6d43bf9d5812a239419453bfff5aa78598bd2c66",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:39:51.558Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "구멍 파우",
+      "tags": [
+        "Limbus_Company",
+        "림버스컴퍼니",
+        "LimbusCompany",
+        "Faust"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150004715_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150004715",
+      "sourceCreatedAt": "2026-09-23T02:35:21.000Z"
+    },
+    {
       "id": "02aa5fa8",
       "filename": "pixiv_150011296_p0.jpg",
       "path": "uploads/2026/09/85bb914d.jpg",
