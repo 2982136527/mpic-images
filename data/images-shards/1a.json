@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "a40f2b50",
+      "filename": "pixiv_149980501_p0.jpg",
+      "path": "uploads/2026/09/c004acad.jpg",
+      "size": 518475,
+      "width": 567,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9df4b2dcda8382ad4ce9c3ddbccc8c856204efa8581a1e0621750e1b98f68ad9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:36:48.951Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "의현",
+      "tags": [
+        "젠레스존제로",
+        "의현",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149980501_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149980501",
+      "sourceCreatedAt": "2026-09-22T11:57:58.000Z"
+    },
+    {
       "id": "8aff9e6b",
       "filename": "pixiv_149968951_p0.jpg",
       "path": "uploads/2026/09/0a44ef6b.jpg",
