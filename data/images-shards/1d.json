@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "2d533605",
+      "filename": "pixiv_150020262_p0.jpg",
+      "path": "uploads/2026/09/271c5dfc.jpg",
+      "size": 793088,
+      "width": 652,
+      "height": 926,
+      "mimeType": "image/jpeg",
+      "hash": "1d35d76b0a85dae15f40fb79037fda511ffc8c662ab3972cff6cb65a9757a559",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T13:34:10.551Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "V3トロピカルナイト",
+      "tags": [
+        "ニューダンガンロンパV3",
+        "つむゴン",
+        "キボイル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150020262_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150020262",
+      "sourceCreatedAt": "2026-09-23T11:01:27.000Z"
+    },
+    {
       "id": "097a438b",
       "filename": "pixiv_149957424_p0.jpg",
       "path": "uploads/2026/09/17b02b84.jpg",
