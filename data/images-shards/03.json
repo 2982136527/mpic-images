@@ -3,6 +3,35 @@
   "shardId": "03",
   "images": [
     {
+      "id": "71619ef0",
+      "filename": "pixiv_149972363_p0.jpg",
+      "path": "uploads/2026/09/017d10c5.jpg",
+      "size": 2230727,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "34514ded99e0c22eb5fe89f2ac9d56daa012636cab6dd5389594348391f94d9e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:35:30.312Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "【ゲーム】初音ミク ロジックペイントS+",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "ロジックペイントS+",
+        "ミクロジ",
+        "仕事絵",
+        "ドリーム・オンステージ",
+        "クリプトン",
+        "巡音ルカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149972363_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149972363",
+      "sourceCreatedAt": "2026-09-22T08:24:23.000Z"
+    },
+    {
       "id": "54cc2caa",
       "filename": "pixiv_149978914_p0.jpg",
       "path": "uploads/2026/09/648de6cb.jpg",
