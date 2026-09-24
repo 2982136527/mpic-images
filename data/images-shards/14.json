@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "e3f1b140",
+      "filename": "pixiv_149958900_p0.jpg",
+      "path": "uploads/2026/09/032e4a71.jpg",
+      "size": 1208262,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3a043f80429d6960f291c53f5e8eb1b2b2c50f2943948f912f1cc9f4134c86c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T13:36:55.598Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ツクヨミ敬老祭",
+      "tags": [
+        "超かぐや姫!",
+        "令和の難題",
+        "敬老の日",
+        "月見ヤチヨ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149958900_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149958900",
+      "sourceCreatedAt": "2026-09-21T23:14:02.000Z"
+    },
+    {
       "id": "14f9c054",
       "filename": "pixiv_150008752_p0.jpg",
       "path": "uploads/2026/09/98a1b7b7.jpg",
