@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "5bb35221",
+      "filename": "pixiv_150011304_p0.jpg",
+      "path": "uploads/2026/09/50b2de67.jpg",
+      "size": 915396,
+      "width": 1200,
+      "height": 971,
+      "mimeType": "image/jpeg",
+      "hash": "a77a0aa3fa86a348a5ed5c6663e9db8264f2af66a4ad8c4a1e1f62c5616a9dbe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T20:04:42.535Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ジャリ右log",
+      "tags": [
+        "エンジャリ",
+        "キャドジャリ",
+        "ルクディン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150011304_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150011304",
+      "sourceCreatedAt": "2026-09-23T06:47:05.000Z"
+    },
+    {
       "id": "69b1a6eb",
       "filename": "pixiv_150016085_p0.jpg",
       "path": "uploads/2026/09/2e309c64.jpg",
