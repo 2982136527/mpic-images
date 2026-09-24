@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "df3d1196",
+      "filename": "pixiv_149990396_p0.jpg",
+      "path": "uploads/2026/09/86c75341.jpg",
+      "size": 787303,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "03cde0c72126db9a82a40404ed83a446160bc285f624a6cf545a79687c579f90",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T20:05:17.740Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "カヨ先",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "鬼方カヨコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149990396_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149990396",
+      "sourceCreatedAt": "2026-09-22T15:20:05.000Z"
+    },
+    {
       "id": "58fdde26",
       "filename": "pixiv_150010263_p0.jpg",
       "path": "uploads/2026/09/9c8c8c45.jpg",
