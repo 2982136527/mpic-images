@@ -3,6 +3,35 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "aa72fb62",
+      "filename": "pixiv_149980346_p0.jpg",
+      "path": "uploads/2026/09/9e87777e.jpg",
+      "size": 2137791,
+      "width": 1200,
+      "height": 1034,
+      "mimeType": "image/jpeg",
+      "hash": "7bdda9b7528e3b92d8e9e70948e9fd0ea2b48669c5775f029229a98a71006d5a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T20:01:33.157Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "キュアミスティック＊フューチャー",
+      "tags": [
+        "名探偵プリキュア!",
+        "小林みくる",
+        "キュアミスティック",
+        "不思議な庭と2人の秘密",
+        "フューチャーフォーム",
+        "たんプリ100users入り",
+        "スーパープリキュア",
+        "劇場版限定フォーム(プリキュア)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149980346_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149980346",
+      "sourceCreatedAt": "2026-09-22T11:53:56.000Z"
+    },
+    {
       "id": "228483ff",
       "filename": "pixiv_149949426_p0.jpg",
       "path": "uploads/2026/09/e300ac7a.jpg",
