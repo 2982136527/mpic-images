@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "870bdb78",
+      "filename": "pixiv_149985143_p0.jpg",
+      "path": "uploads/2026/09/ddd88045.jpg",
+      "size": 478128,
+      "width": 772,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "77dc53ea86d235e5881aae92c55bec3be99188932619608d2e0e2816ba74464e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:40:50.481Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ひよさき",
+      "tags": [
+        "Extreme_Hearts",
+        "小鷹咲希",
+        "葉山陽和",
+        "ひよさき",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149985143_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149985143",
+      "sourceCreatedAt": "2026-09-22T13:33:35.000Z"
+    },
+    {
       "id": "a40f2b50",
       "filename": "pixiv_149980501_p0.jpg",
       "path": "uploads/2026/09/c004acad.jpg",
