@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "9fcd61c9",
+      "filename": "pixiv_149975570_p0.jpg",
+      "path": "uploads/2026/09/04fe98cc.jpg",
+      "size": 1150866,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4ca371d54f3fbb9850462c2455700568638b9f8513750a999715a3b070143149",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T20:02:12.190Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Day-22",
+      "tags": [
+        "女の子",
+        "girl",
+        "初音ミク",
+        "初音未来"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149975570_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149975570",
+      "sourceCreatedAt": "2026-09-22T09:58:26.000Z"
+    },
+    {
       "id": "0aee479b",
       "filename": "pixiv_149973720_p0.jpg",
       "path": "uploads/2026/09/5097b5b2.jpg",
