@@ -3,6 +3,28 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "41b490ee",
+      "filename": "pixiv_149989452_p0.jpg",
+      "path": "uploads/2026/09/1c761a6c.jpg",
+      "size": 581125,
+      "width": 746,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "70518487af6c421c6019723841f4d101c9fbbb4364bac8171177f78d9e85fc00",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:41:49.111Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "SICK HACK",
+      "tags": [
+        "ぼっち・ざ・ろっく!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149989452_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149989452",
+      "sourceCreatedAt": "2026-09-22T15:02:20.000Z"
+    },
+    {
       "id": "4210c4a5",
       "filename": "pixiv_149969865_p0.jpg",
       "path": "uploads/2026/09/0bc36ba5.jpg",
