@@ -3,6 +3,37 @@
   "shardId": "02",
   "images": [
     {
+      "id": "2ff10618",
+      "filename": "pixiv_150023432_p0.jpg",
+      "path": "uploads/2026/09/188412d7.jpg",
+      "size": 1165873,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d41c1dd43dbbb14334a0b6351a05dfe5ca9062af4b09e0d069d5be7ba8a4dff3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:37:29.142Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "アナスターシャ & ヴェスナ",
+      "tags": [
+        "原神",
+        "原神6周年",
+        "GenshinImpact",
+        "アナスターシャ・フョードロヴナ・スネージナヤ",
+        "氷の女皇",
+        "スネージナヤ",
+        "アナスターシャ",
+        "ヴェスナ",
+        "冬",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150023432_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150023432",
+      "sourceCreatedAt": "2026-09-23T12:07:03.000Z"
+    },
+    {
       "id": "6e077496",
       "filename": "pixiv_149948448_p0.jpg",
       "path": "uploads/2026/09/78ab6473.jpg",
