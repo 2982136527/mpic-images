@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "61ab534f",
+      "filename": "pixiv_150000019_p0.jpg",
+      "path": "uploads/2026/09/370f0da6.jpg",
+      "size": 708198,
+      "width": 1050,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "23a5f89cc31ec481b4f141595caa6075a6107daaf994ffda8fcf9fd83ead273a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T13:34:28.953Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "エリス",
+      "tags": [
+        "エリス・ボレアス・グレイラット",
+        "無職転生"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150000019_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150000019",
+      "sourceCreatedAt": "2026-09-22T22:55:03.000Z"
+    },
+    {
       "id": "2d533605",
       "filename": "pixiv_150020262_p0.jpg",
       "path": "uploads/2026/09/271c5dfc.jpg",
