@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "cd8c0402",
+      "filename": "pixiv_149973662_p0.jpg",
+      "path": "uploads/2026/09/b3f65320.jpg",
+      "size": 976684,
+      "width": 1200,
+      "height": 1051,
+      "mimeType": "image/jpeg",
+      "hash": "b0eae082d7111d76b3151aae5493af8a27c26a70aa17b69a86d0ea9a9746e329",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:38:13.657Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "対魔忍",
+        "イングリッド",
+        "Ingrid",
+        "対魔忍アサギ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149973662_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149973662",
+      "sourceCreatedAt": "2026-09-22T09:02:07.000Z"
+    },
+    {
       "id": "31e1b188",
       "filename": "pixiv_149965796_p0.jpg",
       "path": "uploads/2026/09/78d3db17.jpg",
