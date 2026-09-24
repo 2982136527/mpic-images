@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "c6930f4b",
+      "filename": "pixiv_150019973_p0.jpg",
+      "path": "uploads/2026/09/094ba2c4.jpg",
+      "size": 235544,
+      "width": 1200,
+      "height": 965,
+      "mimeType": "image/jpeg",
+      "hash": "b918203213e91997f4b79b2837cc4ff87c411d46d1d896d4cec0862f98fdf5ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T20:06:17.027Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "もちもち詰め合わせ",
+      "tags": [
+        "ロリババア",
+        "ロリ",
+        "もちもち"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150019973_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150019973",
+      "sourceCreatedAt": "2026-09-23T10:58:50.000Z"
+    },
+    {
       "id": "6f55c545",
       "filename": "pixiv_149991921_p0.jpg",
       "path": "uploads/2026/09/ccdf916f.jpg",
