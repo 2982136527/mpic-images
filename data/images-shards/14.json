@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "d8b48336",
+      "filename": "pixiv_150011766_p0.jpg",
+      "path": "uploads/2026/09/bec9ac91.jpg",
+      "size": 1145864,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f86be4e3402fea789a7156c407c1608f315dd42215cf477b623be667a83d6000",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:37:02.106Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "庭まとめ",
+      "tags": [
+        "ほの暮しの庭",
+        "リン(ほの暮しの庭)",
+        "トバリ(ほの暮しの庭)",
+        "トバリン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150011766_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150011766",
+      "sourceCreatedAt": "2026-09-23T07:02:33.000Z"
+    },
+    {
       "id": "5d5b6957",
       "filename": "pixiv_149944577_p0.jpg",
       "path": "uploads/2026/09/54590fb8.jpg",
