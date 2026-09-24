@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "14f9c054",
+      "filename": "pixiv_150008752_p0.jpg",
+      "path": "uploads/2026/09/98a1b7b7.jpg",
+      "size": 906769,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aeca602bd1a5e63396348771b225e342ae2e691ec91e0b78342c2f23faba4f32",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T04:41:41.113Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "パチュリー・ノーレッジ",
+        "東方",
+        "東方Project",
+        "小悪魔(東方Project)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150008752_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150008752",
+      "sourceCreatedAt": "2026-09-23T05:16:22.000Z"
+    },
+    {
       "id": "d8b48336",
       "filename": "pixiv_150011766_p0.jpg",
       "path": "uploads/2026/09/bec9ac91.jpg",
