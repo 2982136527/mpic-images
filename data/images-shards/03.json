@@ -3,6 +3,28 @@
   "shardId": "03",
   "images": [
     {
+      "id": "6f55c545",
+      "filename": "pixiv_149991921_p0.jpg",
+      "path": "uploads/2026/09/ccdf916f.jpg",
+      "size": 752208,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "499f6425fb5b3b2cd036c3e46f39e018c19723b57ea87a51d9b8dfd4f146946f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T13:36:19.661Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149991921_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149991921",
+      "sourceCreatedAt": "2026-09-22T15:56:44.000Z"
+    },
+    {
       "id": "cbf30177",
       "filename": "pixiv_149990029_p0.jpg",
       "path": "uploads/2026/09/eb87efe5.jpg",
