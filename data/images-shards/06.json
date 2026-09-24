@@ -3,6 +3,28 @@
   "shardId": "06",
   "images": [
     {
+      "id": "d02ec7e7",
+      "filename": "pixiv_150002923_p0.jpg",
+      "path": "uploads/2026/09/5fbfb13a.jpg",
+      "size": 736334,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "025d294db6c475a8bef74ffd7e585d001e1e8eb9429716776cdbbbffaf47b0fa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T20:02:27.741Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "commission⛩",
+      "tags": [
+        "メスケモ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150002923_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150002923",
+      "sourceCreatedAt": "2026-09-23T01:16:21.000Z"
+    },
+    {
       "id": "c015d0ff",
       "filename": "pixiv_150021091_p0.jpg",
       "path": "uploads/2026/09/81990443.jpg",
