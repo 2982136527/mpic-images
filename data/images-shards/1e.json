@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "df2a301d",
+      "filename": "pixiv_150020704_p0.jpg",
+      "path": "uploads/2026/09/e36ae973.jpg",
+      "size": 1293497,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0b18f2d6c0c4cc54ad277b7c8b39ebb95c824f77bbfe6f446aaa52d002e600fd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T13:33:20.906Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "左近の桜・右近の橘",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "狐像"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150020704_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150020704",
+      "sourceCreatedAt": "2026-09-23T11:09:33.000Z"
+    },
+    {
       "id": "820c1c83",
       "filename": "pixiv_150021882_p0.jpg",
       "path": "uploads/2026/09/fff890e9.jpg",
