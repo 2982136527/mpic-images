@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "2d626dfe",
+      "filename": "pixiv_148931227_p0.jpg",
+      "path": "uploads/2026/09/87afd125.jpg",
+      "size": 947019,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "05011a9723e47c26c45488888f62246e7d1060e5ed41344ac3e0b15874aed011",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T13:40:24.962Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "緋英さん描きました",
+      "tags": [
+        "崩壊スターレイル",
+        "HonkaiStarRail",
+        "緋英"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "148931227_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/148931227",
+      "sourceCreatedAt": "2026-08-26T23:19:53.000Z"
+    },
+    {
       "id": "b2bee590",
       "filename": "pixiv_150006077_p0.jpg",
       "path": "uploads/2026/09/212ed407.jpg",
