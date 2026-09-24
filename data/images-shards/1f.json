@@ -3,6 +3,35 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "b2ff8bc0",
+      "filename": "pixiv_150005739_p0.jpg",
+      "path": "uploads/2026/09/134e3787.jpg",
+      "size": 756410,
+      "width": 829,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "63a1f6de420b9e269bb52ac5196f6b76fc8b7071a969450a7fa304040132dd2c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T13:35:35.124Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "こーゆーのもすきです",
+      "tags": [
+        "こーゆーのがすきです",
+        "オリジナル",
+        "漫画",
+        "飴と鞭",
+        "なでなで",
+        "考えるな、感じろ",
+        "あまあま",
+        "勇者パーティー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150005739_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150005739",
+      "sourceCreatedAt": "2026-09-23T03:11:48.000Z"
+    },
+    {
       "id": "35e2842c",
       "filename": "pixiv_149784375_p0.jpg",
       "path": "uploads/2026/09/c6e29a1c.jpg",
