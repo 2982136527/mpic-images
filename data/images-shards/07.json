@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "4c234c9b",
+      "filename": "pixiv_150018572_p0.jpg",
+      "path": "uploads/2026/09/13885e50.jpg",
+      "size": 1111349,
+      "width": 1200,
+      "height": 879,
+      "mimeType": "image/jpeg",
+      "hash": "963411c81af16d57cef01380fd6946137e7720b6132e27ea39e42b3bf8631e94",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T13:37:28.552Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "秋サンド(2026)",
+      "tags": [
+        "東方Project",
+        "秋サンド",
+        "秋姉妹",
+        "レティ・ホワイトロック"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150018572_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150018572",
+      "sourceCreatedAt": "2026-09-23T10:20:41.000Z"
+    },
+    {
       "id": "eebfb8c4",
       "filename": "pixiv_149994771_p0.jpg",
       "path": "uploads/2026/09/5d16db2a.jpg",
