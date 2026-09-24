@@ -3,6 +3,37 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "228483ff",
+      "filename": "pixiv_149949426_p0.jpg",
+      "path": "uploads/2026/09/e300ac7a.jpg",
+      "size": 971107,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e7ac87c0a6df986d1bc8627e736eeaadf5014a75caf7f628025eb0fe7f7987af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T13:37:40.289Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "かわらずのいし",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "聖園ミカ",
+        "浦和ハナコ",
+        "下江コハル",
+        "百合園セイア",
+        "桐藤ナギサ",
+        "阿慈谷ヒフミ",
+        "かわらずのいし",
+        "羽川ハスミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149949426_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149949426",
+      "sourceCreatedAt": "2026-09-21T15:27:38.000Z"
+    },
+    {
       "id": "c652e1bc",
       "filename": "pixiv_149947754_p0.jpg",
       "path": "uploads/2026/09/de5951da.jpg",
