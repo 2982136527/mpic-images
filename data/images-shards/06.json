@@ -3,6 +3,28 @@
   "shardId": "06",
   "images": [
     {
+      "id": "c015d0ff",
+      "filename": "pixiv_150021091_p0.jpg",
+      "path": "uploads/2026/09/81990443.jpg",
+      "size": 730911,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3107155ea5746c86b8bc8a2314d9126f24e70d86bb5d4f4f3280d5583be0ec68",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-24T13:32:06.640Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "まてされる吸血鬼かなまふ",
+      "tags": [
+        "かなまふ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150021091_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150021091",
+      "sourceCreatedAt": "2026-09-23T11:19:05.000Z"
+    },
+    {
       "id": "568e72ae",
       "filename": "pixiv_150026805_p0.jpg",
       "path": "uploads/2026/09/c8807cf9.jpg",
