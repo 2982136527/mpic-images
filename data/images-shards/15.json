@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "553da15c",
+      "filename": "pixiv_150032147_p0.jpg",
+      "path": "uploads/2026/09/4d8671a2.jpg",
+      "size": 454642,
+      "width": 749,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2c1f2adb0217eff069ab2575eaaec0a00985f77d981d448f91267f929f116d40",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:41:10.883Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ちょっとまって。",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150032147_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150032147",
+      "sourceCreatedAt": "2026-09-23T15:02:00.000Z"
+    },
+    {
       "id": "b1da5cca",
       "filename": "pixiv_149791958_p0.jpg",
       "path": "uploads/2026/09/bf32e5fe.jpg",
