@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "e4259326",
+      "filename": "pixiv_149991213_p0.jpg",
+      "path": "uploads/2026/09/0b352f5d.jpg",
+      "size": 552638,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b6403f8badd4d5864558b4c6dec2fd9cdff1764a75fa507fef9233a2a0286991",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:45:41.517Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "근황...",
+      "tags": [
+        "이터널리턴",
+        "EternalReturn",
+        "EternalReturn:BlackSurvival"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149991213_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149991213",
+      "sourceCreatedAt": "2026-09-22T15:38:04.000Z"
+    },
+    {
       "id": "34fc3eee",
       "filename": "pixiv_149993762_p0.jpg",
       "path": "uploads/2026/09/b300b840.jpg",
