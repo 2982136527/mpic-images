@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "a2fbf135",
+      "filename": "pixiv_150050658_p0.jpg",
+      "path": "uploads/2026/09/12a585ea.jpg",
+      "size": 498428,
+      "width": 727,
+      "height": 1094,
+      "mimeType": "image/jpeg",
+      "hash": "a2a6adf833ba6c61bb956cc21d63d6bdce86a32819e7c25e397b095ab2992c4a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:43:16.766Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "天宮こころ",
+      "tags": [
+        "天宮こころ",
+        "バーチャルYouTuber",
+        "にじさんじ",
+        "VTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150050658_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150050658",
+      "sourceCreatedAt": "2026-09-24T07:24:57.000Z"
+    },
+    {
       "id": "4dff1caa",
       "filename": "pixiv_150033282_p0.jpg",
       "path": "uploads/2026/09/c5700042.jpg",
