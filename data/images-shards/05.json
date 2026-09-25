@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "58865224",
+      "filename": "pixiv_149989240_p0.jpg",
+      "path": "uploads/2026/09/7923eec0.jpg",
+      "size": 1533547,
+      "width": 881,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "374e5f3b70edeb0943c8943f352c65a7d34e99612622ba8a4d8d7804c35f8841",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T19:58:57.405Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "うさ耳霊夢ちゃん",
+      "tags": [
+        "東方",
+        "博麗霊夢",
+        "東方Project1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149989240_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149989240",
+      "sourceCreatedAt": "2026-09-22T15:00:41.000Z"
+    },
+    {
       "id": "bbba7315",
       "filename": "pixiv_150014764_p0.jpg",
       "path": "uploads/2026/09/3d2e5067.jpg",
