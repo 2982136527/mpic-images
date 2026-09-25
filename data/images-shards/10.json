@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "ac58a85b",
+      "filename": "pixiv_150037713_p0.jpg",
+      "path": "uploads/2026/09/a5b797af.jpg",
+      "size": 1095179,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "370b8964f691f4746b22ee8c24664d6cce501631f202c529ead62c3763cdb2b3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:51:18.865Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Happy Chuseok🌕",
+      "tags": [
+        "BL",
+        "nsfw",
+        "ショタおに",
+        "雄っぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150037713_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150037713",
+      "sourceCreatedAt": "2026-09-23T18:02:34.000Z"
+    },
+    {
       "id": "b8af75b1",
       "filename": "pixiv_150023804_p0.jpg",
       "path": "uploads/2026/09/ec42eea4.jpg",
