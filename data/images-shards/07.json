@@ -3,6 +3,37 @@
   "shardId": "07",
   "images": [
     {
+      "id": "f94143fb",
+      "filename": "pixiv_150059044_p0.jpg",
+      "path": "uploads/2026/09/8175030a.jpg",
+      "size": 576372,
+      "width": 957,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "451018eb31c0a2c9435f31bdebbfe58dbaa5a94891c63e6a22e51f9533cfe81a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:45:16.886Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "桃ンガ",
+      "tags": [
+        "仮面ライダー電王",
+        "ちいかわ",
+        "モモンガ(ちいかわ)",
+        "音割れモモンガ",
+        "モモタロス",
+        "食べたいんだよォー",
+        "仮面ライダーちいかわ",
+        "誰だお前",
+        "ソードフォーム",
+        "イマジンズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150059044_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150059044",
+      "sourceCreatedAt": "2026-09-24T11:42:54.000Z"
+    },
+    {
       "id": "a31c00b6",
       "filename": "pixiv_149963932_p0.jpg",
       "path": "uploads/2026/09/308d4f4d.jpg",
