@@ -3,6 +3,37 @@
   "shardId": "15",
   "images": [
     {
+      "id": "7c314c50",
+      "filename": "pixiv_150035569_p0.jpg",
+      "path": "uploads/2026/09/ba42f5e0.jpg",
+      "size": 1470785,
+      "width": 1148,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5ab91d15eb2b4b45b58d02f89a375511e050c0c76136bf5f4ee7313c7e0406f6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T20:04:23.391Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ヒカリ／セレナ 【立ち絵】",
+      "tags": [
+        "ポケモン",
+        "ポケモン人間絵",
+        "ポケモン女主人公",
+        "ヒカリ",
+        "ヒカリ(トレーナー)",
+        "DPt",
+        "BDSP",
+        "セレナ",
+        "セレナ(トレーナー)",
+        "ポケモンXY"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150035569_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150035569",
+      "sourceCreatedAt": "2026-09-23T16:30:01.000Z"
+    },
+    {
       "id": "2fe92ba5",
       "filename": "pixiv_150013493_p0.jpg",
       "path": "uploads/2026/09/5e78b1e1.jpg",
