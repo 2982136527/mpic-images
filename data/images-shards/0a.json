@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "45e7733c",
+      "filename": "pixiv_150030800_p0.jpg",
+      "path": "uploads/2026/09/9fbbcd73.jpg",
+      "size": 777206,
+      "width": 1200,
+      "height": 867,
+      "mimeType": "image/jpeg",
+      "hash": "740c66bb0b79def3d3e92a77f1daec3ab1351db4f45c119f7490e84c8eb401ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:42:12.490Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ほぼ天使くんのXまとめ",
+      "tags": [
+        "チェンソーマン",
+        "天使の悪魔",
+        "早川アキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150030800_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150030800",
+      "sourceCreatedAt": "2026-09-23T14:41:12.000Z"
+    },
+    {
       "id": "9260b7b1",
       "filename": "pixiv_150032108_p0.jpg",
       "path": "uploads/2026/09/37cce22a.jpg",
