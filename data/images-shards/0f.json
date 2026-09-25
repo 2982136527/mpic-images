@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "8001736a",
+      "filename": "pixiv_150033495_p0.jpg",
+      "path": "uploads/2026/09/58bacc4a.jpg",
+      "size": 1702098,
+      "width": 934,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "142e9a71bfa13f624ecb72f1afd7e0fa109c66f6e287a71380f3c5d440c80e7e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T19:59:03.198Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "現着したら起こして",
+      "tags": [
+        "オリジナル",
+        "ReSURGUM"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150033495_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150033495",
+      "sourceCreatedAt": "2026-09-23T15:30:02.000Z"
+    },
+    {
       "id": "669c8567",
       "filename": "pixiv_150025321_p0.jpg",
       "path": "uploads/2026/09/cecc08d4.jpg",
