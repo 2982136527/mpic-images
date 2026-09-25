@@ -3,6 +3,28 @@
   "shardId": "05",
   "images": [
     {
+      "id": "c199b039",
+      "filename": "pixiv_150015381_p0.jpg",
+      "path": "uploads/2026/09/79ce5b2b.jpg",
+      "size": 1239903,
+      "width": 718,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2a95d25008156ee7b04e9ae73e5f3ba1c1a019e92311d915e67ca5036a0fef0f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:46:25.606Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "傷物",
+      "tags": [
+        "探索者"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150015381_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150015381",
+      "sourceCreatedAt": "2026-09-23T09:00:28.000Z"
+    },
+    {
       "id": "293519d1",
       "filename": "pixiv_149982114_p0.jpg",
       "path": "uploads/2026/09/745d2efe.jpg",
