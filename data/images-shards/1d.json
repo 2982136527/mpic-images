@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "e101f7b2",
+      "filename": "pixiv_150001292_p0.jpg",
+      "path": "uploads/2026/09/d934c95c.jpg",
+      "size": 564026,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0e716b873746a519b0a19cdd297fb0fe05e0611bb293d86ecc2f659c42529520",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T20:01:17.188Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "白髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150001292_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150001292",
+      "sourceCreatedAt": "2026-09-22T23:58:36.000Z"
+    },
+    {
       "id": "57242fb0",
       "filename": "pixiv_150052914_p0.jpg",
       "path": "uploads/2026/09/c02ac7dd.jpg",
