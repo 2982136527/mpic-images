@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "8e2b7090",
+      "filename": "pixiv_150012787_p0.jpg",
+      "path": "uploads/2026/09/f7e331b8.jpg",
+      "size": 661531,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "22c4300e4fdfeb5f23437487aea5357bdbd1e6793b5328dd9727013567413c8d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:50:32.801Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "新人サブトレちゃん♂",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "男の娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150012787_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150012787",
+      "sourceCreatedAt": "2026-09-23T07:40:09.000Z"
+    },
+    {
       "id": "8d11d9e4",
       "filename": "pixiv_150041823_p0.jpg",
       "path": "uploads/2026/09/bf86eecc.jpg",
