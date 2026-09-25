@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "474133fb",
+      "filename": "pixiv_150033636_p0.jpg",
+      "path": "uploads/2026/09/2fcb5aa2.jpg",
+      "size": 1538611,
+      "width": 1200,
+      "height": 660,
+      "mimeType": "image/jpeg",
+      "hash": "f8fc0ec34276ac851ffa88a222ec6fd7c074e2ebce61a20f1fbfbaa5eccbf4ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T20:02:45.379Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "🍁",
+      "tags": [
+        "女の子",
+        "桜田シロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150033636_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150033636",
+      "sourceCreatedAt": "2026-09-23T15:32:03.000Z"
+    },
+    {
       "id": "fba84d11",
       "filename": "pixiv_150051427_p0.jpg",
       "path": "uploads/2026/09/c23c4c32.jpg",
