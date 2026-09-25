@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "cbf26e43",
+      "filename": "pixiv_150029903_p0.jpg",
+      "path": "uploads/2026/09/5c9dca31.jpg",
+      "size": 560085,
+      "width": 850,
+      "height": 1050,
+      "mimeType": "image/jpeg",
+      "hash": "bf48b3e685420df4c43db1f70c1dc3b5d8b8974ce6bc1b12eeb7d2020f1f1704",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:51:34.377Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "まのさば漫画",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "二階堂ヒロ",
+        "沢渡ココ",
+        "紫藤アリサ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150029903_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150029903",
+      "sourceCreatedAt": "2026-09-23T14:21:45.000Z"
+    },
+    {
       "id": "f94143fb",
       "filename": "pixiv_150059044_p0.jpg",
       "path": "uploads/2026/09/8175030a.jpg",
