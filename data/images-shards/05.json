@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "c313f9ff",
+      "filename": "pixiv_150059995_p0.jpg",
+      "path": "uploads/2026/09/078f1428.jpg",
+      "size": 632901,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "5edf06e204c629f8e9909f7c793df7038ef072bf0d732c398197f9884da5d217",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T20:03:43.437Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "NCこあ",
+      "tags": [
+        "東方Project",
+        "小悪魔(東方Project)",
+        "東方紅魔郷NewClassic",
+        "こあぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150059995_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150059995",
+      "sourceCreatedAt": "2026-09-24T12:03:15.000Z"
+    },
+    {
       "id": "1b26a071",
       "filename": "pixiv_150002805_p0.jpg",
       "path": "uploads/2026/09/c6dd5ea4.jpg",
