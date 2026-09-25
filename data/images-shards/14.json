@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "2503a2aa",
+      "filename": "pixiv_150055925_p0.jpg",
+      "path": "uploads/2026/09/eee1074d.jpg",
+      "size": 976609,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "9f55c63d206597304ddc0ced081cbb51d34e0a361adc1a8a50d1acbb93f65b5e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T20:04:01.617Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "⛪️",
+      "tags": [
+        "イラスト",
+        "PPT夢",
+        "illustration"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150055925_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150055925",
+      "sourceCreatedAt": "2026-09-24T10:24:18.000Z"
+    },
+    {
       "id": "238129ff",
       "filename": "pixiv_150060415_p0.jpg",
       "path": "uploads/2026/09/4103372e.jpg",
