@@ -3,6 +3,37 @@
   "shardId": "14",
   "images": [
     {
+      "id": "daa5bcf7",
+      "filename": "pixiv_150046998_p0.jpg",
+      "path": "uploads/2026/09/34756f0b.jpg",
+      "size": 1526181,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "fa592a7241f46d0fd9306cb5512fc1e86b890906c3697a1f05b707adf2fd1bca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T20:06:56.558Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "青春。",
+      "tags": [
+        "ホロライブ",
+        "FLOWGLOW",
+        "輪堂千速",
+        "もはやちはや",
+        "虎金妃笑虎",
+        "VTuber",
+        "水宮枢",
+        "綺々羅々ヴィヴィ",
+        "響咲リオナ",
+        "バーチャルYouTuber100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150046998_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150046998",
+      "sourceCreatedAt": "2026-09-24T03:55:37.000Z"
+    },
+    {
       "id": "2503a2aa",
       "filename": "pixiv_150055925_p0.jpg",
       "path": "uploads/2026/09/eee1074d.jpg",
