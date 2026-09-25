@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "9260b7b1",
+      "filename": "pixiv_150032108_p0.jpg",
+      "path": "uploads/2026/09/37cce22a.jpg",
+      "size": 1683510,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "655368e2057aff9fb848b1bbfa29ae2efde56e35d1706354d9d9c80dbd19c07c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:42:04.044Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "紅魔館ウサギトラブル",
+      "tags": [
+        "東方",
+        "レミリア・スカーレット",
+        "フランドール・スカーレット",
+        "兔耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150032108_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150032108",
+      "sourceCreatedAt": "2026-09-23T15:01:40.000Z"
+    },
+    {
       "id": "147640ee",
       "filename": "pixiv_150026339_p0.jpg",
       "path": "uploads/2026/09/f20ed90e.jpg",
