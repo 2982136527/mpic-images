@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "86ccf129",
+      "filename": "pixiv_150031808_p0.jpg",
+      "path": "uploads/2026/09/b126af0c.jpg",
+      "size": 1355845,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6eb7c24ecb3322520b771367bb45707aa71bdeb218f1e6a86777960dbb1ffb7f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:39:35.802Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "AERAS",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "白髪",
+        "女の子",
+        "Eternal_White",
+        "MISTEE"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150031808_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150031808",
+      "sourceCreatedAt": "2026-09-23T15:00:11.000Z"
+    },
+    {
       "id": "292af368",
       "filename": "pixiv_149989171_p0.jpg",
       "path": "uploads/2026/09/09e7767a.jpg",
