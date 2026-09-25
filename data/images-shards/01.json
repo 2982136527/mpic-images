@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "87a6d73b",
+      "filename": "pixiv_150012163_p0.jpg",
+      "path": "uploads/2026/09/ea533c99.jpg",
+      "size": 467105,
+      "width": 853,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6b1b26505a1b253c4d7c4e479b23d5d0543e9e02a692bd69e456c0481c04c004",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:43:09.543Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Jester",
+      "tags": [
+        "うちの子",
+        "男の娘",
+        "道化師"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150012163_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150012163",
+      "sourceCreatedAt": "2026-09-23T07:17:02.000Z"
+    },
+    {
       "id": "c33e4e0a",
       "filename": "pixiv_150029219_p0.jpg",
       "path": "uploads/2026/09/8001667f.jpg",
