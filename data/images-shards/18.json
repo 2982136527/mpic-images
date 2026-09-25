@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "461eebe9",
+      "filename": "pixiv_150060849_p0.jpg",
+      "path": "uploads/2026/09/b0a02bf0.jpg",
+      "size": 1045742,
+      "width": 626,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14a79e15a2678bc1dd6cd3a3fb0d487d7bc12a67d872e64a5da9012ad909fa3b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:46:10.072Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "vodyanitsa",
+      "tags": [
+        "vodyanitsa",
+        "genshinimpact"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150060849_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150060849",
+      "sourceCreatedAt": "2026-09-24T12:26:31.000Z"
+    },
+    {
       "id": "27be6343",
       "filename": "pixiv_150014379_p0.jpg",
       "path": "uploads/2026/09/ce68e7aa.jpg",
