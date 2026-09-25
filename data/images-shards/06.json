@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "6869f6df",
+      "filename": "pixiv_150018741_p0.jpg",
+      "path": "uploads/2026/09/3a2598a9.jpg",
+      "size": 1122699,
+      "width": 1200,
+      "height": 1061,
+      "mimeType": "image/jpeg",
+      "hash": "3d1642b7b108e1b75fc5ccca0a73860d3af4f07b33ce617d35b8b107a4a3a838",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:43:31.691Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "葛飾北斎 × 初音ミク",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "葛飾北斎",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150018741_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150018741",
+      "sourceCreatedAt": "2026-09-23T10:25:33.000Z"
+    },
+    {
       "id": "904ee41b",
       "filename": "pixiv_150031854_p0.jpg",
       "path": "uploads/2026/09/92abda29.jpg",
