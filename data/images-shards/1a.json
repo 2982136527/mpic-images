@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "fd85e579",
+      "filename": "pixiv_150051930_p0.jpg",
+      "path": "uploads/2026/09/3406e604.jpg",
+      "size": 980348,
+      "width": 1200,
+      "height": 667,
+      "mimeType": "image/jpeg",
+      "hash": "76779bc29eb2bead02820a5d8975c4c3940f7e860ea10b54882edb3c647b6243",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:44:06.439Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ニューオーダー",
+      "tags": [
+        "部屋",
+        "背景",
+        "風景",
+        "ワイン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150051930_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150051930",
+      "sourceCreatedAt": "2026-09-24T08:18:39.000Z"
+    },
+    {
       "id": "a2fbf135",
       "filename": "pixiv_150050658_p0.jpg",
       "path": "uploads/2026/09/12a585ea.jpg",
