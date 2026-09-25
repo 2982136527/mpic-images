@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "57242fb0",
+      "filename": "pixiv_150052914_p0.jpg",
+      "path": "uploads/2026/09/c02ac7dd.jpg",
+      "size": 547278,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d9dca7ffc837838ff28f5e524a3f243115dc24eb0f1f0759e5f9c0e193aac588",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:40:38.591Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "長門さん",
+      "tags": [
+        "長門有希",
+        "涼宮ハルヒの憂鬱",
+        "台湾の長門職人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150052914_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150052914",
+      "sourceCreatedAt": "2026-09-24T08:58:12.000Z"
+    },
+    {
       "id": "d75e22b5",
       "filename": "pixiv_150025572_p0.jpg",
       "path": "uploads/2026/09/06e1413e.jpg",
