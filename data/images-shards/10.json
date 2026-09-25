@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "073884ef",
+      "filename": "pixiv_150009863_p0.jpg",
+      "path": "uploads/2026/09/8c8a2b14.jpg",
+      "size": 193362,
+      "width": 444,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "hash": "094960f242b79f20340c905e1a9454f5b84869977f0429e12ef73ed8efea9998",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:45:23.977Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": ".",
+      "tags": [
+        "まのさば",
+        "イワン雷帝とその息子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150009863_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150009863",
+      "sourceCreatedAt": "2026-09-23T05:56:27.000Z"
+    },
+    {
       "id": "3c252a8b",
       "filename": "pixiv_150007269_p0.jpg",
       "path": "uploads/2026/09/a1d752d7.jpg",
