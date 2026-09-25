@@ -3,6 +3,37 @@
   "shardId": "15",
   "images": [
     {
+      "id": "6ead201e",
+      "filename": "pixiv_150053627_p0.jpg",
+      "path": "uploads/2026/09/a1b21045.jpg",
+      "size": 448267,
+      "width": 747,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "572eb42b2488f3156cf130b9383ac2542b642f8848a5467dbd1f0c16923e30a5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:41:53.446Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "练习",
+      "tags": [
+        "ブルーアーカイブ",
+        "黒タイツ",
+        "碧蓝档案",
+        "鬼方カヨコ",
+        "黑丝",
+        "小塗マキ(キャンプ)",
+        "生塩ノア",
+        "飛鳥馬トキ",
+        "古関ウイ",
+        "小塗マキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150053627_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150053627",
+      "sourceCreatedAt": "2026-09-24T09:14:02.000Z"
+    },
+    {
       "id": "553da15c",
       "filename": "pixiv_150032147_p0.jpg",
       "path": "uploads/2026/09/4d8671a2.jpg",
