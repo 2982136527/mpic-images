@@ -3,6 +3,28 @@
   "shardId": "18",
   "images": [
     {
+      "id": "de93cc73",
+      "filename": "pixiv_150030637_p0.jpg",
+      "path": "uploads/2026/09/430f070e.jpg",
+      "size": 1003530,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d222f7da31050669d3ec402cc4c1704f299b1ca8e45a408b7cab7c5e1fe67baa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:50:25.297Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "没落令嬢の悪党賛歌",
+      "tags": [
+        "没落令嬢の悪党賛歌"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150030637_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150030637",
+      "sourceCreatedAt": "2026-09-23T14:47:24.000Z"
+    },
+    {
       "id": "5ef85a93",
       "filename": "pixiv_150011506_p0.jpg",
       "path": "uploads/2026/09/348a0eb4.jpg",
