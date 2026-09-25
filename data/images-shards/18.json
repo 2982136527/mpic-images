@@ -3,6 +3,32 @@
   "shardId": "18",
   "images": [
     {
+      "id": "14a04dd4",
+      "filename": "pixiv_150001574_p0.jpg",
+      "path": "uploads/2026/09/067d6aab.jpg",
+      "size": 884296,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "592223361995e79c476322e2737c993b19834c6640b57708bd78747907f5ac94",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:52:25.545Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ロノヴァ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ロノヴァ",
+        "Ronova",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150001574_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150001574",
+      "sourceCreatedAt": "2026-09-23T00:10:21.000Z"
+    },
+    {
       "id": "44b24dbc",
       "filename": "pixiv_150022665_p0.jpg",
       "path": "uploads/2026/09/f17625af.jpg",
