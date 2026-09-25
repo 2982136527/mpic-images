@@ -3,6 +3,37 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "ec9672dc",
+      "filename": "pixiv_150021010_p0.jpg",
+      "path": "uploads/2026/09/97b91c12.jpg",
+      "size": 779716,
+      "width": 723,
+      "height": 964,
+      "mimeType": "image/jpeg",
+      "hash": "85cedc358e35879c698ff28a4e5dab0bfa1d98edcabadcffd80244987503ca71",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T19:59:40.816Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "小ネタ祭り",
+      "tags": [
+        "仮面ライダーマイス",
+        "名探偵プリキュア!",
+        "ドンパッチソード",
+        "トム・ブラウン",
+        "中の人ネタ",
+        "仮面ライダーメイジ",
+        "マンダロリアン・アンド・グローグー",
+        "ネタが多すぎてタグに困る",
+        "仮面ライダーヴァレン",
+        "首領パッチソード"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150021010_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150021010",
+      "sourceCreatedAt": "2026-09-23T11:16:49.000Z"
+    },
+    {
       "id": "2ea537bd",
       "filename": "pixiv_150032483_p0.jpg",
       "path": "uploads/2026/09/43144220.jpg",
