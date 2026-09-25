@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "0b699b8f",
+      "filename": "pixiv_150033185_p0.jpg",
+      "path": "uploads/2026/09/55b374ec.jpg",
+      "size": 471679,
+      "width": 857,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57aae342b64dface3c78c07e41993af4389b352dd793e1dc76152e42576879a3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:51:27.542Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "수정했우",
+      "tags": [
+        "낙서",
+        "그림",
+        "이터널리턴",
+        "EternalReturn:BlackSurvival"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150033185_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150033185",
+      "sourceCreatedAt": "2026-09-23T15:22:12.000Z"
+    },
+    {
       "id": "3957499b",
       "filename": "pixiv_150025928_p0.jpg",
       "path": "uploads/2026/09/fe4d9d81.jpg",
