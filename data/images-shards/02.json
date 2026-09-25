@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "3957499b",
+      "filename": "pixiv_150025928_p0.jpg",
+      "path": "uploads/2026/09/fe4d9d81.jpg",
+      "size": 1026804,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f39a1d062af62108c3137c39f1e9a4e4c01c4d7c375f6547d88476117d65b8fb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:48:07.537Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ファニアさん",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150025928_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150025928",
+      "sourceCreatedAt": "2026-09-23T12:58:28.000Z"
+    },
+    {
       "id": "cf68bf12",
       "filename": "pixiv_150007013_p0.jpg",
       "path": "uploads/2026/09/847e1433.jpg",
