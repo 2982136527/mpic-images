@@ -3,6 +3,28 @@
   "shardId": "16",
   "images": [
     {
+      "id": "ea06bb6e",
+      "filename": "pixiv_150036011_p0.jpg",
+      "path": "uploads/2026/09/6a9fbdc7.jpg",
+      "size": 112283,
+      "width": 564,
+      "height": 689,
+      "mimeType": "image/jpeg",
+      "hash": "8434aac1a40edb9d05ef8df07562b030afbfe1e70db87dab9319e67a50dbf08e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:51:41.402Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ｳﾆ-!!",
+      "tags": [
+        "ブラッキー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150036011_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150036011",
+      "sourceCreatedAt": "2026-09-23T16:45:26.000Z"
+    },
+    {
       "id": "2be0d165",
       "filename": "pixiv_150001506_p0.jpg",
       "path": "uploads/2026/09/ad6bc21e.jpg",
