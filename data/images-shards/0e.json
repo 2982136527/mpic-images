@@ -3,6 +3,32 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "8f010994",
+      "filename": "pixiv_150032972_p0.jpg",
+      "path": "uploads/2026/09/c24f6176.jpg",
+      "size": 442221,
+      "width": 670,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "59d833f2ea27cd59fc929b9462e4d5cfcd72b973bd95dad5a05c1cc5be973538",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:45:04.567Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "イオリ",
+        "銀鏡イオリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150032972_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150032972",
+      "sourceCreatedAt": "2026-09-23T15:16:26.000Z"
+    },
+    {
       "id": "d1db7ccd",
       "filename": "pixiv_150046343_p0.jpg",
       "path": "uploads/2026/09/7f648b09.jpg",
