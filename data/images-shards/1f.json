@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "a4c7f7ca",
+      "filename": "pixiv_150034839_p0.jpg",
+      "path": "uploads/2026/09/99b1331a.jpg",
+      "size": 572004,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6cd980148427345bd0fa4db7ce0a2f43250c47b5f28c63fe862ad2a4bee2621d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:47:35.412Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "skebの",
+      "tags": [
+        "commission",
+        "ケモノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150034839_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150034839",
+      "sourceCreatedAt": "2026-09-23T16:04:14.000Z"
+    },
+    {
       "id": "f31bfd48",
       "filename": "pixiv_149991372_p0.jpg",
       "path": "uploads/2026/09/d986049b.jpg",
