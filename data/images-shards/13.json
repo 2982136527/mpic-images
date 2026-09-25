@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "ca28fe48",
+      "filename": "pixiv_150025001_p0.jpg",
+      "path": "uploads/2026/09/898a369d.jpg",
+      "size": 1369526,
+      "width": 1045,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a922c7718c82cb091fc460c5d8a7ff429c04a64d135ea707409c0ad14b90b074",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:42:58.537Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "代理",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "男の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150025001_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150025001",
+      "sourceCreatedAt": "2026-09-23T12:37:50.000Z"
+    },
+    {
       "id": "706b9bae",
       "filename": "pixiv_150017985_p0.jpg",
       "path": "uploads/2026/09/8322788e.jpg",
