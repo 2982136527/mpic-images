@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "036068f2",
+      "filename": "pixiv_150053818_p0.jpg",
+      "path": "uploads/2026/09/243bf71c.jpg",
+      "size": 1276050,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "86ac404e157ff76dd233c7c50ec501fe3a626573a40eec07e26e95bd1521928e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:44:13.629Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "鬼龍院せな　詰め合わせ①",
+      "tags": [
+        "鬼龍院せな",
+        "SenaKiryuin",
+        "Vtuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150053818_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150053818",
+      "sourceCreatedAt": "2026-09-24T09:21:07.000Z"
+    },
+    {
       "id": "46d4ca8a",
       "filename": "pixiv_150049813_p0.jpg",
       "path": "uploads/2026/09/ad88dfa6.jpg",
