@@ -3,6 +3,28 @@
   "shardId": "10",
   "images": [
     {
+      "id": "c609c2c0",
+      "filename": "pixiv_150021804_p0.jpg",
+      "path": "uploads/2026/09/b659c99e.jpg",
+      "size": 661503,
+      "width": 516,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1b7f706291d900861083279e5432374460d26e4e6c70fd708af7d76ede5a1354",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:52:09.837Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "もっと近くで見て？",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150021804_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150021804",
+      "sourceCreatedAt": "2026-09-23T11:35:19.000Z"
+    },
+    {
       "id": "ac58a85b",
       "filename": "pixiv_150037713_p0.jpg",
       "path": "uploads/2026/09/a5b797af.jpg",
