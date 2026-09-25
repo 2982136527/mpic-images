@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "bd1f73e1",
+      "filename": "pixiv_150050257_p0.jpg",
+      "path": "uploads/2026/09/5a30696e.jpg",
+      "size": 1611899,
+      "width": 1173,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dca59faa4f3b9d1c232fffd12ef7807716dec7bcec1902dcaf63a454dc3382c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:40:16.881Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "幻想男女録2",
+      "tags": [
+        "東方男体化"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150050257_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150050257",
+      "sourceCreatedAt": "2026-09-24T07:00:39.000Z"
+    },
+    {
       "id": "11c0ebe6",
       "filename": "pixiv_150032620_p0.jpg",
       "path": "uploads/2026/09/6cc2068d.jpg",
