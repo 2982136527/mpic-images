@@ -3,6 +3,34 @@
   "shardId": "10",
   "images": [
     {
+      "id": "d6bc6d75",
+      "filename": "pixiv_150024690_p0.jpg",
+      "path": "uploads/2026/09/486d1df6.jpg",
+      "size": 1506345,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3ca6bdc507c55eccc48a1fbbb651c41fb3884acd70f17b9ac578c860efa401c5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T20:02:57.462Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "💣",
+      "tags": [
+        "イラスト",
+        "illust",
+        "illustration",
+        "anime",
+        "チェンソーマン",
+        "レゼ",
+        "チェンソーマンレゼ篇"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150024690_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150024690",
+      "sourceCreatedAt": "2026-09-23T12:31:21.000Z"
+    },
+    {
       "id": "c5f23782",
       "filename": "pixiv_149989213_p0.jpg",
       "path": "uploads/2026/09/d969f541.jpg",
