@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "a92f7bb2",
+      "filename": "pixiv_150006168_p0.jpg",
+      "path": "uploads/2026/09/fe84ac0e.jpg",
+      "size": 1120817,
+      "width": 809,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "babd0e76b2c782e375073b76347cb49d0e4f7ed384912528aea15073af9e61bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T20:07:59.752Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "水着カフェ",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "マンハッタンカフェ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150006168_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150006168",
+      "sourceCreatedAt": "2026-09-23T03:29:46.000Z"
+    },
+    {
       "id": "037f803c",
       "filename": "pixiv_150015978_p0.jpg",
       "path": "uploads/2026/09/d119cda0.jpg",
