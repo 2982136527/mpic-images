@@ -3,6 +3,33 @@
   "shardId": "07",
   "images": [
     {
+      "id": "26111b6f",
+      "filename": "pixiv_150033499_p0.jpg",
+      "path": "uploads/2026/09/d0d68c8c.jpg",
+      "size": 965239,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "183d5b6bb226c5dce31084590b9ca1aaa46fc1c533e575ab62e41945d04a75a9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T20:01:26.219Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "フォーミダブル",
+      "tags": [
+        "アズールレーン",
+        "AzurLane",
+        "フォーミダブル",
+        "フォーミダブル(アズールレーン)",
+        "おへそ",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150033499_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150033499",
+      "sourceCreatedAt": "2026-09-23T15:30:03.000Z"
+    },
+    {
       "id": "07de955e",
       "filename": "pixiv_150045214_p0.jpg",
       "path": "uploads/2026/09/8a208dad.jpg",
