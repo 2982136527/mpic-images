@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "c8efb357",
+      "filename": "pixiv_150010793_p0.jpg",
+      "path": "uploads/2026/09/22fbe1e0.jpg",
+      "size": 864080,
+      "width": 877,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6f6c67abe68f0dbd6eae10e8bb61963ba543a3fc89bec6e534bd9a3287500068",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:50:17.638Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": ".",
+      "tags": [
+        "铃兰",
+        "スズラン(アークナイツ)",
+        "明日方舟",
+        "アークナイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150010793_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150010793",
+      "sourceCreatedAt": "2026-09-23T06:29:17.000Z"
+    },
+    {
       "id": "1a342ad1",
       "filename": "pixiv_150019255_p0.jpg",
       "path": "uploads/2026/09/87d3909d.jpg",
