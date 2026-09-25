@@ -3,6 +3,33 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "d75e22b5",
+      "filename": "pixiv_150025572_p0.jpg",
+      "path": "uploads/2026/09/06e1413e.jpg",
+      "size": 1442707,
+      "width": 761,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1183c2c12617cee737102c3b105df1778422e115a0b5de67ff64cee0aeff8d30",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:39:03.968Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ロビン",
+      "tags": [
+        "女の子",
+        "少女",
+        "崩壊スターレイル",
+        "HonkaiStarRail",
+        "ロビン",
+        "ロビン(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150025572_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150025572",
+      "sourceCreatedAt": "2026-09-23T12:50:30.000Z"
+    },
+    {
       "id": "c8efb357",
       "filename": "pixiv_150010793_p0.jpg",
       "path": "uploads/2026/09/22fbe1e0.jpg",
