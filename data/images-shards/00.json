@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "e2dae449",
+      "filename": "pixiv_150066831_p0.jpg",
+      "path": "uploads/2026/09/14b3e6b5.jpg",
+      "size": 581154,
+      "width": 717,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b3cf194433a4329c4321f6cc6182b93d2f8476928f9002abc148fd66ad4d0954",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:49:09.500Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "荧",
+      "tags": [
+        "水中",
+        "原神",
+        "GenshinImpact",
+        "荧",
+        "蛍(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150066831_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150066831",
+      "sourceCreatedAt": "2026-09-24T14:46:31.000Z"
+    },
+    {
       "id": "729aa7f7",
       "filename": "pixiv_148927823_p0.jpg",
       "path": "uploads/2026/09/201698a7.jpg",
