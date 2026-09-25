@@ -3,6 +3,28 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "8ee3a36d",
+      "filename": "pixiv_150037338_p0.jpg",
+      "path": "uploads/2026/09/2d36affe.jpg",
+      "size": 362209,
+      "width": 555,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bd593931d875c80a1cbf14af93a02a8efdd2d2af70ccb401a629dff9d086ded6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:48:47.672Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "アオチリまとめ",
+      "tags": [
+        "アオチリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150037338_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150037338",
+      "sourceCreatedAt": "2026-09-23T17:41:59.000Z"
+    },
+    {
       "id": "bdf5d502",
       "filename": "pixiv_149994731_p0.jpg",
       "path": "uploads/2026/09/57c07830.jpg",
