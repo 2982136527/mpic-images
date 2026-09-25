@@ -3,6 +3,34 @@
   "shardId": "12",
   "images": [
     {
+      "id": "0adbd7db",
+      "filename": "pixiv_150033128_p0.jpg",
+      "path": "uploads/2026/09/01d3e5a5.jpg",
+      "size": 1370571,
+      "width": 1200,
+      "height": 750,
+      "mimeType": "image/jpeg",
+      "hash": "0706e63780cc3ea518099ca18f2e9204f31a1900071dd3ebf53aca36c8a2ae5a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:51:47.876Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "抱枕",
+      "tags": [
+        "约稿",
+        "萝莉",
+        "绘画",
+        "少女",
+        "獣耳",
+        "猫耳",
+        "脚"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150033128_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150033128",
+      "sourceCreatedAt": "2026-09-23T15:20:37.000Z"
+    },
+    {
       "id": "6c89d791",
       "filename": "pixiv_150022039_p0.jpg",
       "path": "uploads/2026/09/bb60c1de.jpg",
