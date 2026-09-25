@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "b8cac9cc",
+      "filename": "pixiv_150043460_p0.jpg",
+      "path": "uploads/2026/09/4e81e697.jpg",
+      "size": 1097612,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "001beb013d11b0fde8a36ad6e36293756c6b573414f450935fa55b9f0741f22d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T20:07:18.515Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "艦これ利根が指輪をもらう夜のワンドロ",
+      "tags": [
+        "艦これ",
+        "艦隊これくしょん",
+        "利根(艦隊これくしょん)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150043460_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150043460",
+      "sourceCreatedAt": "2026-09-24T00:25:06.000Z"
+    },
+    {
       "id": "dba7758c",
       "filename": "pixiv_150037318_p0.jpg",
       "path": "uploads/2026/09/84b67d3e.jpg",
