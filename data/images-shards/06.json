@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "93cafcdb",
+      "filename": "pixiv_150015114_p0.jpg",
+      "path": "uploads/2026/09/489ddfa1.jpg",
+      "size": 756740,
+      "width": 818,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "41332684a1bc512f14ea774e3ace8f94391ecb0cb3b041f9ac45cee18973ea23",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T20:00:52.960Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "竜華キサキ",
+      "tags": [
+        "ブルーアーカイブ",
+        "竜華キサキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150015114_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150015114",
+      "sourceCreatedAt": "2026-09-23T08:55:36.000Z"
+    },
+    {
       "id": "6869f6df",
       "filename": "pixiv_150018741_p0.jpg",
       "path": "uploads/2026/09/3a2598a9.jpg",
