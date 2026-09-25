@@ -3,6 +3,37 @@
   "shardId": "01",
   "images": [
     {
+      "id": "473388dd",
+      "filename": "pixiv_150005310_p0.jpg",
+      "path": "uploads/2026/09/bc1f8ba2.jpg",
+      "size": 855984,
+      "width": 1087,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f012ffd34bb2f7aee43efb77263fbcc32d8eea10d933ab1e4ac25b121334dafb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T20:01:58.237Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "ブルアカ漫画2682",
+      "tags": [
+        "漫画",
+        "ブルーアーカイブ",
+        "サユリ(ブルーアーカイブ)",
+        "藤和エリオ",
+        "簀巻き",
+        "先生(ブルーアーカイブ)",
+        "水着コート",
+        "ハイレグ",
+        "デスモモイ",
+        "うすほそ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150005310_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150005310",
+      "sourceCreatedAt": "2026-09-23T03:00:10.000Z"
+    },
+    {
       "id": "0059fa0d",
       "filename": "pixiv_150035956_p0.jpg",
       "path": "uploads/2026/09/fd028037.jpg",
