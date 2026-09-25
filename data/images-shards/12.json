@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "3649e36a",
+      "filename": "pixiv_149989156_p0.jpg",
+      "path": "uploads/2026/09/9f1cd669.jpg",
+      "size": 1038302,
+      "width": 821,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "22e5f7231f49883a44858077fc72af6ae172f00da2ec4f9b4583320aa1b0f9fe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:38:56.138Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Vesna",
+      "tags": [
+        "原神",
+        "ヴェスナ",
+        "原神スネージナヤ",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149989156_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149989156",
+      "sourceCreatedAt": "2026-09-22T15:00:25.000Z"
+    },
+    {
       "id": "e23fc20d",
       "filename": "pixiv_150031901_p0.jpg",
       "path": "uploads/2026/09/c0294c06.jpg",
