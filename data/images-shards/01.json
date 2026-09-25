@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "0059fa0d",
+      "filename": "pixiv_150035956_p0.jpg",
+      "path": "uploads/2026/09/fd028037.jpg",
+      "size": 1203461,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cf03b38d9b28608a7152bc2797eca85937bdc9c666ea166d125d661796cbb723",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T13:43:54.464Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "Nanako Niku",
+      "tags": [
+        "女の子",
+        "ゴシック",
+        "ケモミミ",
+        "ゴスロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150035956_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150035956",
+      "sourceCreatedAt": "2026-09-23T16:43:07.000Z"
+    },
+    {
       "id": "87a6d73b",
       "filename": "pixiv_150012163_p0.jpg",
       "path": "uploads/2026/09/ea533c99.jpg",
