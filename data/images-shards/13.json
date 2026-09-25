@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "706b9bae",
+      "filename": "pixiv_150017985_p0.jpg",
+      "path": "uploads/2026/09/8322788e.jpg",
+      "size": 1654793,
+      "width": 1175,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ee5eb785091ef4b73f0effb2d3b705452d575f8183d21dbaff967a8e0344b285",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-25T04:52:40.604Z",
+      "repo": "mpic-images-4",
+      "isPublic": true,
+      "title": "秋分",
+      "tags": [
+        "東方Project",
+        "東方",
+        "秋静葉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150017985_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150017985",
+      "sourceCreatedAt": "2026-09-23T10:03:03.000Z"
+    },
+    {
       "id": "f9a97ebe",
       "filename": "pixiv_150045865_p0.jpg",
       "path": "uploads/2026/09/25507546.jpg",
