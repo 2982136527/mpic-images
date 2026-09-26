@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "47b2cee6",
+      "filename": "pixiv_150079084_p0.jpg",
+      "path": "uploads/2026/09/d1076fdc.jpg",
+      "size": 963489,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "69b5b5b513a5a262fb7851aba3741d2acd8066d1f5bd2ccee170a7dd66576ccc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T19:15:22.979Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Vampire's Kiss colored",
+      "tags": [
+        "百合",
+        "ゼンレスゾーンゼロ",
+        "クラレッタ",
+        "ロクシー(ゼンゼロ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150079084_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150079084",
+      "sourceCreatedAt": "2026-09-25T00:47:02.000Z"
+    },
+    {
       "id": "27a7f444",
       "filename": "pixiv_150067657_p0.jpg",
       "path": "uploads/2026/09/2e81e74f.jpg",
