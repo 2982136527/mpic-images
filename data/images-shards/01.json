@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "dc8d0457",
+      "filename": "pixiv_150078691_p0.jpg",
+      "path": "uploads/2026/09/8b97943c.jpg",
+      "size": 336225,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2a8111f848fa2b2c368df088af03f46a9082bc97eafdb88ddd366be22518fea5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:53:26.249Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "삼촌 용돈주세요",
+      "tags": [
+        "崩壊スターレイル",
+        "開拓者(スターレイル)",
+        "カフカ(スターレイル)",
+        "刃(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150078691_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150078691",
+      "sourceCreatedAt": "2026-09-25T00:18:48.000Z"
+    },
+    {
       "id": "473388dd",
       "filename": "pixiv_150005310_p0.jpg",
       "path": "uploads/2026/09/bc1f8ba2.jpg",
