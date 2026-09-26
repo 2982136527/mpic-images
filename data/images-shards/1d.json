@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "ab251e4f",
+      "filename": "pixiv_150032125_p0.jpg",
+      "path": "uploads/2026/09/5bc53c3f.jpg",
+      "size": 1395784,
+      "width": 1200,
+      "height": 992,
+      "mimeType": "image/jpeg",
+      "hash": "02a70e43bae1ce32b0565437a4dc73bf0a6fc91da59ea0759fbb3d51375bbddb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:48:24.929Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "夏はこれから",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ラッキーライラック(ウマ娘)",
+        "ウマ娘プリティーダービー500users入り",
+        "水着ウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150032125_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150032125",
+      "sourceCreatedAt": "2026-09-23T15:01:50.000Z"
+    },
+    {
       "id": "437edf2b",
       "filename": "pixiv_149820804_p0.jpg",
       "path": "uploads/2026/09/224bc071.jpg",
