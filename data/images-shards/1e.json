@@ -3,6 +3,37 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "20dec508",
+      "filename": "pixiv_150068665_p0.jpg",
+      "path": "uploads/2026/09/9f7ca88f.jpg",
+      "size": 487032,
+      "width": 801,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "d341946e28a2e534d12491c9fc447b9f5f8e12d345bd1ad035495c1be753bd00",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T19:16:12.699Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "レイモンド",
+      "tags": [
+        "クリーチャー",
+        "オリジナルクリーチャー",
+        "人体改造",
+        "機械",
+        "欠損",
+        "ケーブル",
+        "人造人間",
+        "ゾンビ",
+        "ピコピコハンマー",
+        "Memoruin"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150068665_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150068665",
+      "sourceCreatedAt": "2026-09-26T11:49:46.000Z"
+    },
+    {
       "id": "fdfcf63c",
       "filename": "pixiv_150079431_p0.jpg",
       "path": "uploads/2026/09/a79c7c0a.jpg",
