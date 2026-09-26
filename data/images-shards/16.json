@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "30365417",
+      "filename": "pixiv_150044516_p0.jpg",
+      "path": "uploads/2026/09/541bb750.jpg",
+      "size": 942038,
+      "width": 1200,
+      "height": 876,
+      "mimeType": "image/jpeg",
+      "hash": "744add03a6aaa3b30f302b866eefcad3d17c377cc305af2e28a8bdc942410627",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:51:03.360Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "クリーパー",
+      "tags": [
+        "マインクラフト",
+        "Minecraft",
+        "mobtalker",
+        "クリーパーカー",
+        "クリーパー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150044516_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150044516",
+      "sourceCreatedAt": "2026-09-24T01:34:46.000Z"
+    },
+    {
       "id": "16d35499",
       "filename": "pixiv_150088813_p0.jpg",
       "path": "uploads/2026/09/16f9f2ac.jpg",
