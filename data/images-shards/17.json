@@ -3,6 +3,32 @@
   "shardId": "17",
   "images": [
     {
+      "id": "110f0115",
+      "filename": "pixiv_150082226_p0.jpg",
+      "path": "uploads/2026/09/de933c08.jpg",
+      "size": 1122309,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "cbab38bc67a1a2ff739f3444f2a1d4bb1ee2b066a8a4e7a4ae683a6c14946897",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T19:10:58.545Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "崩坏3十周年快乐",
+      "tags": [
+        "崩坏3rd",
+        "寻梦者",
+        "Kiana",
+        "薇塔",
+        "希娜迪亚"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150082226_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150082226",
+      "sourceCreatedAt": "2026-09-25T03:36:41.000Z"
+    },
+    {
       "id": "aefb41bf",
       "filename": "pixiv_150035951_p0.jpg",
       "path": "uploads/2026/09/99b32649.jpg",
