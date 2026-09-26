@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "fb809e82",
+      "filename": "pixiv_150083378_p0.jpg",
+      "path": "uploads/2026/09/fc6ccddc.jpg",
+      "size": 256884,
+      "width": 535,
+      "height": 605,
+      "mimeType": "image/jpeg",
+      "hash": "3d4658c7853576e549377cf5b3ecd815308cfa07d12fc56393ddf96cafe49277",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T12:59:14.570Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "おぴ",
+      "tags": [
+        "原神",
+        "シグウィン",
+        "GenshinImpact",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150083378_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150083378",
+      "sourceCreatedAt": "2026-09-25T04:38:25.000Z"
+    },
+    {
       "id": "b050ab21",
       "filename": "pixiv_150057775_p0.jpg",
       "path": "uploads/2026/09/77417c17.jpg",
