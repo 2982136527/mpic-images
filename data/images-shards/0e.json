@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "b61a44bd",
+      "filename": "pixiv_150084215_p0.jpg",
+      "path": "uploads/2026/09/dda233bc.jpg",
+      "size": 528838,
+      "width": 714,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7e9a162a9563ab93d566b914fbfa64293cccc17da50aa3a80abfc981ca9031d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T13:04:31.549Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ズリ準備",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150084215_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150084215",
+      "sourceCreatedAt": "2026-09-25T05:26:37.000Z"
+    },
+    {
       "id": "ee70d93b",
       "filename": "pixiv_150064075_p0.jpg",
       "path": "uploads/2026/09/410e171c.jpg",
