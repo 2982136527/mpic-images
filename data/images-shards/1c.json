@@ -3,6 +3,34 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "ced154b2",
+      "filename": "pixiv_150085825_p0.jpg",
+      "path": "uploads/2026/09/e865bd30.jpg",
+      "size": 531422,
+      "width": 1200,
+      "height": 899,
+      "mimeType": "image/jpeg",
+      "hash": "7beb97756b260923cbca6b783a10165213a719e44c5c85941c7fb3658cc0266f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T19:13:49.489Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "シワを上手く描けない人へ",
+      "tags": [
+        "描き方",
+        "ハウツー",
+        "ノウハウ",
+        "上達法",
+        "練習法",
+        "講座",
+        "シワ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150085825_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150085825",
+      "sourceCreatedAt": "2026-09-25T06:45:26.000Z"
+    },
+    {
       "id": "09a35dd1",
       "filename": "pixiv_150094228_p0.jpg",
       "path": "uploads/2026/09/33f990e1.jpg",
