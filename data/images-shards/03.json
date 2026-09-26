@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "7bb6b723",
+      "filename": "pixiv_150092923_p0.jpg",
+      "path": "uploads/2026/09/beb7bea9.jpg",
+      "size": 889906,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c0cefc92359264e7dfca99af60eb254db238fa190bf61803ce2e11f881b6d707",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T13:03:00.908Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "わため",
+      "tags": [
+        "ホロライブ",
+        "VTuber",
+        "角巻わため",
+        "バーチャルYouTuber500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150092923_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150092923",
+      "sourceCreatedAt": "2026-09-25T10:36:07.000Z"
+    },
+    {
       "id": "521dee15",
       "filename": "pixiv_150058620_p0.jpg",
       "path": "uploads/2026/09/c8f2345c.jpg",
