@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "821897f9",
+      "filename": "pixiv_150052394_p0.jpg",
+      "path": "uploads/2026/09/a2443502.jpg",
+      "size": 1371109,
+      "width": 1200,
+      "height": 965,
+      "mimeType": "image/jpeg",
+      "hash": "ff6e8136631ab7b5381e7ffe606190da7fe05851e013944147894486b1bc9fc6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:50:01.131Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "huya",
+      "tags": [
+        "StelLive",
+        "사키하네후야",
+        "huyart",
+        "バーチャルYouTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150052394_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150052394",
+      "sourceCreatedAt": "2026-09-24T08:35:53.000Z"
+    },
+    {
       "id": "afcb1b41",
       "filename": "pixiv_150046546_p0.jpg",
       "path": "uploads/2026/09/e4c62564.jpg",
