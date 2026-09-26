@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "fd6f6a86",
+      "filename": "pixiv_150091358_p0.jpg",
+      "path": "uploads/2026/09/e15337e5.jpg",
+      "size": 566081,
+      "width": 1200,
+      "height": 600,
+      "mimeType": "image/jpeg",
+      "hash": "cc3f799666c795d9302dc79d3f246cf0d323285af2ef0372399b19dd6d0ead00",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:53:43.711Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "見上げてみて",
+      "tags": [
+        "女の子",
+        "ショートカット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150091358_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150091358",
+      "sourceCreatedAt": "2026-09-25T09:59:28.000Z"
+    },
+    {
       "id": "5f963e16",
       "filename": "pixiv_150046555_p0.jpg",
       "path": "uploads/2026/09/d12fc783.jpg",
