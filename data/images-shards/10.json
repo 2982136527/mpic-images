@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "2bda0134",
+      "filename": "pixiv_150067534_p0.jpg",
+      "path": "uploads/2026/09/a12c1179.jpg",
+      "size": 1693835,
+      "width": 1200,
+      "height": 687,
+      "mimeType": "image/jpeg",
+      "hash": "6e445011000fa7c91340e98f970cb1aa4989f6d775a772f560ac83983ff3607f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T19:13:15.392Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【お仕事】プロセカ「AWAKE Real Pulse」",
+      "tags": [
+        "プロジェクトセカイ",
+        "プロセカ",
+        "コネクトライブ",
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150067534_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150067534",
+      "sourceCreatedAt": "2026-09-24T15:00:28.000Z"
+    },
+    {
       "id": "321b1b49",
       "filename": "pixiv_150032275_p0.jpg",
       "path": "uploads/2026/09/1f3b582f.jpg",
