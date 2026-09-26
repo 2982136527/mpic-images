@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "95061e56",
+      "filename": "pixiv_150087802_p0.jpg",
+      "path": "uploads/2026/09/04bbb61d.jpg",
+      "size": 1448204,
+      "width": 779,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "211bcd98f38dcd5afbdcee75fee330edd1e24a512c651018d41cc4bd3a46531c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T13:04:24.116Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "白洲アズサ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150087802_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150087802",
+      "sourceCreatedAt": "2026-09-25T08:08:06.000Z"
+    },
+    {
       "id": "1e84cbaf",
       "filename": "pixiv_150052949_p0.jpg",
       "path": "uploads/2026/09/f5400091.jpg",
