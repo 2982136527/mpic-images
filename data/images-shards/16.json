@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "599b454f",
+      "filename": "pixiv_150089805_p0.jpg",
+      "path": "uploads/2026/09/6986e701.jpg",
+      "size": 1049779,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a2f43af774cceb18708ca48204df58fb10d73ab9e7dd9a7dd67200484681a4c5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:49:44.046Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "closed beta－日本語版",
+      "tags": [
+        "百合",
+        "超かぐや姫!",
+        "月見ヤチヨ",
+        "酒寄彩葉",
+        "ヤチいろ",
+        "いろヤチ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150089805_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150089805",
+      "sourceCreatedAt": "2026-09-25T09:09:56.000Z"
+    },
+    {
       "id": "a92f7bb2",
       "filename": "pixiv_150006168_p0.jpg",
       "path": "uploads/2026/09/fe84ac0e.jpg",
