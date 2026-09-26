@@ -3,6 +3,33 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "9fdcc1a1",
+      "filename": "pixiv_150071151_p0.jpg",
+      "path": "uploads/2026/09/e9e8ea5c.jpg",
+      "size": 524865,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f255398611e72b203a4570307ec3987498cef2c3cb4a88a7b171621cde15ff1a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T13:08:01.743Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "スティル",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "スティルインラブ(ウマ娘)",
+        "体育着",
+        "ブルマ",
+        "ウマ娘ジャーブルダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150071151_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150071151",
+      "sourceCreatedAt": "2026-09-24T16:35:41.000Z"
+    },
+    {
       "id": "2b5c8da2",
       "filename": "pixiv_150033180_p0.jpg",
       "path": "uploads/2026/09/b5650a28.jpg",
