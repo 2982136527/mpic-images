@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "15a73d22",
+      "filename": "pixiv_150091590_p0.jpg",
+      "path": "uploads/2026/09/d0ea08b1.jpg",
+      "size": 600220,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6de71a37d42b33b8d5e3aaebe738f19e4e22e7fefe7d512ed7345bae07b4fd89",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T13:03:15.061Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "本居小鈴",
+        "東方",
+        "東方Project",
+        "少女読書中"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150091590_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150091590",
+      "sourceCreatedAt": "2026-09-25T10:01:01.000Z"
+    },
+    {
       "id": "7bb61791",
       "filename": "pixiv_150071442_p0.jpg",
       "path": "uploads/2026/09/ff681a1b.jpg",
