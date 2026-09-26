@@ -3,6 +3,32 @@
   "shardId": "19",
   "images": [
     {
+      "id": "5fac3f46",
+      "filename": "pixiv_150082399_p0.jpg",
+      "path": "uploads/2026/09/7ec0b66c.jpg",
+      "size": 839512,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2cc4b389c3af8b086eb750499733e7c8d39789fabb8060eaf2050053e018a9b4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:47:05.004Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "満月のクレープ",
+      "tags": [
+        "満月珈琲店",
+        "オリジナル",
+        "中秋の名月",
+        "十五夜",
+        "クレープ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150082399_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150082399",
+      "sourceCreatedAt": "2026-09-25T03:46:09.000Z"
+    },
+    {
       "id": "836d164f",
       "filename": "pixiv_150081366_p0.jpg",
       "path": "uploads/2026/09/d55702ad.jpg",
