@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "7bd24c5f",
+      "filename": "pixiv_150034872_p0.jpg",
+      "path": "uploads/2026/09/41fc9297.jpg",
+      "size": 762636,
+      "width": 1200,
+      "height": 728,
+      "mimeType": "image/jpeg",
+      "hash": "dd9d36b73865fd47c46b0496199245474a4dbebecdf9791879e4b2d7b333dc7b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:48:55.152Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "림버스 10장 여러가지",
+      "tags": [
+        "Limbus_Company",
+        "Limbuscompany"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150034872_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150034872",
+      "sourceCreatedAt": "2026-09-23T16:05:02.000Z"
+    },
+    {
       "id": "037ee812",
       "filename": "pixiv_150098312_p0.jpg",
       "path": "uploads/2026/09/3a2e1c82.jpg",
