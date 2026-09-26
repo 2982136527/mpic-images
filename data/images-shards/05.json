@@ -3,6 +3,34 @@
   "shardId": "05",
   "images": [
     {
+      "id": "c7fac20e",
+      "filename": "pixiv_150089379_p0.jpg",
+      "path": "uploads/2026/09/74859216.jpg",
+      "size": 1608740,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "65893ce12c4aacaf9031d4d9dde890b9ae1ca2b59fd4123b4fd24bcbefe62d03",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:53:09.968Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "秋の花編み",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "創作",
+        "三つ編み",
+        "秋",
+        "花",
+        "花と女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150089379_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150089379",
+      "sourceCreatedAt": "2026-09-25T09:00:58.000Z"
+    },
+    {
       "id": "6052e152",
       "filename": "pixiv_150064489_p0.jpg",
       "path": "uploads/2026/09/38a7c01d.jpg",
