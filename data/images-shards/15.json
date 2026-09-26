@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "4c7b19d8",
+      "filename": "pixiv_150068828_p0.jpg",
+      "path": "uploads/2026/09/e637f37f.jpg",
+      "size": 1302835,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "28b2eb924152acd077f5fca16a708cbbfa20991e76526cf37214ae18131c19e4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T13:00:37.928Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "レミフラ🎀",
+      "tags": [
+        "東方Project",
+        "レミリア・スカーレット",
+        "フランドール・スカーレット",
+        "レミフラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150068828_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150068828",
+      "sourceCreatedAt": "2026-09-24T15:24:16.000Z"
+    },
+    {
       "id": "821897f9",
       "filename": "pixiv_150052394_p0.jpg",
       "path": "uploads/2026/09/a2443502.jpg",
