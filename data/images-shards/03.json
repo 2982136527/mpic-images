@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "e9e0d9e2",
+      "filename": "pixiv_150095462_p0.jpg",
+      "path": "uploads/2026/09/e7e85817.jpg",
+      "size": 852086,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df0d2253d51d822475f5627b70588e01d3c425945bb4aa2696162ace7596ae53",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T19:12:28.766Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "来世はクラゲでありますように。",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "イラスト",
+        "クラゲ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150095462_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150095462",
+      "sourceCreatedAt": "2026-09-25T11:31:46.000Z"
+    },
+    {
       "id": "5a4ac5a1",
       "filename": "pixiv_150039301_p0.jpg",
       "path": "uploads/2026/09/104249c2.jpg",
