@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "94caa60f",
+      "filename": "pixiv_150059381_p0.jpg",
+      "path": "uploads/2026/09/b48c192c.jpg",
+      "size": 1507494,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "f0656f32b9478d2245ef42b63af72e0ea996dadac6c919f04ee488e36120d6cb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:49:52.740Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "DOSE",
+      "tags": [
+        "騎士X",
+        "ばぁう",
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150059381_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150059381",
+      "sourceCreatedAt": "2026-09-24T11:52:45.000Z"
+    },
+    {
       "id": "e5f2b7bd",
       "filename": "pixiv_150055318_p0.jpg",
       "path": "uploads/2026/09/c072a076.jpg",
