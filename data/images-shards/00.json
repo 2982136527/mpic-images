@@ -3,6 +3,34 @@
   "shardId": "00",
   "images": [
     {
+      "id": "98afadf8",
+      "filename": "pixiv_150098365_p0.jpg",
+      "path": "uploads/2026/09/8c9e8750.jpg",
+      "size": 477711,
+      "width": 684,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a383bd0de1f5c015de7b47f1b3da07fb4e9ddd7d52f88c9f4879dae6903f602a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T13:00:21.421Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "キサキ",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "碧蓝档案",
+        "キサキ(ブルーアーカイブ)",
+        "白タイツ",
+        "竜華キサキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150098365_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150098365",
+      "sourceCreatedAt": "2026-09-25T12:31:54.000Z"
+    },
+    {
       "id": "ae1bfb2c",
       "filename": "pixiv_150062410_p0.jpg",
       "path": "uploads/2026/09/23e537f6.jpg",
