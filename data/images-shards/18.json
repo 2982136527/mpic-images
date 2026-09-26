@@ -3,6 +3,33 @@
   "shardId": "18",
   "images": [
     {
+      "id": "5ab5af11",
+      "filename": "pixiv_150053669_p0.jpg",
+      "path": "uploads/2026/09/1d30de60.jpg",
+      "size": 1740587,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "67be418c9fb96a65585becb8375404db1440e60e783ea77a76cfbb218c9e36b4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:49:13.680Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ギルティ＆シン(バニー)",
+      "tags": [
+        "バニーガール",
+        "ニケ(勝利の女神:NIKKE)",
+        "NIKKE",
+        "ギルティ(勝利の女神:NIKKE)",
+        "シン(勝利の女神:NIKKE)",
+        "ラバースーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150053669_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150053669",
+      "sourceCreatedAt": "2026-09-24T09:15:31.000Z"
+    },
+    {
       "id": "d5bbd04c",
       "filename": "pixiv_150010320_p0.jpg",
       "path": "uploads/2026/09/68d5b721.jpg",
