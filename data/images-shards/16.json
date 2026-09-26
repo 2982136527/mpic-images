@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "79175b75",
+      "filename": "pixiv_150054486_p0.jpg",
+      "path": "uploads/2026/09/3a8375bc.jpg",
+      "size": 579686,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d916b9f129ab071377ec4bd13bfaa7a1581c3a91bff8d8b22315c0503f9276fe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:52:23.098Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "NIKKE×京都市 第二弾",
+      "tags": [
+        "commission",
+        "仕事絵",
+        "NIKKE"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150054486_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150054486",
+      "sourceCreatedAt": "2026-09-24T09:43:09.000Z"
+    },
+    {
       "id": "30365417",
       "filename": "pixiv_150044516_p0.jpg",
       "path": "uploads/2026/09/541bb750.jpg",
