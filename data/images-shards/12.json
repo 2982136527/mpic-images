@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "22c30290",
+      "filename": "pixiv_150031853_p0.jpg",
+      "path": "uploads/2026/09/954be1d9.jpg",
+      "size": 665918,
+      "width": 702,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "45f98a1fdda52268e35ab9cd47f03a461f4093709078936cbc5a4f7d21e08f5c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T13:00:30.682Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Blue Archive Asuna💕",
+      "tags": [
+        "一之瀬アスナ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150031853_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150031853",
+      "sourceCreatedAt": "2026-09-23T15:00:18.000Z"
+    },
+    {
       "id": "430cb229",
       "filename": "pixiv_150041422_p0.jpg",
       "path": "uploads/2026/09/208da943.jpg",
