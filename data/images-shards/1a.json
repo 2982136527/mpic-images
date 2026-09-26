@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "bec7ad74",
+      "filename": "pixiv_150061405_p0.jpg",
+      "path": "uploads/2026/09/67782a13.jpg",
+      "size": 1533358,
+      "width": 1200,
+      "height": 1160,
+      "mimeType": "image/jpeg",
+      "hash": "80d8f615f66d3f87c3fb7f600589e29241219bf921c9a7b06e73bc9bb46c4357",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:47:52.136Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "月が追ってくる",
+      "tags": [
+        "ペルソナ3",
+        "タナトス(ペルソナ)",
+        "ペルソナ100users入り",
+        "結城理"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150061405_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150061405",
+      "sourceCreatedAt": "2026-09-25T11:59:44.000Z"
+    },
+    {
       "id": "0a932867",
       "filename": "pixiv_150064678_p0.jpg",
       "path": "uploads/2026/09/7a4cb835.jpg",
