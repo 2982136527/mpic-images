@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "321b1b49",
+      "filename": "pixiv_150032275_p0.jpg",
+      "path": "uploads/2026/09/1f3b582f.jpg",
+      "size": 612653,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "1b4184255cfe44a03a8b9732d993a38902faa5fe94e4283148eac077a8788bd8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T13:07:48.441Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "マングーLOG",
+      "tags": [
+        "SW",
+        "マンダロリアン",
+        "マンダロリアン・アンド・グローグー",
+        "ルーク・スカイウォーカー",
+        "アナキン",
+        "STARWARS100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150032275_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150032275",
+      "sourceCreatedAt": "2026-09-23T15:03:14.000Z"
+    },
+    {
       "id": "855b9322",
       "filename": "pixiv_150054940_p0.jpg",
       "path": "uploads/2026/09/a566af7f.jpg",
