@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "b95b4c71",
+      "filename": "pixiv_149852682_p0.jpg",
+      "path": "uploads/2026/09/47510e55.jpg",
+      "size": 470660,
+      "width": 1200,
+      "height": 918,
+      "mimeType": "image/jpeg",
+      "hash": "40ba4cd7182464656c782870c1a21a8f9b582948cc2340de23b0a4fe6f80593f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T19:19:52.061Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "明星ヒマリ",
+        "タイツブーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149852682_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149852682",
+      "sourceCreatedAt": "2026-09-19T11:43:45.000Z"
+    },
+    {
       "id": "99cf92ed",
       "filename": "pixiv_150082698_p0.jpg",
       "path": "uploads/2026/09/afed2306.jpg",
