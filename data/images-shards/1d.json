@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "2dcd6e77",
+      "filename": "pixiv_150056415_p0.jpg",
+      "path": "uploads/2026/09/b0e3c8e1.jpg",
+      "size": 855138,
+      "width": 660,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a4bce9859d2073a33c9c3e31cdf50f3bc47f348ed24af328705e5324ab33a7f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:50:08.709Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "東方",
+        "女の子",
+        "八意永琳",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150056415_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150056415",
+      "sourceCreatedAt": "2026-09-24T10:38:10.000Z"
+    },
+    {
       "id": "ab251e4f",
       "filename": "pixiv_150032125_p0.jpg",
       "path": "uploads/2026/09/5bc53c3f.jpg",
