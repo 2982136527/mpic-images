@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "51dba46b",
+      "filename": "pixiv_150062983_p0.jpg",
+      "path": "uploads/2026/09/751950ae.jpg",
+      "size": 722626,
+      "width": 794,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2b9f0323fc3ebe9a3b775b75c13c414dd39f57f54a0e17d0bb8aff2a45abf73d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T19:12:44.390Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ねこ吸いねこ",
+      "tags": [
+        "オリジナル",
+        "猫耳",
+        "けもみみ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150062983_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150062983",
+      "sourceCreatedAt": "2026-09-24T13:14:33.000Z"
+    },
+    {
       "id": "f4d5bb2c",
       "filename": "pixiv_150035436_p0.jpg",
       "path": "uploads/2026/09/c96e25e9.jpg",
