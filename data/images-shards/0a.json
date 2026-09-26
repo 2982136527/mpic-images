@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "27a7f444",
+      "filename": "pixiv_150067657_p0.jpg",
+      "path": "uploads/2026/09/2e81e74f.jpg",
+      "size": 938762,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "55ffa770882c211c30d88f5f5af86378605ce8488181174ac223603d4479c5dc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T19:11:23.812Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "グレンアルマって女の子じゃないですか？",
+      "tags": [
+        "ポケモン",
+        "グレンアルマ",
+        "くだけるよろい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150067657_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150067657",
+      "sourceCreatedAt": "2026-09-24T15:01:00.000Z"
+    },
+    {
       "id": "3174f7f1",
       "filename": "pixiv_150070113_p0.jpg",
       "path": "uploads/2026/09/8403c8ec.jpg",
