@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "d05b7dbb",
+      "filename": "pixiv_150089717_p0.jpg",
+      "path": "uploads/2026/09/12e35a64.jpg",
+      "size": 527959,
+      "width": 570,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c63af097c1c989eece0e8c3b4e45956d289696fb223ead11f61e7ea647f39912",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T13:08:15.085Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "一之瀬アスナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150089717_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150089717",
+      "sourceCreatedAt": "2026-09-25T09:07:09.000Z"
+    },
+    {
       "id": "78f8d08e",
       "filename": "pixiv_150039860_p0.jpg",
       "path": "uploads/2026/09/af295e05.jpg",
