@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "8bd58c8e",
+      "filename": "pixiv_150093218_p0.jpg",
+      "path": "uploads/2026/09/2b633cca.jpg",
+      "size": 199078,
+      "width": 491,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2cd22b9e4327037fdf0c09f1dc2cde259be6ddbd2e774c8ea9a13a0d44a08bcb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T13:01:49.138Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "なかよし従姉弟",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150093218_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150093218",
+      "sourceCreatedAt": "2026-09-25T10:43:44.000Z"
+    },
+    {
       "id": "f8dc07a7",
       "filename": "pixiv_150085564_p0.jpg",
       "path": "uploads/2026/09/9ac9aca0.jpg",
