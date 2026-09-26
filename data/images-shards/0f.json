@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "a3bb98b1",
+      "filename": "pixiv_150067945_p0.jpg",
+      "path": "uploads/2026/09/a3c5e2b9.jpg",
+      "size": 1553110,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14640a45db6eefe872d1288bf10a86d8888dbcf1c97f5c4f5b7a53094c938de2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:52:14.371Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "うさ耳in紅魔郷",
+      "tags": [
+        "東方",
+        "博麗霊夢",
+        "レミリア・スカーレット",
+        "フランドール・スカーレット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150067945_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150067945",
+      "sourceCreatedAt": "2026-09-24T15:03:31.000Z"
+    },
+    {
       "id": "34764913",
       "filename": "pixiv_150033947_p0.jpg",
       "path": "uploads/2026/09/cd39195a.jpg",
