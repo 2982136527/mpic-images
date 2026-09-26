@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "ee70d93b",
+      "filename": "pixiv_150064075_p0.jpg",
+      "path": "uploads/2026/09/410e171c.jpg",
+      "size": 842120,
+      "width": 1200,
+      "height": 728,
+      "mimeType": "image/jpeg",
+      "hash": "25eb289fd2782615be8bcfdbe407053d7bfdeb5d3e9fa49f0002febc3e98ba85",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T13:01:05.423Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Bunny Bunny Remielle",
+      "tags": [
+        "zzzero",
+        "高跟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150064075_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150064075",
+      "sourceCreatedAt": "2026-09-24T13:40:36.000Z"
+    },
+    {
       "id": "af54fd25",
       "filename": "pixiv_150092047_p0.jpg",
       "path": "uploads/2026/09/cfec938c.jpg",
