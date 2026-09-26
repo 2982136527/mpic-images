@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "154f25b7",
+      "filename": "pixiv_150053385_p0.jpg",
+      "path": "uploads/2026/09/3bcf0a32.jpg",
+      "size": 1406441,
+      "width": 1139,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fe05597902437ef58b3d4c2e876bf96a5fd1d13c329dbf226ec1113f707fcab2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:51:27.389Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "异世界情绪",
+        "KAMITSUBAKI",
+        "ヰ世界情緒",
+        "神椿"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150053385_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150053385",
+      "sourceCreatedAt": "2026-09-24T09:06:22.000Z"
+    },
+    {
       "id": "b8cac9cc",
       "filename": "pixiv_150043460_p0.jpg",
       "path": "uploads/2026/09/4e81e697.jpg",
