@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "104e4f09",
+      "filename": "pixiv_150069113_p0.jpg",
+      "path": "uploads/2026/09/6f893cda.jpg",
+      "size": 690248,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d724bcf56cb0db762e6b84d28771030c08b552296c875175ead819ae8e82cf06",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T19:18:35.351Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "朝潮",
+      "tags": [
+        "艦これ",
+        "艦これかわいい",
+        "艦隊これくしょん",
+        "まったく、駆逐艦は最高だぜ!!",
+        "朝潮",
+        "朝潮(艦隊これくしょん)",
+        "身体に落書き",
+        "パンチラ",
+        "パンツ!パンツです!",
+        "ぱんつ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150069113_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150069113",
+      "sourceCreatedAt": "2026-09-24T15:30:48.000Z"
+    },
+    {
       "id": "2bda0134",
       "filename": "pixiv_150067534_p0.jpg",
       "path": "uploads/2026/09/a12c1179.jpg",
