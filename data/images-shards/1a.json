@@ -3,6 +3,34 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "c2a096aa",
+      "filename": "pixiv_150067500_p0.jpg",
+      "path": "uploads/2026/09/f9c14ec0.jpg",
+      "size": 965851,
+      "width": 772,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3158df4620ff262c2ebe1a6f35dae53d9400e76abe755aebf0be2f49e56e5103",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:53:02.545Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "「友達になってくださーい」",
+      "tags": [
+        "女の子",
+        "女子高生",
+        "学生",
+        "教室",
+        "オリジナル",
+        "ピアス",
+        "制服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150067500_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150067500",
+      "sourceCreatedAt": "2026-09-24T15:00:22.000Z"
+    },
+    {
       "id": "bec7ad74",
       "filename": "pixiv_150061405_p0.jpg",
       "path": "uploads/2026/09/67782a13.jpg",
