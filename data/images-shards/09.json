@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "31c71073",
+      "filename": "pixiv_150032404_p0.jpg",
+      "path": "uploads/2026/09/174f71b2.jpg",
+      "size": 792663,
+      "width": 510,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3bc7738192cb82147ca80b11ab2b8d5b66184aa7fead5c30aeb6c23f0091085c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T19:14:07.433Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Valiant Wolf Vritra",
+      "tags": [
+        "Fate/GrandOrder",
+        "Fate/GO",
+        "ヴリトラ(Fate)",
+        "ヴァリアント・ウルフ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150032404_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150032404",
+      "sourceCreatedAt": "2026-09-23T15:04:54.000Z"
+    },
+    {
       "id": "aeee7894",
       "filename": "pixiv_149864358_p0.jpg",
       "path": "uploads/2026/09/3ae721da.jpg",
