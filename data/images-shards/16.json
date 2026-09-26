@@ -3,6 +3,36 @@
   "shardId": "16",
   "images": [
     {
+      "id": "3097beb0",
+      "filename": "pixiv_150074647_p0.jpg",
+      "path": "uploads/2026/09/342ee3b3.jpg",
+      "size": 850784,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "427311bfd1b0e7f3c09602b14b37461faf66f4a820dbf724189ea0668e274eff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T19:19:14.854Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Shiori Novella",
+      "tags": [
+        "ホロライブ",
+        "hololive",
+        "VTuber",
+        "HololiveEN",
+        "ホロライブEN",
+        "Advent",
+        "シオリ・ノヴェラ",
+        "Shiori_Novella",
+        "ShiorinSketch"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150074647_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150074647",
+      "sourceCreatedAt": "2026-09-24T20:11:58.000Z"
+    },
+    {
       "id": "4b79138b",
       "filename": "pixiv_150087880_p0.jpg",
       "path": "uploads/2026/09/1750f93c.jpg",
