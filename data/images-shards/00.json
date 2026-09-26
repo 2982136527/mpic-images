@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "31e56784",
+      "filename": "pixiv_150064509_p0.jpg",
+      "path": "uploads/2026/09/292c8e4e.jpg",
+      "size": 1864534,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "32fecca9ea91cbb536e8ab1ba84204102c565be996dcc39bdc860aa04d84cb13",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:51:36.616Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "絵空事",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150064509_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150064509",
+      "sourceCreatedAt": "2026-09-24T13:50:50.000Z"
+    },
+    {
       "id": "4992e0d1",
       "filename": "pixiv_150067578_p0.jpg",
       "path": "uploads/2026/09/337f4e87.jpg",
