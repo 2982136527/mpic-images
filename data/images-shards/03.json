@@ -3,6 +3,36 @@
   "shardId": "03",
   "images": [
     {
+      "id": "fddadac8",
+      "filename": "pixiv_150084603_p0.jpg",
+      "path": "uploads/2026/09/f205c30b.jpg",
+      "size": 515807,
+      "width": 800,
+      "height": 760,
+      "mimeType": "image/jpeg",
+      "hash": "247005d3284db71c4706a51340ea3482b62aa975e06cf9fad6f031c693760093",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T04:51:52.750Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【仕事絵】FEH「烈火の勇騎士 エリウッド」",
+      "tags": [
+        "仕事絵",
+        "ファイアーエムブレムヒーローズ",
+        "FEH",
+        "ファイアーエムブレム",
+        "烈火の剣",
+        "エリウッド",
+        "神装英雄",
+        "胸当て",
+        "FE100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150084603_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150084603",
+      "sourceCreatedAt": "2026-09-25T05:47:08.000Z"
+    },
+    {
       "id": "036068f2",
       "filename": "pixiv_150053818_p0.jpg",
       "path": "uploads/2026/09/243bf71c.jpg",
