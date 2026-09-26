@@ -3,6 +3,37 @@
   "shardId": "09",
   "images": [
     {
+      "id": "aeee7894",
+      "filename": "pixiv_149864358_p0.jpg",
+      "path": "uploads/2026/09/3ae721da.jpg",
+      "size": 330692,
+      "width": 780,
+      "height": 810,
+      "mimeType": "image/jpeg",
+      "hash": "77b5f44d5f6d8d636a78b7e740c5b8fab234bb035288a94fba3f7e8ba681ea63",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-26T13:06:20.953Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "まどマギまとめ",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "暁美ほむら",
+        "鹿目まどか",
+        "佐倉杏子",
+        "美樹さやか",
+        "巴マミ",
+        "ワス",
+        "ワルプルギスの廻天",
+        "ほむまど",
+        "まどか☆マギカ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149864358_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149864358",
+      "sourceCreatedAt": "2026-09-19T15:44:21.000Z"
+    },
+    {
       "id": "9fa8fb09",
       "filename": "pixiv_150031851_p0.jpg",
       "path": "uploads/2026/09/e30cc3ca.jpg",
