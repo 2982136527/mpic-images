@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "63fb757c",
+      "filename": "pixiv_150123220_p0.jpg",
+      "path": "uploads/2026/09/6434d878.jpg",
+      "size": 494180,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8e6f888968985c5f35e0e8c6fb00a1f4e7dfb674e94942cf59c147d71f9505df",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:15:18.926Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "｢助けてよ、先生｣",
+      "tags": [
+        "ちいかわ",
+        "ハチワレ(でかつよ)",
+        "ハチワレ",
+        "強くなったハチワレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150123220_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150123220",
+      "sourceCreatedAt": "2026-09-26T04:11:09.000Z"
+    },
+    {
       "id": "f8feeaa8",
       "filename": "pixiv_150136001_p0.jpg",
       "path": "uploads/2026/09/642ed5a9.jpg",
