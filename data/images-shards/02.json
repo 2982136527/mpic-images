@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "8aa06d71",
+      "filename": "pixiv_150090233_p0.jpg",
+      "path": "uploads/2026/09/93bc181e.jpg",
+      "size": 665635,
+      "width": 1200,
+      "height": 854,
+      "mimeType": "image/jpeg",
+      "hash": "3326ce777be8d02e9028b7e898980d7bcdd24b75392fe6cbdcc9cdadc0311760",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T19:46:27.150Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "一服",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "Arknights",
+        "テキサス(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150090233_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150090233",
+      "sourceCreatedAt": "2026-09-25T09:24:48.000Z"
+    },
+    {
       "id": "d8ff0ca7",
       "filename": "pixiv_149940108_p0.jpg",
       "path": "uploads/2026/09/cdd4e243.jpg",
