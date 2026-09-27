@@ -3,6 +3,28 @@
   "shardId": "11",
   "images": [
     {
+      "id": "368c8b9f",
+      "filename": "pixiv_150098202_p0.jpg",
+      "path": "uploads/2026/09/cb7855f3.jpg",
+      "size": 884783,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "62780f88ab4df0db1d435373edb05c70f584b819cb39ebfa3fb0c133655f6b1a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T19:44:43.714Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "キョンシー　初音ミク",
+      "tags": [
+        "HalloweenParty2026"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150098202_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150098202",
+      "sourceCreatedAt": "2026-09-25T12:29:48.000Z"
+    },
+    {
       "id": "398d3e94",
       "filename": "pixiv_150113817_p0.jpg",
       "path": "uploads/2026/09/8dbcbc44.jpg",
