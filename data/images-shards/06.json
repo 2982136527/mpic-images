@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "07b1df67",
+      "filename": "pixiv_150131550_p0.jpg",
+      "path": "uploads/2026/09/8998a7e5.jpg",
+      "size": 692517,
+      "width": 1200,
+      "height": 1146,
+      "mimeType": "image/jpeg",
+      "hash": "e772900c243c13b7ab214e0cd2b058fec615a59a05e09d487211eba7e89ae77a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T19:45:22.271Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ポップアップぜんさん",
+      "tags": [
+        "ぜんこぱあーと",
+        "ぜんこぱす"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150131550_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150131550",
+      "sourceCreatedAt": "2026-09-26T09:02:11.000Z"
+    },
+    {
       "id": "2a70adc6",
       "filename": "pixiv_150143794_p0.jpg",
       "path": "uploads/2026/09/6a71ae56.jpg",
