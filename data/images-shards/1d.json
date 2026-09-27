@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "bacfac1e",
+      "filename": "pixiv_150092233_p0.jpg",
+      "path": "uploads/2026/09/e490af71.jpg",
+      "size": 1288291,
+      "width": 1200,
+      "height": 813,
+      "mimeType": "image/jpeg",
+      "hash": "e0255ea36b4f96aed543621f9987663dd664c414e4e1b686a3c70b39cd0dbeb2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T19:46:18.196Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アシュリー・テイラー",
+      "tags": [
+        "アシュリー・テイラー",
+        "まどか☆マギカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150092233_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150092233",
+      "sourceCreatedAt": "2026-09-25T10:17:54.000Z"
+    },
+    {
       "id": "35d3626a",
       "filename": "pixiv_150134685_p0.jpg",
       "path": "uploads/2026/09/54d0a95f.jpg",
