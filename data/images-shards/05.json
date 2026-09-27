@@ -3,6 +3,28 @@
   "shardId": "05",
   "images": [
     {
+      "id": "fd93fcd4",
+      "filename": "pixiv_150144868_p0.jpg",
+      "path": "uploads/2026/09/77c95c11.jpg",
+      "size": 593920,
+      "width": 1032,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8cf5a5c65b8027b19bacf7336a856c25eb2288fee6cce7f0224e429b57922875",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:13:46.673Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "まとめ2",
+      "tags": [
+        "出勝"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150144868_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150144868",
+      "sourceCreatedAt": "2026-09-26T14:08:45.000Z"
+    },
+    {
       "id": "7f1422de",
       "filename": "pixiv_150083138_p0.jpg",
       "path": "uploads/2026/09/e062c829.jpg",
