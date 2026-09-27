@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "8daef0b4",
+      "filename": "pixiv_150067560_p0.jpg",
+      "path": "uploads/2026/09/970f3528.jpg",
+      "size": 706699,
+      "width": 999,
+      "height": 999,
+      "mimeType": "image/jpeg",
+      "hash": "8446de3658d29dc3b08c9fd66bb98c744e0094c168b3f133bf2a241660033840",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:09:47.583Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "B.O.G.S",
+      "tags": [
+        "Cellmates",
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150067560_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150067560",
+      "sourceCreatedAt": "2026-09-24T15:00:32.000Z"
+    },
+    {
       "id": "bd52def4",
       "filename": "pixiv_150051421_p0.jpg",
       "path": "uploads/2026/09/79db5e71.jpg",
