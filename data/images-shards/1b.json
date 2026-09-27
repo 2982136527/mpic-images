@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "c95a558b",
+      "filename": "pixiv_150113300_p0.jpg",
+      "path": "uploads/2026/09/5dae6112.jpg",
+      "size": 988458,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5353c51fccdb3547c73e8476f37f8539fd0bda5a5ff1bd68cb33c95dab3da6c3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:14:33.403Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "Limbus_Company",
+        "ドンキホーテ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150113300_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150113300",
+      "sourceCreatedAt": "2026-09-25T20:24:55.000Z"
+    },
+    {
       "id": "f88fb9c6",
       "filename": "pixiv_150127852_p0.jpg",
       "path": "uploads/2026/09/72c21a6d.jpg",
