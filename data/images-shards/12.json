@@ -3,6 +3,33 @@
   "shardId": "12",
   "images": [
     {
+      "id": "091a7c89",
+      "filename": "pixiv_150107894_p0.jpg",
+      "path": "uploads/2026/09/09ba1ac2.jpg",
+      "size": 786428,
+      "width": 865,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3625621af9b9b8a2b6b6c5849343ecf557c5c3d9d9b58cf3af77ccf3cf1fd890",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:15:04.924Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ひっふー！",
+      "tags": [
+        "東方Project",
+        "東方",
+        "宇佐見蓮子",
+        "マエリベリー・ハーン",
+        "秘封倶楽部",
+        "博麗神社秋季例大祭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150107894_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150107894",
+      "sourceCreatedAt": "2026-09-25T15:54:51.000Z"
+    },
+    {
       "id": "31b19f2c",
       "filename": "pixiv_150117568_p0.jpg",
       "path": "uploads/2026/09/e69c9721.jpg",
