@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "b311f084",
+      "filename": "pixiv_150082472_p0.jpg",
+      "path": "uploads/2026/09/692f3116.jpg",
+      "size": 1060383,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0d4021c1b377ec823c95515cdaa46b15e7eddba670a0880a365d2eea2c43856d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T19:46:37.819Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "絵里ちゃん",
+      "tags": [
+        "ラブライブ!",
+        "μ's",
+        "絢瀬絵里"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150082472_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150082472",
+      "sourceCreatedAt": "2026-09-25T03:49:50.000Z"
+    },
+    {
       "id": "ea51b012",
       "filename": "pixiv_150109114_p0.jpg",
       "path": "uploads/2026/09/d6e80e8b.jpg",
