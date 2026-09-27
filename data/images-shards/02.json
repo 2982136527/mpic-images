@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "bcded8a9",
+      "filename": "pixiv_150121684_p0.jpg",
+      "path": "uploads/2026/09/25de1dc7.jpg",
+      "size": 493190,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "603d7e77ce0ac7c5bde99e24f30047ff4efdc261ee9c6cb1ff8f5884cc5683e1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:54:40.869Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "まどマギ",
+        "美樹さやか",
+        "ワルプルギスの廻天",
+        "BLEACHパロ",
+        "まどか☆マギカ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150121684_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150121684",
+      "sourceCreatedAt": "2026-09-26T03:14:22.000Z"
+    },
+    {
       "id": "28b69e12",
       "filename": "pixiv_150093303_p0.jpg",
       "path": "uploads/2026/09/898f6caa.jpg",
