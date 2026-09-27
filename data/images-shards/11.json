@@ -3,6 +3,34 @@
   "shardId": "11",
   "images": [
     {
+      "id": "7e6bdc08",
+      "filename": "pixiv_150140867_p0.jpg",
+      "path": "uploads/2026/09/b4d74295.jpg",
+      "size": 1159315,
+      "width": 898,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a0d13877ec1c312bb58a3c59991abeeb7f624430f724affe07fb73556c5a5d3f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:53:20.066Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "セシリアチャレンジ",
+      "tags": [
+        "ゼンゼロ",
+        "妄想エンジェル",
+        "千夏(ゼンゼロ)",
+        "南宮羽",
+        "アリア(ゼンゼロ)",
+        "セシリア(ゼンゼロ)",
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150140867_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150140867",
+      "sourceCreatedAt": "2026-09-26T12:41:45.000Z"
+    },
+    {
       "id": "5d9f873c",
       "filename": "pixiv_150140991_p0.jpg",
       "path": "uploads/2026/09/32e62e6d.jpg",
