@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "9ca26b78",
+      "filename": "pixiv_150096375_p0.jpg",
+      "path": "uploads/2026/09/17f9518c.jpg",
+      "size": 727596,
+      "width": 1200,
+      "height": 1124,
+      "mimeType": "image/jpeg",
+      "hash": "be7ed65bdd5a6e0f40f373f9192fc51aebbe6c3919ceb4cb16c9b6dfbdc4be7c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:15:47.562Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "손길",
+      "tags": [
+        "rkgk",
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "狐坂ワカモ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150096375_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150096375",
+      "sourceCreatedAt": "2026-09-25T11:56:02.000Z"
+    },
+    {
       "id": "a27a1d33",
       "filename": "pixiv_150092219_p0.jpg",
       "path": "uploads/2026/09/1d22e351.jpg",
