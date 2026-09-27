@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "ea12eb00",
+      "filename": "pixiv_150092278_p0.jpg",
+      "path": "uploads/2026/09/f8533e14.jpg",
+      "size": 592999,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d5494e7d37b2378d09144a3da58dcf819102143d8d686d767dbeea493a396729",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:52:21.738Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "告白",
+      "tags": [
+        "宵崎奏",
+        "prsk_FA"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150092278_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150092278",
+      "sourceCreatedAt": "2026-09-25T10:19:14.000Z"
+    },
+    {
       "id": "f7fd7cc0",
       "filename": "pixiv_150102568_p0.jpg",
       "path": "uploads/2026/09/eb71ca00.jpg",
