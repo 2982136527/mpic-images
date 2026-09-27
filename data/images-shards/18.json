@@ -3,6 +3,32 @@
   "shardId": "18",
   "images": [
     {
+      "id": "1b060f8f",
+      "filename": "pixiv_150089843_p0.jpg",
+      "path": "uploads/2026/09/baf3fc77.jpg",
+      "size": 1275573,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a7e3b2c23aad63ec72854ce8f55c4f9446d63aa030c9a559173f54b69c0223fc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:51:32.065Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "洗脳",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "HatsuneMiku",
+        "DECO*27",
+        "ボカロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150089843_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150089843",
+      "sourceCreatedAt": "2026-09-25T09:11:10.000Z"
+    },
+    {
       "id": "9ed968ab",
       "filename": "pixiv_150094913_p0.jpg",
       "path": "uploads/2026/09/7ec02287.jpg",
