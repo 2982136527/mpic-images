@@ -3,6 +3,34 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "5ec28a11",
+      "filename": "pixiv_150080830_p0.jpg",
+      "path": "uploads/2026/09/fb328975.jpg",
+      "size": 864506,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3e93034854b8f38563dfd43c3a751c122015f52cf1208f74fb27344d2f166be4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T19:47:55.320Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "スー",
+        "祀",
+        "ArknightsEndfield",
+        "Endfield",
+        "エンドフィールド",
+        "アークナイツ:エンドフィールド",
+        "终末地"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150080830_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150080830",
+      "sourceCreatedAt": "2026-09-25T02:31:18.000Z"
+    },
+    {
       "id": "a69304f3",
       "filename": "pixiv_150106580_p0.jpg",
       "path": "uploads/2026/09/67688ae3.jpg",
