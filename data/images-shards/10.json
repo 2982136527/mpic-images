@@ -3,6 +3,34 @@
   "shardId": "10",
   "images": [
     {
+      "id": "33ba5812",
+      "filename": "pixiv_150121921_p0.jpg",
+      "path": "uploads/2026/09/c8eb6124.jpg",
+      "size": 670266,
+      "width": 1200,
+      "height": 795,
+      "mimeType": "image/jpeg",
+      "hash": "416b1b1a681ca04255e9a7fcfde1af64b12fbcefedc0ffa780fe65aa96b3e95e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:10:24.300Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Nahida",
+      "tags": [
+        "GenshinImpact",
+        "ナヒーダ",
+        "原神",
+        "ナヒーダ(原神)",
+        "ロリ",
+        "ぱんつ",
+        "腋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150121921_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150121921",
+      "sourceCreatedAt": "2026-09-26T03:23:29.000Z"
+    },
+    {
       "id": "104e4f09",
       "filename": "pixiv_150069113_p0.jpg",
       "path": "uploads/2026/09/6f893cda.jpg",
