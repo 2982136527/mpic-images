@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "4b3d4620",
+      "filename": "pixiv_150107902_p0.jpg",
+      "path": "uploads/2026/09/d5698793.jpg",
+      "size": 315811,
+      "width": 550,
+      "height": 546,
+      "mimeType": "image/jpeg",
+      "hash": "00a75e0a1c3e6abd1e1a2a7e8e9890e8eaf7cdf9e68a029436494d7dd97b3287",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T19:47:31.727Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "zip",
+      "tags": [
+        "Deltarune",
+        "Pink(Deltarune)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150107902_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150107902",
+      "sourceCreatedAt": "2026-09-25T15:55:04.000Z"
+    },
+    {
       "id": "bacfac1e",
       "filename": "pixiv_150092233_p0.jpg",
       "path": "uploads/2026/09/e490af71.jpg",
