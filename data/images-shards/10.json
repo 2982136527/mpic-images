@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "336bbc7b",
+      "filename": "pixiv_150097741_p0.jpg",
+      "path": "uploads/2026/09/e35f6f69.jpg",
+      "size": 843323,
+      "width": 1200,
+      "height": 851,
+      "mimeType": "image/jpeg",
+      "hash": "ca77b09e3d4c5c93ea95d6abd19c1e7f9146cc42adee1d649f8779e6a535a394",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:14:58.693Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "hoshino",
+      "tags": [
+        "ブルーアーカイブ",
+        "ロリ",
+        "小鳥遊ホシノ",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150097741_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150097741",
+      "sourceCreatedAt": "2026-09-25T12:18:48.000Z"
+    },
+    {
       "id": "75675040",
       "filename": "pixiv_150091756_p0.jpg",
       "path": "uploads/2026/09/3daa6775.jpg",
