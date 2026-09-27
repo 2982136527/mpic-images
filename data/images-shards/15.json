@@ -3,6 +3,33 @@
   "shardId": "15",
   "images": [
     {
+      "id": "b3f160c8",
+      "filename": "pixiv_150067647_p0.jpg",
+      "path": "uploads/2026/09/6e90eb92.jpg",
+      "size": 1221546,
+      "width": 680,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b026f2bfc0e62a82b997ee4468a23edb3aa3869c9079db17fedd369d261f610a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:09:41.502Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ZZZ",
+      "tags": [
+        "エレン・ジョー",
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "ゼンゼロ",
+        "レミエール・ダン",
+        "イヴリン・シェヴァリエ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150067647_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150067647",
+      "sourceCreatedAt": "2026-09-24T15:00:57.000Z"
+    },
+    {
       "id": "c9c703c8",
       "filename": "pixiv_150069458_p0.jpg",
       "path": "uploads/2026/09/8beacd4e.jpg",
