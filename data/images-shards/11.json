@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "f8feeaa8",
+      "filename": "pixiv_150136001_p0.jpg",
+      "path": "uploads/2026/09/642ed5a9.jpg",
+      "size": 1109104,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8b8e9da1428c1aa076d26b44b6e394e2d06133b85241b57126c25df5017d27a0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:12:34.882Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Roxy",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ",
+        "ロクシー・イフリータ・プライス",
+        "ロクシー(ゼンゼロ)",
+        "绝区零"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150136001_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150136001",
+      "sourceCreatedAt": "2026-09-26T11:00:40.000Z"
+    },
+    {
       "id": "b20477ee",
       "filename": "pixiv_150082945_p0.jpg",
       "path": "uploads/2026/09/1f7dd89e.jpg",
