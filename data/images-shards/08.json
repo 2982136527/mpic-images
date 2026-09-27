@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "c75ad335",
+      "filename": "pixiv_150119548_p0.jpg",
+      "path": "uploads/2026/09/2b054aad.jpg",
+      "size": 831905,
+      "width": 1105,
+      "height": 794,
+      "mimeType": "image/jpeg",
+      "hash": "2e17b343c05b9af3315ca07a78e8bd2b6ea2156e736780e1b4ac545921db3ff6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:55:02.560Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "僕らまるで秘密基地かな",
+      "tags": [
+        "しぐれうい",
+        "どろういんぐ",
+        "下手"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150119548_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150119548",
+      "sourceCreatedAt": "2026-09-26T01:58:27.000Z"
+    },
+    {
       "id": "3d5a3c45",
       "filename": "pixiv_150064934_p0.jpg",
       "path": "uploads/2026/09/c41444b6.jpg",
