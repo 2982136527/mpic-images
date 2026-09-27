@@ -3,6 +3,33 @@
   "shardId": "06",
   "images": [
     {
+      "id": "ef5beef1",
+      "filename": "pixiv_150121785_p0.jpg",
+      "path": "uploads/2026/09/061a274f.jpg",
+      "size": 680379,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ad86c568d244fd235585904df7c2f529f88165e2ee9f2e5f9ae0ad340d2dfceb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:53:51.014Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "FGOログ",
+      "tags": [
+        "Fate/GrandOrder",
+        "テノチティトラン(Fate)",
+        "蒼きアズライール",
+        "リリス(Fate)",
+        "テスカトリポカ(Fate)",
+        "ヤン・ジシュカ(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150121785_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150121785",
+      "sourceCreatedAt": "2026-09-26T03:17:39.000Z"
+    },
+    {
       "id": "ac7e6baf",
       "filename": "pixiv_150122549_p0.jpg",
       "path": "uploads/2026/09/ea2d4445.jpg",
