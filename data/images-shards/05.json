@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "c58877a4",
+      "filename": "pixiv_150121600_p0.jpg",
+      "path": "uploads/2026/09/96a2fe61.jpg",
+      "size": 1508164,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ae25e3f082697ebf4d6313c8863b89ee7130d5e3580aafd1087e73ea65d25c70",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:14:13.176Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "『きみは終末』第2巻発売中",
+      "tags": [
+        "オリジナル",
+        "きみは終末"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150121600_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150121600",
+      "sourceCreatedAt": "2026-09-26T03:10:50.000Z"
+    },
+    {
       "id": "fd93fcd4",
       "filename": "pixiv_150144868_p0.jpg",
       "path": "uploads/2026/09/77c95c11.jpg",
