@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "1643fb51",
+      "filename": "pixiv_150101125_p0.jpg",
+      "path": "uploads/2026/09/b7cba62b.jpg",
+      "size": 883834,
+      "width": 594,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fe4205fcdf41d150cc7c14a814508462ae9a7f0dd92ef068cf4f78f8f01a279f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:58:53.451Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "wakamo",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "狐坂ワカモ",
+        "狐坂ワカモ(水着)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150101125_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150101125",
+      "sourceCreatedAt": "2026-09-25T13:29:39.000Z"
+    },
+    {
       "id": "0b64b5a0",
       "filename": "pixiv_150139508_p0.jpg",
       "path": "uploads/2026/09/99a31a40.jpg",
