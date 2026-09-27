@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "ad313959",
+      "filename": "pixiv_150132366_p0.jpg",
+      "path": "uploads/2026/09/3ef42a1e.jpg",
+      "size": 609283,
+      "width": 1029,
+      "height": 1070,
+      "mimeType": "image/jpeg",
+      "hash": "4105081cfb623f13d3f48dfded338561305fa211ccb3685c7ac2fbcf40e8f1b8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:11:25.667Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "スタレ弓凛",
+      "tags": [
+        "弓凛",
+        "アーチャー(スターレイル)",
+        "遠坂凛(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150132366_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150132366",
+      "sourceCreatedAt": "2026-09-26T09:27:00.000Z"
+    },
+    {
       "id": "8daef0b4",
       "filename": "pixiv_150067560_p0.jpg",
       "path": "uploads/2026/09/970f3528.jpg",
