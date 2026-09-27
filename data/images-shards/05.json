@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "2eba59d0",
+      "filename": "pixiv_150077444_p0.jpg",
+      "path": "uploads/2026/09/29b09db8.jpg",
+      "size": 1404658,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2770c7e3b5c85a932670bd1b7a69891998a68c68fc71719a2ad0ddcddc219b3c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T19:45:30.522Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "한복 에리",
+      "tags": [
+        "BlueArchive",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "白尾エリ",
+        "韓服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150077444_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150077444",
+      "sourceCreatedAt": "2026-09-24T23:00:24.000Z"
+    },
+    {
       "id": "9612bca8",
       "filename": "pixiv_149933093_p0.jpg",
       "path": "uploads/2026/09/6eb4a98d.jpg",
