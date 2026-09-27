@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "3f46e5b4",
+      "filename": "pixiv_150101097_p0.jpg",
+      "path": "uploads/2026/09/111ec167.jpg",
+      "size": 1893291,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "31834e3e870616b1e1130b2dc0fcebe7fa09f989a161d153e8ac4853fb73890b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:56:23.669Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "東方",
+        "女の子",
+        "東方Project",
+        "鈴仙・優曇華院・イナバ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150101097_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150101097",
+      "sourceCreatedAt": "2026-09-25T13:28:55.000Z"
+    },
+    {
       "id": "9e322631",
       "filename": "pixiv_150093005_p0.jpg",
       "path": "uploads/2026/09/cddd6915.jpg",
