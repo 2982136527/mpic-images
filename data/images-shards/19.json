@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "8110f608",
+      "filename": "pixiv_150121410_p0.jpg",
+      "path": "uploads/2026/09/bc37a045.jpg",
+      "size": 1230343,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "12c67f5187adea652433302eec04ecd3b08934cb0dace100b564993f633b2ada",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:55:41.790Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "오트쿠튀르::르누아르 브랜드 매니저 돈키호테",
+      "tags": [
+        "Limbus_Company",
+        "donquixote",
+        "돈키호테",
+        "ドンキホーテ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150121410_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150121410",
+      "sourceCreatedAt": "2026-09-26T03:03:54.000Z"
+    },
+    {
       "id": "a9788183",
       "filename": "pixiv_150114056_p0.jpg",
       "path": "uploads/2026/09/2ae7e100.jpg",
