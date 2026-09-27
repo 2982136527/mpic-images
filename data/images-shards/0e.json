@@ -3,6 +3,33 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "b69ac282",
+      "filename": "pixiv_150102796_p0.jpg",
+      "path": "uploads/2026/09/ee93707e.jpg",
+      "size": 944215,
+      "width": 1200,
+      "height": 790,
+      "mimeType": "image/jpeg",
+      "hash": "5eecd1b77f6c06529c970a956f5fe9c8137478c2d6de458cccde5cca33b2a2e6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T19:45:13.138Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "台風の目",
+      "tags": [
+        "風景",
+        "オリジナル",
+        "創作",
+        "モンスター",
+        "クリーチャー",
+        "巨大生物"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150102796_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150102796",
+      "sourceCreatedAt": "2026-09-25T14:05:52.000Z"
+    },
+    {
       "id": "cade952c",
       "filename": "pixiv_150136994_p0.jpg",
       "path": "uploads/2026/09/dddb3106.jpg",
