@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "35d3626a",
+      "filename": "pixiv_150134685_p0.jpg",
+      "path": "uploads/2026/09/54d0a95f.jpg",
+      "size": 629220,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9f78df8bd25ef553d865fa50b6fc2f497a2c601454b0a06e115a07fc00e7eab6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:59:26.564Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "江らくがきまとめ９",
+      "tags": [
+        "刀剣乱舞",
+        "江(刀剣乱舞)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150134685_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150134685",
+      "sourceCreatedAt": "2026-09-26T10:28:33.000Z"
+    },
+    {
       "id": "af083b6e",
       "filename": "pixiv_150137551_p0.jpg",
       "path": "uploads/2026/09/6e4487ee.jpg",
