@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "a2e0e9a0",
+      "filename": "pixiv_150080085_p0.jpg",
+      "path": "uploads/2026/09/8cc83f7a.jpg",
+      "size": 560763,
+      "width": 569,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ef5471827d8f97f7a6762a5f4c983e4b921f05a15c525ead4c48d91cbc23ab4e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T19:43:14.996Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "セーフ",
+      "tags": [
+        "原神",
+        "原神500users入り",
+        "笑ってはいけないスネージナヤ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150080085_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150080085",
+      "sourceCreatedAt": "2026-09-25T01:49:47.000Z"
+    },
+    {
       "id": "41c7d1bb",
       "filename": "pixiv_150082642_p0.jpg",
       "path": "uploads/2026/09/5d5392d2.jpg",
