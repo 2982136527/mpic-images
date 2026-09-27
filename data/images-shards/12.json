@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "31b19f2c",
+      "filename": "pixiv_150117568_p0.jpg",
+      "path": "uploads/2026/09/e69c9721.jpg",
+      "size": 1433771,
+      "width": 1200,
+      "height": 686,
+      "mimeType": "image/jpeg",
+      "hash": "40f3411596956059daa65bfa45265641970553fea0aef0c5d48e52eb78a73de0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:14:05.790Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "中继",
+      "tags": [
+        "東方",
+        "東方project",
+        "秘封倶楽部",
+        "マエリベリー・ハーン",
+        "宇佐見蓮子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150117568_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150117568",
+      "sourceCreatedAt": "2026-09-26T00:32:05.000Z"
+    },
+    {
       "id": "dd007a88",
       "filename": "pixiv_150105138_p0.jpg",
       "path": "uploads/2026/09/a94f6739.jpg",
