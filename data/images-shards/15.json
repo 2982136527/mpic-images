@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "7a970cb0",
+      "filename": "pixiv_149909416_p0.jpg",
+      "path": "uploads/2026/09/be336019.jpg",
+      "size": 938778,
+      "width": 1041,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "013c934deb955c6353bfce5335cdb43d9ba14d796c9cb650e0efcb65f4a5043d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:57:01.382Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "EternalReturn:BlackSurvival",
+        "エターナルリターン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149909416_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149909416",
+      "sourceCreatedAt": "2026-09-20T16:43:43.000Z"
+    },
+    {
       "id": "69d452de",
       "filename": "pixiv_150073954_p0.jpg",
       "path": "uploads/2026/09/36aae1e7.jpg",
