@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "31aa6d30",
+      "filename": "pixiv_150091992_p0.jpg",
+      "path": "uploads/2026/09/f5e8553c.jpg",
+      "size": 958147,
+      "width": 934,
+      "height": 1152,
+      "mimeType": "image/jpeg",
+      "hash": "e1a0fd00331ff76a338a83ad852c1c6506159e91b7ae61e88bd8584c24d2aa2a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:12:02.949Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ういさき",
+      "tags": [
+        "Ave_Mujica",
+        "三角初華",
+        "豊川祥子",
+        "ういさき"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150091992_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150091992",
+      "sourceCreatedAt": "2026-09-25T10:10:45.000Z"
+    },
+    {
       "id": "8538d716",
       "filename": "pixiv_150088831_p0.jpg",
       "path": "uploads/2026/09/f6f5f4d9.jpg",
