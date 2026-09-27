@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "a417f646",
+      "filename": "pixiv_150105294_p0.jpg",
+      "path": "uploads/2026/09/787cbdfa.jpg",
+      "size": 676043,
+      "width": 1200,
+      "height": 666,
+      "mimeType": "image/jpeg",
+      "hash": "dbbee9c8a8de2e567a6f0cb1c7595f4aa16cc3f246ab9dd6350467407e04e614",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:50:36.264Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "VISIONS",
+      "tags": [
+        "VISIONS2027",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150105294_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150105294",
+      "sourceCreatedAt": "2026-09-25T15:00:50.000Z"
+    },
+    {
       "id": "3916d223",
       "filename": "pixiv_150073738_p0.jpg",
       "path": "uploads/2026/09/fa77a883.jpg",
