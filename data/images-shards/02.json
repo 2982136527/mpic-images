@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "28b69e12",
+      "filename": "pixiv_150093303_p0.jpg",
+      "path": "uploads/2026/09/898f6caa.jpg",
+      "size": 779179,
+      "width": 1200,
+      "height": 791,
+      "mimeType": "image/jpeg",
+      "hash": "f016b579d36ef175da67d64b55dfe8a63d45a8ccce28e5aef831ebd469609586",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:54:24.264Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "pwie",
+      "tags": [
+        "边狱巴士",
+        "projectmoon",
+        "limbus_company",
+        "同人",
+        "Pwie",
+        "Limbus_Company"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150093303_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150093303",
+      "sourceCreatedAt": "2026-09-25T10:46:22.000Z"
+    },
+    {
       "id": "a2e2be37",
       "filename": "pixiv_150118029_p0.jpg",
       "path": "uploads/2026/09/e8182793.jpg",
