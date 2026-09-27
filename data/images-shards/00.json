@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "ef9662a7",
+      "filename": "pixiv_150108816_p0.jpg",
+      "path": "uploads/2026/09/d2e56af3.jpg",
+      "size": 1743557,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "5c9a4dfc0f0ea46cd2d7e7d18bfd0c6d90437d34331f1cdb0de1df0ae69844c6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:11:07.854Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "こいフラ",
+      "tags": [
+        "東方Project",
+        "東方",
+        "フランドール・スカーレット",
+        "古明地こいし",
+        "こいフラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150108816_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150108816",
+      "sourceCreatedAt": "2026-09-25T16:22:18.000Z"
+    },
+    {
       "id": "98afadf8",
       "filename": "pixiv_150098365_p0.jpg",
       "path": "uploads/2026/09/8c9e8750.jpg",
