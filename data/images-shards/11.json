@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "5d9f873c",
+      "filename": "pixiv_150140991_p0.jpg",
+      "path": "uploads/2026/09/32e62e6d.jpg",
+      "size": 631401,
+      "width": 719,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "816cb7abc2abc84f9431c43b27a91e42cdc080b228a45a99d1a83e7a702b1e1a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:18:19.859Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ダニカ",
+      "tags": [
+        "ダニカ",
+        "原神",
+        "GenshinImpact",
+        "Genshin",
+        "Danica"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150140991_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150140991",
+      "sourceCreatedAt": "2026-09-26T12:44:12.000Z"
+    },
+    {
       "id": "63fb757c",
       "filename": "pixiv_150123220_p0.jpg",
       "path": "uploads/2026/09/6434d878.jpg",
