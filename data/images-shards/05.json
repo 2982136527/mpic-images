@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "9e322631",
+      "filename": "pixiv_150093005_p0.jpg",
+      "path": "uploads/2026/09/cddd6915.jpg",
+      "size": 849241,
+      "width": 772,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1ca158100d969440f2389a9b769097a0fc34dc24bd57bface714dd2a60d39847",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:55:19.946Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "oc",
+      "tags": [
+        "女の子",
+        "お団子ヘアー",
+        "パジャマ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150093005_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150093005",
+      "sourceCreatedAt": "2026-09-25T10:38:09.000Z"
+    },
+    {
       "id": "c58877a4",
       "filename": "pixiv_150121600_p0.jpg",
       "path": "uploads/2026/09/96a2fe61.jpg",
