@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "062a5a35",
+      "filename": "pixiv_150143559_p0.jpg",
+      "path": "uploads/2026/09/84311c11.jpg",
+      "size": 384463,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6c719d9a3c5210841c67b52f6ea071346b1c1e7308dae139ea64dc726757a832",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:59:00.000Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "風評被害",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ヒシミラクル(ウマ娘)",
+        "残当"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150143559_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150143559",
+      "sourceCreatedAt": "2026-09-26T13:39:02.000Z"
+    },
+    {
       "id": "647442b8",
       "filename": "pixiv_150125407_p0.jpg",
       "path": "uploads/2026/09/0d7d50d4.jpg",
