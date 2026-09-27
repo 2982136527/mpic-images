@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "591dd0b7",
+      "filename": "pixiv_150121252_p0.jpg",
+      "path": "uploads/2026/09/7600c166.jpg",
+      "size": 994810,
+      "width": 1200,
+      "height": 755,
+      "mimeType": "image/jpeg",
+      "hash": "687c47871364149d31cc17d600eab7d93a304352a79ad6b975f012836fd6e59d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:55:26.216Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "練習",
+      "tags": [
+        "オリジナル",
+        "一次創作",
+        "ロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150121252_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150121252",
+      "sourceCreatedAt": "2026-09-26T03:00:57.000Z"
+    },
+    {
       "id": "bd332773",
       "filename": "pixiv_150099862_p0.jpg",
       "path": "uploads/2026/09/89c7ea59.jpg",
