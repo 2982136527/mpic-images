@@ -3,6 +3,32 @@
   "shardId": "06",
   "images": [
     {
+      "id": "2a70adc6",
+      "filename": "pixiv_150143794_p0.jpg",
+      "path": "uploads/2026/09/6a71ae56.jpg",
+      "size": 1589476,
+      "width": 1200,
+      "height": 904,
+      "mimeType": "image/jpeg",
+      "hash": "1da7ec5c04149553705024e7a03c29dfb615608f42c3ba9396aacec8f9372387",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:55:53.563Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "秋探し",
+      "tags": [
+        "東方Project",
+        "東方",
+        "秋",
+        "赤蛮奇",
+        "今泉影狼"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150143794_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150143794",
+      "sourceCreatedAt": "2026-09-26T13:45:06.000Z"
+    },
+    {
       "id": "ef5beef1",
       "filename": "pixiv_150121785_p0.jpg",
       "path": "uploads/2026/09/061a274f.jpg",
