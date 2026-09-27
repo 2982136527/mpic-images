@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "daabfd7c",
+      "filename": "pixiv_150143475_p0.jpg",
+      "path": "uploads/2026/09/23747040.jpg",
+      "size": 507653,
+      "width": 1020,
+      "height": 1020,
+      "mimeType": "image/jpeg",
+      "hash": "47a9fb1c3ab78aaa4c8de4238a61a213c6846a40ce6ab6dd13e165b179892806",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:13:52.882Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "angy",
+      "tags": [
+        "ブルアカ",
+        "ミニマリー",
+        "伊落マリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150143475_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150143475",
+      "sourceCreatedAt": "2026-09-26T13:36:48.000Z"
+    },
+    {
       "id": "dc077324",
       "filename": "pixiv_150132810_p0.jpg",
       "path": "uploads/2026/09/d5445f3f.jpg",
