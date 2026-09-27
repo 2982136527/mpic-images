@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "dd007a88",
+      "filename": "pixiv_150105138_p0.jpg",
+      "path": "uploads/2026/09/a94f6739.jpg",
+      "size": 1291791,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "49d1719002140da027f1bd21e3895dba4811fb4b02c1a5dee9590da47dc3a0f7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:12:47.965Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🍎×🗡️",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "獣耳",
+        "創作",
+        "けもみみ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150105138_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150105138",
+      "sourceCreatedAt": "2026-09-25T15:00:21.000Z"
+    },
+    {
       "id": "b7593d19",
       "filename": "pixiv_150135759_p0.jpg",
       "path": "uploads/2026/09/c8d9629f.jpg",
