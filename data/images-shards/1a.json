@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "2302192c",
+      "filename": "pixiv_150087535_p0.jpg",
+      "path": "uploads/2026/09/a726fefb.jpg",
+      "size": 907331,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "491e9bbcd3474c21454c5b467e8dcd356dcce0e74046d2c824953ba0fcbe80a4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:51:07.198Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "つり目ミクさん",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ツインテール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150087535_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150087535",
+      "sourceCreatedAt": "2026-09-25T08:00:09.000Z"
+    },
+    {
       "id": "545c5e87",
       "filename": "pixiv_150094863_p0.jpg",
       "path": "uploads/2026/09/6739e6b1.jpg",
