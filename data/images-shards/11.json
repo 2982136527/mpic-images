@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "b20477ee",
+      "filename": "pixiv_150082945_p0.jpg",
+      "path": "uploads/2026/09/1f7dd89e.jpg",
+      "size": 815921,
+      "width": 1200,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "4980da3e9e04137fc4e12ee09b91b83bd3a7d05c114214b58fce191409efc5ba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:12:10.004Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "목줄",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "狐坂ワカモ",
+        "首輪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150082945_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150082945",
+      "sourceCreatedAt": "2026-09-25T04:13:37.000Z"
+    },
+    {
       "id": "902ffd62",
       "filename": "pixiv_150091855_p0.jpg",
       "path": "uploads/2026/09/d8177c7e.jpg",
