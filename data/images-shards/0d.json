@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "8b74c698",
+      "filename": "pixiv_150116168_p0.jpg",
+      "path": "uploads/2026/09/182a98f5.jpg",
+      "size": 854552,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "38578f2c13f82651e324a24a63cfca271d5f4e3ebe65be401b98e57518381893",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:13:02.225Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Flight Attendant Aemeath ②",
+      "tags": [
+        "鳴潮",
+        "エイメス",
+        "飛行服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150116168_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150116168",
+      "sourceCreatedAt": "2026-09-25T23:19:26.000Z"
+    },
+    {
       "id": "fbb8dd01",
       "filename": "pixiv_150074836_p0.jpg",
       "path": "uploads/2026/09/3bc815e6.jpg",
