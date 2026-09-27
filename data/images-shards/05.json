@@ -3,6 +3,28 @@
   "shardId": "05",
   "images": [
     {
+      "id": "3cb06dd3",
+      "filename": "pixiv_150118278_p0.jpg",
+      "path": "uploads/2026/09/93a8051f.jpg",
+      "size": 634409,
+      "width": 845,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6b6963ec69e585efec5c38db86bc80dbd4e08ca6060397f298156ca750880032",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T19:47:48.782Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【神ヨムふたり】②巻 10/２(金)発売",
+      "tags": [
+        "オリジナル漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150118278_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150118278",
+      "sourceCreatedAt": "2026-09-26T01:02:10.000Z"
+    },
+    {
       "id": "2eba59d0",
       "filename": "pixiv_150077444_p0.jpg",
       "path": "uploads/2026/09/29b09db8.jpg",
