@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "0cb78787",
+      "filename": "pixiv_150098733_p0.jpg",
+      "path": "uploads/2026/09/ab934de6.jpg",
+      "size": 659134,
+      "width": 999,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "720978e09883317900a6f7b993902f1ffc29ee7566c83f452e64b9cb38620bd5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T19:46:03.103Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "錠前サオリ",
+        "でかぱい",
+        "水羽ミモリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150098733_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150098733",
+      "sourceCreatedAt": "2026-09-25T12:40:40.000Z"
+    },
+    {
       "id": "c75ad335",
       "filename": "pixiv_150119548_p0.jpg",
       "path": "uploads/2026/09/2b054aad.jpg",
