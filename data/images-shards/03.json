@@ -3,6 +3,35 @@
   "shardId": "03",
   "images": [
     {
+      "id": "a27a1d33",
+      "filename": "pixiv_150092219_p0.jpg",
+      "path": "uploads/2026/09/1d22e351.jpg",
+      "size": 1196216,
+      "width": 832,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "211ba9ec0b377c160d7f531cce5879ec79d28bf8c4160208dbf56881be5319a3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:13:59.378Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "あの子と仲なおり",
+      "tags": [
+        "コスモス",
+        "雨",
+        "おばけ",
+        "透明水彩",
+        "色鉛筆",
+        "オリジナル",
+        "創作",
+        "アナログ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150092219_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150092219",
+      "sourceCreatedAt": "2026-09-25T10:17:18.000Z"
+    },
+    {
       "id": "9669207a",
       "filename": "pixiv_150090993_p0.jpg",
       "path": "uploads/2026/09/a9189621.jpg",
