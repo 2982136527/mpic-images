@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "f88fb9c6",
+      "filename": "pixiv_150127852_p0.jpg",
+      "path": "uploads/2026/09/72c21a6d.jpg",
+      "size": 865931,
+      "width": 1200,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "c174dc0a171219d8ceacc4540a90304e882074c5b1e0983be030e2bc4a2fbbbd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:11:32.097Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "テト！！",
+      "tags": [
+        "イラスト",
+        "VOCALOID",
+        "重音テト",
+        "重音テトSV",
+        "ボカロ",
+        "ボーカロイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150127852_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150127852",
+      "sourceCreatedAt": "2026-09-26T07:08:14.000Z"
+    },
+    {
       "id": "fca99151",
       "filename": "pixiv_150123893_p0.jpg",
       "path": "uploads/2026/09/723d1763.jpg",
