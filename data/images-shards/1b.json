@@ -3,6 +3,28 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "3cb09d9b",
+      "filename": "pixiv_150117658_p0.jpg",
+      "path": "uploads/2026/09/3d9b8ade.jpg",
+      "size": 323987,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d9b36f08bc39894d5ab1e922ab573103054f355c436c340e040382cb1a65c789",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:53:45.388Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🏔️🐻‍❄️",
+      "tags": [
+        "めめ村"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150117658_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150117658",
+      "sourceCreatedAt": "2026-09-26T00:36:50.000Z"
+    },
+    {
       "id": "439438c7",
       "filename": "pixiv_150117966_p0.jpg",
       "path": "uploads/2026/09/72dfa557.jpg",
