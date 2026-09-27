@@ -3,6 +3,28 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "5aab08f5",
+      "filename": "pixiv_150075072_p0.jpg",
+      "path": "uploads/2026/09/39f282d3.jpg",
+      "size": 696307,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "18d3e0c0f60b2a9f4eb41f588037b6f9bfe2e68521c22e0aad878b0e2b158916",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:58:23.345Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "習作",
+      "tags": [
+        "サーニャ・V・リトヴャク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150075072_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150075072",
+      "sourceCreatedAt": "2026-09-24T20:41:04.000Z"
+    },
+    {
       "id": "4307f8e1",
       "filename": "pixiv_150142769_p0.jpg",
       "path": "uploads/2026/09/6427cd37.jpg",
