@@ -3,6 +3,36 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "0f4a57d0",
+      "filename": "pixiv_150107451_p0.jpg",
+      "path": "uploads/2026/09/29bac4f1.jpg",
+      "size": 824484,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ff5663ecbba5b2b20123d3bd48efb704ec61e7959b39ef53ed014b505d7d7cf4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:58:47.053Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "神風",
+      "tags": [
+        "艦これ",
+        "艦これかわいい",
+        "艦隊これくしょん",
+        "まったく、駆逐艦は最高だぜ!!",
+        "神風",
+        "神風(艦隊これくしょん)",
+        "BLEACH",
+        "卍解",
+        "BLEACHパロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150107451_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150107451",
+      "sourceCreatedAt": "2026-09-25T15:41:45.000Z"
+    },
+    {
       "id": "591dd0b7",
       "filename": "pixiv_150121252_p0.jpg",
       "path": "uploads/2026/09/7600c166.jpg",
