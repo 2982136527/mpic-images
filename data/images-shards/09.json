@@ -3,6 +3,32 @@
   "shardId": "09",
   "images": [
     {
+      "id": "6fa4f5a7",
+      "filename": "pixiv_150115928_p0.jpg",
+      "path": "uploads/2026/09/3c7a49d2.jpg",
+      "size": 1220433,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6c3daa7d147b04b0e0b2a46c557fdc830624eaf616fdffd66f7c4c83a4323d95",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T19:48:03.718Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Tina × Moebius",
+      "tags": [
+        "illustration",
+        "イラスト",
+        "originalcharacter",
+        "オリキャラ",
+        "二人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150115928_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150115928",
+      "sourceCreatedAt": "2026-09-25T23:04:40.000Z"
+    },
+    {
       "id": "29c1cc3b",
       "filename": "pixiv_150068224_p0.jpg",
       "path": "uploads/2026/09/cc468d17.jpg",
