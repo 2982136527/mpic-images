@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "c9c703c8",
+      "filename": "pixiv_150069458_p0.jpg",
+      "path": "uploads/2026/09/8beacd4e.jpg",
+      "size": 1031153,
+      "width": 834,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3ee6ef4aef0520e75fc3c377bdbc6c0d8a7430aebb8ed5d74924c5c690902756",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:09:13.243Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🌊",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150069458_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150069458",
+      "sourceCreatedAt": "2026-09-24T15:40:23.000Z"
+    },
+    {
       "id": "08df4c3d",
       "filename": "pixiv_150083972_p0.jpg",
       "path": "uploads/2026/09/844e837a.jpg",
