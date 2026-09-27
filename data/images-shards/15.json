@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "7b915a8e",
+      "filename": "pixiv_150119830_p0.jpg",
+      "path": "uploads/2026/09/0098235c.jpg",
+      "size": 817329,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "055d0db267cf537d484571ec1803c605669fffc489c59c12de1795240345f799",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T13:52:00.200Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "オオカマさん",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "人外",
+        "女性",
+        "OC"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150119830_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150119830",
+      "sourceCreatedAt": "2026-09-26T02:07:13.000Z"
+    },
+    {
       "id": "4de03dff",
       "filename": "pixiv_150105971_p0.jpg",
       "path": "uploads/2026/09/1c15d001.jpg",
