@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "2acf881f",
+      "filename": "pixiv_150104068_p0.jpg",
+      "path": "uploads/2026/09/b6f7d8cc.jpg",
+      "size": 594397,
+      "width": 623,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4c572aed650b7dcccf4ef74cc9c13929941c5fcf0927b38ff7e9007f32113806",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:15:53.898Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "魔女っ娘パチュリー",
+      "tags": [
+        "東方",
+        "パチュリー",
+        "パチュリー・ノーレッジ",
+        "例大祭",
+        "博麗神社例大祭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150104068_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150104068",
+      "sourceCreatedAt": "2026-09-25T14:35:37.000Z"
+    },
+    {
       "id": "23e43cab",
       "filename": "pixiv_150120611_p0.jpg",
       "path": "uploads/2026/09/3e638046.jpg",
