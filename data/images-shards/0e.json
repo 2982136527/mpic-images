@@ -3,6 +3,32 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "f7fd7cc0",
+      "filename": "pixiv_150102568_p0.jpg",
+      "path": "uploads/2026/09/eb71ca00.jpg",
+      "size": 743058,
+      "width": 778,
+      "height": 1100,
+      "mimeType": "image/jpeg",
+      "hash": "05fda0abae8ec8d192feb086d0c2430bc27399960c5cd2657193d0df05fefce9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:15:32.256Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "バーヴァン・シー",
+      "tags": [
+        "バーヴァン・シー(Fate)",
+        "ブラッディ・バニー",
+        "FGO",
+        "Fate/GrandOrder",
+        "Fate/GO100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150102568_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150102568",
+      "sourceCreatedAt": "2026-09-25T14:00:55.000Z"
+    },
+    {
       "id": "38e22fb2",
       "filename": "pixiv_150129325_p0.jpg",
       "path": "uploads/2026/09/3dc0ca26.jpg",
