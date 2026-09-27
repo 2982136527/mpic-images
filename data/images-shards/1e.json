@@ -3,6 +3,32 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "53cb09fd",
+      "filename": "pixiv_150089137_p0.jpg",
+      "path": "uploads/2026/09/db06538b.jpg",
+      "size": 919297,
+      "width": 845,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cf30f7eddabf240676c7b2494e8f07b0bc4f140cdd021ba7edb0e991140f4881",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:12:56.077Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【skeb】ホシノごはん",
+      "tags": [
+        "仕事絵",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "小鳥遊ホシノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150089137_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150089137",
+      "sourceCreatedAt": "2026-09-25T08:58:17.000Z"
+    },
+    {
       "id": "9584fa7f",
       "filename": "pixiv_150098840_p0.jpg",
       "path": "uploads/2026/09/0be810a6.jpg",
