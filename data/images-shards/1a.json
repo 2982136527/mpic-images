@@ -3,6 +3,35 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "545c5e87",
+      "filename": "pixiv_150094863_p0.jpg",
+      "path": "uploads/2026/09/6739e6b1.jpg",
+      "size": 506012,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8764855689d5d0cabf7e37b61e24a141e08bb877abbd3b15799f03376ba4b7f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:11:57.022Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "oc",
+      "tags": [
+        "女の子",
+        "イラスト",
+        "少女",
+        "オリジナル",
+        "創作",
+        "oc",
+        "擬人化",
+        "黒髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150094863_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150094863",
+      "sourceCreatedAt": "2026-09-25T11:18:26.000Z"
+    },
+    {
       "id": "bb384de5",
       "filename": "pixiv_150057208_p0.jpg",
       "path": "uploads/2026/09/fdc7b633.jpg",
