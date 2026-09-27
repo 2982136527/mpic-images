@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "75675040",
+      "filename": "pixiv_150091756_p0.jpg",
+      "path": "uploads/2026/09/3daa6775.jpg",
+      "size": 838056,
+      "width": 790,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6947ee866ea131034c05b8674150e2b26bf5ff109fd2c8072e3941a0f623cc1d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-27T05:14:46.119Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "ブルアカ",
+        "元宮チアキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150091756_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150091756",
+      "sourceCreatedAt": "2026-09-25T10:24:22.000Z"
+    },
+    {
       "id": "33ba5812",
       "filename": "pixiv_150121921_p0.jpg",
       "path": "uploads/2026/09/c8eb6124.jpg",
