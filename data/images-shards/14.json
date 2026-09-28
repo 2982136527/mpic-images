@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "1c6fd529",
+      "filename": "pixiv_150130003_p0.jpg",
+      "path": "uploads/2026/09/3bc5994d.jpg",
+      "size": 924636,
+      "width": 1200,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "hash": "efeae086d4b4764d2d69c0dec6cce48e3ebef7d76f1c0b82be3ce3acc02a1081",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T16:48:14.696Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150130003_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150130003",
+      "sourceCreatedAt": "2026-09-26T08:16:50.000Z"
+    },
+    {
       "id": "a44413e6",
       "filename": "pixiv_150138803_p0.jpg",
       "path": "uploads/2026/09/5294dc51.jpg",
