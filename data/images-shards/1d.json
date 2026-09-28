@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "516d45dc",
+      "filename": "pixiv_150166424_p0.jpg",
+      "path": "uploads/2026/09/fdbc8ad2.jpg",
+      "size": 1001106,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d795eec9e89ca562ae829a22857e1de4d9bacf047731113d9eb4f75d5024c97a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:17:20.552Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "📸",
+      "tags": [
+        "オリジナル",
+        "壱珂の絵",
+        "銀髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150166424_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150166424",
+      "sourceCreatedAt": "2026-09-27T04:35:12.000Z"
+    },
+    {
       "id": "bced185b",
       "filename": "pixiv_150133864_p0.jpg",
       "path": "uploads/2026/09/6b0ca78a.jpg",
