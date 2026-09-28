@@ -3,6 +3,37 @@
   "shardId": "11",
   "images": [
     {
+      "id": "255db073",
+      "filename": "pixiv_150147424_p0.jpg",
+      "path": "uploads/2026/09/5e928e68.jpg",
+      "size": 1052264,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ae4b867d16bcd91562fd2a2c63a629518d084db2d7ac86f190d996f991fa361d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:19:07.093Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ギャルスバル",
+      "tags": [
+        "ホロライブ",
+        "バーチャルYouTuber",
+        "hololive",
+        "大空スバル",
+        "プロテインザスバル",
+        "fanart",
+        "ギャル",
+        "制服",
+        "少女",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150147424_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150147424",
+      "sourceCreatedAt": "2026-09-26T15:00:44.000Z"
+    },
+    {
       "id": "f3fd9506",
       "filename": "pixiv_150183633_p0.jpg",
       "path": "uploads/2026/09/f264ec3e.jpg",
