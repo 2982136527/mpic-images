@@ -3,6 +3,36 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "c6ed2683",
+      "filename": "pixiv_150108735_p0.jpg",
+      "path": "uploads/2026/09/fcfcf513.jpg",
+      "size": 802789,
+      "width": 1200,
+      "height": 723,
+      "mimeType": "image/jpeg",
+      "hash": "3ab1ab5ac8247f286fe705a1ffb8e772fe5f694f1df6c50b88b77112827b332d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:12:04.022Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "舟log⑬",
+      "tags": [
+        "アークナイツ",
+        "クラウンスレイヤー(アークナイツ)",
+        "タルラ(アークナイツ)",
+        "アリーナ(アークナイツ)",
+        "明日方舟",
+        "整合运动",
+        "弑君者",
+        "塔露拉",
+        "阿丽娜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150108735_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150108735",
+      "sourceCreatedAt": "2026-09-25T16:19:42.000Z"
+    },
+    {
       "id": "b311f084",
       "filename": "pixiv_150082472_p0.jpg",
       "path": "uploads/2026/09/692f3116.jpg",
