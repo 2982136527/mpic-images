@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "6f5ab60c",
+      "filename": "pixiv_150159949_p0.jpg",
+      "path": "uploads/2026/09/34f47c0c.jpg",
+      "size": 511091,
+      "width": 669,
+      "height": 858,
+      "mimeType": "image/jpeg",
+      "hash": "23df4823dd1a84fad9e07141ecc8d45e815e04b1d18f367573b823428d146881",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:15:36.294Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "蒼の境界線 - HATSUNE MIKU",
+      "tags": [
+        "VOCALOID",
+        "UTAU",
+        "重音テト",
+        "teto",
+        "KasaneTeto",
+        "テト",
+        "初音ミク",
+        "HatsuneMiku",
+        "ミク",
+        "Miku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150159949_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150159949",
+      "sourceCreatedAt": "2026-09-27T00:31:14.000Z"
+    },
+    {
       "id": "062a5a35",
       "filename": "pixiv_150143559_p0.jpg",
       "path": "uploads/2026/09/84311c11.jpg",
