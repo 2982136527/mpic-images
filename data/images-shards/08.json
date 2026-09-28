@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "7e03b63a",
+      "filename": "pixiv_150166673_p0.jpg",
+      "path": "uploads/2026/09/28d9037b.jpg",
+      "size": 748801,
+      "width": 1067,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f3683f19b9ec002431ae73de4a2e34931da8d18111892d927469ddc50246c2fe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:13:57.813Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "強くなれたけど…",
+      "tags": [
+        "ちいかわ",
+        "ハチワレ(でかつよ)",
+        "ラッコ(ちいかわ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150166673_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150166673",
+      "sourceCreatedAt": "2026-09-27T04:44:12.000Z"
+    },
+    {
       "id": "0cb78787",
       "filename": "pixiv_150098733_p0.jpg",
       "path": "uploads/2026/09/ab934de6.jpg",
