@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "a1828ed1",
+      "filename": "pixiv_150129952_p0.jpg",
+      "path": "uploads/2026/09/270ccb0a.jpg",
+      "size": 830694,
+      "width": 732,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a843a8a9899e607cc3b67876203418311d8c70f44a46ed040c427a6f1b307ba6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T16:46:20.004Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "飲んじゃった",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "久田イズナ",
+        "久田イズナ(ドレス)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150129952_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150129952",
+      "sourceCreatedAt": "2026-09-26T08:15:20.000Z"
+    },
+    {
       "id": "0feaaa06",
       "filename": "pixiv_150187228_p0.jpg",
       "path": "uploads/2026/09/6e54194a.jpg",
