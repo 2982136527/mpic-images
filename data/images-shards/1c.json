@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "ae495104",
+      "filename": "pixiv_150105775_p0.jpg",
+      "path": "uploads/2026/09/f2a1b240.jpg",
+      "size": 496849,
+      "width": 550,
+      "height": 713,
+      "mimeType": "image/jpeg",
+      "hash": "635986590fcf2d4340f31bcb19e710c64da787213f213c6d988c4f5f6b965106",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:20:19.105Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "キラキラメイドちゃん✨",
+      "tags": [
+        "オリジナル",
+        "メイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150105775_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150105775",
+      "sourceCreatedAt": "2026-09-25T15:05:02.000Z"
+    },
+    {
       "id": "8b480609",
       "filename": "pixiv_150092951_p0.jpg",
       "path": "uploads/2026/09/1352496f.jpg",
