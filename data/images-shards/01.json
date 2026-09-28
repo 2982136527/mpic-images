@@ -3,6 +3,34 @@
   "shardId": "01",
   "images": [
     {
+      "id": "3142bc71",
+      "filename": "pixiv_150114000_p0.jpg",
+      "path": "uploads/2026/09/67540775.jpg",
+      "size": 927072,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "39a32e7b3a54ba921e7ecd529687bfa22a9fc167409b9f0de4222316a016302d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:13:50.257Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "セリカとシグレとカノエとニコ",
+      "tags": [
+        "ブルーアーカイブ",
+        "黒見セリカ",
+        "間宵シグレ",
+        "板垣カノエ",
+        "吉野ニコ",
+        "鼻水",
+        "へそ責め"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150114000_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150114000",
+      "sourceCreatedAt": "2026-09-25T21:09:46.000Z"
+    },
+    {
       "id": "a38e972b",
       "filename": "pixiv_150128746_p0.jpg",
       "path": "uploads/2026/09/7db27fda.jpg",
