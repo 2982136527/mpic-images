@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "88b9eb9c",
+      "filename": "pixiv_150182199_p0.jpg",
+      "path": "uploads/2026/09/c59f1957.jpg",
+      "size": 2235712,
+      "width": 1200,
+      "height": 1060,
+      "mimeType": "image/jpeg",
+      "hash": "d9657a39480b5dfea0c4496ceee2206869de0df525e53c3f6a8b907b537a296b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:16:50.407Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "博麗の巫女",
+      "tags": [
+        "東方",
+        "博麗霊夢",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150182199_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150182199",
+      "sourceCreatedAt": "2026-09-27T11:56:10.000Z"
+    },
+    {
       "id": "e000b474",
       "filename": "pixiv_150110842_p0.jpg",
       "path": "uploads/2026/09/c2ab47a3.jpg",
