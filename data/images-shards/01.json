@@ -3,6 +3,34 @@
   "shardId": "01",
   "images": [
     {
+      "id": "cf82a224",
+      "filename": "pixiv_150133420_p0.jpg",
+      "path": "uploads/2026/09/87a31b6e.jpg",
+      "size": 830258,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "81ac80025ac5b0ee08c56efe9ff6bfc42be8976553b7ffe1497c6e0b6c9bf2a1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T16:43:52.226Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "レミリアとフラン",
+      "tags": [
+        "イラスト",
+        "東方",
+        "東方Project",
+        "レミリア・スカーレット",
+        "フランドール・スカーレット",
+        "東方紅魔郷NewClassic",
+        "Party"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150133420_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150133420",
+      "sourceCreatedAt": "2026-09-26T09:57:29.000Z"
+    },
+    {
       "id": "3142bc71",
       "filename": "pixiv_150114000_p0.jpg",
       "path": "uploads/2026/09/67540775.jpg",
