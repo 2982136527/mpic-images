@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "bced185b",
+      "filename": "pixiv_150133864_p0.jpg",
+      "path": "uploads/2026/09/6b0ca78a.jpg",
+      "size": 784246,
+      "width": 874,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ea4a591dead8288f657018d323102238c3c53c9ce2be8b0eaf1a5f64d3ad9ecf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:16:43.039Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "いますぐ輪廻",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ボーカロイド",
+        "HatsuneMiku",
+        "いますぐ輪廻"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150133864_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150133864",
+      "sourceCreatedAt": "2026-09-26T10:04:36.000Z"
+    },
+    {
       "id": "a8c419c0",
       "filename": "pixiv_150173762_p0.jpg",
       "path": "uploads/2026/09/e70b6dcf.jpg",
