@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "1341f163",
+      "filename": "pixiv_150171353_p0.jpg",
+      "path": "uploads/2026/09/cff7d07d.jpg",
+      "size": 1529120,
+      "width": 880,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fe8a2f4581afa9bcd16c7bae273eaa0f5b28d2ff5b799bc6b83eed79fa7bfbc4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T16:49:52.329Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "ゴールドシップ(ウマ娘)",
+        "ウマ娘プリティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150171353_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150171353",
+      "sourceCreatedAt": "2026-09-27T07:26:27.000Z"
+    },
+    {
       "id": "50a44121",
       "filename": "pixiv_150147305_p0.jpg",
       "path": "uploads/2026/09/430eeb9f.jpg",
