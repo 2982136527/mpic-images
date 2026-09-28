@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "393174c4",
+      "filename": "pixiv_150147416_p0.jpg",
+      "path": "uploads/2026/09/ad029f6d.jpg",
+      "size": 1019185,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "84ea10edf64767e81366c56e4ad2e8cf43b1d6a3b9ee07dc5c51ad74fe2bd033",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:19:56.202Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【新刊】Chronicle",
+      "tags": [
+        "フランドール・スカーレット",
+        "東方Project",
+        "東方",
+        "レミリア・スカーレット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150147416_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150147416",
+      "sourceCreatedAt": "2026-09-26T15:00:43.000Z"
+    },
+    {
       "id": "88b9eb9c",
       "filename": "pixiv_150182199_p0.jpg",
       "path": "uploads/2026/09/c59f1957.jpg",
