@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "4d5eaac8",
+      "filename": "pixiv_150137731_p0.jpg",
+      "path": "uploads/2026/09/21d2a53a.jpg",
+      "size": 325579,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "3a212e0f91a9bd4d467c1737cf6c3fe861bc8e4c701edd5836ed5a186ee9cf5d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:17:31.182Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Untitled",
+      "tags": [
+        "Limbus_Company",
+        "림버스컴퍼니",
+        "LimbusCompany",
+        "돈키호테",
+        "ドンキホーテ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150137731_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150137731",
+      "sourceCreatedAt": "2026-09-26T11:38:04.000Z"
+    },
+    {
       "id": "6dda5157",
       "filename": "pixiv_150168788_p0.jpg",
       "path": "uploads/2026/09/56c20884.jpg",
