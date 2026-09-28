@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "d0782e30",
+      "filename": "pixiv_150011442_p0.jpg",
+      "path": "uploads/2026/09/ade61c0e.jpg",
+      "size": 1156067,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aa8a2ece03e78031ceadecda0af80a44cb245d416fbaf05fbc448d307d252935",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:20:51.579Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "skeb",
+      "tags": [
+        "狐の嫁入り",
+        "着物"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150011442_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150011442",
+      "sourceCreatedAt": "2026-09-23T06:52:14.000Z"
+    },
+    {
       "id": "14cb6663",
       "filename": "pixiv_150103391_p0.jpg",
       "path": "uploads/2026/09/b2d3df3c.jpg",
