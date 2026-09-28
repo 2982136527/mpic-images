@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "87c4b4bc",
+      "filename": "pixiv_150142799_p0.jpg",
+      "path": "uploads/2026/09/f06d85f4.jpg",
+      "size": 896864,
+      "width": 1200,
+      "height": 885,
+      "mimeType": "image/jpeg",
+      "hash": "b24492d0e7a4dfc1c8faa2d1eee4658dee66b7043e890b4be4bc85209ae27c72",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T16:44:23.519Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "말돈",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "돈키호테",
+        "ドンキホーテ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150142799_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150142799",
+      "sourceCreatedAt": "2026-09-26T13:22:01.000Z"
+    },
+    {
       "id": "bee9f2db",
       "filename": "pixiv_150129115_p0.jpg",
       "path": "uploads/2026/09/0818eb5a.jpg",
