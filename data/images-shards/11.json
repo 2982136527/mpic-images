@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "6b835858",
+      "filename": "pixiv_150155881_p0.jpg",
+      "path": "uploads/2026/09/dae24bee.jpg",
+      "size": 812171,
+      "width": 1029,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "72fa119d46961f45a4bc79e32860fe4b13e34ff182136b90fe7244e66b61f8b6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:14:05.221Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "いいじゃん。",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "ヤン・ジシュカ(Fate)",
+        "ヴェルザンディ(Fate)",
+        "パンプキンファーム・スローター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150155881_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150155881",
+      "sourceCreatedAt": "2026-09-26T20:55:14.000Z"
+    },
+    {
       "id": "9ac434ff",
       "filename": "pixiv_150132843_p0.jpg",
       "path": "uploads/2026/09/cbe60ee7.jpg",
