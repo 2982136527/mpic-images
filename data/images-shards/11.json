@@ -3,6 +3,37 @@
   "shardId": "11",
   "images": [
     {
+      "id": "47ab4ea2",
+      "filename": "pixiv_150176467_p0.jpg",
+      "path": "uploads/2026/09/f2b713b0.jpg",
+      "size": 802465,
+      "width": 943,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7e921bcacf94e3884feb3db4ec6414f5e6e57d3ac77001b552a58d22bc4a223d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T16:44:08.793Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ポケモンモチーフのデザート２",
+      "tags": [
+        "ズガドーン",
+        "ミミッキュ",
+        "キラフロル",
+        "ケーキ",
+        "デザート",
+        "モンブラン",
+        "飴",
+        "厚塗り",
+        "ポケットモンスター",
+        "ポケモン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150176467_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150176467",
+      "sourceCreatedAt": "2026-09-27T09:46:54.000Z"
+    },
+    {
       "id": "9deeeb47",
       "filename": "pixiv_150155849_p0.jpg",
       "path": "uploads/2026/09/255c5e21.jpg",
