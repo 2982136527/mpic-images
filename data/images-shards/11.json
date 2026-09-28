@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "9aa03d6d",
+      "filename": "pixiv_150184475_p0.jpg",
+      "path": "uploads/2026/09/5be9602b.jpg",
+      "size": 429910,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4076af6c7080e748e49a646b22556b8ab4ff1696c81839214f9b8eedf29023c1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T16:45:11.392Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "寝起きミク",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150184475_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150184475",
+      "sourceCreatedAt": "2026-09-27T12:37:29.000Z"
+    },
+    {
       "id": "47ab4ea2",
       "filename": "pixiv_150176467_p0.jpg",
       "path": "uploads/2026/09/f2b713b0.jpg",
