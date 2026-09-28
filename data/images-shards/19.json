@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "a584b43f",
+      "filename": "pixiv_150158641_p0.jpg",
+      "path": "uploads/2026/09/24e0541e.jpg",
+      "size": 182942,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c8b29266669fb1ee66e76c7624c4d831b881b3a97838b15bc0d6fa5907297f2e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:20:04.356Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ボンプらくがき⑧",
+      "tags": [
+        "ゼンゼロ",
+        "ゼンレスゾーンゼロ",
+        "ボンプ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150158641_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150158641",
+      "sourceCreatedAt": "2026-09-26T23:30:45.000Z"
+    },
+    {
       "id": "acfe469f",
       "filename": "pixiv_150128033_p0.jpg",
       "path": "uploads/2026/09/6de82066.jpg",
