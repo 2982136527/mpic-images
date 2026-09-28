@@ -3,6 +3,35 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "a9afd20b",
+      "filename": "pixiv_150105994_p0.jpg",
+      "path": "uploads/2026/09/b6be04fe.jpg",
+      "size": 316059,
+      "width": 1032,
+      "height": 999,
+      "mimeType": "image/jpeg",
+      "hash": "bfab03df52b9375679357a39fae60df2ae49ec00e747e4ab97fcbd5647f123e0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:12:19.100Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "手応えあり",
+      "tags": [
+        "漫画",
+        "拳銃",
+        "オリジナル",
+        "オリジナル漫画",
+        "射撃場",
+        "マンターゲット",
+        "フラグ",
+        "おっとぉ..."
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150105994_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150105994",
+      "sourceCreatedAt": "2026-09-27T09:28:24.000Z"
+    },
+    {
       "id": "c6ed2683",
       "filename": "pixiv_150108735_p0.jpg",
       "path": "uploads/2026/09/fcfcf513.jpg",
