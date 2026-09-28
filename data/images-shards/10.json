@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "5f69a8ee",
+      "filename": "pixiv_150161552_p0.jpg",
+      "path": "uploads/2026/09/0d80c979.jpg",
+      "size": 1645598,
+      "width": 1160,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "86fc9b2d3e8686ad34b7fc4b1cb4648a16e53a95587a112f98e8e0a929049a10",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:17:04.353Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "りんご",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子",
+        "りんご"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150161552_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150161552",
+      "sourceCreatedAt": "2026-09-27T01:37:24.000Z"
+    },
+    {
       "id": "6f5ab60c",
       "filename": "pixiv_150159949_p0.jpg",
       "path": "uploads/2026/09/34f47c0c.jpg",
