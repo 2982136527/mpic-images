@@ -3,6 +3,35 @@
   "shardId": "10",
   "images": [
     {
+      "id": "d5d7e9a0",
+      "filename": "pixiv_150106308_p0.jpg",
+      "path": "uploads/2026/09/67feba3a.jpg",
+      "size": 761193,
+      "width": 809,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b10a889373db28621886b64874de570f3dc96ba8bd20bc4f9ed3e2768e638a7d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T16:48:22.707Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "放課後の秘密",
+      "tags": [
+        "バーチャルYouTuber",
+        "VTuber",
+        "ホロライブ",
+        "AZKi",
+        "風真いろは",
+        "二人",
+        "あずいろ",
+        "バーチャルYouTuber500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150106308_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150106308",
+      "sourceCreatedAt": "2026-09-25T15:15:42.000Z"
+    },
+    {
       "id": "5f69a8ee",
       "filename": "pixiv_150161552_p0.jpg",
       "path": "uploads/2026/09/0d80c979.jpg",
