@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "9af0dda8",
+      "filename": "pixiv_150160101_p0.jpg",
+      "path": "uploads/2026/09/5a6b9b33.jpg",
+      "size": 741117,
+      "width": 938,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d69721977fbc3b67752600d7ba71c12020a77a27d0f5ba92a2ca2bdef3ea1610",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:15:21.823Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Mirror",
+      "tags": [
+        "崩坏星穹铁道",
+        "長なの",
+        "三月なのか",
+        "長夜月",
+        "HonkaiStarRail",
+        "evermarch"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150160101_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150160101",
+      "sourceCreatedAt": "2026-09-27T00:38:16.000Z"
+    },
+    {
       "id": "dcec7f93",
       "filename": "pixiv_150106729_p0.jpg",
       "path": "uploads/2026/09/dd4208d0.jpg",
