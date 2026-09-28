@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "69a321d8",
+      "filename": "pixiv_150132264_p0.jpg",
+      "path": "uploads/2026/09/20b76cfb.jpg",
+      "size": 738099,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d73cbbd15f58ff3412ee4525709c81a1510952bf1ab605ab2aca238a7ab82bf5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-28T05:16:31.678Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "日常のさりげないぴっちり",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150132264_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150132264",
+      "sourceCreatedAt": "2026-09-26T09:23:43.000Z"
+    },
+    {
       "id": "7e03b63a",
       "filename": "pixiv_150166673_p0.jpg",
       "path": "uploads/2026/09/28d9037b.jpg",
