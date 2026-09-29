@@ -3,6 +3,32 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "7e7e8c27",
+      "filename": "pixiv_150211275_p0.jpg",
+      "path": "uploads/2026/09/6c63bebd.jpg",
+      "size": 515623,
+      "width": 667,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "77aa3ffa8df9fe236cf9b2c162385e6a5f508fd197fa9e8999138ab826e94470",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:50:31.882Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ラ・プルマ",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "arknights",
+        "ラ・プルマ(アークナイツ)",
+        "羽毛笔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150211275_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150211275",
+      "sourceCreatedAt": "2026-09-28T07:56:03.000Z"
+    },
+    {
       "id": "4932b27b",
       "filename": "pixiv_150211213_p0.jpg",
       "path": "uploads/2026/09/54258785.jpg",
