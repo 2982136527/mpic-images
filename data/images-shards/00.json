@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "45961311",
+      "filename": "pixiv_150007361_p0.jpg",
+      "path": "uploads/2026/09/52c81cae.jpg",
+      "size": 1427022,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ccabad340dabf1fa4772e33ea71f10af2387af8937cfcaa5545c30f9c93a1360",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:43:28.189Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "风仙小姐",
+      "tags": [
+        "女の子",
+        "原神",
+        "薇斯纳",
+        "原神1000users入り",
+        "ヴェスナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150007361_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150007361",
+      "sourceCreatedAt": "2026-09-23T04:17:33.000Z"
+    },
+    {
       "id": "89844f11",
       "filename": "pixiv_150195747_p0.jpg",
       "path": "uploads/2026/09/194e3049.jpg",
