@@ -3,6 +3,33 @@
   "shardId": "03",
   "images": [
     {
+      "id": "2bafad42",
+      "filename": "pixiv_150225063_p0.jpg",
+      "path": "uploads/2026/09/40fdfa83.jpg",
+      "size": 672210,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7c9396a44025ab787b6dc980818f1b738b63f88733fd98a5a9318ee8bdb7d99e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:34:18.239Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "言わないでしょ",
+      "tags": [
+        "ちいかわパロ",
+        "本間ひまわり",
+        "葛葉",
+        "ドーラ(にじさんじ)",
+        "ド葛本社",
+        "にじさんじ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150225063_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150225063",
+      "sourceCreatedAt": "2026-09-28T13:38:39.000Z"
+    },
+    {
       "id": "07ee42d9",
       "filename": "pixiv_150163515_p0.jpg",
       "path": "uploads/2026/09/cadf148d.jpg",
