@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "62669b53",
+      "filename": "pixiv_149951849_p0.jpg",
+      "path": "uploads/2026/09/4d4b7264.jpg",
+      "size": 1040265,
+      "width": 1200,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "adb1109c94a8950ee76f1f3bb1b8d0e51cfe79dd9348e9c53bfdc801308154c5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:43:18.626Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "origami",
+      "tags": [
+        "背景",
+        "女の子",
+        "物が無い",
+        "千羽鶴",
+        "隔絶"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149951849_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149951849",
+      "sourceCreatedAt": "2026-09-21T16:33:11.000Z"
+    },
+    {
       "id": "932818ef",
       "filename": "pixiv_150170073_p0.jpg",
       "path": "uploads/2026/09/3a72f7b9.jpg",
