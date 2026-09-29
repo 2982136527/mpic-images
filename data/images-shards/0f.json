@@ -3,6 +3,28 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "e592c297",
+      "filename": "pixiv_150169908_p0.jpg",
+      "path": "uploads/2026/09/917cf3cf.jpg",
+      "size": 442009,
+      "width": 1019,
+      "height": 1086,
+      "mimeType": "image/jpeg",
+      "hash": "4989a699aace298c781d460d4cd9ed43ef820280be126d566578483b59dfd3ea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:37:17.940Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "上官と部下72",
+      "tags": [
+        "漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150169908_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150169908",
+      "sourceCreatedAt": "2026-09-27T06:49:59.000Z"
+    },
+    {
       "id": "1f6f10e5",
       "filename": "pixiv_150146970_p0.jpg",
       "path": "uploads/2026/09/caf0b2aa.jpg",
