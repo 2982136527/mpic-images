@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "92bdeb10",
+      "filename": "pixiv_150194147_p0.jpg",
+      "path": "uploads/2026/09/8f4df8d2.jpg",
+      "size": 1617437,
+      "width": 1194,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "69e9aa23583181d412e6a653f38493242b9c4513c196a23cd65fea0cf013087e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:38:54.991Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "르누아르 매니저",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "돈키호테",
+        "ドンキホーテ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150194147_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150194147",
+      "sourceCreatedAt": "2026-09-27T16:28:29.000Z"
+    },
+    {
       "id": "1ae338a9",
       "filename": "pixiv_150149548_p0.jpg",
       "path": "uploads/2026/09/dc17b408.jpg",
