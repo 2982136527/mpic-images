@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "f2367cce",
+      "filename": "pixiv_150194916_p0.jpg",
+      "path": "uploads/2026/09/82389ca9.jpg",
+      "size": 475365,
+      "width": 728,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8c560bc1ee8dbd779e8159d6d4fa5dc01076468800fea827d5c0187657b2dda0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T20:44:49.835Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "落書き",
+        "プロセカ",
+        "プロジェクトセカイ",
+        "桐谷遥",
+        "宵崎奏",
+        "星乃一歌"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150194916_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150194916",
+      "sourceCreatedAt": "2026-09-27T16:50:40.000Z"
+    },
+    {
       "id": "00c29630",
       "filename": "pixiv_150224754_p0.jpg",
       "path": "uploads/2026/09/1efa9523.jpg",
