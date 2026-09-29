@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "5b385bac",
+      "filename": "pixiv_150185503_p0.jpg",
+      "path": "uploads/2026/09/cfcda378.jpg",
+      "size": 397409,
+      "width": 1123,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d290e233c43931ab65930b7a1182db9ac50d9b7a56d3d62131c89ea068e79538",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T20:50:04.035Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "まとめ",
+      "tags": [
+        "勝デク",
+        "hrak【腐】"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150185503_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150185503",
+      "sourceCreatedAt": "2026-09-27T12:57:58.000Z"
+    },
+    {
       "id": "f2367cce",
       "filename": "pixiv_150194916_p0.jpg",
       "path": "uploads/2026/09/82389ca9.jpg",
