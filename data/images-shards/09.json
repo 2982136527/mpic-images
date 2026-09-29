@@ -3,6 +3,34 @@
   "shardId": "09",
   "images": [
     {
+      "id": "d40d469c",
+      "filename": "pixiv_150027709_p0.jpg",
+      "path": "uploads/2026/09/d549c3a8.jpg",
+      "size": 523276,
+      "width": 889,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "95cb765c5d9c46bd9694dc5ae9ba563fa6b0b27a0cd8ff7629d0dd414b65574e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:43:38.233Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "成長ifメノゴル",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ゴールドシップ(ウマ娘)",
+        "フェノーメノ(ウマ娘)",
+        "メノゴル",
+        "百合",
+        "ウマ娘プリティーダービー100users入り",
+        "ウマ娘プリティーダービー500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150027709_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150027709",
+      "sourceCreatedAt": "2026-09-23T13:33:42.000Z"
+    },
+    {
       "id": "1babfefe",
       "filename": "pixiv_150214251_p0.jpg",
       "path": "uploads/2026/09/bacb9c85.jpg",
