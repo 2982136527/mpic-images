@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "240f37f5",
+      "filename": "pixiv_150201455_p0.jpg",
+      "path": "uploads/2026/09/ab5e0dbd.jpg",
+      "size": 885133,
+      "width": 655,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "61070724adde68e6f7820a6c0601aa7caaf076b5d359903426c3eea2d8fa972d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T20:44:57.827Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Swimsuit Hiyuki",
+      "tags": [
+        "WutheringWaves",
+        "鸣潮",
+        "鳴潮",
+        "Hiyuki",
+        "绯雪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150201455_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150201455",
+      "sourceCreatedAt": "2026-09-27T23:10:55.000Z"
+    },
+    {
       "id": "07f74006",
       "filename": "pixiv_150204931_p0.jpg",
       "path": "uploads/2026/09/804b2c0a.jpg",
