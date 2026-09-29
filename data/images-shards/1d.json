@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "cbe3006a",
+      "filename": "pixiv_150224427_p0.jpg",
+      "path": "uploads/2026/09/9f1b40af.jpg",
+      "size": 603218,
+      "width": 982,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7f10ed6ad726963777985dcec329dc318c069bc7d39651f04017134abe0a613f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:39:11.353Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "霊夢さん。",
+      "tags": [
+        "東方project",
+        "東方",
+        "マウス絵",
+        "衣装アレンジ",
+        "博麗霊夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150224427_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150224427",
+      "sourceCreatedAt": "2026-09-28T13:23:15.000Z"
+    },
+    {
       "id": "9c6d6494",
       "filename": "pixiv_150147286_p0.jpg",
       "path": "uploads/2026/09/e8a91929.jpg",
