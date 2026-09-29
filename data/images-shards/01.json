@@ -3,6 +3,36 @@
   "shardId": "01",
   "images": [
     {
+      "id": "e25f989f",
+      "filename": "pixiv_150213172_p0.jpg",
+      "path": "uploads/2026/09/73866b69.jpg",
+      "size": 650022,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a17f6f7de5a0f280582bfa06411fbdd8be561cd9d029c9a76c0a43fe0b4331a6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:56:07.480Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "猫エイメス",
+      "tags": [
+        "鳴潮",
+        "WutheringWaves",
+        "エイメス",
+        "Aemeath",
+        "ポニーテール",
+        "ピンク髪",
+        "サイハイブーツ",
+        "長手袋",
+        "ロンググローブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150213172_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150213172",
+      "sourceCreatedAt": "2026-09-28T09:00:16.000Z"
+    },
+    {
       "id": "c5adc732",
       "filename": "pixiv_150188929_p0.jpg",
       "path": "uploads/2026/09/b2c1b624.jpg",
