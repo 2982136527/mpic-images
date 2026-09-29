@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "7abb8c12",
+      "filename": "pixiv_150169310_p0.jpg",
+      "path": "uploads/2026/09/5299a12c.jpg",
+      "size": 368821,
+      "width": 657,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e1fe0059a84050d0540259e65512c8bfcc9739a8b887f40332b3a8b9782bdeb9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:38:16.354Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "luci",
+      "tags": [
+        "helltaker",
+        "ルシファー(Helltaker)",
+        "Lucifer"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150169310_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150169310",
+      "sourceCreatedAt": "2026-09-27T06:22:51.000Z"
+    },
+    {
       "id": "67dd5a53",
       "filename": "pixiv_150165116_p0.jpg",
       "path": "uploads/2026/09/b7a7d2b3.jpg",
