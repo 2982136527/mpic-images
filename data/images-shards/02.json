@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "c548db93",
+      "filename": "pixiv_150211772_p0.jpg",
+      "path": "uploads/2026/09/1f1853af.jpg",
+      "size": 1098083,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "43e423d2c9ffcc03b65de2b2340ef0dd9ab0ac42f782eefbab9b3cc51f601133",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:49:27.657Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "原神６周年おめでとう！",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ナヒーダ",
+        "放浪者(原神)",
+        "蛍(原神)",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150211772_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150211772",
+      "sourceCreatedAt": "2026-09-28T08:13:16.000Z"
+    },
+    {
       "id": "29a40dd7",
       "filename": "pixiv_150169001_p0.jpg",
       "path": "uploads/2026/09/60dfd8c9.jpg",
