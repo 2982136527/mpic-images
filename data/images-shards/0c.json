@@ -3,6 +3,37 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "782fd0ae",
+      "filename": "pixiv_150195945_p0.jpg",
+      "path": "uploads/2026/09/a9bf2059.jpg",
+      "size": 2192538,
+      "width": 1200,
+      "height": 1121,
+      "mimeType": "image/jpeg",
+      "hash": "ab8b279959178734b16f53d3ee2d705722c86a80a3ac9a42402fbb59f7beeddc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:51:33.137Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "名画 × 初音ミク ②",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "女の子",
+        "ボーカロイド",
+        "イラスト",
+        "少女",
+        "HatsuneMiku",
+        "ツインテール",
+        "Miku",
+        "girl"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150195945_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150195945",
+      "sourceCreatedAt": "2026-09-27T17:30:08.000Z"
+    },
+    {
       "id": "d3f61ff5",
       "filename": "pixiv_150155278_p0.jpg",
       "path": "uploads/2026/09/7c96ca43.jpg",
