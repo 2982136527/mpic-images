@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "07f74006",
+      "filename": "pixiv_150204931_p0.jpg",
+      "path": "uploads/2026/09/804b2c0a.jpg",
+      "size": 1204996,
+      "width": 908,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2d6ef389cf6dc0f6aea9cf168ca81621c6aee3e071d720208205455d7efd710f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T20:43:42.312Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Pearl",
+      "tags": [
+        "パール(スターレイル)",
+        "崩壊スターレイル",
+        "パール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150204931_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150204931",
+      "sourceCreatedAt": "2026-09-28T02:40:48.000Z"
+    },
+    {
       "id": "5279867d",
       "filename": "pixiv_150197140_p0.jpg",
       "path": "uploads/2026/09/da2305d5.jpg",
