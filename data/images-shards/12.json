@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "c29e4df7",
+      "filename": "pixiv_150215101_p0.jpg",
+      "path": "uploads/2026/09/c82b8287.jpg",
+      "size": 1267796,
+      "width": 1000,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dec2e51bae3476472d8b0fd762a93ba5fcbfa37d61313f600615c606be803819",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:37:41.393Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【ｽﾀﾚ】パールさん実装おめでとう！！",
+      "tags": [
+        "崩壊スターレイル",
+        "パール(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150215101_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150215101",
+      "sourceCreatedAt": "2026-09-28T09:53:50.000Z"
+    },
+    {
       "id": "1341f163",
       "filename": "pixiv_150171353_p0.jpg",
       "path": "uploads/2026/09/cff7d07d.jpg",
