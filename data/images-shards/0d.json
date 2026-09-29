@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "a94c75dd",
+      "filename": "pixiv_150191710_p0.jpg",
+      "path": "uploads/2026/09/f1a17c79.jpg",
+      "size": 1935740,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ef13a3c075dc89f506b826d710d9888ff0e8bb5098a87f519e7ba3ef6f3084cc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:54:25.175Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無華の花嫁",
+      "tags": [
+        "女の子",
+        "美少女",
+        "和風",
+        "白無垢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150191710_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150191710",
+      "sourceCreatedAt": "2026-09-27T15:00:13.000Z"
+    },
+    {
       "id": "5404d1cf",
       "filename": "pixiv_150170346_p0.jpg",
       "path": "uploads/2026/09/da1213c2.jpg",
