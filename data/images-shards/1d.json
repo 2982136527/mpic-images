@@ -3,6 +3,33 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "ef2c7d48",
+      "filename": "pixiv_150208038_p0.jpg",
+      "path": "uploads/2026/09/129cd98a.jpg",
+      "size": 716188,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0dd5f284acfb6798696d662ffabd2468edcf22e4cc2f9b2f3b2eaa898dc4740e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T20:49:55.725Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "かまってFOX",
+      "tags": [
+        "オトギ(ブルーアーカイブ)",
+        "天神山オトギ",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "クルミ(ブルーアーカイブ)",
+        "高倉クルミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150208038_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150208038",
+      "sourceCreatedAt": "2026-09-28T05:15:22.000Z"
+    },
+    {
       "id": "6005ec52",
       "filename": "pixiv_150186698_p0.jpg",
       "path": "uploads/2026/09/bd7e089e.jpg",
