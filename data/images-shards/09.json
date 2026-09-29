@@ -3,6 +3,32 @@
   "shardId": "09",
   "images": [
     {
+      "id": "70f75484",
+      "filename": "pixiv_150150050_p0.jpg",
+      "path": "uploads/2026/09/3bed8589.jpg",
+      "size": 769601,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c6820707307cae9f442c091d48a6dc36f393d57adbc313707e6be483fd85a49c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T20:43:22.331Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ホロライブ",
+        "熱千めら",
+        "めら組絵図",
+        "守りたいこの笑顔",
+        "バーチャルYouTuber500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150150050_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150150050",
+      "sourceCreatedAt": "2026-09-26T15:55:41.000Z"
+    },
+    {
       "id": "8b82b309",
       "filename": "pixiv_150179187_p0.jpg",
       "path": "uploads/2026/09/106ff853.jpg",
