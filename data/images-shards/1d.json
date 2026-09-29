@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "1fc8db6c",
+      "filename": "pixiv_150179996_p0.jpg",
+      "path": "uploads/2026/09/4d7a77a4.jpg",
+      "size": 987975,
+      "width": 1200,
+      "height": 1152,
+      "mimeType": "image/jpeg",
+      "hash": "b0c4bded5f6c34b76158b6969b7a5c79ecfa3ab24376eb99fdf416e85c2c9e81",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:42:10.744Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "OLロノヴァちゃん",
+      "tags": [
+        "原神",
+        "Genshin",
+        "GenshinImpact",
+        "ロノヴァ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150179996_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150179996",
+      "sourceCreatedAt": "2026-09-27T11:05:37.000Z"
+    },
+    {
       "id": "c94ed4a9",
       "filename": "pixiv_150167948_p0.jpg",
       "path": "uploads/2026/09/d8136da0.jpg",
