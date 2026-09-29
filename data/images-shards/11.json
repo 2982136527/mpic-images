@@ -3,6 +3,37 @@
   "shardId": "11",
   "images": [
     {
+      "id": "126a9494",
+      "filename": "pixiv_150170622_p0.jpg",
+      "path": "uploads/2026/09/3b2f9b7e.jpg",
+      "size": 741839,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c0de96d144770ac353bc75b56ca29a7748fe3adf96c2b5514eb428ea26d53447",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:42:18.442Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "コルニ",
+      "tags": [
+        "CLIPSTUDIOPAINT",
+        "ポケモン人間絵",
+        "コルニ",
+        "ポケモン",
+        "LEGENDSZ-A",
+        "ポケモンZA",
+        "金髪碧眼",
+        "ポケモントレーナー",
+        "ポケモン100users入り",
+        "M次元ラッシュ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150170622_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150170622",
+      "sourceCreatedAt": "2026-09-27T07:03:34.000Z"
+    },
+    {
       "id": "15a5b6af",
       "filename": "pixiv_150209334_p0.jpg",
       "path": "uploads/2026/09/8bea1c2c.jpg",
