@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "eff766e5",
+      "filename": "pixiv_150164716_p0.jpg",
+      "path": "uploads/2026/09/b893c669.jpg",
+      "size": 190004,
+      "width": 1000,
+      "height": 472,
+      "mimeType": "image/jpeg",
+      "hash": "ccbe8537a56e3528e7ec717000609250d0d51c6841661d5dccb03c996bc372c5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T20:45:45.053Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "カヴェアル⑥",
+      "tags": [
+        "カヴェアル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150164716_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150164716",
+      "sourceCreatedAt": "2026-09-27T03:32:33.000Z"
+    },
+    {
       "id": "df49699d",
       "filename": "pixiv_150147316_p0.jpg",
       "path": "uploads/2026/09/52b762f0.jpg",
