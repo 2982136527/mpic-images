@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "00c29630",
+      "filename": "pixiv_150224754_p0.jpg",
+      "path": "uploads/2026/09/1efa9523.jpg",
+      "size": 1187560,
+      "width": 680,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14bf78660d2790823f7b5bd3ef1da1f4049e83c702e31c6f4171243e1c072d8d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T20:41:44.924Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "💙",
+      "tags": [
+        "北柚香",
+        "バーチャルYouTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150224754_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150224754",
+      "sourceCreatedAt": "2026-09-28T13:30:25.000Z"
+    },
+    {
       "id": "c548db93",
       "filename": "pixiv_150211772_p0.jpg",
       "path": "uploads/2026/09/1f1853af.jpg",
