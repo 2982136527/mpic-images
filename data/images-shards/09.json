@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "827d29b2",
+      "filename": "pixiv_150213643_p0.jpg",
+      "path": "uploads/2026/09/1edf91c3.jpg",
+      "size": 1478920,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2daf11157c251a7a50f5ea302591ecc45f004c9360f4ddec8c84e114a6c0bf3f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:48:46.897Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "水の都",
+      "tags": [
+        "ポケモン",
+        "ラティアス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150213643_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150213643",
+      "sourceCreatedAt": "2026-09-28T09:07:30.000Z"
+    },
+    {
       "id": "d40d469c",
       "filename": "pixiv_150027709_p0.jpg",
       "path": "uploads/2026/09/d549c3a8.jpg",
