@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "b7a8f3e0",
+      "filename": "pixiv_150147385_p0.jpg",
+      "path": "uploads/2026/09/6457293a.jpg",
+      "size": 880944,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "43066fe2f41b8fe470891f6aa1487e0ca0076c785d29164f7bee13eec7d6a09b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:51:19.038Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Innocent",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150147385_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150147385",
+      "sourceCreatedAt": "2026-09-26T15:00:37.000Z"
+    },
+    {
       "id": "736a2221",
       "filename": "pixiv_150196520_p0.jpg",
       "path": "uploads/2026/09/85febb7d.jpg",
