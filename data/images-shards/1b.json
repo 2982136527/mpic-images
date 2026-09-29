@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "91ad7889",
+      "filename": "pixiv_150154918_p0.jpg",
+      "path": "uploads/2026/09/aac9210e.jpg",
+      "size": 861217,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ee25200c17ec0c00972d58adf24f418e3f86ebc9faf9b38085d19032409a6b1c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:53:53.972Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "スケブ納品物751",
+      "tags": [
+        "女の子",
+        "Skeb"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150154918_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150154918",
+      "sourceCreatedAt": "2026-09-26T19:37:33.000Z"
+    },
+    {
       "id": "8cdd2b43",
       "filename": "pixiv_150203567_p0.jpg",
       "path": "uploads/2026/09/6c143584.jpg",
