@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "82ab6525",
+      "filename": "pixiv_150149053_p0.jpg",
+      "path": "uploads/2026/09/22e638ed.jpg",
+      "size": 684508,
+      "width": 812,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c90b46f982c0de0e11431bd87117e19d89123436a9e8e8ae4abadd105dee8fc3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T20:42:12.944Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "レミリア×パンケーキ",
+      "tags": [
+        "レミリア・スカーレット",
+        "東方",
+        "東方Project",
+        "レミリア",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150149053_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150149053",
+      "sourceCreatedAt": "2026-09-26T15:30:09.000Z"
+    },
+    {
       "id": "984fb440",
       "filename": "pixiv_150170960_p0.jpg",
       "path": "uploads/2026/09/ffa1bc63.jpg",
