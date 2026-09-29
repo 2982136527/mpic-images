@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "6005ec52",
+      "filename": "pixiv_150186698_p0.jpg",
+      "path": "uploads/2026/09/bd7e089e.jpg",
+      "size": 724539,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0f7b3f0990b14a6d96a607b0a64a14048ed5c38180b5871e1f5bb82159361493",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T20:46:54.389Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "カンサイファミリー",
+      "tags": [
+        "ヤニねこ",
+        "カンサイねこ",
+        "西春蘭",
+        "西順子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150186698_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150186698",
+      "sourceCreatedAt": "2026-09-27T13:18:00.000Z"
+    },
+    {
       "id": "b3861899",
       "filename": "pixiv_150148894_p0.jpg",
       "path": "uploads/2026/09/ddc6736c.jpg",
