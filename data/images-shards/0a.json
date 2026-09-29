@@ -3,6 +3,37 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "2ac67dd9",
+      "filename": "pixiv_150162092_p0.jpg",
+      "path": "uploads/2026/09/1f93ca68.jpg",
+      "size": 825963,
+      "width": 801,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4f0840b0643c85b76891b4e4511683754aab47248b837d83100b401d8268ad00",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:57:26.126Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "大和",
+      "tags": [
+        "艦これ",
+        "大和(艦隊これくしょん)",
+        "大和",
+        "艦隊これくしょん",
+        "女の子",
+        "戦艦大和",
+        "伞",
+        "私服艦娘",
+        "C2レースクイーン服",
+        "艦これ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150162092_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150162092",
+      "sourceCreatedAt": "2026-09-27T02:00:19.000Z"
+    },
+    {
       "id": "4659ef2f",
       "filename": "pixiv_150225861_p0.jpg",
       "path": "uploads/2026/09/e551b374.jpg",
