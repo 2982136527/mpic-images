@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "2448e324",
+      "filename": "pixiv_150191036_p0.jpg",
+      "path": "uploads/2026/09/9c89c433.jpg",
+      "size": 1218822,
+      "width": 1200,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "f542fb772697e9007655942c30b3c1e366391c115b12348f420f06dbc3a96452",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:39:18.117Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ヒロアカ　イラスト",
+      "tags": [
+        "ファンアート",
+        "ヒロアカ",
+        "僕のヒーローアカデミア",
+        "芦戸三奈"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150191036_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150191036",
+      "sourceCreatedAt": "2026-09-27T14:45:36.000Z"
+    },
+    {
       "id": "1dab8cf6",
       "filename": "pixiv_150168823_p0.jpg",
       "path": "uploads/2026/09/67fd0d6b.jpg",
