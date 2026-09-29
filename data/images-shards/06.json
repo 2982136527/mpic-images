@@ -3,6 +3,33 @@
   "shardId": "06",
   "images": [
     {
+      "id": "24e76209",
+      "filename": "pixiv_150176169_p0.jpg",
+      "path": "uploads/2026/09/54676189.jpg",
+      "size": 749081,
+      "width": 960,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "cc7bed1086ded9779173304db14b446aefa8df2d7eb679bc8b788892cb160dc3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:51:01.967Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "超かぐLOG①",
+      "tags": [
+        "超かぐや姫!",
+        "月見ヤチヨ",
+        "酒寄彩葉",
+        "綾紬芦花",
+        "ヤチいろ",
+        "かぐや(超かぐや姫!)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150176169_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150176169",
+      "sourceCreatedAt": "2026-09-27T09:38:32.000Z"
+    },
+    {
       "id": "4149d86c",
       "filename": "pixiv_150164753_p0.jpg",
       "path": "uploads/2026/09/33e60890.jpg",
