@@ -3,6 +3,28 @@
   "shardId": "08",
   "images": [
     {
+      "id": "b5c2eee9",
+      "filename": "pixiv_150200282_p0.jpg",
+      "path": "uploads/2026/09/8f06e1d1.jpg",
+      "size": 940575,
+      "width": 878,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "374e69621f48271046ed82b25a133e40ebec4890f7875a4f086b13ec71c62a40",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T20:49:40.617Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アナログカラセイまとめ",
+      "tags": [
+        "カラセイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150200282_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150200282",
+      "sourceCreatedAt": "2026-09-27T22:06:05.000Z"
+    },
+    {
       "id": "625f2fc8",
       "filename": "pixiv_150148787_p0.jpg",
       "path": "uploads/2026/09/d59c6d92.jpg",
