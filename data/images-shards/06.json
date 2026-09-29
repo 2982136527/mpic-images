@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "59efa604",
+      "filename": "pixiv_150161104_p0.jpg",
+      "path": "uploads/2026/09/a96a9bfb.jpg",
+      "size": 357740,
+      "width": 1200,
+      "height": 881,
+      "mimeType": "image/jpeg",
+      "hash": "5f535988e6b131d41b7ac126dd8cc36b1dacbd514a9e309b462e9aa118e2a1aa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T20:46:26.773Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "SD",
+        "스텔라소라",
+        "StellaSora",
+        "ステラソラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150161104_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150161104",
+      "sourceCreatedAt": "2026-09-27T01:19:24.000Z"
+    },
+    {
       "id": "c0a2e34b",
       "filename": "pixiv_150183914_p0.jpg",
       "path": "uploads/2026/09/75692af6.jpg",
