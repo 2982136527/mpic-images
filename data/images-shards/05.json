@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "809a962c",
+      "filename": "pixiv_150201598_p0.jpg",
+      "path": "uploads/2026/09/2748a21b.jpg",
+      "size": 1487276,
+      "width": 808,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "294937b1bd968b5080cb6ac70164423f067d49bbb73c472f822ce72ae05fe577",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:36:57.341Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ミティヤ＆バレリー",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ミティヤ",
+        "バレリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150201598_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150201598",
+      "sourceCreatedAt": "2026-09-27T23:19:33.000Z"
+    },
+    {
       "id": "2a113542",
       "filename": "pixiv_150136412_p0.jpg",
       "path": "uploads/2026/09/ebe7627e.jpg",
