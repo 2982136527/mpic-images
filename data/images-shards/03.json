@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "3ab92247",
+      "filename": "pixiv_150210560_p0.jpg",
+      "path": "uploads/2026/09/7523c6cd.jpg",
+      "size": 1103293,
+      "width": 814,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "691f919a7a5443e1bf3cef4b682da6d393b08018dceb214b86339e4a273a03cc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:35:08.158Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ひかいのひかまとめ",
+      "tags": [
+        "mdlstGL",
+        "ひかいの",
+        "光いの",
+        "いのひか",
+        "みかいる"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150210560_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150210560",
+      "sourceCreatedAt": "2026-09-28T07:21:33.000Z"
+    },
+    {
       "id": "2bafad42",
       "filename": "pixiv_150225063_p0.jpg",
       "path": "uploads/2026/09/40fdfa83.jpg",
