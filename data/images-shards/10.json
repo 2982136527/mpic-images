@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "c79456b4",
+      "filename": "pixiv_150181896_p0.jpg",
+      "path": "uploads/2026/09/13874ccc.jpg",
+      "size": 1062296,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a00c94155848c793adc528b0e0135ec0fbcc26f5a0cc5b4d95b4eeeeb394e562",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:57:16.885Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アナスターシャ",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "アナスターシャ・フョードロヴナ・スネージナヤ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150181896_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150181896",
+      "sourceCreatedAt": "2026-09-27T11:49:04.000Z"
+    },
+    {
       "id": "898f799b",
       "filename": "pixiv_150157943_p0.jpg",
       "path": "uploads/2026/09/f12539cb.jpg",
