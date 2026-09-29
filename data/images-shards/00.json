@@ -3,6 +3,28 @@
   "shardId": "00",
   "images": [
     {
+      "id": "b073e3fc",
+      "filename": "pixiv_150203359_p0.jpg",
+      "path": "uploads/2026/09/5f6366ae.jpg",
+      "size": 864582,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "c85a46c409c1c9a31e399ce11bb2816a0b62a1e8c421b143dc53d8083c6a25e3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:37:04.095Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "鏡音リン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150203359_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150203359",
+      "sourceCreatedAt": "2026-09-28T01:06:01.000Z"
+    },
+    {
       "id": "f5232baa",
       "filename": "pixiv_150211851_p0.jpg",
       "path": "uploads/2026/09/3f07d247.jpg",
