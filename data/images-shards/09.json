@@ -3,6 +3,37 @@
   "shardId": "09",
   "images": [
     {
+      "id": "894cf57e",
+      "filename": "pixiv_150221453_p0.jpg",
+      "path": "uploads/2026/09/9fb79f56.jpg",
+      "size": 1879784,
+      "width": 970,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "feff24f1f087a59e75993d637c04750ed08ac721b20f8d31fd6f11b76feed6d9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:35:42.159Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "名画 × 初音ミク ③",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "女の子",
+        "Miku",
+        "イラスト",
+        "少女",
+        "HatsuneMiku",
+        "ツインテール",
+        "ボカロ",
+        "ボーカロイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150221453_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150221453",
+      "sourceCreatedAt": "2026-09-28T12:21:04.000Z"
+    },
+    {
       "id": "20e89831",
       "filename": "pixiv_150130018_p0.jpg",
       "path": "uploads/2026/09/52529e0e.jpg",
