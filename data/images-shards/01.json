@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "2060aab5",
+      "filename": "pixiv_150216965_p0.jpg",
+      "path": "uploads/2026/09/88a29a58.jpg",
+      "size": 753697,
+      "width": 1200,
+      "height": 1184,
+      "mimeType": "image/jpeg",
+      "hash": "ddb71f763e9b53d19ddd185ab0186c7361b6022d69d00a9ffd0f426732a19fd5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:41:28.759Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "月見ヤチヨ",
+        "超かぐや姫!",
+        "酒寄彩葉",
+        "いろヤチ",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150216965_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150216965",
+      "sourceCreatedAt": "2026-09-28T10:42:26.000Z"
+    },
+    {
       "id": "962a30ad",
       "filename": "pixiv_150164607_p0.jpg",
       "path": "uploads/2026/09/e09a3d0f.jpg",
