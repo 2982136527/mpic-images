@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "b3861899",
+      "filename": "pixiv_150148894_p0.jpg",
+      "path": "uploads/2026/09/ddc6736c.jpg",
+      "size": 1146966,
+      "width": 1032,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9268b385c57e55a070c12072d8ad70f512b7f0609243b9dae8806d9d717a10cd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:53:11.069Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "クラレッタ",
+      "tags": [
+        "ツインテール",
+        "ゼンレスゾーンゼロ",
+        "クラレッタ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150148894_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150148894",
+      "sourceCreatedAt": "2026-09-26T15:26:06.000Z"
+    },
+    {
       "id": "1fc8db6c",
       "filename": "pixiv_150179996_p0.jpg",
       "path": "uploads/2026/09/4d7a77a4.jpg",
