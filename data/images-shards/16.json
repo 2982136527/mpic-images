@@ -3,6 +3,28 @@
   "shardId": "16",
   "images": [
     {
+      "id": "e09eba51",
+      "filename": "pixiv_150191808_p0.jpg",
+      "path": "uploads/2026/09/357cb866.jpg",
+      "size": 497145,
+      "width": 1200,
+      "height": 914,
+      "mimeType": "image/jpeg",
+      "hash": "c1117d587c95f20d93d74ea436a854728e105596ec242912f3d5dad5f3fcdd16",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T20:41:04.299Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "そこから先は",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150191808_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150191808",
+      "sourceCreatedAt": "2026-09-27T15:00:26.000Z"
+    },
+    {
       "id": "c992679c",
       "filename": "pixiv_150215037_p0.jpg",
       "path": "uploads/2026/09/f17519a5.jpg",
