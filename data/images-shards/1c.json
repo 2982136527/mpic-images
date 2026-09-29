@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "1f89eb60",
+      "filename": "pixiv_150194599_p0.jpg",
+      "path": "uploads/2026/09/268c49bb.jpg",
+      "size": 555081,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0e91f5f0272f6f0a661eedeaa008a13cc38030b64bb54f7602b496dd22a2d7f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T20:43:50.729Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "メガルカリオ姉妹",
+      "tags": [
+        "ポケモン",
+        "ルカリオ",
+        "メガルカリオ",
+        "メガルカリオZ",
+        "正論"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150194599_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150194599",
+      "sourceCreatedAt": "2026-09-27T16:40:34.000Z"
+    },
+    {
       "id": "6a8899eb",
       "filename": "pixiv_150179312_p0.jpg",
       "path": "uploads/2026/09/8c277d69.jpg",
