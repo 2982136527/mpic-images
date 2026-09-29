@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "6641a215",
+      "filename": "pixiv_150006906_p0.jpg",
+      "path": "uploads/2026/09/a8acec39.jpg",
+      "size": 1687270,
+      "width": 821,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "be8a7560c206739b7ca1662122e520e89a56b226c3b81f07531b6cf28a7f57d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:42:52.354Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ヴォジャニーツァ",
+      "tags": [
+        "女の子",
+        "原神",
+        "GenshinImpact",
+        "ヴォジャニーツァ",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150006906_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150006906",
+      "sourceCreatedAt": "2026-09-23T04:00:03.000Z"
+    },
+    {
       "id": "095625f6",
       "filename": "pixiv_150147760_p0.jpg",
       "path": "uploads/2026/09/50b00544.jpg",
