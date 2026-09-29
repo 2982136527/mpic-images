@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "3bc27032",
+      "filename": "pixiv_150202684_p0.jpg",
+      "path": "uploads/2026/09/0f9a3acb.jpg",
+      "size": 1690303,
+      "width": 943,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "de0c56eb875f0ee75ee829649554ec75508eba74bdd3f03a139463732b166edc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:48:35.687Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "トモダチコレクション 島の住民",
+      "tags": [
+        "トモダチコレクション",
+        "トモコレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150202684_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150202684",
+      "sourceCreatedAt": "2026-09-28T00:24:21.000Z"
+    },
+    {
       "id": "62669b53",
       "filename": "pixiv_149951849_p0.jpg",
       "path": "uploads/2026/09/4d4b7264.jpg",
