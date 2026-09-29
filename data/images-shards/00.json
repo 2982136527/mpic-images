@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "89844f11",
+      "filename": "pixiv_150195747_p0.jpg",
+      "path": "uploads/2026/09/194e3049.jpg",
+      "size": 714789,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "187258cb7e7eb73703c97b22c8cc5310d2d943986da7b0b3e22a5e051e32c951",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:39:36.188Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "愛してるゲーム！",
+      "tags": [
+        "島二郎(ちいかわ)",
+        "セイレーン(ちいかわ)",
+        "島セイ",
+        "セイ島"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150195747_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150195747",
+      "sourceCreatedAt": "2026-09-27T17:21:32.000Z"
+    },
+    {
       "id": "b073e3fc",
       "filename": "pixiv_150203359_p0.jpg",
       "path": "uploads/2026/09/5f6366ae.jpg",
