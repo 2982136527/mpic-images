@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "7f592046",
+      "filename": "pixiv_150180399_p0.jpg",
+      "path": "uploads/2026/09/661b861f.jpg",
+      "size": 404002,
+      "width": 972,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a849b36241733372ad35251879f5c454d73bad2761742d7342831c8dd6b22d4d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:41:43.235Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "夢路のよすが",
+      "tags": [
+        "ドリームジャーニー(ウマ娘)",
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "夢路のよすが"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150180399_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150180399",
+      "sourceCreatedAt": "2026-09-27T11:15:08.000Z"
+    },
+    {
       "id": "1f0dcd90",
       "filename": "pixiv_150181789_p0.jpg",
       "path": "uploads/2026/09/e94b002b.jpg",
