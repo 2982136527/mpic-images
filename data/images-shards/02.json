@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "9f23eeb9",
+      "filename": "pixiv_150213601_p0.jpg",
+      "path": "uploads/2026/09/d9218d7a.jpg",
+      "size": 486744,
+      "width": 794,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "76e3e52df2a4c9d74b1ffe328dbf15f07184a73a07c70dad15b98592bc32c110",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:41:36.508Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "エリ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "水着",
+        "白尾エリ",
+        "エリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150213601_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150213601",
+      "sourceCreatedAt": "2026-09-28T09:06:24.000Z"
+    },
+    {
       "id": "37fe9262",
       "filename": "pixiv_150195775_p0.jpg",
       "path": "uploads/2026/09/de4210ec.jpg",
