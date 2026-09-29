@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "cf35abac",
+      "filename": "pixiv_150191743_p0.jpg",
+      "path": "uploads/2026/09/007f7058.jpg",
+      "size": 1080014,
+      "width": 929,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "35d2b7186d34d37ee25cef27f828f1118ccf163beaadb3e446974254b72a5688",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:37:48.367Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ハロウィコスでプリクラぎゃるズ♡",
+      "tags": [
+        "オリジナル",
+        "コスプレ",
+        "プリクラ",
+        "オーバーオール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150191743_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150191743",
+      "sourceCreatedAt": "2026-09-27T15:00:17.000Z"
+    },
+    {
       "id": "3ab92247",
       "filename": "pixiv_150210560_p0.jpg",
       "path": "uploads/2026/09/7523c6cd.jpg",
