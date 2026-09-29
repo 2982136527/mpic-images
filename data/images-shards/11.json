@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "15a5b6af",
+      "filename": "pixiv_150209334_p0.jpg",
+      "path": "uploads/2026/09/8bea1c2c.jpg",
+      "size": 965079,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "3e5fb54768d9b1122edcb9105e88b58b78ba79f0bac33ed276982d6e8fd4241c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:40:36.409Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ビビバスまとめ２",
+      "tags": [
+        "プロセカ",
+        "小豆沢こはね",
+        "白石杏",
+        "東雲彰人",
+        "青柳冬弥",
+        "ビビバス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150209334_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150209334",
+      "sourceCreatedAt": "2026-09-28T06:19:20.000Z"
+    },
+    {
       "id": "4ae1ec05",
       "filename": "pixiv_150205640_p0.jpg",
       "path": "uploads/2026/09/6be73d6c.jpg",
