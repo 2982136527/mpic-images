@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "29a40dd7",
+      "filename": "pixiv_150169001_p0.jpg",
+      "path": "uploads/2026/09/60dfd8c9.jpg",
+      "size": 1200722,
+      "width": 871,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "71f1cc2a9c2938acdc1bff03e091ec8df81f62343c09fcbbe3c7d29f03a87462",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:49:15.381Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "サユリ",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "サユリ(ブルーアーカイブ)",
+        "水中",
+        "ブルーアーカイブ1000users入り",
+        "泳ぐ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150169001_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150169001",
+      "sourceCreatedAt": "2026-09-27T06:11:24.000Z"
+    },
+    {
       "id": "9f23eeb9",
       "filename": "pixiv_150213601_p0.jpg",
       "path": "uploads/2026/09/d9218d7a.jpg",
