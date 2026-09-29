@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "5fdf0ab7",
+      "filename": "pixiv_150210442_p0.jpg",
+      "path": "uploads/2026/09/efc30235.jpg",
+      "size": 807223,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "061d297f81abbe8f4405dd60add4f0dae4b3090f2f7ee3d179159bd62bec1366",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T14:56:26.857Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ロンロンミルク",
+      "tags": [
+        "ゼルダの伝説",
+        "マロン",
+        "マロン(ゼルダの伝説)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150210442_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150210442",
+      "sourceCreatedAt": "2026-09-28T07:14:44.000Z"
+    },
+    {
       "id": "6a9d5dc9",
       "filename": "pixiv_150153178_p0.jpg",
       "path": "uploads/2026/09/2339b96f.jpg",
