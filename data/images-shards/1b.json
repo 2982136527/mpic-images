@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "8cdd2b43",
+      "filename": "pixiv_150203567_p0.jpg",
+      "path": "uploads/2026/09/6c143584.jpg",
+      "size": 1512058,
+      "width": 881,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c03bd48ae321bfb98e7ef70aed7d51f4371a02cabbf2360f7ca6d896f79dec01",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-29T05:37:11.093Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "不思議な青空・アリス",
+      "tags": [
+        "アリス",
+        "ShadowverseEVOLVE",
+        "シャドウバース",
+        "不思議の探求者・アリス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150203567_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150203567",
+      "sourceCreatedAt": "2026-09-28T01:19:26.000Z"
+    },
+    {
       "id": "9781d968",
       "filename": "pixiv_150148592_p0.jpg",
       "path": "uploads/2026/09/a12e3bf4.jpg",
