@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "279feb22",
+      "filename": "pixiv_150254824_p0.jpg",
+      "path": "uploads/2026/09/9c87a79f.jpg",
+      "size": 1948878,
+      "width": 931,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e4ec4e440fc61bf25dfc58266685d4951e18713f751b2bfa7d4f6ea004864dd5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:24:53.165Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ジャックスの服",
+      "tags": [
+        "The_Amazing_Digital_Circus",
+        "Pomni",
+        "Jax"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150254824_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150254824",
+      "sourceCreatedAt": "2026-09-29T11:16:45.000Z"
+    },
+    {
       "id": "6fd2e120",
       "filename": "pixiv_150157837_p0.jpg",
       "path": "uploads/2026/09/b6f6dd7d.jpg",
