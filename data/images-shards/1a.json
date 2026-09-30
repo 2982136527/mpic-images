@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "e461bea9",
+      "filename": "pixiv_150223475_p0.jpg",
+      "path": "uploads/2026/09/e031ed3e.jpg",
+      "size": 1042176,
+      "width": 773,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e0205d8bf2027ae649175233f5844131bd0bc2e0f73113f72380a7754391ecce",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:29:52.452Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Payload Execution",
+      "tags": [
+        "明日方舟",
+        "アークナイツ",
+        "Arknights",
+        "クロージャ(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150223475_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150223475",
+      "sourceCreatedAt": "2026-09-29T19:43:16.000Z"
+    },
+    {
       "id": "43dcdfa4",
       "filename": "pixiv_150228980_p0.jpg",
       "path": "uploads/2026/09/9978d7af.jpg",
