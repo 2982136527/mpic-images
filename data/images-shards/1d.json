@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "701e9d97",
+      "filename": "pixiv_150222464_p0.jpg",
+      "path": "uploads/2026/09/e0cd7065.jpg",
+      "size": 708219,
+      "width": 944,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5c22905a5be57251f00e66567537a77c814d914342620dde3bfdcfb2316adecf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:28:02.311Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ダイパ20周年！",
+      "tags": [
+        "ポケモン",
+        "ダイパ",
+        "ポッチャマ",
+        "ヒカリ(トレーナー)",
+        "ファンアート"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150222464_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150222464",
+      "sourceCreatedAt": "2026-09-28T12:42:56.000Z"
+    },
+    {
       "id": "b368fde4",
       "filename": "pixiv_150214620_p0.jpg",
       "path": "uploads/2026/09/026ecb41.jpg",
