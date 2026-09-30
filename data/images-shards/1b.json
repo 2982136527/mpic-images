@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "ed743d4d",
+      "filename": "pixiv_150220781_p0.jpg",
+      "path": "uploads/2026/09/f8fb1976.jpg",
+      "size": 890596,
+      "width": 1200,
+      "height": 819,
+      "mimeType": "image/jpeg",
+      "hash": "3865e5502d7fe85d578bad673d33e96f65954d9221ac0cc74b514390bff50ff9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:48:03.097Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "原神6周年",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "蛍(原神)",
+        "空(原神)",
+        "パイモン(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150220781_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150220781",
+      "sourceCreatedAt": "2026-09-28T12:06:07.000Z"
+    },
+    {
       "id": "db59a462",
       "filename": "pixiv_150228928_p0.jpg",
       "path": "uploads/2026/09/b038eb69.jpg",
