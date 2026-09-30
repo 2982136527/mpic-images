@@ -3,6 +3,28 @@
   "shardId": "19",
   "images": [
     {
+      "id": "4b62b509",
+      "filename": "pixiv_150252358_p0.jpg",
+      "path": "uploads/2026/09/5b72d31f.jpg",
+      "size": 812476,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fe7e457ee8215f78314bf1d2f5f15a83cf92f0a526c6df0f3c6e3fc69c9fc379",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:26:26.429Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "あるやつ",
+      "tags": [
+        "めめ村"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150252358_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150252358",
+      "sourceCreatedAt": "2026-09-29T10:14:06.000Z"
+    },
+    {
       "id": "279feb22",
       "filename": "pixiv_150254824_p0.jpg",
       "path": "uploads/2026/09/9c87a79f.jpg",
