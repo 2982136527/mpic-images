@@ -3,6 +3,37 @@
   "shardId": "05",
   "images": [
     {
+      "id": "ecbb5d06",
+      "filename": "pixiv_150256329_p0.jpg",
+      "path": "uploads/2026/09/9dffdd91.jpg",
+      "size": 1366420,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bbb5397cc105049dbd0c2d871bd323e76a98514b7611e6715cb99bbe64d6e5f7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:24:27.613Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "光のニゴミク🎀",
+      "tags": [
+        "初音ミク",
+        "初音未来",
+        "ニーゴミク",
+        "ニゴミク",
+        "Miku",
+        "プロセカ",
+        "25時、ナイトコードで。",
+        "prsk_FA",
+        "ボーカロイド",
+        "プロセカ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150256329_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150256329",
+      "sourceCreatedAt": "2026-09-29T11:53:03.000Z"
+    },
+    {
       "id": "809a962c",
       "filename": "pixiv_150201598_p0.jpg",
       "path": "uploads/2026/09/2748a21b.jpg",
