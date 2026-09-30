@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "9be5e6a4",
+      "filename": "pixiv_150201632_p0.jpg",
+      "path": "uploads/2026/09/e8a28492.jpg",
+      "size": 504627,
+      "width": 546,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "93d8971a4ca5485dfcf89a8e6674f604f5d6155047a0a7ab7dacf26d001439b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:44:56.503Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "謎シチュ",
+      "tags": [
+        "東方",
+        "チルノ",
+        "ルーミア",
+        "リグル・ナイトバグ",
+        "救出"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150201632_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150201632",
+      "sourceCreatedAt": "2026-09-27T23:21:17.000Z"
+    },
+    {
       "id": "1bfffa0c",
       "filename": "pixiv_150214186_p0.jpg",
       "path": "uploads/2026/09/fef2d934.jpg",
