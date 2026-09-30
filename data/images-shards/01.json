@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "3d554ac4",
+      "filename": "pixiv_150207304_p0.jpg",
+      "path": "uploads/2026/09/cc84c6f4.jpg",
+      "size": 605098,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a4bd0734c175a6a189d83dbc754a8c7d2616bf2e95bdeca47f5726d8e0bd8d36",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:25:18.343Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": ".",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "プラナ(ブルーアーカイブ)",
+        "先生(ブルーアーカイブ)",
+        "ロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150207304_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150207304",
+      "sourceCreatedAt": "2026-09-28T04:34:23.000Z"
+    },
+    {
       "id": "e92d4178",
       "filename": "pixiv_150256317_p0.jpg",
       "path": "uploads/2026/09/9a3877e1.jpg",
