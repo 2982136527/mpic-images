@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "58be0245",
+      "filename": "pixiv_150246957_p0.jpg",
+      "path": "uploads/2026/09/00121728.jpg",
+      "size": 1394615,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b69cb8295c23bb936cbebcd959f794f8d1c06f2cfd78d3d6c6725107563aa805",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:27:27.001Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "REIMU LOG4",
+      "tags": [
+        "東方",
+        "東方Project",
+        "博麗霊夢",
+        "秋季例大祭13",
+        "例大祭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150246957_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150246957",
+      "sourceCreatedAt": "2026-09-29T07:06:00.000Z"
+    },
+    {
       "id": "11588f08",
       "filename": "pixiv_150203321_p0.jpg",
       "path": "uploads/2026/09/f67d047f.jpg",
