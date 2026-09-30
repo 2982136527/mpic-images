@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "b36cc1e4",
+      "filename": "pixiv_150219181_p0.jpg",
+      "path": "uploads/2026/09/29081a37.jpg",
+      "size": 609294,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "018fb5b65fe6d0f35cb01b81092806edf86dfa8aa6ce7d6c1939c6c26496ab9d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:47:27.404Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Gavial & Vulpisfoglia",
+      "tags": [
+        "Arknights",
+        "Vulpisfoglia",
+        "Gavial"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150219181_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150219181",
+      "sourceCreatedAt": "2026-09-28T11:32:00.000Z"
+    },
+    {
       "id": "56c27074",
       "filename": "pixiv_150253056_p0.jpg",
       "path": "uploads/2026/09/7bebc18a.jpg",
