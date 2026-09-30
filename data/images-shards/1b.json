@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "016bf7b1",
+      "filename": "pixiv_150242441_p0.jpg",
+      "path": "uploads/2026/09/77b32221.jpg",
+      "size": 956169,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d7297d4981e41cbc0224e53065b7dcfbec61666adc05828b66b9e757c6d4ca05",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:55:08.229Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "おばちぇのポップアップストア開催！",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "おばちぇ",
+        "ポップアップストア",
+        "お知らせ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150242441_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150242441",
+      "sourceCreatedAt": "2026-09-29T03:00:27.000Z"
+    },
+    {
       "id": "b69b5180",
       "filename": "pixiv_150233591_p0.jpg",
       "path": "uploads/2026/09/f61f53dd.jpg",
