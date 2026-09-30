@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "c26117e6",
+      "filename": "pixiv_150196795_p0.jpg",
+      "path": "uploads/2026/09/8fef920d.jpg",
+      "size": 500351,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c72b6d69177c82f123a932a4dfdfe1257c8461208ed40d858ed293bcbbcec21c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:22:37.656Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "bun",
+      "tags": [
+        "オリキャラ",
+        "オリジナル",
+        "Minah"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150196795_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150196795",
+      "sourceCreatedAt": "2026-09-27T18:13:44.000Z"
+    },
+    {
       "id": "a3d6475c",
       "filename": "pixiv_150205298_p0.jpg",
       "path": "uploads/2026/09/9cae2f5b.jpg",
