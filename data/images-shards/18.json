@@ -3,6 +3,37 @@
   "shardId": "18",
   "images": [
     {
+      "id": "b4d86666",
+      "filename": "pixiv_150193310_p0.jpg",
+      "path": "uploads/2026/09/c854c375.jpg",
+      "size": 868594,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4f6b79d8417718705153ebe0a0d52c8174cea24db510e3afd961aa218e6e69c6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:54:07.791Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "陽炎",
+      "tags": [
+        "艦これ",
+        "艦これかわいい",
+        "艦隊これくしょん",
+        "まったく、駆逐艦は最高だぜ!!",
+        "陽炎",
+        "陽炎(艦隊これくしょん)",
+        "正の字",
+        "筒井筒",
+        "身体に落書き",
+        "パンツ!パンツです!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150193310_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150193310",
+      "sourceCreatedAt": "2026-09-27T15:38:56.000Z"
+    },
+    {
       "id": "d2a1ca97",
       "filename": "pixiv_150218139_p0.jpg",
       "path": "uploads/2026/09/66e0c751.jpg",
