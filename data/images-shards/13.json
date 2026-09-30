@@ -3,6 +3,35 @@
   "shardId": "13",
   "images": [
     {
+      "id": "30bff3a7",
+      "filename": "pixiv_150207975_p0.jpg",
+      "path": "uploads/2026/09/113e463e.jpg",
+      "size": 673987,
+      "width": 1200,
+      "height": 751,
+      "mimeType": "image/jpeg",
+      "hash": "898c4eebadc100c88acf4c1a160d9a0d9ea20eebf5c0232cff41c1c9027c789f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:53:58.242Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "お題箱だぜェ",
+      "tags": [
+        "Fate/GrandOrder",
+        "レジスタンスのライダー",
+        "歯茎",
+        "クリストファー・コロンブス(Fate)",
+        "ドリカムおじさん",
+        "歯茎の化け物",
+        "オリジナル笑顔",
+        "コンキスタドール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150207975_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150207975",
+      "sourceCreatedAt": "2026-09-28T05:11:40.000Z"
+    },
+    {
       "id": "30ed151c",
       "filename": "pixiv_150197936_p0.jpg",
       "path": "uploads/2026/09/cd1ce4eb.jpg",
