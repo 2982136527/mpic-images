@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "e7c672e2",
+      "filename": "pixiv_150234134_p0.jpg",
+      "path": "uploads/2026/09/f3362791.jpg",
+      "size": 350989,
+      "width": 1200,
+      "height": 1151,
+      "mimeType": "image/jpeg",
+      "hash": "ecc0e084073fe480947035de0e51926cc0d4e0ddba74d480d4f93dab09eb6a4a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:30:00.495Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "脊髄ぶらっくぼっくす",
+        "せきずいにっき"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150234134_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150234134",
+      "sourceCreatedAt": "2026-09-28T17:43:49.000Z"
+    },
+    {
       "id": "2256044f",
       "filename": "pixiv_150258897_p0.jpg",
       "path": "uploads/2026/09/67ba33f0.jpg",
