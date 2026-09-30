@@ -3,6 +3,32 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "152912ba",
+      "filename": "pixiv_150195078_p0.jpg",
+      "path": "uploads/2026/09/3b7b96cf.jpg",
+      "size": 765852,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5da624c290598912d5f71ea1bca9fd7a484b73a51f51bfb3d72207472d5d9fad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:53:30.125Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "FGO",
+        "青崎青子",
+        "魔法使いの夜",
+        "TYPE-MOON",
+        "デンジャラス・ビースト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150195078_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150195078",
+      "sourceCreatedAt": "2026-09-27T16:56:27.000Z"
+    },
+    {
       "id": "f4301a38",
       "filename": "pixiv_150237472_p0.jpg",
       "path": "uploads/2026/09/6f949c7f.jpg",
