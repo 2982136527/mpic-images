@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "78b3514b",
+      "filename": "pixiv_150207292_p0.jpg",
+      "path": "uploads/2026/09/f09fd3c9.jpg",
+      "size": 851249,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "74827d855ffe4b07581b9e7c2167499d8faa1e23ae0bf1228e82693437c01dd4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:56:26.094Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "テリヤキソース",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "伊落マリー",
+        "美味しいから大丈夫だよ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150207292_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150207292",
+      "sourceCreatedAt": "2026-09-28T04:33:48.000Z"
+    },
+    {
       "id": "016bf7b1",
       "filename": "pixiv_150242441_p0.jpg",
       "path": "uploads/2026/09/77b32221.jpg",
