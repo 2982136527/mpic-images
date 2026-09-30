@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "1dfda61a",
+      "filename": "pixiv_150210059_p0.jpg",
+      "path": "uploads/2026/09/fd26c94c.jpg",
+      "size": 540741,
+      "width": 911,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e8ded701581dfc89147b55ef706a23b8c249d9a11144c8f1ecbb64da3b5e19ef",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:25:10.634Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "西春蘭",
+      "tags": [
+        "女装男子",
+        "西春蘭",
+        "ヤニねこ",
+        "ケモミミ",
+        "guy_gyaru"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150210059_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150210059",
+      "sourceCreatedAt": "2026-09-28T06:57:43.000Z"
+    },
+    {
       "id": "d474d9c9",
       "filename": "pixiv_150180688_p0.jpg",
       "path": "uploads/2026/09/05c933ca.jpg",
