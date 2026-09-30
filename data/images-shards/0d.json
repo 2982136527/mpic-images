@@ -3,6 +3,32 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "1ab1ecc2",
+      "filename": "pixiv_150232062_p0.jpg",
+      "path": "uploads/2026/09/8ff87287.jpg",
+      "size": 1153244,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b58bb4d6aa64c69e81e2d1281280591ef1a48f74e835793d35787dfe1958a9c9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T15:00:59.750Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Day-31",
+      "tags": [
+        "女の子",
+        "girl",
+        "初音ミク",
+        "初音未来",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150232062_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150232062",
+      "sourceCreatedAt": "2026-09-28T16:16:13.000Z"
+    },
+    {
       "id": "c26117e6",
       "filename": "pixiv_150196795_p0.jpg",
       "path": "uploads/2026/09/8fef920d.jpg",
