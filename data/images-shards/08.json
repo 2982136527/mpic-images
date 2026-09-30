@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "d1678622",
+      "filename": "pixiv_150219498_p0.jpg",
+      "path": "uploads/2026/09/4d814387.jpg",
+      "size": 630487,
+      "width": 674,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "70326e8724719cc684ca791e4f7dd409d485c9801acc76125390f7aa2b9b7de7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:58:55.653Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "きくり",
+      "tags": [
+        "ぼっち・ざ・ろっく!",
+        "廣井きくり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150219498_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150219498",
+      "sourceCreatedAt": "2026-09-28T11:39:49.000Z"
+    },
+    {
       "id": "ee598c81",
       "filename": "pixiv_150199516_p0.jpg",
       "path": "uploads/2026/09/a66819a1.jpg",
