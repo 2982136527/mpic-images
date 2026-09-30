@@ -3,6 +3,28 @@
   "shardId": "04",
   "images": [
     {
+      "id": "238e4ceb",
+      "filename": "pixiv_150228143_p0.jpg",
+      "path": "uploads/2026/09/6de7b050.jpg",
+      "size": 805317,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "93949c851949111fe29541dfc509671361b1940617997fcf0c9212235d9480d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:31:29.296Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ほの暮しの庭ラクガキまとめ4",
+      "tags": [
+        "ほの暮しの庭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150228143_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150228143",
+      "sourceCreatedAt": "2026-09-28T14:47:43.000Z"
+    },
+    {
       "id": "9fe35127",
       "filename": "pixiv_150148486_p0.jpg",
       "path": "uploads/2026/09/9465a46d.jpg",
