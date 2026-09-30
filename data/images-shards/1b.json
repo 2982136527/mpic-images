@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "e66a6a04",
+      "filename": "pixiv_150245422_p0.jpg",
+      "path": "uploads/2026/09/a4168e75.jpg",
+      "size": 1149568,
+      "width": 831,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dbed461dd94638eb3b94d936293dee36588d241e9ce8d974b4d1d0fee23a8651",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:24:19.642Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "道别是一件难事",
+      "tags": [
+        "Re:ゼロから始める異世界生活",
+        "エミリア(リゼロ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150245422_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150245422",
+      "sourceCreatedAt": "2026-09-29T05:42:27.000Z"
+    },
+    {
       "id": "0b7f3899",
       "filename": "pixiv_150229183_p0.jpg",
       "path": "uploads/2026/09/ab812dcf.jpg",
