@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "10c48da8",
+      "filename": "pixiv_150217339_p0.jpg",
+      "path": "uploads/2026/09/0d1df7f1.jpg",
+      "size": 2646261,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aab545b97378e156ee7762afae2d4a298bc85bb95ed28eb6f5ef92933cc4edfb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:52:51.305Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "番犬の少女",
+      "tags": [
+        "オリジナル",
+        "人外",
+        "創作",
+        "OC"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150217339_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150217339",
+      "sourceCreatedAt": "2026-09-28T10:52:19.000Z"
+    },
+    {
       "id": "ca5a0ae2",
       "filename": "pixiv_150260694_p0.jpg",
       "path": "uploads/2026/09/6801f684.jpg",
