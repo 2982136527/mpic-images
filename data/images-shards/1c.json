@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "4bff951e",
+      "filename": "pixiv_150218036_p0.jpg",
+      "path": "uploads/2026/09/f1b93d01.jpg",
+      "size": 826560,
+      "width": 715,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a6e7214a248c4e29accf2bfbebe68ae8bc08c1ee8be361a4242e62820a559bca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:47:50.027Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ケイ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "天童ケイ",
+        "水着",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150218036_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150218036",
+      "sourceCreatedAt": "2026-09-28T11:04:48.000Z"
+    },
+    {
       "id": "f984da75",
       "filename": "pixiv_150251320_p0.jpg",
       "path": "uploads/2026/09/6d7cc724.jpg",
