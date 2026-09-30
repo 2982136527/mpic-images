@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "bbb36148",
+      "filename": "pixiv_150238610_p0.jpg",
+      "path": "uploads/2026/09/2534f43e.jpg",
+      "size": 1887186,
+      "width": 993,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9e49fcd8bba0efc3aca36b3ad1e79bcd2c5bc4ef64562979a964576ca972cd04",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:31:46.744Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "9月のhzbn！",
+      "tags": [
+        "HazbinHotel",
+        "ハズビンホテル",
+        "Alastor",
+        "アラスター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150238610_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150238610",
+      "sourceCreatedAt": "2026-09-28T22:54:45.000Z"
+    },
+    {
       "id": "3e19997e",
       "filename": "pixiv_150228787_p0.jpg",
       "path": "uploads/2026/09/daf63c7d.jpg",
