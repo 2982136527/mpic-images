@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "316d1c85",
+      "filename": "pixiv_150221083_p0.jpg",
+      "path": "uploads/2026/09/164d2250.jpg",
+      "size": 1390095,
+      "width": 755,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ecdc8a62b5d7b032277db845542043822b072eab2340a8516bc1786f2d62c95e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:55:39.581Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Xiao in Snezhnaya",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "Xiao(GenshinImpact)",
+        "魈(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150221083_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150221083",
+      "sourceCreatedAt": "2026-09-28T12:12:52.000Z"
+    },
+    {
       "id": "cd4c8feb",
       "filename": "pixiv_150174795_p0.jpg",
       "path": "uploads/2026/09/95fea7be.jpg",
