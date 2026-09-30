@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "1fbd0f55",
+      "filename": "pixiv_150228882_p0.jpg",
+      "path": "uploads/2026/09/6f7ad918.jpg",
+      "size": 808444,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2df8fe40604559b3c715d4817b2ddf26d6d7f02febdac60b0734e139382d04bd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T15:00:15.222Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "「遠慮しなくていいんですよ」",
+      "tags": [
+        "女の子",
+        "イラスト",
+        "オリジナル",
+        "ぱんつ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150228882_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150228882",
+      "sourceCreatedAt": "2026-09-28T15:00:38.000Z"
+    },
+    {
       "id": "238e4ceb",
       "filename": "pixiv_150228143_p0.jpg",
       "path": "uploads/2026/09/6de7b050.jpg",
