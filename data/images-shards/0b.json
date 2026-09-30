@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "7c890c43",
+      "filename": "pixiv_150228847_p0.jpg",
+      "path": "uploads/2026/09/6ec79c65.jpg",
+      "size": 951282,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "89b43c554ba3449df6575c13fa4866244f6f79386dac9cb4c3dadfcfb2abfe39",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:28:46.334Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "秋めく",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "秋",
+        "PR"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150228847_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150228847",
+      "sourceCreatedAt": "2026-09-28T15:00:32.000Z"
+    },
+    {
       "id": "46cbac02",
       "filename": "pixiv_150254911_p0.jpg",
       "path": "uploads/2026/09/e4b8241b.jpg",
