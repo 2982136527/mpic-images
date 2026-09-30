@@ -3,6 +3,35 @@
   "shardId": "07",
   "images": [
     {
+      "id": "c13f8ea4",
+      "filename": "pixiv_150205340_p0.jpg",
+      "path": "uploads/2026/09/900672d0.jpg",
+      "size": 849160,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e35f7921aeff581d7526eb746632a3bb092c978b411d236b75a1f453787463f0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:32:13.105Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "@ヤツデイズ｜漫画2687",
+      "tags": [
+        "漫画",
+        "@ヤツデイズ|",
+        "河内埜ヤツデ",
+        "凪柳ナギト",
+        "まんがタイムきららキャラット",
+        "まんがタイムきららCarat",
+        "うすほそ",
+        "オモコロチャンネル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150205340_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150205340",
+      "sourceCreatedAt": "2026-09-28T03:00:29.000Z"
+    },
+    {
       "id": "e7c672e2",
       "filename": "pixiv_150234134_p0.jpg",
       "path": "uploads/2026/09/f3362791.jpg",
