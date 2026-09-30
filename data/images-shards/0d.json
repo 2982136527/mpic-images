@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "536cc09f",
+      "filename": "pixiv_150224108_p0.jpg",
+      "path": "uploads/2026/09/68563be1.jpg",
+      "size": 1228396,
+      "width": 1062,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1c9f17a1d8046306471aa4101ff711e3726d7beef9c70289e93e2514c70f1644",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:45:08.911Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "作業中ねこ",
+      "tags": [
+        "オリジナル",
+        "猫耳",
+        "けもみみ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150224108_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150224108",
+      "sourceCreatedAt": "2026-09-28T13:16:21.000Z"
+    },
+    {
       "id": "2a672698",
       "filename": "pixiv_150239083_p0.jpg",
       "path": "uploads/2026/09/1531cbd7.jpg",
