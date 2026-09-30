@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "dea6e6c9",
+      "filename": "pixiv_150246916_p0.jpg",
+      "path": "uploads/2026/09/0125988f.jpg",
+      "size": 356796,
+      "width": 918,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f70c2a71b48d36e3fff207b5f196a8392518f4364c35bce3c6244b10f5dc8031",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:25:42.167Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "らいかちゃん",
+        "あおいとり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150246916_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150246916",
+      "sourceCreatedAt": "2026-09-29T07:03:43.000Z"
+    },
+    {
       "id": "edfc7100",
       "filename": "pixiv_150191814_p0.jpg",
       "path": "uploads/2026/09/2d24b198.jpg",
