@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "782e46ff",
+      "filename": "pixiv_150229364_p0.jpg",
+      "path": "uploads/2026/09/c4920aa1.jpg",
+      "size": 1085383,
+      "width": 818,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b7e54f226f045ad23b54b1e216bae4f5a479df24a62852cebeb6be26c960163d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:27:19.120Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "めいりん🐰",
+      "tags": [
+        "東方",
+        "紅美鈴",
+        "ちちゅーごく"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150229364_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150229364",
+      "sourceCreatedAt": "2026-09-28T15:05:10.000Z"
+    },
+    {
       "id": "23766ed9",
       "filename": "pixiv_150176023_p0.jpg",
       "path": "uploads/2026/09/09f8372c.jpg",
