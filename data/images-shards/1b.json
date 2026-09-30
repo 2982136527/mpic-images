@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "0b7f3899",
+      "filename": "pixiv_150229183_p0.jpg",
+      "path": "uploads/2026/09/ab812dcf.jpg",
+      "size": 2110418,
+      "width": 1200,
+      "height": 1068,
+      "mimeType": "image/jpeg",
+      "hash": "dc928ed8cfb66fccb82d33d79220f51f14745d1a05916a7b7328a623b1c04202",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:23:41.135Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "木漏れ日が好き",
+      "tags": [
+        "オリジナル",
+        "アナログ",
+        "コピック",
+        "木漏れ日",
+        "オリジナル100users入り",
+        "森林"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150229183_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150229183",
+      "sourceCreatedAt": "2026-09-28T15:02:38.000Z"
+    },
+    {
       "id": "91ad7889",
       "filename": "pixiv_150154918_p0.jpg",
       "path": "uploads/2026/09/aac9210e.jpg",
