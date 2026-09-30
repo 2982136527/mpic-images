@@ -3,6 +3,35 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "99b9c6a2",
+      "filename": "pixiv_150229198_p0.jpg",
+      "path": "uploads/2026/09/502a31b8.jpg",
+      "size": 1152593,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cec4a9e50aae7f940dabb9e62d8a72700387898e523e8112de6739214070d369",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T15:00:35.920Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "リリス",
+      "tags": [
+        "Fate/GrandOrder",
+        "Fate",
+        "FGO",
+        "Fate/GO",
+        "TYPE-MOON",
+        "リリス",
+        "リリス(Fate)",
+        "リリス(水着)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150229198_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150229198",
+      "sourceCreatedAt": "2026-09-28T15:02:48.000Z"
+    },
+    {
       "id": "c2857af0",
       "filename": "pixiv_150228344_p0.jpg",
       "path": "uploads/2026/09/ab33f932.jpg",
