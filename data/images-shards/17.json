@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "36c2886b",
+      "filename": "pixiv_150199981_p0.jpg",
+      "path": "uploads/2026/09/9c20f7d8.jpg",
+      "size": 988757,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7721f8b9a6b2015f22010b9a578165975771c44d097232d80634b6b8d5438dfd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:56:56.199Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "담배",
+      "tags": [
+        "女の子",
+        "ヤニねこ",
+        "佐藤ヤニ子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150199981_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150199981",
+      "sourceCreatedAt": "2026-09-27T21:54:18.000Z"
+    },
+    {
       "id": "10c48da8",
       "filename": "pixiv_150217339_p0.jpg",
       "path": "uploads/2026/09/0d1df7f1.jpg",
