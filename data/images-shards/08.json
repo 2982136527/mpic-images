@@ -3,6 +3,35 @@
   "shardId": "08",
   "images": [
     {
+      "id": "04b28b0c",
+      "filename": "pixiv_150216497_p0.jpg",
+      "path": "uploads/2026/09/e911a28b.jpg",
+      "size": 1156563,
+      "width": 911,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6000f3f055c6e81edb6e67ed759caeb20b49adca6c565b87d4158ac29d8c6be2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:30:25.766Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "雨上がり",
+      "tags": [
+        "女の子",
+        "風景",
+        "雨",
+        "創作",
+        "都会",
+        "路地裏",
+        "夜景",
+        "繁華街"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150216497_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150216497",
+      "sourceCreatedAt": "2026-09-28T10:30:10.000Z"
+    },
+    {
       "id": "b5c2eee9",
       "filename": "pixiv_150200282_p0.jpg",
       "path": "uploads/2026/09/8f06e1d1.jpg",
