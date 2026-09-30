@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "0042008f",
+      "filename": "pixiv_150225289_p0.jpg",
+      "path": "uploads/2026/09/a5b98923.jpg",
+      "size": 354094,
+      "width": 680,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "hash": "b86009be7153551251671337164ed89f3e1148df0a250ec87db0bde36357f3b3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T15:00:00.432Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "はい、チーズ！",
+      "tags": [
+        "オリジナル",
+        "仓鼠崽崽的日常"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150225289_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150225289",
+      "sourceCreatedAt": "2026-09-28T13:43:36.000Z"
+    },
+    {
       "id": "a49df358",
       "filename": "pixiv_150247530_p0.jpg",
       "path": "uploads/2026/09/66eb0100.jpg",
