@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "ee87d04f",
+      "filename": "pixiv_150207959_p0.jpg",
+      "path": "uploads/2026/09/c5880e76.jpg",
+      "size": 556676,
+      "width": 705,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aa6a5e9acf3231f19476db4e4370ce9707bb109f76604e48c5d2ae5f7eb912e8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:29:18.861Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ガブちゃん",
+      "tags": [
+        "ガブちゃん(黄泉のツガイ)",
+        "黄泉のツガイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150207959_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150207959",
+      "sourceCreatedAt": "2026-09-28T05:10:41.000Z"
+    },
+    {
       "id": "b17ed6c0",
       "filename": "pixiv_150226343_p0.jpg",
       "path": "uploads/2026/09/ac00fbf4.jpg",
