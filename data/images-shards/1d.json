@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "df00b462",
+      "filename": "pixiv_150195181_p0.jpg",
+      "path": "uploads/2026/09/f17873d9.jpg",
+      "size": 697578,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3a6d70d348d9a1168f325524407b64edf1737d37bd476ef1631e6df6b95bc153",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:25:34.240Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "今日の一枚4862 (1:00+0:30+0:40)",
+      "tags": [
+        "女の子",
+        "褐色",
+        "ワンピース",
+        "銀髪ロング"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150195181_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150195181",
+      "sourceCreatedAt": "2026-09-27T17:00:10.000Z"
+    },
+    {
       "id": "ef2c7d48",
       "filename": "pixiv_150208038_p0.jpg",
       "path": "uploads/2026/09/129cd98a.jpg",
