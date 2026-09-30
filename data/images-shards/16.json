@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "db97427e",
+      "filename": "pixiv_150227968_p0.jpg",
+      "path": "uploads/2026/09/e8594f83.jpg",
+      "size": 578076,
+      "width": 980,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1c4d61fbd6d0d1695cfc086d990ee07d128da741cfc568348319409b38c38cd4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:56:48.142Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "メスお兄さんズ",
+      "tags": [
+        "制服",
+        "メス男子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150227968_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150227968",
+      "sourceCreatedAt": "2026-09-30T01:15:30.000Z"
+    },
+    {
       "id": "58be0245",
       "filename": "pixiv_150246957_p0.jpg",
       "path": "uploads/2026/09/00121728.jpg",
