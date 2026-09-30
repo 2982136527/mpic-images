@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "cc7eafa2",
+      "filename": "pixiv_150214688_p0.jpg",
+      "path": "uploads/2026/09/be9fd89d.jpg",
+      "size": 664636,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cd8fb38ed56f211aa2b4f48773567982e3323613dc50b0d8e66d077fe9bc4920",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:58:45.960Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "Neuro-sama",
+        "バーチャルYouTuber",
+        "vtuber",
+        "ネウロ様",
+        "Evil-Neuro"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150214688_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150214688",
+      "sourceCreatedAt": "2026-09-28T09:40:17.000Z"
+    },
+    {
       "id": "4d6c70d4",
       "filename": "pixiv_150191843_p0.jpg",
       "path": "uploads/2026/09/eb459d81.jpg",
