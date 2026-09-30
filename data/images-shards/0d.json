@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "2a672698",
+      "filename": "pixiv_150239083_p0.jpg",
+      "path": "uploads/2026/09/1531cbd7.jpg",
+      "size": 447424,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "7e672ed660b1b692f011ff4d1bb88c29aa8bc705c7efcc9f6d0c5645e2a24b2c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T15:01:44.263Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "秋の彩",
+      "tags": [
+        "超かぐや姫!",
+        "かぐや(超かぐや姫!)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150239083_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150239083",
+      "sourceCreatedAt": "2026-09-28T23:23:24.000Z"
+    },
+    {
       "id": "1ab1ecc2",
       "filename": "pixiv_150232062_p0.jpg",
       "path": "uploads/2026/09/8ff87287.jpg",
