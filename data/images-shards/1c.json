@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "f984da75",
+      "filename": "pixiv_150251320_p0.jpg",
+      "path": "uploads/2026/09/6d7cc724.jpg",
+      "size": 1233236,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "79a45fb84991d70201aa479ec96a7c75edb422cb5a6db5cf59c4e513e3565717",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:22:43.834Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【落書き】霊夢",
+      "tags": [
+        "東方Project",
+        "博麗霊夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150251320_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150251320",
+      "sourceCreatedAt": "2026-09-29T09:45:56.000Z"
+    },
+    {
       "id": "1f89eb60",
       "filename": "pixiv_150194599_p0.jpg",
       "path": "uploads/2026/09/268c49bb.jpg",
