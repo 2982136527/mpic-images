@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "60fbe00c",
+      "filename": "pixiv_150219908_p0.jpg",
+      "path": "uploads/2026/09/615cf542.jpg",
+      "size": 673217,
+      "width": 943,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "31c172423aac8d9358026be44b5dc87a68705cd37237e0f144221a90b461bddf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:52:19.889Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "😴",
+      "tags": [
+        "女の子",
+        "吊りスカート",
+        "1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150219908_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150219908",
+      "sourceCreatedAt": "2026-09-28T11:50:48.000Z"
+    },
+    {
       "id": "5976a5be",
       "filename": "pixiv_150245501_p0.jpg",
       "path": "uploads/2026/09/916dda3b.jpg",
