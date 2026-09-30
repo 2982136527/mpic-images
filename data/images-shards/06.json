@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "11cb4174",
+      "filename": "pixiv_150191809_p0.jpg",
+      "path": "uploads/2026/09/d9f4e572.jpg",
+      "size": 655082,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "6fb936db961e0a631e1b0076b44a13989b37f0362383739bbe41143d8846d52f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:46:50.167Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "きつねっこ",
+      "tags": [
+        "オリジナル",
+        "けもみみ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150191809_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150191809",
+      "sourceCreatedAt": "2026-09-27T15:00:26.000Z"
+    },
+    {
       "id": "0223438a",
       "filename": "pixiv_150228912_p0.jpg",
       "path": "uploads/2026/09/c52a1c91.jpg",
