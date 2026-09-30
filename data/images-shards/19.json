@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "0419e1d9",
+      "filename": "pixiv_150231688_p0.jpg",
+      "path": "uploads/2026/09/75847992.jpg",
+      "size": 539192,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3c7eebc1342adfb0ef3b4a8ea0a1f523158cf10dc497dd86f5bd55e7a92720fa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:28:53.974Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ヤニねこ",
+      "tags": [
+        "西春蘭",
+        "ヤニねこ",
+        "女装"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150231688_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150231688",
+      "sourceCreatedAt": "2026-09-28T16:03:13.000Z"
+    },
+    {
       "id": "4b62b509",
       "filename": "pixiv_150252358_p0.jpg",
       "path": "uploads/2026/09/5b72d31f.jpg",
