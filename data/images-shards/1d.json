@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "4619a86d",
+      "filename": "pixiv_150252325_p0.jpg",
+      "path": "uploads/2026/09/8dfe0981.jpg",
+      "size": 612842,
+      "width": 1200,
+      "height": 1130,
+      "mimeType": "image/jpeg",
+      "hash": "4a22b20ee10535389cfdb408640707c3b8682b5fdfa96f9428fc064860702da9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:58:08.959Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "マコト/ヒナ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ロリ",
+        "空崎ヒナ",
+        "羽沼マコト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150252325_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150252325",
+      "sourceCreatedAt": "2026-09-29T10:12:58.000Z"
+    },
+    {
       "id": "cfd3c634",
       "filename": "pixiv_150234498_p0.jpg",
       "path": "uploads/2026/09/22e47972.jpg",
