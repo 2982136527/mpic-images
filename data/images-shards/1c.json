@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "72d1de51",
+      "filename": "pixiv_150249010_p0.jpg",
+      "path": "uploads/2026/09/5de83aba.jpg",
+      "size": 650337,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "065cde89138b7f0924be97baecd28eb7ca4b8904c809298f00c07def25bb479d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:49:23.322Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Caelesta OC",
+      "tags": [
+        "fantasy",
+        "original"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150249010_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150249010",
+      "sourceCreatedAt": "2026-09-29T08:31:15.000Z"
+    },
+    {
       "id": "c2eabf27",
       "filename": "pixiv_150195455_p0.jpg",
       "path": "uploads/2026/09/1c00517d.jpg",
