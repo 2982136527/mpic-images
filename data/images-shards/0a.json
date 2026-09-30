@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "db72d134",
+      "filename": "pixiv_150228910_p0.jpg",
+      "path": "uploads/2026/09/5dac0a5f.jpg",
+      "size": 1629842,
+      "width": 980,
+      "height": 980,
+      "mimeType": "image/jpeg",
+      "hash": "cbf06cfe9daa19c4a5eb794e75d912f70813ab24c21e33fcb6a7dc201e329f5e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:52:37.591Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "♡",
+      "tags": [
+        "東方",
+        "古明地こいし"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150228910_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150228910",
+      "sourceCreatedAt": "2026-09-28T15:00:43.000Z"
+    },
+    {
       "id": "0a62e2b8",
       "filename": "pixiv_150211179_p0.jpg",
       "path": "uploads/2026/09/161c7520.jpg",
