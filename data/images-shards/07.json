@@ -3,6 +3,33 @@
   "shardId": "07",
   "images": [
     {
+      "id": "57657a23",
+      "filename": "pixiv_150229502_p0.jpg",
+      "path": "uploads/2026/09/533cf211.jpg",
+      "size": 1137597,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "15a99848b40c768b9593f05f2b4ffb260961cd86ba49a8f1710180804d069875",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:53:14.217Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "帯広競馬場コラボトークショーレポ",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "フサイチパンドラ(ウマ娘)",
+        "ラインクラフト(ウマ娘)",
+        "キングヘイロー(ウマ娘)",
+        "アーモンドアイ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150229502_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150229502",
+      "sourceCreatedAt": "2026-09-28T15:08:02.000Z"
+    },
+    {
       "id": "c13f8ea4",
       "filename": "pixiv_150205340_p0.jpg",
       "path": "uploads/2026/09/900672d0.jpg",
