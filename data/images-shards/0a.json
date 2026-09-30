@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "3db134d3",
+      "filename": "pixiv_150228864_p0.jpg",
+      "path": "uploads/2026/09/d729f283.jpg",
+      "size": 675806,
+      "width": 1084,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "adced09e4b6ea757c82b496546f33eb70b2107a7f47fdb596878013d4361a1d8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:55:31.502Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Hug me!",
+      "tags": [
+        "女の子",
+        "創作",
+        "きつね",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150228864_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150228864",
+      "sourceCreatedAt": "2026-09-28T15:00:35.000Z"
+    },
+    {
       "id": "db72d134",
       "filename": "pixiv_150228910_p0.jpg",
       "path": "uploads/2026/09/5dac0a5f.jpg",
