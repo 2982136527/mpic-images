@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "63de28f4",
+      "filename": "pixiv_150229202_p0.jpg",
+      "path": "uploads/2026/09/99b3397f.jpg",
+      "size": 1168379,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "321cb379ab70ed5097a60cccc73e9378fb933b5f82ae67ddf61ac09c11ec24be",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:26:43.214Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ラップランド",
+      "tags": [
+        "明日方舟",
+        "アークナイツ",
+        "Arknights",
+        "ラップランド(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150229202_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150229202",
+      "sourceCreatedAt": "2026-09-28T15:02:50.000Z"
+    },
+    {
       "id": "0e864526",
       "filename": "pixiv_150155289_p0.jpg",
       "path": "uploads/2026/09/149beaa8.jpg",
