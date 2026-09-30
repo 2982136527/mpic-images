@@ -3,6 +3,34 @@
   "shardId": "19",
   "images": [
     {
+      "id": "195cb8ae",
+      "filename": "pixiv_150231332_p0.jpg",
+      "path": "uploads/2026/09/9f02127e.jpg",
+      "size": 864493,
+      "width": 1200,
+      "height": 823,
+      "mimeType": "image/jpeg",
+      "hash": "7afbe28e45053a68ddfa9109b7d2326605decceecba414e226bb9d5e22466811",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:30:33.274Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "白鳳",
+      "tags": [
+        "アズールレーン",
+        "AzurLane",
+        "裸足",
+        "女の子",
+        "白鳳(アズールレーン)",
+        "アズールレーン100users入り",
+        "アズールレーン500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150231332_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150231332",
+      "sourceCreatedAt": "2026-09-28T15:53:32.000Z"
+    },
+    {
       "id": "42c58b35",
       "filename": "pixiv_150252143_p0.jpg",
       "path": "uploads/2026/09/a6fedefe.jpg",
