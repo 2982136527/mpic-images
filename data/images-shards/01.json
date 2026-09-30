@@ -3,6 +3,28 @@
   "shardId": "01",
   "images": [
     {
+      "id": "aa00d0a8",
+      "filename": "pixiv_150224773_p0.jpg",
+      "path": "uploads/2026/09/11ca8922.jpg",
+      "size": 769692,
+      "width": 790,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "99d4e6f280e4e9b7e5fc1e078cf11087f5fba0655ae27add63477d3a8ae72f87",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:50:35.583Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🦋らくがき",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150224773_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150224773",
+      "sourceCreatedAt": "2026-09-28T13:30:40.000Z"
+    },
+    {
       "id": "f6b8aac4",
       "filename": "pixiv_150225136_p0.jpg",
       "path": "uploads/2026/09/eec7fe36.jpg",
