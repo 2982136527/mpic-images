@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "1acb6fda",
+      "filename": "pixiv_150244338_p0.jpg",
+      "path": "uploads/2026/09/40ca18ab.jpg",
+      "size": 1390386,
+      "width": 1200,
+      "height": 822,
+      "mimeType": "image/jpeg",
+      "hash": "cff5e942e45d262c0cc2a30c58ba4b14023b4fd37811f6f03d2cc8f8f36a9cae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:59:40.370Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "[4K]kayoko",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "鬼方カヨコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150244338_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150244338",
+      "sourceCreatedAt": "2026-09-30T03:10:30.000Z"
+    },
+    {
       "id": "1772176a",
       "filename": "pixiv_150234652_p0.jpg",
       "path": "uploads/2026/09/097dfc2b.jpg",
