@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "b19dee98",
+      "filename": "pixiv_150254762_p0.jpg",
+      "path": "uploads/2026/09/e3140b70.jpg",
+      "size": 829147,
+      "width": 708,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "52eedbbeee4063575c394e7cf93b3a8ce88387b52e4611ba85fe246208f2c5bb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:25:58.818Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "La Aong ✨",
+      "tags": [
+        "la-aong"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150254762_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150254762",
+      "sourceCreatedAt": "2026-09-29T11:15:07.000Z"
+    },
+    {
       "id": "7e7e8c27",
       "filename": "pixiv_150211275_p0.jpg",
       "path": "uploads/2026/09/6c63bebd.jpg",
