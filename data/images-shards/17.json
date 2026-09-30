@@ -3,6 +3,32 @@
   "shardId": "17",
   "images": [
     {
+      "id": "40ee383e",
+      "filename": "pixiv_150215768_p0.jpg",
+      "path": "uploads/2026/09/527f963d.jpg",
+      "size": 1025057,
+      "width": 1082,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b8e0ce6426399a1febc0fd83a0b6c0dd2d1b44deac66c6b9474904e0da6b3e32",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:46:42.000Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "루치아",
+      "tags": [
+        "EternalReturn:BlackSurvival",
+        "EternalReturn",
+        "이터널리턴",
+        "女の子",
+        "루치아"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150215768_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150215768",
+      "sourceCreatedAt": "2026-09-28T10:08:48.000Z"
+    },
+    {
       "id": "36c2886b",
       "filename": "pixiv_150199981_p0.jpg",
       "path": "uploads/2026/09/9c20f7d8.jpg",
