@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "f6b8aac4",
+      "filename": "pixiv_150225136_p0.jpg",
+      "path": "uploads/2026/09/eec7fe36.jpg",
+      "size": 984263,
+      "width": 921,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "711bbf2e4a951d6ef40cb10a7ddbf7e0f5f643f5b197bed82967a3ee62a8257a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:46:09.480Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "親子",
+      "tags": [
+        "ゼンゼロ",
+        "ヴェリナ・エガード",
+        "ノルムー・ホローウェル",
+        "ゼンレスゾーンゼロ",
+        "リン(ゼンゼロ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150225136_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150225136",
+      "sourceCreatedAt": "2026-09-28T13:40:28.000Z"
+    },
+    {
       "id": "268b7019",
       "filename": "pixiv_150196222_p0.jpg",
       "path": "uploads/2026/09/e0037423.jpg",
