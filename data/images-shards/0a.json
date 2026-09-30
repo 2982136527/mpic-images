@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "94502b8d",
+      "filename": "pixiv_150200449_p0.jpg",
+      "path": "uploads/2026/09/3167a393.jpg",
+      "size": 911618,
+      "width": 801,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "919c5b0b0d5ed0ce292d9494043c70986ad65c77d72523c7655efeda0c52ccb7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:49:50.186Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "写真？忙しいのに~",
+      "tags": [
+        "女の子",
+        "OL"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150200449_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150200449",
+      "sourceCreatedAt": "2026-09-27T22:15:10.000Z"
+    },
+    {
       "id": "3db134d3",
       "filename": "pixiv_150228864_p0.jpg",
       "path": "uploads/2026/09/d729f283.jpg",
