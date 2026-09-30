@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "268b7019",
+      "filename": "pixiv_150196222_p0.jpg",
+      "path": "uploads/2026/09/e0037423.jpg",
+      "size": 1151127,
+      "width": 696,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cca1d49f41bead16eede8628aff80c9ba7c0213297fe03bdbeaaa13843484e57",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:52:27.948Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "コロンビーナ/サンドローネ",
+      "tags": [
+        "原神",
+        "コロンビーナ",
+        "サンドローネ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150196222_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150196222",
+      "sourceCreatedAt": "2026-09-27T17:42:17.000Z"
+    },
+    {
       "id": "3d554ac4",
       "filename": "pixiv_150207304_p0.jpg",
       "path": "uploads/2026/09/cc84c6f4.jpg",
