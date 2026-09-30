@@ -3,6 +3,28 @@
   "shardId": "10",
   "images": [
     {
+      "id": "51cd8db2",
+      "filename": "pixiv_150222787_p0.jpg",
+      "path": "uploads/2026/09/9738fb08.jpg",
+      "size": 848813,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0b336d6ce3f0bad2de213c5f986490fd40acf940f63dc6f03ca4c7085f809eaa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:28:30.151Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Träumerei",
+      "tags": [
+        "花嫁"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150222787_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150222787",
+      "sourceCreatedAt": "2026-09-28T12:50:27.000Z"
+    },
+    {
       "id": "c79456b4",
       "filename": "pixiv_150181896_p0.jpg",
       "path": "uploads/2026/09/13874ccc.jpg",
