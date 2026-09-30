@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "f8f77a11",
+      "filename": "pixiv_150219858_p0.jpg",
+      "path": "uploads/2026/09/453bb183.jpg",
+      "size": 228206,
+      "width": 378,
+      "height": 378,
+      "mimeType": "image/jpeg",
+      "hash": "7290e8ae187661efeb70dadd12a3885405de78268e37d289762ef100ef61ee46",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:59:51.689Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ちみフランドール",
+      "tags": [
+        "東方Project",
+        "フランドール・スカーレット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150219858_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150219858",
+      "sourceCreatedAt": "2026-09-28T11:49:41.000Z"
+    },
+    {
       "id": "db97427e",
       "filename": "pixiv_150227968_p0.jpg",
       "path": "uploads/2026/09/e8594f83.jpg",
