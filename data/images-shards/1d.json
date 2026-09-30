@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "cfd3c634",
+      "filename": "pixiv_150234498_p0.jpg",
+      "path": "uploads/2026/09/22e47972.jpg",
+      "size": 829138,
+      "width": 1200,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "a4181223a102b3a8e2747c5f67b0b56cfc460a30dc6d6438817b0a9251d77cf8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:57:51.820Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "何気ない日常が幸せだった日",
+      "tags": [
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150234498_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150234498",
+      "sourceCreatedAt": "2026-09-28T18:07:46.000Z"
+    },
+    {
       "id": "fc57587e",
       "filename": "pixiv_150260799_p0.jpg",
       "path": "uploads/2026/09/09664a9c.jpg",
