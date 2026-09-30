@@ -3,6 +3,35 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "3fec2daa",
+      "filename": "pixiv_150228848_p0.jpg",
+      "path": "uploads/2026/09/84a89e8c.jpg",
+      "size": 977889,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "db4c9977e7fce7d2c9d35816e9669167cf3ab05ccf855c698a8a56a77c829763",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:47:03.286Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "パール..",
+      "tags": [
+        "パール(スターレイル)",
+        "Pearl",
+        "真珠",
+        "スターレイル",
+        "崩壊スターレイル",
+        "HonkaiStarRail",
+        "ai-assisted",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150228848_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150228848",
+      "sourceCreatedAt": "2026-09-28T15:00:33.000Z"
+    },
+    {
       "id": "536cc09f",
       "filename": "pixiv_150224108_p0.jpg",
       "path": "uploads/2026/09/68563be1.jpg",
