@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "a289bae0",
+      "filename": "pixiv_150202852_p0.jpg",
+      "path": "uploads/2026/09/59916344.jpg",
+      "size": 814424,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c201b145523bf11b374ff82eeab948554479baeb7218a9037fa4010ba09c33e0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T14:54:53.764Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ニンフィア擬人化",
+      "tags": [
+        "ポケモン",
+        "ポケモン擬人化",
+        "ポケ擬",
+        "ニンフィア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150202852_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150202852",
+      "sourceCreatedAt": "2026-09-28T00:33:29.000Z"
+    },
+    {
       "id": "a654fc2f",
       "filename": "pixiv_150234082_p0.jpg",
       "path": "uploads/2026/09/d9fa71e7.jpg",
