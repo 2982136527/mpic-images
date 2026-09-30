@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "38208e1e",
+      "filename": "pixiv_150255633_p0.jpg",
+      "path": "uploads/2026/09/d085afb5.jpg",
+      "size": 796072,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "ac74e0c4b75f0e7a9af85374c78511d472e1edd6a224498d1899fb6b84f5b670",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:29:10.456Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "とわ様",
+      "tags": [
+        "ホロライブ",
+        "VTuber",
+        "hololive",
+        "TOWART"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150255633_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150255633",
+      "sourceCreatedAt": "2026-09-29T11:36:26.000Z"
+    },
+    {
       "id": "782fd0ae",
       "filename": "pixiv_150195945_p0.jpg",
       "path": "uploads/2026/09/a9bf2059.jpg",
