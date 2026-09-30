@@ -3,6 +3,36 @@
   "shardId": "12",
   "images": [
     {
+      "id": "f80c704f",
+      "filename": "pixiv_150089787_p0.jpg",
+      "path": "uploads/2026/09/63480971.jpg",
+      "size": 574223,
+      "width": 911,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ca6e3accf1d8991f78c5c3482f577f59953f83b6412daf1f1407f6fa443e2cd3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:51:12.740Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "つまりはこういう…コト！？",
+      "tags": [
+        "原神",
+        "イラスト",
+        "ロノヴァ",
+        "蛍(原神)",
+        "ヴォジャニーツァ",
+        "Vodyanitsa",
+        "Lumine",
+        "Ronova",
+        "GenshinImpact"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150089787_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150089787",
+      "sourceCreatedAt": "2026-09-25T09:09:05.000Z"
+    },
+    {
       "id": "1ae98f53",
       "filename": "pixiv_150231055_p0.jpg",
       "path": "uploads/2026/09/a5bf66e3.jpg",
