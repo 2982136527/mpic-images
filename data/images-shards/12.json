@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "dfc1b0a7",
+      "filename": "pixiv_150194343_p0.jpg",
+      "path": "uploads/2026/09/916d8f2b.jpg",
+      "size": 961096,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ae1f4880a9035c4f5d6fa5fffedfc3bdbd62890ecf245108598e9c440540dd59",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:52:59.930Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ビナー",
+      "tags": [
+        "モンスターストライク",
+        "モンスト",
+        "ビナー(モンスト)",
+        "天聖(モンスト)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150194343_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150194343",
+      "sourceCreatedAt": "2026-09-27T16:33:19.000Z"
+    },
+    {
       "id": "f80c704f",
       "filename": "pixiv_150089787_p0.jpg",
       "path": "uploads/2026/09/63480971.jpg",
