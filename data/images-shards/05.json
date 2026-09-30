@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "febb4eff",
+      "filename": "pixiv_150228037_p0.jpg",
+      "path": "uploads/2026/09/de203f9c.jpg",
+      "size": 858262,
+      "width": 868,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6830051afda3ae57f765c6c60908a8388cdc1e2ff89bb0b10a6299a24e065887",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:47:12.257Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "5090",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "キラ(LCB)",
+        "키라",
+        "Kira(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150228037_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150228037",
+      "sourceCreatedAt": "2026-09-28T14:45:31.000Z"
+    },
+    {
       "id": "ecbb5d06",
       "filename": "pixiv_150256329_p0.jpg",
       "path": "uploads/2026/09/9dffdd91.jpg",
