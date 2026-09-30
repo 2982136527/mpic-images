@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "1a8bd231",
+      "filename": "pixiv_150033596_p0.jpg",
+      "path": "uploads/2026/09/03df7aba.jpg",
+      "size": 1295039,
+      "width": 1200,
+      "height": 927,
+      "mimeType": "image/jpeg",
+      "hash": "579986fe5e248520821fc5906156c1f4602516e712de46035c5f29aa1bc2df1a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T20:51:34.696Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "skeb 06",
+      "tags": [
+        "Skeb",
+        "犬山たまき"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150033596_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150033596",
+      "sourceCreatedAt": "2026-09-23T15:31:05.000Z"
+    },
+    {
       "id": "a641edd9",
       "filename": "pixiv_150208903_p0.jpg",
       "path": "uploads/2026/09/57dac181.jpg",
