@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "49eb93e6",
+      "filename": "pixiv_150233382_p0.jpg",
+      "path": "uploads/2026/09/bd540024.jpg",
+      "size": 1480659,
+      "width": 1150,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "475f8826b6bc3a04d1ec3f88afd8b6850d4cc5af5d4ce360e8c2982ff4d1b505",
+      "uploaderLogin": "system",
+      "createdAt": "2026-09-30T05:26:18.571Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🐴",
+      "tags": [
+        "カツラギエース",
+        "エピファネイア",
+        "競走馬"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150233382_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150233382",
+      "sourceCreatedAt": "2026-09-28T17:03:56.000Z"
+    },
+    {
       "id": "240f37f5",
       "filename": "pixiv_150201455_p0.jpg",
       "path": "uploads/2026/09/ab5e0dbd.jpg",
