@@ -3,6 +3,28 @@
   "shardId": "16",
   "images": [
     {
+      "id": "d9339bf4",
+      "filename": "pixiv_150264937_p0.jpg",
+      "path": "uploads/2026/10/d21b7730.jpg",
+      "size": 1523904,
+      "width": 854,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b3dde75934c930384e2e1f38c1fff04aff678e928f2ac17eb253a29a65c174ab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:40:14.170Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "卯月の雪のレター・レター",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150264937_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150264937",
+      "sourceCreatedAt": "2026-09-29T15:00:26.000Z"
+    },
+    {
       "id": "a5556a9f",
       "filename": "pixiv_150248986_p0.jpg",
       "path": "uploads/2026/09/caa8117f.jpg",
