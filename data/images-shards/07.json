@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "a77af874",
+      "filename": "pixiv_150250987_p0.jpg",
+      "path": "uploads/2026/10/8fac81f8.jpg",
+      "size": 1179437,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a4a832bb02b9906e7e7e55f2d41d021515b11773ec450336eba6961dee294f6c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:27:22.800Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "はなまるかわいい",
+      "tags": [
+        "名探偵プリキュア!",
+        "キュアアンサー",
+        "1号キュア",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150250987_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150250987",
+      "sourceCreatedAt": "2026-09-29T09:33:08.000Z"
+    },
+    {
       "id": "a7d3ae20",
       "filename": "pixiv_150280389_p0.jpg",
       "path": "uploads/2026/10/8c1ec295.jpg",
