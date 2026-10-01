@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "81ef1551",
+      "filename": "pixiv_150105431_p0.jpg",
+      "path": "uploads/2026/10/8fc98f1d.jpg",
+      "size": 796462,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "819b7b461328dc05c86011936afee75870f352d7ddd7ac80f17774bbfe1e967b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T21:06:20.802Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【新刊】東方衣替画録",
+      "tags": [
+        "東方",
+        "博麗霊夢",
+        "魂魄妖夢",
+        "古明地こいし",
+        "東方Project",
+        "東方Project1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150105431_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150105431",
+      "sourceCreatedAt": "2026-09-26T10:04:18.000Z"
+    },
+    {
       "id": "acb21403",
       "filename": "pixiv_150297801_p0.jpg",
       "path": "uploads/2026/10/cd708ecd.jpg",
