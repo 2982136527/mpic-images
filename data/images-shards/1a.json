@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "6026be05",
+      "filename": "pixiv_150289133_p0.jpg",
+      "path": "uploads/2026/10/f1cc3f5d.jpg",
+      "size": 628306,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "69b7c62ad9333a8b062390826f1b30799f9add3357fd1591fb02b64255cc7e82",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:47:39.247Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "気持ち重い子",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "ギャグ",
+        "関西弁"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150289133_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150289133",
+      "sourceCreatedAt": "2026-09-30T10:22:28.000Z"
+    },
+    {
       "id": "c36b5f22",
       "filename": "pixiv_150250738_p0.jpg",
       "path": "uploads/2026/10/362ee098.jpg",
