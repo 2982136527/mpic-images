@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "0f0e750f",
+      "filename": "pixiv_150244836_p0.jpg",
+      "path": "uploads/2026/10/4ed3a1f0.jpg",
+      "size": 530916,
+      "width": 886,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3199e107b7f057445f564375ef351eedda6756bf2ccbcdce9799269e69ae03b5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:45:04.275Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🦊👙",
+      "tags": [
+        "女の子",
+        "バーチャルYouTuber",
+        "StelLive",
+        "텐코시부키"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150244836_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150244836",
+      "sourceCreatedAt": "2026-09-29T05:08:32.000Z"
+    },
+    {
       "id": "3f3474c6",
       "filename": "pixiv_150205745_p0.jpg",
       "path": "uploads/2026/09/82efc300.jpg",
