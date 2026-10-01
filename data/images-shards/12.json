@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "d22c2382",
+      "filename": "pixiv_150251197_p0.jpg",
+      "path": "uploads/2026/10/92939599.jpg",
+      "size": 765660,
+      "width": 700,
+      "height": 990,
+      "mimeType": "image/jpeg",
+      "hash": "45a71eff9441de0018f19d447de08cd4f76657e2c4c674f2098b7868fcfd66b3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:27:30.191Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "照",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150251197_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150251197",
+      "sourceCreatedAt": "2026-09-29T09:41:15.000Z"
+    },
+    {
       "id": "c4c5a638",
       "filename": "pixiv_150265514_p0.jpg",
       "path": "uploads/2026/10/797839ae.jpg",
