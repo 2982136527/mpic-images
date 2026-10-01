@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "551cf0ae",
+      "filename": "pixiv_150241219_p0.jpg",
+      "path": "uploads/2026/10/d8821dfa.jpg",
+      "size": 1436269,
+      "width": 881,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1f38df701324e6b270fb850cdcbd060d3a3ff706872316398cdbecdf762d1809",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:24:16.421Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "水着ガルミーユ",
+      "tags": [
+        "ShadowverseEVOLVE",
+        "シャドウバース",
+        "ガルミーユ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150241219_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150241219",
+      "sourceCreatedAt": "2026-09-29T01:44:29.000Z"
+    },
+    {
       "id": "5bc1a2b4",
       "filename": "pixiv_150265597_p0.jpg",
       "path": "uploads/2026/10/5006f294.jpg",
