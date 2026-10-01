@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "6ff04c33",
+      "filename": "pixiv_150257713_p0.jpg",
+      "path": "uploads/2026/10/8f777609.jpg",
+      "size": 919422,
+      "width": 1200,
+      "height": 1016,
+      "mimeType": "image/jpeg",
+      "hash": "fe25f812fedac0059e19236537c8a69e9afe3917e00ae81e3cc43654b9c13fa8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T21:04:38.659Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ローテ落ち暇クオン",
+      "tags": [
+        "クオン",
+        "シャドウバース",
+        "シャドバ",
+        "Shadowverse"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150257713_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150257713",
+      "sourceCreatedAt": "2026-09-29T12:20:47.000Z"
+    },
+    {
       "id": "7cabf033",
       "filename": "pixiv_150242901_p0.jpg",
       "path": "uploads/2026/10/b04e8514.jpg",
