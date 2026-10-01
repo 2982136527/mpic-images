@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "73ece7ae",
+      "filename": "pixiv_150266574_p0.jpg",
+      "path": "uploads/2026/10/73f7020a.jpg",
+      "size": 761032,
+      "width": 726,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b3add9c12f8f6d5b588b3a37de37e2b941ae4c0a8216caf3fa7ae572dd0fbe34",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:27:38.353Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Sirius",
+      "tags": [
+        "アズールレーン",
+        "シリアス(アズールレーン)",
+        "アズールレーン1000users入り",
+        "饅頭(アズールレーン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150266574_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150266574",
+      "sourceCreatedAt": "2026-09-29T15:30:58.000Z"
+    },
+    {
       "id": "fd15f4ee",
       "filename": "pixiv_150285573_p0.jpg",
       "path": "uploads/2026/10/ecb90ec4.jpg",
