@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "7cabf033",
+      "filename": "pixiv_150242901_p0.jpg",
+      "path": "uploads/2026/10/b04e8514.jpg",
+      "size": 682807,
+      "width": 943,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b04a0d0c17d6359068dbb8d3e49afe22a48bcf81b6fac964966f4414b03e3e55",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T20:58:33.634Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "smile",
+      "tags": [
+        "女の子",
+        "ネクタイ+ブラウス制服",
+        "1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150242901_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150242901",
+      "sourceCreatedAt": "2026-09-29T03:20:01.000Z"
+    },
+    {
       "id": "eca1b1dd",
       "filename": "pixiv_150269044_p0.jpg",
       "path": "uploads/2026/10/12e5f49e.jpg",
