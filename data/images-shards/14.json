@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "d5e3e46e",
+      "filename": "pixiv_150282250_p0.jpg",
+      "path": "uploads/2026/10/e9e75453.jpg",
+      "size": 2071721,
+      "width": 1200,
+      "height": 767,
+      "mimeType": "image/jpeg",
+      "hash": "6ec83e237b2ffd9868309aac170002aad0f6cc3527b5a117191022f6d24b8608",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:24:24.729Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "霊媒師なーす",
+      "tags": [
+        "オリジナル",
+        "ナース",
+        "女の子",
+        "男の娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150282250_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150282250",
+      "sourceCreatedAt": "2026-09-30T06:09:52.000Z"
+    },
+    {
       "id": "3000604c",
       "filename": "pixiv_150265856_p0.jpg",
       "path": "uploads/2026/10/81662bd2.jpg",
