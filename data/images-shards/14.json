@@ -3,6 +3,37 @@
   "shardId": "14",
   "images": [
     {
+      "id": "7eaee058",
+      "filename": "pixiv_150265747_p0.jpg",
+      "path": "uploads/2026/10/5d2152c1.jpg",
+      "size": 1339581,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8ed415f2c9ab9cf2d0e188e96fe2fed0bd2d54456cc82015051fef1c6b92ed55",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:32:10.380Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "君の知らない物語。",
+      "tags": [
+        "ホロライブ",
+        "FLOWGLOW",
+        "VTuber",
+        "アソビ★まわり隊!",
+        "輪堂千速",
+        "もはやちはや",
+        "虎金妃笑虎",
+        "百灯キョーコ",
+        "ほくろ",
+        "バーチャルYouTuber100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150265747_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150265747",
+      "sourceCreatedAt": "2026-09-29T15:11:01.000Z"
+    },
+    {
       "id": "d5e3e46e",
       "filename": "pixiv_150282250_p0.jpg",
       "path": "uploads/2026/10/e9e75453.jpg",
