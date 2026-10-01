@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "eca1b1dd",
+      "filename": "pixiv_150269044_p0.jpg",
+      "path": "uploads/2026/10/12e5f49e.jpg",
+      "size": 58821,
+      "width": 808,
+      "height": 665,
+      "mimeType": "image/jpeg",
+      "hash": "a8d339bd814707331f8abe0966791e201f261fde6d496b761231f1b12f63925d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:29:34.808Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "わたいぬ１６",
+      "tags": [
+        "アイドルマスターシンデレラガールズ",
+        "パロディ",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150269044_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150269044",
+      "sourceCreatedAt": "2026-09-29T16:52:36.000Z"
+    },
+    {
       "id": "1eb68a0c",
       "filename": "pixiv_150265163_p0.jpg",
       "path": "uploads/2026/10/f4d14ff7.jpg",
