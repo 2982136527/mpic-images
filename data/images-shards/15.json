@@ -3,6 +3,28 @@
   "shardId": "15",
   "images": [
     {
+      "id": "acd8f3ca",
+      "filename": "pixiv_150288485_p0.jpg",
+      "path": "uploads/2026/10/8fbd8c26.jpg",
+      "size": 544321,
+      "width": 1200,
+      "height": 1049,
+      "mimeType": "image/jpeg",
+      "hash": "171e18bb9d55032651c1e772cc228420e76711ad8a3438eb0e423958218b91ee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:43:16.035Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "お疲レイマリ",
+      "tags": [
+        "レイマリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150288485_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150288485",
+      "sourceCreatedAt": "2026-09-30T10:03:42.000Z"
+    },
+    {
       "id": "9d0a1f6b",
       "filename": "pixiv_150294985_p0.jpg",
       "path": "uploads/2026/10/e117e5a4.jpg",
