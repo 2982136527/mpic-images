@@ -3,6 +3,28 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "809b51ed",
+      "filename": "pixiv_150272412_p0.jpg",
+      "path": "uploads/2026/10/0dc2c848.jpg",
+      "size": 567386,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bf6d332dd7dfce5db6bd2a64e61344db100e75d94491707c1b3e7f1008404248",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:32:30.651Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ベが遊んでるだけ",
+      "tags": [
+        "エンジャリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150272412_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150272412",
+      "sourceCreatedAt": "2026-09-29T20:41:05.000Z"
+    },
+    {
       "id": "2aff11c5",
       "filename": "pixiv_150281072_p0.jpg",
       "path": "uploads/2026/10/5bdaa79d.jpg",
