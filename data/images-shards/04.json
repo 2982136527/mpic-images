@@ -3,6 +3,35 @@
   "shardId": "04",
   "images": [
     {
+      "id": "3a63fe04",
+      "filename": "pixiv_150263241_p0.jpg",
+      "path": "uploads/2026/10/3905be3c.jpg",
+      "size": 1038791,
+      "width": 1052,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "72c773594f382c65666d01c017a2765715ed95a9bf3f1c7779a8d499dc6cc447",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:43:09.984Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ビジネスエリート🦋",
+      "tags": [
+        "マーベル",
+        "アメコミ",
+        "スパイダーマン",
+        "Marvel",
+        "Spider-Man",
+        "Psylocke",
+        "サイロック",
+        "Marvelrivals"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150263241_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150263241",
+      "sourceCreatedAt": "2026-09-29T14:23:39.000Z"
+    },
+    {
       "id": "8f65142e",
       "filename": "pixiv_150089640_p0.jpg",
       "path": "uploads/2026/09/cf80583d.jpg",
