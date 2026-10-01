@@ -3,6 +3,32 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "b025f57f",
+      "filename": "pixiv_150281567_p0.jpg",
+      "path": "uploads/2026/10/2afea3c6.jpg",
+      "size": 1283875,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "6aed0bd61dee24269f20ab8fa23ba72cda4b40ca4ab5fd926bf06014dc30ff03",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:38:38.388Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "vtuberまとめ㉜",
+      "tags": [
+        "にじさんじ",
+        "宇佐美リト",
+        "緋八マナ",
+        "キリンちゃん",
+        "葛葉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150281567_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150281567",
+      "sourceCreatedAt": "2026-09-30T05:34:48.000Z"
+    },
+    {
       "id": "152912ba",
       "filename": "pixiv_150195078_p0.jpg",
       "path": "uploads/2026/09/3b7b96cf.jpg",
