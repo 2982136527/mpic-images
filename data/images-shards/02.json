@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "159bf880",
+      "filename": "pixiv_150282419_p0.jpg",
+      "path": "uploads/2026/10/51d85c23.jpg",
+      "size": 532668,
+      "width": 947,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5269982355fafd9a5d9da0e0a670dccbe9440baa4d82ea6b59c799d8ee9d057c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T21:00:20.885Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🩷",
+      "tags": [
+        "女の子",
+        "白髪ロング",
+        "1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150282419_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150282419",
+      "sourceCreatedAt": "2026-09-30T06:19:50.000Z"
+    },
+    {
       "id": "20d26b8d",
       "filename": "pixiv_150274923_p0.jpg",
       "path": "uploads/2026/10/3195a74a.jpg",
