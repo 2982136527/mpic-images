@@ -3,6 +3,33 @@
   "shardId": "09",
   "images": [
     {
+      "id": "b00fafb5",
+      "filename": "pixiv_150281277_p0.jpg",
+      "path": "uploads/2026/10/ec304ec2.jpg",
+      "size": 1566769,
+      "width": 1200,
+      "height": 1133,
+      "mimeType": "image/jpeg",
+      "hash": "fe1e9cc9a798a902c2c98af38f9b95abb5b83deda4c408a0e72769172342d99e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T21:01:40.461Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アニメリゼ最終回",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子",
+        "乙女怪獣キャラメリゼ",
+        "赤石黒絵",
+        "本家"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150281277_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150281277",
+      "sourceCreatedAt": "2026-09-30T05:19:33.000Z"
+    },
+    {
       "id": "69f4ca94",
       "filename": "pixiv_150252369_p0.jpg",
       "path": "uploads/2026/10/23e8d3a6.jpg",
