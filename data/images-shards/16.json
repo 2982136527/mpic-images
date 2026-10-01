@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "de54780f",
+      "filename": "pixiv_150287821_p0.jpg",
+      "path": "uploads/2026/10/28f86ad3.jpg",
+      "size": 744168,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dd2304a23ae7e38bc89f29c7121536efbc59c2fcc419d64fc25f0259fe637c92",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:44:11.794Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "我一根手指就能扣爆你",
+      "tags": [
+        "豊川祥子",
+        "Ave_Mujica"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150287821_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150287821",
+      "sourceCreatedAt": "2026-09-30T09:48:33.000Z"
+    },
+    {
       "id": "2bdd063e",
       "filename": "pixiv_150301025_p0.jpg",
       "path": "uploads/2026/10/b71b5287.jpg",
