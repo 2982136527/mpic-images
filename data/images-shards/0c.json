@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "1eb6fcbd",
+      "filename": "pixiv_150228881_p0.jpg",
+      "path": "uploads/2026/10/0bbb8f0e.jpg",
+      "size": 1033961,
+      "width": 773,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "644145e65c9c86aa12f6fced4421a8fd08e33d6bdb2d45d2cc97756daa979b6e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:42:35.030Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Alter",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "セイバーオルタ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150228881_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150228881",
+      "sourceCreatedAt": "2026-09-28T15:00:38.000Z"
+    },
+    {
       "id": "322b1566",
       "filename": "pixiv_150278674_p0.jpg",
       "path": "uploads/2026/10/be35bcde.jpg",
