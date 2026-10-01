@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "9088ef72",
+      "filename": "pixiv_150277400_p0.jpg",
+      "path": "uploads/2026/10/eef1bf34.jpg",
+      "size": 777196,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "961f2c938a3b6bf2ca28da86a73fcf0fa4930988ce7c4a7356f355c9723af903",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:39:52.226Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "たまには電車もいいよね",
+      "tags": [
+        "超かぐや姫!",
+        "かぐや(超かぐや姫!)",
+        "酒寄彩葉",
+        "いろかぐ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150277400_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150277400",
+      "sourceCreatedAt": "2026-09-30T01:50:29.000Z"
+    },
+    {
       "id": "cdff28af",
       "filename": "pixiv_150234481_p0.jpg",
       "path": "uploads/2026/09/83fb84ee.jpg",
