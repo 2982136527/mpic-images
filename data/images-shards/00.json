@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "2349dd3e",
+      "filename": "pixiv_150087436_p0.jpg",
+      "path": "uploads/2026/10/d1d582e0.jpg",
+      "size": 345273,
+      "width": 1200,
+      "height": 647,
+      "mimeType": "image/jpeg",
+      "hash": "579567d0be749afa25736efcb1f7d3a67eb534222556006021f77537e17dbc44",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:30:21.523Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ほの庭X投稿まとめ",
+      "tags": [
+        "ほの暮らしの庭",
+        "ほの暮しの庭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150087436_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150087436",
+      "sourceCreatedAt": "2026-09-25T07:55:27.000Z"
+    },
+    {
       "id": "4794af76",
       "filename": "pixiv_150257094_p0.jpg",
       "path": "uploads/2026/10/9752df5b.jpg",
