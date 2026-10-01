@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "19cccda7",
+      "filename": "pixiv_150248416_p0.jpg",
+      "path": "uploads/2026/10/9ab2527d.jpg",
+      "size": 957943,
+      "width": 1200,
+      "height": 856,
+      "mimeType": "image/jpeg",
+      "hash": "7bbb0b619a3e8cc9637f31109ee6acaafa776603026565a8a19ae66f1d52687d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:41:48.980Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "「神技作画」コンパクト版が、発売になりました！",
+      "tags": [
+        "講座",
+        "女の子",
+        "告知",
+        "本",
+        "描き方"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150248416_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150248416",
+      "sourceCreatedAt": "2026-09-29T08:08:11.000Z"
+    },
+    {
       "id": "ed743d4d",
       "filename": "pixiv_150220781_p0.jpg",
       "path": "uploads/2026/09/f8fb1976.jpg",
