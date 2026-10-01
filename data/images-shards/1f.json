@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "91fbaeb2",
+      "filename": "pixiv_150286971_p0.jpg",
+      "path": "uploads/2026/10/06d39eb0.jpg",
+      "size": 1818181,
+      "width": 832,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "25df9688717e0a8a6a851f556e1fe6c5ecdbc565a6be3ed41b4399438dfa8a89",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T21:01:27.811Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ふたりでひとつ、命の魔法",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "ゼラニウム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150286971_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150286971",
+      "sourceCreatedAt": "2026-09-30T09:22:51.000Z"
+    },
+    {
       "id": "8d2e7ba1",
       "filename": "pixiv_150230593_p0.jpg",
       "path": "uploads/2026/10/2da8e263.jpg",
