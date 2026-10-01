@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "5ee2628e",
+      "filename": "pixiv_150231741_p0.jpg",
+      "path": "uploads/2026/10/879f1e69.jpg",
+      "size": 899348,
+      "width": 913,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "491e5affa7a5d78bd52519ab94008b1ae4ef0b162e6f463b0dbe71cb026fa301",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:39:25.199Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "東灘ルック 心",
+      "tags": [
+        "WutheringWaves",
+        "鳴潮",
+        "心(鳴潮)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150231741_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150231741",
+      "sourceCreatedAt": "2026-09-28T16:04:45.000Z"
+    },
+    {
       "id": "eed820f3",
       "filename": "pixiv_150245515_p0.jpg",
       "path": "uploads/2026/10/db0f03d7.jpg",
