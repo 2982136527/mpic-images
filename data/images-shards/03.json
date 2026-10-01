@@ -3,6 +3,28 @@
   "shardId": "03",
   "images": [
     {
+      "id": "1eb68a0c",
+      "filename": "pixiv_150265163_p0.jpg",
+      "path": "uploads/2026/10/f4d14ff7.jpg",
+      "size": 827305,
+      "width": 891,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ac3e14f471be0ffe264ab8045df2188f5b9765995ccdf2b634c145b570e1b7b9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:42:56.127Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "126話無料公開",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150265163_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150265163",
+      "sourceCreatedAt": "2026-09-29T15:01:40.000Z"
+    },
+    {
       "id": "c692747c",
       "filename": "pixiv_150294241_p0.jpg",
       "path": "uploads/2026/10/306cb264.jpg",
