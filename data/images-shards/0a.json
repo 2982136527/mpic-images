@@ -3,6 +3,33 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "5352098e",
+      "filename": "pixiv_150265256_p0.jpg",
+      "path": "uploads/2026/10/30863b94.jpg",
+      "size": 693492,
+      "width": 1061,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b06fe3790c8aa36e153d7c1744ab5a2d04eb49fe841e671c2cb23af28bebb3f5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:22:55.798Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ぼざろの山田リョウ",
+      "tags": [
+        "山田リョウ(ぼっち・ざ・ろっく!)",
+        "ぼっち・ざ・ろっく!",
+        "山田リョウ",
+        "女の子",
+        "少女",
+        "ぼっち・ざ・ろっく!500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150265256_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150265256",
+      "sourceCreatedAt": "2026-09-29T15:02:33.000Z"
+    },
+    {
       "id": "240f5cad",
       "filename": "pixiv_150280791_p0.jpg",
       "path": "uploads/2026/10/bbcd4071.jpg",
