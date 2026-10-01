@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "4794af76",
+      "filename": "pixiv_150257094_p0.jpg",
+      "path": "uploads/2026/10/9752df5b.jpg",
+      "size": 380807,
+      "width": 1200,
+      "height": 811,
+      "mimeType": "image/jpeg",
+      "hash": "0fc2ab0ea9acaeb70dc3a8453fab6d3a221c99a94a5ec916a55786712b720646",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:23:16.576Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "月影と猫鈴",
+      "tags": [
+        "オリジナル",
+        "猫耳",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150257094_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150257094",
+      "sourceCreatedAt": "2026-09-29T12:05:52.000Z"
+    },
+    {
       "id": "53bc6d31",
       "filename": "pixiv_150033173_p0.jpg",
       "path": "uploads/2026/10/cce3d6bb.jpg",
