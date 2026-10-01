@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "2bdd063e",
+      "filename": "pixiv_150301025_p0.jpg",
+      "path": "uploads/2026/10/b71b5287.jpg",
+      "size": 470051,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "527c05cc9a5d6ff8e1e59a32aceadf40ff4881bef62e1f917dca1143b898c48b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:41:42.309Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ドンキ行ってそうなヤマノ",
+      "tags": [
+        "ウマ娘",
+        "シンデレラグレイ",
+        "ヤマノサウザン",
+        "ウマ娘シンデレラグレイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150301025_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150301025",
+      "sourceCreatedAt": "2026-09-30T14:37:18.000Z"
+    },
+    {
       "id": "d9339bf4",
       "filename": "pixiv_150264937_p0.jpg",
       "path": "uploads/2026/10/d21b7730.jpg",
