@@ -3,6 +3,37 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "c36b5f22",
+      "filename": "pixiv_150250738_p0.jpg",
+      "path": "uploads/2026/10/362ee098.jpg",
+      "size": 1792602,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "919fb1ef7b9bd56cfd96b4bbf160fe169eef93ac18379230a0106b469faa2cc5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:43:49.231Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "『ちょっとだけだからね』",
+      "tags": [
+        "美少女",
+        "創作",
+        "イラスト",
+        "女の子",
+        "かわいい",
+        "キャラクターデザイン",
+        "オリキャラ",
+        "制服",
+        "青春",
+        "ラフ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150250738_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150250738",
+      "sourceCreatedAt": "2026-09-29T09:27:03.000Z"
+    },
+    {
       "id": "aed082d4",
       "filename": "pixiv_150245964_p0.jpg",
       "path": "uploads/2026/10/e9c711bf.jpg",
