@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "31388a09",
+      "filename": "pixiv_150294837_p0.jpg",
+      "path": "uploads/2026/10/83d5fa05.jpg",
+      "size": 504731,
+      "width": 956,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "542df5bd224508db878fee8554a44ffb9909d3e02514af48ac45fe294de6a173",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:29:42.296Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "総攬",
+      "tags": [
+        "オルフェーヴル(ウマ娘)",
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "イケメン女子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150294837_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150294837",
+      "sourceCreatedAt": "2026-09-30T12:29:40.000Z"
+    },
+    {
       "id": "36d038db",
       "filename": "pixiv_150260877_p0.jpg",
       "path": "uploads/2026/10/daad9d10.jpg",
