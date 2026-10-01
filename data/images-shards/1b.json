@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "f4c017cb",
+      "filename": "pixiv_150267754_p0.jpg",
+      "path": "uploads/2026/10/8b666323.jpg",
+      "size": 887286,
+      "width": 1006,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fa2e9dd6b45c8c182f03590705cf207d41c5122663f73a02283b9054ffe3aeb2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:26:06.728Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "옛날 그림 다시그리기",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "돈키호테"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150267754_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150267754",
+      "sourceCreatedAt": "2026-09-29T16:04:06.000Z"
+    },
+    {
       "id": "76c2c0e8",
       "filename": "pixiv_150277079_p0.jpg",
       "path": "uploads/2026/10/5932053b.jpg",
