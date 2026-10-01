@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "feb6fdb7",
+      "filename": "pixiv_150267307_p0.jpg",
+      "path": "uploads/2026/10/da52c527.jpg",
+      "size": 304485,
+      "width": 963,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b6207d050e6452bdd0874dd16ab91e8e4488952f0166658e9b7f3130dc8ffd9c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T21:00:47.414Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "rkgk",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "プロジェクトセカイ",
+        "アワーノーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150267307_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150267307",
+      "sourceCreatedAt": "2026-09-29T15:51:40.000Z"
+    },
+    {
       "id": "2349dd3e",
       "filename": "pixiv_150087436_p0.jpg",
       "path": "uploads/2026/10/d1d582e0.jpg",
