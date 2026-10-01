@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "aab277fb",
+      "filename": "pixiv_150293532_p0.jpg",
+      "path": "uploads/2026/10/a5df0b2d.jpg",
+      "size": 691420,
+      "width": 1200,
+      "height": 928,
+      "mimeType": "image/jpeg",
+      "hash": "0d5caabd16cd00960933ad1fbab899ed8899ba9b8a8c9872c55573048ebb2eb5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T21:00:30.435Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "特異対策特務部隊携帯機",
+      "tags": [
+        "オリジナル",
+        "イラスト",
+        "創作",
+        "ガジェット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150293532_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150293532",
+      "sourceCreatedAt": "2026-09-30T12:02:14.000Z"
+    },
+    {
       "id": "078bfc10",
       "filename": "pixiv_150291087_p0.jpg",
       "path": "uploads/2026/10/9ef10dbf.jpg",
