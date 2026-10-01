@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "322b1566",
+      "filename": "pixiv_150278674_p0.jpg",
+      "path": "uploads/2026/10/be35bcde.jpg",
+      "size": 669438,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09b2eee63db07012da60a633fe2871026672ebe5e24f9204db73c383c145b10f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:39:58.510Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "10月のカレンダー",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "おばちぇ",
+        "カレンダー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150278674_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150278674",
+      "sourceCreatedAt": "2026-09-30T03:00:22.000Z"
+    },
+    {
       "id": "18e68564",
       "filename": "pixiv_150242213_p0.jpg",
       "path": "uploads/2026/09/ae8da64c.jpg",
