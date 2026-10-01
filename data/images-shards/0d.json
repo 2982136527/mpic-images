@@ -3,6 +3,32 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "5398c260",
+      "filename": "pixiv_150239221_p0.jpg",
+      "path": "uploads/2026/10/ecb58856.jpg",
+      "size": 569139,
+      "width": 600,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "6714e79c410904fec039c0ba6a3f13aa020b16d23ea64913ec8f0b534e5d6aea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:27:45.554Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "☆けっきょくはっきょく☆",
+      "tags": [
+        "デッド・オア・アライブ",
+        "DOA",
+        "こころ(DOA)",
+        "演武",
+        "足袋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150239221_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150239221",
+      "sourceCreatedAt": "2026-09-28T23:33:03.000Z"
+    },
+    {
       "id": "c3cf481a",
       "filename": "pixiv_150295426_p0.jpg",
       "path": "uploads/2026/10/2131306c.jpg",
