@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "69f05d2f",
+      "filename": "pixiv_150248401_p0.jpg",
+      "path": "uploads/2026/10/3547961e.jpg",
+      "size": 1556777,
+      "width": 1051,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dc5176720e23609f99716ceccb08bae8619f63cac96ad427f32f437313b2ecd6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:38:06.086Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "傷つけられても",
+      "tags": [
+        "創作",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150248401_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150248401",
+      "sourceCreatedAt": "2026-09-29T08:07:19.000Z"
+    },
+    {
       "id": "993c8e9d",
       "filename": "pixiv_150220636_p0.jpg",
       "path": "uploads/2026/09/166c9ef8.jpg",
