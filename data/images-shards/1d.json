@@ -3,6 +3,37 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "7ed7b09b",
+      "filename": "pixiv_150274747_p0.jpg",
+      "path": "uploads/2026/10/c0cc93fe.jpg",
+      "size": 455454,
+      "width": 1200,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "40a1b3ce43d936e0df118df87ece33d783df9121c84c8722d802acc130a0fc98",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:41:22.567Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Shoot for Tomorrow",
+      "tags": [
+        "VOCALOID",
+        "UTAU",
+        "重音テト",
+        "teto",
+        "KasaneTeto",
+        "テト",
+        "初音ミク",
+        "HatsuneMiku",
+        "ミク",
+        "Miku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150274747_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150274747",
+      "sourceCreatedAt": "2026-09-29T23:02:32.000Z"
+    },
+    {
       "id": "5ee2628e",
       "filename": "pixiv_150231741_p0.jpg",
       "path": "uploads/2026/10/879f1e69.jpg",
