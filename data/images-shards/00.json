@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "0f64ed1c",
+      "filename": "pixiv_150280598_p0.jpg",
+      "path": "uploads/2026/10/e87595a0.jpg",
+      "size": 1214383,
+      "width": 1200,
+      "height": 847,
+      "mimeType": "image/jpeg",
+      "hash": "76bfefad9af142783d554b6eb5a15eca393568605c9d3b62bf8289156c7cc96e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T21:04:09.546Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "黒絵ちゃん",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子",
+        "乙女怪獣キャラメリゼ",
+        "赤石黒絵",
+        "怪獣"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150280598_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150280598",
+      "sourceCreatedAt": "2026-09-30T04:40:02.000Z"
+    },
+    {
       "id": "feb6fdb7",
       "filename": "pixiv_150267307_p0.jpg",
       "path": "uploads/2026/10/da52c527.jpg",
