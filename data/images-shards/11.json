@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "5bc1a2b4",
+      "filename": "pixiv_150265597_p0.jpg",
+      "path": "uploads/2026/10/5006f294.jpg",
+      "size": 1457617,
+      "width": 1184,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "80e522655555a6697177e86e1bf19756c2f3c5b54d8f8ac68261c040f98c8a57",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:44:04.924Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "M&G LOG#02(ネイリストアーマラーまとめ)",
+      "tags": [
+        "マンダロリアン",
+        "マンダロリアン・アンド・グローグー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150265597_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150265597",
+      "sourceCreatedAt": "2026-09-29T15:07:37.000Z"
+    },
+    {
       "id": "d1b19060",
       "filename": "pixiv_150247425_p0.jpg",
       "path": "uploads/2026/10/38ab145c.jpg",
