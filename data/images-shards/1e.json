@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "7fbd2418",
+      "filename": "pixiv_150251164_p0.jpg",
+      "path": "uploads/2026/10/4ebf3918.jpg",
+      "size": 478295,
+      "width": 1161,
+      "height": 1136,
+      "mimeType": "image/jpeg",
+      "hash": "f1e4f683202fb19072b2d0e5bce1983476a9b78e9190ee0bbb29c413ab884a14",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T21:03:59.852Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "最近描いたやつまとめ",
+      "tags": [
+        "東方",
+        "東方Project",
+        "あやれいむ",
+        "霊夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150251164_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150251164",
+      "sourceCreatedAt": "2026-09-29T09:40:07.000Z"
+    },
+    {
       "id": "9e04d93b",
       "filename": "pixiv_150287551_p0.jpg",
       "path": "uploads/2026/10/7ae3d05b.jpg",
