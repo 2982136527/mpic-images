@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "78f7bf8c",
+      "filename": "pixiv_150300519_p0.jpg",
+      "path": "uploads/2026/10/8332a5c6.jpg",
+      "size": 732185,
+      "width": 799,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b7fbcaef0a3dea1526a0400927a9766856cdad336b682812f361d6b39849dd0c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:25:15.123Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ステラソラ1周年 非公式投票",
+      "tags": [
+        "StellaSora",
+        "ステラソラ",
+        "女魔王(ステラソラ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150300519_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150300519",
+      "sourceCreatedAt": "2026-09-30T14:27:00.000Z"
+    },
+    {
       "id": "583cca8b",
       "filename": "pixiv_150089887_p0.jpg",
       "path": "uploads/2026/10/9bcf0231.jpg",
