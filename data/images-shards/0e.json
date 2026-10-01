@@ -3,6 +3,32 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "14b11b9d",
+      "filename": "pixiv_150233040_p0.jpg",
+      "path": "uploads/2026/10/5efde1ac.jpg",
+      "size": 733085,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c3184ba90805a5ae61199220b5989e1a6cd118f48d8462d10f3ef43a6c3ed974",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:32:20.669Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ケイ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "ケイ(ブルーアーカイブ)",
+        "天童ケイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150233040_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150233040",
+      "sourceCreatedAt": "2026-09-28T16:50:46.000Z"
+    },
+    {
       "id": "31bc86cc",
       "filename": "pixiv_150279602_p0.jpg",
       "path": "uploads/2026/10/589be973.jpg",
