@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "ddf8b3d2",
+      "filename": "pixiv_150242913_p0.jpg",
+      "path": "uploads/2026/10/df3c45ae.jpg",
+      "size": 1152053,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "341b008370a4581ff669b1a1a6e4154a3b70de6e31674502694b49f0349daa29",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:23:29.906Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "『LOST AND ROLL/ 魂音泉』",
+      "tags": [
+        "魂音泉",
+        "東方Project",
+        "東方",
+        "チルノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150242913_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150242913",
+      "sourceCreatedAt": "2026-09-29T03:20:49.000Z"
+    },
+    {
       "id": "3a63fe04",
       "filename": "pixiv_150263241_p0.jpg",
       "path": "uploads/2026/10/3905be3c.jpg",
