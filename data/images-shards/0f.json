@@ -3,6 +3,35 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "583cca8b",
+      "filename": "pixiv_150089887_p0.jpg",
+      "path": "uploads/2026/10/9bcf0231.jpg",
+      "size": 1109549,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "35d2a90803055fca5a343da528d831ca827c34ea3b89b58458a565a931b43034",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:45:55.372Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Bug=Love=Bug－日本語版",
+      "tags": [
+        "百合",
+        "超かぐや姫!",
+        "月見ヤチヨ",
+        "酒寄彩葉",
+        "ヤチいろ",
+        "かぐや(超かぐや姫!)",
+        "かぐいろ",
+        "かぐいろヤチ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150089887_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150089887",
+      "sourceCreatedAt": "2026-09-25T09:12:43.000Z"
+    },
+    {
       "id": "b025f57f",
       "filename": "pixiv_150281567_p0.jpg",
       "path": "uploads/2026/10/2afea3c6.jpg",
