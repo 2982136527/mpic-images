@@ -3,6 +3,32 @@
   "shardId": "07",
   "images": [
     {
+      "id": "a7d3ae20",
+      "filename": "pixiv_150280389_p0.jpg",
+      "path": "uploads/2026/10/8c1ec295.jpg",
+      "size": 1614661,
+      "width": 671,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "92eb20b00f5c498a2c3ff818be97796b86c4fd28fa4c4f6988bfdb7922f7d8b6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:25:22.044Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "人の世の温もり 🌕",
+      "tags": [
+        "WutheringWaves",
+        "鳴潮",
+        "Hsin",
+        "心",
+        "心(鳴潮)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150280389_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150280389",
+      "sourceCreatedAt": "2026-09-30T04:28:29.000Z"
+    },
+    {
       "id": "57657a23",
       "filename": "pixiv_150229502_p0.jpg",
       "path": "uploads/2026/09/533cf211.jpg",
