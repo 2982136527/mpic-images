@@ -3,6 +3,37 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "d31e576b",
+      "filename": "pixiv_150270225_p0.jpg",
+      "path": "uploads/2026/10/78f4cec9.jpg",
+      "size": 877741,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b4e76ae1b2a234eb379d1982b72a9c5cd5ba4948344e66b99d9e15aab68ad8c5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T21:02:14.762Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "イラスト",
+      "tags": [
+        "イラスト",
+        "Limbus_Company",
+        "LimbusCompany",
+        "女の子",
+        "ProjectMoon",
+        "LobotomyCorporation",
+        "カルメン",
+        "Lobotomy_Corporation",
+        "リンバス",
+        "ロボトミーコーポレーション"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150270225_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150270225",
+      "sourceCreatedAt": "2026-09-29T17:47:17.000Z"
+    },
+    {
       "id": "5398c260",
       "filename": "pixiv_150239221_p0.jpg",
       "path": "uploads/2026/10/ecb58856.jpg",
