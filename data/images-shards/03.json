@@ -3,6 +3,28 @@
   "shardId": "03",
   "images": [
     {
+      "id": "d0d5ce40",
+      "filename": "pixiv_150269469_p0.jpg",
+      "path": "uploads/2026/10/e2f3905c.jpg",
+      "size": 736391,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c4bac72b51dc25a4c1f4b7f626b911dcd366956140205d22ad0904ef1d2bc538",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T21:05:07.606Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "「これどうなってるんですか？」",
+      "tags": [
+        "重音テト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150269469_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150269469",
+      "sourceCreatedAt": "2026-09-29T17:07:13.000Z"
+    },
+    {
       "id": "6ff04c33",
       "filename": "pixiv_150257713_p0.jpg",
       "path": "uploads/2026/10/8f777609.jpg",
