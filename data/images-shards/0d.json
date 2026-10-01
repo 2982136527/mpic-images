@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "c3cf481a",
+      "filename": "pixiv_150295426_p0.jpg",
+      "path": "uploads/2026/10/2131306c.jpg",
+      "size": 1188273,
+      "width": 733,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "34cde4afcd4f3964d07e3b8397402154d2edb9f15f992612ff4f1aaa967b1bfa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:25:52.437Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "2026/9/30",
+      "tags": [
+        "zzzero",
+        "绝区零"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150295426_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150295426",
+      "sourceCreatedAt": "2026-09-30T12:43:39.000Z"
+    },
+    {
       "id": "6c74e275",
       "filename": "pixiv_150257801_p0.jpg",
       "path": "uploads/2026/10/6ff419a5.jpg",
