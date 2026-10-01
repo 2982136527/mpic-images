@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "129f53ad",
+      "filename": "pixiv_150282953_p0.jpg",
+      "path": "uploads/2026/10/ce39861f.jpg",
+      "size": 915881,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "605c8389b2b0a7ca3cdca65b2211d077bcb0d8cf9e6674e6a5a39fd20e283327",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:45:11.278Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "⇦Gunko",
+      "tags": [
+        "Onepiecefanart",
+        "Onepiece",
+        "Gunko"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150282953_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150282953",
+      "sourceCreatedAt": "2026-09-30T06:48:52.000Z"
+    },
+    {
       "id": "0f0e750f",
       "filename": "pixiv_150244836_p0.jpg",
       "path": "uploads/2026/10/4ed3a1f0.jpg",
