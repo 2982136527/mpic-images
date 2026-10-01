@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "bc3b91b5",
+      "filename": "pixiv_150289860_p0.jpg",
+      "path": "uploads/2026/10/679f5df1.jpg",
+      "size": 1086251,
+      "width": 1200,
+      "height": 1125,
+      "mimeType": "image/jpeg",
+      "hash": "be10e0921bb2d270ba6f44a47eeecf9caee5b4339a41be2b42f2d29829e03c49",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T21:01:17.938Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "9月の絵（2026）",
+      "tags": [
+        "マリオ",
+        "ルイージ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150289860_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150289860",
+      "sourceCreatedAt": "2026-09-30T10:41:41.000Z"
+    },
+    {
       "id": "fa62dcb2",
       "filename": "pixiv_150264373_p0.jpg",
       "path": "uploads/2026/10/506649a7.jpg",
