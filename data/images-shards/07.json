@@ -3,6 +3,28 @@
   "shardId": "07",
   "images": [
     {
+      "id": "efb9e33c",
+      "filename": "pixiv_150268903_p0.jpg",
+      "path": "uploads/2026/10/dd995eb3.jpg",
+      "size": 902463,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "d3c1eefc95815f03cfd5767aca32c76de0c3b0d66f777f88c5f0d17414c05d6f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:28:10.885Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "prskフリーアイコンまとめ２",
+      "tags": [
+        "プロセカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150268903_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150268903",
+      "sourceCreatedAt": "2026-09-29T16:46:17.000Z"
+    },
+    {
       "id": "a77af874",
       "filename": "pixiv_150250987_p0.jpg",
       "path": "uploads/2026/10/8fac81f8.jpg",
