@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "bc64597f",
+      "filename": "pixiv_150259744_p0.jpg",
+      "path": "uploads/2026/10/db7d5632.jpg",
+      "size": 849917,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7ca3356897c801d1b4b86946a6677fbd36a461f763b84d0768c104c437408aa8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:25:59.389Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【秋例13新刊サンプル】ボーダーライン",
+      "tags": [
+        "東方Project",
+        "博麗霊夢",
+        "霧雨魔理沙",
+        "レイマリ",
+        "レイマリアリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150259744_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150259744",
+      "sourceCreatedAt": "2026-09-29T13:03:37.000Z"
+    },
+    {
       "id": "9ba25843",
       "filename": "pixiv_150240940_p0.jpg",
       "path": "uploads/2026/10/6a0980aa.jpg",
