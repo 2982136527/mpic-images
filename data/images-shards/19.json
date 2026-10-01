@@ -3,6 +3,28 @@
   "shardId": "19",
   "images": [
     {
+      "id": "7631ae1a",
+      "filename": "pixiv_150288806_p0.jpg",
+      "path": "uploads/2026/10/282b9276.jpg",
+      "size": 2042686,
+      "width": 1100,
+      "height": 1100,
+      "mimeType": "image/jpeg",
+      "hash": "4df2ed8227b9000afe3797ce6ec64d35db455c1e7b9754e4d2c77ca121c305ed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:44:50.316Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "お国擬人化log 10",
+      "tags": [
+        "国擬人化"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150288806_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150288806",
+      "sourceCreatedAt": "2026-09-30T10:13:15.000Z"
+    },
+    {
       "id": "8db30d6e",
       "filename": "pixiv_150296660_p0.jpg",
       "path": "uploads/2026/10/d18db003.jpg",
