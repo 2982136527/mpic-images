@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "990608b5",
+      "filename": "pixiv_150285094_p0.jpg",
+      "path": "uploads/2026/10/1cb3e75c.jpg",
+      "size": 1498142,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b2736f2f513ae524668f4a9891824b2926116a8a1897c18199755e6e2eec4216",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:26:54.180Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "金木星",
+      "tags": [
+        "青",
+        "金木犀",
+        "金木星"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150285094_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150285094",
+      "sourceCreatedAt": "2026-09-30T08:26:27.000Z"
+    },
+    {
       "id": "73c3cf79",
       "filename": "pixiv_150264852_p0.jpg",
       "path": "uploads/2026/10/2596199d.jpg",
