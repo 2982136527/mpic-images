@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "69f4ca94",
+      "filename": "pixiv_150252369_p0.jpg",
+      "path": "uploads/2026/10/23e8d3a6.jpg",
+      "size": 1500000,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "07cf17b0b199c4bd7b37a5a42b744ffe7b846b6ab42952a4fb332e83993a8de9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T20:58:41.744Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "『十の石心』パール",
+      "tags": [
+        "崩壊スターレイル",
+        "HonkaiStarRail",
+        "パール",
+        "パール(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150252369_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150252369",
+      "sourceCreatedAt": "2026-09-29T10:14:48.000Z"
+    },
+    {
       "id": "b26baa79",
       "filename": "pixiv_150284559_p0.jpg",
       "path": "uploads/2026/10/72bb0dc5.jpg",
