@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "240f5cad",
+      "filename": "pixiv_150280791_p0.jpg",
+      "path": "uploads/2026/10/bbcd4071.jpg",
+      "size": 1849208,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c685f6cab33bedba83d74839658f0a20ffca3c27f93f206f412f0db1c15faa7a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:44:18.429Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アニメのお知らせ",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "乙女怪獣キャラメリゼ",
+        "怪獣",
+        "赤石黒絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150280791_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150280791",
+      "sourceCreatedAt": "2026-09-30T04:51:46.000Z"
+    },
+    {
       "id": "cf5ae05f",
       "filename": "pixiv_150287884_p0.jpg",
       "path": "uploads/2026/10/228f7f6e.jpg",
