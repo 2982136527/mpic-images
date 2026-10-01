@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "626ff386",
+      "filename": "pixiv_150099084_p0.jpg",
+      "path": "uploads/2026/10/38996954.jpg",
+      "size": 678852,
+      "width": 978,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7a17cb2ea9cea48f2627975bb265a7acb09c7c24dd59cc590b029461b77dc69c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:46:29.102Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "花梨",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150099084_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150099084",
+      "sourceCreatedAt": "2026-09-25T12:48:43.000Z"
+    },
+    {
       "id": "1194d972",
       "filename": "pixiv_150270188_p0.jpg",
       "path": "uploads/2026/10/2add7a9a.jpg",
