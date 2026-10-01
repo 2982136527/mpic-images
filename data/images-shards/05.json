@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "8aa9fb04",
+      "filename": "pixiv_150256070_p0.jpg",
+      "path": "uploads/2026/10/2bbfb066.jpg",
+      "size": 693416,
+      "width": 1090,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b9e71fafccb2bf989e1bf8ffe347d464c0b36ee2d5d8faf1d50accccc2fdd26f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:43:55.797Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "あんこちゃん（5さい）",
+      "tags": [
+        "オリジナル",
+        "オリキャラ",
+        "あんこちゃん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150256070_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150256070",
+      "sourceCreatedAt": "2026-09-29T11:47:04.000Z"
+    },
+    {
       "id": "15dd5605",
       "filename": "pixiv_150295005_p0.jpg",
       "path": "uploads/2026/10/51c72176.jpg",
