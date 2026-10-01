@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "75b5ddb5",
+      "filename": "pixiv_150287066_p0.jpg",
+      "path": "uploads/2026/10/7e6665cd.jpg",
+      "size": 466289,
+      "width": 650,
+      "height": 904,
+      "mimeType": "image/jpeg",
+      "hash": "3a580c1d0653ce1990f601a2d0113d02332a4dd200bfe00f24cb70e17fadd6da",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:28:37.054Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "あの茜は思い出のままで",
+      "tags": [
+        "背景",
+        "風景",
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150287066_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150287066",
+      "sourceCreatedAt": "2026-09-30T09:25:37.000Z"
+    },
+    {
       "id": "bc64597f",
       "filename": "pixiv_150259744_p0.jpg",
       "path": "uploads/2026/10/db7d5632.jpg",
