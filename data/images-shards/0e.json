@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "31bc86cc",
+      "filename": "pixiv_150279602_p0.jpg",
+      "path": "uploads/2026/10/589be973.jpg",
+      "size": 957645,
+      "width": 826,
+      "height": 1169,
+      "mimeType": "image/jpeg",
+      "hash": "9fb0aa1933a79d5c0eaa174954f3feed6b6415c3651622a44650ef83ef044673",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:24:47.759Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "フランドール・スカーレット",
+        "東方",
+        "東方Project",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150279602_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150279602",
+      "sourceCreatedAt": "2026-09-30T03:43:40.000Z"
+    },
+    {
       "id": "bb6360d3",
       "filename": "pixiv_150287104_p0.jpg",
       "path": "uploads/2026/10/67209291.jpg",
