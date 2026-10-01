@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "795e4f26",
+      "filename": "pixiv_150270923_p0.jpg",
+      "path": "uploads/2026/10/53b029a9.jpg",
+      "size": 589496,
+      "width": 731,
+      "height": 704,
+      "mimeType": "image/jpeg",
+      "hash": "523b20db322ab1af4463c9ba1a66453ed98274ed4a5e6b6c99349b759975af5e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:43:36.354Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アリョヴォジャ",
+      "tags": [
+        "アリョヴォジャ",
+        "原神",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150270923_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150270923",
+      "sourceCreatedAt": "2026-09-29T18:34:08.000Z"
+    },
+    {
       "id": "1eb6fcbd",
       "filename": "pixiv_150228881_p0.jpg",
       "path": "uploads/2026/10/0bbb8f0e.jpg",
