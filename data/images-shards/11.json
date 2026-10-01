@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "acb21403",
+      "filename": "pixiv_150297801_p0.jpg",
+      "path": "uploads/2026/10/cd708ecd.jpg",
+      "size": 1336942,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "32db8eade10751a21e55b09d30a64a947b6c20dc7122fe0dec3bb94b1004c2e5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T21:03:33.168Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "安土&ライオン",
+      "tags": [
+        "アズールレーン",
+        "安土(アズールレーン)",
+        "ライオン(アズールレーン)",
+        "仕事絵",
+        "アズールレーン九周年記念",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150297801_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150297801",
+      "sourceCreatedAt": "2026-09-30T13:29:34.000Z"
+    },
+    {
       "id": "43720ffe",
       "filename": "pixiv_150285498_p0.jpg",
       "path": "uploads/2026/10/50627f53.jpg",
