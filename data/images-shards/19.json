@@ -3,6 +3,36 @@
   "shardId": "19",
   "images": [
     {
+      "id": "8db30d6e",
+      "filename": "pixiv_150296660_p0.jpg",
+      "path": "uploads/2026/10/d18db003.jpg",
+      "size": 1309149,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "9c5a3175545bc29ff075fa6841174c1d383e244987bb7ec50dcc20def272b0ea",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:41:15.811Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "イメージ",
+      "tags": [
+        "ポケモン",
+        "スバル(イマッゾ)",
+        "スリープ(ポケモン)",
+        "ジュペッタ",
+        "ルギア",
+        "ワウ(イマッゾ)",
+        "乙女",
+        "ポニーテール",
+        "ユキハミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150296660_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150296660",
+      "sourceCreatedAt": "2026-09-30T13:05:21.000Z"
+    },
+    {
       "id": "b847d334",
       "filename": "pixiv_150294756_p0.jpg",
       "path": "uploads/2026/10/d4ef9198.jpg",
