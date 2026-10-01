@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "73c3cf79",
+      "filename": "pixiv_150264852_p0.jpg",
+      "path": "uploads/2026/10/2596199d.jpg",
+      "size": 548739,
+      "width": 1200,
+      "height": 767,
+      "mimeType": "image/jpeg",
+      "hash": "75b85233e7a8ce22c52fcbcac1e3869b2c10dbeb48031779ab333f8b464ca155",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:42:11.186Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "雲に梯",
+      "tags": [
+        "オリジナル",
+        "風景",
+        "幻想",
+        "女の子",
+        "背景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150264852_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150264852",
+      "sourceCreatedAt": "2026-09-29T15:00:14.000Z"
+    },
+    {
       "id": "5558b58a",
       "filename": "pixiv_150282266_p0.jpg",
       "path": "uploads/2026/10/fe0da696.jpg",
