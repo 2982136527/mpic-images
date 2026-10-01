@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "0e8f2b96",
+      "filename": "pixiv_150228978_p0.jpg",
+      "path": "uploads/2026/10/b262daf2.jpg",
+      "size": 1806600,
+      "width": 1200,
+      "height": 827,
+      "mimeType": "image/jpeg",
+      "hash": "178175d7ec5dbfff244ddff24a74f558ef34fa3a4b0ec71da970715e86b6e0b1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T05:39:15.456Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "和服化まとめ",
+      "tags": [
+        "プロセカ",
+        "気ままに和服化",
+        "プロジェクトセカイ",
+        "和服シェリル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150228978_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150228978",
+      "sourceCreatedAt": "2026-09-28T22:34:42.000Z"
+    },
+    {
       "id": "ad5c9f92",
       "filename": "pixiv_150213554_p0.jpg",
       "path": "uploads/2026/09/ae1eaf59.jpg",
