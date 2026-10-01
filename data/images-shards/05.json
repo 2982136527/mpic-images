@@ -3,6 +3,28 @@
   "shardId": "05",
   "images": [
     {
+      "id": "058ff0ac",
+      "filename": "pixiv_150262685_p0.jpg",
+      "path": "uploads/2026/10/a41baa28.jpg",
+      "size": 984528,
+      "width": 911,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "522f72e41198f7221b8e0201a808f05500cf2c68f3b0b38956da8d829f27fbbb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-01T15:29:28.549Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "きみ死ぬ",
+      "tags": [
+        "きみが死ぬまで恋をしたい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150262685_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150262685",
+      "sourceCreatedAt": "2026-09-29T14:10:28.000Z"
+    },
+    {
       "id": "b5100eca",
       "filename": "pixiv_150249317_p0.jpg",
       "path": "uploads/2026/10/efd8c531.jpg",
