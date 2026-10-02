@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "6dea6bca",
+      "filename": "pixiv_150302220_p0.jpg",
+      "path": "uploads/2026/10/7588f290.jpg",
+      "size": 1611660,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1db6e9e2c1283880faf19ee90e932b0782123529618010ec11a7e2c5813bbdc5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:44:15.968Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🍁🍂",
+      "tags": [
+        "仕事絵",
+        "Skeb",
+        "commission",
+        "ケモミミ",
+        "紅葉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150302220_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150302220",
+      "sourceCreatedAt": "2026-09-30T15:00:22.000Z"
+    },
+    {
       "id": "48843373",
       "filename": "pixiv_150271472_p0.jpg",
       "path": "uploads/2026/10/1ff0843b.jpg",
