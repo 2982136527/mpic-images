@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "40352002",
+      "filename": "pixiv_150326087_p0.jpg",
+      "path": "uploads/2026/10/ef102fc8.jpg",
+      "size": 1666950,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0a40806022fe4b13053a9f891f9ff5d70f7063fc7814e4117f479e68767f68c1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:43:48.016Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🦊❤️",
+      "tags": [
+        "WutheringWaves",
+        "鳴潮",
+        "心(鳴潮)",
+        "鸣潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150326087_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150326087",
+      "sourceCreatedAt": "2026-10-01T09:47:28.000Z"
+    },
+    {
       "id": "79d82b10",
       "filename": "pixiv_150316696_p0.jpg",
       "path": "uploads/2026/10/5b84b48e.jpg",
