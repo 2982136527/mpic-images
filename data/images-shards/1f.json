@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "58b9077b",
+      "filename": "pixiv_150322632_p0.jpg",
+      "path": "uploads/2026/10/0898b267.jpg",
+      "size": 619633,
+      "width": 800,
+      "height": 1067,
+      "mimeType": "image/jpeg",
+      "hash": "2117bc2981e8849530c7da40bc32577b750a5635fe5d76ee2943c9deb2fba071",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:44:18.214Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【お仕事】 LIVEDREAM",
+      "tags": [
+        "女の子",
+        "仕事絵",
+        "Vtuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150322632_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150322632",
+      "sourceCreatedAt": "2026-10-01T07:56:28.000Z"
+    },
+    {
       "id": "5ec0b880",
       "filename": "pixiv_150291833_p0.jpg",
       "path": "uploads/2026/10/c9fe26ba.jpg",
