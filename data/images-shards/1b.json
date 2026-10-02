@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "95321446",
+      "filename": "pixiv_150302444_p0.jpg",
+      "path": "uploads/2026/10/6eabd71b.jpg",
+      "size": 773874,
+      "width": 768,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2cd3c6c328d71f827d0c6c384bd52cf6429a61a784933b5d8143d15beacfd460",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:45:35.402Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "9月に描いた落書きまとめ(2026)",
+      "tags": [
+        "東方Project",
+        "ポケットモンスター",
+        "スプラトゥーン",
+        "2026落書きまとめ",
+        "落書きまとめ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150302444_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150302444",
+      "sourceCreatedAt": "2026-09-30T15:01:03.000Z"
+    },
+    {
       "id": "56b5feaf",
       "filename": "pixiv_150307025_p0.jpg",
       "path": "uploads/2026/10/47177eaa.jpg",
