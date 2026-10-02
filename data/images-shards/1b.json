@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "4d5785e1",
+      "filename": "pixiv_150276052_p0.jpg",
+      "path": "uploads/2026/10/d36cfb74.jpg",
+      "size": 1451333,
+      "width": 899,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "36078de679d6c5090e2ae23f1349e892a26cc3f5728e539c8f7539d8a7011d1b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:26:12.045Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "風ちゃん",
+      "tags": [
+        "魔法騎士レイアース",
+        "鳳凰寺風",
+        "手袋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150276052_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150276052",
+      "sourceCreatedAt": "2026-09-30T00:26:43.000Z"
+    },
+    {
       "id": "19e7fa12",
       "filename": "pixiv_150322680_p0.jpg",
       "path": "uploads/2026/10/1ba53b1e.jpg",
