@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "ab14c624",
+      "filename": "pixiv_150297027_p0.jpg",
+      "path": "uploads/2026/10/0788edf0.jpg",
+      "size": 759475,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e2f3b417296a42c4ce6c3ba6fd1e7f4c7baadb057c63bf4d507e9bb3467beb56",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:28:57.833Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "さばちゃん",
+      "tags": [
+        "バーチャルYouTuber",
+        "VTuber",
+        "SamekoSaba"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150297027_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150297027",
+      "sourceCreatedAt": "2026-09-30T13:13:59.000Z"
+    },
+    {
       "id": "d2cde08e",
       "filename": "pixiv_150308277_p0.jpg",
       "path": "uploads/2026/10/f3262edd.jpg",
