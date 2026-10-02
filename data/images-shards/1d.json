@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "b83ec1e5",
+      "filename": "pixiv_150319598_p0.jpg",
+      "path": "uploads/2026/10/af450904.jpg",
+      "size": 1169670,
+      "width": 1200,
+      "height": 948,
+      "mimeType": "image/jpeg",
+      "hash": "e9f5cd54e45a79c9725108ccb7329b38ecdd958b46895c2bc2aae12c9aff4ab5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:46:18.471Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Jade Sheep Girl",
+      "tags": [
+        "角っ娘",
+        "角娘",
+        "羊娘",
+        "Skeb"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150319598_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150319598",
+      "sourceCreatedAt": "2026-10-01T05:33:18.000Z"
+    },
+    {
       "id": "626ff386",
       "filename": "pixiv_150099084_p0.jpg",
       "path": "uploads/2026/10/38996954.jpg",
