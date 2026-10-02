@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "18c3a4b9",
+      "filename": "pixiv_150312286_p0.jpg",
+      "path": "uploads/2026/10/4faa43ea.jpg",
+      "size": 402073,
+      "width": 850,
+      "height": 1077,
+      "mimeType": "image/jpeg",
+      "hash": "65733c6ef9b3f96057d5579692d6702cc9ecaf6eb7015b76b478cac6f77200d8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:44:34.639Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "イリヤちゃん",
+      "tags": [
+        "イリヤスフィール(プリズマ☆イリヤ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150312286_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150312286",
+      "sourceCreatedAt": "2026-09-30T22:40:00.000Z"
+    },
+    {
       "id": "504291c3",
       "filename": "pixiv_150264988_p0.jpg",
       "path": "uploads/2026/10/3c22a2eb.jpg",
