@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "91992c5a",
+      "filename": "pixiv_150321328_p0.jpg",
+      "path": "uploads/2026/10/f79aeccf.jpg",
+      "size": 1039689,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2a9e62ce2dfcb47322a59e7e9d19ded9399a172f54300f211c788c2798520ee4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:25:54.043Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ZAまとめ⑤",
+      "tags": [
+        "ガイセイ(pkmn)",
+        "ガイ(トレーナー)",
+        "セイカ(トレーナー)",
+        "pkmnノマカプ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150321328_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150321328",
+      "sourceCreatedAt": "2026-10-01T06:59:39.000Z"
+    },
+    {
       "id": "0f64ed1c",
       "filename": "pixiv_150280598_p0.jpg",
       "path": "uploads/2026/10/e87595a0.jpg",
