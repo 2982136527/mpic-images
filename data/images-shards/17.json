@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "b4d8ee31",
+      "filename": "pixiv_150306862_p0.jpg",
+      "path": "uploads/2026/10/add1b8de.jpg",
+      "size": 755785,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f967991256f38eef427047a824a2d0c5a0f1d56102ca848a0290c1b4b3e85cdb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:32:21.614Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "간호사",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "キラ(LCB)",
+        "키라"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150306862_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150306862",
+      "sourceCreatedAt": "2026-09-30T16:59:33.000Z"
+    },
+    {
       "id": "9a930dac",
       "filename": "pixiv_150274596_p0.jpg",
       "path": "uploads/2026/10/0479d6da.jpg",
