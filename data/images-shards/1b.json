@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "19e7fa12",
+      "filename": "pixiv_150322680_p0.jpg",
+      "path": "uploads/2026/10/1ba53b1e.jpg",
+      "size": 831796,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bb6a7e04910a4a443dad9d55f314b1fe3ce030fddaa4c1a644fcdff3ade3ad49",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:25:19.110Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ひと紡ぎロイヤルサーカス",
+      "tags": [
+        "プロセカ",
+        "鳳えむ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150322680_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150322680",
+      "sourceCreatedAt": "2026-10-01T07:58:21.000Z"
+    },
+    {
       "id": "13806e7a",
       "filename": "pixiv_150253032_p0.jpg",
       "path": "uploads/2026/10/aab362ce.jpg",
