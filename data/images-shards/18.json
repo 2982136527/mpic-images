@@ -3,6 +3,36 @@
   "shardId": "18",
   "images": [
     {
+      "id": "ab85f557",
+      "filename": "pixiv_150303085_p0.jpg",
+      "path": "uploads/2026/10/3d556b87.jpg",
+      "size": 1095885,
+      "width": 759,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1d74ef32eaa12767484fd468ee313cc13514b78e61832016e047d020a626dcad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:48:39.879Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "紅楼夢に出す本の表紙絵🥞",
+      "tags": [
+        "東方",
+        "東方Project",
+        "フランドール・スカーレット",
+        "レミリア・スカーレット",
+        "パンケーキ",
+        "レミフラ",
+        "東方紅楼夢",
+        "紅楼夢22",
+        "スカーレット姉妹"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150303085_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150303085",
+      "sourceCreatedAt": "2026-09-30T15:07:53.000Z"
+    },
+    {
       "id": "c14c8383",
       "filename": "pixiv_150287430_p0.jpg",
       "path": "uploads/2026/10/ce8538a9.jpg",
