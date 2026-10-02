@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "36ab35e7",
+      "filename": "pixiv_150302130_p0.jpg",
+      "path": "uploads/2026/10/d8420cad.jpg",
+      "size": 792238,
+      "width": 1200,
+      "height": 640,
+      "mimeType": "image/jpeg",
+      "hash": "0f54d0ef02c9138200d1354612596dae316c543d6131ca6793d3ac0c2eb9ac74",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:42:45.676Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "镜世界-禁区-79_6-触",
+      "tags": [
+        "風景",
+        "背景",
+        "场景",
+        "少女",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150302130_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150302130",
+      "sourceCreatedAt": "2026-09-30T15:00:09.000Z"
+    },
+    {
       "id": "dc80df43",
       "filename": "pixiv_150291647_p0.jpg",
       "path": "uploads/2026/10/4582ae55.jpg",
