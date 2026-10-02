@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "fcee7bc2",
+      "filename": "pixiv_150315294_p0.jpg",
+      "path": "uploads/2026/10/0122d1a6.jpg",
+      "size": 607216,
+      "width": 521,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "804319f430f641abf226451fead81ef273df48467a6a22a61265e8b8f15eb52b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:44:42.075Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アズールプロミリア",
+      "tags": [
+        "アズールプロミリア",
+        "足裏",
+        "足指",
+        "涂山小玉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150315294_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150315294",
+      "sourceCreatedAt": "2026-10-01T01:52:59.000Z"
+    },
+    {
       "id": "8b21d653",
       "filename": "pixiv_150302268_p0.jpg",
       "path": "uploads/2026/10/3c8d9797.jpg",
