@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "8281143b",
+      "filename": "pixiv_149268586_p0.jpg",
+      "path": "uploads/2026/10/94b7eb84.jpg",
+      "size": 1140409,
+      "width": 878,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "acd8e7aa1ec033220a16ee79cf817e44da1d290a65e9e40da96bb4153eb24be0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:46:21.379Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ヴォジャニーツァ",
+      "tags": [
+        "原神",
+        "ヴォジャニーツァ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149268586_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149268586",
+      "sourceCreatedAt": "2026-09-04T11:27:04.000Z"
+    },
+    {
       "id": "f68b1598",
       "filename": "pixiv_150291175_p0.jpg",
       "path": "uploads/2026/10/5a651145.jpg",
