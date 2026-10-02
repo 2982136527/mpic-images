@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "c14caf93",
+      "filename": "pixiv_150302840_p0.jpg",
+      "path": "uploads/2026/10/22f52abf.jpg",
+      "size": 705732,
+      "width": 606,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "21c923e0f49cd0edb68d7136f2b114578cc454513922d5242ded422d6c2eb40f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:28:10.691Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "小悪魔🐰",
+      "tags": [
+        "東方",
+        "小悪魔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150302840_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150302840",
+      "sourceCreatedAt": "2026-09-30T15:04:23.000Z"
+    },
+    {
       "id": "b9025f60",
       "filename": "pixiv_150273088_p0.jpg",
       "path": "uploads/2026/10/29c11c75.jpg",
