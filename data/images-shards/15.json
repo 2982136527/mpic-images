@@ -3,6 +3,33 @@
   "shardId": "15",
   "images": [
     {
+      "id": "a1f71533",
+      "filename": "pixiv_150296568_p0.jpg",
+      "path": "uploads/2026/10/0be19190.jpg",
+      "size": 726250,
+      "width": 965,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "18093af60cd835948460a0f2a45a662e86be210064c6744bd1f516954326469a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:32:28.810Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ROSSI",
+      "tags": [
+        "アークナイツ:エンドフィールド",
+        "明日方舟终末地",
+        "Arknights",
+        "endfield",
+        "ロッシ(エンドフィールド)",
+        "洛茜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150296568_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150296568",
+      "sourceCreatedAt": "2026-09-30T13:03:47.000Z"
+    },
+    {
       "id": "6e29c017",
       "filename": "pixiv_150264926_p0.jpg",
       "path": "uploads/2026/10/e0ff84ac.jpg",
