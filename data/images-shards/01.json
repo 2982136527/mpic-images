@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "75f41bdc",
+      "filename": "pixiv_150187752_p0.jpg",
+      "path": "uploads/2026/10/3c6451f4.jpg",
+      "size": 1286006,
+      "width": 1200,
+      "height": 673,
+      "mimeType": "image/jpeg",
+      "hash": "5f3579eb416be94dda96ba32e80a983a5a46e56f0b011d61e8c0ba6b00972519",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:45:48.073Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "エーヴァルト",
+      "tags": [
+        "AUORP",
+        "創作",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150187752_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150187752",
+      "sourceCreatedAt": "2026-09-27T19:46:15.000Z"
+    },
+    {
       "id": "ba7f87d1",
       "filename": "pixiv_150309940_p0.jpg",
       "path": "uploads/2026/10/ee96e307.jpg",
