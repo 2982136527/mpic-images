@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "c9a552bf",
+      "filename": "pixiv_150305981_p0.jpg",
+      "path": "uploads/2026/10/2ef313ea.jpg",
+      "size": 723069,
+      "width": 708,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "52a0af01da0739ce5bdbd8fdf90bfcef797317f16cbde08839b1b47f08b788df",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:47:53.944Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "マスターレイヴンvsシャオユウ",
+      "tags": [
+        "鉄拳",
+        "マスターレイヴン",
+        "シャオユウ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150305981_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150305981",
+      "sourceCreatedAt": "2026-09-30T16:24:44.000Z"
+    },
+    {
       "id": "b4d8ee31",
       "filename": "pixiv_150306862_p0.jpg",
       "path": "uploads/2026/10/add1b8de.jpg",
