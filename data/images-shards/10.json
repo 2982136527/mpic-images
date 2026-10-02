@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "5e8992a9",
+      "filename": "pixiv_150292820_p0.jpg",
+      "path": "uploads/2026/10/8978f5ba.jpg",
+      "size": 1312969,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e5ebf5dc6a0cd128dbebed24b6ce6afff2f5f74d884fe755448f70ccbcbabd47",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:29:53.971Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "DracoMalfoy",
+      "tags": [
+        "厚塗り",
+        "女の子",
+        "ドラコ・マルフォイ",
+        "ハリーポッター",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150292820_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150292820",
+      "sourceCreatedAt": "2026-09-30T11:50:03.000Z"
+    },
+    {
       "id": "625143d0",
       "filename": "pixiv_150310248_p0.jpg",
       "path": "uploads/2026/10/571cc924.jpg",
