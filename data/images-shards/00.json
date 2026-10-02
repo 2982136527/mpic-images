@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "8a73164f",
+      "filename": "pixiv_150321757_p0.jpg",
+      "path": "uploads/2026/10/9a5c93dc.jpg",
+      "size": 537249,
+      "width": 800,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "a07fc482764d75f85cb8b8708e0db50e8877d543d1ac85185c28f3ebd7ce2bd8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:48:17.050Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "黄金",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "レインドット",
+        "生の執政",
+        "魔女R",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150321757_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150321757",
+      "sourceCreatedAt": "2026-10-01T07:16:50.000Z"
+    },
+    {
       "id": "af26617d",
       "filename": "pixiv_150275041_p0.jpg",
       "path": "uploads/2026/10/e1418b25.jpg",
