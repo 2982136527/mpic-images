@@ -3,6 +3,35 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "a048bec0",
+      "filename": "pixiv_150310533_p0.jpg",
+      "path": "uploads/2026/10/1b4cbd77.jpg",
+      "size": 556105,
+      "width": 920,
+      "height": 894,
+      "mimeType": "image/jpeg",
+      "hash": "b317f2a3a8e2aa10e05c7f10b52928c67e00a96e6b073fe4ff4da2b0d27a9623",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:25:04.014Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "個人メモ：背屈可動時の足",
+      "tags": [
+        "漫画素材工房",
+        "描き方",
+        "人体",
+        "身体",
+        "美術解剖学",
+        "脚",
+        "足",
+        "かかと"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150310533_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150310533",
+      "sourceCreatedAt": "2026-09-30T21:00:16.000Z"
+    },
+    {
       "id": "b2afd290",
       "filename": "pixiv_150270727_p0.jpg",
       "path": "uploads/2026/10/04565aa6.jpg",
