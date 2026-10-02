@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "d04ed708",
+      "filename": "pixiv_150323111_p0.jpg",
+      "path": "uploads/2026/10/3d4133c1.jpg",
+      "size": 1082280,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f07dd07db9698bf8587b961b74493b0299291fb23e3c3a326d50c52b928714fd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:32:14.054Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "My Wife's Wife",
+      "tags": [
+        "原神",
+        "サンドローネ(原神)",
+        "コロンビーナ(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150323111_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150323111",
+      "sourceCreatedAt": "2026-10-01T08:14:11.000Z"
+    },
+    {
       "id": "27e8eeb0",
       "filename": "pixiv_150269204_p0.jpg",
       "path": "uploads/2026/10/3d33ea2b.jpg",
