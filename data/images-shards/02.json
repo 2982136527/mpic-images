@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "b5736497",
+      "filename": "pixiv_150136521_p0.jpg",
+      "path": "uploads/2026/10/bf418cb2.jpg",
+      "size": 803940,
+      "width": 1200,
+      "height": 618,
+      "mimeType": "image/jpeg",
+      "hash": "02af6d1799c69b94cf4a43798753ffcb1275f0c2abb6a2a626fc43c8153b4fb9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:32:50.816Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "天空",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "窓辺",
+        "VOCALOID500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150136521_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150136521",
+      "sourceCreatedAt": "2026-09-26T11:10:00.000Z"
+    },
+    {
       "id": "525712a5",
       "filename": "pixiv_150327246_p0.jpg",
       "path": "uploads/2026/10/b77527a5.jpg",
