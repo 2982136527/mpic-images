@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "83ed2728",
+      "filename": "pixiv_150292143_p0.jpg",
+      "path": "uploads/2026/10/2c23b42f.jpg",
+      "size": 923150,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5988dae225151bf55e316f7910f673fcd8750e7847e0e4602da1023a800d58f6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:47:57.916Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "分かり易いネル先輩",
+      "tags": [
+        "ブルーアーカイブ",
+        "漫画",
+        "ブルアカ",
+        "美甘ネル",
+        "飛鳥馬トキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150292143_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150292143",
+      "sourceCreatedAt": "2026-09-30T11:34:13.000Z"
+    },
+    {
       "id": "da647872",
       "filename": "pixiv_150269916_p0.jpg",
       "path": "uploads/2026/10/52b1880c.jpg",
