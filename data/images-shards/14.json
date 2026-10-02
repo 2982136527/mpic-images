@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "c1ff4eb0",
+      "filename": "pixiv_150301170_p0.jpg",
+      "path": "uploads/2026/10/34b38444.jpg",
+      "size": 694876,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6cf7fdaedafe3c1b7b945a811a7ef450849b86f52d53ae1952c6cb5d0f335f22",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:29:46.990Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "commission",
+      "tags": [
+        "女の子",
+        "ゴシック",
+        "チョーカー",
+        "ケモミミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150301170_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150301170",
+      "sourceCreatedAt": "2026-09-30T14:40:10.000Z"
+    },
+    {
       "id": "afcac38c",
       "filename": "pixiv_150264900_p0.jpg",
       "path": "uploads/2026/10/93853d58.jpg",
