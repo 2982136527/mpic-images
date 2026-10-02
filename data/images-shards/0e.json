@@ -3,6 +3,33 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "58fe5961",
+      "filename": "pixiv_150265508_p0.jpg",
+      "path": "uploads/2026/10/e973e335.jpg",
+      "size": 347577,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "77fe9b109832a1c17295fd8a1bf752d37f965268a58aa3408def14806a398888",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:43:27.534Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "クルミてゃん",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "クルミ(ブルーアーカイブ)",
+        "FOX小隊",
+        "高倉クルミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150265508_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150265508",
+      "sourceCreatedAt": "2026-09-29T15:05:42.000Z"
+    },
+    {
       "id": "0ad7a9a8",
       "filename": "pixiv_150291825_p0.jpg",
       "path": "uploads/2026/10/5e0b64c4.jpg",
