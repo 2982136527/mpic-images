@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "8459b871",
+      "filename": "pixiv_149268652_p0.jpg",
+      "path": "uploads/2026/10/9328d2e4.jpg",
+      "size": 802290,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "77fc604dba4ea90b99280ff1a4432aabe1cd9b541a137e18ab7486eeccf33c91",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:50:54.625Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "モナ",
+      "tags": [
+        "原神",
+        "モナ(原神)",
+        "アストローギスト・モナ・メギストス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149268652_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149268652",
+      "sourceCreatedAt": "2026-09-04T11:29:05.000Z"
+    },
+    {
       "id": "36ab35e7",
       "filename": "pixiv_150302130_p0.jpg",
       "path": "uploads/2026/10/d8420cad.jpg",
