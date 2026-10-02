@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "7788ba3d",
+      "filename": "pixiv_150321817_p0.jpg",
+      "path": "uploads/2026/10/a644e169.jpg",
+      "size": 739723,
+      "width": 1111,
+      "height": 818,
+      "mimeType": "image/jpeg",
+      "hash": "9a3de24e4d57daaebdf787e84ac7f31bc14c555eccdd61f914cf51486ac21ae5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:27:24.480Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "DEMO已发布/DEMO Launched",
+      "tags": [
+        "女の子",
+        "ロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150321817_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150321817",
+      "sourceCreatedAt": "2026-10-01T07:19:56.000Z"
+    },
+    {
       "id": "91992c5a",
       "filename": "pixiv_150321328_p0.jpg",
       "path": "uploads/2026/10/f79aeccf.jpg",
