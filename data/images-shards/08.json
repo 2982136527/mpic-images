@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "cbfa0e7d",
+      "filename": "pixiv_150319859_p0.jpg",
+      "path": "uploads/2026/10/6ff184fe.jpg",
+      "size": 1348273,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cff4bdd5db3fbc7649abef9e06d52e4be22e2b0b908358a0783aeccc9fdbe58e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:26:40.839Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "commision",
+      "tags": [
+        "女の子",
+        "板绘",
+        "插画",
+        "灰原哀"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150319859_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150319859",
+      "sourceCreatedAt": "2026-10-01T05:47:13.000Z"
+    },
+    {
       "id": "19fa778e",
       "filename": "pixiv_150290587_p0.jpg",
       "path": "uploads/2026/10/6ab6edc9.jpg",
