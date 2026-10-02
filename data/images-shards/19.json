@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "977b0b10",
+      "filename": "pixiv_150272194_p0.jpg",
+      "path": "uploads/2026/10/1478dbdf.jpg",
+      "size": 280606,
+      "width": 710,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "474db7d2de8ae5b9e47e7f32dcfac30ec97f02d4ff7c85f4d99cb61452b0d6be",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:43:17.379Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "9月のらくがき",
+      "tags": [
+        "女の子",
+        "事情を知らない転校生がグイグイくる"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150272194_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150272194",
+      "sourceCreatedAt": "2026-09-29T20:22:15.000Z"
+    },
+    {
       "id": "3f897efd",
       "filename": "pixiv_150309873_p0.jpg",
       "path": "uploads/2026/10/f17024f9.jpg",
