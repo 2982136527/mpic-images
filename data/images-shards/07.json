@@ -3,6 +3,32 @@
   "shardId": "07",
   "images": [
     {
+      "id": "035ec8ec",
+      "filename": "pixiv_150325932_p0.jpg",
+      "path": "uploads/2026/10/46d428fa.jpg",
+      "size": 1543108,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "ef702d752755d53ad81a1cc1a49240f757a32e614e04e6fdeed92288bb108f79",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:38:32.455Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "薇斯纳",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ヴェスナ(原神)",
+        "薇斯纳",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150325932_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150325932",
+      "sourceCreatedAt": "2026-10-01T09:42:08.000Z"
+    },
+    {
       "id": "cae810ea",
       "filename": "pixiv_150304406_p0.jpg",
       "path": "uploads/2026/10/57cb4870.jpg",
