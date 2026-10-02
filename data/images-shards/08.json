@@ -3,6 +3,34 @@
   "shardId": "08",
   "images": [
     {
+      "id": "d5dd8276",
+      "filename": "pixiv_150105206_p0.jpg",
+      "path": "uploads/2026/10/9708babe.jpg",
+      "size": 890628,
+      "width": 734,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "98642cd895bf25cd39ca907ee54ce2d3fe78ccc8df69576f527ad83e12515318",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:33:01.501Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ミカ（メイド）",
+      "tags": [
+        "女の子",
+        "少女",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "メイド",
+        "聖園ミカ",
+        "ピンク髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150105206_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150105206",
+      "sourceCreatedAt": "2026-09-25T15:00:32.000Z"
+    },
+    {
       "id": "cbfa0e7d",
       "filename": "pixiv_150319859_p0.jpg",
       "path": "uploads/2026/10/6ff184fe.jpg",
