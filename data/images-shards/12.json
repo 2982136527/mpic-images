@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "f7d5a314",
+      "filename": "pixiv_150298163_p0.jpg",
+      "path": "uploads/2026/10/bbfb9e9d.jpg",
+      "size": 833998,
+      "width": 965,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ba6b205a359c3a499fb643de1b304e587876031d8d58e2cdc7deae73872f32b4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:43:40.136Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "hxh詰め4",
+      "tags": [
+        "HUNTER×HUNTER",
+        "ゴンキル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150298163_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150298163",
+      "sourceCreatedAt": "2026-09-30T13:36:36.000Z"
+    },
+    {
       "id": "a8297ba2",
       "filename": "pixiv_150299788_p0.jpg",
       "path": "uploads/2026/10/c3655e9d.jpg",
