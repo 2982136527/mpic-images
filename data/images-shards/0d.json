@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "a0a63696",
+      "filename": "pixiv_150330352_p0.jpg",
+      "path": "uploads/2026/10/1afd13fe.jpg",
+      "size": 1861044,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ddcc6912e2ad5b17978cc4c870ac4b018698353b5b0009bf23f0bf382cc2b1c6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:24:10.395Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "注毒",
+      "tags": [
+        "眼鏡男子",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150330352_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150330352",
+      "sourceCreatedAt": "2026-10-01T11:30:56.000Z"
+    },
+    {
       "id": "8cdfe82a",
       "filename": "pixiv_150266200_p0.jpg",
       "path": "uploads/2026/10/cd1f4b6c.jpg",
