@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "538642f3",
+      "filename": "pixiv_150285825_p0.jpg",
+      "path": "uploads/2026/10/678ac125.jpg",
+      "size": 772213,
+      "width": 1200,
+      "height": 777,
+      "mimeType": "image/jpeg",
+      "hash": "9d97503ba69e0821a509d27536d42e26a725e405c3e6eaa1776ce9f35315d781",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:45:24.671Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "キキ",
+      "tags": [
+        "ブルーアーカイブ",
+        "竜華キサキ",
+        "ブルーアーカイブ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150285825_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150285825",
+      "sourceCreatedAt": "2026-09-30T08:55:19.000Z"
+    },
+    {
       "id": "9c481c26",
       "filename": "pixiv_150298093_p0.jpg",
       "path": "uploads/2026/10/2ed23521.jpg",
