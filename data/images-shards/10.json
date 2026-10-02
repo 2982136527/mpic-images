@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "7dc52015",
+      "filename": "pixiv_150312160_p0.jpg",
+      "path": "uploads/2026/10/dc0ec89a.jpg",
+      "size": 1385401,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f7fdcefa535d8f59177af2200e9fe392e6edc96b34763a34a94ba66824442574",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:42:49.074Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "TwinkBob DJ",
+      "tags": [
+        "spongebob",
+        "squidward",
+        "yaoi",
+        "BL",
+        "doujinshi"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150312160_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150312160",
+      "sourceCreatedAt": "2026-09-30T22:33:01.000Z"
+    },
+    {
       "id": "5e8992a9",
       "filename": "pixiv_150292820_p0.jpg",
       "path": "uploads/2026/10/8978f5ba.jpg",
