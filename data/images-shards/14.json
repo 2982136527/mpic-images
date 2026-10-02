@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "a326f77a",
+      "filename": "pixiv_150293234_p0.jpg",
+      "path": "uploads/2026/10/daf18ff1.jpg",
+      "size": 679668,
+      "width": 700,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7f123db76ab2c110b418a2be7b2436fd153cc9d4dc97eb37cc9249362f3346f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:48:58.878Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "💚",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "ビーンストーク(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150293234_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150293234",
+      "sourceCreatedAt": "2026-09-30T11:59:44.000Z"
+    },
+    {
       "id": "8777d4a9",
       "filename": "pixiv_150288563_p0.jpg",
       "path": "uploads/2026/10/a24443bf.jpg",
