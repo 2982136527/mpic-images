@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "56b5feaf",
+      "filename": "pixiv_150307025_p0.jpg",
+      "path": "uploads/2026/10/47177eaa.jpg",
+      "size": 2145670,
+      "width": 1200,
+      "height": 1040,
+      "mimeType": "image/jpeg",
+      "hash": "21171aa97184484e7e9d296c95f96f76da9b94257ab26e96e65f62264b89b609",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:41:55.224Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "恋人",
+      "tags": [
+        "OC",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150307025_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150307025",
+      "sourceCreatedAt": "2026-09-30T17:06:08.000Z"
+    },
+    {
       "id": "95ce101a",
       "filename": "pixiv_150111154_p0.jpg",
       "path": "uploads/2026/10/2ef21ed9.jpg",
