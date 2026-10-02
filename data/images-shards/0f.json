@@ -3,6 +3,32 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "945a627c",
+      "filename": "pixiv_150308026_p0.jpg",
+      "path": "uploads/2026/10/fb31f18a.jpg",
+      "size": 795758,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ae6d48a6cb4fa3a2ac780e7de5fcd6da39a18229ed5c400d60e563137c6e0dff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:47:36.161Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "限界ビビアン",
+      "tags": [
+        "ゼンゼロ",
+        "ゼンレスゾーンゼロ",
+        "zzzero",
+        "ZZZ",
+        "ビビアン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150308026_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150308026",
+      "sourceCreatedAt": "2026-09-30T17:59:39.000Z"
+    },
+    {
       "id": "1dfbf3a7",
       "filename": "pixiv_150333608_p0.jpg",
       "path": "uploads/2026/10/a8fa2493.jpg",
