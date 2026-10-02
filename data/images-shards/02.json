@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "3c155966",
+      "filename": "pixiv_150325752_p0.jpg",
+      "path": "uploads/2026/10/2e5d0cf5.jpg",
+      "size": 431053,
+      "width": 780,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4bbc969deb1a285ea62541f0c60acdacc178ae52ec674f3a1c300ab2021279fd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:46:10.523Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "1001",
+      "tags": [
+        "女の子",
+        "ぱんつ",
+        "waifu"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150325752_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150325752",
+      "sourceCreatedAt": "2026-10-01T09:35:47.000Z"
+    },
+    {
       "id": "b5736497",
       "filename": "pixiv_150136521_p0.jpg",
       "path": "uploads/2026/10/bf418cb2.jpg",
