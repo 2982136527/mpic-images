@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "af26617d",
+      "filename": "pixiv_150275041_p0.jpg",
+      "path": "uploads/2026/10/e1418b25.jpg",
+      "size": 485867,
+      "width": 1089,
+      "height": 862,
+      "mimeType": "image/jpeg",
+      "hash": "1774156cc141f61e24878f8304a23c65513669853876d1f00eb55da95d55206f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:42:36.484Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "平東",
+      "tags": [
+        "正反対な君と僕",
+        "平秀司",
+        "東紫乃"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150275041_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150275041",
+      "sourceCreatedAt": "2026-09-29T23:23:32.000Z"
+    },
+    {
       "id": "aa105d66",
       "filename": "pixiv_150328339_p0.jpg",
       "path": "uploads/2026/10/0c936c6a.jpg",
