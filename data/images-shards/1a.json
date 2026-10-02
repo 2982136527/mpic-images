@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "6b22ff45",
+      "filename": "pixiv_150121776_p0.jpg",
+      "path": "uploads/2026/10/90b34a80.jpg",
+      "size": 850779,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5673223cd59545a81ad8152e0fcd8cde3f82edddbda31630bf0377736de7b1d3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:33:20.541Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アロナ＆女先生",
+      "tags": [
+        "ブルーアーカイブ",
+        "アロナ(ブルーアーカイブ)",
+        "女先生(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150121776_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150121776",
+      "sourceCreatedAt": "2026-09-26T03:17:20.000Z"
+    },
+    {
       "id": "d04ed708",
       "filename": "pixiv_150323111_p0.jpg",
       "path": "uploads/2026/10/3d4133c1.jpg",
