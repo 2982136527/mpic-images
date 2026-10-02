@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "a8297ba2",
+      "filename": "pixiv_150299788_p0.jpg",
+      "path": "uploads/2026/10/c3655e9d.jpg",
+      "size": 597770,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6bf12532cfe8e0483ba08e6243054f317c65d9c45964690cf14a161fbc8be01f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:31:30.480Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "レディ・マルフォイ",
+      "tags": [
+        "ハリーポッター",
+        "ドラコ・マルフォイ",
+        "♀ドラコ",
+        "Malfoid",
+        "TS"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150299788_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150299788",
+      "sourceCreatedAt": "2026-09-30T14:10:18.000Z"
+    },
+    {
       "id": "0768da65",
       "filename": "pixiv_150281711_p0.jpg",
       "path": "uploads/2026/10/2d5c861c.jpg",
