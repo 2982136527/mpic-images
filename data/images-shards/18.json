@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "91bfc271",
+      "filename": "pixiv_150272521_p0.jpg",
+      "path": "uploads/2026/10/01496bb7.jpg",
+      "size": 629554,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "753616c0a5686204d97ec6392f5236f198ad8fee83413ff0c27761c1b3eff082",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:48:05.307Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "やっぱり比叡なんだよなぁ",
+      "tags": [
+        "艦隊これくしょん",
+        "艦これ",
+        "比叡"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150272521_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150272521",
+      "sourceCreatedAt": "2026-09-29T20:51:09.000Z"
+    },
+    {
       "id": "88088d79",
       "filename": "pixiv_150324263_p0.jpg",
       "path": "uploads/2026/10/26f91c06.jpg",
