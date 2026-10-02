@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "2a21c451",
+      "filename": "pixiv_150302261_p0.jpg",
+      "path": "uploads/2026/10/79cb3dcd.jpg",
+      "size": 835093,
+      "width": 814,
+      "height": 980,
+      "mimeType": "image/jpeg",
+      "hash": "e27ef6061f3b989c0dc4bfe2739389ef35691244c88e4b78d9a092bdbc99c1df",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:41:15.999Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "「万象よ、遍く照らせ」",
+      "tags": [
+        "WutheringWaves",
+        "鳴潮",
+        "心",
+        "心(鳴潮)",
+        "鸣潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150302261_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150302261",
+      "sourceCreatedAt": "2026-09-30T15:00:30.000Z"
+    },
+    {
       "id": "04f98bda",
       "filename": "pixiv_150300652_p0.jpg",
       "path": "uploads/2026/10/8ea48cd1.jpg",
