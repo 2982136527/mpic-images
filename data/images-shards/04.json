@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "feb61261",
+      "filename": "pixiv_150280374_p0.jpg",
+      "path": "uploads/2026/10/7d51287f.jpg",
+      "size": 686576,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "71360c5c81fa9f7d2f1d177e1a08db28500ae4187125484954379aee04faadec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:30:01.650Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "喜多ちゃん",
+      "tags": [
+        "ぼっち・ざ・ろっく!",
+        "喜多郁代",
+        "喜多ちゃん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150280374_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150280374",
+      "sourceCreatedAt": "2026-09-30T04:27:09.000Z"
+    },
+    {
       "id": "b6e8f568",
       "filename": "pixiv_150294018_p0.jpg",
       "path": "uploads/2026/10/dfbedb16.jpg",
