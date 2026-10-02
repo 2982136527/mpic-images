@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "a7dbdc0b",
+      "filename": "pixiv_150327614_p0.jpg",
+      "path": "uploads/2026/10/5a9e96d2.jpg",
+      "size": 1816674,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "523dce418329607ab966d020306081e86d36285c547fb64d1279c577161c01f8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:29:21.938Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "サフェル",
+      "tags": [
+        "崩壊スターレイル",
+        "崩坏星穹铁道",
+        "HonkaiStarRail",
+        "サフェル",
+        "Cipher"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150327614_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150327614",
+      "sourceCreatedAt": "2026-10-01T10:27:35.000Z"
+    },
+    {
       "id": "db8c3f6a",
       "filename": "pixiv_150279274_p0.jpg",
       "path": "uploads/2026/10/44e22775.jpg",
