@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "0b366f73",
+      "filename": "pixiv_150281753_p0.jpg",
+      "path": "uploads/2026/10/9404b85c.jpg",
+      "size": 723569,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bb60b2ccd5758e8b9f52c68c6f3861675ab42bbd816838a6e259c7d34b799576",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:48:12.219Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "MALFOY!!",
+      "tags": [
+        "ECHO_OBAKE",
+        "ドラコ・マルフォイ",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150281753_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150281753",
+      "sourceCreatedAt": "2026-09-30T05:44:59.000Z"
+    },
+    {
       "id": "af67011c",
       "filename": "pixiv_150148598_p0.jpg",
       "path": "uploads/2026/10/445fd797.jpg",
