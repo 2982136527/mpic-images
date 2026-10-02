@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "fdc76385",
+      "filename": "pixiv_150320717_p0.jpg",
+      "path": "uploads/2026/10/d5adf8be.jpg",
+      "size": 1307194,
+      "width": 893,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fce46a460ed453f1a967b089a4cef700cfc67d673f82d74556ddd918b2d53604",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:31:15.288Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "外出",
+      "tags": [
+        "女の子",
+        "少女",
+        "電車"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150320717_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150320717",
+      "sourceCreatedAt": "2026-10-01T06:30:07.000Z"
+    },
+    {
       "id": "b9c40bc8",
       "filename": "pixiv_150302236_p0.jpg",
       "path": "uploads/2026/10/49144892.jpg",
