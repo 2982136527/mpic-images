@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "0ad7a9a8",
+      "filename": "pixiv_150291825_p0.jpg",
+      "path": "uploads/2026/10/5e0b64c4.jpg",
+      "size": 1028746,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "88f6763c466f65bec3d189fbe33cd0064a4c336f5ca289315bc717b0c75b43ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:26:19.008Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【落書き】こいし",
+      "tags": [
+        "東方Project",
+        "古明地こいし"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150291825_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150291825",
+      "sourceCreatedAt": "2026-09-30T11:28:12.000Z"
+    },
+    {
       "id": "14b11b9d",
       "filename": "pixiv_150233040_p0.jpg",
       "path": "uploads/2026/10/5efde1ac.jpg",
