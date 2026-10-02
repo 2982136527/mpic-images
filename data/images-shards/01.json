@@ -3,6 +3,34 @@
   "shardId": "01",
   "images": [
     {
+      "id": "c955b70c",
+      "filename": "pixiv_150302293_p0.jpg",
+      "path": "uploads/2026/10/b435efd6.jpg",
+      "size": 371059,
+      "width": 759,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e7a73eb056781676026a0a5e79e4fcb06e97a3a75ee602e42b11f952af6f51fb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:46:54.262Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ふわもふメイド",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "けもみみ",
+        "創作",
+        "メイド",
+        "ケモミミ",
+        "猫耳メイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150302293_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150302293",
+      "sourceCreatedAt": "2026-09-30T15:00:34.000Z"
+    },
+    {
       "id": "bc3b91b5",
       "filename": "pixiv_150289860_p0.jpg",
       "path": "uploads/2026/10/679f5df1.jpg",
