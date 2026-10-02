@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "ceeca2d7",
+      "filename": "pixiv_150304864_p0.jpg",
+      "path": "uploads/2026/10/4231c801.jpg",
+      "size": 709966,
+      "width": 654,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "71c22a3de7a85173d641ee4a054ff6d9d0768418310e5b1ce1fba7c098b5bda4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:48:08.178Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🐰",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "美少女",
+        "飛鳥馬トキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150304864_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150304864",
+      "sourceCreatedAt": "2026-09-30T15:51:45.000Z"
+    },
+    {
       "id": "b83ec1e5",
       "filename": "pixiv_150319598_p0.jpg",
       "path": "uploads/2026/10/af450904.jpg",
