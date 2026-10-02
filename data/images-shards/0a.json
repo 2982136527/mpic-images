@@ -3,6 +3,35 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "1bef0e77",
+      "filename": "pixiv_150300918_p0.jpg",
+      "path": "uploads/2026/10/8923a49d.jpg",
+      "size": 874325,
+      "width": 1063,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "728ab693a7770c510375cae6d6368e5f61b2ba5877e308c8b7efbcdbd8a99a8e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:39:22.255Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "祥，打工",
+      "tags": [
+        "二創",
+        "BanG_Dream!",
+        "BanG_Dream!_Ave_Mujica",
+        "BanG_Dream!_It's_MyGO!!!!!",
+        "豊川祥子",
+        "要楽奈",
+        "バンドリ100users入り",
+        "バンドリ500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150300918_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150300918",
+      "sourceCreatedAt": "2026-10-01T09:34:36.000Z"
+    },
+    {
       "id": "dee1417c",
       "filename": "pixiv_150307762_p0.jpg",
       "path": "uploads/2026/10/d59d4f66.jpg",
