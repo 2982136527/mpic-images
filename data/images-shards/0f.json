@@ -3,6 +3,37 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "a8888fd7",
+      "filename": "pixiv_150329259_p0.jpg",
+      "path": "uploads/2026/10/1a0229b8.jpg",
+      "size": 1217233,
+      "width": 947,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0d59eaa22ee4e7bb2ecaa8d0d0fbf309418655a70f5549b74180ecb447a2bd15",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:41:48.188Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Starry Night Miku",
+      "tags": [
+        "VOCALOID",
+        "創作",
+        "女の子",
+        "初音ミク",
+        "イラスト",
+        "少女",
+        "ボーカロイド",
+        "HatsuneMiku",
+        "ボカロ",
+        "Miku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150329259_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150329259",
+      "sourceCreatedAt": "2026-10-01T11:04:45.000Z"
+    },
+    {
       "id": "78f7bf8c",
       "filename": "pixiv_150300519_p0.jpg",
       "path": "uploads/2026/10/8332a5c6.jpg",
