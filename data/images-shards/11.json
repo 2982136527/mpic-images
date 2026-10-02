@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "0ae1e11c",
+      "filename": "pixiv_150302270_p0.jpg",
+      "path": "uploads/2026/10/c337dc56.jpg",
+      "size": 630502,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "2b943d4d6058213450cf8174b4ba066514760548e23c488693fc1489d386df7b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:41:08.934Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "メイドマリー",
+      "tags": [
+        "女の子",
+        "少女",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "メイド",
+        "伊落マリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150302270_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150302270",
+      "sourceCreatedAt": "2026-09-30T15:00:31.000Z"
+    },
+    {
       "id": "81ef1551",
       "filename": "pixiv_150105431_p0.jpg",
       "path": "uploads/2026/10/8fc98f1d.jpg",
