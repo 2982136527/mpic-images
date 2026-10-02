@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "3335cf08",
+      "filename": "pixiv_150320075_p0.jpg",
+      "path": "uploads/2026/10/07de517e.jpg",
+      "size": 1762444,
+      "width": 1200,
+      "height": 960,
+      "mimeType": "image/jpeg",
+      "hash": "db3b168158d6775a5eb238a334d39fa37a8d59b1d361627ba06e4522852c4e80",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:26:29.893Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "プロセカ6周年",
+      "tags": [
+        "プロセカ",
+        "プロジェクトセカイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150320075_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150320075",
+      "sourceCreatedAt": "2026-10-01T05:59:16.000Z"
+    },
+    {
       "id": "aab277fb",
       "filename": "pixiv_150293532_p0.jpg",
       "path": "uploads/2026/10/a5df0b2d.jpg",
