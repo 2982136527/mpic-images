@@ -3,6 +3,37 @@
   "shardId": "08",
   "images": [
     {
+      "id": "91b10fb6",
+      "filename": "pixiv_150292738_p0.jpg",
+      "path": "uploads/2026/10/1286323d.jpg",
+      "size": 1264151,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "02eafaee9e1882a19deceddc0a9a02feceb8949f0dd15cc7f4c9d5c2f83691ef",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:42:04.121Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "夜のニゴミク🦋",
+      "tags": [
+        "初音ミク",
+        "初音未来",
+        "25時、ナイトコードで。",
+        "ニーゴミク",
+        "ニゴミク",
+        "hatsunemiku",
+        "プロセカ",
+        "プロジェクトセカイ",
+        "prsk_FA",
+        "プロセカ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150292738_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150292738",
+      "sourceCreatedAt": "2026-09-30T11:48:00.000Z"
+    },
+    {
       "id": "d5dd8276",
       "filename": "pixiv_150105206_p0.jpg",
       "path": "uploads/2026/10/9708babe.jpg",
