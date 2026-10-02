@@ -3,6 +3,37 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "7615b030",
+      "filename": "pixiv_150290073_p0.jpg",
+      "path": "uploads/2026/10/4782a964.jpg",
+      "size": 961686,
+      "width": 1200,
+      "height": 733,
+      "mimeType": "image/jpeg",
+      "hash": "3f89593aee321901d2c5c354de05d60a0a5175a38e8e6175d1f1ecd5db3b3a30",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:42:53.696Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "スピードペイント11",
+      "tags": [
+        "スピードペイント",
+        "背景",
+        "背景コンセプト",
+        "港",
+        "遊園地",
+        "廃工場",
+        "工場",
+        "空",
+        "雨",
+        "SpeedPaint"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150290073_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150290073",
+      "sourceCreatedAt": "2026-09-30T10:48:05.000Z"
+    },
+    {
       "id": "aeefb7b9",
       "filename": "pixiv_150326836_p0.jpg",
       "path": "uploads/2026/10/60cfa7de.jpg",
