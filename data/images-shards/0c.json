@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "2cf08053",
+      "filename": "pixiv_150322500_p0.jpg",
+      "path": "uploads/2026/10/4b8a1dd3.jpg",
+      "size": 525286,
+      "width": 800,
+      "height": 820,
+      "mimeType": "image/jpeg",
+      "hash": "e358ea6ecb81538d871f666c61bfba4c50e1522813713eff4fe00094cf75785c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:43:17.284Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "v me 50",
+      "tags": [
+        "Vertin",
+        "重返未来1999",
+        "维尔汀",
+        "리버스1999",
+        "リバース1999"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150322500_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150322500",
+      "sourceCreatedAt": "2026-10-01T07:50:40.000Z"
+    },
+    {
       "id": "6a794a8b",
       "filename": "pixiv_150317904_p0.jpg",
       "path": "uploads/2026/10/1d056e8c.jpg",
