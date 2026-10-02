@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "9a930dac",
+      "filename": "pixiv_150274596_p0.jpg",
+      "path": "uploads/2026/10/0479d6da.jpg",
+      "size": 522561,
+      "width": 684,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "43114fa02a96070e8e71bfb58781faf0d83cd3a82a704765275fe646a2bb8b02",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:31:00.069Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "篠澤広",
+        "学園アイドルマスター",
+        "ハグ待ち"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150274596_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150274596",
+      "sourceCreatedAt": "2026-09-29T22:56:24.000Z"
+    },
+    {
       "id": "32029e2b",
       "filename": "pixiv_150301402_p0.jpg",
       "path": "uploads/2026/10/124f6cb4.jpg",
