@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "211e9203",
+      "filename": "pixiv_150278941_p0.jpg",
+      "path": "uploads/2026/10/a9ac6195.jpg",
+      "size": 540935,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2bfbcb487d158ac74c64dbd86353bd8ecfa35f5e98b85a08f26f3dd1bb0cbaf7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:47:21.684Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ぶぅちゃん！",
+      "tags": [
+        "ブエナビスタ(ウマ娘)",
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "私服ウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150278941_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150278941",
+      "sourceCreatedAt": "2026-09-30T03:08:36.000Z"
+    },
+    {
       "id": "a1b94a23",
       "filename": "pixiv_150306496_p0.jpg",
       "path": "uploads/2026/10/13f4fade.jpg",
