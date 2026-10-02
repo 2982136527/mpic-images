@@ -3,6 +3,28 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "1dfbf3a7",
+      "filename": "pixiv_150333608_p0.jpg",
+      "path": "uploads/2026/10/a8fa2493.jpg",
+      "size": 362553,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2d50494a79f5a6adc519bcca1871bddbe7f28921945ab1c16d61bb90459f26e4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:40:51.408Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "頭身高めの絵の練習",
+      "tags": [
+        "YiXi"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150333608_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150333608",
+      "sourceCreatedAt": "2026-10-01T12:43:15.000Z"
+    },
+    {
       "id": "27bff563",
       "filename": "pixiv_150303881_p0.jpg",
       "path": "uploads/2026/10/d7e3b58a.jpg",
