@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "463d13a6",
+      "filename": "pixiv_150277909_p0.jpg",
+      "path": "uploads/2026/10/82e86384.jpg",
+      "size": 1510841,
+      "width": 1200,
+      "height": 854,
+      "mimeType": "image/jpeg",
+      "hash": "0e0d7d7939e8da04eb9479a812b682d28394a0a9855e7d14d616bae2631b01c8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:42:01.481Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "方形「スクエアクリーチャー」",
+      "tags": [
+        "東方",
+        "東方project",
+        "埴安神袿姫"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150277909_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150277909",
+      "sourceCreatedAt": "2026-09-30T02:17:37.000Z"
+    },
+    {
       "id": "4476fe97",
       "filename": "pixiv_150266805_p0.jpg",
       "path": "uploads/2026/10/1dd80b2f.jpg",
