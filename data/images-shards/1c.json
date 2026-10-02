@@ -3,6 +3,37 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "d9f5d01c",
+      "filename": "pixiv_150320002_p0.jpg",
+      "path": "uploads/2026/10/f19c1fb5.jpg",
+      "size": 1481204,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "5906b0bc7a82673e7635b1e466a50a76efe2c424db7186e7d218270a8b19fa39",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:24:56.081Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Genshin Impact 6th Anniversary",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "Tsaritsa",
+        "Zhongli",
+        "raidenshogun",
+        "nahida",
+        "venti",
+        "furina",
+        "mavuika",
+        "Columbina"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150320002_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150320002",
+      "sourceCreatedAt": "2026-10-01T10:43:37.000Z"
+    },
+    {
       "id": "8f672482",
       "filename": "pixiv_150291329_p0.jpg",
       "path": "uploads/2026/10/f545aa36.jpg",
