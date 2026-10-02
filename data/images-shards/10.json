@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "f16f5d35",
+      "filename": "pixiv_150327603_p0.jpg",
+      "path": "uploads/2026/10/951e07f5.jpg",
+      "size": 689128,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "531fe0deae29006ce8fb9ddd1e233947332ddc8763ce9b3b4b6374abb162605c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:28:42.878Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "最初の挨拶が可愛いくてめっちゃ好きです",
+      "tags": [
+        "めめ村",
+        "ｼｲﾅﾁｬﾝｶﾜｲｲﾔｯﾀｰ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150327603_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150327603",
+      "sourceCreatedAt": "2026-10-01T10:26:50.000Z"
+    },
+    {
       "id": "3335cf08",
       "filename": "pixiv_150320075_p0.jpg",
       "path": "uploads/2026/10/07de517e.jpg",
