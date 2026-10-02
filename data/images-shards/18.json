@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "c14c8383",
+      "filename": "pixiv_150287430_p0.jpg",
+      "path": "uploads/2026/10/ce8538a9.jpg",
+      "size": 982289,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1f26ada9ad3a103fe7f1005480930b48b1e464993d81f8d454a235424a368387",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:47:42.682Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "月が綺麗ですね",
+      "tags": [
+        "にじさんじ",
+        "夜牛詩乃"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150287430_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150287430",
+      "sourceCreatedAt": "2026-09-30T13:17:37.000Z"
+    },
+    {
       "id": "13c69302",
       "filename": "pixiv_150335058_p0.jpg",
       "path": "uploads/2026/10/4ab6c5dc.jpg",
