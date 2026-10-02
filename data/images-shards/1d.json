@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "f68b1598",
+      "filename": "pixiv_150291175_p0.jpg",
+      "path": "uploads/2026/10/5a651145.jpg",
+      "size": 508371,
+      "width": 675,
+      "height": 1032,
+      "mimeType": "image/jpeg",
+      "hash": "a4daa1f23b2a79607f29bccf1df4e6d8a6faec3eca4f638a0c1ed9e09248943c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:43:58.310Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "サユリちゃんらくがき",
+      "tags": [
+        "ブルーアーカイブ",
+        "サユリ(ブルーアーカイブ)",
+        "うすほそ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150291175_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150291175",
+      "sourceCreatedAt": "2026-09-30T11:11:15.000Z"
+    },
+    {
       "id": "ceeca2d7",
       "filename": "pixiv_150304864_p0.jpg",
       "path": "uploads/2026/10/4231c801.jpg",
