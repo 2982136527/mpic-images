@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "88088d79",
+      "filename": "pixiv_150324263_p0.jpg",
+      "path": "uploads/2026/10/26f91c06.jpg",
+      "size": 883412,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ff32d56396396d3d81a1107fa1cc69c76ca1601669f5ac36848e65f4c5b0b279",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:42:58.102Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "oc",
+        "創作",
+        "オリジナルキャラクター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150324263_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150324263",
+      "sourceCreatedAt": "2026-10-01T08:56:36.000Z"
+    },
+    {
       "id": "52fc10ec",
       "filename": "pixiv_150274201_p0.jpg",
       "path": "uploads/2026/10/4387c63d.jpg",
