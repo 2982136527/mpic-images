@@ -3,6 +3,34 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "dc80df43",
+      "filename": "pixiv_150291647_p0.jpg",
+      "path": "uploads/2026/10/4582ae55.jpg",
+      "size": 764245,
+      "width": 1200,
+      "height": 565,
+      "mimeType": "image/jpeg",
+      "hash": "d99eaf714498d8e1f9f3cf51184eb7410ff8e9e2e1bc72ad3b84846e5a0dbecb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T14:41:23.796Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "泉户猫丸",
+      "tags": [
+        "萝莉",
+        "雪糕",
+        "白丝",
+        "插画",
+        "少女",
+        "猫耳",
+        "泉户猫丸"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150291647_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150291647",
+      "sourceCreatedAt": "2026-09-30T11:23:23.000Z"
+    },
+    {
       "id": "6b22ff45",
       "filename": "pixiv_150121776_p0.jpg",
       "path": "uploads/2026/10/90b34a80.jpg",
