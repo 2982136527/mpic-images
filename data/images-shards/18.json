@@ -3,6 +3,33 @@
   "shardId": "18",
   "images": [
     {
+      "id": "b9c40bc8",
+      "filename": "pixiv_150302236_p0.jpg",
+      "path": "uploads/2026/10/49144892.jpg",
+      "size": 1158200,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8434e38c41aaf2a4dbc5e8bcdcf92cbbf5a2e7ef1a6cce34f191c1a986eb24bb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:28:32.642Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "OASIS.rar",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子",
+        "Eternal_White",
+        "SANA",
+        "白髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150302236_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150302236",
+      "sourceCreatedAt": "2026-09-30T15:00:25.000Z"
+    },
+    {
       "id": "59e44e0a",
       "filename": "pixiv_150270961_p0.jpg",
       "path": "uploads/2026/10/36810941.jpg",
