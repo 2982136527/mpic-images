@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "d463eb6a",
+      "filename": "pixiv_150280253_p0.jpg",
+      "path": "uploads/2026/10/06f2f072.jpg",
+      "size": 1167774,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "0f7ce38e31bbef9172fabbe2d31ea653acba0e49bf73061f8de8545d12a6bd9d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:25:11.595Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "负责了鸣潮今年的中秋贺图",
+      "tags": [
+        "鸣潮",
+        "心",
+        "心(鳴潮)",
+        "鳴潮1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150280253_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150280253",
+      "sourceCreatedAt": "2026-09-30T04:18:31.000Z"
+    },
+    {
       "id": "c688e172",
       "filename": "pixiv_150282956_p0.jpg",
       "path": "uploads/2026/10/a7440360.jpg",
