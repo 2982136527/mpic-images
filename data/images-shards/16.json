@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "28fa1ea7",
+      "filename": "pixiv_150298720_p0.jpg",
+      "path": "uploads/2026/10/7af5c2eb.jpg",
+      "size": 1087863,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "16fbadba357105bb7ab5ec00eb88e5a3dffefb86d21f2572dbf6ee2ea8ade316",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T05:27:14.496Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "夢芯",
+      "tags": [
+        "東方",
+        "東方Project",
+        "古明地こいし",
+        "博麗神社例大祭",
+        "秋季例大祭",
+        "紅楼夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150298720_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150298720",
+      "sourceCreatedAt": "2026-09-30T13:48:39.000Z"
+    },
+    {
       "id": "e9ea054b",
       "filename": "pixiv_150280932_p0.jpg",
       "path": "uploads/2026/10/496a5ff3.jpg",
