@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "36ee01ad",
+      "filename": "pixiv_150312356_p0.jpg",
+      "path": "uploads/2026/10/9416dfbd.jpg",
+      "size": 1673207,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "eb29698025a1ed693f37e6f5da349080ff2feb8e634ec9000e93655641e4f0b1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:47:50.173Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "煉炭こんぽんまとめログ5",
+      "tags": [
+        "煉炭",
+        "腐滅の刃"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150312356_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150312356",
+      "sourceCreatedAt": "2026-09-30T22:44:44.000Z"
+    },
+    {
       "id": "e7844325",
       "filename": "pixiv_150302334_p0.jpg",
       "path": "uploads/2026/10/4faad188.jpg",
