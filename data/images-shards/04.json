@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "c953dd29",
+      "filename": "pixiv_150320444_p0.jpg",
+      "path": "uploads/2026/10/9241b476.jpg",
+      "size": 856389,
+      "width": 648,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7aeb40e494932d1d77b63e901615e3fe4d4b12f1bce9e9542a4d021ab2ab6a0b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-02T20:47:14.574Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "Hsin",
+        "心",
+        "鳴潮",
+        "心(鳴潮)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150320444_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150320444",
+      "sourceCreatedAt": "2026-10-01T06:16:37.000Z"
+    },
+    {
       "id": "899b02a4",
       "filename": "pixiv_150305399_p0.jpg",
       "path": "uploads/2026/10/ca23b34b.jpg",
