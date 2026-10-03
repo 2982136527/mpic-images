@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "e4834430",
+      "filename": "pixiv_150327560_p0.jpg",
+      "path": "uploads/2026/10/48a19ceb.jpg",
+      "size": 1212855,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bcd22c3499987228beb7d967d8f73db5c1e9b4b57501fcbf468dc19d676cd95f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:09:21.206Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【落書き】ドレミ―",
+      "tags": [
+        "東方Project",
+        "ドレミー・スイート"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150327560_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150327560",
+      "sourceCreatedAt": "2026-10-01T10:25:49.000Z"
+    },
+    {
       "id": "4701225b",
       "filename": "pixiv_150317684_p0.jpg",
       "path": "uploads/2026/10/ac4f532a.jpg",
