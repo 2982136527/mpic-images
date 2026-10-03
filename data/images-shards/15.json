@@ -3,6 +3,36 @@
   "shardId": "15",
   "images": [
     {
+      "id": "624ea2fb",
+      "filename": "pixiv_150352424_p0.jpg",
+      "path": "uploads/2026/10/99b4da17.jpg",
+      "size": 404683,
+      "width": 1116,
+      "height": 836,
+      "mimeType": "image/jpeg",
+      "hash": "20675be1fb7439e1926a4217336019c796907225932a7456b3827198b71fa2fe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:10:04.919Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "目の描き方が分からない人へ",
+      "tags": [
+        "描き方",
+        "コツ",
+        "ハウツー",
+        "練習法",
+        "上達法",
+        "講座",
+        "目",
+        "目の描き方",
+        "目の形"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150352424_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150352424",
+      "sourceCreatedAt": "2026-10-02T01:22:56.000Z"
+    },
+    {
       "id": "aa7f722f",
       "filename": "pixiv_150325396_p0.jpg",
       "path": "uploads/2026/10/82558cc7.jpg",
