@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "17ebed4f",
+      "filename": "pixiv_150353637_p0.jpg",
+      "path": "uploads/2026/10/6349a7b6.jpg",
+      "size": 328620,
+      "width": 918,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "687ad46a9a5b6973a2780159379dbb52a6d61e970b7a0b4fbe44f0921b937a04",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T19:10:10.589Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【💡お知らせ💡】",
+      "tags": [
+        "お知らせ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150353637_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150353637",
+      "sourceCreatedAt": "2026-10-02T02:29:02.000Z"
+    },
+    {
       "id": "8762e673",
       "filename": "pixiv_150370257_p0.jpg",
       "path": "uploads/2026/10/c0904012.jpg",
