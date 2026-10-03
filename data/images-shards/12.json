@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "16056de2",
+      "filename": "pixiv_150339894_p0.jpg",
+      "path": "uploads/2026/10/cfb45447.jpg",
+      "size": 1076710,
+      "width": 816,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "88415342ac52a25aae241b2cf2c8e3728273dfcefce93cc7cb960900945871bb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:14:44.883Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "魔法少女衣装-フリーナ",
+      "tags": [
+        "原神",
+        "芙宁娜",
+        "女の子",
+        "Furina",
+        "フリーナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150339894_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150339894",
+      "sourceCreatedAt": "2026-10-01T15:00:22.000Z"
+    },
+    {
       "id": "83ed2728",
       "filename": "pixiv_150292143_p0.jpg",
       "path": "uploads/2026/10/2c23b42f.jpg",
