@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "1a0445f1",
+      "filename": "pixiv_150319305_p0.jpg",
+      "path": "uploads/2026/10/b3c4bda5.jpg",
+      "size": 1074577,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5b475bd6086ebf7c9f4bf9815ac86ecf9b2242be3ca8c8baac053f638dbb33f8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:22:17.712Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "彼方ちゃん",
+      "tags": [
+        "虹ヶ咲学園スクールアイドル同好会",
+        "ラブライブ!虹ヶ咲学園スクールアイドル同好会",
+        "近江彼方"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150319305_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150319305",
+      "sourceCreatedAt": "2026-10-01T05:15:44.000Z"
+    },
+    {
       "id": "cd8c52db",
       "filename": "pixiv_150374942_p0.jpg",
       "path": "uploads/2026/10/4bbb011a.jpg",
