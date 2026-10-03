@@ -3,6 +3,28 @@
   "shardId": "03",
   "images": [
     {
+      "id": "d2ed8a8b",
+      "filename": "pixiv_150338562_p0.jpg",
+      "path": "uploads/2026/10/418d103c.jpg",
+      "size": 476140,
+      "width": 1041,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bbf8fecd5aa25f417be8015095b3491d5b14240e10139623e4e6fb91ab42f8cd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:22:34.593Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "9月のイラストまとめ",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150338562_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150338562",
+      "sourceCreatedAt": "2026-10-01T14:32:57.000Z"
+    },
+    {
       "id": "1c5a6738",
       "filename": "pixiv_150328850_p0.jpg",
       "path": "uploads/2026/10/1fcfe465.jpg",
