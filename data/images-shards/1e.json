@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "8028f1d9",
+      "filename": "pixiv_150336102_p0.jpg",
+      "path": "uploads/2026/10/c3dc92e3.jpg",
+      "size": 791267,
+      "width": 854,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c97e74330125b358018d3e271ba5cd20623b6b5bd5b2d61510074bebaa011da2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:10:58.624Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "バニー作業モード",
+      "tags": [
+        "モノクロのふたり",
+        "薔薇園華子",
+        "バニーガール",
+        "少年ジャンプ+"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150336102_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150336102",
+      "sourceCreatedAt": "2026-10-01T13:37:22.000Z"
+    },
+    {
       "id": "2df26980",
       "filename": "pixiv_150338537_p0.jpg",
       "path": "uploads/2026/10/f1bd0125.jpg",
