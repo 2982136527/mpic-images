@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "3459c949",
+      "filename": "pixiv_150342309_p0.jpg",
+      "path": "uploads/2026/10/a3d5df01.jpg",
+      "size": 1386899,
+      "width": 1200,
+      "height": 827,
+      "mimeType": "image/jpeg",
+      "hash": "9d00d536b6e2794df7c195a5cd320f0ccac59d085c867ec5471350181048cd84",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T19:17:11.761Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アナログめゆ",
+      "tags": [
+        "めぐゆじ",
+        "腐術廻戦",
+        "伏虎"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150342309_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150342309",
+      "sourceCreatedAt": "2026-10-01T15:55:06.000Z"
+    },
+    {
       "id": "7bf2627e",
       "filename": "pixiv_150365344_p0.jpg",
       "path": "uploads/2026/10/537fe016.jpg",
