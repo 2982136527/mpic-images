@@ -3,6 +3,33 @@
   "shardId": "07",
   "images": [
     {
+      "id": "c3c43bac",
+      "filename": "pixiv_150316099_p0.jpg",
+      "path": "uploads/2026/10/5334746c.jpg",
+      "size": 906502,
+      "width": 878,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7f290d4e7e7afc46acf7ace813fd9a378d00f9aefbe99a35715630ed5b54d559",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:19:01.956Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Teto miku",
+      "tags": [
+        "初音ミク",
+        "重音テト",
+        "VOCALOID",
+        "女の子",
+        "みっぱい",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150316099_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150316099",
+      "sourceCreatedAt": "2026-10-01T02:41:30.000Z"
+    },
+    {
       "id": "a4cd0247",
       "filename": "pixiv_150324903_p0.jpg",
       "path": "uploads/2026/10/78dd704a.jpg",
