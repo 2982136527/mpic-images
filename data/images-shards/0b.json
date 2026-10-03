@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "64b463b6",
+      "filename": "pixiv_150362601_p0.jpg",
+      "path": "uploads/2026/10/eaeeca8f.jpg",
+      "size": 1198736,
+      "width": 736,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fb0991085a9931c6901309fbdcad313f1ee7f4b773507edc6bcbf8788b31a9b2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:22:49.000Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Rhinedottir",
+      "tags": [
+        "女の子",
+        "原神",
+        "GenshinImpact",
+        "レインドット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150362601_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150362601",
+      "sourceCreatedAt": "2026-10-02T09:13:30.000Z"
+    },
+    {
       "id": "99a68f83",
       "filename": "pixiv_150331510_p0.jpg",
       "path": "uploads/2026/10/3a33d004.jpg",
