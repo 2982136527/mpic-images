@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "f109cda9",
+      "filename": "pixiv_150354078_p0.jpg",
+      "path": "uploads/2026/10/265da176.jpg",
+      "size": 1014026,
+      "width": 743,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "157368c2edd3423d089a192459a9c2e5a7a6200bcf0a8a0d354f5bd6cfb4abc4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:11:13.748Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "スカーク",
+      "tags": [
+        "原神",
+        "スカーク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150354078_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150354078",
+      "sourceCreatedAt": "2026-10-02T02:56:37.000Z"
+    },
+    {
       "id": "0ef5919f",
       "filename": "pixiv_150317263_p0.jpg",
       "path": "uploads/2026/10/65932195.jpg",
