@@ -3,6 +3,35 @@
   "shardId": "05",
   "images": [
     {
+      "id": "e7b354c7",
+      "filename": "pixiv_150314869_p0.jpg",
+      "path": "uploads/2026/10/517b8833.jpg",
+      "size": 528318,
+      "width": 881,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "82afd493d5c5572dd83baa2a7310336052d0904f1ce4f5f266ff8924075726b3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:09:44.767Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "통통한 로시",
+      "tags": [
+        "SD",
+        "명일방주",
+        "アークナイツ",
+        "endfield",
+        "명일방주엔드필드",
+        "ロッシ(エンドフィールド)",
+        "アークナイツ:エンドフィールド",
+        "ロッシーナ・ウルフパール・ルピーノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150314869_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150314869",
+      "sourceCreatedAt": "2026-10-01T01:23:37.000Z"
+    },
+    {
       "id": "b6857ee3",
       "filename": "pixiv_150300954_p0.jpg",
       "path": "uploads/2026/10/c9e7b063.jpg",
