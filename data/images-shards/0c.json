@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "826975bb",
+      "filename": "pixiv_150149049_p0.jpg",
+      "path": "uploads/2026/10/49566aa9.jpg",
+      "size": 819981,
+      "width": 812,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "258717f8e5a23bc9c7fad76cd60452dee69ca7c1bce4eb80e25b0eb2346f0cf6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:15:58.185Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "フランドール×ドーナツ",
+      "tags": [
+        "フランドール・スカーレット",
+        "東方Project",
+        "東方",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150149049_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150149049",
+      "sourceCreatedAt": "2026-09-26T15:30:08.000Z"
+    },
+    {
       "id": "97812a5e",
       "filename": "pixiv_150340800_p0.jpg",
       "path": "uploads/2026/10/9c669d26.jpg",
