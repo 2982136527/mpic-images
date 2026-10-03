@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "f0aad4fe",
+      "filename": "pixiv_150340311_p0.jpg",
+      "path": "uploads/2026/10/96f2f24c.jpg",
+      "size": 1702003,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "08f959419a44a254a33d56176c760e5323a4440a2d54ef310337186d357891ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:23:42.283Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "探偵見習い",
+      "tags": [
+        "ポケモン",
+        "ピチュー",
+        "ピチューの日",
+        "なにこの仔かわいい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150340311_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150340311",
+      "sourceCreatedAt": "2026-10-01T15:03:44.000Z"
+    },
+    {
       "id": "4da266dc",
       "filename": "pixiv_150309058_p0.jpg",
       "path": "uploads/2026/10/9929de4d.jpg",
