@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "ed2974b3",
+      "filename": "pixiv_150359577_p0.jpg",
+      "path": "uploads/2026/10/311e5195.jpg",
+      "size": 626357,
+      "width": 911,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8a821ca9e40a3a668c6ce6563301a4cb1934de488a4dd1079d0497668e93d9c0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:27:16.197Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Malfoy",
+      "tags": [
+        "ハリーポッター",
+        "♀ドラコ",
+        "ドラコ・マルフォイ",
+        "malfoy"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150359577_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150359577",
+      "sourceCreatedAt": "2026-10-02T07:25:27.000Z"
+    },
+    {
       "id": "f0aad4fe",
       "filename": "pixiv_150340311_p0.jpg",
       "path": "uploads/2026/10/96f2f24c.jpg",
