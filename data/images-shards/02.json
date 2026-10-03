@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "13192e49",
+      "filename": "pixiv_150368423_p0.jpg",
+      "path": "uploads/2026/10/2c450e8b.jpg",
+      "size": 1114066,
+      "width": 815,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bad3926589d226dfb4ab2dc748e4e72a8c76fb6d935adca365d18c64d36040e3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:18:25.118Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Afternoon",
+      "tags": [
+        "女の子",
+        "少女",
+        "ソファー",
+        "メイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150368423_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150368423",
+      "sourceCreatedAt": "2026-10-02T11:38:15.000Z"
+    },
+    {
       "id": "9e589cdc",
       "filename": "pixiv_150315529_p0.jpg",
       "path": "uploads/2026/10/5959e96d.jpg",
