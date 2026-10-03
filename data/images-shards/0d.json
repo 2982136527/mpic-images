@@ -3,6 +3,28 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "45fa5e0b",
+      "filename": "pixiv_150330126_p0.jpg",
+      "path": "uploads/2026/10/d5e84b6b.jpg",
+      "size": 1272851,
+      "width": 835,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bf9cf0fc14b26dd06a5e0ee274b05ef56ab4fc0f385d955d39de924bfa0100d9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:26:58.362Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "スタゼノ漫画とかXログ",
+      "tags": [
+        "スタゼノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150330126_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150330126",
+      "sourceCreatedAt": "2026-10-02T00:38:24.000Z"
+    },
+    {
       "id": "5522e08f",
       "filename": "pixiv_150346537_p0.jpg",
       "path": "uploads/2026/10/1b9487ee.jpg",
