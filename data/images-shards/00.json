@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "0ef5919f",
+      "filename": "pixiv_150317263_p0.jpg",
+      "path": "uploads/2026/10/65932195.jpg",
+      "size": 1823233,
+      "width": 1060,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "645f95adf4b5cc2a5ab034083ed12fb899d7252ba943fc2c6d3dbb3ccb438c52",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:10:19.907Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "蛇操剣闘員",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "メカ娘",
+        "メカ少女",
+        "サイバーパンク",
+        "機械娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150317263_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150317263",
+      "sourceCreatedAt": "2026-10-01T03:30:18.000Z"
+    },
+    {
       "id": "c2a77444",
       "filename": "pixiv_150270325_p0.jpg",
       "path": "uploads/2026/10/d794df01.jpg",
