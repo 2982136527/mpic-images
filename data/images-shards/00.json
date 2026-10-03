@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "ea181e43",
+      "filename": "pixiv_150309049_p0.jpg",
+      "path": "uploads/2026/10/9cc9588d.jpg",
+      "size": 1048467,
+      "width": 1102,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bc85d686a8c36d31500a5d2ca0391ec173707c4f4ad23a4a838f4d4c72868f18",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:26:13.178Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "MDZSログ",
+      "tags": [
+        "MDZS",
+        "忘羨",
+        "R-15",
+        "龍狐AU",
+        "龍兎AU",
+        "現代AU"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150309049_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150309049",
+      "sourceCreatedAt": "2026-09-30T19:18:42.000Z"
+    },
+    {
       "id": "0c7cfabf",
       "filename": "pixiv_150322653_p0.jpg",
       "path": "uploads/2026/10/a654bae6.jpg",
