@@ -3,6 +3,35 @@
   "shardId": "01",
   "images": [
     {
+      "id": "f3796c30",
+      "filename": "pixiv_150340405_p0.jpg",
+      "path": "uploads/2026/10/7dcf1ebd.jpg",
+      "size": 585167,
+      "width": 787,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4149024c30a23c73853d6be92361e815ca52b9741c265c47484c4946a96bafbd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:26:51.816Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "白背景・ﾗｸｶﾞｷ・ﾏﾄﾒﾀｰﾉ",
+      "tags": [
+        "艦隊これくしょん",
+        "艦これ",
+        "黒潮(艦隊これくしょん)",
+        "愛宕(艦隊これくしょん)",
+        "ヘレナ(艦隊これくしょん)",
+        "フェニックス(艦隊これくしょん)",
+        "イントレピッド(艦隊これくしょん)",
+        "初月(艦隊これくしょん)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150340405_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150340405",
+      "sourceCreatedAt": "2026-10-01T15:05:08.000Z"
+    },
+    {
       "id": "6a8c54c9",
       "filename": "pixiv_150332930_p0.jpg",
       "path": "uploads/2026/10/68670be6.jpg",
