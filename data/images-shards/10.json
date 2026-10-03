@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "7dba4221",
+      "filename": "pixiv_150314111_p0.jpg",
+      "path": "uploads/2026/10/16640aaf.jpg",
+      "size": 778661,
+      "width": 919,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0b837e93ae1a08abb31dc0b5c1aa8088ec3d69bf428944992836967e850de393",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:08:58.823Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "民の想像力を制限しない肖像画",
+      "tags": [
+        "原神",
+        "アナスターシャ・フョードロヴナ・スネージナヤ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150314111_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150314111",
+      "sourceCreatedAt": "2026-10-01T00:33:48.000Z"
+    },
+    {
       "id": "d4d25662",
       "filename": "pixiv_150362349_p0.jpg",
       "path": "uploads/2026/10/40e00c2e.jpg",
