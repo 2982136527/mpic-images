@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "88b6d820",
+      "filename": "pixiv_150362616_p0.jpg",
+      "path": "uploads/2026/10/449472b0.jpg",
+      "size": 1112906,
+      "width": 823,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "15dc5da70f62c122036f06639d11e8ba8b017cf1a0ce5df0a6d93a30d0d11cf6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:08:21.803Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "フラン",
+      "tags": [
+        "東方project",
+        "東方",
+        "フランドール・スカーレット",
+        "フラン",
+        "フランイラスト",
+        "白ニーソ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150362616_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150362616",
+      "sourceCreatedAt": "2026-10-02T09:13:46.000Z"
+    },
+    {
       "id": "058cef4b",
       "filename": "pixiv_150324133_p0.jpg",
       "path": "uploads/2026/10/519c71e0.jpg",
