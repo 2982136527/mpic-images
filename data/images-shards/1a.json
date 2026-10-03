@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "7bf2627e",
+      "filename": "pixiv_150365344_p0.jpg",
+      "path": "uploads/2026/10/537fe016.jpg",
+      "size": 1510337,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2da375767c2827403195f43fe8ad54c46ee0607acdb2f8fe227eafd6e879bcf1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T19:12:44.268Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "メイドさんになってくれた魈＆空",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "魈",
+        "パイモン(原神)",
+        "空(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150365344_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150365344",
+      "sourceCreatedAt": "2026-10-02T10:30:13.000Z"
+    },
+    {
       "id": "3533118c",
       "filename": "pixiv_150360782_p0.jpg",
       "path": "uploads/2026/10/c53ef25f.jpg",
