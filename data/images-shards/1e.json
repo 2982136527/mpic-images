@@ -3,6 +3,32 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "eab0bbd3",
+      "filename": "pixiv_150318080_p0.jpg",
+      "path": "uploads/2026/10/53213feb.jpg",
+      "size": 965673,
+      "width": 1162,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1e352939d4ce5acfd6f4068d70a3abc57789923ec6efaff5d8c7a279f63ef126",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T19:17:45.537Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "愛宕さん",
+      "tags": [
+        "艦これ",
+        "艦隊これくしょん",
+        "競泳水着",
+        "愛宕(艦隊これくしょん)",
+        "胸がぱんぱかぱーん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150318080_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150318080",
+      "sourceCreatedAt": "2026-10-01T04:07:35.000Z"
+    },
+    {
       "id": "a4423b31",
       "filename": "pixiv_150325369_p0.jpg",
       "path": "uploads/2026/10/7f301492.jpg",
