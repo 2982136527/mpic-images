@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "d52ffd3e",
+      "filename": "pixiv_150365060_p0.jpg",
+      "path": "uploads/2026/10/3ec75d61.jpg",
+      "size": 453195,
+      "width": 1200,
+      "height": 776,
+      "mimeType": "image/jpeg",
+      "hash": "29010145cac8576155e96a6e518911af61cf42b1fb4c1e304b18928c157a307f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:12:32.442Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "3種のおめめ",
+      "tags": [
+        "めめ村"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150365060_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150365060",
+      "sourceCreatedAt": "2026-10-02T10:23:00.000Z"
+    },
+    {
       "id": "f813f4b3",
       "filename": "pixiv_150363132_p0.jpg",
       "path": "uploads/2026/10/4b6edce6.jpg",
