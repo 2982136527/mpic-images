@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "878c92aa",
+      "filename": "pixiv_150357134_p0.jpg",
+      "path": "uploads/2026/10/87883756.jpg",
+      "size": 703956,
+      "width": 780,
+      "height": 642,
+      "mimeType": "image/jpeg",
+      "hash": "46d369ebb6f083d01e119eb36e72f334574702526ae231c6d4c777aa42dd9281",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:11:53.852Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Eyepatch & Rewards",
+      "tags": [
+        "EUDETENIS",
+        "resprite",
+        "Pixelart"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150357134_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150357134",
+      "sourceCreatedAt": "2026-10-02T05:25:45.000Z"
+    },
+    {
       "id": "ee7dccd4",
       "filename": "pixiv_150322098_p0.jpg",
       "path": "uploads/2026/10/be288ca1.jpg",
