@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "d89fb801",
+      "filename": "pixiv_150309378_p0.jpg",
+      "path": "uploads/2026/10/9a168b89.jpg",
+      "size": 800265,
+      "width": 700,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "88fe2d90d20232ee3f666199e4b07b01679f5d76b56ebab9e49dde26e79e8cd5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T19:15:19.495Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Nothing beats a cool drink!",
+      "tags": [
+        "NIKKE",
+        "勝利の女神:NIKKE",
+        "レッドフード:レトロデイズ",
+        "レッドフード(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150309378_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150309378",
+      "sourceCreatedAt": "2026-09-30T19:34:27.000Z"
+    },
+    {
       "id": "45fa5e0b",
       "filename": "pixiv_150330126_p0.jpg",
       "path": "uploads/2026/10/d5e84b6b.jpg",
