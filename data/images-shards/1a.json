@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "3533118c",
+      "filename": "pixiv_150360782_p0.jpg",
+      "path": "uploads/2026/10/c53ef25f.jpg",
+      "size": 806976,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d83f7222b60d38536b456e61a442139e4d07638ad8b56806b858824e6e59bc42",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:26:06.207Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "鋼ツイログ6",
+      "tags": [
+        "鋼の錬金術師",
+        "腐向け",
+        "ロイエド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150360782_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150360782",
+      "sourceCreatedAt": "2026-10-02T08:16:14.000Z"
+    },
+    {
       "id": "6dea6bca",
       "filename": "pixiv_150302220_p0.jpg",
       "path": "uploads/2026/10/7588f290.jpg",
