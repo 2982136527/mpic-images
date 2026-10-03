@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "19db9318",
+      "filename": "pixiv_150311906_p0.jpg",
+      "path": "uploads/2026/10/4925efa2.jpg",
+      "size": 548967,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e1c669bb36613adf71008bc750ea1930a9bda9b12490558f02f31c392f13f7eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T19:17:51.426Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "twstログ⑬",
+      "tags": [
+        "ツイステ",
+        "ツイステ500users入り",
+        "ツイステ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150311906_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150311906",
+      "sourceCreatedAt": "2026-09-30T22:20:28.000Z"
+    },
+    {
       "id": "b61dd288",
       "filename": "pixiv_150374178_p0.jpg",
       "path": "uploads/2026/10/614a0469.jpg",
