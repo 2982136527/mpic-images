@@ -3,6 +3,37 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "459173b4",
+      "filename": "pixiv_150348943_p0.jpg",
+      "path": "uploads/2026/10/6675a3bc.jpg",
+      "size": 249188,
+      "width": 600,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "89877207434c80fe99874affb00895d9f398f648ad6af6628334be7ed90edf7d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:07:39.267Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ダーツ",
+      "tags": [
+        "ポケモン",
+        "カフェライチュウ",
+        "そうはならんやろ",
+        "ライチュウも楽しそうですね",
+        "やはり偏るアンケート",
+        "なっとるやろがい",
+        "なにこの仔かわいい",
+        "キッチンペーパー",
+        "てぴっ",
+        "訓練されたコメント欄"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150348943_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150348943",
+      "sourceCreatedAt": "2026-10-01T22:00:10.000Z"
+    },
+    {
       "id": "1f7a3ee0",
       "filename": "pixiv_150306992_p0.jpg",
       "path": "uploads/2026/10/3b4b3930.jpg",
