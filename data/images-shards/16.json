@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "a3edc342",
+      "filename": "pixiv_150339773_p0.jpg",
+      "path": "uploads/2026/10/5df31f9f.jpg",
+      "size": 509033,
+      "width": 929,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b24e43225aa2a065acf0956d254beebbaa4d0404ab1184034c7e353270ca9ba1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:11:29.288Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "きすま。",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150339773_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150339773",
+      "sourceCreatedAt": "2026-10-01T15:00:00.000Z"
+    },
+    {
       "id": "b358dd6d",
       "filename": "pixiv_150315016_p0.jpg",
       "path": "uploads/2026/10/2be3a0df.jpg",
