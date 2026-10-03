@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "2a2c3708",
+      "filename": "pixiv_150365146_p0.jpg",
+      "path": "uploads/2026/10/4594346a.jpg",
+      "size": 1196422,
+      "width": 874,
+      "height": 1166,
+      "mimeType": "image/jpeg",
+      "hash": "88e6dc8f47c4d973af863f75fedad905e446ef79e732821e2e52d1177b238f30",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:09:05.787Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "10月の香水",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "イラスト",
+        "香水",
+        "ハロウィン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150365146_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150365146",
+      "sourceCreatedAt": "2026-10-02T10:25:12.000Z"
+    },
+    {
       "id": "7dba4221",
       "filename": "pixiv_150314111_p0.jpg",
       "path": "uploads/2026/10/16640aaf.jpg",
