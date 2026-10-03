@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "ea0611f4",
+      "filename": "pixiv_149299009_p0.jpg",
+      "path": "uploads/2026/10/fcf1e2cb.jpg",
+      "size": 636266,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3b92461b27d84d467b502a3b0bca22bd8f5c706c4344f566c8c253fa420bd26c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:25:09.465Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "羽",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "南宮羽"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149299009_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149299009",
+      "sourceCreatedAt": "2026-09-05T06:17:04.000Z"
+    },
+    {
       "id": "c3c43bac",
       "filename": "pixiv_150316099_p0.jpg",
       "path": "uploads/2026/10/5334746c.jpg",
