@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "ac0a3901",
+      "filename": "pixiv_150358983_p0.jpg",
+      "path": "uploads/2026/10/1bacf57e.jpg",
+      "size": 613460,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "eba079b56fe50248b34bd2e0ca8bbafc9638aab3e9219e8be12970307754b969",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T19:12:38.459Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ドラコ・マルフォイ",
+      "tags": [
+        "ハリーポッター",
+        "女の子",
+        "♀ドラコ",
+        "ドラコ・マルフォイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150358983_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150358983",
+      "sourceCreatedAt": "2026-10-02T06:58:38.000Z"
+    },
+    {
       "id": "2254ccce",
       "filename": "pixiv_150362355_p0.jpg",
       "path": "uploads/2026/10/9ac3f7aa.jpg",
