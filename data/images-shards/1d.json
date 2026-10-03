@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "45e0607c",
+      "filename": "pixiv_150373641_p0.jpg",
+      "path": "uploads/2026/10/ba836bd7.jpg",
+      "size": 624377,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b8b62e217dd50daf0ab1edb8faa85745e9967df556c8cddaacc3e5e41ea5bb14",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T19:11:42.481Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "銀狼",
+      "tags": [
+        "崩壊スターレイル",
+        "崩壊:スターレイル",
+        "銀狼(スターレイル)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150373641_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150373641",
+      "sourceCreatedAt": "2026-10-02T13:22:34.000Z"
+    },
+    {
       "id": "c4c986d0",
       "filename": "pixiv_150309616_p0.jpg",
       "path": "uploads/2026/10/d562cd79.jpg",
