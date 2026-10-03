@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "b358dd6d",
+      "filename": "pixiv_150315016_p0.jpg",
+      "path": "uploads/2026/10/2be3a0df.jpg",
+      "size": 344253,
+      "width": 640,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b3194b16c4e7a7a589aad3eb4d0b1a5503cd13f820fbce76636de0f9ae4e8438",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:10:51.215Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "YoRHa No.2 Type B",
+      "tags": [
+        "ニーアオートマタ",
+        "2B",
+        "ヨルハ二号B型",
+        "NieR:Automata"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150315016_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150315016",
+      "sourceCreatedAt": "2026-10-01T01:33:34.000Z"
+    },
+    {
       "id": "948db82a",
       "filename": "pixiv_150324428_p0.jpg",
       "path": "uploads/2026/10/d37742af.jpg",
