@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "4701225b",
+      "filename": "pixiv_150317684_p0.jpg",
+      "path": "uploads/2026/10/ac4f532a.jpg",
+      "size": 2003581,
+      "width": 777,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "93d4b63a60f57aa4262f11e3cdbd677f5b4640824776c060e0e55d3a602857c8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:07:20.142Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Himeko Nova",
+      "tags": [
+        "HonkaiStarRail",
+        "Himeko",
+        "姬子",
+        "崩壊:スターレイル",
+        "姫子・旅立ち"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150317684_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150317684",
+      "sourceCreatedAt": "2026-10-01T03:48:55.000Z"
+    },
+    {
       "id": "d9f5d01c",
       "filename": "pixiv_150320002_p0.jpg",
       "path": "uploads/2026/10/f19c1fb5.jpg",
