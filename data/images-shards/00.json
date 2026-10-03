@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "7c0bd079",
+      "filename": "pixiv_150340210_p0.jpg",
+      "path": "uploads/2026/10/9c04dcaf.jpg",
+      "size": 610631,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "0ff44dd920b8cdb445737f1dec25a3b6d55f2213398188046eb765ddb3c0c8ef",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T19:13:37.861Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ヤン・ジシュカ",
+      "tags": [
+        "Fate/GrandOrder",
+        "Fate",
+        "FGO",
+        "Fate/GO",
+        "TYPE-MOON",
+        "ヤン・ジシュカ(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150340210_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150340210",
+      "sourceCreatedAt": "2026-10-01T15:02:33.000Z"
+    },
+    {
       "id": "fe9d21a2",
       "filename": "pixiv_150362901_p0.jpg",
       "path": "uploads/2026/10/96a1aa9d.jpg",
