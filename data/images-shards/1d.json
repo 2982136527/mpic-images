@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "911652f7",
+      "filename": "pixiv_150335756_p0.jpg",
+      "path": "uploads/2026/10/141e5d7e.jpg",
+      "size": 1102183,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4b138645c701fadeadf9306e1625bc3864e845b802f2a621677c20ac9b4ac9db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T19:12:17.751Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "風吹く午後",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "背景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150335756_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150335756",
+      "sourceCreatedAt": "2026-10-01T13:29:52.000Z"
+    },
+    {
       "id": "45e0607c",
       "filename": "pixiv_150373641_p0.jpg",
       "path": "uploads/2026/10/ba836bd7.jpg",
