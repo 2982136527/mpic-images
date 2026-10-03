@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "ce8c9d0b",
+      "filename": "pixiv_150307241_p0.jpg",
+      "path": "uploads/2026/10/d2ac9888.jpg",
+      "size": 1045332,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "744a232952600210f8f25a98701162e44f9e83ffa82281aac4bc5d97189129ab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:20:00.429Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ル・ノワールブランドマネージャードンキホーテ",
+      "tags": [
+        "LimbusCompany",
+        "Limbus_Company",
+        "ドンキホーテ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150307241_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150307241",
+      "sourceCreatedAt": "2026-09-30T17:18:17.000Z"
+    },
+    {
       "id": "826975bb",
       "filename": "pixiv_150149049_p0.jpg",
       "path": "uploads/2026/10/49566aa9.jpg",
