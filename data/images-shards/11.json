@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "30c4a182",
+      "filename": "pixiv_150341050_p0.jpg",
+      "path": "uploads/2026/10/b904e701.jpg",
+      "size": 832359,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fdb071b17af634aa8d0b9abbecb5695d9872b7710cd3fb710e860bdacf596771",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:10:35.545Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ファウスト描きました",
+      "tags": [
+        "Limbus_Company",
+        "ファウスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150341050_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150341050",
+      "sourceCreatedAt": "2026-10-01T15:19:59.000Z"
+    },
+    {
       "id": "88b6d820",
       "filename": "pixiv_150362616_p0.jpg",
       "path": "uploads/2026/10/449472b0.jpg",
