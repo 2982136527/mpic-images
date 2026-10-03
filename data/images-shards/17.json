@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "e4f035c4",
+      "filename": "pixiv_150375439_p0.jpg",
+      "path": "uploads/2026/10/4cba851e.jpg",
+      "size": 196577,
+      "width": 650,
+      "height": 398,
+      "mimeType": "image/jpeg",
+      "hash": "d1c138e1fb9625610fa09f676a822cdafac19bcc901947683bf15ccc5b71ec1c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:15:23.142Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🎾らくがきLOG3(微腐向け含)",
+      "tags": [
+        "庭球"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150375439_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150375439",
+      "sourceCreatedAt": "2026-10-02T14:01:50.000Z"
+    },
+    {
       "id": "6e2d6aaf",
       "filename": "pixiv_150349259_p0.jpg",
       "path": "uploads/2026/10/39afbd47.jpg",
