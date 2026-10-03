@@ -3,6 +3,33 @@
   "shardId": "15",
   "images": [
     {
+      "id": "aa7f722f",
+      "filename": "pixiv_150325396_p0.jpg",
+      "path": "uploads/2026/10/82558cc7.jpg",
+      "size": 542878,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "85e5c453566c229ba67ea008fdea50fc8e91a8429a4ade744ca058e227ef59f0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:09:57.460Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "雪ミク",
+      "tags": [
+        "イラスト",
+        "VOCALOID",
+        "初音ミク",
+        "ボカロ",
+        "HatsuneMiku",
+        "ボーカロイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150325396_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150325396",
+      "sourceCreatedAt": "2026-10-01T09:25:28.000Z"
+    },
+    {
       "id": "5d7f4e5a",
       "filename": "pixiv_150326100_p0.jpg",
       "path": "uploads/2026/10/2b3149e5.jpg",
