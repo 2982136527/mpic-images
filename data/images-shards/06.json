@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "1d131b58",
+      "filename": "pixiv_150333126_p0.jpg",
+      "path": "uploads/2026/10/86441a55.jpg",
+      "size": 705616,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "e7eae7687571ca487630167b496d8fd8fe785c228aa7d5283954b078b100ebc1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:21:38.779Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "セイレーンとあのこ",
+      "tags": [
+        "ちいかわ",
+        "セイレーン(ちいかわ)",
+        "あのこ(ちいかわ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150333126_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150333126",
+      "sourceCreatedAt": "2026-10-01T12:37:09.000Z"
+    },
+    {
       "id": "a55e7b03",
       "filename": "pixiv_150305588_p0.jpg",
       "path": "uploads/2026/10/7688a9e6.jpg",
