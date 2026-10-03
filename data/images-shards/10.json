@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "75a2aad1",
+      "filename": "pixiv_150367684_p0.jpg",
+      "path": "uploads/2026/10/a459a0af.jpg",
+      "size": 1386432,
+      "width": 861,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "24f16a5c5de89ff915e0154a73046976daa5b4cf56913109428bffce30786146",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T05:10:27.861Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Hsin",
+      "tags": [
+        "WutheringWaves",
+        "Hsin",
+        "心(鳴潮)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150367684_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150367684",
+      "sourceCreatedAt": "2026-10-02T11:21:53.000Z"
+    },
+    {
       "id": "2a2c3708",
       "filename": "pixiv_150365146_p0.jpg",
       "path": "uploads/2026/10/4594346a.jpg",
