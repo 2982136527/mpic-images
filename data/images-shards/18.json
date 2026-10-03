@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "11f349fd",
+      "filename": "pixiv_150340866_p0.jpg",
+      "path": "uploads/2026/10/30656efa.jpg",
+      "size": 370620,
+      "width": 900,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "b11c628ea6128e0541cb5f6648fe207da416e2a31e69996c30b61630789b3ffe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:18:31.910Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "手乗りレミエール",
+      "tags": [
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ",
+        "レミエール・ダン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150340866_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150340866",
+      "sourceCreatedAt": "2026-10-01T15:15:40.000Z"
+    },
+    {
       "id": "91bfc271",
       "filename": "pixiv_150272521_p0.jpg",
       "path": "uploads/2026/10/01496bb7.jpg",
