@@ -3,6 +3,37 @@
   "shardId": "02",
   "images": [
     {
+      "id": "faac9ddb",
+      "filename": "pixiv_150347245_p0.jpg",
+      "path": "uploads/2026/10/35972e95.jpg",
+      "size": 1058371,
+      "width": 1200,
+      "height": 926,
+      "mimeType": "image/jpeg",
+      "hash": "db0a35867a14f1598b78738ae461d62f2a76829e37aa5878f2e4b8bb9cb1ed24",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T19:14:23.671Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "豆腐の日🤍",
+      "tags": [
+        "豆腐の日",
+        "とうふ",
+        "冷奴",
+        "和食",
+        "手描き",
+        "今日は何の日",
+        "食べ物",
+        "food",
+        "おつまみ",
+        "大豆"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150347245_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150347245",
+      "sourceCreatedAt": "2026-10-01T20:10:47.000Z"
+    },
+    {
       "id": "f2c1c62e",
       "filename": "pixiv_150327214_p0.jpg",
       "path": "uploads/2026/10/b13b12b4.jpg",
