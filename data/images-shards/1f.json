@@ -3,6 +3,37 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "b1cfd4f2",
+      "filename": "pixiv_150331119_p0.jpg",
+      "path": "uploads/2026/10/090a857d.jpg",
+      "size": 456043,
+      "width": 930,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "27349a9b7391dd5c1c09f5da637b1329ec135ad69ad4bbc07ea0619d23ff42cc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:23:13.783Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "クリーチャー #13",
+      "tags": [
+        "クリーチャー",
+        "オリジナルクリーチャー",
+        "多脚",
+        "ボディホラー",
+        "顎",
+        "人体ホラー",
+        "骨",
+        "人外",
+        "異形",
+        "化け物"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150331119_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150331119",
+      "sourceCreatedAt": "2026-10-01T11:50:10.000Z"
+    },
+    {
       "id": "68b281ed",
       "filename": "pixiv_150330892_p0.jpg",
       "path": "uploads/2026/10/2da72a86.jpg",
