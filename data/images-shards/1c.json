@@ -3,6 +3,33 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "b61dd288",
+      "filename": "pixiv_150374178_p0.jpg",
+      "path": "uploads/2026/10/614a0469.jpg",
+      "size": 812902,
+      "width": 1120,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cc13241094dddfdb4c83040b6b8970c4399b723bc67350f2f9c89bad4ceb6da4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T19:17:24.279Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "twst夢ログ11",
+      "tags": [
+        "twst夢",
+        "女監督生",
+        "エー監",
+        "デュ監",
+        "ラギ監",
+        "フロ監"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150374178_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150374178",
+      "sourceCreatedAt": "2026-10-02T13:32:54.000Z"
+    },
+    {
       "id": "aa155f35",
       "filename": "pixiv_150359371_p0.jpg",
       "path": "uploads/2026/10/345cc70a.jpg",
