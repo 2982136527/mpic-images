@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "729a6d4e",
+      "filename": "pixiv_150357110_p0.jpg",
+      "path": "uploads/2026/10/469b3a0b.jpg",
+      "size": 880542,
+      "width": 705,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9eb8dcf05d752a49eb79a77d569e78a72eccc3965afe4b2fa19317ff94b7f724",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:19:46.469Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Hsin",
+      "tags": [
+        "鳴潮",
+        "心(鳴潮)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150357110_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150357110",
+      "sourceCreatedAt": "2026-10-02T05:24:32.000Z"
+    },
+    {
       "id": "f109cda9",
       "filename": "pixiv_150354078_p0.jpg",
       "path": "uploads/2026/10/265da176.jpg",
