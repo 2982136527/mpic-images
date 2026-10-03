@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "4c28145c",
+      "filename": "pixiv_150340215_p0.jpg",
+      "path": "uploads/2026/10/29a2f81c.jpg",
+      "size": 2093163,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7df844fbd79ba5c5201cdf489d4436ac68cfb15fef73ac704a1a4030983dec88",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:25:51.905Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "大穢まとめ",
+      "tags": [
+        "大穢",
+        "大竹",
+        "大新",
+        "大静",
+        "大汐"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150340215_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150340215",
+      "sourceCreatedAt": "2026-10-01T15:02:39.000Z"
+    },
+    {
       "id": "2dc78f9c",
       "filename": "pixiv_150350921_p0.jpg",
       "path": "uploads/2026/10/dba2eaa3.jpg",
