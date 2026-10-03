@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "8fff549e",
+      "filename": "pixiv_150320419_p0.jpg",
+      "path": "uploads/2026/10/eb67096a.jpg",
+      "size": 590133,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ced064d6f12db7fecb0dae3f6b74a6f89ff803c0298c3026ddd4598fa37b7d1b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T19:14:34.820Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ブルーアーカイブ",
+        "블루아카이브",
+        "狐坂ワカモ",
+        "ブルアカ",
+        "狐っ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150320419_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150320419",
+      "sourceCreatedAt": "2026-10-01T06:15:19.000Z"
+    },
+    {
       "id": "4c28145c",
       "filename": "pixiv_150340215_p0.jpg",
       "path": "uploads/2026/10/29a2f81c.jpg",
