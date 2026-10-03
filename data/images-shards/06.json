@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "a55e7b03",
+      "filename": "pixiv_150305588_p0.jpg",
+      "path": "uploads/2026/10/7688a9e6.jpg",
+      "size": 945320,
+      "width": 989,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "69d5c90b3102da1249e951b77beec40214e57c47bfa9e0c0c1c672d525f7346d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-03T13:17:49.397Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "本当に寝てたのかな",
+      "tags": [
+        "創作",
+        "一次創作",
+        "メンヘラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150305588_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150305588",
+      "sourceCreatedAt": "2026-09-30T16:11:01.000Z"
+    },
+    {
       "id": "bb2441f6",
       "filename": "pixiv_150319511_p0.jpg",
       "path": "uploads/2026/10/bc90598c.jpg",
