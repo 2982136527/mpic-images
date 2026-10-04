@@ -3,6 +3,36 @@
   "shardId": "04",
   "images": [
     {
+      "id": "c067bae0",
+      "filename": "pixiv_150378466_p0.jpg",
+      "path": "uploads/2026/10/4c1a0f94.jpg",
+      "size": 1117532,
+      "width": 1200,
+      "height": 576,
+      "mimeType": "image/jpeg",
+      "hash": "16fa35d6f973f906f8216273b4e809cdfbcabcee03571dcf62c53982dbb033ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:53:49.307Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "海平面",
+      "tags": [
+        "女の子",
+        "原创",
+        "场景",
+        "少女",
+        "插画",
+        "風景",
+        "废墟",
+        "武装少女",
+        "必ず生きて帰ってこい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150378466_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150378466",
+      "sourceCreatedAt": "2026-10-02T15:03:35.000Z"
+    },
+    {
       "id": "56bb64f5",
       "filename": "pixiv_150390162_p0.jpg",
       "path": "uploads/2026/10/2f0a110e.jpg",
