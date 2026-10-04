@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "408c9cc5",
+      "filename": "pixiv_150356189_p0.jpg",
+      "path": "uploads/2026/10/27e0cfc0.jpg",
+      "size": 760483,
+      "width": 860,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4317b55954cede64c64ed8c059ae6f7872371ac85e78e61282964ecbc206bacc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:44:45.068Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "夕瓜",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "シー(アークナイツ)",
+        "夕",
+        "夕博",
+        "博夕"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150356189_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150356189",
+      "sourceCreatedAt": "2026-10-02T04:32:38.000Z"
+    },
+    {
       "id": "f3796c30",
       "filename": "pixiv_150340405_p0.jpg",
       "path": "uploads/2026/10/7dcf1ebd.jpg",
