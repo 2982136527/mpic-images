@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "0141d29a",
+      "filename": "pixiv_150347142_p0.jpg",
+      "path": "uploads/2026/10/b837cd8a.jpg",
+      "size": 549643,
+      "width": 1200,
+      "height": 784,
+      "mimeType": "image/jpeg",
+      "hash": "0efac563ee6c968a95fc5eba74af0ce29d256438d36bb6c046ecf25bbd6e09df",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:34:30.180Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Yani Neko n frens",
+      "tags": [
+        "ヤニねこ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150347142_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150347142",
+      "sourceCreatedAt": "2026-10-01T20:02:14.000Z"
+    },
+    {
       "id": "d8553a5d",
       "filename": "pixiv_150410115_p0.jpg",
       "path": "uploads/2026/10/9fef1547.jpg",
