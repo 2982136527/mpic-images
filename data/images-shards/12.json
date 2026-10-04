@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "59fabb56",
+      "filename": "pixiv_150345938_p0.jpg",
+      "path": "uploads/2026/10/1a44436e.jpg",
+      "size": 1070729,
+      "width": 1200,
+      "height": 1172,
+      "mimeType": "image/jpeg",
+      "hash": "694931166b186cf1e5f2902e5522ec4e026887b1f563aef5a1ffca1e660ebcd0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:46:10.009Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Malfoid and Chapotter",
+      "tags": [
+        "HarryPotter",
+        "Malfoid",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150345938_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150345938",
+      "sourceCreatedAt": "2026-10-01T18:36:43.000Z"
+    },
+    {
       "id": "1ac11792",
       "filename": "pixiv_150402608_p0.jpg",
       "path": "uploads/2026/10/bf53a683.jpg",
