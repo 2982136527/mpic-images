@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "a945a06e",
+      "filename": "pixiv_150390911_p0.jpg",
+      "path": "uploads/2026/10/0549774e.jpg",
+      "size": 1042692,
+      "width": 961,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9d4dc6d251aab27b0e31816d26f1cf0a05bcf1708ac4637644d47e57171c1ee0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:32:34.419Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ROSE",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作",
+        "薔薇"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150390911_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150390911",
+      "sourceCreatedAt": "2026-10-03T01:00:22.000Z"
+    },
+    {
       "id": "4dbf4d6a",
       "filename": "pixiv_150405524_p0.jpg",
       "path": "uploads/2026/10/4111da6a.jpg",
