@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "dc56382c",
+      "filename": "pixiv_150406149_p0.jpg",
+      "path": "uploads/2026/10/d3d98cd9.jpg",
+      "size": 384342,
+      "width": 815,
+      "height": 1150,
+      "mimeType": "image/jpeg",
+      "hash": "1d6bf4211c8bb828942e3c8ee8faddb29793f8300809cfc927943b035521acb2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:55:12.067Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "座り霊夢立ち絵 表情差分",
+      "tags": [
+        "東方",
+        "博麗霊夢",
+        "立ち絵",
+        "Skeb"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150406149_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150406149",
+      "sourceCreatedAt": "2026-10-03T09:54:03.000Z"
+    },
+    {
       "id": "e6bbad3d",
       "filename": "pixiv_150356888_p0.jpg",
       "path": "uploads/2026/10/faf8a1cc.jpg",
