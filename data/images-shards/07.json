@@ -3,6 +3,32 @@
   "shardId": "07",
   "images": [
     {
+      "id": "b3bd2bbf",
+      "filename": "pixiv_150366345_p0.jpg",
+      "path": "uploads/2026/10/9dbe1746.jpg",
+      "size": 1395406,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09665cc91ef364addcd5d4e48bc1cd464853c68fa3da9a803d6a633eb83aac39",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:46:24.526Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Ho'oltober #2",
+      "tags": [
+        "ホルハイヤ(アークナイツ)",
+        "霍尔海雅",
+        "Arknights",
+        "アークナイツ",
+        "明日方舟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150366345_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150366345",
+      "sourceCreatedAt": "2026-10-02T10:56:27.000Z"
+    },
+    {
       "id": "bd4eb663",
       "filename": "pixiv_150321320_p0.jpg",
       "path": "uploads/2026/10/75309f40.jpg",
