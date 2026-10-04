@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "96a09134",
+      "filename": "pixiv_150353487_p0.jpg",
+      "path": "uploads/2026/10/fbd3bec7.jpg",
+      "size": 476122,
+      "width": 1200,
+      "height": 942,
+      "mimeType": "image/jpeg",
+      "hash": "e74a3d1e8975531e99488dc32acdee1ba5c3434e95160561aad63f4efe89833e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:42:01.230Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ウィキペたん fa",
+      "tags": [
+        "Wikipedia",
+        "ウィキペたん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150353487_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150353487",
+      "sourceCreatedAt": "2026-10-02T02:19:46.000Z"
+    },
+    {
       "id": "ea6f6ed2",
       "filename": "pixiv_150356829_p0.jpg",
       "path": "uploads/2026/10/a69e188a.jpg",
