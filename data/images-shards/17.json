@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "147b263e",
+      "filename": "pixiv_150384086_p0.jpg",
+      "path": "uploads/2026/10/88ba5521.jpg",
+      "size": 446651,
+      "width": 670,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7f3d28323188504522e7fbe8e1795f1f3acddf05398a746cc60dfa03326404f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:38:55.865Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "スティル",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "スティルインラブ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150384086_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150384086",
+      "sourceCreatedAt": "2026-10-02T18:14:44.000Z"
+    },
+    {
       "id": "1eea8fd6",
       "filename": "pixiv_150396604_p0.jpg",
       "path": "uploads/2026/10/d972e059.jpg",
