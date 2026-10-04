@@ -3,6 +3,34 @@
   "shardId": "19",
   "images": [
     {
+      "id": "758a3c32",
+      "filename": "pixiv_150415568_p0.jpg",
+      "path": "uploads/2026/10/c307bb5a.jpg",
+      "size": 707971,
+      "width": 1170,
+      "height": 808,
+      "mimeType": "image/jpeg",
+      "hash": "f42dc92bacacf33dc0d58a8084e9c119c4f9f9410d51c13ede1f6068040fb202",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:42:29.863Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "最近のイラストまとめ",
+      "tags": [
+        "ボカロ",
+        "初音ミク",
+        "重音テト",
+        "歌愛ユキ",
+        "音街ウナ",
+        "足立レイ",
+        "ボーカロイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150415568_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150415568",
+      "sourceCreatedAt": "2026-10-03T13:16:14.000Z"
+    },
+    {
       "id": "96a09134",
       "filename": "pixiv_150353487_p0.jpg",
       "path": "uploads/2026/10/fbd3bec7.jpg",
