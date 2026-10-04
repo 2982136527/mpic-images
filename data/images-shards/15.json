@@ -3,6 +3,37 @@
   "shardId": "15",
   "images": [
     {
+      "id": "23080f18",
+      "filename": "pixiv_150393548_p0.jpg",
+      "path": "uploads/2026/10/839ded90.jpg",
+      "size": 1094621,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4eba02a55df1be3f1a30519f805fa5a5ab5e16dde64862acb3e1b4bc7ccd290a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:45:36.465Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "メイドとかバニーとか色々",
+      "tags": [
+        "Limbus_Company",
+        "アンジェラ",
+        "足立レイ",
+        "Palette(LCB)",
+        "メイド",
+        "バニーガール",
+        "ドンキホーテ(LCB)",
+        "ファウスト(LCB)",
+        "イシュメール(LCB)",
+        "ロージャ(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150393548_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150393548",
+      "sourceCreatedAt": "2026-10-03T02:56:10.000Z"
+    },
+    {
       "id": "81b44bc4",
       "filename": "pixiv_150378024_p0.jpg",
       "path": "uploads/2026/10/2ea28db8.jpg",
