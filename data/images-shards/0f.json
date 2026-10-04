@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "68988361",
+      "filename": "pixiv_150214824_p0.jpg",
+      "path": "uploads/2026/10/d83ba7d8.jpg",
+      "size": 801900,
+      "width": 690,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "70e36bce27c8b6218924d05b5a0fe18038dd7c599aad9cdefd338b368ec00892",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:37:40.870Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Nera2",
+      "tags": [
+        "ghostblade",
+        "wlop"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150214824_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150214824",
+      "sourceCreatedAt": "2026-09-28T09:45:13.000Z"
+    },
+    {
       "id": "9fb92696",
       "filename": "pixiv_150399817_p0.jpg",
       "path": "uploads/2026/10/018712af.jpg",
