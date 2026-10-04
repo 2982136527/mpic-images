@@ -3,6 +3,37 @@
   "shardId": "09",
   "images": [
     {
+      "id": "6e8878de",
+      "filename": "pixiv_150408199_p0.jpg",
+      "path": "uploads/2026/10/fc6c1175.jpg",
+      "size": 436834,
+      "width": 1200,
+      "height": 599,
+      "mimeType": "image/jpeg",
+      "hash": "3d1c7791bcb334bcc7d087f43420cd53e915e50362c63fa5592b235492b564e7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:35:46.287Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "バブラー",
+      "tags": [
+        "Memoruin",
+        "クリーチャー",
+        "オリジナルクリーチャー",
+        "多脚",
+        "異形",
+        "人外",
+        "化け物",
+        "欠損",
+        "人体",
+        "ボディホラー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150408199_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150408199",
+      "sourceCreatedAt": "2026-10-03T10:41:48.000Z"
+    },
+    {
       "id": "3de3a416",
       "filename": "pixiv_150341449_p0.jpg",
       "path": "uploads/2026/10/0631ca77.jpg",
