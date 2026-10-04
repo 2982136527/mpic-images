@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "7099fabd",
+      "filename": "pixiv_150378798_p0.jpg",
+      "path": "uploads/2026/10/7ff4e09a.jpg",
+      "size": 373471,
+      "width": 987,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4e73c944e67b88f2337cdda7687bd33920eec53c08d5e7cc8b1259460c4a971f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:59:58.872Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Sunlit Outsider",
+      "tags": [
+        "ステイゴールド(ウマ娘)",
+        "ウマ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150378798_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150378798",
+      "sourceCreatedAt": "2026-10-02T15:08:43.000Z"
+    },
+    {
       "id": "044ad9de",
       "filename": "pixiv_150365213_p0.jpg",
       "path": "uploads/2026/10/0a323c58.jpg",
