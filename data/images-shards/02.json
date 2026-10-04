@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "2dcedc5b",
+      "filename": "pixiv_150382377_p0.jpg",
+      "path": "uploads/2026/10/4842c346.jpg",
+      "size": 1394116,
+      "width": 854,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9b0abb1bfaf250f6e35fbbf98b8f7bb19f648777253c7e340c503ea741e1e30b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:36:47.761Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "뒤잔느",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "잔느",
+        "Jeanne"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150382377_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150382377",
+      "sourceCreatedAt": "2026-10-02T16:54:35.000Z"
+    },
+    {
       "id": "df711505",
       "filename": "pixiv_150400510_p0.jpg",
       "path": "uploads/2026/10/a4d3449d.jpg",
