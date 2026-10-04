@@ -3,6 +3,37 @@
   "shardId": "07",
   "images": [
     {
+      "id": "b712c94c",
+      "filename": "pixiv_150388810_p0.jpg",
+      "path": "uploads/2026/10/4f5ed010.jpg",
+      "size": 438161,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "30d211e83346292d9c0d9ce580bdabee3f9aa6b0068867affe926058a605620b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:47:08.544Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "楽しい週末",
+      "tags": [
+        "VOCALOID",
+        "UTAU",
+        "重音テト",
+        "teto",
+        "KasaneTeto",
+        "テト",
+        "初音ミク",
+        "HatsuneMiku",
+        "ミク",
+        "Miku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150388810_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150388810",
+      "sourceCreatedAt": "2026-10-02T23:17:37.000Z"
+    },
+    {
       "id": "b3bd2bbf",
       "filename": "pixiv_150366345_p0.jpg",
       "path": "uploads/2026/10/9dbe1746.jpg",
