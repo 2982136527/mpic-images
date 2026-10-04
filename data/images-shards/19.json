@@ -3,6 +3,37 @@
   "shardId": "19",
   "images": [
     {
+      "id": "83bb9f1e",
+      "filename": "pixiv_150409719_p0.jpg",
+      "path": "uploads/2026/10/3bb10077.jpg",
+      "size": 1125609,
+      "width": 1200,
+      "height": 628,
+      "mimeType": "image/jpeg",
+      "hash": "0a91d16119b5b09b4423ab84b1125e6d8b9c74c522b08d9c19f24cfbace1fc26",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:31:52.800Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "イラスト",
+        "美少女",
+        "女の子",
+        "鹿目まどか",
+        "まどか",
+        "魔法少女まどかマギカ",
+        "魔法少女まどか☆マギカ",
+        "魔法少女",
+        "魔法少女小圆",
+        "アルティメットまどか"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150409719_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150409719",
+      "sourceCreatedAt": "2026-10-03T11:13:57.000Z"
+    },
+    {
       "id": "7378a1f0",
       "filename": "pixiv_150382917_p0.jpg",
       "path": "uploads/2026/10/a15c07ee.jpg",
