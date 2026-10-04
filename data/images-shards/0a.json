@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "44e54217",
+      "filename": "pixiv_150410907_p0.jpg",
+      "path": "uploads/2026/10/c0e53a11.jpg",
+      "size": 337227,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "fd00facc1ff71fef940d5bd9ff25badb11de607bc3495672d54d8b93c27c4269",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:41:08.464Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "いろいろ202609",
+      "tags": [
+        "オリジナル",
+        "曇天"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150410907_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150410907",
+      "sourceCreatedAt": "2026-10-03T11:42:09.000Z"
+    },
+    {
       "id": "8fff549e",
       "filename": "pixiv_150320419_p0.jpg",
       "path": "uploads/2026/10/eb67096a.jpg",
