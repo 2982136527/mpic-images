@@ -3,6 +3,33 @@
   "shardId": "12",
   "images": [
     {
+      "id": "a0e89cd4",
+      "filename": "pixiv_150379743_p0.jpg",
+      "path": "uploads/2026/10/11d8c1aa.jpg",
+      "size": 1321088,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "6e973ee3ab44da17616cbe32f221ebd713642cf194d74d3636743c4368d5d3f9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:32:58.570Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "東方project",
+        "東方風景画",
+        "四人",
+        "鈴仙・優曇華院・イナバ",
+        "八意永琳",
+        "藤原妹紅"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150379743_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150379743",
+      "sourceCreatedAt": "2026-10-02T15:30:39.000Z"
+    },
+    {
       "id": "6a12b9eb",
       "filename": "pixiv_150192936_p0.jpg",
       "path": "uploads/2026/10/3eedc278.jpg",
