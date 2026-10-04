@@ -3,6 +3,34 @@
   "shardId": "17",
   "images": [
     {
+      "id": "bf99cb1c",
+      "filename": "pixiv_150388225_p0.jpg",
+      "path": "uploads/2026/10/c7d76f19.jpg",
+      "size": 546305,
+      "width": 1102,
+      "height": 1102,
+      "mimeType": "image/jpeg",
+      "hash": "e4dc383eaa793641d742c54230b96fdccc692dc8f1a07f26ebc5347f6e7d33af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:45:54.832Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "銀杏",
+      "tags": [
+        "イラスト",
+        "illustration",
+        "カレンダー",
+        "カレンダー壁紙",
+        "秋",
+        "銀杏",
+        "イチョウ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150388225_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150388225",
+      "sourceCreatedAt": "2026-10-02T22:47:01.000Z"
+    },
+    {
       "id": "876a7101",
       "filename": "pixiv_150378010_p0.jpg",
       "path": "uploads/2026/10/eaef5db0.jpg",
