@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "6d4b5090",
+      "filename": "pixiv_150361552_p0.jpg",
+      "path": "uploads/2026/10/cceef1d0.jpg",
+      "size": 1141768,
+      "width": 1200,
+      "height": 786,
+      "mimeType": "image/jpeg",
+      "hash": "7df17c2aeb96cca334e1b03fb3065d1cd6e097f43cfc692efae1166489fcffba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:42:39.481Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "おそい",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "地雷系",
+        "白髪",
+        "ボカリレー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150361552_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150361552",
+      "sourceCreatedAt": "2026-10-02T08:47:04.000Z"
+    },
+    {
       "id": "c3a8e2e5",
       "filename": "pixiv_150362787_p0.jpg",
       "path": "uploads/2026/10/8c9d1701.jpg",
