@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "2ebe3749",
+      "filename": "pixiv_150399861_p0.jpg",
+      "path": "uploads/2026/10/e3ab5425.jpg",
+      "size": 675456,
+      "width": 626,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ce79e9352da1f69fdd647cb2a029dcd8ceff18bf8a2b83c322833880b9ba189a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:39:34.903Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ティフォロス",
+      "tags": [
+        "エンドフィールド",
+        "ティフォロス",
+        "ティフォロス(エンドフィールド)",
+        "脇"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150399861_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150399861",
+      "sourceCreatedAt": "2026-10-03T06:47:17.000Z"
+    },
+    {
       "id": "ac9b1623",
       "filename": "pixiv_150345621_p0.jpg",
       "path": "uploads/2026/10/05cbb37a.jpg",
