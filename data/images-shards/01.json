@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "a11d84f3",
+      "filename": "pixiv_150355716_p0.jpg",
+      "path": "uploads/2026/10/d23cb066.jpg",
+      "size": 959919,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "51cc886337ec6bc7366060b67515fd672342702dac38849a1aff8899a7274413",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:57:01.725Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": ".",
+      "tags": [
+        "낙서",
+        "Limbus_Company",
+        "림버스컴퍼니",
+        "LimbusCompany",
+        "リンバスカンパニー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150355716_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150355716",
+      "sourceCreatedAt": "2026-10-02T04:07:32.000Z"
+    },
+    {
       "id": "f88527f3",
       "filename": "pixiv_150405759_p0.jpg",
       "path": "uploads/2026/10/57b41fcf.jpg",
