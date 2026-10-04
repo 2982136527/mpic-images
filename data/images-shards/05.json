@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "9e3705fa",
+      "filename": "pixiv_150393427_p0.jpg",
+      "path": "uploads/2026/10/23ad5454.jpg",
+      "size": 1113377,
+      "width": 943,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d942c16e6083bc7d2504ba67028b142487fc6eede70fcfc55cdacdf738e42a62",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:46:55.990Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "HappyBirthdayまどか",
+      "tags": [
+        "鹿目まどか",
+        "魔法少女まどか☆マギカ",
+        "ワルプルギスの廻天",
+        "まどか☆マギカ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150393427_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150393427",
+      "sourceCreatedAt": "2026-10-03T02:50:53.000Z"
+    },
+    {
       "id": "e2d05212",
       "filename": "pixiv_150413817_p0.jpg",
       "path": "uploads/2026/10/923524e2.jpg",
