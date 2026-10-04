@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "3364558d",
+      "filename": "pixiv_150414617_p0.jpg",
+      "path": "uploads/2026/10/006d2ea0.jpg",
+      "size": 762789,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a797eb5d7b17a9120575bc6304fb3026e2f151007398bb0ec54dccd34ada142e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:33:26.106Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "玛丽",
+      "tags": [
+        "BlueArchive",
+        "伊落マリー",
+        "ブルーアーカイブ",
+        "腋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150414617_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150414617",
+      "sourceCreatedAt": "2026-10-03T12:58:51.000Z"
+    },
+    {
       "id": "a0e89cd4",
       "filename": "pixiv_150379743_p0.jpg",
       "path": "uploads/2026/10/11d8c1aa.jpg",
