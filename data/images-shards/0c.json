@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "914be1ab",
+      "filename": "pixiv_150405326_p0.jpg",
+      "path": "uploads/2026/10/f5168357.jpg",
+      "size": 1110665,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dc5e27f71ba22995d00181540768911cf282a6b26581cc55da18676b930c9d7b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:35:21.459Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "♢",
+      "tags": [
+        "VTuber",
+        "バーチャルYouTuber",
+        "Shoto",
+        "ArtoftheRogue"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150405326_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150405326",
+      "sourceCreatedAt": "2026-10-03T09:30:53.000Z"
+    },
+    {
       "id": "93a377af",
       "filename": "pixiv_150407037_p0.jpg",
       "path": "uploads/2026/10/4046ca0d.jpg",
