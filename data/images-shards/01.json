@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "c5ade684",
+      "filename": "pixiv_150367116_p0.jpg",
+      "path": "uploads/2026/10/e8b59365.jpg",
+      "size": 849740,
+      "width": 801,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "066741d28bf1f9a7f4af1b4c9cf756d3b01ef1e1e567ad4c5f89d88f64d29ad6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:58:59.455Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "倉持めると 新衣装！",
+      "tags": [
+        "倉持めると",
+        "もちめるあーと",
+        "VTuber",
+        "にじさんじ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150367116_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150367116",
+      "sourceCreatedAt": "2026-10-02T11:08:55.000Z"
+    },
+    {
       "id": "a11d84f3",
       "filename": "pixiv_150355716_p0.jpg",
       "path": "uploads/2026/10/d23cb066.jpg",
