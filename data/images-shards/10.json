@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "0e6beaeb",
+      "filename": "pixiv_150379163_p0.jpg",
+      "path": "uploads/2026/10/7806048a.jpg",
+      "size": 378993,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "89f8bb6b4a9ac7ddbe57796d49267f67ef1dcfd692922f402585f8b08214ff3a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:54:11.712Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "no.2240 『 ビーグルグルグルグルグル 』",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "オリキャラ",
+        "落書き",
+        "犬",
+        "dog",
+        "ビーグル",
+        "ビーグルグルグルグルグル",
+        "ケルベロス",
+        "変わらぬ顔の位置"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150379163_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150379163",
+      "sourceCreatedAt": "2026-10-02T15:16:42.000Z"
+    },
+    {
       "id": "510ec691",
       "filename": "pixiv_150362890_p0.jpg",
       "path": "uploads/2026/10/c7f02777.jpg",
