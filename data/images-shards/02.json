@@ -3,6 +3,36 @@
   "shardId": "02",
   "images": [
     {
+      "id": "df711505",
+      "filename": "pixiv_150400510_p0.jpg",
+      "path": "uploads/2026/10/a4d3449d.jpg",
+      "size": 1319628,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "655d5f8d11e2249705cac4fc6ea01157230f5792dac3fafab1e8b415abbf6f37",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:32:49.429Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "リアル脱出ゲームなみくるちゃん",
+      "tags": [
+        "プリキュア",
+        "precure",
+        "名探偵プリキュア!",
+        "名探偵プリキュア",
+        "たんプリ",
+        "小林みくる",
+        "キュアミスティック",
+        "プリキュア100users入り",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150400510_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150400510",
+      "sourceCreatedAt": "2026-10-03T07:07:28.000Z"
+    },
+    {
       "id": "39225fa9",
       "filename": "pixiv_150408369_p0.jpg",
       "path": "uploads/2026/10/5b06e366.jpg",
