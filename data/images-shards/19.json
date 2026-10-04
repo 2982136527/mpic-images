@@ -3,6 +3,28 @@
   "shardId": "19",
   "images": [
     {
+      "id": "65829c62",
+      "filename": "pixiv_150382539_p0.jpg",
+      "path": "uploads/2026/10/3733cecf.jpg",
+      "size": 293483,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f4f682f3b610b2eb5b4b791d99eb28fbbcb6c08ee88243535fa3d7c7205533dc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:57:51.642Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "そうじ部隊",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150382539_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150382539",
+      "sourceCreatedAt": "2026-10-02T17:00:17.000Z"
+    },
+    {
       "id": "0380f86b",
       "filename": "pixiv_150342058_p0.jpg",
       "path": "uploads/2026/10/14b298a2.jpg",
