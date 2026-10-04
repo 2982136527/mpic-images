@@ -3,6 +3,32 @@
   "shardId": "12",
   "images": [
     {
+      "id": "683e47c9",
+      "filename": "pixiv_150379690_p0.jpg",
+      "path": "uploads/2026/10/1409b41f.jpg",
+      "size": 1699903,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5fa0263aee384d0d38901b530e1ce4bcc7afbf8d99617d4eeb785d0878acb829",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:41:20.239Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "『ACE COMBAT 8: WINGS OF THEVE™』",
+      "tags": [
+        "ACECOMBAT",
+        "acecombat8",
+        "仕事絵",
+        "エースコンバット8",
+        "コンセプトアート"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150379690_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150379690",
+      "sourceCreatedAt": "2026-10-02T15:30:13.000Z"
+    },
+    {
       "id": "16056de2",
       "filename": "pixiv_150339894_p0.jpg",
       "path": "uploads/2026/10/cfb45447.jpg",
