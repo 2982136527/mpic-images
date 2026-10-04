@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "6882a4fc",
+      "filename": "pixiv_149362815_p0.jpg",
+      "path": "uploads/2026/10/06a9ac2a.jpg",
+      "size": 1007369,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "65a752c39558a0c724787e73979f8f359e66ade31904363060706b90894d0056",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:48:53.894Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "明日方舟",
+        "Arknights",
+        "アークナイツ",
+        "エクシア(アークナイツ)",
+        "アークナイツ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149362815_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149362815",
+      "sourceCreatedAt": "2026-09-06T14:10:53.000Z"
+    },
+    {
       "id": "9e3705fa",
       "filename": "pixiv_150393427_p0.jpg",
       "path": "uploads/2026/10/23ad5454.jpg",
