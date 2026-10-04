@@ -3,6 +3,28 @@
   "shardId": "05",
   "images": [
     {
+      "id": "f088dfb3",
+      "filename": "pixiv_150377991_p0.jpg",
+      "path": "uploads/2026/10/74a81cc0.jpg",
+      "size": 883662,
+      "width": 740,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c3219b474bef7e046b1f08a29ae552c7ce73ad8e86f828cc6ee248908857cc95",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:41:54.733Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "第910次隊",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150377991_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150377991",
+      "sourceCreatedAt": "2026-10-02T15:00:18.000Z"
+    },
+    {
       "id": "8c93243c",
       "filename": "pixiv_150365224_p0.jpg",
       "path": "uploads/2026/10/dbbca8db.jpg",
