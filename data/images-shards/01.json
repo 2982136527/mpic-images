@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "7ec8d0a4",
+      "filename": "pixiv_150379324_p0.jpg",
+      "path": "uploads/2026/10/b40a2080.jpg",
+      "size": 974324,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f16b8554fe15652cb155da2e2cbb250c2d0c46101bb14a8d66d662a25483b513",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:54:58.665Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ワープロノヴァ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "女の子",
+        "ロノヴァ",
+        "Ronova"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150379324_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150379324",
+      "sourceCreatedAt": "2026-10-02T15:20:44.000Z"
+    },
+    {
       "id": "5e6c6a1a",
       "filename": "pixiv_150384112_p0.jpg",
       "path": "uploads/2026/10/c0e4939e.jpg",
