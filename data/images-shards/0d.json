@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "4dbf4d6a",
+      "filename": "pixiv_150405524_p0.jpg",
+      "path": "uploads/2026/10/4111da6a.jpg",
+      "size": 676176,
+      "width": 651,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "ec15af94f7e92d092a11bd72555aeac65dc00c79e0d6aaa65cd4bf20c9d647b7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T14:03:09.232Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "イラスト集表紙です！",
+      "tags": [
+        "うるし原",
+        "うるし原智志",
+        "エロコスチューム",
+        "ビキニアーマー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150405524_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150405524",
+      "sourceCreatedAt": "2026-10-03T09:36:49.000Z"
+    },
+    {
       "id": "02f97ac6",
       "filename": "pixiv_150363811_p0.jpg",
       "path": "uploads/2026/10/2f329bc0.jpg",
