@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "ea6f6ed2",
+      "filename": "pixiv_150356829_p0.jpg",
+      "path": "uploads/2026/10/a69e188a.jpg",
+      "size": 1099305,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9f645dc6af7aeae9bf6bea372b7d187064ff2d1da4e55eec695bfee44549287b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:41:29.468Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ふつつかな悪女",
+      "tags": [
+        "ふつつかな悪女ではございますが",
+        "黄玲琳",
+        "朱慧月"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150356829_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150356829",
+      "sourceCreatedAt": "2026-10-02T05:08:39.000Z"
+    },
+    {
       "id": "2a233c59",
       "filename": "pixiv_150336782_p0.jpg",
       "path": "uploads/2026/10/534a3b3d.jpg",
