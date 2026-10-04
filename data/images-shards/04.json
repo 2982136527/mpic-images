@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "7cce43ba",
+      "filename": "pixiv_150367972_p0.jpg",
+      "path": "uploads/2026/10/2c8e0a05.jpg",
+      "size": 656167,
+      "width": 1112,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "267ba922151562c94009f45a0ae66b58d1df8ccc250731d8f7a1e79ecbbdd1ba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:31:59.728Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "VOCALOID",
+        "初音ミク",
+        "主様!タグがおかしいですわよ!",
+        "ファム・スール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150367972_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150367972",
+      "sourceCreatedAt": "2026-10-02T11:28:55.000Z"
+    },
+    {
       "id": "246ef398",
       "filename": "pixiv_150340193_p0.jpg",
       "path": "uploads/2026/10/0bc2b224.jpg",
