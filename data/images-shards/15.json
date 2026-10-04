@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "fa9fcae0",
+      "filename": "pixiv_150394336_p0.jpg",
+      "path": "uploads/2026/10/1d0b9f65.jpg",
+      "size": 773826,
+      "width": 864,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "16cd31943d0a9db39c1771c9acbc7a46335a4acaff6cd454adc4375fe859257f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:36:13.096Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "メガネ紫陽花",
+      "tags": [
+        "わたしが恋人になれるわけないじゃん、ムリムリ!",
+        "わたなれ",
+        "瀬名紫陽花"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150394336_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150394336",
+      "sourceCreatedAt": "2026-10-03T03:18:35.000Z"
+    },
+    {
       "id": "88658f8f",
       "filename": "pixiv_150342157_p0.jpg",
       "path": "uploads/2026/10/2a19b814.jpg",
