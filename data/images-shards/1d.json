@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "9b2e6d03",
+      "filename": "pixiv_150357487_p0.jpg",
+      "path": "uploads/2026/10/c1d82a5e.jpg",
+      "size": 1054229,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "71c7ed3391219c373b0c28f527a2b260fb38493942005fe1d7f028736c69f6e3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:42:11.048Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "メガ前のルカリオ姉妹",
+      "tags": [
+        "ポケモン",
+        "ルカリオ",
+        "ルカリお姉さん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150357487_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150357487",
+      "sourceCreatedAt": "2026-10-02T05:44:50.000Z"
+    },
+    {
       "id": "bd90659e",
       "filename": "pixiv_150344145_p0.jpg",
       "path": "uploads/2026/10/9d049cf7.jpg",
