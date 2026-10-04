@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "c3dac34f",
+      "filename": "pixiv_150394030_p0.jpg",
+      "path": "uploads/2026/10/7cabb2ee.jpg",
+      "size": 108697,
+      "width": 595,
+      "height": 611,
+      "mimeType": "image/jpeg",
+      "hash": "da15f006e3235fa6989d3a9653ccf6664f611e0eecf1a988980550f2b2213005",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:54:18.349Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "申し訳ございません。",
+      "tags": [
+        "お知らせ",
+        "ごめん寝"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150394030_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150394030",
+      "sourceCreatedAt": "2026-10-03T03:06:45.000Z"
+    },
+    {
       "id": "fbf7075b",
       "filename": "pixiv_150363063_p0.jpg",
       "path": "uploads/2026/10/1cf105bf.jpg",
