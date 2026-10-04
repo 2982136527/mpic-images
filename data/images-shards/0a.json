@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "21fb2c97",
+      "filename": "pixiv_150386061_p0.jpg",
+      "path": "uploads/2026/10/96e8d355.jpg",
+      "size": 968775,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cb5eab01f3f2a000861eb7258f31fd0b14e552237f5ed045d857e540d5cc8c42",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:46:49.645Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アイドルロノヴァ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ロノヴァ",
+        "道化"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150386061_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150386061",
+      "sourceCreatedAt": "2026-10-02T20:37:57.000Z"
+    },
+    {
       "id": "44e54217",
       "filename": "pixiv_150410907_p0.jpg",
       "path": "uploads/2026/10/c0e53a11.jpg",
