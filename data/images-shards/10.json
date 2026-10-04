@@ -3,6 +3,36 @@
   "shardId": "10",
   "images": [
     {
+      "id": "a92ac426",
+      "filename": "pixiv_150364816_p0.jpg",
+      "path": "uploads/2026/10/d25da179.jpg",
+      "size": 730348,
+      "width": 1200,
+      "height": 541,
+      "mimeType": "image/jpeg",
+      "hash": "1ab7a33324a8f73dd803917ccc3c54c9bef7cfb32e6b7d12b28a36900dd6703f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:54:43.388Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ワルプルギスの廻天",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "ワルプルギスの廻天",
+        "鹿目まどか",
+        "暁美ほむら",
+        "美樹さやか",
+        "巴マミ",
+        "佐倉杏子",
+        "まどか☆マギカ100users入り",
+        "胸当て"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150364816_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150364816",
+      "sourceCreatedAt": "2026-10-02T10:16:16.000Z"
+    },
+    {
       "id": "0e6beaeb",
       "filename": "pixiv_150379163_p0.jpg",
       "path": "uploads/2026/10/7806048a.jpg",
