@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "3d1be7da",
+      "filename": "pixiv_150404443_p0.jpg",
+      "path": "uploads/2026/10/a7f416fc.jpg",
+      "size": 1251922,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3778f2a9104e70db98e2f993c9d2cf102d3699e8a32b99cf022eeb4470a517d0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:55:05.118Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【落書き】純文学チルノ",
+      "tags": [
+        "東方Project",
+        "チルノ",
+        "純文学チルノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150404443_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150404443",
+      "sourceCreatedAt": "2026-10-03T09:06:50.000Z"
+    },
+    {
       "id": "a6a519df",
       "filename": "pixiv_150361239_p0.jpg",
       "path": "uploads/2026/10/b46ca526.jpg",
