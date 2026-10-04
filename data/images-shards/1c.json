@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "443b93e0",
+      "filename": "pixiv_150342561_p0.jpg",
+      "path": "uploads/2026/10/d647c0f7.jpg",
+      "size": 1011481,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d71982df78bc2b23dd77d8fc8298c0cb957b4ef96a59af281168b262d2dbed92",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:41:35.895Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "マシュログ",
+      "tags": [
+        "Fate/GrandOrder",
+        "マシュ・キリエライト",
+        "常夏の水着Ver.03"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150342561_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150342561",
+      "sourceCreatedAt": "2026-10-01T16:01:46.000Z"
+    },
+    {
       "id": "19db9318",
       "filename": "pixiv_150311906_p0.jpg",
       "path": "uploads/2026/10/4925efa2.jpg",
