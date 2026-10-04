@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "fba9896c",
+      "filename": "pixiv_150379047_p0.jpg",
+      "path": "uploads/2026/10/a676ba48.jpg",
+      "size": 590911,
+      "width": 723,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c75231e1f57b9a17dd9182306388315d0906c70ac01a6d6da969771de38aaa8b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:36:59.724Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🐱💦",
+      "tags": [
+        "女の子",
+        "猫耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150379047_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150379047",
+      "sourceCreatedAt": "2026-10-02T15:14:05.000Z"
+    },
+    {
       "id": "a39d40e0",
       "filename": "pixiv_150378005_p0.jpg",
       "path": "uploads/2026/10/b460c4d0.jpg",
