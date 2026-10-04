@@ -3,6 +3,32 @@
   "shardId": "18",
   "images": [
     {
+      "id": "2270e49f",
+      "filename": "pixiv_150380096_p0.jpg",
+      "path": "uploads/2026/10/943a9a49.jpg",
+      "size": 1008710,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0064ee456abf0805fec577904dcaacdf5f9e11b22ba4a8bfc4f316e9ead8c27a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:57:37.680Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "뿌이",
+      "tags": [
+        "Limbus_Company",
+        "LimbusCompany",
+        "リンバスカンパニー",
+        "Pwie",
+        "뿌이"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150380096_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150380096",
+      "sourceCreatedAt": "2026-10-02T15:40:13.000Z"
+    },
+    {
       "id": "51341872",
       "filename": "pixiv_150390653_p0.jpg",
       "path": "uploads/2026/10/ba476314.jpg",
