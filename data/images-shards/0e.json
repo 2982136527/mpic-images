@@ -3,6 +3,28 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "16a218b2",
+      "filename": "pixiv_150404991_p0.jpg",
+      "path": "uploads/2026/10/dcfd14c4.jpg",
+      "size": 630348,
+      "width": 663,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2b4e084a1d56665e6788637aa7490cee943523dd7ecf0d5b32f3aeb55208971c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:36:03.956Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "john doe",
+      "tags": [
+        "ゼンレスゾーンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150404991_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150404991",
+      "sourceCreatedAt": "2026-10-03T09:23:19.000Z"
+    },
+    {
       "id": "0141d29a",
       "filename": "pixiv_150347142_p0.jpg",
       "path": "uploads/2026/10/b837cd8a.jpg",
