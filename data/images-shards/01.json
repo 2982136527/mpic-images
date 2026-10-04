@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "e002d345",
+      "filename": "pixiv_150369240_p0.jpg",
+      "path": "uploads/2026/10/b27cb2a5.jpg",
+      "size": 983334,
+      "width": 957,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "05d6463a5ffae2491af92d4de2591c6627a03b15d5b987b7639287c1cc6f6c52",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:45:10.952Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "徹夜2日目ダンテ",
+      "tags": [
+        "ファイアーエムブレム万紫千紅",
+        "ダンテ(ファイアーエムブレム)",
+        "二徹"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150369240_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150369240",
+      "sourceCreatedAt": "2026-10-02T11:58:26.000Z"
+    },
+    {
       "id": "408c9cc5",
       "filename": "pixiv_150356189_p0.jpg",
       "path": "uploads/2026/10/27e0cfc0.jpg",
