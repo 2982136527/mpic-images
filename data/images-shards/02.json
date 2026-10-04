@@ -3,6 +3,29 @@
   "shardId": "02",
   "images": [
     {
+      "id": "2ce6a943",
+      "filename": "pixiv_150390687_p0.jpg",
+      "path": "uploads/2026/10/209781ac.jpg",
+      "size": 677587,
+      "width": 1200,
+      "height": 788,
+      "mimeType": "image/jpeg",
+      "hash": "9dd9fbccd393c041f7f230c24f7672ed2e8cf93c331f6d5442ca0b55e8387fd8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:42:57.898Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "啊……这",
+      "tags": [
+        "拘束",
+        "目隠し"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150390687_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150390687",
+      "sourceCreatedAt": "2026-10-03T00:50:09.000Z"
+    },
+    {
       "id": "faac9ddb",
       "filename": "pixiv_150347245_p0.jpg",
       "path": "uploads/2026/10/35972e95.jpg",
