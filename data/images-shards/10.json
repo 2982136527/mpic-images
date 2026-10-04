@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "e7021597",
+      "filename": "pixiv_150356682_p0.jpg",
+      "path": "uploads/2026/10/575ca8bc.jpg",
+      "size": 452899,
+      "width": 770,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a692c0516f1e230e3de4b123b8d0fea6ae0be64ad079ea9f0895403dbfcf8e7b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:34:21.676Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "プラナ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "プラナ",
+        "プラナ(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150356682_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150356682",
+      "sourceCreatedAt": "2026-10-02T05:00:53.000Z"
+    },
+    {
       "id": "a92ac426",
       "filename": "pixiv_150364816_p0.jpg",
       "path": "uploads/2026/10/d25da179.jpg",
