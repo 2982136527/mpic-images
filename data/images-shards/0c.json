@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "93a377af",
+      "filename": "pixiv_150407037_p0.jpg",
+      "path": "uploads/2026/10/4046ca0d.jpg",
+      "size": 505563,
+      "width": 938,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "be1fc602c69ea41fb455df6db8425b2015dac6a08b408a66439f42bf7d7d730e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:58:26.116Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "小さめ…",
+      "tags": [
+        "めめ村",
+        "望月善",
+        "家元虎之介"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150407037_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150407037",
+      "sourceCreatedAt": "2026-10-03T10:11:10.000Z"
+    },
+    {
       "id": "57460413",
       "filename": "pixiv_150401079_p0.jpg",
       "path": "uploads/2026/10/567a776a.jpg",
