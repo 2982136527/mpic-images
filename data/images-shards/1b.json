@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "2b1f577e",
+      "filename": "pixiv_150360691_p0.jpg",
+      "path": "uploads/2026/10/37125692.jpg",
+      "size": 770729,
+      "width": 943,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b495439e645d0b344ae2cb29ea27eb9c69972c54ef4d132422ffa9df1f6b0c00",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T19:34:36.430Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ミカと女先生",
+      "tags": [
+        "ブルーアーカイブ",
+        "先ミカ",
+        "百合",
+        "聖園ミカ",
+        "ブルーアーカイブ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150360691_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150360691",
+      "sourceCreatedAt": "2026-10-02T08:12:07.000Z"
+    },
+    {
       "id": "c3dac34f",
       "filename": "pixiv_150394030_p0.jpg",
       "path": "uploads/2026/10/7cabb2ee.jpg",
