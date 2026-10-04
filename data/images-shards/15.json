@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "81b44bc4",
+      "filename": "pixiv_150378024_p0.jpg",
+      "path": "uploads/2026/10/2ea28db8.jpg",
+      "size": 955510,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d470484bb328755d81c3c04467aef7374f681c561680b01c25418e07e026bf4d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:45:29.499Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Loser",
+      "tags": [
+        "初音ミク",
+        "miku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150378024_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150378024",
+      "sourceCreatedAt": "2026-10-02T15:00:22.000Z"
+    },
+    {
       "id": "4205f076",
       "filename": "pixiv_150329650_p0.jpg",
       "path": "uploads/2026/10/82538e15.jpg",
