@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "3120aaad",
+      "filename": "pixiv_150349384_p0.jpg",
+      "path": "uploads/2026/10/524fb3f4.jpg",
+      "size": 697822,
+      "width": 892,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57e73afca1cffaa628ba231284a7eaf4f6800ffa4bf9fc4013f5d18026378188",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:57:24.977Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "マルフォイド🐍",
+      "tags": [
+        "ハリーポッター",
+        "マルフォイ",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150349384_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150349384",
+      "sourceCreatedAt": "2026-10-01T22:18:30.000Z"
+    },
+    {
       "id": "07db270f",
       "filename": "pixiv_150387942_p0.jpg",
       "path": "uploads/2026/10/f3fa8526.jpg",
