@@ -3,6 +3,37 @@
   "shardId": "06",
   "images": [
     {
+      "id": "bb5a8e8e",
+      "filename": "pixiv_150410354_p0.jpg",
+      "path": "uploads/2026/10/c2d3ce60.jpg",
+      "size": 151418,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "10b7920ce0125942b7639293b5e13babd0f713bb237a9fbc949e2b00372493db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:40:41.057Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "コーヒー",
+      "tags": [
+        "オリジナル",
+        "違う、そうじゃない",
+        "コーヒーブレイク",
+        "コーヒー",
+        "コーヒーブレイク(物理)",
+        "素晴らしきほっこりの世界",
+        "ネコハラ",
+        "強制キャンセル",
+        "ストレス",
+        "猫あるある"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150410354_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150410354",
+      "sourceCreatedAt": "2026-10-03T11:30:14.000Z"
+    },
+    {
       "id": "4fa35793",
       "filename": "pixiv_150302163_p0.jpg",
       "path": "uploads/2026/10/de3b6609.jpg",
