@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "c86a98ac",
+      "filename": "pixiv_150388042_p0.jpg",
+      "path": "uploads/2026/10/9c28212e.jpg",
+      "size": 2489762,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "097e3dca5716633d25494773ca31c0866ea0d33d693697a52f4acd86c1c12730",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:49:55.810Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【腐】SXlog01",
+      "tags": [
+        "dcst腐向け",
+        "スタゼノ",
+        "dcst腐向け100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150388042_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150388042",
+      "sourceCreatedAt": "2026-10-02T22:36:26.000Z"
+    },
+    {
       "id": "2ce6a943",
       "filename": "pixiv_150390687_p0.jpg",
       "path": "uploads/2026/10/209781ac.jpg",
