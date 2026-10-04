@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "ed91146c",
+      "filename": "pixiv_150378549_p0.jpg",
+      "path": "uploads/2026/10/b609f2b1.jpg",
+      "size": 175552,
+      "width": 576,
+      "height": 576,
+      "mimeType": "image/jpeg",
+      "hash": "cd755b7423398b158482409f392fd4428181a3842332f46d62780ab6b6928ece",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T14:02:31.382Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ふたずおまとめ",
+      "tags": [
+        "刀剣乱腐",
+        "ふたずお"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150378549_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150378549",
+      "sourceCreatedAt": "2026-10-02T15:04:47.000Z"
+    },
+    {
       "id": "f4132b40",
       "filename": "pixiv_150339866_p0.jpg",
       "path": "uploads/2026/10/a30a5398.jpg",
