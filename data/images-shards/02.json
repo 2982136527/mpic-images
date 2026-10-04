@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "39225fa9",
+      "filename": "pixiv_150408369_p0.jpg",
+      "path": "uploads/2026/10/5b06e366.jpg",
+      "size": 620876,
+      "width": 733,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2466ed46953135893d43dca7fe4e043f6a3aad77501ee040f4abfc3d4c1a7818",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:59:10.327Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "マルフォイちゃん",
+      "tags": [
+        "マルフォイちゃん",
+        "ドラコ・マルフォイ",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150408369_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150408369",
+      "sourceCreatedAt": "2026-10-03T10:46:17.000Z"
+    },
+    {
       "id": "c86a98ac",
       "filename": "pixiv_150388042_p0.jpg",
       "path": "uploads/2026/10/9c28212e.jpg",
