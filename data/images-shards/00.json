@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "0a0c9688",
+      "filename": "pixiv_150399463_p0.jpg",
+      "path": "uploads/2026/10/32eee6e7.jpg",
+      "size": 1160007,
+      "width": 1200,
+      "height": 1070,
+      "mimeType": "image/jpeg",
+      "hash": "1a7acbc4d9ba4cfc7c2a4fd85bd12883fa8abb55c959e373fc2a3af29e457d09",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:45:48.342Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ディアナ",
+      "tags": [
+        "ディアナ",
+        "PRAGMATA",
+        "フラグマタ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150399463_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150399463",
+      "sourceCreatedAt": "2026-10-03T06:31:47.000Z"
+    },
+    {
       "id": "9a36a238",
       "filename": "pixiv_150312988_p0.jpg",
       "path": "uploads/2026/10/d3703cf7.jpg",
