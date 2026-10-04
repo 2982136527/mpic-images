@@ -3,6 +3,34 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "bee4ce1a",
+      "filename": "pixiv_150370724_p0.jpg",
+      "path": "uploads/2026/10/71002a54.jpg",
+      "size": 864782,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e11f742422e3e561c6ca545b952624b8bf11b68b922d44d93ae141d58217eba5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:44:23.020Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ロングレミリア",
+      "tags": [
+        "東方Project",
+        "東方",
+        "レミリア・スカーレット",
+        "レミリア",
+        "髪型チェンジ",
+        "長髪レミリア",
+        "東方ロング化"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150370724_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150370724",
+      "sourceCreatedAt": "2026-10-02T12:24:49.000Z"
+    },
+    {
       "id": "5a1de9b3",
       "filename": "pixiv_149331328_p0.jpg",
       "path": "uploads/2026/10/a7ad9ccd.jpg",
