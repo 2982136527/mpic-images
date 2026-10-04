@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "f34f951e",
+      "filename": "pixiv_150388714_p0.jpg",
+      "path": "uploads/2026/10/c9284c55.jpg",
+      "size": 1289159,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ccafdb1d720e49405f45ca927c220e37ba25c63975adca68e15b76971202b261",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T05:44:16.977Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Hancock🐍",
+      "tags": [
+        "Fanart",
+        "Onepiece",
+        "boahancock"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150388714_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150388714",
+      "sourceCreatedAt": "2026-10-02T23:11:51.000Z"
+    },
+    {
       "id": "e9a09b4b",
       "filename": "pixiv_150377855_p0.jpg",
       "path": "uploads/2026/10/31a5f4d3.jpg",
