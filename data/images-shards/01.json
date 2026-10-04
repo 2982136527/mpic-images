@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "f47dc6ad",
+      "filename": "pixiv_150380966_p0.jpg",
+      "path": "uploads/2026/10/5086091e.jpg",
+      "size": 584028,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57b06eff8ee06109ec385f37ea3aa1e7b92801ad46caa1cd377017017cbf134e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-04T13:55:31.726Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "成長したプイ？",
+      "tags": [
+        "Limbus_Company",
+        "LimbusCompany",
+        "Pwie",
+        "プイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150380966_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150380966",
+      "sourceCreatedAt": "2026-10-02T16:03:53.000Z"
+    },
+    {
       "id": "7ec8d0a4",
       "filename": "pixiv_150379324_p0.jpg",
       "path": "uploads/2026/10/b40a2080.jpg",
