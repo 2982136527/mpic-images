@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "06589798",
+      "filename": "pixiv_150430780_p0.jpg",
+      "path": "uploads/2026/10/ff049cad.jpg",
+      "size": 845221,
+      "width": 751,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c0d2459f965ea58195bf632ad93d574f730dcf4d4d1418baf30fc4f0b7cca14b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T17:06:05.296Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ナギマキの昔と今",
+      "tags": [
+        "ふしぎな猫のまちメルティア",
+        "猫メル",
+        "百合",
+        "猫耳",
+        "ケモミミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150430780_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150430780",
+      "sourceCreatedAt": "2026-10-03T22:35:58.000Z"
+    },
+    {
       "id": "2dcedc5b",
       "filename": "pixiv_150382377_p0.jpg",
       "path": "uploads/2026/10/4842c346.jpg",
