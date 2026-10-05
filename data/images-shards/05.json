@@ -3,6 +3,35 @@
   "shardId": "05",
   "images": [
     {
+      "id": "c1771dda",
+      "filename": "pixiv_150407415_p0.jpg",
+      "path": "uploads/2026/10/62323521.jpg",
+      "size": 1286602,
+      "width": 713,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a01aaffc1622c7bac0eec40b6915fe1c7eddb9dd184b8bb34fa6c19277e28925",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:26:35.788Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Robin",
+      "tags": [
+        "ロビン(スターレイル)",
+        "知更鸟",
+        "崩坏星穹铁道",
+        "崩壊スターレイル",
+        "HonkaiStarRail",
+        "崩壊:スターレイル",
+        "robin",
+        "100日チャレンジ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150407415_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150407415",
+      "sourceCreatedAt": "2026-10-03T10:21:35.000Z"
+    },
+    {
       "id": "52020c44",
       "filename": "pixiv_150402267_p0.jpg",
       "path": "uploads/2026/10/2c05d49e.jpg",
