@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "8080388d",
+      "filename": "pixiv_150421679_p0.jpg",
+      "path": "uploads/2026/10/52a5d7d4.jpg",
+      "size": 549213,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "593dcd85f1f3ab6a4781525c6f6b4d061d325b8ea14438aebc269f18aa43dac8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:29:19.014Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "影狼　KAGE-ROH",
+      "tags": [
+        "東方Project",
+        "今泉影狼",
+        "赤蛮奇",
+        "人狼"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150421679_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150421679",
+      "sourceCreatedAt": "2026-10-03T15:19:42.000Z"
+    },
+    {
       "id": "f2c75ba7",
       "filename": "pixiv_150428412_p0.jpg",
       "path": "uploads/2026/10/a55dc1f1.jpg",
