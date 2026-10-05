@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "ad193952",
+      "filename": "pixiv_150419284_p0.jpg",
+      "path": "uploads/2026/10/238e72eb.jpg",
+      "size": 1130377,
+      "width": 777,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6c8d45c72802e5377f10826b331be091ef75d0592932cedb7c678838b70c153d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:31:16.583Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "malfoid",
+      "tags": [
+        "ドラコ・マルフォイ",
+        "Malfoid",
+        "ハリポタ",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150419284_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150419284",
+      "sourceCreatedAt": "2026-10-03T14:37:55.000Z"
+    },
+    {
       "id": "79424527",
       "filename": "pixiv_150385266_p0.jpg",
       "path": "uploads/2026/10/9301d1ed.jpg",
