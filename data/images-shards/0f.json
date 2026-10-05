@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "8243e711",
+      "filename": "pixiv_150420385_p0.jpg",
+      "path": "uploads/2026/10/0a8ca4d7.jpg",
+      "size": 309364,
+      "width": 762,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "b15dbcedf743d71042a37f92d60a3518fbf40faf4e38361e254264641d0abd86",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T17:06:27.319Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "つままれレミエール",
+      "tags": [
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ",
+        "レミエール・ダン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150420385_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150420385",
+      "sourceCreatedAt": "2026-10-03T15:00:27.000Z"
+    },
+    {
       "id": "41a19213",
       "filename": "pixiv_150401763_p0.jpg",
       "path": "uploads/2026/10/1f7a2e6f.jpg",
