@@ -3,6 +3,36 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "7f5b8f8d",
+      "filename": "pixiv_150271313_p0.jpg",
+      "path": "uploads/2026/10/61c4c2d5.jpg",
+      "size": 1589440,
+      "width": 783,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "07a98492649c390910a6a953ab6e2120439408f240fe71e654e053f1e53f839c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T17:13:19.688Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "くたばれ！ パンプキンファーム･スローター",
+      "tags": [
+        "Fate/GrandOrder",
+        "パンプキンファーム・スローター",
+        "ヘンリー・ジキル/ハイド(Fate)",
+        "ジャック・ザ・リッパー(Fate)",
+        "バーヴァン・シー(Fate)",
+        "ツタンカーメン(Fate)",
+        "ナウクラテー(Fate)",
+        "ダイダロス(Fate)",
+        "ククルカン(Fate)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150271313_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150271313",
+      "sourceCreatedAt": "2026-09-29T19:06:12.000Z"
+    },
+    {
       "id": "b9e8ca09",
       "filename": "pixiv_150432422_p0.jpg",
       "path": "uploads/2026/10/0218a03a.jpg",
