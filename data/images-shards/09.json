@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "f2dda1c7",
+      "filename": "pixiv_150421118_p0.jpg",
+      "path": "uploads/2026/10/e252cf59.jpg",
+      "size": 580708,
+      "width": 1200,
+      "height": 1056,
+      "mimeType": "image/jpeg",
+      "hash": "0036da89c6fc6cf297b829567c2e0a4c9ab2dbe2c94702d389ff10e2dc0c0cf9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:26:51.403Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "牛魔",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150421118_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150421118",
+      "sourceCreatedAt": "2026-10-03T15:07:18.000Z"
+    },
+    {
       "id": "6e8878de",
       "filename": "pixiv_150408199_p0.jpg",
       "path": "uploads/2026/10/fc6c1175.jpg",
