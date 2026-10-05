@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "000d7261",
+      "filename": "pixiv_150453691_p0.jpg",
+      "path": "uploads/2026/10/f87c2ae9.jpg",
+      "size": 384661,
+      "width": 736,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c3584f9d50a1fa314b80b76fd6b4a768da74618e262a9ae492b7126fca02bd27",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T17:05:57.950Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "もちもちメイド",
+      "tags": [
+        "オリジナル",
+        "メイド服",
+        "ももぷく"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150453691_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150453691",
+      "sourceCreatedAt": "2026-10-04T11:08:26.000Z"
+    },
+    {
       "id": "f91b413f",
       "filename": "pixiv_150434321_p0.jpg",
       "path": "uploads/2026/10/6fea9e85.jpg",
