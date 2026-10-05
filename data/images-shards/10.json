@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "f5bdc677",
+      "filename": "pixiv_150452593_p0.jpg",
+      "path": "uploads/2026/10/70fcc25a.jpg",
+      "size": 912866,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c520829405da3acc4caf0e96da68169ec04dc988d5d73f9083755f06c9ae7e39",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:27:18.800Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "プロポーズ",
+      "tags": [
+        "めめ村",
+        "わぁ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150452593_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150452593",
+      "sourceCreatedAt": "2026-10-04T10:49:14.000Z"
+    },
+    {
       "id": "de14375d",
       "filename": "pixiv_150406316_p0.jpg",
       "path": "uploads/2026/10/8055118d.jpg",
