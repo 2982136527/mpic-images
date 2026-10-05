@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "fc688e73",
+      "filename": "pixiv_150433553_p0.jpg",
+      "path": "uploads/2026/10/849fe228.jpg",
+      "size": 789880,
+      "width": 831,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2ce43dc4590d5ce7f2345b744244a6c1a032f79546e6319ecc11be620dba2f84",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T17:11:28.074Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "朝比奈まふゆ",
+        "プロセカ",
+        "プロジェクトセカイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150433553_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150433553",
+      "sourceCreatedAt": "2026-10-04T00:52:06.000Z"
+    },
+    {
       "id": "4028a2d0",
       "filename": "pixiv_150459704_p0.jpg",
       "path": "uploads/2026/10/c31bbf95.jpg",
