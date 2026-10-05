@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "f53b14a2",
+      "filename": "pixiv_150424293_p0.jpg",
+      "path": "uploads/2026/10/689e0b69.jpg",
+      "size": 1330867,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cbb50a6d9e532066743de1392354b242c63f17a5cf9bd0af655e62bc572b1865",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:24:44.560Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🌹",
+      "tags": [
+        "オリジナル",
+        "百合",
+        "女の子",
+        "百合1000users入り",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150424293_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150424293",
+      "sourceCreatedAt": "2026-10-03T16:35:52.000Z"
+    },
+    {
       "id": "3120aaad",
       "filename": "pixiv_150349384_p0.jpg",
       "path": "uploads/2026/10/524fb3f4.jpg",
