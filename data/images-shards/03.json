@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "c186d2eb",
+      "filename": "pixiv_150404999_p0.jpg",
+      "path": "uploads/2026/10/f5f9617a.jpg",
+      "size": 666258,
+      "width": 889,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "25ec1d8f62e353c5190092f387feb95083c4280147805078057af3d41a45fcfb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:25:47.852Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "9月のレイア",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "まのさば",
+        "蓮見レイア",
+        "二階堂ヒロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150404999_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150404999",
+      "sourceCreatedAt": "2026-10-03T09:23:31.000Z"
+    },
+    {
       "id": "89f994d3",
       "filename": "pixiv_150344522_p0.jpg",
       "path": "uploads/2026/10/346e60bc.jpg",
