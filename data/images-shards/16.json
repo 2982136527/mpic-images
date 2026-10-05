@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "15c4e0d9",
+      "filename": "pixiv_150454206_p0.jpg",
+      "path": "uploads/2026/10/bd51a98a.jpg",
+      "size": 722393,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09fef156e9948898878c58b78e545bfa1ed347a2c8ea9b503075a3b6eaa3f43f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T17:07:44.999Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Hues of the Self",
+      "tags": [
+        "プロジェクトセカイ",
+        "プロセカ",
+        "東雲絵名",
+        "アスピレエプロン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150454206_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150454206",
+      "sourceCreatedAt": "2026-10-04T11:19:34.000Z"
+    },
+    {
       "id": "83fb4605",
       "filename": "pixiv_150444265_p0.jpg",
       "path": "uploads/2026/10/4a5b139b.jpg",
