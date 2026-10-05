@@ -3,6 +3,33 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "4418d42f",
+      "filename": "pixiv_150409520_p0.jpg",
+      "path": "uploads/2026/10/c7996e3f.jpg",
+      "size": 589686,
+      "width": 864,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "72c1042e90ce0e294c0d7f7bd0f1c68510a9383fa6fd7d31181833e2eb6a8dd8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:27:05.970Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "制服ちゃん",
+      "tags": [
+        "女子高生",
+        "百合",
+        "創作百合",
+        "制服",
+        "ハグ",
+        "ローファー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150409520_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150409520",
+      "sourceCreatedAt": "2026-10-03T11:08:56.000Z"
+    },
+    {
       "id": "8d68a58b",
       "filename": "pixiv_150442362_p0.jpg",
       "path": "uploads/2026/10/d0eaa149.jpg",
