@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "6af2dbcd",
+      "filename": "pixiv_150393686_p0.jpg",
+      "path": "uploads/2026/10/23736179.jpg",
+      "size": 952043,
+      "width": 1087,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14f512778b6a9efb546c7cc885ae6568fda2a573ba98d8b723be032b6d87640f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:31:23.195Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ステラソラ漫画2692",
+      "tags": [
+        "漫画",
+        "ステラソラ",
+        "ナズナ(ステラソラ)",
+        "女魔王(ステラソラ)",
+        "シャロカード",
+        "二段ブチ抜き"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150393686_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150393686",
+      "sourceCreatedAt": "2026-10-03T03:00:14.000Z"
+    },
+    {
       "id": "f2ba3dee",
       "filename": "pixiv_150421268_p0.jpg",
       "path": "uploads/2026/10/a18495f6.jpg",
