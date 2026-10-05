@@ -3,6 +3,32 @@
   "shardId": "08",
   "images": [
     {
+      "id": "fb86d422",
+      "filename": "pixiv_150454539_p0.jpg",
+      "path": "uploads/2026/10/3d21c8a2.jpg",
+      "size": 799722,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "68b4c7daf2e7b0ed9ee845dc580c79e23fc7063de8ca09719110ae280ea29991",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:31:03.346Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Rio Illust",
+      "tags": [
+        "BlueArchive",
+        "Rio",
+        "ブルアカ",
+        "調月リオ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150454539_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150454539",
+      "sourceCreatedAt": "2026-10-04T11:26:31.000Z"
+    },
+    {
       "id": "eea15b76",
       "filename": "pixiv_150420435_p0.jpg",
       "path": "uploads/2026/10/938c051b.jpg",
