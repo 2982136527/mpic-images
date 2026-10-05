@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "7bb32a7d",
+      "filename": "pixiv_150418585_p0.jpg",
+      "path": "uploads/2026/10/f2e27742.jpg",
+      "size": 474379,
+      "width": 1200,
+      "height": 535,
+      "mimeType": "image/jpeg",
+      "hash": "6f7a92a7810c83295e406b13adaaa7417b96970b8ad7b6bce731507b070b410a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:27:51.797Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "6周年にアップしたイラストキャラ単体版",
+      "tags": [
+        "プロジェクトセカイ",
+        "プロセカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150418585_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150418585",
+      "sourceCreatedAt": "2026-10-03T14:23:11.000Z"
+    },
+    {
       "id": "f53b14a2",
       "filename": "pixiv_150424293_p0.jpg",
       "path": "uploads/2026/10/689e0b69.jpg",
