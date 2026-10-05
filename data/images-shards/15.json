@@ -3,6 +3,30 @@
   "shardId": "15",
   "images": [
     {
+      "id": "94ac2f53",
+      "filename": "pixiv_150392029_p0.jpg",
+      "path": "uploads/2026/10/aa90f5c4.jpg",
+      "size": 983755,
+      "width": 729,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8d7c1236806441ae2610c6f43ec8b09d087270f2be953c1bab02847bdcca2bee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T17:12:34.138Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "チアゴス",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "腋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150392029_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150392029",
+      "sourceCreatedAt": "2026-10-03T01:49:16.000Z"
+    },
+    {
       "id": "85b5a66c",
       "filename": "pixiv_150381419_p0.jpg",
       "path": "uploads/2026/10/c9e5cde9.jpg",
