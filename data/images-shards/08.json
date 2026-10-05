@@ -3,6 +3,33 @@
   "shardId": "08",
   "images": [
     {
+      "id": "eea15b76",
+      "filename": "pixiv_150420435_p0.jpg",
+      "path": "uploads/2026/10/938c051b.jpg",
+      "size": 631001,
+      "width": 684,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14a345d6ff89878989123250b45314c620dce9b616adaf202386be502fe17ade",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:28:31.216Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "信濃",
+      "tags": [
+        "信濃(アズールレーン)",
+        "アズールレーン",
+        "狐耳",
+        "銀髪",
+        "AzurLane",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150420435_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150420435",
+      "sourceCreatedAt": "2026-10-03T15:00:35.000Z"
+    },
+    {
       "id": "0f550180",
       "filename": "pixiv_150434577_p0.jpg",
       "path": "uploads/2026/10/cde3cd6e.jpg",
