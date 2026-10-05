@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "42ccdb70",
+      "filename": "pixiv_150396693_p0.jpg",
+      "path": "uploads/2026/10/b19659e9.jpg",
+      "size": 904081,
+      "width": 1200,
+      "height": 633,
+      "mimeType": "image/jpeg",
+      "hash": "5d1f6524cc2bd2aa5975fc49246ccfd476b4aee3253c6f5a9850201add304deb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T17:06:50.007Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Message  - くるぶっこちゃん",
+      "tags": [
+        "Phigros",
+        "phigros_art",
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150396693_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150396693",
+      "sourceCreatedAt": "2026-10-03T04:52:19.000Z"
+    },
+    {
       "id": "39519bdf",
       "filename": "pixiv_150398234_p0.jpg",
       "path": "uploads/2026/10/bff9fd44.jpg",
