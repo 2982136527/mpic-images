@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "13e5b6fe",
+      "filename": "pixiv_150445555_p0.jpg",
+      "path": "uploads/2026/10/b79e7a10.jpg",
+      "size": 1298498,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "9b7705aa98109735184147071b66916e8ae0dc23ec8010207b86c4adc9455414",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:27:12.451Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "個体差ミクさん",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150445555_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150445555",
+      "sourceCreatedAt": "2026-10-04T08:00:14.000Z"
+    },
+    {
       "id": "ff345345",
       "filename": "pixiv_150459971_p0.jpg",
       "path": "uploads/2026/10/1e079317.jpg",
