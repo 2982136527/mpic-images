@@ -3,6 +3,37 @@
   "shardId": "01",
   "images": [
     {
+      "id": "d956dad9",
+      "filename": "pixiv_150429111_p0.jpg",
+      "path": "uploads/2026/10/7004dc7f.jpg",
+      "size": 310393,
+      "width": 540,
+      "height": 540,
+      "mimeType": "image/jpeg",
+      "hash": "48834e1786dafa7ec4060fcd8461cf368a699f76f5cdec30e08c30dc60f46e17",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:24:16.465Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "イチョウブラシ・落ち葉2種",
+      "tags": [
+        "漫画素材工房",
+        "ClipStudioPaint",
+        "ComicStudio",
+        "クリップスタジオ",
+        "コミックスタジオ",
+        "ブラシ素材",
+        "落ち葉",
+        "イチョウ",
+        "樹木",
+        "背景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150429111_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150429111",
+      "sourceCreatedAt": "2026-10-03T21:00:33.000Z"
+    },
+    {
       "id": "2508c562",
       "filename": "pixiv_150378878_p0.jpg",
       "path": "uploads/2026/10/5ecf102c.jpg",
