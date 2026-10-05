@@ -3,6 +3,37 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "81ab6f61",
+      "filename": "pixiv_150413392_p0.jpg",
+      "path": "uploads/2026/10/3a98ba74.jpg",
+      "size": 350535,
+      "width": 605,
+      "height": 500,
+      "mimeType": "image/jpeg",
+      "hash": "d2f383760a131fb1822a10d1d004709fd653d1d014bbce4a3a889eac12b1e62e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:30:50.383Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "複製",
+      "tags": [
+        "名探偵プリキュア!",
+        "森亜るるか",
+        "キュアアルカナ・シャドウ",
+        "森悪るるか",
+        "エクリプス・シャドウ",
+        "キュアアルカナ",
+        "迷探偵プリキュア!",
+        "マシュタン",
+        "目力",
+        "麻雀"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150413392_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150413392",
+      "sourceCreatedAt": "2026-10-03T12:31:11.000Z"
+    },
+    {
       "id": "56b13880",
       "filename": "pixiv_150416615_p0.jpg",
       "path": "uploads/2026/10/88df74b1.jpg",
