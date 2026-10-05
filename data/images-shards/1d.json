@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "198541a5",
+      "filename": "pixiv_150418958_p0.jpg",
+      "path": "uploads/2026/10/06c6ff2c.jpg",
+      "size": 599057,
+      "width": 758,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "e2c780deff99045b62d3317b04f679ebe3f55b010898bb55081b7a3034e613bc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T17:10:20.588Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Ride the Board!!!",
+      "tags": [
+        "Deltarune",
+        "デルタルーン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150418958_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150418958",
+      "sourceCreatedAt": "2026-10-03T14:30:55.000Z"
+    },
+    {
       "id": "44144418",
       "filename": "pixiv_150440941_p0.jpg",
       "path": "uploads/2026/10/695512eb.jpg",
