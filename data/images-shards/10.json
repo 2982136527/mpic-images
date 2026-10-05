@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "4b719d88",
+      "filename": "pixiv_150457714_p0.jpg",
+      "path": "uploads/2026/10/60234d22.jpg",
+      "size": 624104,
+      "width": 975,
+      "height": 975,
+      "mimeType": "image/jpeg",
+      "hash": "beb97c2a56f7305a28396a448d46fd2353c664247f8dff073810f2a2cddd2f22",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T17:09:46.919Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "艾希降温图",
+      "tags": [
+        "艾希",
+        "ICEY",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150457714_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150457714",
+      "sourceCreatedAt": "2026-10-04T12:26:56.000Z"
+    },
+    {
       "id": "d7180716",
       "filename": "pixiv_150418880_p0.jpg",
       "path": "uploads/2026/10/0be0e407.jpg",
