@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "2004ceb6",
+      "filename": "pixiv_150409560_p0.jpg",
+      "path": "uploads/2026/10/f8fb2675.jpg",
+      "size": 797202,
+      "width": 730,
+      "height": 1034,
+      "mimeType": "image/jpeg",
+      "hash": "d75373ce33d81ead69b71b9e7fc5d714643a8d48d69c0b6c14f4273a6ba5d4e8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T17:10:49.040Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "TSマルフォイ",
+      "tags": [
+        "ドラコ・マルフォイ",
+        "TSマルフォイ",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150409560_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150409560",
+      "sourceCreatedAt": "2026-10-03T11:09:49.000Z"
+    },
+    {
       "id": "0868f28c",
       "filename": "pixiv_150416663_p0.jpg",
       "path": "uploads/2026/10/fd15e3b8.jpg",
