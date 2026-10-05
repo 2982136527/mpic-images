@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "8d68a58b",
+      "filename": "pixiv_150442362_p0.jpg",
+      "path": "uploads/2026/10/d0eaa149.jpg",
+      "size": 1111959,
+      "width": 1200,
+      "height": 1037,
+      "mimeType": "image/jpeg",
+      "hash": "36cd639405646231a081909c90e6fbe69c53161626761365f81af8b6f8de724b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:25:31.856Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ぬカニまとめ①",
+      "tags": [
+        "NUカーニバル",
+        "新世界狂歡",
+        "NUcarnival"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150442362_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150442362",
+      "sourceCreatedAt": "2026-10-04T06:16:21.000Z"
+    },
+    {
       "id": "baf95539",
       "filename": "pixiv_150390492_p0.jpg",
       "path": "uploads/2026/10/6c7b6883.jpg",
