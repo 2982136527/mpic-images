@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "53d42243",
+      "filename": "pixiv_150422809_p0.jpg",
+      "path": "uploads/2026/10/e3f34974.jpg",
+      "size": 280008,
+      "width": 478,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "8298f2033670edfedc5dc9b2862af44244c24f65b8ab2fee3480037e06068915",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T17:08:02.209Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ocらくがき",
+      "tags": [
+        "ケモノ",
+        "メスケモ",
+        "furry",
+        "OC"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150422809_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150422809",
+      "sourceCreatedAt": "2026-10-03T15:49:54.000Z"
+    },
+    {
       "id": "e4e82f8c",
       "filename": "pixiv_150443757_p0.jpg",
       "path": "uploads/2026/10/1af06e66.jpg",
