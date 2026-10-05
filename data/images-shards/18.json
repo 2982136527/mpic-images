@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "d7311bd5",
+      "filename": "pixiv_150229646_p0.jpg",
+      "path": "uploads/2026/10/64f5d1a5.jpg",
+      "size": 728460,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dec74cf861c3f919c091bce726527b77eac1c51d543d6baf0235dec10207c1c4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:32:22.140Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "拘束",
+      "tags": [
+        "メカ",
+        "女の子",
+        "酸素マスク",
+        "コックピット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150229646_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150229646",
+      "sourceCreatedAt": "2026-09-28T15:10:51.000Z"
+    },
+    {
       "id": "04abca85",
       "filename": "pixiv_150384847_p0.jpg",
       "path": "uploads/2026/10/ee42b366.jpg",
