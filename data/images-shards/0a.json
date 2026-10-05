@@ -3,6 +3,37 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "df1769a9",
+      "filename": "pixiv_150443585_p0.jpg",
+      "path": "uploads/2026/10/ca689ca8.jpg",
+      "size": 984553,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "ca1b3d31b9a9b68c1c6df11e07e8536e30c070f0d54ed813697238828d9a3e05",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:31:49.222Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Anon的9月8日（hello mygo~avemujica~）",
+      "tags": [
+        "千早愛音",
+        "長崎そよ",
+        "高松燈",
+        "椎名立希",
+        "要楽奈",
+        "豊川祥子",
+        "若葉睦",
+        "祐天寺にゃむ",
+        "八幡海鈴",
+        "三角初華"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150443585_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150443585",
+      "sourceCreatedAt": "2026-10-04T06:58:05.000Z"
+    },
+    {
       "id": "e9f57104",
       "filename": "pixiv_150405601_p0.jpg",
       "path": "uploads/2026/10/1fd77239.jpg",
