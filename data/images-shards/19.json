@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "90ffce53",
+      "filename": "pixiv_150414938_p0.jpg",
+      "path": "uploads/2026/10/2cb37411.jpg",
+      "size": 722794,
+      "width": 1200,
+      "height": 621,
+      "mimeType": "image/jpeg",
+      "hash": "24f83f5b2a75b31e43c42d1e9b1c8a549c61b1b14368822ca75eae5956ed8085",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-05T05:30:21.132Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Backroooms",
+      "tags": [
+        "にじさんじ",
+        "月ノ美兎",
+        "バーチャルYouTuber100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150414938_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150414938",
+      "sourceCreatedAt": "2026-10-03T13:02:27.000Z"
+    },
+    {
       "id": "13e5b6fe",
       "filename": "pixiv_150445555_p0.jpg",
       "path": "uploads/2026/10/b79e7a10.jpg",
