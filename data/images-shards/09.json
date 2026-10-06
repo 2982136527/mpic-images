@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "af82a7c8",
+      "filename": "pixiv_150484068_p0.jpg",
+      "path": "uploads/2026/10/f0668307.jpg",
+      "size": 685549,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "954f30d002ab05aad762ee19ae09377942dd53e075cb605820b2c17484a7156d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:16:56.759Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "幽霊",
+      "tags": [
+        "怪異な君を逃がさない",
+        "幽霊",
+        "死装束"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150484068_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150484068",
+      "sourceCreatedAt": "2026-10-05T06:39:28.000Z"
+    },
+    {
       "id": "9fe0067c",
       "filename": "pixiv_150487617_p0.jpg",
       "path": "uploads/2026/10/ecca881b.jpg",
