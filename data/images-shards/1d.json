@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "53699fff",
+      "filename": "pixiv_150421250_p0.jpg",
+      "path": "uploads/2026/10/08dc7c34.jpg",
+      "size": 484252,
+      "width": 585,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f1ae36196a01f98b2c1168dd24bb37367b9340f45638214f24c767c516a6a216",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:09:01.695Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "デート服プラナちゃん",
+      "tags": [
+        "BlueArchive",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "プラナ(ブルーアーカイブ)",
+        "私服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150421250_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150421250",
+      "sourceCreatedAt": "2026-10-03T15:10:13.000Z"
+    },
+    {
       "id": "3d9e6d94",
       "filename": "pixiv_150404795_p0.jpg",
       "path": "uploads/2026/10/e8aa21b3.jpg",
