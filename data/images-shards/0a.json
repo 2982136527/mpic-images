@@ -3,6 +3,32 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "2170186a",
+      "filename": "pixiv_150467802_p0.jpg",
+      "path": "uploads/2026/10/a127849d.jpg",
+      "size": 1153661,
+      "width": 694,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1dc7542bf57d54181330a7b6a8a4115fdee92acef0a5286c4824f4393dd301f5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:05:16.344Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "명의",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "キラ(LCB)",
+        "잔느",
+        "Jeanne"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150467802_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150467802",
+      "sourceCreatedAt": "2026-10-04T15:43:34.000Z"
+    },
+    {
       "id": "07440c61",
       "filename": "pixiv_150481889_p0.jpg",
       "path": "uploads/2026/10/0ed756fb.jpg",
