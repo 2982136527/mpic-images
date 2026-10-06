@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "fbd67be8",
+      "filename": "pixiv_150486436_p0.jpg",
+      "path": "uploads/2026/10/ee7bae24.jpg",
+      "size": 993916,
+      "width": 859,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cbb19677b02dafe10907452a6ee4e426912b39bb70b48b8c1e3331d7e696d391",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:09:09.038Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "お色直し",
+      "tags": [
+        "男装",
+        "女装",
+        "服交換",
+        "ウェディング"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150486436_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150486436",
+      "sourceCreatedAt": "2026-10-05T07:54:56.000Z"
+    },
+    {
       "id": "4611a5fa",
       "filename": "pixiv_150459105_p0.jpg",
       "path": "uploads/2026/10/818751a9.jpg",
