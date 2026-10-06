@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "299eb878",
+      "filename": "pixiv_150434825_p0.jpg",
+      "path": "uploads/2026/10/53e67ef0.jpg",
+      "size": 461843,
+      "width": 1200,
+      "height": 881,
+      "mimeType": "image/jpeg",
+      "hash": "6f98aa3c3f7d62237f98cc4d0e22875ab852b64b66dd574a105488adc1008db2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T21:01:58.735Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "SD",
+        "트릭컬",
+        "Trickcal",
+        "ニフェル",
+        "ヴィヴィ(神聖)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150434825_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150434825",
+      "sourceCreatedAt": "2026-10-04T01:43:50.000Z"
+    },
+    {
       "id": "4d301459",
       "filename": "pixiv_150465533_p0.jpg",
       "path": "uploads/2026/10/154bab4b.jpg",
