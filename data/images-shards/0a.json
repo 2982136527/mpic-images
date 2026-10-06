@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "483d97b7",
+      "filename": "pixiv_150488855_p0.jpg",
+      "path": "uploads/2026/10/b661875f.jpg",
+      "size": 660338,
+      "width": 554,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6f7ff163a14dc7f0c0c3b7323c5428a2df92c7406aeedfb4ee672c3ec5b17a70",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:07:13.281Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "蒂莎",
+      "tags": [
+        "アルミオシオンの医術師",
+        "蒂莎"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150488855_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150488855",
+      "sourceCreatedAt": "2026-10-05T09:09:13.000Z"
+    },
+    {
       "id": "2170186a",
       "filename": "pixiv_150467802_p0.jpg",
       "path": "uploads/2026/10/a127849d.jpg",
