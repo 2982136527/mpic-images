@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "b0b67e5b",
+      "filename": "pixiv_150496964_p0.jpg",
+      "path": "uploads/2026/10/fa893fbb.jpg",
+      "size": 1674494,
+      "width": 865,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e0586ed2590cc87c70ed53d38138b2e0d8de923f429e66101b420d85dacc8b41",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:10:06.177Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "葛飾北斎コラボ初音ミク",
+      "tags": [
+        "VOCALOID",
+        "横顔",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150496964_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150496964",
+      "sourceCreatedAt": "2026-10-05T12:25:36.000Z"
+    },
+    {
       "id": "5b8612ee",
       "filename": "pixiv_150447517_p0.jpg",
       "path": "uploads/2026/10/99063352.jpg",
