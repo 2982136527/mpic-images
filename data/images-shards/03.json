@@ -3,6 +3,33 @@
   "shardId": "03",
   "images": [
     {
+      "id": "b2892cf0",
+      "filename": "pixiv_150420458_p0.jpg",
+      "path": "uploads/2026/10/3f6b4da6.jpg",
+      "size": 1696746,
+      "width": 766,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "980c0cc75c223d7a990a189277d286f2975b2cf7b6462655b8681b273450e86f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:16:06.947Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Seres",
+      "tags": [
+        "BlackSurvival",
+        "ER_Fana",
+        "EternalReturn",
+        "EternalReturn:BlackSurvival",
+        "이터널리턴",
+        "Seres"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150420458_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150420458",
+      "sourceCreatedAt": "2026-10-03T15:00:39.000Z"
+    },
+    {
       "id": "312c9395",
       "filename": "pixiv_150461966_p0.jpg",
       "path": "uploads/2026/10/ec4acbed.jpg",
