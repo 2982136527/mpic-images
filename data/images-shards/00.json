@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "3ca9c291",
+      "filename": "pixiv_150446992_p0.jpg",
+      "path": "uploads/2026/10/7a1cd03f.jpg",
+      "size": 1222490,
+      "width": 769,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bcb64e18d525217dfc5194e60ce36387971308ecad7155b78e93e4244a88af46",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:13:07.050Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "马尔福印象合集①",
+      "tags": [
+        "Malfoid",
+        "♀ドラコ",
+        "HarryPotter",
+        "ドラコ・マルフォイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150446992_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150446992",
+      "sourceCreatedAt": "2026-10-04T08:38:40.000Z"
+    },
+    {
       "id": "4451ca9a",
       "filename": "pixiv_150430025_p0.jpg",
       "path": "uploads/2026/10/2f9b4c4c.jpg",
