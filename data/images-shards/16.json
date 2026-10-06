@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "bbae6193",
+      "filename": "pixiv_150460420_p0.jpg",
+      "path": "uploads/2026/10/fa5a9a15.jpg",
+      "size": 147878,
+      "width": 542,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "63b732e8888940923fbdba875127c042313a554a0caae8a63639e41fb6d06004",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:15:01.464Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "말포이",
+      "tags": [
+        "해리포토",
+        "말포이",
+        "ドラコ・マルフォイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150460420_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150460420",
+      "sourceCreatedAt": "2026-10-04T13:20:01.000Z"
+    },
+    {
       "id": "15c4e0d9",
       "filename": "pixiv_150454206_p0.jpg",
       "path": "uploads/2026/10/bd51a98a.jpg",
