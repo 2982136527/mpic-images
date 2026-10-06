@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "99b3e915",
+      "filename": "pixiv_150488182_p0.jpg",
+      "path": "uploads/2026/10/1bc21329.jpg",
+      "size": 1142278,
+      "width": 873,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "522bf4b136ab9bed32f9a1b035221c1dd4c8d8e1222348ea48d7c7ccbdb34209",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:12:26.817Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ルミナス",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "鹿目まどか",
+        "暁美ほむら"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150488182_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150488182",
+      "sourceCreatedAt": "2026-10-05T08:56:55.000Z"
+    },
+    {
       "id": "18acfee3",
       "filename": "pixiv_150476292_p0.jpg",
       "path": "uploads/2026/10/18558e6c.jpg",
