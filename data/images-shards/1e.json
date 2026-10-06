@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "c1ceb928",
+      "filename": "pixiv_150484681_p0.jpg",
+      "path": "uploads/2026/10/4f699076.jpg",
+      "size": 1106977,
+      "width": 952,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1843ee391cbaa6949694f69f701e19b3d1dee5f0215f523524152584ab3f2a9e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T20:59:48.795Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ロノヴァ",
+      "tags": [
+        "原神",
+        "Ronova",
+        "ロノヴァ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150484681_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150484681",
+      "sourceCreatedAt": "2026-10-05T06:34:44.000Z"
+    },
+    {
       "id": "d5021b9e",
       "filename": "pixiv_150488908_p0.jpg",
       "path": "uploads/2026/10/69042228.jpg",
