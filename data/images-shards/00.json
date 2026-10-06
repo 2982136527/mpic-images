@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "c9de06ad",
+      "filename": "pixiv_150488349_p0.jpg",
+      "path": "uploads/2026/10/101f59ba.jpg",
+      "size": 431970,
+      "width": 752,
+      "height": 1062,
+      "mimeType": "image/jpeg",
+      "hash": "0e47fa00c7abcb82c50f04044361620a7397de279f03631737c4fa5b0272c589",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:13:50.220Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "エーテル財団の光と闇(光)",
+      "tags": [
+        "ポケモン",
+        "ポケットモンスター",
+        "ポケモンSM",
+        "エーテル財団職員",
+        "pokemon",
+        "ポケモン人間絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150488349_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150488349",
+      "sourceCreatedAt": "2026-10-05T09:00:28.000Z"
+    },
+    {
       "id": "3ca9c291",
       "filename": "pixiv_150446992_p0.jpg",
       "path": "uploads/2026/10/7a1cd03f.jpg",
