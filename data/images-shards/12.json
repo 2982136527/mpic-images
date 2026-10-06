@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "21ec86a9",
+      "filename": "pixiv_150447925_p0.jpg",
+      "path": "uploads/2026/10/bca27ef5.jpg",
+      "size": 1559896,
+      "width": 920,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "03e5eeccdacffe250c389dfd04799fbbab86774ccf16882acf81ad1b7a65771d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:03:00.638Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "零零散散的司中心cb向摸鱼",
+      "tags": [
+        "プロジェクトセカイ",
+        "プロセカ",
+        "天馬司"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150447925_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150447925",
+      "sourceCreatedAt": "2026-10-04T09:01:17.000Z"
+    },
+    {
       "id": "8f59a978",
       "filename": "pixiv_150473880_p0.jpg",
       "path": "uploads/2026/10/d60fd70a.jpg",
