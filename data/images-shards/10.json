@@ -3,6 +3,35 @@
   "shardId": "10",
   "images": [
     {
+      "id": "c2b4d71d",
+      "filename": "pixiv_150423543_p0.jpg",
+      "path": "uploads/2026/10/d6011b34.jpg",
+      "size": 1031918,
+      "width": 845,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bba743338ff88b9d06f2c3b6bf8f06065b30d265a6add6822e285de3219ac861",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:09:14.335Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "とーほーやみなべろぐ",
+      "tags": [
+        "東方Project",
+        "十六夜咲夜",
+        "博麗霊夢",
+        "レミリア・スカーレット",
+        "フランドール・スカーレット",
+        "紅美鈴",
+        "霊咲",
+        "フラレミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150423543_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150423543",
+      "sourceCreatedAt": "2026-10-03T16:11:19.000Z"
+    },
+    {
       "id": "4b719d88",
       "filename": "pixiv_150457714_p0.jpg",
       "path": "uploads/2026/10/60234d22.jpg",
