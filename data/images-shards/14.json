@@ -3,6 +3,37 @@
   "shardId": "14",
   "images": [
     {
+      "id": "2fb5602c",
+      "filename": "pixiv_150474018_p0.jpg",
+      "path": "uploads/2026/10/166de13a.jpg",
+      "size": 1244164,
+      "width": 1200,
+      "height": 904,
+      "mimeType": "image/jpeg",
+      "hash": "2c1d6a5d26b957e676f22496e21d29c70817de550870c6b02d9e593f5ff58f8f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:15:46.435Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "秋の夜の森にはご注意を…",
+      "tags": [
+        "ポケモン",
+        "pokemon",
+        "ポケットモンスター",
+        "night",
+        "夜",
+        "森林",
+        "forest",
+        "Autumn",
+        "手描き",
+        "秋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150474018_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150474018",
+      "sourceCreatedAt": "2026-10-04T20:57:38.000Z"
+    },
+    {
       "id": "b0b67e5b",
       "filename": "pixiv_150496964_p0.jpg",
       "path": "uploads/2026/10/fa893fbb.jpg",
