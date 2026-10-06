@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "b3a0ee26",
+      "filename": "pixiv_150462281_p0.jpg",
+      "path": "uploads/2026/10/bd10a4c5.jpg",
+      "size": 774119,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "234be4b01a474a3fc4cd37fd1f630573bf26d8a6dd704361d6e7bff372f2314a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:14:15.143Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "アロナ(ブルーアーカイブ)",
+        "プラナ(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150462281_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150462281",
+      "sourceCreatedAt": "2026-10-04T13:58:19.000Z"
+    },
+    {
       "id": "48878783",
       "filename": "pixiv_150488373_p0.jpg",
       "path": "uploads/2026/10/c799286e.jpg",
