@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "6de007d2",
+      "filename": "pixiv_150462958_p0.jpg",
+      "path": "uploads/2026/10/6f78d6fa.jpg",
+      "size": 111787,
+      "width": 897,
+      "height": 701,
+      "mimeType": "image/jpeg",
+      "hash": "ae5c371000bbc9431859fde9cfa48ae91d5a43cc8c405482e768ed8293d40ce3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:10:16.367Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ボカコロ本編チラ見せ！",
+      "tags": [
+        "ボカロコロシアム(漫画)",
+        "二次創作",
+        "ボカロ",
+        "漫画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150462958_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150462958",
+      "sourceCreatedAt": "2026-10-04T14:10:59.000Z"
+    },
+    {
       "id": "15bfdbf5",
       "filename": "pixiv_150424050_p0.jpg",
       "path": "uploads/2026/10/55df5f8a.jpg",
