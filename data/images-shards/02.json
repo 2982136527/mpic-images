@@ -3,6 +3,35 @@
   "shardId": "02",
   "images": [
     {
+      "id": "b7ffaa0f",
+      "filename": "pixiv_150438269_p0.jpg",
+      "path": "uploads/2026/10/39a2e147.jpg",
+      "size": 722732,
+      "width": 885,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e7093fe36356da2e73abd2f0281467eda99be82394bae9d2afc3d48f2c5dcc6e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T20:54:45.527Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "FGO落書き詰め合わせ",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "ヤン・ジシュカ(Fate)",
+        "ジャック・ザ・リッパー(Fate)",
+        "アズにゃん",
+        "オルガマリー・アニムスフィア",
+        "アズライール(Fate)",
+        "笑撃のラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150438269_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150438269",
+      "sourceCreatedAt": "2026-10-04T03:46:09.000Z"
+    },
+    {
       "id": "f9718dde",
       "filename": "pixiv_150459160_p0.jpg",
       "path": "uploads/2026/10/1df27db3.jpg",
