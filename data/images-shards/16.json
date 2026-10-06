@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "f54b9a04",
+      "filename": "pixiv_150450327_p0.jpg",
+      "path": "uploads/2026/10/9b3f5426.jpg",
+      "size": 748432,
+      "width": 963,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3ffd3149115db8244371b6742570e4165c0846dcc7ead3fecbf4667a374dfb72",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:06:04.738Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "萌るる",
+      "tags": [
+        "ななどなどなど",
+        "吉岡るる",
+        "高山萌",
+        "萌るる",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150450327_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150450327",
+      "sourceCreatedAt": "2026-10-04T09:59:41.000Z"
+    },
+    {
       "id": "7f8f5ebc",
       "filename": "pixiv_150428019_p0.jpg",
       "path": "uploads/2026/10/3d166d0e.jpg",
