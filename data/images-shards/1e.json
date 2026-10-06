@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "d5021b9e",
+      "filename": "pixiv_150488908_p0.jpg",
+      "path": "uploads/2026/10/69042228.jpg",
+      "size": 635158,
+      "width": 832,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7e587dcb360fb17d28062984ed6c950a08aa1a0150607d3f649ad90530eded28",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T20:58:59.110Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ミカ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "聖園ミカ",
+        "BlueArchive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150488908_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150488908",
+      "sourceCreatedAt": "2026-10-05T09:11:29.000Z"
+    },
+    {
       "id": "f260b81f",
       "filename": "pixiv_150457054_p0.jpg",
       "path": "uploads/2026/10/a2caf6f4.jpg",
