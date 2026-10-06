@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "084fa109",
+      "filename": "pixiv_150465456_p0.jpg",
+      "path": "uploads/2026/10/880d63fc.jpg",
+      "size": 887399,
+      "width": 1000,
+      "height": 1056,
+      "mimeType": "image/jpeg",
+      "hash": "c262b93f1c550eb0c648ad31c5f95e1482cbee4b39e44dc96f927eb234068ac2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:15:18.265Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "えななん",
+      "tags": [
+        "えななん",
+        "えな",
+        "東雲絵名",
+        "プロジェクトセカイ",
+        "プロセカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150465456_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150465456",
+      "sourceCreatedAt": "2026-10-04T15:00:25.000Z"
+    },
+    {
       "id": "830a3114",
       "filename": "pixiv_150476157_p0.jpg",
       "path": "uploads/2026/10/0efc7219.jpg",
