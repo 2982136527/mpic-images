@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "2a42e1bd",
+      "filename": "pixiv_150465453_p0.jpg",
+      "path": "uploads/2026/10/12c58f11.jpg",
+      "size": 2014624,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ce4f90d17db452d9335d9db56849eb0aa62493363efeddc09120d512b8704e88",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:03:23.395Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ピンクキョンシーちゃん",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作",
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150465453_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150465453",
+      "sourceCreatedAt": "2026-10-04T15:00:25.000Z"
+    },
+    {
       "id": "5143cb9a",
       "filename": "pixiv_150457905_p0.jpg",
       "path": "uploads/2026/10/553fc5e0.jpg",
