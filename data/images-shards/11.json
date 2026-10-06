@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "fe6bf5d3",
+      "filename": "pixiv_150467625_p0.jpg",
+      "path": "uploads/2026/10/3e5dc713.jpg",
+      "size": 581677,
+      "width": 841,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2795f41fc4fc25444b6c9bd7ad7a8b36d954e75aa5dcd9be2b9acf8e3bc1cf62",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:06:34.842Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "デレデレ",
+      "tags": [
+        "アリョーシャ(原神)",
+        "原神",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150467625_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150467625",
+      "sourceCreatedAt": "2026-10-04T15:38:31.000Z"
+    },
+    {
       "id": "6af2dbcd",
       "filename": "pixiv_150393686_p0.jpg",
       "path": "uploads/2026/10/23736179.jpg",
