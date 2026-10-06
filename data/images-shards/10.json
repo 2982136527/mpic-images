@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "0b96d096",
+      "filename": "pixiv_150475958_p0.jpg",
+      "path": "uploads/2026/10/8514d0aa.jpg",
+      "size": 819019,
+      "width": 561,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d0864c87b000e9c5490d454c913566a8c420d314cae1696647412bb19f789c46",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T20:57:06.213Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Lulla's portrait",
+      "tags": [
+        "lulla",
+        "ランラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150475958_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150475958",
+      "sourceCreatedAt": "2026-10-04T22:41:25.000Z"
+    },
+    {
       "id": "f6f8a69b",
       "filename": "pixiv_150476418_p0.jpg",
       "path": "uploads/2026/10/10d846bc.jpg",
