@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "48878783",
+      "filename": "pixiv_150488373_p0.jpg",
+      "path": "uploads/2026/10/c799286e.jpg",
+      "size": 725340,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "37733620460f72ac906e36e32603cba8aa97701725eeb33ae1d3993aaaf76fe0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:11:33.659Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "[Skeb] パメラ",
+      "tags": [
+        "Skeb",
+        "女の子",
+        "黒パンツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150488373_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150488373",
+      "sourceCreatedAt": "2026-10-05T09:00:34.000Z"
+    },
+    {
       "id": "ec5c931d",
       "filename": "pixiv_150408528_p0.jpg",
       "path": "uploads/2026/10/db4a99d1.jpg",
