@@ -3,6 +3,28 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "07440c61",
+      "filename": "pixiv_150481889_p0.jpg",
+      "path": "uploads/2026/10/0ed756fb.jpg",
+      "size": 824195,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "aab40d08c7743f1514d7a342aa5e915c91a457912b7dfbe7831297028c3ee288",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:12:19.935Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "秋",
+      "tags": [
+        "オーカミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150481889_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150481889",
+      "sourceCreatedAt": "2026-10-05T04:12:20.000Z"
+    },
+    {
       "id": "df1769a9",
       "filename": "pixiv_150443585_p0.jpg",
       "path": "uploads/2026/10/ca689ca8.jpg",
