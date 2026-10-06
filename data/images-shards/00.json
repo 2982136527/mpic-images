@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "13f2cb6e",
+      "filename": "pixiv_150465538_p0.jpg",
+      "path": "uploads/2026/10/c66cf65f.jpg",
+      "size": 1039414,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "d520fa34108755081f7952c243d291d82a38bbbb8545d29ddeea83c78a163ab8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:01:27.354Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "桐谷遥誕生祭2026",
+      "tags": [
+        "プロセカ",
+        "桐谷遥",
+        "投稿時間に愛を感じる"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150465538_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150465538",
+      "sourceCreatedAt": "2026-10-04T15:00:37.000Z"
+    },
+    {
       "id": "2a494f0f",
       "filename": "pixiv_150282263_p0.jpg",
       "path": "uploads/2026/10/99745af0.jpg",
