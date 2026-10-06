@@ -3,6 +3,28 @@
   "shardId": "04",
   "images": [
     {
+      "id": "c13b01c9",
+      "filename": "pixiv_150478488_p0.jpg",
+      "path": "uploads/2026/10/701dd5c5.jpg",
+      "size": 294322,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dac134b135fc039c88f7e25b24bbb29340f4a3cfa309d89c37e2e54a28fb32a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:09:29.386Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "お待たせしました！！！！！！",
+      "tags": [
+        "お知らせ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150478488_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150478488",
+      "sourceCreatedAt": "2026-10-05T01:15:40.000Z"
+    },
+    {
       "id": "7cce43ba",
       "filename": "pixiv_150367972_p0.jpg",
       "path": "uploads/2026/10/2c8e0a05.jpg",
