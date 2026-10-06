@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "e158a4b7",
+      "filename": "pixiv_150479996_p0.jpg",
+      "path": "uploads/2026/10/d4c316e4.jpg",
+      "size": 716867,
+      "width": 1200,
+      "height": 1023,
+      "mimeType": "image/jpeg",
+      "hash": "1b60cf0ef1fb3c0cbb6e2050df2907ce9b7724b80c5ef86cc9d95a53ce508655",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:16:48.967Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "クラシカロイド",
+      "tags": [
+        "クラシカロイド",
+        "ワーグナー(クラシカロイド)",
+        "ベートーヴェン(クラシカロイド)",
+        "モーツァルト(クラシカロイド)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150479996_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150479996",
+      "sourceCreatedAt": "2026-10-05T02:49:22.000Z"
+    },
+    {
       "id": "74a21c42",
       "filename": "pixiv_150467576_p0.jpg",
       "path": "uploads/2026/10/ad4f2e02.jpg",
