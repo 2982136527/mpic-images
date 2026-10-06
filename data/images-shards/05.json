@@ -3,6 +3,33 @@
   "shardId": "05",
   "images": [
     {
+      "id": "f967c6be",
+      "filename": "pixiv_150451529_p0.jpg",
+      "path": "uploads/2026/10/454b7170.jpg",
+      "size": 1133864,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "5075944b653d07431244971c44ecbf635867c8fe0c44f0a701df23734ac8a428",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:07:30.628Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "2 Days Until Demo Release",
+      "tags": [
+        "DeusExia",
+        "女の子",
+        "自作ゲーム",
+        "Steam",
+        "創作",
+        "Exia"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150451529_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150451529",
+      "sourceCreatedAt": "2026-10-04T10:23:29.000Z"
+    },
+    {
       "id": "7acff95e",
       "filename": "pixiv_150252795_p0.jpg",
       "path": "uploads/2026/10/077536b9.jpg",
