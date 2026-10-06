@@ -3,6 +3,35 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "49d542cb",
+      "filename": "pixiv_150459909_p0.jpg",
+      "path": "uploads/2026/10/0caad8f7.jpg",
+      "size": 1145497,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "055e9b40fcf3b9b3f6d96093fa3d1624a64ed87e7385e686a3322a8ef4c0230a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:05:28.304Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "まのさば色々まとめ",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "二階堂ヒロ",
+        "夏目アンアン",
+        "佐伯ミリア",
+        "城ケ崎ノア",
+        "ノアアン",
+        "黒部ナノカ",
+        "まのさばネタバレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150459909_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150459909",
+      "sourceCreatedAt": "2026-10-04T13:21:16.000Z"
+    },
+    {
       "id": "aca935d9",
       "filename": "pixiv_150485384_p0.jpg",
       "path": "uploads/2026/10/cbc11b4f.jpg",
