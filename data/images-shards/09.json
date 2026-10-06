@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "45e7f9b2",
+      "filename": "pixiv_150490674_p0.jpg",
+      "path": "uploads/2026/10/32222ac2.jpg",
+      "size": 758963,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f831b3d9152a6cd46ca4ed910c26758452d1bd488e5db9fc8abdf90b6098ab4e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:04:01.702Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "お薬の時間",
+      "tags": [
+        "女の子",
+        "イラスト",
+        "オリジナル",
+        "オリジナルキャラクター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150490674_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150490674",
+      "sourceCreatedAt": "2026-10-05T10:01:45.000Z"
+    },
+    {
       "id": "2a42e1bd",
       "filename": "pixiv_150465453_p0.jpg",
       "path": "uploads/2026/10/12c58f11.jpg",
