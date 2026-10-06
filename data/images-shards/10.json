@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "f6f8a69b",
+      "filename": "pixiv_150476418_p0.jpg",
+      "path": "uploads/2026/10/10d846bc.jpg",
+      "size": 715307,
+      "width": 852,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "74da6d266310df0ef6f0bea20cfccdc053cdf1997387b95b9fc0e8ac96f0642f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:03:48.640Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Hell of a Cop",
+      "tags": [
+        "ZenlessZoneZero",
+        "朱鳶(ゼンゼロ)",
+        "绝区零"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150476418_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150476418",
+      "sourceCreatedAt": "2026-10-04T23:04:49.000Z"
+    },
+    {
       "id": "9722a799",
       "filename": "pixiv_150489509_p0.jpg",
       "path": "uploads/2026/10/3699bc1e.jpg",
