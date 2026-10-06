@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "2420b99a",
+      "filename": "pixiv_150443207_p0.jpg",
+      "path": "uploads/2026/10/44cdfcee.jpg",
+      "size": 546424,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "d23eac8299afc233e4efb69674e97870d8d100ec6739b9c43a2aefee07d5bb60",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:15:10.696Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Untitled",
+      "tags": [
+        "Limbus_Company",
+        "림버스컴퍼니",
+        "LimbusCompany",
+        "Palette(LCB)",
+        "パレット(LCB)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150443207_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150443207",
+      "sourceCreatedAt": "2026-10-04T06:46:02.000Z"
+    },
+    {
       "id": "1e93c2ae",
       "filename": "pixiv_150440441_p0.jpg",
       "path": "uploads/2026/10/e15182e2.jpg",
