@@ -3,6 +3,28 @@
   "shardId": "08",
   "images": [
     {
+      "id": "705700fa",
+      "filename": "pixiv_150495258_p0.jpg",
+      "path": "uploads/2026/10/b26524df.jpg",
+      "size": 654477,
+      "width": 1176,
+      "height": 768,
+      "mimeType": "image/jpeg",
+      "hash": "252f9308c75d478067664d2ee105107c85869d803ae1579665c5faad6980ff1c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:11:09.325Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "次世代",
+      "tags": [
+        "ノスフェラトゥさん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150495258_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150495258",
+      "sourceCreatedAt": "2026-10-06T05:25:12.000Z"
+    },
+    {
       "id": "76c5549f",
       "filename": "pixiv_150401733_p0.jpg",
       "path": "uploads/2026/10/91f87582.jpg",
