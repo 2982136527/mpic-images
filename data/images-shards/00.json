@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "c7d20106",
+      "filename": "pixiv_150437503_p0.jpg",
+      "path": "uploads/2026/10/e69e64e6.jpg",
+      "size": 266248,
+      "width": 924,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "012462d1502ac868093b7f6c0467d8789794b1588a0c3adf94d3f7e5f10346ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T20:56:27.147Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アイス食べたいにゃ",
+      "tags": [
+        "ヤニヤク",
+        "ヤニねこ",
+        "ヤクねこ",
+        "ヤク虐"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150437503_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150437503",
+      "sourceCreatedAt": "2026-10-04T03:18:25.000Z"
+    },
+    {
       "id": "9966fc99",
       "filename": "pixiv_150294649_p0.jpg",
       "path": "uploads/2026/10/a30ed0c1.jpg",
