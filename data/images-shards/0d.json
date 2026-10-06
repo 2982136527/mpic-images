@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "2ddb4258",
+      "filename": "pixiv_150493140_p0.jpg",
+      "path": "uploads/2026/10/1ab1c03a.jpg",
+      "size": 1067807,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bef5e4dda89138a114de7dc25db5005148f8b7ab4cb2c971faa435da8659ad49",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:15:32.370Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "見習い魔女のかくし芸",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150493140_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150493140",
+      "sourceCreatedAt": "2026-10-05T11:02:23.000Z"
+    },
+    {
       "id": "7590d8a1",
       "filename": "pixiv_150448770_p0.jpg",
       "path": "uploads/2026/10/09b11d98.jpg",
