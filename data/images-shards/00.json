@@ -3,6 +3,28 @@
   "shardId": "00",
   "images": [
     {
+      "id": "2a494f0f",
+      "filename": "pixiv_150282263_p0.jpg",
+      "path": "uploads/2026/10/99745af0.jpg",
+      "size": 415169,
+      "width": 419,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "912dbd7ad923cf7a669b8adb3522bcdb8d49e11b3b9cb8e570f0708e50337351",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:17:34.757Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ティナコレ",
+      "tags": [
+        "ティナコレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150282263_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150282263",
+      "sourceCreatedAt": "2026-09-30T06:10:30.000Z"
+    },
+    {
       "id": "c9de06ad",
       "filename": "pixiv_150488349_p0.jpg",
       "path": "uploads/2026/10/101f59ba.jpg",
