@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "ea8b6ba1",
+      "filename": "pixiv_150421392_p0.jpg",
+      "path": "uploads/2026/10/9c157c38.jpg",
+      "size": 755965,
+      "width": 1200,
+      "height": 779,
+      "mimeType": "image/jpeg",
+      "hash": "5ef5392d155b1fba2a9dcdebdd97ce68349d78e2b2bff01a9ce08e109c856b3d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:01:46.621Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "私稿(",
+      "tags": [
+        "特莉波卡",
+        "犹格索托斯的庭院"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150421392_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150421392",
+      "sourceCreatedAt": "2026-10-03T15:13:06.000Z"
+    },
+    {
       "id": "16a1c0c5",
       "filename": "pixiv_150488365_p0.jpg",
       "path": "uploads/2026/10/5942ca89.jpg",
