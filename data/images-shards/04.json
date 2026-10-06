@@ -3,6 +3,37 @@
   "shardId": "04",
   "images": [
     {
+      "id": "004ee9d6",
+      "filename": "pixiv_150473703_p0.jpg",
+      "path": "uploads/2026/10/1107c1c0.jpg",
+      "size": 1212267,
+      "width": 1200,
+      "height": 901,
+      "mimeType": "image/jpeg",
+      "hash": "aec319ba9f9fb5502301838f782fa476a5251d22c636f1b51b875c5eb4fd36bc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:14:53.981Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "レモンの日💛🍋💛",
+      "tags": [
+        "レモン",
+        "pixiv今日のお題",
+        "レモネード",
+        "lemon",
+        "手描き",
+        "フルーツ",
+        "飲み物",
+        "ドリンク",
+        "果実",
+        "fruit"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150473703_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150473703",
+      "sourceCreatedAt": "2026-10-04T20:34:16.000Z"
+    },
+    {
       "id": "2652df1e",
       "filename": "pixiv_150432605_p0.jpg",
       "path": "uploads/2026/10/b18a9533.jpg",
