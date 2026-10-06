@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "9619afe2",
+      "filename": "pixiv_150421197_p0.jpg",
+      "path": "uploads/2026/10/7bb1246f.jpg",
+      "size": 949157,
+      "width": 864,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c79e60b0fb04959c6ec82dd915f954cf305342d67043f6d6254eeb875b5129b0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:09:22.261Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "하인리히 크로머",
+      "tags": [
+        "Limbus_Company",
+        "LobotomyCorporation"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150421197_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150421197",
+      "sourceCreatedAt": "2026-10-03T15:08:54.000Z"
+    },
+    {
       "id": "54ea6934",
       "filename": "pixiv_150458725_p0.jpg",
       "path": "uploads/2026/10/19920315.jpg",
