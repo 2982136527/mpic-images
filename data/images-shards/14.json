@@ -3,6 +3,30 @@
   "shardId": "14",
   "images": [
     {
+      "id": "2d620f92",
+      "filename": "pixiv_150478353_p0.jpg",
+      "path": "uploads/2026/10/ad7d3266.jpg",
+      "size": 737763,
+      "width": 813,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e23df1226d3fd2dc0f5c1424274b4b428972909c3f7ebb29aea3f869c3e57b46",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:07:05.237Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "褐色",
+        "メカ娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150478353_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150478353",
+      "sourceCreatedAt": "2026-10-05T01:07:16.000Z"
+    },
+    {
       "id": "2fb5602c",
       "filename": "pixiv_150474018_p0.jpg",
       "path": "uploads/2026/10/166de13a.jpg",
