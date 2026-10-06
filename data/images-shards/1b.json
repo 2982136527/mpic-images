@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "aca935d9",
+      "filename": "pixiv_150485384_p0.jpg",
+      "path": "uploads/2026/10/cbc11b4f.jpg",
+      "size": 1637205,
+      "width": 1200,
+      "height": 971,
+      "mimeType": "image/jpeg",
+      "hash": "5d9fe19462d1d0e84053ed5c550aca84cea43950ffc0b15d722ed97170720519",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:11:02.249Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【お仕事】めめ村5周年POPUP",
+      "tags": [
+        "お仕事",
+        "めめ村",
+        "めめんともり",
+        "あなた様でしたか!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150485384_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150485384",
+      "sourceCreatedAt": "2026-10-05T07:06:20.000Z"
+    },
+    {
       "id": "7f5b8f8d",
       "filename": "pixiv_150271313_p0.jpg",
       "path": "uploads/2026/10/61c4c2d5.jpg",
