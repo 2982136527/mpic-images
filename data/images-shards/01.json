@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "ce403d83",
+      "filename": "pixiv_150466241_p0.jpg",
+      "path": "uploads/2026/10/d1222546.jpg",
+      "size": 1272494,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4991c70da1146ead832f8688f1840debf98ab577d3cb80ad78c11bd33ac2a9ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T15:05:46.346Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "遥ちゃんお誕生日おめでとう💙🩵",
+      "tags": [
+        "桐谷遥",
+        "プロジェクトセカイ",
+        "プロセカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150466241_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150466241",
+      "sourceCreatedAt": "2026-10-04T15:07:54.000Z"
+    },
+    {
       "id": "56207aaf",
       "filename": "pixiv_150445901_p0.jpg",
       "path": "uploads/2026/10/4a7d7b2b.jpg",
