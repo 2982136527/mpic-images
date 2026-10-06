@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "4974ec6a",
+      "filename": "pixiv_150498957_p0.jpg",
+      "path": "uploads/2026/10/a0141558.jpg",
+      "size": 1034815,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dbbc5da7a6d98334c4f34c6d915ee8ec75487fbfbd2efd16f0c17d6efc5dc2dd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T20:55:47.831Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "log",
+      "tags": [
+        "初音ミク",
+        "重音テト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150498957_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150498957",
+      "sourceCreatedAt": "2026-10-05T13:04:43.000Z"
+    },
+    {
       "id": "ec7f95bd",
       "filename": "pixiv_150441000_p0.jpg",
       "path": "uploads/2026/10/0f65bc1c.jpg",
