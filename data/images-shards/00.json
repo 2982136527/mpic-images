@@ -3,6 +3,34 @@
   "shardId": "00",
   "images": [
     {
+      "id": "4451ca9a",
+      "filename": "pixiv_150430025_p0.jpg",
+      "path": "uploads/2026/10/2f9b4c4c.jpg",
+      "size": 1335526,
+      "width": 1007,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f7ad9a10d63748042e78e4e9aec212b464cfaf4a95ba8b4c065681c8ad62479d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-06T06:10:48.779Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "fanart DracoMalfoy",
+      "tags": [
+        "fanart",
+        "girl",
+        "illustration",
+        "DracoMalfoy",
+        "HarryPotter",
+        "♀ドラコ",
+        "Malfoid"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150430025_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150430025",
+      "sourceCreatedAt": "2026-10-03T21:58:39.000Z"
+    },
+    {
       "id": "fc688e73",
       "filename": "pixiv_150433553_p0.jpg",
       "path": "uploads/2026/10/849fe228.jpg",
