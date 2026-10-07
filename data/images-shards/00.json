@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "fd6bdc4f",
+      "filename": "pixiv_150482554_p0.jpg",
+      "path": "uploads/2026/10/f9c8db38.jpg",
+      "size": 421297,
+      "width": 991,
+      "height": 989,
+      "mimeType": "image/jpeg",
+      "hash": "3e788b6a3b297a55a0ce81205de0669e2507c4331261d36bcc5906297beaa4c8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T15:30:42.321Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "말포이",
+      "tags": [
+        "ドラコ・マルフォイ",
+        "ハリー・ポッター",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150482554_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150482554",
+      "sourceCreatedAt": "2026-10-05T04:44:19.000Z"
+    },
+    {
       "id": "27f91739",
       "filename": "pixiv_150501878_p0.jpg",
       "path": "uploads/2026/10/fa34f696.jpg",
