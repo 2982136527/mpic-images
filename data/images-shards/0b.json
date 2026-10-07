@@ -3,6 +3,28 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "d67e4fbb",
+      "filename": "pixiv_150501178_p0.jpg",
+      "path": "uploads/2026/10/f76390db.jpg",
+      "size": 529941,
+      "width": 1200,
+      "height": 968,
+      "mimeType": "image/jpeg",
+      "hash": "120a5f32470ee0c929a7567c7c0017fb1ab3a91a55ac78c36a4e246089f64b94",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:47:35.596Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "初めて",
+      "tags": [
+        "シュタフェル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150501178_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150501178",
+      "sourceCreatedAt": "2026-10-05T13:57:34.000Z"
+    },
+    {
       "id": "0685aa7d",
       "filename": "pixiv_150509046_p0.jpg",
       "path": "uploads/2026/10/e3e785b0.jpg",
