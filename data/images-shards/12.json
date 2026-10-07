@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "0e8f586f",
+      "filename": "pixiv_150504469_p0.jpg",
+      "path": "uploads/2026/10/1c7fe317.jpg",
+      "size": 849779,
+      "width": 1200,
+      "height": 1154,
+      "mimeType": "image/jpeg",
+      "hash": "d872a00812e02c7de5bd1f7778a52b5742102730c764466cbd55ed536702ed7f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:50:23.332Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ねじれちゃん",
+      "tags": [
+        "僕のヒーローアカデミア",
+        "波動ねじれ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150504469_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150504469",
+      "sourceCreatedAt": "2026-10-05T15:00:19.000Z"
+    },
+    {
       "id": "07411326",
       "filename": "pixiv_150437260_p0.jpg",
       "path": "uploads/2026/10/a3854125.jpg",
