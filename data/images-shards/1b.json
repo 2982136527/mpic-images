@@ -3,6 +3,28 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "9eef1cf0",
+      "filename": "pixiv_150520758_p0.jpg",
+      "path": "uploads/2026/10/5cd6b690.jpg",
+      "size": 1656257,
+      "width": 966,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f4b58b1a5001cd508dadb66bab5820caa9f5de2a2df4552c626b75a0f2cf3693",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T15:32:10.916Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Noon",
+      "tags": [
+        "Howlring"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150520758_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150520758",
+      "sourceCreatedAt": "2026-10-06T04:43:15.000Z"
+    },
+    {
       "id": "c826c74f",
       "filename": "pixiv_150499741_p0.jpg",
       "path": "uploads/2026/10/9fc24652.jpg",
