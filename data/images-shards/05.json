@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "8a9a5e40",
+      "filename": "pixiv_150504540_p0.jpg",
+      "path": "uploads/2026/10/c3e04a70.jpg",
+      "size": 233524,
+      "width": 800,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "6bf3a1ce5696449159ae53b98d471c704bc51f5a3f8d5f9715403d283447bd0a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T15:29:30.123Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ぬって",
+      "tags": [
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ",
+        "レミエール・ダン",
+        "あらかわいい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150504540_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150504540",
+      "sourceCreatedAt": "2026-10-05T15:00:29.000Z"
+    },
+    {
       "id": "de6e8212",
       "filename": "pixiv_150264940_p0.jpg",
       "path": "uploads/2026/10/bed8400b.jpg",
