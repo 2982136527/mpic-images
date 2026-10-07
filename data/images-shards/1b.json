@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "e68e44d1",
+      "filename": "pixiv_150504543_p0.jpg",
+      "path": "uploads/2026/10/28d1ef68.jpg",
+      "size": 555607,
+      "width": 1056,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9f95df99b391f872ad6551adc5ff349d005117b254b5ef1edc96cc48ca2c5009",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T21:12:36.112Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🐾",
+      "tags": [
+        "女の子",
+        "創作",
+        "オリジナル",
+        "ユキヒョウ",
+        "スク水",
+        "ケモ耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150504543_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150504543",
+      "sourceCreatedAt": "2026-10-05T15:55:26.000Z"
+    },
+    {
       "id": "748b57d6",
       "filename": "pixiv_150505532_p0.jpg",
       "path": "uploads/2026/10/01b89333.jpg",
