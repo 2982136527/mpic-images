@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "f34e976e",
+      "filename": "pixiv_150316233_p0.jpg",
+      "path": "uploads/2026/10/f1fa95b5.jpg",
+      "size": 1130861,
+      "width": 622,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4259825f82a3ca2ee8d5d56cee7f2ea483e2b983b551b70953e18797a349afa9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:52:53.684Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "你怎么穿",
+      "tags": [
+        "绝区零",
+        "高跟",
+        "ビビアン・バンシー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150316233_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150316233",
+      "sourceCreatedAt": "2026-10-01T02:50:35.000Z"
+    },
+    {
       "id": "2b708317",
       "filename": "pixiv_150488340_p0.jpg",
       "path": "uploads/2026/10/15a634f4.jpg",
