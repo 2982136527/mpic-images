@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "94d75e5a",
+      "filename": "pixiv_150514424_p0.jpg",
+      "path": "uploads/2026/10/7f222e68.jpg",
+      "size": 467728,
+      "width": 1200,
+      "height": 922,
+      "mimeType": "image/jpeg",
+      "hash": "657f33fac508463b7899f317889ec69869a7778d337c955cb6a26cb802f39cbd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T21:18:50.275Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "上官と部下73",
+      "tags": [
+        "漫画",
+        "軍人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150514424_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150514424",
+      "sourceCreatedAt": "2026-10-05T22:42:14.000Z"
+    },
+    {
       "id": "cb066c9f",
       "filename": "pixiv_150486582_p0.jpg",
       "path": "uploads/2026/10/65213c84.jpg",
