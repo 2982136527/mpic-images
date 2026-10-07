@@ -3,6 +3,28 @@
   "shardId": "11",
   "images": [
     {
+      "id": "0271567b",
+      "filename": "pixiv_150303905_p0.jpg",
+      "path": "uploads/2026/10/9f312916.jpg",
+      "size": 674539,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2ebc850667de3c77e99774eefd0f7884ac489dec45dd6de09b253d52035eb0ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:53:07.183Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Izumi",
+      "tags": [
+        "original"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150303905_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150303905",
+      "sourceCreatedAt": "2026-09-30T15:25:31.000Z"
+    },
+    {
       "id": "7d50b85e",
       "filename": "pixiv_150518046_p0.jpg",
       "path": "uploads/2026/10/d9b37041.jpg",
