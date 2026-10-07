@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "a3e22918",
+      "filename": "pixiv_150485394_p0.jpg",
+      "path": "uploads/2026/10/9ddf47ae.jpg",
+      "size": 983869,
+      "width": 805,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "07a481e22d2cf332acee681441e1c100ff0b780e8abd23141e944b9b1c67c98a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T21:13:03.811Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "黒レミエール",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "レミエール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150485394_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150485394",
+      "sourceCreatedAt": "2026-10-05T07:06:36.000Z"
+    },
+    {
       "id": "a92b0f56",
       "filename": "pixiv_150502756_p0.jpg",
       "path": "uploads/2026/10/719fe349.jpg",
