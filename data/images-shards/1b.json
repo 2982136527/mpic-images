@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "f8cf83dd",
+      "filename": "pixiv_150497823_p0.jpg",
+      "path": "uploads/2026/10/f4f36970.jpg",
+      "size": 860546,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cedc16dbe33f5975f3eaf8abe7d356ad2860abb0b835eed43ee67f1ea8588793",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T21:18:57.056Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ほ庭ログ",
+      "tags": [
+        "ほの暮しの庭",
+        "コンノ(ほの暮しの庭)",
+        "リン(ほの暮しの庭)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150497823_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150497823",
+      "sourceCreatedAt": "2026-10-05T12:43:25.000Z"
+    },
+    {
       "id": "e68e44d1",
       "filename": "pixiv_150504543_p0.jpg",
       "path": "uploads/2026/10/28d1ef68.jpg",
