@@ -3,6 +3,37 @@
   "shardId": "07",
   "images": [
     {
+      "id": "8fcd2920",
+      "filename": "pixiv_150512343_p0.jpg",
+      "path": "uploads/2026/10/5907b869.jpg",
+      "size": 1346601,
+      "width": 1200,
+      "height": 891,
+      "mimeType": "image/jpeg",
+      "hash": "908d968f05cd5703fec3f02208679900cfe893d29f1d7888065d879048212ec4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:50:00.113Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ポケモン達の演奏の秋🎶🍁🎶",
+      "tags": [
+        "ポケモン",
+        "pokemon",
+        "ポケットモンスター",
+        "Autumn",
+        "芸術の秋",
+        "演奏会",
+        "forest",
+        "森林",
+        "手描き",
+        "歌う"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150512343_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150512343",
+      "sourceCreatedAt": "2026-10-05T20:45:54.000Z"
+    },
+    {
       "id": "ceeeae9d",
       "filename": "pixiv_150511437_p0.jpg",
       "path": "uploads/2026/10/9044667d.jpg",
