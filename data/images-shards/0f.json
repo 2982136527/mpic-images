@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "efc42189",
+      "filename": "pixiv_150534560_p0.jpg",
+      "path": "uploads/2026/10/b3ad3a98.jpg",
+      "size": 774630,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "66d91146983394056a49ec5b4b3f6b9492808caaee0a3ae8c45c465d0dddf883",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:45:01.773Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "オロチ",
+      "tags": [
+        "オロチ(妖怪ウォッチ)",
+        "妖怪ウォッチ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150534560_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150534560",
+      "sourceCreatedAt": "2026-10-06T12:25:41.000Z"
+    },
+    {
       "id": "99b3e915",
       "filename": "pixiv_150488182_p0.jpg",
       "path": "uploads/2026/10/1bc21329.jpg",
