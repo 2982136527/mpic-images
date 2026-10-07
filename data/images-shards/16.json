@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "f465498b",
+      "filename": "pixiv_150522122_p0.jpg",
+      "path": "uploads/2026/10/fe9a348a.jpg",
+      "size": 1098405,
+      "width": 1200,
+      "height": 889,
+      "mimeType": "image/jpeg",
+      "hash": "1fdfd41518d3406f4c169862aef1ad0d35b0214caade079691e0e26c8f00f610",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:50:43.399Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Stretch",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150522122_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150522122",
+      "sourceCreatedAt": "2026-10-06T05:57:29.000Z"
+    },
+    {
       "id": "91f5ae14",
       "filename": "pixiv_150481524_p0.jpg",
       "path": "uploads/2026/10/d4464958.jpg",
