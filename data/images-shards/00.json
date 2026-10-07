@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "986b0b52",
+      "filename": "pixiv_150532427_p0.jpg",
+      "path": "uploads/2026/10/1ba30931.jpg",
+      "size": 683623,
+      "width": 792,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "48c688db426fa871c5e15fa45548b7edd907dd316c44e3aceadf3d098cb2981e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T21:15:22.736Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "エマ",
+      "tags": [
+        "エマ(勝利の女神:NIKKE)",
+        "勝利",
+        "勝利の女神:NIKKE"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150532427_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150532427",
+      "sourceCreatedAt": "2026-10-06T11:41:07.000Z"
+    },
+    {
       "id": "fd6bdc4f",
       "filename": "pixiv_150482554_p0.jpg",
       "path": "uploads/2026/10/f9c8db38.jpg",
