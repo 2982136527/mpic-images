@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "edf5cb13",
+      "filename": "pixiv_150486372_p0.jpg",
+      "path": "uploads/2026/10/8775f46c.jpg",
+      "size": 446561,
+      "width": 838,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0fd0fb745aec4de73fcdaf86b03dadc24b963169f718a579e1958f7d05aaf6e4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T21:16:45.892Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ウーバーガール",
+      "tags": [
+        "オリジナル",
+        "OC"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150486372_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150486372",
+      "sourceCreatedAt": "2026-10-05T07:52:13.000Z"
+    },
+    {
       "id": "cfea5eab",
       "filename": "pixiv_150491415_p0.jpg",
       "path": "uploads/2026/10/21da59e6.jpg",
