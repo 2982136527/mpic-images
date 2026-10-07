@@ -3,6 +3,29 @@
   "shardId": "12",
   "images": [
     {
+      "id": "ed4f9525",
+      "filename": "pixiv_150491731_p0.jpg",
+      "path": "uploads/2026/10/137d8b3b.jpg",
+      "size": 818080,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "165af3ecf330b1cc2e0d6c215b363e836b9b0c80085f782a1427884409a01ce3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:51:15.689Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "新衣装良かったねぇ",
+      "tags": [
+        "アンジュ・カトリーナ",
+        "にじさんじ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150491731_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150491731",
+      "sourceCreatedAt": "2026-10-05T10:30:09.000Z"
+    },
+    {
       "id": "0e8f586f",
       "filename": "pixiv_150504469_p0.jpg",
       "path": "uploads/2026/10/1c7fe317.jpg",
