@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "103af4db",
+      "filename": "pixiv_150529340_p0.jpg",
+      "path": "uploads/2026/10/b2519856.jpg",
+      "size": 622321,
+      "width": 686,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "730b7e936b79d6ac464f8d235dbb172164af741ecf8660dd7606d77865fcceca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:44:20.453Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "音ノ羽萌",
+        "おへそ",
+        "天使"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150529340_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150529340",
+      "sourceCreatedAt": "2026-10-06T10:25:30.000Z"
+    },
+    {
       "id": "483d97b7",
       "filename": "pixiv_150488855_p0.jpg",
       "path": "uploads/2026/10/b661875f.jpg",
