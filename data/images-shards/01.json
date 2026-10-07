@@ -3,6 +3,35 @@
   "shardId": "01",
   "images": [
     {
+      "id": "26054253",
+      "filename": "pixiv_150504464_p0.jpg",
+      "path": "uploads/2026/10/b7d10dd5.jpg",
+      "size": 1214362,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1c036ad2c9f109f45da30846cf11e20ff690de55b2ecbf414e777d945ac8ffc1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T15:30:53.683Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "秋雲の描き方",
+      "tags": [
+        "オリジナル",
+        "講座",
+        "描き方",
+        "田舎",
+        "風景",
+        "背景",
+        "空",
+        "雲"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150504464_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150504464",
+      "sourceCreatedAt": "2026-10-05T15:00:18.000Z"
+    },
+    {
       "id": "54e1ad5f",
       "filename": "pixiv_150527698_p0.jpg",
       "path": "uploads/2026/10/9a657889.jpg",
