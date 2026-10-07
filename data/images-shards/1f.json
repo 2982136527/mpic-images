@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "10843316",
+      "filename": "pixiv_150522324_p0.jpg",
+      "path": "uploads/2026/10/9267fac7.jpg",
+      "size": 1790301,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "591ab1403691b65020ecabfb9a25222e3e094f546231b8413ecd1b7177b02b3f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:45:33.791Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "胡蝶姉妹",
+      "tags": [
+        "鬼滅の刃",
+        "カエしの",
+        "胡蝶しのぶ",
+        "胡蝶カナエ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150522324_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150522324",
+      "sourceCreatedAt": "2026-10-06T06:05:58.000Z"
+    },
+    {
       "id": "c8b56a05",
       "filename": "pixiv_150491862_p0.jpg",
       "path": "uploads/2026/10/86c76f79.jpg",
