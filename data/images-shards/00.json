@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "29af49da",
+      "filename": "pixiv_150520102_p0.jpg",
+      "path": "uploads/2026/10/bbaa610a.jpg",
+      "size": 1589009,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6a2474c1c6d5f1431eb4b853a14a50a4aba7ee90e816a0e5157294de69d3eba9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:47:05.306Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アリス",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "不思議の国のアリス",
+        "アリス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150520102_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150520102",
+      "sourceCreatedAt": "2026-10-06T04:00:33.000Z"
+    },
+    {
       "id": "7c814882",
       "filename": "pixiv_150503687_p0.jpg",
       "path": "uploads/2026/10/754a4862.jpg",
