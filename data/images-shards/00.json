@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "7c814882",
+      "filename": "pixiv_150503687_p0.jpg",
+      "path": "uploads/2026/10/754a4862.jpg",
+      "size": 624332,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14f46eb642d8cc27324af3dea13dae47fd98986d8b7abfe21da99f6a79dd0c1b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:43:55.362Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "伸びる(物理)",
+      "tags": [
+        "社築",
+        "本間ひまわり",
+        "葛葉",
+        "ドーラ(にじさんじ)",
+        "ド葛本社",
+        "にじさんじ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150503687_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150503687",
+      "sourceCreatedAt": "2026-10-05T14:44:14.000Z"
+    },
+    {
       "id": "813c2276",
       "filename": "pixiv_150439344_p0.jpg",
       "path": "uploads/2026/10/e256ee87.jpg",
