@@ -3,6 +3,34 @@
   "shardId": "12",
   "images": [
     {
+      "id": "bf94fdd6",
+      "filename": "pixiv_150501198_p0.jpg",
+      "path": "uploads/2026/10/35aae32d.jpg",
+      "size": 1464011,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ba8029bd06693fd97997db4d10acc7893a90adeffff72ec3a9b998c4341a4470",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T15:30:11.860Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Hsin",
+      "tags": [
+        "Hsin",
+        "梁星",
+        "Illustration",
+        "liangxing",
+        "kikol",
+        "kikoldraws",
+        "WutheringWaves"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150501198_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150501198",
+      "sourceCreatedAt": "2026-10-05T13:52:02.000Z"
+    },
+    {
       "id": "ed4f9525",
       "filename": "pixiv_150491731_p0.jpg",
       "path": "uploads/2026/10/137d8b3b.jpg",
