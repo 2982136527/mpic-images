@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "98d10796",
+      "filename": "pixiv_150516287_p0.jpg",
+      "path": "uploads/2026/10/0842c80a.jpg",
+      "size": 1012092,
+      "width": 721,
+      "height": 1041,
+      "mimeType": "image/jpeg",
+      "hash": "1499171204cb3ced927a30a7208b3e6744e150506283539386057ce5ad155ee0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:49:46.167Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "茄子の妖精",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "妖精",
+        "なす"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150516287_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150516287",
+      "sourceCreatedAt": "2026-10-06T00:32:36.000Z"
+    },
+    {
       "id": "28067532",
       "filename": "pixiv_150520548_p0.jpg",
       "path": "uploads/2026/10/9cf42fe1.jpg",
