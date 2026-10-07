@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "1579b6e3",
+      "filename": "pixiv_150468997_p0.jpg",
+      "path": "uploads/2026/10/aa7467df.jpg",
+      "size": 1395860,
+      "width": 855,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9af68fa3b38c621ff872bee720962925ef8a3a51d600730541185e9bbd9bc59b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T21:15:14.823Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "1005",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "陸八魔アル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150468997_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150468997",
+      "sourceCreatedAt": "2026-10-04T16:18:12.000Z"
+    },
+    {
       "id": "da6a1d23",
       "filename": "pixiv_149466082_p0.jpg",
       "path": "uploads/2026/10/24248695.jpg",
