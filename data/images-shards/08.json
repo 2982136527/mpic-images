@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "b77369eb",
+      "filename": "pixiv_150495970_p0.jpg",
+      "path": "uploads/2026/10/a5fbc715.jpg",
+      "size": 1373844,
+      "width": 796,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "496daddb0f1f243fcb9159f56396cd4701b652297a226d8f206e15fd59239a0f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T21:12:51.992Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ワンダー",
+      "tags": [
+        "ワンダー(r-906)",
+        "初音ミク",
+        "VOCALOID100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150495970_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150495970",
+      "sourceCreatedAt": "2026-10-05T12:03:26.000Z"
+    },
+    {
       "id": "b644f359",
       "filename": "pixiv_150509138_p0.jpg",
       "path": "uploads/2026/10/1515589e.jpg",
