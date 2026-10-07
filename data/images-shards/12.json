@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "3a606693",
+      "filename": "pixiv_150474197_p0.jpg",
+      "path": "uploads/2026/10/0a8ca11a.jpg",
+      "size": 599997,
+      "width": 1200,
+      "height": 901,
+      "mimeType": "image/jpeg",
+      "hash": "cf4abcfe5e6c52cafeb8df6caeed7672a667858b718138ec8257d200bd17bd9c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T15:38:35.361Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "やっぱり榛名なんだよなぁ",
+      "tags": [
+        "艦隊これくしょん",
+        "艦これ",
+        "榛名",
+        "はいてない"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150474197_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150474197",
+      "sourceCreatedAt": "2026-10-04T21:02:29.000Z"
+    },
+    {
       "id": "bf94fdd6",
       "filename": "pixiv_150501198_p0.jpg",
       "path": "uploads/2026/10/35aae32d.jpg",
