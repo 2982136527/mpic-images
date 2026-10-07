@@ -3,6 +3,35 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "f33e760e",
+      "filename": "pixiv_150502479_p0.jpg",
+      "path": "uploads/2026/10/f46405f4.jpg",
+      "size": 797451,
+      "width": 744,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d3a58afc102adf4a5849985c49616173f03044b101c577e9dcf56c0dae2b2099",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T15:33:53.340Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "two-shot",
+      "tags": [
+        "イラスト",
+        "original",
+        "オリジナル",
+        "小女",
+        "OC",
+        "longhair",
+        "女の子",
+        "twintails"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150502479_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150502479",
+      "sourceCreatedAt": "2026-10-05T14:18:40.000Z"
+    },
+    {
       "id": "f98b3da2",
       "filename": "pixiv_150511369_p0.jpg",
       "path": "uploads/2026/10/01e7d052.jpg",
