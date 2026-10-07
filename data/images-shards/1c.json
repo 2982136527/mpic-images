@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "31bee9c1",
+      "filename": "pixiv_150500782_p0.jpg",
+      "path": "uploads/2026/10/310a531b.jpg",
+      "size": 832759,
+      "width": 989,
+      "height": 894,
+      "mimeType": "image/jpeg",
+      "hash": "9163d5c741ddb62d5920c99b5e5703328a2c194b33bd268d391f26a34210a267",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T21:15:43.778Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Wami",
+      "tags": [
+        "女の子",
+        "WaMi"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150500782_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150500782",
+      "sourceCreatedAt": "2026-10-05T14:06:38.000Z"
+    },
+    {
       "id": "2fc580a8",
       "filename": "pixiv_150487141_p0.jpg",
       "path": "uploads/2026/10/7ee9fe3e.jpg",
