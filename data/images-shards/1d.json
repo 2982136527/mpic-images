@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "aa8129c2",
+      "filename": "pixiv_150518666_p0.jpg",
+      "path": "uploads/2026/10/969b6a2c.jpg",
+      "size": 684758,
+      "width": 1200,
+      "height": 726,
+      "mimeType": "image/jpeg",
+      "hash": "05b77acfc93884d8d31bb3edec20b77ec9724d20a3e2adb973d84fa3453aff11",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T15:30:30.443Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "すやすや📖",
+      "tags": [
+        "行重行"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150518666_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150518666",
+      "sourceCreatedAt": "2026-10-06T02:57:42.000Z"
+    },
+    {
       "id": "be57e7c1",
       "filename": "pixiv_150496696_p0.jpg",
       "path": "uploads/2026/10/7ecaadcf.jpg",
