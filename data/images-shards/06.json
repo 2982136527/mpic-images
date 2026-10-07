@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "a2896569",
+      "filename": "pixiv_150496546_p0.jpg",
+      "path": "uploads/2026/10/c30f2b48.jpg",
+      "size": 1009491,
+      "width": 1063,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "959d00eb18a63980442ab975383e25e9d5b2c0550eaa93a7f59f997d1e055b8f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T15:34:00.438Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "人外",
+        "人外娘",
+        "異色肌",
+        "悪魔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150496546_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150496546",
+      "sourceCreatedAt": "2026-10-05T12:16:18.000Z"
+    },
+    {
       "id": "f9fed2cf",
       "filename": "pixiv_150496862_p0.jpg",
       "path": "uploads/2026/10/b92f8fb4.jpg",
