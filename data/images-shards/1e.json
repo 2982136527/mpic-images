@@ -3,6 +3,33 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "3c997a0b",
+      "filename": "pixiv_150513101_p0.jpg",
+      "path": "uploads/2026/10/899ddecd.jpg",
+      "size": 411558,
+      "width": 1200,
+      "height": 960,
+      "mimeType": "image/jpeg",
+      "hash": "fdb00533451e4351871ed9052d2f562728b325193482851b94def07875f1a222",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T15:31:34.888Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🐟🥊",
+      "tags": [
+        "百合",
+        "さよならララ",
+        "まりララ",
+        "ララ(さよならララ)",
+        "大津茉里",
+        "ララまり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150513101_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150513101",
+      "sourceCreatedAt": "2026-10-05T21:30:25.000Z"
+    },
+    {
       "id": "4dcd10f3",
       "filename": "pixiv_150508034_p0.jpg",
       "path": "uploads/2026/10/11e75750.jpg",
