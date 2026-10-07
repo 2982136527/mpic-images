@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "7a78df99",
+      "filename": "pixiv_150509137_p0.jpg",
+      "path": "uploads/2026/10/132070a1.jpg",
+      "size": 1101475,
+      "width": 890,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0d2be0006836d3678ea74028b90edf2d3d3ebfcd2aea1bcc94db35aed8726d0e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:47:42.610Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "첫 월급날",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "뫼르소",
+        "Maman",
+        "LimbusCompany"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150509137_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150509137",
+      "sourceCreatedAt": "2026-10-05T17:11:08.000Z"
+    },
+    {
       "id": "29af49da",
       "filename": "pixiv_150520102_p0.jpg",
       "path": "uploads/2026/10/bbaa610a.jpg",
