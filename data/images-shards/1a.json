@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "c2c0ba85",
+      "filename": "pixiv_150523094_p0.jpg",
+      "path": "uploads/2026/10/db338ae6.jpg",
+      "size": 741960,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c749bc0685f42cc746e3e0840cc4c247fcde3bbd644cf6c92454f83283d7d4ff",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:51:59.921Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "マリー🍂",
+      "tags": [
+        "伊落マリー",
+        "BlueArchive",
+        "女の子",
+        "秋",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150523094_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150523094",
+      "sourceCreatedAt": "2026-10-06T06:51:36.000Z"
+    },
+    {
       "id": "70c290e9",
       "filename": "pixiv_150516621_p0.jpg",
       "path": "uploads/2026/10/786db851.jpg",
