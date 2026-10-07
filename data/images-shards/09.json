@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "020360ff",
+      "filename": "pixiv_150533209_p0.jpg",
+      "path": "uploads/2026/10/2194a87f.jpg",
+      "size": 409656,
+      "width": 909,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6dcba715b9ce4feac6f22608a9ddf62c95b868bd70f18284b797ddc9369b2d9c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T21:16:29.132Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "覗き見",
+      "tags": [
+        "初音ミク",
+        "HatsuneMiku",
+        "ボーカロイド",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150533209_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150533209",
+      "sourceCreatedAt": "2026-10-06T12:00:09.000Z"
+    },
+    {
       "id": "b52e1206",
       "filename": "pixiv_150536623_p0.jpg",
       "path": "uploads/2026/10/356fc85e.jpg",
