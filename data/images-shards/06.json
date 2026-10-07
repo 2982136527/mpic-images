@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "7397522f",
+      "filename": "pixiv_150512341_p0.jpg",
+      "path": "uploads/2026/10/a4d68845.jpg",
+      "size": 872735,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fff92d229464b853861984138b472ad5cb6de88d0e6f628cd53a6ea949c7534c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:49:38.804Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "キラかわいい！",
+      "tags": [
+        "Limbus_Company",
+        "キラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150512341_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150512341",
+      "sourceCreatedAt": "2026-10-05T20:45:40.000Z"
+    },
+    {
       "id": "6f32cbe6",
       "filename": "pixiv_150503504_p0.jpg",
       "path": "uploads/2026/10/2858a67a.jpg",
