@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "0685aa7d",
+      "filename": "pixiv_150509046_p0.jpg",
+      "path": "uploads/2026/10/e3e785b0.jpg",
+      "size": 612685,
+      "width": 844,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9584c42bb60f2b39cbcd9124dce4d25ba0a715ad4db275ab149129509fa2524c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:46:16.219Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "A Better Life (PROMO)",
+      "tags": [
+        "diives",
+        "familytime",
+        "videogame"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150509046_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150509046",
+      "sourceCreatedAt": "2026-10-05T17:06:17.000Z"
+    },
+    {
       "id": "9699b9b4",
       "filename": "pixiv_150453613_p0.jpg",
       "path": "uploads/2026/10/90aeb9f4.jpg",
