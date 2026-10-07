@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "8d9b0b17",
+      "filename": "pixiv_150489725_p0.jpg",
+      "path": "uploads/2026/10/ae5115b5.jpg",
+      "size": 1212416,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "24dd3a9067640b083b3c9602583435f846f70c2fb57f8fa785394268ca500e2d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T21:13:17.343Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "つみみじかん応援イラスト🐰❄️",
+      "tags": [
+        "つみみじかん",
+        "つみみ",
+        "ましろ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150489725_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150489725",
+      "sourceCreatedAt": "2026-10-05T09:37:08.000Z"
+    },
+    {
       "id": "e7b70c75",
       "filename": "pixiv_150522378_p0.jpg",
       "path": "uploads/2026/10/07dcb0fb.jpg",
