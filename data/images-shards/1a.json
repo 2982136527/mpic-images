@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "70c290e9",
+      "filename": "pixiv_150516621_p0.jpg",
+      "path": "uploads/2026/10/786db851.jpg",
+      "size": 1203709,
+      "width": 761,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "82007bab358ffac06fbafb96b43e72854fb63220e439599e262d7a8ddd6c9dd3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:51:52.419Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Tyris Flare",
+      "tags": [
+        "ティリス・フレア",
+        "ゴールデンアックス",
+        "メガドライブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150516621_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150516621",
+      "sourceCreatedAt": "2026-10-06T00:55:19.000Z"
+    },
+    {
       "id": "f9bf624e",
       "filename": "pixiv_150535627_p0.jpg",
       "path": "uploads/2026/10/df7c722c.jpg",
