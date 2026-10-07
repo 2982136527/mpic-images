@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "e0469323",
+      "filename": "pixiv_150492412_p0.jpg",
+      "path": "uploads/2026/10/b1fc5abb.jpg",
+      "size": 1133768,
+      "width": 761,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c48f7bda1b6f03155e7a7cfa9f83e139c7b633b963bfe2e69492370c3e4ff15a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:52:14.841Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "秋デート",
+      "tags": [
+        "美少女",
+        "学マス",
+        "賀陽燐羽"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150492412_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150492412",
+      "sourceCreatedAt": "2026-10-05T10:47:30.000Z"
+    },
+    {
       "id": "bb5be247",
       "filename": "pixiv_150487308_p0.jpg",
       "path": "uploads/2026/10/391c2cc4.jpg",
