@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "7bb5e888",
+      "filename": "pixiv_150498041_p0.jpg",
+      "path": "uploads/2026/10/253ba076.jpg",
+      "size": 1002361,
+      "width": 1200,
+      "height": 945,
+      "mimeType": "image/jpeg",
+      "hash": "7df10f16bc1640f671c25bc57aace5abec4d15647fae1278c06a736966568a90",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T15:34:36.784Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "「今度はあっち」",
+      "tags": [
+        "東方",
+        "魂魄妖夢",
+        "東方Project",
+        "半人半霊の庭師"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150498041_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150498041",
+      "sourceCreatedAt": "2026-10-05T12:47:53.000Z"
+    },
+    {
       "id": "65378d8f",
       "filename": "pixiv_150512286_p0.jpg",
       "path": "uploads/2026/10/5adf9c5a.jpg",
