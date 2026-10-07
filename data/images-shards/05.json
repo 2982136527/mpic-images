@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "de6e8212",
+      "filename": "pixiv_150264940_p0.jpg",
+      "path": "uploads/2026/10/bed8400b.jpg",
+      "size": 1506645,
+      "width": 780,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2545c5e01720802a0e2393297981d96daafc1035dcbdade9bc2fa0ae9aabdc2f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:52:28.126Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "💙🤍",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "オリジナル3000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150264940_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150264940",
+      "sourceCreatedAt": "2026-09-29T15:00:27.000Z"
+    },
+    {
       "id": "b3bd525e",
       "filename": "pixiv_150479347_p0.jpg",
       "path": "uploads/2026/10/4613e09e.jpg",
