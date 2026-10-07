@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "d00cec5f",
+      "filename": "pixiv_150514559_p0.jpg",
+      "path": "uploads/2026/10/f474cec5.jpg",
+      "size": 310098,
+      "width": 700,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "ef348991888aae0cc18d66b6e82dfae06f934d55b15d60f1ace6f8ac7c0f8f1e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T15:32:31.232Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "20年ぐらい前の絵のリメイク",
+      "tags": [
+        "東方",
+        "チルノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150514559_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150514559",
+      "sourceCreatedAt": "2026-10-05T22:49:12.000Z"
+    },
+    {
       "id": "299eb878",
       "filename": "pixiv_150434825_p0.jpg",
       "path": "uploads/2026/10/53e67ef0.jpg",
