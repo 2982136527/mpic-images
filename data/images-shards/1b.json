@@ -3,6 +3,36 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "748b57d6",
+      "filename": "pixiv_150505532_p0.jpg",
+      "path": "uploads/2026/10/01b89333.jpg",
+      "size": 96621,
+      "width": 540,
+      "height": 300,
+      "mimeType": "image/jpeg",
+      "hash": "50a373128e42a5f7c8d99e927b28db218065a53de7e47a6cefcb7566c4218dfc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T15:33:10.783Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "まどマギちいかわパロまとめ",
+      "tags": [
+        "魔法少女まどか☆マギカ",
+        "ちいかわ",
+        "鹿目まどか",
+        "暁美ほむら",
+        "美樹さやか",
+        "佐倉杏子",
+        "ワス",
+        "ワルプルギスの廻天",
+        "悪魔ほむら"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150505532_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150505532",
+      "sourceCreatedAt": "2026-10-05T15:26:01.000Z"
+    },
+    {
       "id": "9eef1cf0",
       "filename": "pixiv_150520758_p0.jpg",
       "path": "uploads/2026/10/5cd6b690.jpg",
