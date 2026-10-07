@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "65a6a9ee",
+      "filename": "pixiv_149440919_p0.jpg",
+      "path": "uploads/2026/10/74969bab.jpg",
+      "size": 1137514,
+      "width": 1095,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "20d2480c6db16a7bfa47feb354f46d11b19dc18241ba522f737686cac51ebd1d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T21:21:25.886Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "로쟈 생축",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "로쟈"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149440919_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149440919",
+      "sourceCreatedAt": "2026-09-08T15:34:12.000Z"
+    },
+    {
       "id": "d75a49f4",
       "filename": "pixiv_150497785_p0.jpg",
       "path": "uploads/2026/10/4650f9ae.jpg",
