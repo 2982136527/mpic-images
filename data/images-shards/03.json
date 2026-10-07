@@ -3,6 +3,34 @@
   "shardId": "03",
   "images": [
     {
+      "id": "ab5609af",
+      "filename": "pixiv_150504745_p0.jpg",
+      "path": "uploads/2026/10/1068f1f9.jpg",
+      "size": 1161517,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7f6014ad73f9bf9ea2388b76ae236b036e5565a6fdee63006ae4eac509281c92",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T21:15:57.712Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ザンニーの角",
+      "tags": [
+        "WutheringWaves",
+        "鳴潮",
+        "漂泊者",
+        "rover",
+        "鸣潮",
+        "ザンニー",
+        "Zani"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150504745_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150504745",
+      "sourceCreatedAt": "2026-10-05T15:01:44.000Z"
+    },
+    {
       "id": "16b988e9",
       "filename": "pixiv_150498225_p0.jpg",
       "path": "uploads/2026/10/e0e7d841.jpg",
