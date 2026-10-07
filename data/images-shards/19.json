@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "50c551a3",
+      "filename": "pixiv_150516399_p0.jpg",
+      "path": "uploads/2026/10/ad180fd4.jpg",
+      "size": 524373,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "d815af9a19b4cd359ad879bf20c4cc437556c38a3bc9ca58e523cf7db637a6f5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:48:43.497Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "タイラズマ",
+      "tags": [
+        "正反対な君と僕",
+        "タイラズマ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150516399_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150516399",
+      "sourceCreatedAt": "2026-10-06T00:39:21.000Z"
+    },
+    {
       "id": "0afc75de",
       "filename": "pixiv_150504495_p0.jpg",
       "path": "uploads/2026/10/d29e0527.jpg",
