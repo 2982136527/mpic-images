@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "7ce25f76",
+      "filename": "pixiv_150525742_p0.jpg",
+      "path": "uploads/2026/10/9f0327df.jpg",
+      "size": 1644363,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "18690017d87b31a9cfb123badf608c9b909ada07eb1e85e11d1e5a93130ac246",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:50:59.345Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Sweet harvest!",
+      "tags": [
+        "女の子",
+        "鳴潮",
+        "エイメス",
+        "千咲(鳴潮)",
+        "ダーニャ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150525742_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150525742",
+      "sourceCreatedAt": "2026-10-06T08:45:21.000Z"
+    },
+    {
       "id": "10f61b44",
       "filename": "pixiv_150440895_p0.jpg",
       "path": "uploads/2026/10/6cedcd4f.jpg",
