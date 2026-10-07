@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "862dd508",
+      "filename": "pixiv_150477784_p0.jpg",
+      "path": "uploads/2026/10/778fe921.jpg",
+      "size": 284355,
+      "width": 1014,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "03d996ab171689196621599a8a86764981dd9845ed624fbf60652cf43a410e3b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-07T05:48:03.913Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "勝負あり",
+      "tags": [
+        "漫画",
+        "マンターゲット",
+        "射撃",
+        "ん?今何でもするって言ったよね?"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150477784_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150477784",
+      "sourceCreatedAt": "2026-10-05T00:32:11.000Z"
+    },
+    {
       "id": "980bee06",
       "filename": "pixiv_150436454_p0.jpg",
       "path": "uploads/2026/10/7915d771.jpg",
