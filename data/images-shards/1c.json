@@ -3,6 +3,34 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "d0ec8fc1",
+      "filename": "pixiv_150504467_p0.jpg",
+      "path": "uploads/2026/10/8b66f33f.jpg",
+      "size": 458365,
+      "width": 780,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c5a25853fabd859b0d78977feddfc6455b0ba9189ac79b99d78ef9fcb8c2b2a4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:31:31.172Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "メイドマリーちゃん",
+      "tags": [
+        "女の子",
+        "少女",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "メイド",
+        "伊落マリー",
+        "猫耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150504467_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150504467",
+      "sourceCreatedAt": "2026-10-05T15:00:18.000Z"
+    },
+    {
       "id": "705e6a87",
       "filename": "pixiv_150522859_p0.jpg",
       "path": "uploads/2026/10/05501245.jpg",
