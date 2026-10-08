@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "ecbcaf23",
+      "filename": "pixiv_150546102_p0.jpg",
+      "path": "uploads/2026/10/1cf5ae23.jpg",
+      "size": 844173,
+      "width": 1131,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "efd9295a6e31b7dc999984143fbddbb2a1b0976188c6d5cac860eae4bfef51eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:33:35.509Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🎮×🐈",
+      "tags": [
+        "女の子",
+        "獣耳",
+        "けもみみ",
+        "Skeb"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150546102_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150546102",
+      "sourceCreatedAt": "2026-10-06T17:03:43.000Z"
+    },
+    {
       "id": "43529df4",
       "filename": "pixiv_150507314_p0.jpg",
       "path": "uploads/2026/10/198e08f3.jpg",
