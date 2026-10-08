@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "8c49e579",
+      "filename": "pixiv_150568874_p0.jpg",
+      "path": "uploads/2026/10/b70e46d2.jpg",
+      "size": 748270,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "5d13613a8f29a0cbab6823bf0bdcaa047408dbf0eb4234fe12e5d9a9e8cd0df6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:35:28.778Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "マイバッド",
+      "tags": [
+        "オリジナル",
+        "はるまきごはん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150568874_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150568874",
+      "sourceCreatedAt": "2026-10-07T11:18:50.000Z"
+    },
+    {
       "id": "a1b8dc40",
       "filename": "pixiv_150527147_p0.jpg",
       "path": "uploads/2026/10/dc6e4ed7.jpg",
