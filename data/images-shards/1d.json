@@ -3,6 +3,33 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "4f02515d",
+      "filename": "pixiv_150573412_p0.jpg",
+      "path": "uploads/2026/10/c0ca9a0a.jpg",
+      "size": 1498089,
+      "width": 1200,
+      "height": 1044,
+      "mimeType": "image/jpeg",
+      "hash": "47b63d5757b524dbdbe4a687ff8cba15921e75aed79f36562be8c16525d95ba3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:59:00.437Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "FGO",
+        "绘画",
+        "Fate/GrandOrder",
+        "アルトリア・ペンドラゴン",
+        "梅林",
+        "梅剑"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150573412_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150573412",
+      "sourceCreatedAt": "2026-10-07T12:59:38.000Z"
+    },
+    {
       "id": "bf055aa3",
       "filename": "pixiv_150527156_p0.jpg",
       "path": "uploads/2026/10/cdf7cb1c.jpg",
