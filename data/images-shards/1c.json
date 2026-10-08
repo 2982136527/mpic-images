@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "d20cdb7c",
+      "filename": "pixiv_150546233_p0.jpg",
+      "path": "uploads/2026/10/cdc115ba.jpg",
+      "size": 426061,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0482d788a15dc27cd6059b505b6985ea11f574578dfefb7567c744059a1da120",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T21:24:50.847Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "oc",
+      "tags": [
+        "うちの子",
+        "ボーイッシュ",
+        "ショートパンツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150546233_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150546233",
+      "sourceCreatedAt": "2026-10-06T17:10:16.000Z"
+    },
+    {
       "id": "a5af19a4",
       "filename": "pixiv_150537139_p0.jpg",
       "path": "uploads/2026/10/8b4fbadc.jpg",
