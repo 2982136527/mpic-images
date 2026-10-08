@@ -3,6 +3,37 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "fc365f9f",
+      "filename": "pixiv_150556549_p0.jpg",
+      "path": "uploads/2026/10/30a17191.jpg",
+      "size": 1848735,
+      "width": 1200,
+      "height": 908,
+      "mimeType": "image/jpeg",
+      "hash": "de3d514fbb501d3672ca7bf9694aeddbe8ed63aa0df185dc97b0b94c4c663987",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T21:17:02.312Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ファイアーエムブレム万紫千紅",
+      "tags": [
+        "ファイアーエムブレム万紫千紅",
+        "オルヘル",
+        "orchel",
+        "ファイアーエムブレム",
+        "アナトリア(ファイアーエムブレム)",
+        "カイ・カストール",
+        "レダ(ファイアーエムブレム)",
+        "タリムーン・ヴァンダル",
+        "ディートリヒ=グレゴール=ラミーヌ",
+        "セオドラ・セルヒオ・サバングレーン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150556549_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150556549",
+      "sourceCreatedAt": "2026-10-07T03:25:34.000Z"
+    },
+    {
       "id": "58dd2412",
       "filename": "pixiv_150539922_p0.jpg",
       "path": "uploads/2026/10/4cd58414.jpg",
