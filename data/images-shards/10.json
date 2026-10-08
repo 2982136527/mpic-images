@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "539719c8",
+      "filename": "pixiv_150507910_p0.jpg",
+      "path": "uploads/2026/10/dcae04bd.jpg",
+      "size": 1291026,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f838df8ec5eb0f3c5d99353f46bc1071bf980b1b0bec0fc008979edded1f6272",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:52:23.620Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "早安，午安，晚安，我最好的小猫头鹰",
+      "tags": [
+        "明日方舟",
+        "白面鸮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150507910_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150507910",
+      "sourceCreatedAt": "2026-10-05T16:21:09.000Z"
+    },
+    {
       "id": "a3e22918",
       "filename": "pixiv_150485394_p0.jpg",
       "path": "uploads/2026/10/9ddf47ae.jpg",
