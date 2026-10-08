@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "affa4d03",
+      "filename": "pixiv_150541503_p0.jpg",
+      "path": "uploads/2026/10/3b0af829.jpg",
+      "size": 890443,
+      "width": 700,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "be479a7f6621a202cdab0953df81ee81971afde69c44e383556d3625e9a10cc9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:57:07.224Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Night moonglow",
+      "tags": [
+        "AzurLane",
+        "アズールレーン",
+        "武蔵(アズールレーン)",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150541503_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150541503",
+      "sourceCreatedAt": "2026-10-06T14:57:24.000Z"
+    },
+    {
       "id": "a0111636",
       "filename": "pixiv_150552919_p0.jpg",
       "path": "uploads/2026/10/7e14904f.jpg",
