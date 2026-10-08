@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "f4fc3f09",
+      "filename": "pixiv_150564337_p0.jpg",
+      "path": "uploads/2026/10/06719e93.jpg",
+      "size": 520371,
+      "width": 765,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e2200ab15c7bd05bede46e75037fdb0301ff8126f844bddbe7b9cad9bbe1c0f0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:58:38.666Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "포터",
+      "tags": [
+        "ハリポタ",
+        "ドラコ・マルフォイ",
+        "♀ドラコ",
+        "말포이",
+        "Malfoid"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150564337_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150564337",
+      "sourceCreatedAt": "2026-10-07T09:16:16.000Z"
+    },
+    {
       "id": "8c2eb1e9",
       "filename": "pixiv_150544092_p0.jpg",
       "path": "uploads/2026/10/687830da.jpg",
