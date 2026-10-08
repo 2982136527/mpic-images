@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "a1b8dc40",
+      "filename": "pixiv_150527147_p0.jpg",
+      "path": "uploads/2026/10/dc6e4ed7.jpg",
+      "size": 566519,
+      "width": 775,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4e8b91ead7e1bcb2f49edd07031cac6413bfe3f3446eb6b0dfbc88a51c418050",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:35:08.822Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ブルアカ",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "淵上コトネ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150527147_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150527147",
+      "sourceCreatedAt": "2026-10-06T09:26:26.000Z"
+    },
+    {
       "id": "c2316640",
       "filename": "pixiv_150368414_p0.jpg",
       "path": "uploads/2026/10/b135ba75.jpg",
