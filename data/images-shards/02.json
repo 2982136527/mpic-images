@@ -3,6 +3,34 @@
   "shardId": "02",
   "images": [
     {
+      "id": "ff928c03",
+      "filename": "pixiv_150517556_p0.jpg",
+      "path": "uploads/2026/10/093daf41.jpg",
+      "size": 652542,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dc8b272b712cd72c8c476e3a489d636324e656591f9fe8a59c57b04cdb03c183",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:37:31.825Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "部屋着おかゆ",
+      "tags": [
+        "バーチャルYouTuber",
+        "VTuber",
+        "猫又おかゆ",
+        "猫耳",
+        "ホロライブ",
+        "絵かゆ",
+        "hololive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150517556_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150517556",
+      "sourceCreatedAt": "2026-10-06T01:56:14.000Z"
+    },
+    {
       "id": "4975f670",
       "filename": "pixiv_150528883_p0.jpg",
       "path": "uploads/2026/10/3614280b.jpg",
