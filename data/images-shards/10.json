@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "561c49fa",
+      "filename": "pixiv_150536033_p0.jpg",
+      "path": "uploads/2026/10/ac1909fa.jpg",
+      "size": 1028919,
+      "width": 1190,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ed5372f4d5de497d490d6c1860e0f658b6ffaff5dd94f4b92c6fdf9d32804246",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:52:41.880Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ここは現実じゃないでしょ",
+      "tags": [
+        "女の子",
+        "創作",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150536033_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150536033",
+      "sourceCreatedAt": "2026-10-06T12:58:37.000Z"
+    },
+    {
       "id": "539719c8",
       "filename": "pixiv_150507910_p0.jpg",
       "path": "uploads/2026/10/dcae04bd.jpg",
