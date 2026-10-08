@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "f5b8f1a5",
+      "filename": "pixiv_150545425_p0.jpg",
+      "path": "uploads/2026/10/e7d25058.jpg",
+      "size": 1104736,
+      "width": 1200,
+      "height": 631,
+      "mimeType": "image/jpeg",
+      "hash": "0c7183d68e4297590c95541a63385a586c934d8a29f3f71d2bc5f084a28984e7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:56:20.357Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "October",
+      "tags": [
+        "일러스트",
+        "illustration"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150545425_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150545425",
+      "sourceCreatedAt": "2026-10-06T16:37:49.000Z"
+    },
+    {
       "id": "a520bfd7",
       "filename": "pixiv_150543432_p0.jpg",
       "path": "uploads/2026/10/f06f6469.jpg",
