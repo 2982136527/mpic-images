@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "e21d6d42",
+      "filename": "pixiv_150566592_p0.jpg",
+      "path": "uploads/2026/10/613bbcdc.jpg",
+      "size": 419872,
+      "width": 761,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "222a504a32225267c0ebf40f69d98d766b176448e38d7779a1749c295c78fa46",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T21:24:01.268Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "バニー姫様",
+      "tags": [
+        "東方",
+        "蓬莱山輝夜",
+        "バニーガール",
+        "かぐぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150566592_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150566592",
+      "sourceCreatedAt": "2026-10-07T10:20:47.000Z"
+    },
+    {
       "id": "43a6c4c0",
       "filename": "pixiv_150339860_p0.jpg",
       "path": "uploads/2026/10/694ef748.jpg",
