@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "b4ff9065",
+      "filename": "pixiv_150505840_p0.jpg",
+      "path": "uploads/2026/10/d8c0ac1b.jpg",
+      "size": 853236,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "061e6ddc494f276c053270da7597ef1746fa0fa3e210002f8dc70b1174f92cec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T21:16:50.577Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ゼンゼロ",
+      "tags": [
+        "南宮羽",
+        "NangongYu",
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "ゼンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150505840_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150505840",
+      "sourceCreatedAt": "2026-10-05T15:24:00.000Z"
+    },
+    {
       "id": "ff928c03",
       "filename": "pixiv_150517556_p0.jpg",
       "path": "uploads/2026/10/093daf41.jpg",
