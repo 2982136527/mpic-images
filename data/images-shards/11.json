@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "a68b855f",
+      "filename": "pixiv_150525646_p0.jpg",
+      "path": "uploads/2026/10/bcd7ad44.jpg",
+      "size": 655915,
+      "width": 1200,
+      "height": 503,
+      "mimeType": "image/jpeg",
+      "hash": "596586efbe6555f99e207f34757c1eb72529d05edd1c85a7d6ba1c389251dcab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:51:44.056Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "カーテンの隙間に滲む夕日",
+      "tags": [
+        "オリジナル",
+        "夕焼け",
+        "女の子",
+        "創作",
+        "イラスト",
+        "背景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150525646_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150525646",
+      "sourceCreatedAt": "2026-10-06T08:41:42.000Z"
+    },
+    {
       "id": "d5595940",
       "filename": "pixiv_150510276_p0.jpg",
       "path": "uploads/2026/10/2b0b8a04.jpg",
