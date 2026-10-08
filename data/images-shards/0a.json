@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "806cb843",
+      "filename": "pixiv_150538240_p0.jpg",
+      "path": "uploads/2026/10/82899d31.jpg",
+      "size": 1147402,
+      "width": 1200,
+      "height": 1101,
+      "mimeType": "image/jpeg",
+      "hash": "a47203831f5dba2162e77bd357810aecca22e170ab857ad5e1d45505a935204b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:53:00.786Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "뿌싱",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "Pwie"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150538240_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150538240",
+      "sourceCreatedAt": "2026-10-06T13:42:37.000Z"
+    },
+    {
       "id": "0d94239c",
       "filename": "pixiv_150467543_p0.jpg",
       "path": "uploads/2026/10/88b4af3d.jpg",
