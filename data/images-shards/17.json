@@ -3,6 +3,32 @@
   "shardId": "17",
   "images": [
     {
+      "id": "25468e50",
+      "filename": "pixiv_150516320_p0.jpg",
+      "path": "uploads/2026/10/bb55a843.jpg",
+      "size": 936935,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9bdf1b3da8d89fd4ac8e9c1b8979f772a4a199f6db6d337b91a27ab29b83336a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T21:21:50.356Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "博麗霊夢",
+        "東方",
+        "東方Project",
+        "宮出口瑞霊",
+        "レイミズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150516320_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150516320",
+      "sourceCreatedAt": "2026-10-06T00:34:49.000Z"
+    },
+    {
       "id": "eaeba8b5",
       "filename": "pixiv_150543241_p0.jpg",
       "path": "uploads/2026/10/04b411ff.jpg",
