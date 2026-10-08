@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "a4a2e524",
+      "filename": "pixiv_150574788_p0.jpg",
+      "path": "uploads/2026/10/442a5280.jpg",
+      "size": 827504,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9957e439c686fb7dae1414747c782abddf0dd2b9cc7ac57ca1d601a274bcdb10",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:36:55.043Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "The Amazing Silver Palace Circus",
+      "tags": [
+        "SilverPalace"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150574788_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150574788",
+      "sourceCreatedAt": "2026-10-07T13:27:44.000Z"
+    },
+    {
       "id": "c4af2da3",
       "filename": "pixiv_150541097_p0.jpg",
       "path": "uploads/2026/10/0e3d856b.jpg",
