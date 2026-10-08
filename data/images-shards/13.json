@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "437ef169",
+      "filename": "pixiv_150541660_p0.jpg",
+      "path": "uploads/2026/10/ffb5fa41.jpg",
+      "size": 703881,
+      "width": 767,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8ec933709752f7429a0faab8f2ecd836a1b057d3fc3ec66b25aeab4f678ba7b1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:54:43.924Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "彼岸",
+      "tags": [
+        "オリジナル",
+        "幻想",
+        "女の子",
+        "彼岸花"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150541660_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150541660",
+      "sourceCreatedAt": "2026-10-06T15:00:14.000Z"
+    },
+    {
       "id": "58542acf",
       "filename": "pixiv_150562371_p0.jpg",
       "path": "uploads/2026/10/10a34446.jpg",
