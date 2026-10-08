@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "37bcb3c7",
+      "filename": "pixiv_150571276_p0.jpg",
+      "path": "uploads/2026/10/8b4249f2.jpg",
+      "size": 1262119,
+      "width": 1200,
+      "height": 737,
+      "mimeType": "image/jpeg",
+      "hash": "aea94c873e8b6f86f2d6f525dce28e222c51a68f13ca09d6bf96886bc91f86d5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:32:02.196Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ILLGATOR",
+      "tags": [
+        "ParadoxLive",
+        "パラライ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150571276_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150571276",
+      "sourceCreatedAt": "2026-10-07T12:16:18.000Z"
+    },
+    {
       "id": "c0cbda7a",
       "filename": "pixiv_150546857_p0.jpg",
       "path": "uploads/2026/10/e42d4de4.jpg",
