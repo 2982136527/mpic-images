@@ -3,6 +3,28 @@
   "shardId": "07",
   "images": [
     {
+      "id": "a7beb896",
+      "filename": "pixiv_150544662_p0.jpg",
+      "path": "uploads/2026/10/c415c607.jpg",
+      "size": 868437,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "54a66bfc8d1f6c5727c3c2968a45468eadabd81e5b13c1d532353e3937b450fa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:38:22.986Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "デカくて強い",
+      "tags": [
+        "ちいかわ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150544662_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150544662",
+      "sourceCreatedAt": "2026-10-06T16:10:14.000Z"
+    },
+    {
       "id": "058036f9",
       "filename": "pixiv_150530113_p0.jpg",
       "path": "uploads/2026/10/8d4a66f2.jpg",
