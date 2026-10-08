@@ -3,6 +3,28 @@
   "shardId": "17",
   "images": [
     {
+      "id": "2222fa1e",
+      "filename": "pixiv_150546496_p0.jpg",
+      "path": "uploads/2026/10/b5a5f105.jpg",
+      "size": 493836,
+      "width": 853,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "decf9a29253d3f23f63527f1664042500261c1c57e069da2cb5ef5b4d72ec737",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:59:15.383Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Crossbow",
+      "tags": [
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150546496_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150546496",
+      "sourceCreatedAt": "2026-10-06T17:22:32.000Z"
+    },
+    {
       "id": "fd373a7d",
       "filename": "pixiv_150526084_p0.jpg",
       "path": "uploads/2026/10/b3f6640e.jpg",
