@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "a2045e3b",
+      "filename": "pixiv_150572572_p0.jpg",
+      "path": "uploads/2026/10/5ee4c5c5.jpg",
+      "size": 811479,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "14cf3f3984d9a3b2dad1e03cee05fdf74571a3914071e21b84f13b59d545d602",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:58:07.789Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "イヴリンを描いてみた",
+      "tags": [
+        "ゼンゼロ",
+        "イヴリン・シェヴァリエ",
+        "ZenlessZoneZero",
+        "绝区零"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150572572_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150572572",
+      "sourceCreatedAt": "2026-10-07T12:39:05.000Z"
+    },
+    {
       "id": "4d1e893a",
       "filename": "pixiv_150565298_p0.jpg",
       "path": "uploads/2026/10/92d40263.jpg",
