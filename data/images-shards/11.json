@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "a86c218a",
+      "filename": "pixiv_150538253_p0.jpg",
+      "path": "uploads/2026/10/6f934f3d.jpg",
+      "size": 763669,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4b7a79bb62d45e40232e6c547a885923bcaef17e066b773df2781a025f311a68",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:55:48.010Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "正反対な君と僕 #6",
+      "tags": [
+        "正反対な君と僕",
+        "タイラズマ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150538253_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150538253",
+      "sourceCreatedAt": "2026-10-06T13:42:50.000Z"
+    },
+    {
       "id": "a68b855f",
       "filename": "pixiv_150525646_p0.jpg",
       "path": "uploads/2026/10/bcd7ad44.jpg",
