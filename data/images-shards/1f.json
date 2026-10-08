@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "76107b7c",
+      "filename": "pixiv_150568440_p0.jpg",
+      "path": "uploads/2026/10/1ff8f08b.jpg",
+      "size": 574644,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3283dc9be2b476dd1119b8e6731065dbac75be924c98602af99c3d9ebe618b81",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T21:20:53.320Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "マユノウタ",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150568440_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150568440",
+      "sourceCreatedAt": "2026-10-07T11:06:36.000Z"
+    },
+    {
       "id": "87409b79",
       "filename": "pixiv_150544439_p0.jpg",
       "path": "uploads/2026/10/44a705f3.jpg",
