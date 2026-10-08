@@ -3,6 +3,28 @@
   "shardId": "04",
   "images": [
     {
+      "id": "065f5bff",
+      "filename": "pixiv_150527298_p0.jpg",
+      "path": "uploads/2026/10/4275bff0.jpg",
+      "size": 616203,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fcc873d621e9ac7a67f9b45ae2831540cc6decff732dd8cadcbd60586b2073b7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T21:17:28.468Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "不是所有汽水都叫萌死他",
+      "tags": [
+        "女孩子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150527298_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150527298",
+      "sourceCreatedAt": "2026-10-06T09:30:25.000Z"
+    },
+    {
       "id": "0a56b29a",
       "filename": "pixiv_150548589_p0.jpg",
       "path": "uploads/2026/10/dbd510d0.jpg",
