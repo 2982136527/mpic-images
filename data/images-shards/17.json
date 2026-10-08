@@ -3,6 +3,30 @@
   "shardId": "17",
   "images": [
     {
+      "id": "073c7fd0",
+      "filename": "pixiv_150357682_p0.jpg",
+      "path": "uploads/2026/10/8f41ad2b.jpg",
+      "size": 574291,
+      "width": 949,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4d7d6c8f8212e4e27bb832f4c3a13587479a9f4ee432be781260431636565b2f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:59:56.643Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "OPUS",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150357682_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150357682",
+      "sourceCreatedAt": "2026-10-02T05:55:01.000Z"
+    },
+    {
       "id": "2222fa1e",
       "filename": "pixiv_150546496_p0.jpg",
       "path": "uploads/2026/10/b5a5f105.jpg",
