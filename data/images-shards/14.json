@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "5e803197",
+      "filename": "pixiv_150564919_p0.jpg",
+      "path": "uploads/2026/10/56aa7377.jpg",
+      "size": 860522,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "77e0c2fc4e79c73977983e53d7d85aa5faad92ef52a6c4e8d344d666d1cb3eaa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T21:16:42.609Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "魔王",
+      "tags": [
+        "OC",
+        "黑丝",
+        "苏筱白",
+        "魔王"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150564919_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150564919",
+      "sourceCreatedAt": "2026-10-07T09:33:38.000Z"
+    },
+    {
       "id": "af282c89",
       "filename": "pixiv_150504948_p0.jpg",
       "path": "uploads/2026/10/20b29619.jpg",
