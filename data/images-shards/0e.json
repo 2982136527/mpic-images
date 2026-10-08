@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "b16fccb9",
+      "filename": "pixiv_150564625_p0.jpg",
+      "path": "uploads/2026/10/0aaeb6d7.jpg",
+      "size": 1033079,
+      "width": 738,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "abb7a19c11abd1ccf5f2cff0a7bde73d28314627ebb5a5407d6bdeceea10cab4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:55:25.897Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "2026/10/7",
+      "tags": [
+        "zzzero",
+        "ヴェリナ・エガード"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150564625_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150564625",
+      "sourceCreatedAt": "2026-10-07T09:26:41.000Z"
+    },
+    {
       "id": "fe459379",
       "filename": "pixiv_150491752_p0.jpg",
       "path": "uploads/2026/10/0dccd35b.jpg",
