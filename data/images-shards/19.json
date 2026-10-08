@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "ee699900",
+      "filename": "pixiv_150530254_p0.jpg",
+      "path": "uploads/2026/10/5a3d6c12.jpg",
+      "size": 478751,
+      "width": 1200,
+      "height": 462,
+      "mimeType": "image/jpeg",
+      "hash": "ccc1a7a33802b966fee362fe91084bacf94055508208f0e29ad400e400ab7f48",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:39:37.173Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "👮‍♀️🩸",
+      "tags": [
+        "女の子",
+        "バーチャルYouTuber",
+        "StelLive",
+        "아카네리제"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150530254_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150530254",
+      "sourceCreatedAt": "2026-10-06T10:51:50.000Z"
+    },
+    {
       "id": "a370463c",
       "filename": "pixiv_150505986_p0.jpg",
       "path": "uploads/2026/10/626ce826.jpg",
