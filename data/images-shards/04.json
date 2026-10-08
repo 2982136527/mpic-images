@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "43529df4",
+      "filename": "pixiv_150507314_p0.jpg",
+      "path": "uploads/2026/10/198e08f3.jpg",
+      "size": 1264032,
+      "width": 636,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6260c34382f6e028c5c4af719cc19ae5066ef82362722b26833e1bd43bff6970",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:31:43.929Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Vesna🎨",
+      "tags": [
+        "原神",
+        "ヴェスナ",
+        "魅惑のふともも"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150507314_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150507314",
+      "sourceCreatedAt": "2026-10-05T16:01:36.000Z"
+    },
+    {
       "id": "c84b459f",
       "filename": "pixiv_150361330_p0.jpg",
       "path": "uploads/2026/10/c13e4dc9.jpg",
