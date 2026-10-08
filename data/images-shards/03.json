@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "a0111636",
+      "filename": "pixiv_150552919_p0.jpg",
+      "path": "uploads/2026/10/7e14904f.jpg",
+      "size": 634624,
+      "width": 864,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "99819c39f00e6f4ebfd3a0c39a03909d52dba10934d90ee7e4f23b48f7f7c0ac",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:56:37.765Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "크로우 리퀘스트 작업",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "nikke",
+        "니케",
+        "일러스트",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150552919_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150552919",
+      "sourceCreatedAt": "2026-10-07T00:17:48.000Z"
+    },
+    {
       "id": "86e78ab6",
       "filename": "pixiv_150540309_p0.jpg",
       "path": "uploads/2026/10/a6a1581a.jpg",
