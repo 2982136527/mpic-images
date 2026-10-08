@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "97b9dba1",
+      "filename": "pixiv_150513039_p0.jpg",
+      "path": "uploads/2026/10/4060e6a7.jpg",
+      "size": 818792,
+      "width": 751,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b52b7d98b06b8f3c9f7254fa073626bbe13a966fcb14b6a9c4a1184bf898994a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:33:02.698Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Shylily nun",
+      "tags": [
+        "shylily",
+        "vtuber",
+        "nun"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150513039_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150513039",
+      "sourceCreatedAt": "2026-10-05T21:28:19.000Z"
+    },
+    {
       "id": "a86c218a",
       "filename": "pixiv_150538253_p0.jpg",
       "path": "uploads/2026/10/6f934f3d.jpg",
