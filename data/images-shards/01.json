@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "73e51d07",
+      "filename": "pixiv_150555504_p0.jpg",
+      "path": "uploads/2026/10/a12c8356.jpg",
+      "size": 837803,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c5ef1a4219d07533c5956b663b393f2e43a7348d600a62066d339beaf2bd0710",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:36:46.981Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ドラコちゃん",
+      "tags": [
+        "女の子",
+        "♀ドラコ",
+        "ハリポタ",
+        "Malfoid"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150555504_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150555504",
+      "sourceCreatedAt": "2026-10-07T02:42:20.000Z"
+    },
+    {
       "id": "7a504fa4",
       "filename": "pixiv_150557063_p0.jpg",
       "path": "uploads/2026/10/96f039cc.jpg",
