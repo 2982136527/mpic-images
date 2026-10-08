@@ -3,6 +3,32 @@
   "shardId": "16",
   "images": [
     {
+      "id": "ca9bc345",
+      "filename": "pixiv_150527065_p0.jpg",
+      "path": "uploads/2026/10/84d47cd9.jpg",
+      "size": 525712,
+      "width": 889,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2bedc2c3bf1992b14f2cab575b9bbdc56933bcc51d50edca82f7549815367514",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:58:15.971Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "モノクロ rkgk",
+      "tags": [
+        "EUDETENIS",
+        "CLIPSTUDIOPAINT",
+        "オリジナル",
+        "イラスト",
+        "モノクロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150527065_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150527065",
+      "sourceCreatedAt": "2026-10-06T09:23:31.000Z"
+    },
+    {
       "id": "233201ef",
       "filename": "pixiv_150504403_p0.jpg",
       "path": "uploads/2026/10/6c65156d.jpg",
