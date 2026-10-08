@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "4edbbaeb",
+      "filename": "pixiv_150558607_p0.jpg",
+      "path": "uploads/2026/10/712f854e.jpg",
+      "size": 658846,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ad2db8682f1416714b4766f8066944a9c9e7e759e484cedb599b47b207b056dd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T21:24:34.414Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Pretender",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ウマ娘",
+        "ヴェニュスパーク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150558607_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150558607",
+      "sourceCreatedAt": "2026-10-07T05:11:21.000Z"
+    },
+    {
       "id": "d6bbb1d2",
       "filename": "pixiv_150505696_p0.jpg",
       "path": "uploads/2026/10/8d4c3cee.jpg",
