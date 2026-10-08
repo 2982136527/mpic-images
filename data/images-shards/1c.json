@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "aaa0026e",
+      "filename": "pixiv_150556052_p0.jpg",
+      "path": "uploads/2026/10/51c42b80.jpg",
+      "size": 307144,
+      "width": 632,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "hash": "2ccc1ae0a36a26ab1cc756c43c9afea167cabfc46cf1660696c094e8b09fca45",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:53:19.309Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Untitled",
+      "tags": [
+        "malfoy",
+        "harrypotter",
+        "♀ドラコ",
+        "beautifulgirl"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150556052_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150556052",
+      "sourceCreatedAt": "2026-10-07T03:03:08.000Z"
+    },
+    {
       "id": "31bee9c1",
       "filename": "pixiv_150500782_p0.jpg",
       "path": "uploads/2026/10/310a531b.jpg",
