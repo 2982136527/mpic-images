@@ -3,6 +3,35 @@
   "shardId": "02",
   "images": [
     {
+      "id": "0bdf97d9",
+      "filename": "pixiv_150528612_p0.jpg",
+      "path": "uploads/2026/10/74af59ed.jpg",
+      "size": 1235747,
+      "width": 1200,
+      "height": 665,
+      "mimeType": "image/jpeg",
+      "hash": "5e4a38d2e9bf62fbaed94b7ecf53faef624401cb12e472a1d039d3d762db2107",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:56:29.609Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Deus Exia Demo Release",
+      "tags": [
+        "DeusExia",
+        "Exia",
+        "オリジナル",
+        "ゲーム",
+        "自作ゲーム",
+        "背景",
+        "風景",
+        "Steam"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150528612_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150528612",
+      "sourceCreatedAt": "2026-10-06T10:04:13.000Z"
+    },
+    {
       "id": "7373fb8a",
       "filename": "pixiv_150524966_p0.jpg",
       "path": "uploads/2026/10/6fa6613c.jpg",
