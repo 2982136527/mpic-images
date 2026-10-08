@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "6d057d5e",
+      "filename": "pixiv_150550396_p0.jpg",
+      "path": "uploads/2026/10/0b5bb0c4.jpg",
+      "size": 546136,
+      "width": 819,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "93b824be302165d94cb252931aca5715b3ff0c1be9c4365ec3b8501ff3cf43d2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:39:28.934Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "リコリス・リコイル_93",
+      "tags": [
+        "リコリス・リコイル",
+        "井ノ上たきな",
+        "イブニングドレス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150550396_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150550396",
+      "sourceCreatedAt": "2026-10-06T21:55:28.000Z"
+    },
+    {
       "id": "97b9dba1",
       "filename": "pixiv_150513039_p0.jpg",
       "path": "uploads/2026/10/4060e6a7.jpg",
