@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "d7945fd3",
+      "filename": "pixiv_150530106_p0.jpg",
+      "path": "uploads/2026/10/07367124.jpg",
+      "size": 441304,
+      "width": 568,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "390914a529f56ebcab8b6c53b6ad5a372ee12aac24228c55e98c45eef065c506",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:59:08.153Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ツムギ",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "椎名ツムギ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150530106_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150530106",
+      "sourceCreatedAt": "2026-10-06T10:47:23.000Z"
+    },
+    {
       "id": "30b92fda",
       "filename": "pixiv_150478875_p0.jpg",
       "path": "uploads/2026/10/e69ab937.jpg",
