@@ -3,6 +3,35 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "97e2025e",
+      "filename": "pixiv_150555248_p0.jpg",
+      "path": "uploads/2026/10/fa7b7e87.jpg",
+      "size": 477642,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "263d456e5d5ed92159487e6e34dd894ec8835f8488eb54976b06aac115240432",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:33:26.772Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "お腹の塗りが分からない人へ",
+      "tags": [
+        "描き方",
+        "コツ",
+        "ハウツー",
+        "上達法",
+        "練習法",
+        "お腹",
+        "塗り方",
+        "お腹の塗り方"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150555248_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150555248",
+      "sourceCreatedAt": "2026-10-07T02:27:30.000Z"
+    },
+    {
       "id": "82d377f9",
       "filename": "pixiv_150512588_p0.jpg",
       "path": "uploads/2026/10/4d4c4d00.jpg",
