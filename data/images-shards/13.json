@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "d190c032",
+      "filename": "pixiv_150520598_p0.jpg",
+      "path": "uploads/2026/10/703cb341.jpg",
+      "size": 827545,
+      "width": 1200,
+      "height": 682,
+      "mimeType": "image/jpeg",
+      "hash": "a44afdb5e56df1cd5695e50bbde7e0f2fdbba10171199a47f4bd948078c74dec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:38:03.148Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "稿稿",
+      "tags": [
+        "崩坏3rd",
+        "リリア・アリーン",
+        "フィーバーブルースΔ",
+        "德尔塔"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150520598_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150520598",
+      "sourceCreatedAt": "2026-10-06T04:28:58.000Z"
+    },
+    {
       "id": "b50b15cf",
       "filename": "pixiv_150561786_p0.jpg",
       "path": "uploads/2026/10/e0705cd4.jpg",
