@@ -3,6 +3,32 @@
   "shardId": "13",
   "images": [
     {
+      "id": "a8c9fb8c",
+      "filename": "pixiv_150541724_p0.jpg",
+      "path": "uploads/2026/10/8bdbcef2.jpg",
+      "size": 950466,
+      "width": 876,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "be79d9aa03941637efe1ae7640279d76e71cfe2e1ed18621d4f99fcf646d7707",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:54:51.403Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🐻",
+      "tags": [
+        "女の子",
+        "Skeb",
+        "ジャージメイド",
+        "ボーイッシュ",
+        "金髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150541724_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150541724",
+      "sourceCreatedAt": "2026-10-06T15:00:25.000Z"
+    },
+    {
       "id": "437ef169",
       "filename": "pixiv_150541660_p0.jpg",
       "path": "uploads/2026/10/ffb5fa41.jpg",
