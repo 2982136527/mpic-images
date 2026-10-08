@@ -3,6 +3,33 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "6359148b",
+      "filename": "pixiv_150525838_p0.jpg",
+      "path": "uploads/2026/10/c5b54cee.jpg",
+      "size": 764758,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ae9e81a3484746f100029f1583a1620c95d1112cbff094cd42a739a18fd85dc2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:39:46.660Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "公主",
+      "tags": [
+        "女の子",
+        "绝区零",
+        "ZenlessZoneZero",
+        "ゼンゼロ",
+        "ゼンレスゾーンゼロ",
+        "zzzero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150525838_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150525838",
+      "sourceCreatedAt": "2026-10-06T08:49:34.000Z"
+    },
+    {
       "id": "aa118712",
       "filename": "pixiv_150525108_p0.jpg",
       "path": "uploads/2026/10/af59313c.jpg",
