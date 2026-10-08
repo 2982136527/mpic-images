@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "eaeba8b5",
+      "filename": "pixiv_150543241_p0.jpg",
+      "path": "uploads/2026/10/04b411ff.jpg",
+      "size": 1518036,
+      "width": 1008,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4ec3787320c32c6deadb1a51f683a82811b455aac263f19a64e907990508c8c6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T21:15:57.098Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "レイアース観ろ",
+      "tags": [
+        "魔法騎士レイアース",
+        "獅堂光",
+        "龍咲海",
+        "鳳凰寺風"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150543241_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150543241",
+      "sourceCreatedAt": "2026-10-06T15:29:53.000Z"
+    },
+    {
       "id": "ab8f91f8",
       "filename": "pixiv_150552452_p0.jpg",
       "path": "uploads/2026/10/77812d2b.jpg",
