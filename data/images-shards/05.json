@@ -3,6 +3,30 @@
   "shardId": "05",
   "images": [
     {
+      "id": "498bf2e4",
+      "filename": "pixiv_150571042_p0.jpg",
+      "path": "uploads/2026/10/4bd0e404.jpg",
+      "size": 1092243,
+      "width": 720,
+      "height": 720,
+      "mimeType": "image/jpeg",
+      "hash": "0a835bcc0dd4cb7e8addce1f56bf07a4a079fc6c45b614362f1c86b1448b3ed2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T15:33:10.804Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "LOVE",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150571042_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150571042",
+      "sourceCreatedAt": "2026-10-07T12:04:08.000Z"
+    },
+    {
       "id": "3c53df1b",
       "filename": "pixiv_150560439_p0.jpg",
       "path": "uploads/2026/10/b7834ed5.jpg",
