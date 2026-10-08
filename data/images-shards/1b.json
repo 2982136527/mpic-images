@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "d85cccc9",
+      "filename": "pixiv_150554850_p0.jpg",
+      "path": "uploads/2026/10/923d78f1.jpg",
+      "size": 719743,
+      "width": 1200,
+      "height": 709,
+      "mimeType": "image/jpeg",
+      "hash": "f6db43d552c78e377b73237a5d759c08f5ffbf3717e3d9cfaddccd787a5021ed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-08T05:56:52.241Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "wuwa",
+      "tags": [
+        "WutheringWaves",
+        "鸣潮",
+        "鳴潮",
+        "명조"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150554850_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150554850",
+      "sourceCreatedAt": "2026-10-07T02:04:45.000Z"
+    },
+    {
       "id": "f8cf83dd",
       "filename": "pixiv_150497823_p0.jpg",
       "path": "uploads/2026/10/f4f36970.jpg",
