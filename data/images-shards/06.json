@@ -3,6 +3,32 @@
   "shardId": "06",
   "images": [
     {
+      "id": "2432e19d",
+      "filename": "pixiv_150556563_p0.jpg",
+      "path": "uploads/2026/10/bb2d7aba.jpg",
+      "size": 732390,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "818ae0a3a45b0356a26b17817ca607743e2425a232417e837dd52722241d902a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:49:59.624Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ミユ",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "霞沢ミユ",
+        "RABBIT小隊",
+        "RABBIT-39式小銃"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150556563_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150556563",
+      "sourceCreatedAt": "2026-10-07T03:26:12.000Z"
+    },
+    {
       "id": "d19ec4fe",
       "filename": "pixiv_150594898_p0.jpg",
       "path": "uploads/2026/10/458bdfe9.jpg",
