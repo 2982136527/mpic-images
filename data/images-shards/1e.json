@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "db39e09e",
+      "filename": "pixiv_150567780_p0.jpg",
+      "path": "uploads/2026/10/8af927c7.jpg",
+      "size": 1094346,
+      "width": 1000,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "97f6fd4b675d3a649997f3e0baa3d1915bb13275afa29e7552ea3b276039d735",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:56:14.781Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "デュエル・マスターズ",
+        "ドラゴン娘になりたくないっ!",
+        "流星アーシュ",
+        "パンツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150567780_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150567780",
+      "sourceCreatedAt": "2026-10-07T10:55:50.000Z"
+    },
+    {
       "id": "12d545cc",
       "filename": "pixiv_150605025_p0.jpg",
       "path": "uploads/2026/10/c95e8d96.jpg",
