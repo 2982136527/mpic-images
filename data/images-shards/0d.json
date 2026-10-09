@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "cd16960a",
+      "filename": "pixiv_150579622_p0.jpg",
+      "path": "uploads/2026/10/8b63d79e.jpg",
+      "size": 528737,
+      "width": 900,
+      "height": 1061,
+      "mimeType": "image/jpeg",
+      "hash": "5eb81b57672b61a870cb60a5ad6af3ec51a069a8dcc453b6045c07a51dcdef2d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:49:19.945Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🤍",
+      "tags": [
+        "相沢瞳",
+        "アイドル",
+        "ツインテール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150579622_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150579622",
+      "sourceCreatedAt": "2026-10-07T15:08:27.000Z"
+    },
+    {
       "id": "d6861263",
       "filename": "pixiv_150609453_p0.jpg",
       "path": "uploads/2026/10/a858a95a.jpg",
