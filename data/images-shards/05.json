@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "47d03b26",
+      "filename": "pixiv_150595101_p0.jpg",
+      "path": "uploads/2026/10/738ca7c7.jpg",
+      "size": 970380,
+      "width": 764,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "46a6d065ee0640f594ee81c8d1ef208b29a7dd2e309893e45bd11799127c141e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T05:57:53.744Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": ":D",
+      "tags": [
+        "原神",
+        "少女",
+        "ヴェスナ(原神)",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150595101_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150595101",
+      "sourceCreatedAt": "2026-10-08T04:49:01.000Z"
+    },
+    {
       "id": "c7568bff",
       "filename": "pixiv_150560630_p0.jpg",
       "path": "uploads/2026/10/c120c012.jpg",
