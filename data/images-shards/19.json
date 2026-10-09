@@ -3,6 +3,33 @@
   "shardId": "19",
   "images": [
     {
+      "id": "1d3f76f9",
+      "filename": "pixiv_150586927_p0.jpg",
+      "path": "uploads/2026/10/dca60a5c.jpg",
+      "size": 359184,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "343240d766e06ad87c3a738f6e8c082cd64fb90b150591d0c24815660d706914",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T15:16:54.636Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "レザーパンツ",
+      "tags": [
+        "パンツ",
+        "オリジナル",
+        "ファッション",
+        "OL",
+        "スキニー",
+        "オフィスカジュアル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150586927_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150586927",
+      "sourceCreatedAt": "2026-10-07T21:02:43.000Z"
+    },
+    {
       "id": "893e765e",
       "filename": "pixiv_150541780_p0.jpg",
       "path": "uploads/2026/10/8f0fcd24.jpg",
