@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "a7a26482",
+      "filename": "pixiv_150570700_p0.jpg",
+      "path": "uploads/2026/10/bb4a2402.jpg",
+      "size": 705871,
+      "width": 910,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bb5beb8562c2b33cfdc86b277dcac4c09325f21f96bc774e6f3b00e01070fc43",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:55:08.079Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Danmachi: Aisha",
+      "tags": [
+        "アイシャ・ベルカ",
+        "ダンジョンに出会いを求めるのは間違っているだろうか",
+        "ダンまち",
+        "danmachi"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150570700_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150570700",
+      "sourceCreatedAt": "2026-10-07T12:00:28.000Z"
+    },
+    {
       "id": "1c1c57b7",
       "filename": "pixiv_150400021_p0.jpg",
       "path": "uploads/2026/10/ac160e1b.jpg",
