@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "cfe32d4a",
+      "filename": "pixiv_150560551_p0.jpg",
+      "path": "uploads/2026/10/49fc5f1e.jpg",
+      "size": 496136,
+      "width": 759,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0ecb2a87c9a62b19be12e9cd0a985b3e00b359f0dfed3ed2f9fe5e1ffae23d84",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T06:02:03.245Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "Limbus_Company",
+        "림버스컴퍼니",
+        "LimbusCompany",
+        "Pwie"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150560551_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150560551",
+      "sourceCreatedAt": "2026-10-07T06:49:08.000Z"
+    },
+    {
       "id": "3e69d2c1",
       "filename": "pixiv_150541789_p0.jpg",
       "path": "uploads/2026/10/35f4839c.jpg",
