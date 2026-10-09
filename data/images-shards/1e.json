@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "12d545cc",
+      "filename": "pixiv_150605025_p0.jpg",
+      "path": "uploads/2026/10/c95e8d96.jpg",
+      "size": 837314,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a59ba4467f35123755ff0d3e568a3762d996c1552a6f14b85fcda0dbb863facc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:55:36.657Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "狂聡まとめ8",
+      "tags": [
+        "狂聡"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150605025_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150605025",
+      "sourceCreatedAt": "2026-10-08T11:07:00.000Z"
+    },
+    {
       "id": "437fa003",
       "filename": "pixiv_150382322_p0.jpg",
       "path": "uploads/2026/10/e6e92ace.jpg",
