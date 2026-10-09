@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "9af07b8e",
+      "filename": "pixiv_150578079_p0.jpg",
+      "path": "uploads/2026/10/965764a9.jpg",
+      "size": 1338115,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e6007c3388dc3e2112201faeb164f3c87df977df6529ca623d1a70ad1933721b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T06:04:25.804Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "リヤちゃん",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150578079_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150578079",
+      "sourceCreatedAt": "2026-10-07T14:40:48.000Z"
+    },
+    {
       "id": "f9ed2198",
       "filename": "pixiv_150578529_p0.jpg",
       "path": "uploads/2026/10/a6ec5397.jpg",
