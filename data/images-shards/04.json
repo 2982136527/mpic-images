@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "f0b20fe5",
+      "filename": "pixiv_150604554_p0.jpg",
+      "path": "uploads/2026/10/a81cdbc9.jpg",
+      "size": 598067,
+      "width": 778,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "90aa6e5fcab25c8a5a6c7229a9147d2230a4f886a1d7e140047fc15316b80b10",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T05:58:47.951Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ロンド",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150604554_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150604554",
+      "sourceCreatedAt": "2026-10-08T11:00:08.000Z"
+    },
+    {
       "id": "82790ba1",
       "filename": "pixiv_150505072_p0.jpg",
       "path": "uploads/2026/10/8ff9a8a8.jpg",
