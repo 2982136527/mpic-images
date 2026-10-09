@@ -3,6 +3,33 @@
   "shardId": "18",
   "images": [
     {
+      "id": "d579b233",
+      "filename": "pixiv_150553713_p0.jpg",
+      "path": "uploads/2026/10/fb2e85c8.jpg",
+      "size": 630881,
+      "width": 1200,
+      "height": 881,
+      "mimeType": "image/jpeg",
+      "hash": "3fff5059f103ee30aedd2b089b643c29a80032e33a43dde2c142fe35e584bb70",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:51:44.990Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "드래곤 버블 출처",
+      "tags": [
+        "SD",
+        "endfield",
+        "アークナイツ:エンドフィールド",
+        "アークナイツ",
+        "명일방주",
+        "명일방주엔드필드"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150553713_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150553713",
+      "sourceCreatedAt": "2026-10-07T01:07:00.000Z"
+    },
+    {
       "id": "dbd8edc9",
       "filename": "pixiv_150608375_p0.jpg",
       "path": "uploads/2026/10/71c106f7.jpg",
