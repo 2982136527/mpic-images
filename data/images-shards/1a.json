@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "13f28506",
+      "filename": "pixiv_150578976_p0.jpg",
+      "path": "uploads/2026/10/753fdd7f.jpg",
+      "size": 629824,
+      "width": 837,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5469ffaadf40a9eea9fd4dcca26a2af0f669b60f7b4d655bda403793ddd578b4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:50:24.220Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "なきおとし。",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150578976_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150578976",
+      "sourceCreatedAt": "2026-10-07T15:00:27.000Z"
+    },
+    {
       "id": "a59bdfcf",
       "filename": "pixiv_150579278_p0.jpg",
       "path": "uploads/2026/10/4249cd85.jpg",
