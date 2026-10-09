@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "6a636e14",
+      "filename": "pixiv_150607069_p0.jpg",
+      "path": "uploads/2026/10/2375cb18.jpg",
+      "size": 1077824,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7f282daf45b0e43354993866915debcac55e61a5012990b9d644141fd1be75a7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:54:35.989Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ケイちゃんと先生の漫画21",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "先生(ブルーアーカイブ)",
+        "天童ケイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150607069_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150607069",
+      "sourceCreatedAt": "2026-10-08T12:00:12.000Z"
+    },
+    {
       "id": "13f28506",
       "filename": "pixiv_150578976_p0.jpg",
       "path": "uploads/2026/10/753fdd7f.jpg",
