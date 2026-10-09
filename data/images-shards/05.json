@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "162b3b4c",
+      "filename": "pixiv_150597018_p0.jpg",
+      "path": "uploads/2026/10/06f798b1.jpg",
+      "size": 950632,
+      "width": 864,
+      "height": 1122,
+      "mimeType": "image/jpeg",
+      "hash": "a5d033090178a7f762fb6ce8adf093680fbcd2fb2ec0122ff9c0aec40b566729",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T06:00:27.015Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "あまみゃ",
+      "tags": [
+        "バーチャルYouTuber",
+        "にじさんじ",
+        "VTuber",
+        "天宮こころ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150597018_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150597018",
+      "sourceCreatedAt": "2026-10-08T06:38:26.000Z"
+    },
+    {
       "id": "47d03b26",
       "filename": "pixiv_150595101_p0.jpg",
       "path": "uploads/2026/10/738ca7c7.jpg",
