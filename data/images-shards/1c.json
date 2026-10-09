@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "3f70c7d1",
+      "filename": "pixiv_150568144_p0.jpg",
+      "path": "uploads/2026/10/3b47d467.jpg",
+      "size": 1329786,
+      "width": 891,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "14e9f38c6569ea5881bd8e93e7a3e3cb58a8b1326c395d3b14f860166bc6bccf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T06:03:56.385Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "rgkg",
+      "tags": [
+        "少女",
+        "二創",
+        "Malfoid",
+        "♀ドラコ",
+        "ドラコ・マルフォイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150568144_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150568144",
+      "sourceCreatedAt": "2026-10-07T11:01:22.000Z"
+    },
+    {
       "id": "cfe32d4a",
       "filename": "pixiv_150560551_p0.jpg",
       "path": "uploads/2026/10/49fc5f1e.jpg",
