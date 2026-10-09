@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "8f32d382",
+      "filename": "pixiv_150579032_p0.jpg",
+      "path": "uploads/2026/10/22dfee50.jpg",
+      "size": 1110740,
+      "width": 787,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3d0077ee0e960bfe3d419c702e549b2667f03e0f86e5e7a0a560b25d43ac07f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T06:01:55.740Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "イナと秋",
+      "tags": [
+        "ホロライブEN",
+        "HololiveEN",
+        "バーチャルYouTuber",
+        "VTuber",
+        "一伊那尓栖",
+        "Ninomae_Ina'nis"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150579032_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150579032",
+      "sourceCreatedAt": "2026-10-07T15:00:35.000Z"
+    },
+    {
       "id": "b249074c",
       "filename": "pixiv_150528298_p0.jpg",
       "path": "uploads/2026/10/0aaa3e85.jpg",
