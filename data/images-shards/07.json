@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "8082f554",
+      "filename": "pixiv_150605454_p0.jpg",
+      "path": "uploads/2026/10/39b1af6a.jpg",
+      "size": 1005973,
+      "width": 794,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cf8b13989f1e27021adffd67b9bc1dcfe877cc73c35ff4f8be1f39c936545175",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T05:57:34.700Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ショッピングはこれから",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "イラスト",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150605454_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150605454",
+      "sourceCreatedAt": "2026-10-08T11:18:32.000Z"
+    },
+    {
       "id": "920c93bf",
       "filename": "pixiv_150540922_p0.jpg",
       "path": "uploads/2026/10/75051529.jpg",
