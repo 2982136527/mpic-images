@@ -3,6 +3,35 @@
   "shardId": "06",
   "images": [
     {
+      "id": "1217c4f9",
+      "filename": "pixiv_150591139_p0.jpg",
+      "path": "uploads/2026/10/4ce61701.jpg",
+      "size": 429238,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "4c872240461b246ec74d21daf6cac8f807a7d9d89823630cb9a69f082a6897ab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T15:15:59.966Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "シワの描き方が分からない人へ",
+      "tags": [
+        "コツ",
+        "描き方",
+        "ハウツー",
+        "上達法",
+        "練習法",
+        "シワ",
+        "シワの描き方",
+        "服のシワ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150591139_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150591139",
+      "sourceCreatedAt": "2026-10-08T01:08:05.000Z"
+    },
+    {
       "id": "ee13c136",
       "filename": "pixiv_150605255_p0.jpg",
       "path": "uploads/2026/10/b90b329f.jpg",
