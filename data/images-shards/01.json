@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "1b4f88a3",
+      "filename": "pixiv_150588189_p0.jpg",
+      "path": "uploads/2026/10/11393246.jpg",
+      "size": 1300260,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8d4785f024ba615f6473c83f072d492012dcf5740d6318b46f364156d4340775",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:52:00.501Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "カップ麺の執政様",
+      "tags": [
+        "原神",
+        "死の執政",
+        "ロノヴァ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150588189_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150588189",
+      "sourceCreatedAt": "2026-10-07T22:16:47.000Z"
+    },
+    {
       "id": "7e7cbf0a",
       "filename": "pixiv_150585475_p0.jpg",
       "path": "uploads/2026/10/3a1cde30.jpg",
