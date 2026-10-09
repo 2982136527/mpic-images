@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "edc33793",
+      "filename": "pixiv_150552169_p0.jpg",
+      "path": "uploads/2026/10/f99b0b7a.jpg",
+      "size": 578429,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "6177b1a7e205304eccce9056a4296c87e1e605d59429d4c3b2ae96efda9ac737",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T06:02:30.092Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "リリーホワイト",
+        "東方",
+        "東方Project",
+        "ルナチャイルド",
+        "スターサファイア",
+        "栗みたいな口"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150552169_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150552169",
+      "sourceCreatedAt": "2026-10-06T23:32:08.000Z"
+    },
+    {
       "id": "2b876505",
       "filename": "pixiv_150608441_p0.jpg",
       "path": "uploads/2026/10/737feb82.jpg",
