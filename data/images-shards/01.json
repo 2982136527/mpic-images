@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "7e7cbf0a",
+      "filename": "pixiv_150585475_p0.jpg",
+      "path": "uploads/2026/10/3a1cde30.jpg",
+      "size": 902095,
+      "width": 1200,
+      "height": 694,
+      "mimeType": "image/jpeg",
+      "hash": "f9c8bed1e10acad424ed98d9eb1338c2e5bd52830bddcc39754afac32bbb03b2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:46:45.366Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Pwie",
+      "tags": [
+        "LimbusCompany",
+        "Limbus_Company",
+        "pwei",
+        "プイ",
+        "Pwei",
+        "Pwie"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150585475_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150585475",
+      "sourceCreatedAt": "2026-10-07T19:14:56.000Z"
+    },
+    {
       "id": "7da743a0",
       "filename": "pixiv_150379449_p0.jpg",
       "path": "uploads/2026/10/47ac5db3.jpg",
