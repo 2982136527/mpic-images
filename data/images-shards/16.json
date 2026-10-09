@@ -3,6 +3,33 @@
   "shardId": "16",
   "images": [
     {
+      "id": "50574ff0",
+      "filename": "pixiv_150595064_p0.jpg",
+      "path": "uploads/2026/10/c12ffa64.jpg",
+      "size": 946324,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "e31c009339548db6bdd67d9eb43626cf01bb677171f0c3cc8bc23ebb25a0db0c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T15:17:57.265Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "イッカネズミ",
+      "tags": [
+        "ポケットモンスター",
+        "pokemon",
+        "ポケモン",
+        "ポケモンSV",
+        "イッカネズミ",
+        "3びきかぞく"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150595064_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150595064",
+      "sourceCreatedAt": "2026-10-08T04:46:48.000Z"
+    },
+    {
       "id": "f7fb339d",
       "filename": "pixiv_150541746_p0.jpg",
       "path": "uploads/2026/10/0cec67d1.jpg",
