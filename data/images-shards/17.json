@@ -3,6 +3,33 @@
   "shardId": "17",
   "images": [
     {
+      "id": "686e0cf5",
+      "filename": "pixiv_150582276_p0.jpg",
+      "path": "uploads/2026/10/e3c40869.jpg",
+      "size": 499122,
+      "width": 393,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9baa8bb31f813eea040aa0a83d1e686384061d6d09e3c385c7e6934f02402bbc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:55:01.599Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "\"The Touch of Death\"",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "Ronova",
+        "Aether",
+        "ロノヴァ",
+        "空(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150582276_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150582276",
+      "sourceCreatedAt": "2026-10-07T16:24:09.000Z"
+    },
+    {
       "id": "a2b69f89",
       "filename": "pixiv_150590345_p0.jpg",
       "path": "uploads/2026/10/5fbcc57b.jpg",
