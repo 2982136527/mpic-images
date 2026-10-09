@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "834fcdff",
+      "filename": "pixiv_150600448_p0.jpg",
+      "path": "uploads/2026/10/466161a5.jpg",
+      "size": 588772,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9fb1094646dd6b6c7f2f808525663b48c54a0f36492c3cb63e7982c9191d8617",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T06:03:49.416Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Latex Malfoid",
+      "tags": [
+        "ラバースーツ",
+        "latex",
+        "malfoid"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150600448_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150600448",
+      "sourceCreatedAt": "2026-10-08T09:01:35.000Z"
+    },
+    {
       "id": "e6a1dcc0",
       "filename": "pixiv_150586054_p0.jpg",
       "path": "uploads/2026/10/07af2f92.jpg",
