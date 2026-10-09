@@ -3,6 +3,34 @@
   "shardId": "09",
   "images": [
     {
+      "id": "9bf48274",
+      "filename": "pixiv_150542929_p0.jpg",
+      "path": "uploads/2026/10/0e635daf.jpg",
+      "size": 670565,
+      "width": 626,
+      "height": 1088,
+      "mimeType": "image/jpeg",
+      "hash": "0e6c30de0fed30c95b2ae3e2a04165a619aace13bc9f97525b848fbbe94e1187",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:54:48.173Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ライチさん",
+      "tags": [
+        "ポケモン",
+        "ポケットモンスター",
+        "pokemon",
+        "ポケモン人間絵",
+        "ライチ",
+        "ノズパス",
+        "ライチ(ポケモン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150542929_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150542929",
+      "sourceCreatedAt": "2026-10-06T15:21:17.000Z"
+    },
+    {
       "id": "ce168f38",
       "filename": "pixiv_150546680_p0.jpg",
       "path": "uploads/2026/10/17862e9d.jpg",
