@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "2ec252c5",
+      "filename": "pixiv_150579022_p0.jpg",
+      "path": "uploads/2026/10/9ca8a11a.jpg",
+      "size": 791074,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "34b203aab3e78cac59857cb273b9b3e58ac5183226fdc4537e9090c202101d1b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T06:01:13.766Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "...ん？",
+      "tags": [
+        "女の子",
+        "プロセカ",
+        "日野森雫",
+        "翼"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150579022_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150579022",
+      "sourceCreatedAt": "2026-10-07T15:00:32.000Z"
+    },
+    {
       "id": "4daee7e7",
       "filename": "pixiv_150386410_p0.jpg",
       "path": "uploads/2026/10/0970db24.jpg",
