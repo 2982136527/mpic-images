@@ -3,6 +3,35 @@
   "shardId": "00",
   "images": [
     {
+      "id": "a33aa35e",
+      "filename": "pixiv_150590088_p0.jpg",
+      "path": "uploads/2026/10/21b1acc1.jpg",
+      "size": 289238,
+      "width": 743,
+      "height": 867,
+      "mimeType": "image/jpeg",
+      "hash": "fdbd259645b0f0e60144b9050178c6f9e3f58c8e7dd65b6b823309cfbf0c4580",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T15:17:22.664Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "憂いトーンのテト",
+      "tags": [
+        "VOCALOID",
+        "UTAU",
+        "重音テト",
+        "teto",
+        "KasaneTeto",
+        "テト",
+        "初音ミク",
+        "HatsuneMiku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150590088_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150590088",
+      "sourceCreatedAt": "2026-10-08T00:05:32.000Z"
+    },
+    {
       "id": "094af0b8",
       "filename": "pixiv_150567951_p0.jpg",
       "path": "uploads/2026/10/702265b5.jpg",
