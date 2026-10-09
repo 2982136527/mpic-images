@@ -3,6 +3,28 @@
   "shardId": "07",
   "images": [
     {
+      "id": "a22eb0ba",
+      "filename": "pixiv_150578950_p0.jpg",
+      "path": "uploads/2026/10/74f2ea9d.jpg",
+      "size": 735489,
+      "width": 699,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3b7c836f9cfdf0fe093a21513f89abcda3ad1ccdd36ab5aa21837dc818d6dc7b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T06:00:35.348Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "balloon",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150578950_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150578950",
+      "sourceCreatedAt": "2026-10-07T15:00:23.000Z"
+    },
+    {
       "id": "c7c9ee75",
       "filename": "pixiv_150565319_p0.jpg",
       "path": "uploads/2026/10/b0df98f1.jpg",
