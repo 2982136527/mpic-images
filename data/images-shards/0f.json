@@ -3,6 +3,33 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "7cc7b25f",
+      "filename": "pixiv_150578993_p0.jpg",
+      "path": "uploads/2026/10/8d5247eb.jpg",
+      "size": 817603,
+      "width": 1200,
+      "height": 542,
+      "mimeType": "image/jpeg",
+      "hash": "21f5a92fb094ef19798baee9758662edf2a86de2817e56a0edf943e9c016f18c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:52:07.708Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "薇尔莉特~",
+      "tags": [
+        "ヴァイオレット・エヴァーガーデン",
+        "紫罗兰永恒花园",
+        "薇尔莉特",
+        "Violet",
+        "ヴァイオレット",
+        "エレガント"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150578993_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150578993",
+      "sourceCreatedAt": "2026-10-07T15:00:29.000Z"
+    },
+    {
       "id": "8abd153d",
       "filename": "pixiv_150567342_p0.jpg",
       "path": "uploads/2026/10/d11d192d.jpg",
