@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "ba0c1e06",
+      "filename": "pixiv_150606673_p0.jpg",
+      "path": "uploads/2026/10/2dcb497e.jpg",
+      "size": 72086,
+      "width": 320,
+      "height": 320,
+      "mimeType": "image/jpeg",
+      "hash": "2b5285d18f93f2f6cc5cd5d09f675921aab9dfe88fde9e394c5a795e1662a9f3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:49:30.974Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "マウスカーソル",
+      "tags": [
+        "東方Project",
+        "十六夜咲夜",
+        "ドット絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150606673_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150606673",
+      "sourceCreatedAt": "2026-10-08T11:51:32.000Z"
+    },
+    {
       "id": "fcf4a164",
       "filename": "pixiv_150562766_p0.jpg",
       "path": "uploads/2026/10/cee59204.jpg",
