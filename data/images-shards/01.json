@@ -3,6 +3,34 @@
   "shardId": "01",
   "images": [
     {
+      "id": "eec2d100",
+      "filename": "pixiv_150604000_p0.jpg",
+      "path": "uploads/2026/10/c89d6da5.jpg",
+      "size": 1443240,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3d719ba505e120e369caf8423cfb620d1fb113f5e756c1caf274ac5a597e716d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T15:15:15.706Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【10/11新刊サンプル②】ちっちゃい子の本",
+      "tags": [
+        "COMICCITYSPARK21",
+        "神ノ叡智33",
+        "アイノ",
+        "フリンズ",
+        "イルーガ",
+        "原神",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150604000_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150604000",
+      "sourceCreatedAt": "2026-10-08T10:42:52.000Z"
+    },
+    {
       "id": "49c1f229",
       "filename": "pixiv_150526533_p0.jpg",
       "path": "uploads/2026/10/bbd9c470.jpg",
