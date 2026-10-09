@@ -3,6 +3,32 @@
   "shardId": "17",
   "images": [
     {
+      "id": "7eed94d9",
+      "filename": "pixiv_150395226_p0.jpg",
+      "path": "uploads/2026/10/109c4093.jpg",
+      "size": 1165343,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "16e4de1a5fd3651541933e3c05e710dfe02d8f64ea1d9f544bd82bcc173b5ffb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T06:06:00.127Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "泳装逍遥猫猫",
+      "tags": [
+        "水着",
+        "裸足",
+        "少女",
+        "猫耳",
+        "お腹"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150395226_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150395226",
+      "sourceCreatedAt": "2026-10-03T03:52:28.000Z"
+    },
+    {
       "id": "9f1c1140",
       "filename": "pixiv_150568761_p0.jpg",
       "path": "uploads/2026/10/e551d94f.jpg",
