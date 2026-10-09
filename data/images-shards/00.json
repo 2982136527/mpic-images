@@ -3,6 +3,37 @@
   "shardId": "00",
   "images": [
     {
+      "id": "e6a1dcc0",
+      "filename": "pixiv_150586054_p0.jpg",
+      "path": "uploads/2026/10/07af2f92.jpg",
+      "size": 824574,
+      "width": 1200,
+      "height": 872,
+      "mimeType": "image/jpeg",
+      "hash": "7900357cf4535f5f09110f5af7352f41054a07574b1f3063b4830cadeba3a3e8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T06:03:11.577Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ジト目のしんちゃん&シロ👀",
+      "tags": [
+        "クレヨンしんちゃん",
+        "野原しんのすけ",
+        "シロ",
+        "ジト目",
+        "pixiv今日のお題",
+        "手描き",
+        "見つめる",
+        "表情",
+        "face",
+        "Autumn"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150586054_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150586054",
+      "sourceCreatedAt": "2026-10-07T20:06:15.000Z"
+    },
+    {
       "id": "f0622876",
       "filename": "pixiv_150514790_p0.jpg",
       "path": "uploads/2026/10/3ca185c1.jpg",
