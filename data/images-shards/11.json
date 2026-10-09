@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "4a82387b",
+      "filename": "pixiv_150556286_p0.jpg",
+      "path": "uploads/2026/10/08281236.jpg",
+      "size": 230165,
+      "width": 707,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "78ceeb2515105331da0ee484e215a479741a6789c52a6089201ba06e0b11b61a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T15:14:15.979Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "戌亥とこ「One day」",
+      "tags": [
+        "戌亥とこ",
+        "仕事絵",
+        "バーチャルYouTuber100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150556286_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150556286",
+      "sourceCreatedAt": "2026-10-07T03:13:43.000Z"
+    },
+    {
       "id": "edc33793",
       "filename": "pixiv_150552169_p0.jpg",
       "path": "uploads/2026/10/f99b0b7a.jpg",
