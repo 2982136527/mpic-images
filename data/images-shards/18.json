@@ -3,6 +3,33 @@
   "shardId": "18",
   "images": [
     {
+      "id": "dbd8edc9",
+      "filename": "pixiv_150608375_p0.jpg",
+      "path": "uploads/2026/10/71c106f7.jpg",
+      "size": 210662,
+      "width": 636,
+      "height": 473,
+      "mimeType": "image/jpeg",
+      "hash": "6d74a9fee1eb79392f3ec83d1da413b6b141e8de4e8c90d2fcf2e5de022ddb25",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:48:26.751Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "たんプリ絵まとめ",
+      "tags": [
+        "たんプリ",
+        "名探偵プリキュア!",
+        "るるくれ",
+        "くれるる",
+        "帆羽くれあ",
+        "森亜るるか"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150608375_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150608375",
+      "sourceCreatedAt": "2026-10-08T12:26:13.000Z"
+    },
+    {
       "id": "c6812af6",
       "filename": "pixiv_150378036_p0.jpg",
       "path": "uploads/2026/10/c6c2ec16.jpg",
