@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "11fc5e4b",
+      "filename": "pixiv_150582168_p0.jpg",
+      "path": "uploads/2026/10/c0f23586.jpg",
+      "size": 631330,
+      "width": 938,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4546c29a17810815a7b9306cd4f81bcc028a55df45eb22668a3a953d84e9ae8d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T06:02:22.107Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "What if?",
+      "tags": [
+        "ハリーポッター",
+        "hpdm",
+        "ドラコ・マルフォイ",
+        "ハリドラ",
+        "ハリポタ",
+        "釣られたなポッター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150582168_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150582168",
+      "sourceCreatedAt": "2026-10-07T16:19:47.000Z"
+    },
+    {
       "id": "4edbbaeb",
       "filename": "pixiv_150558607_p0.jpg",
       "path": "uploads/2026/10/712f854e.jpg",
