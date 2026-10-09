@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "2b876505",
+      "filename": "pixiv_150608441_p0.jpg",
+      "path": "uploads/2026/10/737feb82.jpg",
+      "size": 731500,
+      "width": 563,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f2e50e1e6bfa769c8f851629962ac3f85b670f5836e1c61206c39df06b24a41f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T05:58:16.986Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "克拉蕾",
+      "tags": [
+        "绝区零",
+        "克拉蕾",
+        "クラレッタ・フリンツ",
+        "ゼンゼロ1000users入り",
+        "ハイアングル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150608441_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150608441",
+      "sourceCreatedAt": "2026-10-08T12:28:01.000Z"
+    },
+    {
       "id": "025fc835",
       "filename": "pixiv_150542163_p0.jpg",
       "path": "uploads/2026/10/03fbaa2d.jpg",
