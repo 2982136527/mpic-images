@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "62ce4c8d",
+      "filename": "pixiv_150593609_p0.jpg",
+      "path": "uploads/2026/10/678fb8c2.jpg",
+      "size": 1006560,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "afdb35e84c58892e035150dde113db54fdf1701b8f4e6b6f8c277cde5edce475",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:51:14.867Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "新連載『サラマンダ』",
+      "tags": [
+        "#ヤングジャンプ",
+        "#サラマンダ",
+        "#中山敦支",
+        "#好き避拳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150593609_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150593609",
+      "sourceCreatedAt": "2026-10-08T03:25:20.000Z"
+    },
+    {
       "id": "fa958517",
       "filename": "pixiv_150612103_p0.jpg",
       "path": "uploads/2026/10/df32ee27.jpg",
