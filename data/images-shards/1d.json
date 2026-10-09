@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "06bad15f",
+      "filename": "pixiv_150586374_p0.jpg",
+      "path": "uploads/2026/10/2539ce6e.jpg",
+      "size": 1270651,
+      "width": 768,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "777f0f5620088cc19f655f655bcdc8fee2d54f7adddf5a0452f6778509f35de7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:52:27.321Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Vodyanista",
+      "tags": [
+        "原神",
+        "ヴォジャニーツァ",
+        "イラスト",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150586374_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150586374",
+      "sourceCreatedAt": "2026-10-07T20:32:05.000Z"
+    },
+    {
       "id": "eb2ce4c2",
       "filename": "pixiv_150379112_p0.jpg",
       "path": "uploads/2026/10/e6e8311e.jpg",
