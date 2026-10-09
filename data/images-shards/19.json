@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "893e765e",
+      "filename": "pixiv_150541780_p0.jpg",
+      "path": "uploads/2026/10/8f0fcd24.jpg",
+      "size": 798318,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "50279c3e61c751529521020181fb1bfb099be371ab2095fa36080a2eabf7b8b6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T06:05:11.238Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "るるか",
+      "tags": [
+        "名探偵プリキュア!",
+        "森亜るるか"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150541780_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150541780",
+      "sourceCreatedAt": "2026-10-06T15:00:34.000Z"
+    },
+    {
       "id": "9a9281ae",
       "filename": "pixiv_150598941_p0.jpg",
       "path": "uploads/2026/10/74946114.jpg",
