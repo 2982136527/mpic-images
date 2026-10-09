@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "abca2a5d",
+      "filename": "pixiv_150544014_p0.jpg",
+      "path": "uploads/2026/10/9e21d9dc.jpg",
+      "size": 1328865,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "67d44454363de2d098780079fbbdfbc40e5c7f96aa905c09d38f32497b4e594b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T05:56:58.334Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "☾✦✧",
+      "tags": [
+        "原神",
+        "フリンズ",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150544014_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150544014",
+      "sourceCreatedAt": "2026-10-06T15:51:12.000Z"
+    },
+    {
       "id": "e21d6d42",
       "filename": "pixiv_150566592_p0.jpg",
       "path": "uploads/2026/10/613bbcdc.jpg",
