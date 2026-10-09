@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "95ad23e6",
+      "filename": "pixiv_150541759_p0.jpg",
+      "path": "uploads/2026/10/86e52127.jpg",
+      "size": 617521,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1886e74afb4201b76358c024562e68674bb8435ac9a1868d9462e6686c927c1a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:51:29.106Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "makoto",
+      "tags": [
+        "セーラー服",
+        "先輩はおとこのこ",
+        "花岡まこと",
+        "制服",
+        "水"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150541759_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150541759",
+      "sourceCreatedAt": "2026-10-06T15:00:30.000Z"
+    },
+    {
       "id": "15d79483",
       "filename": "pixiv_150576069_p0.jpg",
       "path": "uploads/2026/10/caa2e20d.jpg",
