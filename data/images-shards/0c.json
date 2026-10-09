@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "af03cee9",
+      "filename": "pixiv_150610183_p0.jpg",
+      "path": "uploads/2026/10/39856367.jpg",
+      "size": 785618,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "106f25772d49b21fefda53b3cebbd9e473cbc2eeb6f642edfa2df27f77a956ca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:47:53.422Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "緋英",
+      "tags": [
+        "崩壊スターレイル",
+        "崩壊:スターレイル",
+        "緋英",
+        "パンツであやとり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150610183_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150610183",
+      "sourceCreatedAt": "2026-10-08T13:05:08.000Z"
+    },
+    {
       "id": "385748c1",
       "filename": "pixiv_150569004_p0.jpg",
       "path": "uploads/2026/10/df96e80d.jpg",
