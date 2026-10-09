@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "1c75ec41",
+      "filename": "pixiv_150601149_p0.jpg",
+      "path": "uploads/2026/10/7e4dd6e9.jpg",
+      "size": 578270,
+      "width": 959,
+      "height": 1174,
+      "mimeType": "image/jpeg",
+      "hash": "1d806baa759e96054f719b8a3b75119d14700e0f09788c49e5b273bbbcc011a1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:48:09.775Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "コロサン",
+      "tags": [
+        "原神",
+        "コロサン",
+        "コロンビーナ(原神)",
+        "サンドローネ(原神)",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150601149_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150601149",
+      "sourceCreatedAt": "2026-10-08T09:23:18.000Z"
+    },
+    {
       "id": "af03cee9",
       "filename": "pixiv_150610183_p0.jpg",
       "path": "uploads/2026/10/39856367.jpg",
