@@ -3,6 +3,37 @@
   "shardId": "05",
   "images": [
     {
+      "id": "d3b92830",
+      "filename": "pixiv_150561466_p0.jpg",
+      "path": "uploads/2026/10/d9cd8eee.jpg",
+      "size": 836175,
+      "width": 736,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "236957f8afcaf3abbd1836a7952389500177b8758393283e12497c0d7d0acc0c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:52:20.606Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "閃乱カグラ 紫",
+      "tags": [
+        "閃乱カグラ",
+        "Senrankagura",
+        "シノマス",
+        "シノビマスター",
+        "ケモ耳",
+        "紫",
+        "紫(閃乱カグラ)",
+        "熊",
+        "シノビNEXUS",
+        "シノビNEXUS-閃乱カグラ-"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150561466_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150561466",
+      "sourceCreatedAt": "2026-10-07T07:34:38.000Z"
+    },
+    {
       "id": "e9fdde76",
       "filename": "pixiv_150602777_p0.jpg",
       "path": "uploads/2026/10/0781965a.jpg",
