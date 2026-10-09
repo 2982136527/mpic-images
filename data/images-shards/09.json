@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "f4d70150",
+      "filename": "pixiv_150581747_p0.jpg",
+      "path": "uploads/2026/10/9fb23475.jpg",
+      "size": 1129177,
+      "width": 629,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "96dda625d70a5597bb71bb12217e709a106de69e95578a4aba17f47568151688",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T06:00:58.677Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "水浴び狐",
+      "tags": [
+        "鳴潮",
+        "WutheringWaves",
+        "狐娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150581747_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150581747",
+      "sourceCreatedAt": "2026-10-07T16:04:36.000Z"
+    },
+    {
       "id": "97e29af9",
       "filename": "pixiv_150541826_p0.jpg",
       "path": "uploads/2026/10/b0c31dfb.jpg",
