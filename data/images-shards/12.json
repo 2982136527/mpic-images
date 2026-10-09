@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "ef5f0521",
+      "filename": "pixiv_150578881_p0.jpg",
+      "path": "uploads/2026/10/c73831d5.jpg",
+      "size": 659580,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bac6629e377f04556d7b3440f604bb18379d46a158043fba45cb437f12c16ef9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:46:36.374Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "DemVAMPS",
+      "tags": [
+        "オリジナル",
+        "DemVAMPS",
+        "デヴァンプス",
+        "足裏"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150578881_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150578881",
+      "sourceCreatedAt": "2026-10-07T15:00:13.000Z"
+    },
+    {
       "id": "6d18261b",
       "filename": "pixiv_150402677_p0.jpg",
       "path": "uploads/2026/10/f328d23f.jpg",
