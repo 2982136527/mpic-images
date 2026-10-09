@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "5ff413e3",
+      "filename": "pixiv_150610869_p0.jpg",
+      "path": "uploads/2026/10/914cb9f5.jpg",
+      "size": 493145,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e35c516485d2aa348e4111bdd7e2207eb31697e3c3c14c2d0c80b37592558a2c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T15:19:42.524Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "根本没有这样的潜兵",
+      "tags": [
+        "女孩子",
+        "HELLDIVERS"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150610869_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150610869",
+      "sourceCreatedAt": "2026-10-08T13:21:42.000Z"
+    },
+    {
       "id": "390d5596",
       "filename": "pixiv_150553886_p0.jpg",
       "path": "uploads/2026/10/8304dce4.jpg",
