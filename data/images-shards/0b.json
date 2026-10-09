@@ -3,6 +3,36 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "5cf6e9ad",
+      "filename": "pixiv_150591431_p0.jpg",
+      "path": "uploads/2026/10/246ef23c.jpg",
+      "size": 774983,
+      "width": 1200,
+      "height": 663,
+      "mimeType": "image/jpeg",
+      "hash": "cecf733c30be93f804790181ab5ab20223a34c914b32c1f52bebe3da65e28f10",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T15:13:50.422Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "藍の雫",
+      "tags": [
+        "ファンタジー",
+        "星空",
+        "原神",
+        "GenshinImpact",
+        "風景",
+        "背景",
+        "イラスト",
+        "オリジナル",
+        "mv"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150591431_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150591431",
+      "sourceCreatedAt": "2026-10-08T01:27:11.000Z"
+    },
+    {
       "id": "0a6bf8b5",
       "filename": "pixiv_150541774_p0.jpg",
       "path": "uploads/2026/10/6e59e05a.jpg",
