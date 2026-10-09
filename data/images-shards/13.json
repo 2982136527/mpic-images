@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "547be65a",
+      "filename": "pixiv_150570335_p0.jpg",
+      "path": "uploads/2026/10/d3f95108.jpg",
+      "size": 1684857,
+      "width": 865,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "731bccc398e1d1cbaf665a798431906bc69dafc86091dec9c6e8a0edd7148808",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-09T20:47:21.011Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "葛飾北斎コラボKAITO",
+      "tags": [
+        "VOCALOID",
+        "横顔",
+        "KAITO"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150570335_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150570335",
+      "sourceCreatedAt": "2026-10-07T11:53:43.000Z"
+    },
+    {
       "id": "4f459ec8",
       "filename": "pixiv_150562171_p0.jpg",
       "path": "uploads/2026/10/79c93709.jpg",
