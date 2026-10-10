@@ -3,6 +3,37 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "8cbb3206",
+      "filename": "pixiv_150604579_p0.jpg",
+      "path": "uploads/2026/10/ef71a4d2.jpg",
+      "size": 755414,
+      "width": 831,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "29a67ae2ddee0a369df8a6414c14f0cf4a3ad9fd4bb328fddce40902dd8fdfcb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T20:02:25.539Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "愛らしい「D4」のテト",
+      "tags": [
+        "VOCALOID",
+        "UTAU",
+        "重音テト",
+        "teto",
+        "KasaneTeto",
+        "テト",
+        "初音ミク",
+        "HatsuneMiku",
+        "ミク",
+        "Miku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150604579_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150604579",
+      "sourceCreatedAt": "2026-10-08T11:00:12.000Z"
+    },
+    {
       "id": "593cdce4",
       "filename": "pixiv_150630151_p0.jpg",
       "path": "uploads/2026/10/bb5130db.jpg",
