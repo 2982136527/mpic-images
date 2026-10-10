@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "558cf481",
+      "filename": "pixiv_150636306_p0.jpg",
+      "path": "uploads/2026/10/3d80058a.jpg",
+      "size": 872563,
+      "width": 1200,
+      "height": 515,
+      "mimeType": "image/jpeg",
+      "hash": "678b308839327d7a5a5d0bdc2c545c4d5fdad96cab0a693b2a9d346b1a3c4939",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:42:58.229Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "空蝉",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "アナログ",
+        "絵墨",
+        "透明水彩"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150636306_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150636306",
+      "sourceCreatedAt": "2026-10-09T08:44:35.000Z"
+    },
+    {
       "id": "2d4a46dc",
       "filename": "pixiv_150601120_p0.jpg",
       "path": "uploads/2026/10/828dc334.jpg",
