@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "d37dff63",
+      "filename": "pixiv_150604587_p0.jpg",
+      "path": "uploads/2026/10/657b1a45.jpg",
+      "size": 1064417,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2e456640beb0af424021731a8451859ebb9b4de0085ca559bd99b7927859d030",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:44:46.426Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "FXの次は・・・株？",
+      "tags": [
+        "超かぐや姫!",
+        "インサイダー取引"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150604587_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150604587",
+      "sourceCreatedAt": "2026-10-08T11:00:13.000Z"
+    },
+    {
       "id": "c424acf7",
       "filename": "pixiv_150605914_p0.jpg",
       "path": "uploads/2026/10/455056e9.jpg",
