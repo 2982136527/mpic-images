@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "64f7e4e3",
+      "filename": "pixiv_150638600_p0.jpg",
+      "path": "uploads/2026/10/7656ff02.jpg",
+      "size": 991166,
+      "width": 877,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "63ee5606f161b08a5e46e5075cdd360f7190ce4b098fe5ba536890d61aa528e1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T14:31:20.342Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "1009",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "陸八魔アル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150638600_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150638600",
+      "sourceCreatedAt": "2026-10-09T09:47:14.000Z"
+    },
+    {
       "id": "4377f6ad",
       "filename": "pixiv_150638577_p0.jpg",
       "path": "uploads/2026/10/578f1abf.jpg",
