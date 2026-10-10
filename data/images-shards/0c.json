@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "608f15d4",
+      "filename": "pixiv_150633338_p0.jpg",
+      "path": "uploads/2026/10/13cdcc62.jpg",
+      "size": 1019991,
+      "width": 800,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "4a5a4901043ffc8efcf8f04d3fe409ac44e31d43560c0906dd2d5a8794ce0b8e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:42:07.203Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "水着アベンチュリン",
+      "tags": [
+        "崩壊スターレイル",
+        "アベンチュリン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150633338_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150633338",
+      "sourceCreatedAt": "2026-10-09T06:40:26.000Z"
+    },
+    {
       "id": "67c687a5",
       "filename": "pixiv_150626130_p0.jpg",
       "path": "uploads/2026/10/8a6a9236.jpg",
