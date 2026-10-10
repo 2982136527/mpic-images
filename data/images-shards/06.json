@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "8107fcc8",
+      "filename": "pixiv_150650618_p0.jpg",
+      "path": "uploads/2026/10/264e8708.jpg",
+      "size": 1471191,
+      "width": 1056,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a5f382dc30e7671c1d0efd0e9911d2de8e0a2d321671ee6a6448fb8ba621178f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T19:59:39.547Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "サイダー・シンドローム",
+      "tags": [
+        "創作",
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150650618_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150650618",
+      "sourceCreatedAt": "2026-10-09T14:03:50.000Z"
+    },
+    {
       "id": "a3384a24",
       "filename": "pixiv_150617321_p0.jpg",
       "path": "uploads/2026/10/ee491a95.jpg",
