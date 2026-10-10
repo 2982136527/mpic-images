@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "54eece3d",
+      "filename": "pixiv_150647300_p0.jpg",
+      "path": "uploads/2026/10/d3b67ce1.jpg",
+      "size": 1961036,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "34a1254031a2c1fb9ff0968749cb76f359e4996fe31122fbeff1bf792d3cce6f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T14:25:22.248Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "あつまれ！動物の忍者さんたち",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "忍者",
+        "動物"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150647300_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150647300",
+      "sourceCreatedAt": "2026-10-09T12:56:04.000Z"
+    },
+    {
       "id": "1f0768fc",
       "filename": "pixiv_150629097_p0.jpg",
       "path": "uploads/2026/10/4efe9db8.jpg",
