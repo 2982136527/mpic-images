@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "5a01b44d",
+      "filename": "pixiv_150643943_p0.jpg",
+      "path": "uploads/2026/10/c68845f2.jpg",
+      "size": 1179335,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "34a5b41cd22e7bc2b080cba99f5634b6ba2556595993aa3623a4f92f507e8460",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:41:45.677Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "『猫とコーヒーときどき紅茶』店頭サイン本🐈🐾",
+      "tags": [
+        "猫",
+        "ねこ",
+        "cat",
+        "猫とコーヒーときどき紅茶"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150643943_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150643943",
+      "sourceCreatedAt": "2026-10-09T11:51:29.000Z"
+    },
+    {
       "id": "88e1b2e0",
       "filename": "pixiv_150544996_p0.jpg",
       "path": "uploads/2026/10/11771934.jpg",
