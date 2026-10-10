@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "0596883d",
+      "filename": "pixiv_150613586_p0.jpg",
+      "path": "uploads/2026/10/6f0171ae.jpg",
+      "size": 591719,
+      "width": 911,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "82793992600a8aa08eff2881ddb437e10c372db605dde2df5d6e744da1a07176",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T14:27:25.046Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "HUG Malfoid~",
+      "tags": [
+        "Malfoid",
+        "ハリーポッター",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150613586_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150613586",
+      "sourceCreatedAt": "2026-10-08T14:26:11.000Z"
+    },
+    {
       "id": "2c5b2163",
       "filename": "pixiv_150615063_p0.jpg",
       "path": "uploads/2026/10/6ea69760.jpg",
