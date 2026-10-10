@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "e052cab6",
+      "filename": "pixiv_150639569_p0.jpg",
+      "path": "uploads/2026/10/2438888c.jpg",
+      "size": 972225,
+      "width": 720,
+      "height": 720,
+      "mimeType": "image/jpeg",
+      "hash": "5073483c8282415b9b14fcba219ae4af721c5c77b54010aa99670f5adc0a46a7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T20:00:37.169Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Stepping on My Heart",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150639569_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150639569",
+      "sourceCreatedAt": "2026-10-09T10:09:03.000Z"
+    },
+    {
       "id": "e14023c0",
       "filename": "pixiv_150640608_p0.jpg",
       "path": "uploads/2026/10/cebf3939.jpg",
