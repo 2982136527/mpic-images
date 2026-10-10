@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "d4df2cfe",
+      "filename": "pixiv_150640979_p0.jpg",
+      "path": "uploads/2026/10/54eb39b7.jpg",
+      "size": 589437,
+      "width": 1179,
+      "height": 1155,
+      "mimeType": "image/jpeg",
+      "hash": "685a03b102967ae2fe930e8eb163015e32eb86be461d45735dae65848689466f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T14:28:10.407Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "せつじつに",
+      "tags": [
+        "オリジナル",
+        "多摩川コインロッカー▷"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150640979_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150640979",
+      "sourceCreatedAt": "2026-10-09T10:47:12.000Z"
+    },
+    {
       "id": "db25e731",
       "filename": "pixiv_150468645_p0.jpg",
       "path": "uploads/2026/10/aef27801.jpg",
