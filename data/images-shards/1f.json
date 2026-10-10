@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "bc05e990",
+      "filename": "pixiv_150639528_p0.jpg",
+      "path": "uploads/2026/10/caf56387.jpg",
+      "size": 1009645,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4a2ed2a74304ac8a9291a6fdeaece51b564145e2894ec69c7dc0117acdf0d48c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:40:52.237Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Mesa and Lulla 🎾",
+      "tags": [
+        "mesa",
+        "lulla",
+        "ランラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150639528_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150639528",
+      "sourceCreatedAt": "2026-10-09T10:08:09.000Z"
+    },
+    {
       "id": "c8517a25",
       "filename": "pixiv_150608230_p0.jpg",
       "path": "uploads/2026/10/892d884c.jpg",
