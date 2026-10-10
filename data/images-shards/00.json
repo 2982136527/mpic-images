@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "2d4a46dc",
+      "filename": "pixiv_150601120_p0.jpg",
+      "path": "uploads/2026/10/828dc334.jpg",
+      "size": 655704,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9feae729846a86ef65ff960f650325da0c39232d049b6643e6516ebb58f0ebb0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:41:38.599Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "MALFOID",
+      "tags": [
+        "MALFOID",
+        "ハリーポッター",
+        "女体化",
+        "ドラコ・マルフォイ",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150601120_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150601120",
+      "sourceCreatedAt": "2026-10-08T09:22:10.000Z"
+    },
+    {
       "id": "b5244109",
       "filename": "pixiv_150612431_p0.jpg",
       "path": "uploads/2026/10/920d2f8c.jpg",
