@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "2a6abbab",
+      "filename": "pixiv_150613989_p0.jpg",
+      "path": "uploads/2026/10/98513401.jpg",
+      "size": 703036,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b82df48792936aaf29d9db91fdc40c6a3cd8a7b3dbd22b64f26b02f00c2bcc41",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:45:53.282Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "방송에서 그린 이치카!",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "仲正イチカ",
+        "仲正イチカ(水着)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150613989_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150613989",
+      "sourceCreatedAt": "2026-10-08T14:35:46.000Z"
+    },
+    {
       "id": "78d667fa",
       "filename": "pixiv_150633115_p0.jpg",
       "path": "uploads/2026/10/d8ab95f3.jpg",
