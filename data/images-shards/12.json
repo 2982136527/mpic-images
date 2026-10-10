@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "481be244",
+      "filename": "pixiv_150423413_p0.jpg",
+      "path": "uploads/2026/10/327375d5.jpg",
+      "size": 1562313,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "20f938dd4c40f9b2b08097165aba9a84fab04552e507788667233a5b93d176b6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T14:32:07.127Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Fleeting",
+      "tags": [
+        "崩壊:スターレイル",
+        "ホタル(スターレイル)",
+        "崩壊:スターレイル1000users入り",
+        "崩壊:スターレイル5000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150423413_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150423413",
+      "sourceCreatedAt": "2026-10-03T16:07:37.000Z"
+    },
+    {
       "id": "af571911",
       "filename": "pixiv_150618824_p0.jpg",
       "path": "uploads/2026/10/96a688d3.jpg",
