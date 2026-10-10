@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "289c4680",
+      "filename": "pixiv_150616804_p0.jpg",
+      "path": "uploads/2026/10/83a7b32d.jpg",
+      "size": 850242,
+      "width": 1200,
+      "height": 1020,
+      "mimeType": "image/jpeg",
+      "hash": "9b8cfe0bc792db47c1b4fd30055ee3b8414c5b2d93a40e3eda2e94914dc0e640",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T20:08:27.928Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ダンツさん",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "ダンツフレーム(ウマ娘)",
+        "ビキニ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150616804_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150616804",
+      "sourceCreatedAt": "2026-10-08T15:31:16.000Z"
+    },
+    {
       "id": "93b51ffa",
       "filename": "pixiv_150585433_p0.jpg",
       "path": "uploads/2026/10/6c7d65f9.jpg",
