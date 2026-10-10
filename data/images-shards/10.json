@@ -3,6 +3,33 @@
   "shardId": "10",
   "images": [
     {
+      "id": "382b9217",
+      "filename": "pixiv_150599732_p0.jpg",
+      "path": "uploads/2026/10/c628642f.jpg",
+      "size": 984789,
+      "width": 768,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f11e789c95787dff592ec684f06ecbcd24f8ae1b87293972e39583a1a9950b0e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:43:05.868Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "キキョウ",
+      "tags": [
+        "女の子",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "キキョウ(ブルーアーカイブ)",
+        "桐生キキョウ",
+        "高跟鞋"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150599732_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150599732",
+      "sourceCreatedAt": "2026-10-08T08:40:22.000Z"
+    },
+    {
       "id": "38074a15",
       "filename": "pixiv_150578384_p0.jpg",
       "path": "uploads/2026/10/9d5c3b5c.jpg",
