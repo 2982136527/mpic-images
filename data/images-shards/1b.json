@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "926a8073",
+      "filename": "pixiv_150644938_p0.jpg",
+      "path": "uploads/2026/10/77db0bad.jpg",
+      "size": 618923,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ebe90298e19efd874d89057cc9ac81d16c6f5a2cd263631926bec2bcccfb7b8b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:42:43.939Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "フラン",
+      "tags": [
+        "東方Project",
+        "東方",
+        "フランドール・スカーレット",
+        "フラン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150644938_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150644938",
+      "sourceCreatedAt": "2026-10-09T12:06:10.000Z"
+    },
+    {
       "id": "9f71c5e6",
       "filename": "pixiv_150615044_p0.jpg",
       "path": "uploads/2026/10/e2b01438.jpg",
