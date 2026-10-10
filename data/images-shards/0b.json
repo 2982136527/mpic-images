@@ -3,6 +3,33 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "bcca6a53",
+      "filename": "pixiv_150641500_p0.jpg",
+      "path": "uploads/2026/10/74d5db38.jpg",
+      "size": 1162838,
+      "width": 835,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1ee6ce820f514369851a6cde8ddc7da868cc0bafa5b2bf65fd1483a1aef587da",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:45:46.345Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "お前もロングになるんだよ！",
+      "tags": [
+        "漫画",
+        "にじさんじ",
+        "星導ショウ",
+        "叢雲カゲツ",
+        "小柳ロウ",
+        "伊波ライ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150641500_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150641500",
+      "sourceCreatedAt": "2026-10-09T11:00:25.000Z"
+    },
+    {
       "id": "5ff413e3",
       "filename": "pixiv_150610869_p0.jpg",
       "path": "uploads/2026/10/914cb9f5.jpg",
