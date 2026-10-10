@@ -3,6 +3,34 @@
   "shardId": "07",
   "images": [
     {
+      "id": "c4bddaf0",
+      "filename": "pixiv_150609321_p0.jpg",
+      "path": "uploads/2026/10/795eeedc.jpg",
+      "size": 870616,
+      "width": 703,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "faf9bbcf4c8c8adcfd626890cf53fc061c6d92345a6bb9a288686d628fb251fc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T20:05:00.969Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ワンダー",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "女の子",
+        "ワンダー",
+        "r-906",
+        "HatsuneMiku",
+        "ボカロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150609321_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150609321",
+      "sourceCreatedAt": "2026-10-08T12:47:44.000Z"
+    },
+    {
       "id": "c46de5de",
       "filename": "pixiv_150616103_p0.jpg",
       "path": "uploads/2026/10/79f8cf2f.jpg",
