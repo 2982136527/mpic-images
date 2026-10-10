@@ -3,6 +3,35 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "2cf0e3a4",
+      "filename": "pixiv_150625495_p0.jpg",
+      "path": "uploads/2026/10/c75299d6.jpg",
+      "size": 708356,
+      "width": 956,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "72dccd0e3310f60553d6cabcd761f4d2e556c08a4697b1ddeb6f75f01c06a55b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:44:21.960Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Nurse Mirko",
+      "tags": [
+        "僕のヒーローアカデミア",
+        "ミルコ",
+        "兎山ルミミルコ(僕のヒーローアカデミア)",
+        "兎山ルミ",
+        "ラビットヒーロー",
+        "僕のヒーローアカデミア1000users入り",
+        "褐色",
+        "ナース"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150625495_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150625495",
+      "sourceCreatedAt": "2026-10-08T23:18:26.000Z"
+    },
+    {
       "id": "06987d2e",
       "filename": "pixiv_150601519_p0.jpg",
       "path": "uploads/2026/10/a5ea02c4.jpg",
