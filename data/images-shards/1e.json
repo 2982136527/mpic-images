@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "832d7f88",
+      "filename": "pixiv_150601909_p0.jpg",
+      "path": "uploads/2026/10/f9d12e30.jpg",
+      "size": 628583,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fb9bc351b45ed8c554c533b547867d4b8716f5f4594349c03d903920df2825b5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T20:02:31.661Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "艾希",
+      "tags": [
+        "女孩子",
+        "艾希",
+        "艾希ICEY",
+        "ICEY"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150601909_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150601909",
+      "sourceCreatedAt": "2026-10-08T09:46:44.000Z"
+    },
+    {
       "id": "81a866fc",
       "filename": "pixiv_150606004_p0.jpg",
       "path": "uploads/2026/10/3da0b39f.jpg",
