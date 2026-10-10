@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "d8f6a98c",
+      "filename": "pixiv_150604582_p0.jpg",
+      "path": "uploads/2026/10/16020319.jpg",
+      "size": 902294,
+      "width": 854,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "916ee6e73d6d99d5eb4ebe9e4e5d8776614bbb34bffee42c368d02d9cb049271",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:45:02.733Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "10월 리퀘스트 엘렌 조",
+      "tags": [
+        "ZenlessZoneZero",
+        "エレン・ジョー",
+        "でかぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150604582_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150604582",
+      "sourceCreatedAt": "2026-10-08T11:00:13.000Z"
+    },
+    {
       "id": "4386c9e0",
       "filename": "pixiv_150609292_p0.jpg",
       "path": "uploads/2026/10/b730cbf9.jpg",
