@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "0e305901",
+      "filename": "pixiv_150601749_p0.jpg",
+      "path": "uploads/2026/10/77081678.jpg",
+      "size": 839548,
+      "width": 795,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "44e7378a4b483db8ee7f12862f896120e99f8f5f8d6fa44a1c3c5f974826a135",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T14:26:42.011Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "-",
+      "tags": [
+        "鸣潮",
+        "WutheringWaves",
+        "弗洛洛",
+        "Phrolova",
+        "フローヴァ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150601749_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150601749",
+      "sourceCreatedAt": "2026-10-08T09:41:05.000Z"
+    },
+    {
       "id": "ac5dd732",
       "filename": "pixiv_150554122_p0.jpg",
       "path": "uploads/2026/10/b91c303e.jpg",
