@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "9c295aac",
+      "filename": "pixiv_150615667_p0.jpg",
+      "path": "uploads/2026/10/04f8bac6.jpg",
+      "size": 681583,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7b23a211aa1ae936ceacfb3d7e67895b835ca42ad9ca2de293d9b9abec4131ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:42:36.568Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ゼンゼロ",
+      "tags": [
+        "アリア(ゼンゼロ)",
+        "アリア",
+        "妄想エンジェル",
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150615667_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150615667",
+      "sourceCreatedAt": "2026-10-08T15:06:14.000Z"
+    },
+    {
       "id": "ca481d0b",
       "filename": "pixiv_150586516_p0.jpg",
       "path": "uploads/2026/10/571a4fe8.jpg",
