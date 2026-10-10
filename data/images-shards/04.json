@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "676dd5be",
+      "filename": "pixiv_150585614_p0.jpg",
+      "path": "uploads/2026/10/3d9905f9.jpg",
+      "size": 308359,
+      "width": 700,
+      "height": 953,
+      "mimeType": "image/jpeg",
+      "hash": "7982254e9f20671764468e5203e56111ed09dfd8bb4b1d8f0d537c12d07a65cf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T20:05:13.924Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "最近描いた絵とか",
+      "tags": [
+        "ブルーアーカイブ",
+        "板垣カノエ",
+        "エプロン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150585614_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150585614",
+      "sourceCreatedAt": "2026-10-07T19:27:31.000Z"
+    },
+    {
       "id": "5b96cc23",
       "filename": "pixiv_150629803_p0.jpg",
       "path": "uploads/2026/10/2ab7e8cf.jpg",
