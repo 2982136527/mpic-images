@@ -3,6 +3,33 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "d2052fcb",
+      "filename": "pixiv_150601288_p0.jpg",
+      "path": "uploads/2026/10/2598a440.jpg",
+      "size": 843630,
+      "width": 735,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3848468483a8593db09b661c611aa5676f85c7792dce270f3149e737cfd31740",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:40:45.389Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "リリー",
+      "tags": [
+        "リリー",
+        "リリー(鳴潮)",
+        "WutheringWaves",
+        "鸣潮",
+        "Lily",
+        "鳴潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150601288_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150601288",
+      "sourceCreatedAt": "2026-10-08T09:28:05.000Z"
+    },
+    {
       "id": "db39e09e",
       "filename": "pixiv_150567780_p0.jpg",
       "path": "uploads/2026/10/8af927c7.jpg",
