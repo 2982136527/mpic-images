@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "8fcff2fe",
+      "filename": "pixiv_150427101_p0.jpg",
+      "path": "uploads/2026/10/e8b50325.jpg",
+      "size": 598103,
+      "width": 725,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9a6a7eac5e41ead9e85820de850e1f790db265aace66cbcfb25c7da2c00af197",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T14:32:32.345Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "にょたフォイ",
+      "tags": [
+        "マルフォイ",
+        "♀ドラコ",
+        "Malfoid",
+        "ドヤるフォイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150427101_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150427101",
+      "sourceCreatedAt": "2026-10-03T18:43:53.000Z"
+    },
+    {
       "id": "362e530c",
       "filename": "pixiv_150640455_p0.jpg",
       "path": "uploads/2026/10/a33e7fa0.jpg",
