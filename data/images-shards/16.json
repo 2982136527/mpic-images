@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "bedb4984",
+      "filename": "pixiv_150639326_p0.jpg",
+      "path": "uploads/2026/10/72f848b7.jpg",
+      "size": 669912,
+      "width": 959,
+      "height": 915,
+      "mimeType": "image/jpeg",
+      "hash": "318c1e104c50e9adb962695ce3fc453eb8228cf7501c4e54a6ad5e82bc047f24",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:46:36.179Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "宵崎奏さん(とネコ)",
+      "tags": [
+        "宵崎奏",
+        "プロセカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150639326_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150639326",
+      "sourceCreatedAt": "2026-10-09T10:02:53.000Z"
+    },
+    {
       "id": "141d2aad",
       "filename": "pixiv_150615086_p0.jpg",
       "path": "uploads/2026/10/0894cb3e.jpg",
