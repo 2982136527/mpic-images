@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "38d199b0",
+      "filename": "pixiv_150624704_p0.jpg",
+      "path": "uploads/2026/10/4613ded4.jpg",
+      "size": 1066057,
+      "width": 1200,
+      "height": 853,
+      "mimeType": "image/jpeg",
+      "hash": "ff3e4bf3056d0f2a9dcebe7fea45a8599a4e2c7dc404deaa958a69099452cefe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T19:59:24.593Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "生きていない私のパレード",
+      "tags": [
+        "創作",
+        "ハロウィン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150624704_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150624704",
+      "sourceCreatedAt": "2026-10-08T22:30:06.000Z"
+    },
+    {
       "id": "5354ebb2",
       "filename": "pixiv_150609494_p0.jpg",
       "path": "uploads/2026/10/bb7fdfd5.jpg",
