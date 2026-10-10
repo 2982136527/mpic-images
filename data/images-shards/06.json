@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "e3b2b15b",
+      "filename": "pixiv_150626298_p0.jpg",
+      "path": "uploads/2026/10/4df91bb7.jpg",
+      "size": 617813,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "145b382b0f46aa5258d3ae1b470271453f7d609b339fa8da7223ef68b26f71f1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T20:04:04.626Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Eyepatch & Coffee",
+      "tags": [
+        "EUDETENIS",
+        "CLIPSTUDIOPAINT",
+        "オリジナル",
+        "コーヒー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150626298_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150626298",
+      "sourceCreatedAt": "2026-10-09T12:11:18.000Z"
+    },
+    {
       "id": "8107fcc8",
       "filename": "pixiv_150650618_p0.jpg",
       "path": "uploads/2026/10/264e8708.jpg",
