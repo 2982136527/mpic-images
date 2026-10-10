@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "af571911",
+      "filename": "pixiv_150618824_p0.jpg",
+      "path": "uploads/2026/10/96a688d3.jpg",
+      "size": 1732165,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "095d5bcf36529dc58d6e5e604c89879853ee4813971e52c398622687ca267bd1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T14:30:26.716Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "メイドちゃん",
+      "tags": [
+        "オリジナル",
+        "コピック",
+        "アナログ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150618824_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150618824",
+      "sourceCreatedAt": "2026-10-08T16:39:13.000Z"
+    },
+    {
       "id": "40ae72d6",
       "filename": "pixiv_150608514_p0.jpg",
       "path": "uploads/2026/10/ded87aba.jpg",
