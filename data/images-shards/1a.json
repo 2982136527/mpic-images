@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "78d667fa",
+      "filename": "pixiv_150633115_p0.jpg",
+      "path": "uploads/2026/10/d8ab95f3.jpg",
+      "size": 1145932,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0eda23743d364ab48367160fe3357f50a75395dece9070d6368ef055609f1efa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:42:50.876Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "海",
+      "tags": [
+        "少女",
+        "女の子",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150633115_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150633115",
+      "sourceCreatedAt": "2026-10-09T06:30:16.000Z"
+    },
+    {
       "id": "6a636e14",
       "filename": "pixiv_150607069_p0.jpg",
       "path": "uploads/2026/10/2375cb18.jpg",
