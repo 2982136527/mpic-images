@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "fa9dda76",
+      "filename": "pixiv_150589617_p0.jpg",
+      "path": "uploads/2026/10/d15aa663.jpg",
+      "size": 1491565,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3cdf70c7aa91917216050a8dd45e5ce2a010dc9b511a2e18314c45d8dc05c768",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:46:14.473Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "さくなちゃん",
+      "tags": [
+        "さくなあーと",
+        "VTuber",
+        "結城さくな"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150589617_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150589617",
+      "sourceCreatedAt": "2026-10-07T23:37:41.000Z"
+    },
+    {
       "id": "54067e0f",
       "filename": "pixiv_150641086_p0.jpg",
       "path": "uploads/2026/10/3c6b6634.jpg",
