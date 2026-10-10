@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "ca481d0b",
+      "filename": "pixiv_150586516_p0.jpg",
+      "path": "uploads/2026/10/571a4fe8.jpg",
+      "size": 1071219,
+      "width": 1200,
+      "height": 770,
+      "mimeType": "image/jpeg",
+      "hash": "966b43ccfeb8367f2c5d0c586d39fb51e77703ac6e3b2347011250fdb0c0e5cf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:39:33.441Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🎃",
+      "tags": [
+        "original",
+        "HALLOWEEN",
+        "側面全裸"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150586516_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150586516",
+      "sourceCreatedAt": "2026-10-07T20:42:47.000Z"
+    },
+    {
       "id": "fc8132e4",
       "filename": "pixiv_150640069_p0.jpg",
       "path": "uploads/2026/10/90b09ff6.jpg",
