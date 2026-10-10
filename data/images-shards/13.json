@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "e45426a7",
+      "filename": "pixiv_150621335_p0.jpg",
+      "path": "uploads/2026/10/4c86c0f4.jpg",
+      "size": 970676,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "420ec0706b60d06c145f3a467377bb9194b3b8d413d439e005503fbb985f4d3d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:45:24.795Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Lily",
+      "tags": [
+        "WutheringWaves",
+        "Lily",
+        "鸣潮"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150621335_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150621335",
+      "sourceCreatedAt": "2026-10-08T18:50:27.000Z"
+    },
+    {
       "id": "86042f94",
       "filename": "pixiv_150579564_p0.jpg",
       "path": "uploads/2026/10/16002286.jpg",
