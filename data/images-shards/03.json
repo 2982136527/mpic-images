@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "30dfb2e8",
+      "filename": "pixiv_150591371_p0.jpg",
+      "path": "uploads/2026/10/fcf5b3b5.jpg",
+      "size": 500728,
+      "width": 643,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0fb3e348edf6890c9c61ef395d160f9d5a0d8271e4d2c02e5cc2df40c69f221f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:43:28.163Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ドラコ・マルフォイ",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150591371_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150591371",
+      "sourceCreatedAt": "2026-10-08T01:23:13.000Z"
+    },
+    {
       "id": "03352ad0",
       "filename": "pixiv_150612222_p0.jpg",
       "path": "uploads/2026/10/b3128ae0.jpg",
