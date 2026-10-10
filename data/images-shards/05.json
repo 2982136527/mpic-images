@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "462b805b",
+      "filename": "pixiv_150605618_p0.jpg",
+      "path": "uploads/2026/10/e2a287d8.jpg",
+      "size": 797189,
+      "width": 844,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4eb529dee2b947f9b07295b8ee6b1c1faad6579149c804255ba1d96d85f300cf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T14:25:35.448Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "KENZEN⑤",
+      "tags": [
+        "ペルソナ4",
+        "白鐘直斗",
+        "久慈川りせ",
+        "主直"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150605618_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150605618",
+      "sourceCreatedAt": "2026-10-08T11:23:14.000Z"
+    },
+    {
       "id": "612f09f6",
       "filename": "pixiv_150618690_p0.jpg",
       "path": "uploads/2026/10/5723b579.jpg",
