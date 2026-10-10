@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "b4d39f6c",
+      "filename": "pixiv_150433732_p0.jpg",
+      "path": "uploads/2026/10/4e23b155.jpg",
+      "size": 1208583,
+      "width": 876,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8ab36c1f4c9074d4bf07d5decdd109eebf89721c82f0f7e9af272a87b79d10af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T20:05:47.983Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "star travelers",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "創作",
+        "宇宙"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150433732_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150433732",
+      "sourceCreatedAt": "2026-10-04T01:00:12.000Z"
+    },
+    {
       "id": "7623416c",
       "filename": "pixiv_150599528_p0.jpg",
       "path": "uploads/2026/10/adf0330e.jpg",
