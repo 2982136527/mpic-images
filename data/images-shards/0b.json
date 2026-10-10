@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "7adcd0f0",
+      "filename": "pixiv_150615098_p0.jpg",
+      "path": "uploads/2026/10/c628304e.jpg",
+      "size": 1734558,
+      "width": 871,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9cd565d0330194dcea004b3bafebc899d32236c783194ec6077b8f6a9ebc0a35",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T14:25:52.646Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "坂城羽莉",
+      "tags": [
+        "坂城羽莉",
+        "仕事絵",
+        "チュウニズム"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150615098_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150615098",
+      "sourceCreatedAt": "2026-10-08T15:00:28.000Z"
+    },
+    {
       "id": "bcca6a53",
       "filename": "pixiv_150641500_p0.jpg",
       "path": "uploads/2026/10/74d5db38.jpg",
