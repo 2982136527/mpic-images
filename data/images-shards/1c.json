@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "ff7a8bcb",
+      "filename": "pixiv_150579049_p0.jpg",
+      "path": "uploads/2026/10/dcb4c461.jpg",
+      "size": 989103,
+      "width": 780,
+      "height": 1012,
+      "mimeType": "image/jpeg",
+      "hash": "741ac66d41f8a528f85cee1af322f2dad0f786d548689fad7b349d4da9f6d333",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:38:55.411Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "HOWLRING",
+      "tags": [
+        "オリジナル",
+        "HOWLRING",
+        "Lir",
+        "Howlring",
+        "オリジナル1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150579049_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150579049",
+      "sourceCreatedAt": "2026-10-07T15:00:38.000Z"
+    },
+    {
       "id": "bcb4fe9d",
       "filename": "pixiv_150545399_p0.jpg",
       "path": "uploads/2026/10/e96a8a72.jpg",
