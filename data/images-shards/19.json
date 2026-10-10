@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "d0fcc552",
+      "filename": "pixiv_150637431_p0.jpg",
+      "path": "uploads/2026/10/924403e3.jpg",
+      "size": 988675,
+      "width": 862,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6c44652a22e9f95775c12a4492d05ad916ff131b4633849f599cd71510a82f15",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T19:59:56.145Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "VOCALOID7 Voicebank AI Megpoid",
+      "tags": [
+        "VOCALOID",
+        "GUMI"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150637431_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150637431",
+      "sourceCreatedAt": "2026-10-09T09:12:37.000Z"
+    },
+    {
       "id": "4241d18d",
       "filename": "pixiv_150585104_p0.jpg",
       "path": "uploads/2026/10/767d7b39.jpg",
