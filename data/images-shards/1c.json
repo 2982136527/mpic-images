@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "377ec8c3",
+      "filename": "pixiv_150640521_p0.jpg",
+      "path": "uploads/2026/10/a9f52c10.jpg",
+      "size": 915297,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "470f0caebe907d19cc33e1311e61388f1c5681a04fa05ecff51a5ceb1be5fa01",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T14:27:11.548Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "見えない言えない聞こえない",
+      "tags": [
+        "めめ村"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150640521_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150640521",
+      "sourceCreatedAt": "2026-10-09T10:34:33.000Z"
+    },
+    {
       "id": "ff7a8bcb",
       "filename": "pixiv_150579049_p0.jpg",
       "path": "uploads/2026/10/dcb4c461.jpg",
