@@ -3,6 +3,31 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "97515a27",
+      "filename": "pixiv_150403762_p0.jpg",
+      "path": "uploads/2026/10/c40e0bc6.jpg",
+      "size": 811300,
+      "width": 843,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "347d7230c536e92c8c8626afedb070c7f329dc73424101e70543e5e9c15f13b4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T20:09:08.522Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "「見つけた。」",
+      "tags": [
+        "オリジナル",
+        "微生物",
+        "美生物",
+        "微少女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150403762_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150403762",
+      "sourceCreatedAt": "2026-10-03T08:56:11.000Z"
+    },
+    {
       "id": "b4d39f6c",
       "filename": "pixiv_150433732_p0.jpg",
       "path": "uploads/2026/10/4e23b155.jpg",
