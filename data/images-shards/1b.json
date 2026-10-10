@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "39691bed",
+      "filename": "pixiv_150580473_p0.jpg",
+      "path": "uploads/2026/10/4613f824.jpg",
+      "size": 785570,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4cc6073dd95977a2a05dfa6ffce10a0dc6983d81650038567a89abf02b2a5c66",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T20:02:01.553Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "学生ギペコ",
+      "tags": [
+        "ホロライブ",
+        "VTuber",
+        "hololive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150580473_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150580473",
+      "sourceCreatedAt": "2026-10-07T15:30:02.000Z"
+    },
+    {
       "id": "06b261e3",
       "filename": "pixiv_150644494_p0.jpg",
       "path": "uploads/2026/10/82158173.jpg",
