@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "d5a7971a",
+      "filename": "pixiv_150625228_p0.jpg",
+      "path": "uploads/2026/10/47cd8964.jpg",
+      "size": 341039,
+      "width": 1056,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "15a9efd8456bc642ee56023cf6a9b2bcd0a49d0fc3a7529a03ac7bd2af847902",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:42:14.372Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "『多摩川コインロッカー▷』1-3",
+      "tags": [
+        "オリジナル",
+        "多摩川コインロッカー▷"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150625228_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150625228",
+      "sourceCreatedAt": "2026-10-08T23:00:32.000Z"
+    },
+    {
       "id": "748f4657",
       "filename": "pixiv_150637429_p0.jpg",
       "path": "uploads/2026/10/321ed530.jpg",
