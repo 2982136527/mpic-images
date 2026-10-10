@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "4386c9e0",
+      "filename": "pixiv_150609292_p0.jpg",
+      "path": "uploads/2026/10/b730cbf9.jpg",
+      "size": 547439,
+      "width": 817,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d71792b28b3092799357526cda8337c2bd83bad240e2d48c579b0c5cb74a9ff0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:44:00.770Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "アークナイツ",
+        "アーミヤ(アークナイツ)",
+        "明日方舟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150609292_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150609292",
+      "sourceCreatedAt": "2026-10-08T12:47:05.000Z"
+    },
+    {
       "id": "7ff10585",
       "filename": "pixiv_150599627_p0.jpg",
       "path": "uploads/2026/10/29f069fc.jpg",
