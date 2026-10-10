@@ -3,6 +3,37 @@
   "shardId": "04",
   "images": [
     {
+      "id": "ec5f92f7",
+      "filename": "pixiv_150638803_p0.jpg",
+      "path": "uploads/2026/10/d6d8f86b.jpg",
+      "size": 688100,
+      "width": 1200,
+      "height": 727,
+      "mimeType": "image/jpeg",
+      "hash": "f004dd5fe4f3391e3fce0c410242ce111b40992fb23500943777198bcc461d1a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T05:46:00.274Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "What is wrong with you?",
+      "tags": [
+        "VOCALOID",
+        "UTAU",
+        "重音テト",
+        "teto",
+        "KasaneTeto",
+        "テト",
+        "初音ミク",
+        "HatsuneMiku",
+        "ミク",
+        "Miku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150638803_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150638803",
+      "sourceCreatedAt": "2026-10-09T09:53:32.000Z"
+    },
+    {
       "id": "c5519f77",
       "filename": "pixiv_150569318_p0.jpg",
       "path": "uploads/2026/10/5a946555.jpg",
