@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "cf833257",
+      "filename": "pixiv_150578980_p0.jpg",
+      "path": "uploads/2026/10/45a2c596.jpg",
+      "size": 1792595,
+      "width": 1200,
+      "height": 676,
+      "mimeType": "image/jpeg",
+      "hash": "73ae8322228d0e112cc4794a0c4ce0e3c9724a5d0dae549b07f8ee2499b3d1e2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T19:59:30.912Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "依頼絵",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150578980_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150578980",
+      "sourceCreatedAt": "2026-10-07T15:00:27.000Z"
+    },
+    {
       "id": "ce4eed52",
       "filename": "pixiv_150583187_p0.jpg",
       "path": "uploads/2026/10/578c5731.jpg",
