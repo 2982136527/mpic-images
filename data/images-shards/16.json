@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "6bba5706",
+      "filename": "pixiv_150610470_p0.jpg",
+      "path": "uploads/2026/10/1dc2a438.jpg",
+      "size": 818815,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f9960d46a0df9da097f7ad2baefe9d1917a0aef5e4ee0b19fee741e16cd0adc7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T20:02:46.113Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Agitatoのひろちな",
+      "tags": [
+        "学園アイドルマスター",
+        "学マス",
+        "篠澤広",
+        "倉本千奈"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150610470_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150610470",
+      "sourceCreatedAt": "2026-10-08T13:12:32.000Z"
+    },
+    {
       "id": "c1a0f5f6",
       "filename": "pixiv_150591627_p0.jpg",
       "path": "uploads/2026/10/59b4dd24.jpg",
