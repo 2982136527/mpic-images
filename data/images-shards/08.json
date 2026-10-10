@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "4e9ea72f",
+      "filename": "pixiv_150594480_p0.jpg",
+      "path": "uploads/2026/10/06065ad3.jpg",
+      "size": 1453812,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "be5e829bfd26291d5f1a9e74335ac58ef3f3ff650d98c4528ac0837297d620ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-10T20:03:35.366Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "『…擬似記憶インプット中…』",
+      "tags": [
+        "女の子",
+        "セーラー服",
+        "近未来",
+        "アンドロイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150594480_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150594480",
+      "sourceCreatedAt": "2026-10-08T04:10:27.000Z"
+    },
+    {
       "id": "8fcff2fe",
       "filename": "pixiv_150427101_p0.jpg",
       "path": "uploads/2026/10/e8b50325.jpg",
