@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "173932fa",
+      "filename": "pixiv_150640643_p0.jpg",
+      "path": "uploads/2026/10/04da7888.jpg",
+      "size": 675362,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4a59bc30bf66a13fd9c1ec2d838b19ad8bb30570cbf7bb65fafe8fdddec2df15",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:58:56.141Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "しなのちゃん",
+      "tags": [
+        "VRChat",
+        "しなの",
+        "しなの(ポンデロニウム研究所)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150640643_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150640643",
+      "sourceCreatedAt": "2026-10-09T10:37:30.000Z"
+    },
+    {
       "id": "c9a11afb",
       "filename": "pixiv_150644551_p0.jpg",
       "path": "uploads/2026/10/27dce8a3.jpg",
