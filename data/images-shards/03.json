@@ -3,6 +3,35 @@
   "shardId": "03",
   "images": [
     {
+      "id": "d909c1fc",
+      "filename": "pixiv_150637315_p0.jpg",
+      "path": "uploads/2026/10/ba038265.jpg",
+      "size": 894064,
+      "width": 794,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "de7348ef3a9f178571fe114dfa1f8b51c828e33e28f9fac933d83c9fe4da05f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:37:39.940Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "米守り",
+      "tags": [
+        "和風",
+        "擬人化",
+        "妖怪",
+        "ファンタジー",
+        "オリジナル",
+        "女性",
+        "キャラクター",
+        "動物"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150637315_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150637315",
+      "sourceCreatedAt": "2026-10-09T09:09:01.000Z"
+    },
+    {
       "id": "02a6ec27",
       "filename": "pixiv_150674053_p0.jpg",
       "path": "uploads/2026/10/3d4c07ef.jpg",
