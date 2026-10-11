@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "a631769d",
+      "filename": "pixiv_150679624_p0.jpg",
+      "path": "uploads/2026/10/fef5c485.jpg",
+      "size": 629152,
+      "width": 901,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "42c008778a206501406a4222a3e401f5675a3468ee72eff4b141ded0134d3cf5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T20:16:17.403Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "テトの日2026",
+        "重音テト",
+        "足立レイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150679624_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150679624",
+      "sourceCreatedAt": "2026-10-10T08:41:19.000Z"
+    },
+    {
       "id": "06e4a8b2",
       "filename": "pixiv_150670497_p0.jpg",
       "path": "uploads/2026/10/ccdc572a.jpg",
