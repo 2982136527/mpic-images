@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "c9a11afb",
+      "filename": "pixiv_150644551_p0.jpg",
+      "path": "uploads/2026/10/27dce8a3.jpg",
+      "size": 553389,
+      "width": 892,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5fc12eacfba22989c54f77866643b01a1b168b5645ccc208175ee3f622eb34b0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:55:21.215Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "303. 目玉眼帯",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "1日1枚"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150644551_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150644551",
+      "sourceCreatedAt": "2026-10-09T12:01:13.000Z"
+    },
+    {
       "id": "dc6bab3f",
       "filename": "pixiv_150624702_p0.jpg",
       "path": "uploads/2026/10/b2c1c6a3.jpg",
