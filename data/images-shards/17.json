@@ -3,6 +3,32 @@
   "shardId": "17",
   "images": [
     {
+      "id": "bb0feaff",
+      "filename": "pixiv_150630313_p0.jpg",
+      "path": "uploads/2026/10/806f1b16.jpg",
+      "size": 883886,
+      "width": 752,
+      "height": 1062,
+      "mimeType": "image/jpeg",
+      "hash": "00a109a57a430a3fd5423b287afb1031b70476edf5937d4ee35aeecfbc8916bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:56:16.122Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Inktober Monsters 2024 A",
+      "tags": [
+        "OKKO",
+        "EEnE",
+        "Simpson",
+        "Phineasandferb",
+        "FOP"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150630313_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150630313",
+      "sourceCreatedAt": "2026-10-09T03:53:12.000Z"
+    },
+    {
       "id": "e8ddb4f6",
       "filename": "pixiv_150682403_p0.jpg",
       "path": "uploads/2026/10/91efa8f3.jpg",
