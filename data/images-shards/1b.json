@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "a71fadeb",
+      "filename": "pixiv_150684771_p0.jpg",
+      "path": "uploads/2026/10/99d9f41b.jpg",
+      "size": 1836370,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "68b145862a62852102001626961a6135d9dc4d46feb33ca8a49306b49acef003",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:57:03.393Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "道路沿いの花園",
+      "tags": [
+        "オリジナル",
+        "イラスト",
+        "花",
+        "側溝",
+        "風景",
+        "オリジナル100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150684771_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150684771",
+      "sourceCreatedAt": "2026-10-10T10:49:01.000Z"
+    },
+    {
       "id": "c6d29bd3",
       "filename": "pixiv_150675458_p0.jpg",
       "path": "uploads/2026/10/a2d31e49.jpg",
