@@ -3,6 +3,29 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "f0123f63",
+      "filename": "pixiv_150641056_p0.jpg",
+      "path": "uploads/2026/10/b3a31bd8.jpg",
+      "size": 1587845,
+      "width": 1176,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0308d45bdcc601cc73c50c83119581dbf7051500f9db6f75f709762c610f33cd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T15:00:54.097Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "キャラ設定ぽいらくがき",
+      "tags": [
+        "R-18",
+        "ショタ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150641056_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150641056",
+      "sourceCreatedAt": "2026-10-09T10:49:10.000Z"
+    },
+    {
       "id": "0bcf4417",
       "filename": "pixiv_150682973_p0.jpg",
       "path": "uploads/2026/10/d0ecbc96.jpg",
