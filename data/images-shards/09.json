@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "60c745d3",
+      "filename": "pixiv_150677944_p0.jpg",
+      "path": "uploads/2026/10/ef54e58e.jpg",
+      "size": 668296,
+      "width": 778,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "12305e970b2ddd432865d0bd42b689c5626ec19bcf1a678396430353e574feb2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:35:23.963Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "拝啓、スタートライン",
+      "tags": [
+        "ぶいすぽ",
+        "橘ひなの",
+        "ぶいすぽっ!",
+        "拝啓、スタートライン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150677944_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150677944",
+      "sourceCreatedAt": "2026-10-10T07:54:43.000Z"
+    },
+    {
       "id": "28768418",
       "filename": "pixiv_150653623_p0.jpg",
       "path": "uploads/2026/10/21469919.jpg",
