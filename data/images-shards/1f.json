@@ -3,6 +3,28 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "654e5cfc",
+      "filename": "pixiv_150656656_p0.jpg",
+      "path": "uploads/2026/10/45f200d1.jpg",
+      "size": 1561667,
+      "width": 1200,
+      "height": 861,
+      "mimeType": "image/jpeg",
+      "hash": "d9c12456050ea654a15a5f145884dd1e91c3884699b461e0430d01830b3c65a1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T20:16:05.777Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "仮住詰12",
+      "tags": [
+        "さるいお"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150656656_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150656656",
+      "sourceCreatedAt": "2026-10-09T16:11:51.000Z"
+    },
+    {
       "id": "97b67a2b",
       "filename": "pixiv_150615903_p0.jpg",
       "path": "uploads/2026/10/d1fb2df4.jpg",
