@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "b7eca901",
+      "filename": "pixiv_150682309_p0.jpg",
+      "path": "uploads/2026/10/4778064e.jpg",
+      "size": 858059,
+      "width": 915,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3deff5964db2dff1be69260de7a99b48990d8d5144362af1c11d923a90b5a309",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:38:28.921Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "pkmnまとめ㉜",
+      "tags": [
+        "セイカラ",
+        "女体化",
+        "男体化"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150682309_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150682309",
+      "sourceCreatedAt": "2026-10-10T09:48:31.000Z"
+    },
+    {
       "id": "da084724",
       "filename": "pixiv_150630686_p0.jpg",
       "path": "uploads/2026/10/1bf1906a.jpg",
