@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "7a2b1ca3",
+      "filename": "pixiv_150626999_p0.jpg",
+      "path": "uploads/2026/10/639ecc92.jpg",
+      "size": 765436,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "c3f60e579f681da85a70d5653770fe314461bd977d4cfa1cf673599d15c98689",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:35:57.159Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "愛されかぐやちゃん",
+      "tags": [
+        "超かぐや姫!",
+        "かぐや(超かぐや姫!)",
+        "酒寄彩葉",
+        "いろかぐヤチ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150626999_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150626999",
+      "sourceCreatedAt": "2026-10-09T00:51:53.000Z"
+    },
+    {
       "id": "db55365b",
       "filename": "pixiv_150676702_p0.jpg",
       "path": "uploads/2026/10/59d1cd9a.jpg",
