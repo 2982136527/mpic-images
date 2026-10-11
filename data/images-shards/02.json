@@ -3,6 +3,33 @@
   "shardId": "02",
   "images": [
     {
+      "id": "93d39ae7",
+      "filename": "pixiv_150641796_p0.jpg",
+      "path": "uploads/2026/10/8d0a3467.jpg",
+      "size": 796497,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "de7151bd99eb6b8ee1d942789fb60b7b1b987cf59719427a57a2b46300b2fa41",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:58:02.481Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Lily <3",
+      "tags": [
+        "女の子",
+        "鳴潮",
+        "WutheringWaves",
+        "リリー",
+        "Lily",
+        "リリー(鳴潮)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150641796_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150641796",
+      "sourceCreatedAt": "2026-10-09T11:02:23.000Z"
+    },
+    {
       "id": "410bd2d8",
       "filename": "pixiv_150615723_p0.jpg",
       "path": "uploads/2026/10/a6bc13f1.jpg",
