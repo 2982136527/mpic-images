@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "0bcf4417",
+      "filename": "pixiv_150682973_p0.jpg",
+      "path": "uploads/2026/10/d0ecbc96.jpg",
+      "size": 876373,
+      "width": 888,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "de2652664103bf492e2baeec6ebff4a3f4531dfe501480f484f0a7f18fa7684e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:55:04.382Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "これは気づけない…‼︎",
+      "tags": [
+        "めめ村"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150682973_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150682973",
+      "sourceCreatedAt": "2026-10-10T10:01:23.000Z"
+    },
+    {
       "id": "504f0714",
       "filename": "pixiv_150628415_p0.jpg",
       "path": "uploads/2026/10/a002e4dc.jpg",
