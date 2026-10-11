@@ -3,6 +3,31 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "edef48a1",
+      "filename": "pixiv_150634550_p0.jpg",
+      "path": "uploads/2026/10/75690a3e.jpg",
+      "size": 1951237,
+      "width": 747,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fd99043f089f2544ab38a9f98f77fab96c4731644b6d1bcdf892bb1a6bdeeaae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:58:39.959Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Zeppelin",
+      "tags": [
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ",
+        "绝区零",
+        "メスケモ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150634550_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150634550",
+      "sourceCreatedAt": "2026-10-09T07:35:30.000Z"
+    },
+    {
       "id": "aad54a24",
       "filename": "pixiv_150681619_p0.jpg",
       "path": "uploads/2026/10/4bb8f5ee.jpg",
