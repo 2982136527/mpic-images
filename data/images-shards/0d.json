@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "0aa77d82",
+      "filename": "pixiv_150653278_p0.jpg",
+      "path": "uploads/2026/10/883d05ba.jpg",
+      "size": 746951,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8a11e015b45bb7ce0e1a1a7f063233f467f2d1aeef8817c54809cf579c537643",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T20:10:53.639Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "あきのそら",
+      "tags": [
+        "重音テト",
+        "テトの日2026"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150653278_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150653278",
+      "sourceCreatedAt": "2026-10-09T15:00:17.000Z"
+    },
+    {
       "id": "dd0174b2",
       "filename": "pixiv_150670982_p0.jpg",
       "path": "uploads/2026/10/c81b32fb.jpg",
