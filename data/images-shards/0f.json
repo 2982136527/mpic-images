@@ -3,6 +3,31 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "a32524f4",
+      "filename": "pixiv_150643582_p0.jpg",
+      "path": "uploads/2026/10/35e5baa1.jpg",
+      "size": 1259324,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e7f8939b709809e909c2fd8be6ca3b0e2d8ffd36f33d12400aeb21496b861d42",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:34:41.262Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "髪の毛切ったよん",
+      "tags": [
+        "オリジナル",
+        "イラスト",
+        "創作",
+        "異形"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150643582_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150643582",
+      "sourceCreatedAt": "2026-10-09T11:42:46.000Z"
+    },
+    {
       "id": "f2a8a3cc",
       "filename": "pixiv_150627632_p0.jpg",
       "path": "uploads/2026/10/e1c1a40b.jpg",
