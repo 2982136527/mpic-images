@@ -3,6 +3,37 @@
   "shardId": "10",
   "images": [
     {
+      "id": "7bfc23e6",
+      "filename": "pixiv_149568272_p0.jpg",
+      "path": "uploads/2026/10/e25dbef3.jpg",
+      "size": 672309,
+      "width": 829,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "165738ead3b99d7c5abfb23bb7fc5d01b80d08f9b42ff6fdf715448cadb88ee0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T20:18:21.883Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "#1.こーゆーのすきです",
+      "tags": [
+        "オリジナル",
+        "漫画",
+        "純愛",
+        "クールビューティー",
+        "マネージャー",
+        "彼氏持ち",
+        "キャラ作り",
+        "時間の問題",
+        "油断",
+        "こーゆーのがすきです"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "149568272_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/149568272",
+      "sourceCreatedAt": "2026-09-13T02:44:30.000Z"
+    },
+    {
       "id": "013965a0",
       "filename": "pixiv_150654535_p0.jpg",
       "path": "uploads/2026/10/d8f64e82.jpg",
