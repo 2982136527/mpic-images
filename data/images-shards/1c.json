@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "43e89163",
+      "filename": "pixiv_150670796_p0.jpg",
+      "path": "uploads/2026/10/fca66f3b.jpg",
+      "size": 971685,
+      "width": 1200,
+      "height": 668,
+      "mimeType": "image/jpeg",
+      "hash": "c635231d8a367516591f846b782372054eff4d37767691ac03afa09d31739a2d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T20:14:42.721Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "OC",
+        "沃尔芙",
+        "魔王"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150670796_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150670796",
+      "sourceCreatedAt": "2026-10-10T03:19:27.000Z"
+    },
+    {
       "id": "17dee809",
       "filename": "pixiv_150693430_p0.jpg",
       "path": "uploads/2026/10/2385f631.jpg",
