@@ -3,6 +3,32 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "fc88cfb3",
+      "filename": "pixiv_150656635_p0.jpg",
+      "path": "uploads/2026/10/91596b56.jpg",
+      "size": 1341323,
+      "width": 1200,
+      "height": 751,
+      "mimeType": "image/jpeg",
+      "hash": "d8ad4edaf09a48410c834527807602685999c2ebe1ecc6aa384c407499141fe7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:37:24.790Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "秋色に染まる",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "天童ケイ",
+        "紅葉",
+        "白髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150656635_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150656635",
+      "sourceCreatedAt": "2026-10-09T16:11:24.000Z"
+    },
+    {
       "id": "422116df",
       "filename": "pixiv_150649314_p0.jpg",
       "path": "uploads/2026/10/db8ed241.jpg",
