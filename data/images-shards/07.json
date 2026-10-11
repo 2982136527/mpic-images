@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "783fc12c",
+      "filename": "pixiv_150671326_p0.jpg",
+      "path": "uploads/2026/10/e00107bf.jpg",
+      "size": 626765,
+      "width": 525,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "90cd41fe83b6e7889a28dfad6c771490e6f5aed430c1ad6966abdb13e68328d2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:55:14.600Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Skeb117",
+      "tags": [
+        "Skeb",
+        "獣人",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150671326_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150671326",
+      "sourceCreatedAt": "2026-10-10T03:38:47.000Z"
+    },
+    {
       "id": "6cf0ef35",
       "filename": "pixiv_150620644_p0.jpg",
       "path": "uploads/2026/10/4ae0f5f3.jpg",
