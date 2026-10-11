@@ -3,6 +3,29 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "a5a50a7f",
+      "filename": "pixiv_150653258_p0.jpg",
+      "path": "uploads/2026/10/4314a24d.jpg",
+      "size": 1222256,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "ae641d89fc5f39dfc7b3c83732f89a6cdc528d31cd74d19bad93fc1aea65d72e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:36:34.950Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "💜Commission☂️",
+      "tags": [
+        "仕事絵",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150653258_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150653258",
+      "sourceCreatedAt": "2026-10-09T15:00:15.000Z"
+    },
+    {
       "id": "b4e2cb28",
       "filename": "pixiv_150466026_p0.jpg",
       "path": "uploads/2026/10/750763cb.jpg",
