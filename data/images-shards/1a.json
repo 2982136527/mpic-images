@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "209c6aec",
+      "filename": "pixiv_150654074_p0.jpg",
+      "path": "uploads/2026/10/d5b8919f.jpg",
+      "size": 876552,
+      "width": 531,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6e768e2a4f669a3705d0168973ad13f6d76347812be3817809668aeef11a908d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:36:48.880Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "シンデレラ",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "NIKKE",
+        "シンデレラ(勝利の女神:NIKKE)",
+        "メイド",
+        "シンデレラ:グラスカーテシー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150654074_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150654074",
+      "sourceCreatedAt": "2026-10-09T15:07:27.000Z"
+    },
+    {
       "id": "64f7e4e3",
       "filename": "pixiv_150638600_p0.jpg",
       "path": "uploads/2026/10/7656ff02.jpg",
