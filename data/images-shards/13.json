@@ -3,6 +3,28 @@
   "shardId": "13",
   "images": [
     {
+      "id": "d8fe8340",
+      "filename": "pixiv_150650617_p0.jpg",
+      "path": "uploads/2026/10/1b096ccb.jpg",
+      "size": 321307,
+      "width": 600,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "30d3a8ee29e9a2eace5cccf0be89cb0711f7ca1e9eaf5fe3693054662e44b6af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:40:05.095Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "第五の絵4",
+      "tags": [
+        "第五人格"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150650617_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150650617",
+      "sourceCreatedAt": "2026-10-09T14:03:48.000Z"
+    },
+    {
       "id": "3cee094f",
       "filename": "pixiv_150623065_p0.jpg",
       "path": "uploads/2026/10/986a9a06.jpg",
