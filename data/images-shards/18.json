@@ -3,6 +3,31 @@
   "shardId": "18",
   "images": [
     {
+      "id": "508cb29f",
+      "filename": "pixiv_150681325_p0.jpg",
+      "path": "uploads/2026/10/649dd239.jpg",
+      "size": 512530,
+      "width": 1067,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "57d173efe0032a039b87e8d1558ff9d58c3d625d50a4626f3879baa38cb10e1b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:38:43.027Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "あのこと真モモ",
+      "tags": [
+        "ちいかわ",
+        "あのこ(ちいかわ)",
+        "モモンガ(ちいかわ)",
+        "もうこれが公式でいいよ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150681325_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150681325",
+      "sourceCreatedAt": "2026-10-10T09:22:23.000Z"
+    },
+    {
       "id": "289c4680",
       "filename": "pixiv_150616804_p0.jpg",
       "path": "uploads/2026/10/83a7b32d.jpg",
