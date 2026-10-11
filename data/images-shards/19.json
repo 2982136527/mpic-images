@@ -3,6 +3,37 @@
   "shardId": "19",
   "images": [
     {
+      "id": "1cb68fc6",
+      "filename": "pixiv_150686074_p0.jpg",
+      "path": "uploads/2026/10/26d1a505.jpg",
+      "size": 269858,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "46707dc3ffced11ebc2aaa0aba90803cad4f58fc08279b2ac41b2ccbffb5fb6d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:36:04.229Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "no.2242 『 シマエナーガ 』",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "オリキャラ",
+        "落書き",
+        "シマエナガ",
+        "ナーガ",
+        "シマエナーガ",
+        "なにこれかわいい",
+        "鳥蛇",
+        "鳥認ナーガ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150686074_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150686074",
+      "sourceCreatedAt": "2026-10-10T11:14:28.000Z"
+    },
+    {
       "id": "b1612659",
       "filename": "pixiv_150614670_p0.jpg",
       "path": "uploads/2026/10/20ea4ed6.jpg",
