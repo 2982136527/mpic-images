@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "2e3c3e8b",
+      "filename": "pixiv_150626690_p0.jpg",
+      "path": "uploads/2026/10/1c6d7d44.jpg",
+      "size": 273672,
+      "width": 640,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "hash": "9849321670b7bf8165e9a3c95733fb3b4dc938ccab692c5fd4daee323f530efb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:52:39.380Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Untitled",
+      "tags": [
+        "malfoy",
+        "harrypotter",
+        "cute",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150626690_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150626690",
+      "sourceCreatedAt": "2026-10-09T00:31:08.000Z"
+    },
+    {
       "id": "64fa6f99",
       "filename": "pixiv_150688966_p0.jpg",
       "path": "uploads/2026/10/49647b2c.jpg",
