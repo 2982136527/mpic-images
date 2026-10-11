@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "fb9177f2",
+      "filename": "pixiv_150683592_p0.jpg",
+      "path": "uploads/2026/10/42e1a068.jpg",
+      "size": 792014,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ebc3f3e3e69257ea32f2908743aaad560f15b6ba90445052f3bb28b8a7c3f83f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:37:50.165Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "フィオニー",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "フィオニー・レファエラ",
+        "空想症候群"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150683592_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150683592",
+      "sourceCreatedAt": "2026-10-10T10:17:06.000Z"
+    },
+    {
       "id": "e052cab6",
       "filename": "pixiv_150639569_p0.jpg",
       "path": "uploads/2026/10/2438888c.jpg",
