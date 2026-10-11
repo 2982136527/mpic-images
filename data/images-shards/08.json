@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "39e41a52",
+      "filename": "pixiv_150655280_p0.jpg",
+      "path": "uploads/2026/10/666a31d4.jpg",
+      "size": 720980,
+      "width": 682,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "54a5a5fa1069f0523edbf89c461f306ad18c486bc288b1faa5f8641835a19e71",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:55:51.299Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Skeb115",
+      "tags": [
+        "Skeb",
+        "球体関節",
+        "ウサ耳"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150655280_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150655280",
+      "sourceCreatedAt": "2026-10-09T15:33:27.000Z"
+    },
+    {
       "id": "1d9aff5f",
       "filename": "pixiv_150642384_p0.jpg",
       "path": "uploads/2026/10/0a03ff4e.jpg",
