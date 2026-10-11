@@ -3,6 +3,37 @@
   "shardId": "13",
   "images": [
     {
+      "id": "ac8ae9af",
+      "filename": "pixiv_150615076_p0.jpg",
+      "path": "uploads/2026/10/840cc307.jpg",
+      "size": 1174641,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "eec6098d9c2bf6bcc0cb37a66ab545fa5bbcb8942b48d775bb30e563f528dcca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T15:01:21.132Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "もぐもぐつーちゃん。",
+      "tags": [
+        "ホロライブ",
+        "VTuber",
+        "アソビ★まわり隊!",
+        "鈴鳴つづり",
+        "百灯キョーコ",
+        "つづり絵お届け",
+        "キョーコの押収品",
+        "hololive",
+        "背景の存在感",
+        "バーチャルYouTuber100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150615076_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150615076",
+      "sourceCreatedAt": "2026-10-08T15:00:25.000Z"
+    },
+    {
       "id": "5e8af3e5",
       "filename": "pixiv_150641089_p0.jpg",
       "path": "uploads/2026/10/686f0598.jpg",
