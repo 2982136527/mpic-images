@@ -3,6 +3,28 @@
   "shardId": "06",
   "images": [
     {
+      "id": "0b2f2378",
+      "filename": "pixiv_150654385_p0.jpg",
+      "path": "uploads/2026/10/b8d6e0ed.jpg",
+      "size": 1116819,
+      "width": 944,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2a6c94b09ac58538c331821334a9b8535e66550dd4b17b6a7cad96ddc4812ee2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:38:07.059Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "단테 생일",
+      "tags": [
+        "Limbus_Company"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150654385_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150654385",
+      "sourceCreatedAt": "2026-10-09T15:14:58.000Z"
+    },
+    {
       "id": "e3b2b15b",
       "filename": "pixiv_150626298_p0.jpg",
       "path": "uploads/2026/10/4df91bb7.jpg",
