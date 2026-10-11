@@ -3,6 +3,29 @@
   "shardId": "08",
   "images": [
     {
+      "id": "1d9aff5f",
+      "filename": "pixiv_150642384_p0.jpg",
+      "path": "uploads/2026/10/0a03ff4e.jpg",
+      "size": 685727,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "da6575d6c5736d170065c4a5d6991a817eba9e74063868f16d01742fe5a203b8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:40:48.941Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "月のうさぎ",
+      "tags": [
+        "クラウンピース",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150642384_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150642384",
+      "sourceCreatedAt": "2026-10-09T11:14:43.000Z"
+    },
+    {
       "id": "9670ddd1",
       "filename": "pixiv_150647507_p0.jpg",
       "path": "uploads/2026/10/4634b668.jpg",
