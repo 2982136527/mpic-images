@@ -3,6 +3,28 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "23b900b6",
+      "filename": "pixiv_150656769_p0.jpg",
+      "path": "uploads/2026/10/bf3625af.jpg",
+      "size": 905755,
+      "width": 689,
+      "height": 965,
+      "mimeType": "image/jpeg",
+      "hash": "120df7e0ebb83e6330c3bc4dfeb4d533661953bcd2d2af5eb23917f04c4091ab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T20:19:33.242Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "クリア後　キスアメ",
+      "tags": [
+        "キスアメ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150656769_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150656769",
+      "sourceCreatedAt": "2026-10-09T16:14:59.000Z"
+    },
+    {
       "id": "878599d3",
       "filename": "pixiv_150642534_p0.jpg",
       "path": "uploads/2026/10/05615674.jpg",
