@@ -3,6 +3,33 @@
   "shardId": "17",
   "images": [
     {
+      "id": "f75c6f50",
+      "filename": "pixiv_150653347_p0.jpg",
+      "path": "uploads/2026/10/5c650552.jpg",
+      "size": 1034942,
+      "width": 579,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ddd8bc764313b57f9bff92ecca827e67932699fb1a0d9065ca36962852af877f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:53:37.557Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Columbina",
+      "tags": [
+        "女の子",
+        "原神",
+        "GenshinImpact",
+        "コロンビーナ(原神)",
+        "Columbina",
+        "原神1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150653347_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150653347",
+      "sourceCreatedAt": "2026-10-09T15:00:28.000Z"
+    },
+    {
       "id": "40efcc3b",
       "filename": "pixiv_150680639_p0.jpg",
       "path": "uploads/2026/10/5c13bc2c.jpg",
