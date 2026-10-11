@@ -3,6 +3,35 @@
   "shardId": "11",
   "images": [
     {
+      "id": "7bdf40ad",
+      "filename": "pixiv_150653315_p0.jpg",
+      "path": "uploads/2026/10/d0b0ae80.jpg",
+      "size": 1338597,
+      "width": 737,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e0144a91a4269dc0f2155b50377e65dcc011907e1258302480fd29061428dfe9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:42:29.831Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "リオ",
+      "tags": [
+        "BlueArchive",
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "블루아카이브",
+        "水着",
+        "リオ",
+        "調月リオ",
+        "セミナー(ブルーアーカイブ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150653315_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150653315",
+      "sourceCreatedAt": "2026-10-09T15:00:23.000Z"
+    },
+    {
       "id": "3eb8703e",
       "filename": "pixiv_150671484_p0.jpg",
       "path": "uploads/2026/10/a165bb3e.jpg",
