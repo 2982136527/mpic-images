@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "06e4a8b2",
+      "filename": "pixiv_150670497_p0.jpg",
+      "path": "uploads/2026/10/ccdc572a.jpg",
+      "size": 614896,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "41315aca018dd917954d749aa234abcf9c758d99f2028286eabd7d034405bc32",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T20:13:21.525Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "おばちぇカフェミニ開催！",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "おばちぇ",
+        "お知らせ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150670497_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150670497",
+      "sourceCreatedAt": "2026-10-10T03:09:03.000Z"
+    },
+    {
       "id": "ad5bad64",
       "filename": "pixiv_150681447_p0.jpg",
       "path": "uploads/2026/10/2ad8b69f.jpg",
