@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "4597ae76",
+      "filename": "pixiv_150645922_p0.jpg",
+      "path": "uploads/2026/10/13c73385.jpg",
+      "size": 517702,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2c80a52044bd56de05b79757668d17eb199f349ad54aacd38f9983e2ae96e74c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T15:01:27.907Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "高雄さん",
+      "tags": [
+        "アズールレーン",
+        "高雄(アズールレーン)",
+        "アズールレーン100users入り",
+        "アズールレーン500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150645922_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150645922",
+      "sourceCreatedAt": "2026-10-09T12:27:21.000Z"
+    },
+    {
       "id": "f98232e6",
       "filename": "pixiv_150683701_p0.jpg",
       "path": "uploads/2026/10/41d33bba.jpg",
