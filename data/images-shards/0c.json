@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "d234679d",
+      "filename": "pixiv_150620055_p0.jpg",
+      "path": "uploads/2026/10/054dd66e.jpg",
+      "size": 1092797,
+      "width": 1024,
+      "height": 1024,
+      "mimeType": "image/jpeg",
+      "hash": "c3ff15677384f93854ee63658bcb30ead0a92c56abc2b4228e10a8f77ad2568a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:56:48.714Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "男の子",
+        "ショタ",
+        "ルーチェモン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150620055_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150620055",
+      "sourceCreatedAt": "2026-10-08T17:42:43.000Z"
+    },
+    {
       "id": "79b28e44",
       "filename": "pixiv_150656180_p0.jpg",
       "path": "uploads/2026/10/a8050a60.jpg",
