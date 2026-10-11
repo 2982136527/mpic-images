@@ -3,6 +3,28 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "27541fbf",
+      "filename": "pixiv_150686978_p0.jpg",
+      "path": "uploads/2026/10/d622d0cf.jpg",
+      "size": 1418317,
+      "width": 907,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "c39a2cad8578ea8835f0d54dd467b092c42b6709d81666ba51ef08edbab16063",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:36:11.593Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ダンテお誕生日おめでとう +LOG",
+      "tags": [
+        "Limbus_Company"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150686978_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150686978",
+      "sourceCreatedAt": "2026-10-10T11:34:06.000Z"
+    },
+    {
       "id": "2a6e6d86",
       "filename": "pixiv_150626540_p0.jpg",
       "path": "uploads/2026/10/70fdaf8e.jpg",
