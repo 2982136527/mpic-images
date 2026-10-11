@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "21082a05",
+      "filename": "pixiv_150671816_p0.jpg",
+      "path": "uploads/2026/10/37a36d47.jpg",
+      "size": 1303500,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "eec0d4f56a5accf59f3651289d90817e18f8be34eff66ef97513b0ba82aea491",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T20:19:25.059Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "同棲カフェ",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "マンハッタンカフェ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150671816_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150671816",
+      "sourceCreatedAt": "2026-10-10T04:00:09.000Z"
+    },
+    {
       "id": "654e5cfc",
       "filename": "pixiv_150656656_p0.jpg",
       "path": "uploads/2026/10/45f200d1.jpg",
