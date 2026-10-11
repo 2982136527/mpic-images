@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "19cf508e",
+      "filename": "pixiv_150653740_p0.jpg",
+      "path": "uploads/2026/10/17265451.jpg",
+      "size": 708428,
+      "width": 900,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "b140b40b02a938e023073b33404a88b1a5fb7335e13a3c3ddb87c4b772b1006e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:41:16.747Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "もふ",
+      "tags": [
+        "オリジナル",
+        "猫",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150653740_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150653740",
+      "sourceCreatedAt": "2026-10-09T15:03:01.000Z"
+    },
+    {
       "id": "7f0e30ad",
       "filename": "pixiv_150641903_p0.jpg",
       "path": "uploads/2026/10/3572cb14.jpg",
