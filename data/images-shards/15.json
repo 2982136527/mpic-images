@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "89c95ffa",
+      "filename": "pixiv_150670620_p0.jpg",
+      "path": "uploads/2026/10/9178c198.jpg",
+      "size": 1213780,
+      "width": 656,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "839a9177ad0071288b351e5c68572cf0451cda4ac7739ce1d83ff345ec0862be",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:54:57.830Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "네켄달리아🩶",
+      "tags": [
+        "ブラウンダスト2",
+        "ネケンダリア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150670620_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150670620",
+      "sourceCreatedAt": "2026-10-10T03:13:00.000Z"
+    },
+    {
       "id": "8d82f998",
       "filename": "pixiv_150685780_p0.jpg",
       "path": "uploads/2026/10/c44562bb.jpg",
