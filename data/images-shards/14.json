@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "cfd55ae1",
+      "filename": "pixiv_150641135_p0.jpg",
+      "path": "uploads/2026/10/a495f326.jpg",
+      "size": 1286965,
+      "width": 799,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1655265f4149a6d2d60d6a74fa25ccbf9b651f2cf5178a74996bb2c28ef69de1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:39:40.416Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "心",
+      "tags": [
+        "鸣潮",
+        "WutheringWaves",
+        "心(鳴潮)",
+        "裸足"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150641135_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150641135",
+      "sourceCreatedAt": "2026-10-09T10:51:25.000Z"
+    },
+    {
       "id": "a45a56cd",
       "filename": "pixiv_150653452_p0.jpg",
       "path": "uploads/2026/10/74faf979.jpg",
