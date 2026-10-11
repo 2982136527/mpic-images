@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "97b67a2b",
+      "filename": "pixiv_150615903_p0.jpg",
+      "path": "uploads/2026/10/d1fb2df4.jpg",
+      "size": 524316,
+      "width": 732,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8a4b91809c7fb0386f46262a41780060d8c1892ee9a5281202741ed3f96be3d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T20:11:48.673Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "desuwa",
+      "tags": [
+        "女の子",
+        "EternalReturn:BlackSurvival",
+        "루치아",
+        "이터널리턴",
+        "ブラサバ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150615903_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150615903",
+      "sourceCreatedAt": "2026-10-08T15:11:07.000Z"
+    },
+    {
       "id": "5ed676ee",
       "filename": "pixiv_150654994_p0.jpg",
       "path": "uploads/2026/10/e18fcff1.jpg",
