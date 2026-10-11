@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "dc6bab3f",
+      "filename": "pixiv_150624702_p0.jpg",
+      "path": "uploads/2026/10/b2c1c6a3.jpg",
+      "size": 553610,
+      "width": 898,
+      "height": 1194,
+      "mimeType": "image/jpeg",
+      "hash": "6ef1cdd5031c84e5bbac81343db49ddbccfdde4625374ab6911543779d0314b2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:36:55.985Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "勝手にひとりで気持ちよくなってごめんなさい",
+      "tags": [
+        "一次創作",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150624702_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150624702",
+      "sourceCreatedAt": "2026-10-08T22:30:03.000Z"
+    },
+    {
       "id": "a1ce39eb",
       "filename": "pixiv_150642359_p0.jpg",
       "path": "uploads/2026/10/5088cd44.jpg",
