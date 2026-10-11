@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "cc59ad84",
+      "filename": "pixiv_150649551_p0.jpg",
+      "path": "uploads/2026/10/66265bb9.jpg",
+      "size": 849776,
+      "width": 1200,
+      "height": 522,
+      "mimeType": "image/jpeg",
+      "hash": "57f9978e072aa65b5263332c8329b973fdb79528a4b7377fb2f78cfc1b79a7ec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:42:15.461Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🎃The Symboli Halloween!🦇",
+      "tags": [
+        "スピードシンボリ(ウマ娘)",
+        "シリウスシンボリ(ウマ娘)",
+        "シンボリルドルフ(ウマ娘)",
+        "シンボリクリスエス(ウマ娘)",
+        "ウマ娘プリティーダービー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150649551_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150649551",
+      "sourceCreatedAt": "2026-10-09T13:40:28.000Z"
+    },
+    {
       "id": "1c1eb2c2",
       "filename": "pixiv_150642961_p0.jpg",
       "path": "uploads/2026/10/2f8a8a7b.jpg",
