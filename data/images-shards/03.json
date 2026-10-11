@@ -3,6 +3,37 @@
   "shardId": "03",
   "images": [
     {
+      "id": "64fa6f99",
+      "filename": "pixiv_150688966_p0.jpg",
+      "path": "uploads/2026/10/49647b2c.jpg",
+      "size": 838335,
+      "width": 893,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "27ace01ae8d563c92d849fe2069708c647b7cf7725a0e5a9bf299aaa7a02e231",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:42:58.607Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "後ろがやかましいヤツ",
+      "tags": [
+        "ゼンゼロ",
+        "アキラ(ゼンゼロ)",
+        "葉瞬光",
+        "儀降",
+        "シーシィア",
+        "ビビアン・バンシー",
+        "千夏(ゼンゼロ)",
+        "アストラ・ヤオ",
+        "イヴリン・シェヴァリエ",
+        "プロメイア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150688966_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150688966",
+      "sourceCreatedAt": "2026-10-10T12:11:30.000Z"
+    },
+    {
       "id": "d909c1fc",
       "filename": "pixiv_150637315_p0.jpg",
       "path": "uploads/2026/10/ba038265.jpg",
