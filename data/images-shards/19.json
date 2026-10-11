@@ -3,6 +3,33 @@
   "shardId": "19",
   "images": [
     {
+      "id": "a0474411",
+      "filename": "pixiv_150634524_p0.jpg",
+      "path": "uploads/2026/10/3f4fe16b.jpg",
+      "size": 225058,
+      "width": 565,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bcd2ee5f3288a0aa991ccafd6655715f5a9c76ac3a8de18f3ed7f0337aa7333b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T20:16:58.716Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "胡桃",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "胡桃(原神)",
+        "胡桃",
+        "HuTao",
+        "Genshin"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150634524_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150634524",
+      "sourceCreatedAt": "2026-10-09T07:34:15.000Z"
+    },
+    {
       "id": "ec4db2fd",
       "filename": "pixiv_150622258_p0.jpg",
       "path": "uploads/2026/10/88b4a989.jpg",
