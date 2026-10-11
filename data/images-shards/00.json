@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "0a32944b",
+      "filename": "pixiv_150684903_p0.jpg",
+      "path": "uploads/2026/10/af900ef7.jpg",
+      "size": 943484,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6501e7a7960c727da85ef0258e35ac116b4a9846a84730e80b75068c6c2bece8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:56:23.568Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ココちゃん",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "まのさば",
+        "沢渡ココ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150684903_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150684903",
+      "sourceCreatedAt": "2026-10-10T10:52:40.000Z"
+    },
+    {
       "id": "f7272e43",
       "filename": "pixiv_150653374_p0.jpg",
       "path": "uploads/2026/10/5082cdb8.jpg",
