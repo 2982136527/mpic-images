@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "6b4c1d3d",
+      "filename": "pixiv_150638794_p0.jpg",
+      "path": "uploads/2026/10/82cfa8e6.jpg",
+      "size": 1298641,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "992a49325d42107475ec3828040366fe499e05af658a341b31fa56c156d395b5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:38:14.206Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ロノヴァ",
+      "tags": [
+        "原神",
+        "ロノヴァ",
+        "ai-assisted"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150638794_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150638794",
+      "sourceCreatedAt": "2026-10-09T09:53:11.000Z"
+    },
+    {
       "id": "53e139af",
       "filename": "pixiv_150612979_p0.jpg",
       "path": "uploads/2026/10/01f05be5.jpg",
