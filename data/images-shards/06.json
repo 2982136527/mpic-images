@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "2ae9ff52",
+      "filename": "pixiv_150649747_p0.jpg",
+      "path": "uploads/2026/10/20b5041b.jpg",
+      "size": 1499876,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fa832da70452da04b2d0a172c2aa4c6288f16d8f55032596e2fb72baf10e7b8d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T20:11:29.192Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【東方】霊夢",
+      "tags": [
+        "東方Project",
+        "博麗霊夢"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150649747_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150649747",
+      "sourceCreatedAt": "2026-10-09T13:44:55.000Z"
+    },
+    {
       "id": "54017185",
       "filename": "pixiv_150653345_p0.jpg",
       "path": "uploads/2026/10/88d0c36b.jpg",
