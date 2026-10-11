@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "06a0c80e",
+      "filename": "pixiv_150687491_p0.jpg",
+      "path": "uploads/2026/10/df1fd16a.jpg",
+      "size": 1559497,
+      "width": 1024,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3fb1ec020f1c2db39c85ad83705859c6febb4ef3a9cf3e6295382fd58545146f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T20:12:46.759Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Warfarin",
+      "tags": [
+        "明日方舟终末地",
+        "明日方舟",
+        "ワルファリン(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150687491_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150687491",
+      "sourceCreatedAt": "2026-10-10T11:46:16.000Z"
+    },
+    {
       "id": "57037c6d",
       "filename": "pixiv_150626080_p0.jpg",
       "path": "uploads/2026/10/792d5bd1.jpg",
