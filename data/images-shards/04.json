@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "c9296d33",
+      "filename": "pixiv_150671758_p0.jpg",
+      "path": "uploads/2026/10/0131d1db.jpg",
+      "size": 520916,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2b0b861398c4daffb2cba9669e2a9828ecf93279d597229792d86e4ad85c5749",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T20:15:20.974Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "君に甘えたい猫と、おれ。",
+      "tags": [
+        "創作男女",
+        "少女漫画",
+        "オリジナル",
+        "カップル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150671758_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150671758",
+      "sourceCreatedAt": "2026-10-10T03:57:54.000Z"
+    },
+    {
       "id": "4597ae76",
       "filename": "pixiv_150645922_p0.jpg",
       "path": "uploads/2026/10/13c73385.jpg",
