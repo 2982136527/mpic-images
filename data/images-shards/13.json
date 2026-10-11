@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "5e8af3e5",
+      "filename": "pixiv_150641089_p0.jpg",
+      "path": "uploads/2026/10/686f0598.jpg",
+      "size": 468082,
+      "width": 1200,
+      "height": 400,
+      "mimeType": "image/jpeg",
+      "hash": "c4f2912516a77bc0ca2aa3d0b8fc7a8a9f957cd93f1fab305aa8e9140f56c1a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:57:41.797Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "💓",
+      "tags": [
+        "アークナイツ",
+        "テキサス(アークナイツ)",
+        "明日方舟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150641089_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150641089",
+      "sourceCreatedAt": "2026-10-09T10:50:08.000Z"
+    },
+    {
       "id": "e006f7e8",
       "filename": "pixiv_150654008_p0.jpg",
       "path": "uploads/2026/10/650eb471.jpg",
