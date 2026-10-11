@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "a1ce39eb",
+      "filename": "pixiv_150642359_p0.jpg",
+      "path": "uploads/2026/10/5088cd44.jpg",
+      "size": 858605,
+      "width": 1141,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f6c4f22ff85e8374fcd7a138b31d1ee4656a776db07cb7f0b7bfae520be1e170",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:35:09.091Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ウデッポウ・ブロスターモチーフの武器（ポケモン）",
+      "tags": [
+        "ウデッポウ",
+        "ブロスター",
+        "ポケモン",
+        "ポケットモンスター",
+        "厚塗り",
+        "武器化"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150642359_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150642359",
+      "sourceCreatedAt": "2026-10-09T11:13:59.000Z"
+    },
+    {
       "id": "cd9ffb0d",
       "filename": "pixiv_150602538_p0.jpg",
       "path": "uploads/2026/10/2d554355.jpg",
