@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "7a2e5125",
+      "filename": "pixiv_150635567_p0.jpg",
+      "path": "uploads/2026/10/c5ef8536.jpg",
+      "size": 578911,
+      "width": 620,
+      "height": 999,
+      "mimeType": "image/jpeg",
+      "hash": "8a97894626022e056d033d28db330400313e7ca3b05379008aa7c303bdde03a3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:40:41.826Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "すけぶ",
+      "tags": [
+        "女の子",
+        "よその子",
+        "Skeb",
+        "commission"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150635567_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150635567",
+      "sourceCreatedAt": "2026-10-09T08:15:33.000Z"
+    },
+    {
       "id": "a14915cc",
       "filename": "pixiv_150651126_p0.jpg",
       "path": "uploads/2026/10/5efddff7.jpg",
