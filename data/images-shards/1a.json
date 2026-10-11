@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "a4c8818c",
+      "filename": "pixiv_150615005_p0.jpg",
+      "path": "uploads/2026/10/384f4a44.jpg",
+      "size": 725960,
+      "width": 702,
+      "height": 997,
+      "mimeType": "image/jpeg",
+      "hash": "7ad4ba22ebf3de774d812d705969d47d43505269f330961256c3713cc4a16f63",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T14:54:24.856Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "メイドver. ノア・フルール",
+      "tags": [
+        "バトルスピリッツ",
+        "ノア・フルール",
+        "メイド",
+        "バトスピ",
+        "バトスピご本人",
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150615005_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150615005",
+      "sourceCreatedAt": "2026-10-08T15:00:15.000Z"
+    },
+    {
       "id": "cc59ad84",
       "filename": "pixiv_150649551_p0.jpg",
       "path": "uploads/2026/10/66265bb9.jpg",
