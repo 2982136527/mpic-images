@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "57037c6d",
+      "filename": "pixiv_150626080_p0.jpg",
+      "path": "uploads/2026/10/792d5bd1.jpg",
+      "size": 1238010,
+      "width": 780,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "87c87be9ce45e9217cfefa333b66061405b1f88f28fb6b91e191b1cbfa67b327",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T20:12:21.239Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "シャルロット",
+      "tags": [
+        "原神",
+        "シャルロット",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150626080_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150626080",
+      "sourceCreatedAt": "2026-10-08T23:58:34.000Z"
+    },
+    {
       "id": "0a32944b",
       "filename": "pixiv_150684903_p0.jpg",
       "path": "uploads/2026/10/af900ef7.jpg",
