@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "422116df",
+      "filename": "pixiv_150649314_p0.jpg",
+      "path": "uploads/2026/10/db8ed241.jpg",
+      "size": 874425,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "c536b9d80f7d1f06accc4699ad3137eb788cb28fab29d8e94467b42401b622e2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-11T05:37:17.464Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ため息はかき消されて",
+      "tags": [
+        "オリジナル",
+        "踏切",
+        "雨"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150649314_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150649314",
+      "sourceCreatedAt": "2026-10-09T13:35:09.000Z"
+    },
+    {
       "id": "d60beb46",
       "filename": "pixiv_150640528_p0.jpg",
       "path": "uploads/2026/10/a118ea85.jpg",
