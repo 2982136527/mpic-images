@@ -3,6 +3,36 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "0fec7021",
+      "filename": "pixiv_150698148_p0.jpg",
+      "path": "uploads/2026/10/3a4412c5.jpg",
+      "size": 674841,
+      "width": 665,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e56578f758e58fdac2cdd8b26c3d06e69021d27e3e23ebe83b074754031952c8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:45:35.109Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "大丈夫だよ",
+      "tags": [
+        "名探偵プリキュア!",
+        "キュアアンサー",
+        "プリキュア",
+        "不思議な庭と2人の秘密",
+        "フューチャーフォーム",
+        "ダメダメ(プリキュア)",
+        "たんプリ100users入り",
+        "劇場版限定フォーム(プリキュア)",
+        "1号キュア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150698148_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150698148",
+      "sourceCreatedAt": "2026-10-10T15:10:13.000Z"
+    },
+    {
       "id": "02a711f4",
       "filename": "pixiv_150698316_p0.jpg",
       "path": "uploads/2026/10/1319a26b.jpg",
