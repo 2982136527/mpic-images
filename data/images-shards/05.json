@@ -3,6 +3,29 @@
   "shardId": "05",
   "images": [
     {
+      "id": "a46543a1",
+      "filename": "pixiv_150697257_p0.jpg",
+      "path": "uploads/2026/10/3096af44.jpg",
+      "size": 1736693,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df6bbf52234dfabbfcf7f6584522ca64ec530d93c152ce072d91266e3b82c003",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:49:22.392Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "なつのたからもの",
+      "tags": [
+        "SummerPockets",
+        "サマポケ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150697257_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150697257",
+      "sourceCreatedAt": "2026-10-10T15:00:32.000Z"
+    },
+    {
       "id": "733df228",
       "filename": "pixiv_150663064_p0.jpg",
       "path": "uploads/2026/10/656c094e.jpg",
