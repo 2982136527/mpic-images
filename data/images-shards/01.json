@@ -3,6 +3,28 @@
   "shardId": "01",
   "images": [
     {
+      "id": "592a2d13",
+      "filename": "pixiv_150674043_p0.jpg",
+      "path": "uploads/2026/10/78d79e79.jpg",
+      "size": 565759,
+      "width": 994,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "20d3ba995687038ec4024ea33cfb3182620557c444e1fe357dbb26083cd9f148",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:49:04.287Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "秋ですね",
+      "tags": [
+        "紲星あかり"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150674043_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150674043",
+      "sourceCreatedAt": "2026-10-10T05:34:18.000Z"
+    },
+    {
       "id": "173932fa",
       "filename": "pixiv_150640643_p0.jpg",
       "path": "uploads/2026/10/04da7888.jpg",
