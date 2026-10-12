@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "6a6a089f",
+      "filename": "pixiv_150540682_p0.jpg",
+      "path": "uploads/2026/10/d6febfd3.jpg",
+      "size": 997112,
+      "width": 1163,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "76544d8a2c08f09d8c4d7881b7254c66cbe40c6925a924ae126dea2d8a85d272",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:52:45.582Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "カービィクラフト2",
+      "tags": [
+        "カービィ",
+        "星のカービィ",
+        "マインクラフト",
+        "四角のカービィ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150540682_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150540682",
+      "sourceCreatedAt": "2026-10-06T14:37:13.000Z"
+    },
+    {
       "id": "b1a41737",
       "filename": "pixiv_150708480_p0.jpg",
       "path": "uploads/2026/10/b25bf335.jpg",
