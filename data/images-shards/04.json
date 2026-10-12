@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "6d6d0f90",
+      "filename": "pixiv_150690064_p0.jpg",
+      "path": "uploads/2026/10/36eb186f.jpg",
+      "size": 1151991,
+      "width": 964,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "789d41c5fecaf78ca6c8f8d0287dde67a6280dbd9f383ff927bec67414a9be12",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:48:48.792Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "スプラ自機まとめ4",
+      "tags": [
+        "スプラトゥーン3",
+        "バレルスピナー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150690064_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150690064",
+      "sourceCreatedAt": "2026-10-10T12:34:56.000Z"
+    },
+    {
       "id": "c34a1443",
       "filename": "pixiv_150663611_p0.jpg",
       "path": "uploads/2026/10/30455f6e.jpg",
