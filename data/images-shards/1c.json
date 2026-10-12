@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "93caea9c",
+      "filename": "pixiv_150505497_p0.jpg",
+      "path": "uploads/2026/10/3e828537.jpg",
+      "size": 897306,
+      "width": 677,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "001d0453c38de1f6c845f3e5b95624afc1d3a4225ff7c5daa6b4f53af2901576",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:53:23.943Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Rouzk",
+      "tags": [
+        "Howlring",
+        "Rouzk",
+        "ぴっちりスーツ",
+        "HOWLRING",
+        "ラバースーツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150505497_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150505497",
+      "sourceCreatedAt": "2026-10-05T15:15:52.000Z"
+    },
+    {
       "id": "5fea46ec",
       "filename": "pixiv_150685255_p0.jpg",
       "path": "uploads/2026/10/be52a395.jpg",
