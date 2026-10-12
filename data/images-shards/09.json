@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "f8b8c839",
+      "filename": "pixiv_150716474_p0.jpg",
+      "path": "uploads/2026/10/ca9f5161.jpg",
+      "size": 1041719,
+      "width": 1088,
+      "height": 794,
+      "mimeType": "image/jpeg",
+      "hash": "812752b3f2f99ae4e415969e5092121589c4a89975d9a16f3868012e77d3210d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:52:58.529Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Fooooooo",
+      "tags": [
+        "さめてーのフルコース",
+        "下手"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150716474_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150716474",
+      "sourceCreatedAt": "2026-10-11T04:21:33.000Z"
+    },
+    {
       "id": "c440ea06",
       "filename": "pixiv_150723472_p0.jpg",
       "path": "uploads/2026/10/cdf4bb59.jpg",
