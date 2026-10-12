@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "3406544a",
+      "filename": "pixiv_150711998_p0.jpg",
+      "path": "uploads/2026/10/157e38fa.jpg",
+      "size": 513205,
+      "width": 799,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "76e386caed2dfdb93da3052a1408572d7c863f671bdedf72f5d01dde060e3789",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:50:59.136Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "緋田とにちか",
+      "tags": [
+        "みこにち",
+        "SHHis",
+        "アイドルマスターシャイニーカラーズ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150711998_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150711998",
+      "sourceCreatedAt": "2026-10-11T01:36:42.000Z"
+    },
+    {
       "id": "592a2d13",
       "filename": "pixiv_150674043_p0.jpg",
       "path": "uploads/2026/10/78d79e79.jpg",
