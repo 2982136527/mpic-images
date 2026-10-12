@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "e25474ec",
+      "filename": "pixiv_150714943_p0.jpg",
+      "path": "uploads/2026/10/04747d09.jpg",
+      "size": 1403685,
+      "width": 1200,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "5559a7b42ad13c6bd2fb3e13318e7027f4513f8ad0b36099da71b4cbc8658466",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:51:20.333Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "君との十月",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "女の子",
+        "風景",
+        "早瀬ユウカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150714943_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150714943",
+      "sourceCreatedAt": "2026-10-11T03:22:05.000Z"
+    },
+    {
       "id": "4380a6c3",
       "filename": "pixiv_150673015_p0.jpg",
       "path": "uploads/2026/10/1aa16af7.jpg",
