@@ -3,6 +3,32 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "6900eb7e",
+      "filename": "pixiv_150673867_p0.jpg",
+      "path": "uploads/2026/10/cc4e2893.jpg",
+      "size": 317958,
+      "width": 625,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dccd3988a50099b361c5b717bfb51bdf4047b554c27eb422e68092e0e1bf62ec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:47:07.452Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "東方Project",
+        "東方",
+        "鈴仙・優曇華院・イナバ",
+        "女の子",
+        "黒タイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150673867_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150673867",
+      "sourceCreatedAt": "2026-10-10T05:27:25.000Z"
+    },
+    {
       "id": "5cb67ec2",
       "filename": "pixiv_150686499_p0.jpg",
       "path": "uploads/2026/10/ca048865.jpg",
