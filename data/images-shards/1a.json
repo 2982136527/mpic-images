@@ -3,6 +3,35 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "d6032a9b",
+      "filename": "pixiv_150673771_p0.jpg",
+      "path": "uploads/2026/10/8c9f4c12.jpg",
+      "size": 610257,
+      "width": 739,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bcaefa2db8d324427083dedeba5961e2019103f64234249e3307c79b88edf432",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:48:09.144Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ウマ娘まとめ",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "アドマイヤグルーヴ(ウマ娘)",
+        "グランアレグリア(ウマ娘)",
+        "左下の存在感",
+        "ルーラーシップ(ウマ娘)",
+        "爆乳",
+        "でかぱい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150673771_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150673771",
+      "sourceCreatedAt": "2026-10-10T05:22:57.000Z"
+    },
+    {
       "id": "ec83d6ed",
       "filename": "pixiv_150697297_p0.jpg",
       "path": "uploads/2026/10/4746bd8b.jpg",
