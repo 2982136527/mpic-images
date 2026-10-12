@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "8cd1a191",
+      "filename": "pixiv_150725565_p0.jpg",
+      "path": "uploads/2026/10/fd4b4277.jpg",
+      "size": 828754,
+      "width": 1177,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d2fbc9f7edef6f0ee66b1dcbd186d073127331b6badcec29ed3af9ab1b224de0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:50:17.732Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ノア",
+      "tags": [
+        "女の子",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "生塩ノア",
+        "白髪"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150725565_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150725565",
+      "sourceCreatedAt": "2026-10-11T09:13:42.000Z"
+    },
+    {
       "id": "295604c6",
       "filename": "pixiv_150722612_p0.jpg",
       "path": "uploads/2026/10/bf497e34.jpg",
