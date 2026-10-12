@@ -3,6 +3,32 @@
   "shardId": "17",
   "images": [
     {
+      "id": "f1732b7a",
+      "filename": "pixiv_150697256_p0.jpg",
+      "path": "uploads/2026/10/85b329ae.jpg",
+      "size": 1795870,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "413d89d27d7f9da3a69de4239bcb9bc6f48d619781565c23c7bef813f5ab46c0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:47:14.882Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "mint",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "歯磨き",
+        "洗面所",
+        "鏡に映る女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150697256_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150697256",
+      "sourceCreatedAt": "2026-10-10T15:00:32.000Z"
+    },
+    {
       "id": "e90f0b43",
       "filename": "pixiv_150723033_p0.jpg",
       "path": "uploads/2026/10/84b34afc.jpg",
