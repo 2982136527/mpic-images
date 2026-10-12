@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "76e443f1",
+      "filename": "pixiv_150697207_p0.jpg",
+      "path": "uploads/2026/10/5eda532f.jpg",
+      "size": 786346,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "62340b61fbeafd5514e59bbc0e8b04cf5170fdce9e91c4339aa055b026f92d48",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:51:43.082Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "やさしさを探して",
+      "tags": [
+        "空",
+        "オリジナル",
+        "入道雲",
+        "青空",
+        "夕焼け"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150697207_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150697207",
+      "sourceCreatedAt": "2026-10-10T15:00:25.000Z"
+    },
+    {
       "id": "4b53e81b",
       "filename": "pixiv_150665712_p0.jpg",
       "path": "uploads/2026/10/22496df4.jpg",
