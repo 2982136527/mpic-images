@@ -3,6 +3,30 @@
   "shardId": "02",
   "images": [
     {
+      "id": "046b1127",
+      "filename": "pixiv_150690190_p0.jpg",
+      "path": "uploads/2026/10/2b2ba8f3.jpg",
+      "size": 961365,
+      "width": 800,
+      "height": 1131,
+      "mimeType": "image/jpeg",
+      "hash": "775ab688356c4e20c4a4d06a4480f7bc03687622dd531ac4ae86bd36eed57372",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:49:10.431Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "10/11　スパコミ21　お品書き",
+      "tags": [
+        "お品書き",
+        "スパコミ21",
+        "メトロン星人"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150690190_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150690190",
+      "sourceCreatedAt": "2026-10-10T12:37:11.000Z"
+    },
+    {
       "id": "93d39ae7",
       "filename": "pixiv_150641796_p0.jpg",
       "path": "uploads/2026/10/8d0a3467.jpg",
