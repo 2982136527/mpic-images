@@ -3,6 +3,37 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "e395a781",
+      "filename": "pixiv_150721222_p0.jpg",
+      "path": "uploads/2026/10/9fd02a2f.jpg",
+      "size": 1034394,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5a6e019e268130f99ca0a1a3cd17f3ff2206945a841bc0a045ea8db69b39c2c4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:48:42.013Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "小林画伯",
+      "tags": [
+        "プリキュア",
+        "precure",
+        "名探偵プリキュア!",
+        "名探偵プリキュア",
+        "たんプリ",
+        "小林みくる",
+        "キュアミスティック",
+        "みくる画伯",
+        "プリキュア100users入り",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150721222_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150721222",
+      "sourceCreatedAt": "2026-10-11T07:11:13.000Z"
+    },
+    {
       "id": "9bd55cbf",
       "filename": "pixiv_150699410_p0.jpg",
       "path": "uploads/2026/10/d75bf9c1.jpg",
