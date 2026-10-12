@@ -3,6 +3,28 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "ec83d6ed",
+      "filename": "pixiv_150697297_p0.jpg",
+      "path": "uploads/2026/10/4746bd8b.jpg",
+      "size": 1590765,
+      "width": 772,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "38bc22fb9009c0ae5e72ca6620ccfb7b369571a68dc86199658ae28f4284dc91",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:45:49.061Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "シオン",
+      "tags": [
+        "eden*"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150697297_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150697297",
+      "sourceCreatedAt": "2026-10-10T15:00:38.000Z"
+    },
+    {
       "id": "aa1b854b",
       "filename": "pixiv_150656511_p0.jpg",
       "path": "uploads/2026/10/2d99ec3b.jpg",
