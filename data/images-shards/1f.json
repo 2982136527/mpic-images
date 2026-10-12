@@ -3,6 +3,36 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "fdfbdf58",
+      "filename": "pixiv_150715592_p0.jpg",
+      "path": "uploads/2026/10/880623f0.jpg",
+      "size": 1302912,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f02a29bca5773e896f7068fef961476d59e9bfa7191f72d18e356f2d5f4a5a5a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:47:25.691Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "リアル脱出ゲームなくれあちゃん",
+      "tags": [
+        "プリキュア",
+        "precure",
+        "名探偵プリキュア!",
+        "名探偵プリキュア",
+        "たんプリ",
+        "帆羽くれあ",
+        "キュアエクレール",
+        "プリキュア100users入り",
+        "たんプリ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150715592_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150715592",
+      "sourceCreatedAt": "2026-10-11T03:47:39.000Z"
+    },
+    {
       "id": "21082a05",
       "filename": "pixiv_150671816_p0.jpg",
       "path": "uploads/2026/10/37a36d47.jpg",
