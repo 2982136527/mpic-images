@@ -3,6 +3,32 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "d0420646",
+      "filename": "pixiv_150697293_p0.jpg",
+      "path": "uploads/2026/10/3d90f098.jpg",
+      "size": 237915,
+      "width": 752,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "937965f351e77d4cff1367043a926efae01328c6651264468ba3ad681f59c247",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:47:11.140Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "リオ",
+      "tags": [
+        "女の子",
+        "少女",
+        "調月リオ",
+        "リオ",
+        "燕尾服"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150697293_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150697293",
+      "sourceCreatedAt": "2026-10-10T15:00:37.000Z"
+    },
+    {
       "id": "43e89163",
       "filename": "pixiv_150670796_p0.jpg",
       "path": "uploads/2026/10/fca66f3b.jpg",
