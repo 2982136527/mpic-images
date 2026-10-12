@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "945783b1",
+      "filename": "pixiv_150700618_p0.jpg",
+      "path": "uploads/2026/10/9d1a937f.jpg",
+      "size": 1176815,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "bf47ac89440b4f7a7219b563c2fed4b41afcf0e8e0b4833d2b038ea6b2789305",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:45:42.386Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "2026 Bilibili Moe！",
+      "tags": [
+        "少女",
+        "22娘",
+        "33娘",
+        "高跟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150700618_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150700618",
+      "sourceCreatedAt": "2026-10-10T16:10:57.000Z"
+    },
+    {
       "id": "5e7c6087",
       "filename": "pixiv_150678559_p0.jpg",
       "path": "uploads/2026/10/9ed5a7e0.jpg",
