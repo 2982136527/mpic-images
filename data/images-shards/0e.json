@@ -3,6 +3,29 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "9a357e6e",
+      "filename": "pixiv_150670976_p0.jpg",
+      "path": "uploads/2026/10/bbdeebd6.jpg",
+      "size": 467733,
+      "width": 1200,
+      "height": 741,
+      "mimeType": "image/jpeg",
+      "hash": "b8737c6b94e3b4c73e35430ea45fc463fe1127c776420e543865373e10fc0832",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:52:39.475Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "勇者の肋骨",
+        "女神(勇者の肋骨)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150670976_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150670976",
+      "sourceCreatedAt": "2026-10-10T03:26:53.000Z"
+    },
+    {
       "id": "584f3a9d",
       "filename": "pixiv_150667026_p0.jpg",
       "path": "uploads/2026/10/d5888e46.jpg",
