@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "b6740287",
+      "filename": "pixiv_150693805_p0.jpg",
+      "path": "uploads/2026/10/789a1b57.jpg",
+      "size": 1057599,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "7a0b5a51835348ef393fd867b64d3126816284c29493ab1bdee711b1962506af",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:50:49.592Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Gholdengo and Gimmighoul",
+      "tags": [
+        "ポケモン",
+        "ポケモンSV",
+        "サーフゴー",
+        "コレクレー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150693805_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150693805",
+      "sourceCreatedAt": "2026-10-10T13:52:04.000Z"
+    },
+    {
       "id": "a36c7a53",
       "filename": "pixiv_150669025_p0.jpg",
       "path": "uploads/2026/10/5437f200.jpg",
