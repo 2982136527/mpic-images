@@ -3,6 +3,32 @@
   "shardId": "17",
   "images": [
     {
+      "id": "bca00875",
+      "filename": "pixiv_150733397_p0.jpg",
+      "path": "uploads/2026/10/286bc396.jpg",
+      "size": 509498,
+      "width": 982,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ea3afb7b2c5884e756ecd3dfa65a36201302f9540bdf85f8c463c59b16475214",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:46:36.196Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "テトさん",
+      "tags": [
+        "重音テト",
+        "重音テトSV",
+        "オーバーライド",
+        "メズマライザー",
+        "UTAU100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150733397_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150733397",
+      "sourceCreatedAt": "2026-10-11T12:05:30.000Z"
+    },
+    {
       "id": "256c9d9f",
       "filename": "pixiv_150652485_p0.jpg",
       "path": "uploads/2026/10/c45889d9.jpg",
