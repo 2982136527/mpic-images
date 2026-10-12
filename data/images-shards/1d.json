@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "355af2e8",
+      "filename": "pixiv_150737236_p0.jpg",
+      "path": "uploads/2026/10/e0555eb1.jpg",
+      "size": 572455,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5462455e181361549d7a0222dfb88a7208d0128685e306da675fc095ab1a724d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:52:28.212Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "うすほそちゃんの寝起きの伸び",
+      "tags": [
+        "オリジナル",
+        "体操服",
+        "はみパン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150737236_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150737236",
+      "sourceCreatedAt": "2026-10-11T13:21:53.000Z"
+    },
+    {
       "id": "5b87b695",
       "filename": "pixiv_150721351_p0.jpg",
       "path": "uploads/2026/10/b50e8060.jpg",
