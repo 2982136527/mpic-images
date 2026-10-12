@@ -3,6 +3,33 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "5fea46ec",
+      "filename": "pixiv_150685255_p0.jpg",
+      "path": "uploads/2026/10/be52a395.jpg",
+      "size": 1051256,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "5a9fa0079fca64889b3ad9202efa3a8b975701d83b921a6ac5e0f2c61bfca2de",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:50:57.592Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "新作オリジナル魔法少女のキャラクターシート",
+      "tags": [
+        "オリジナル",
+        "ロリ",
+        "魔法少女",
+        "変身ヒロイン",
+        "立ち絵",
+        "メスガキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150685255_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150685255",
+      "sourceCreatedAt": "2026-10-10T11:00:22.000Z"
+    },
+    {
       "id": "0fec7021",
       "filename": "pixiv_150698148_p0.jpg",
       "path": "uploads/2026/10/3a4412c5.jpg",
