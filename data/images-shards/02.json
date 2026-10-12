@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "9cd359d0",
+      "filename": "pixiv_150665765_p0.jpg",
+      "path": "uploads/2026/10/bcfba461.jpg",
+      "size": 372745,
+      "width": 606,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "984d549390e6cc8031da615907a1707153de94f63be7ced28993411e93310a52",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:48:34.257Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🍩",
+      "tags": [
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "ブルアカ",
+        "ミリタリー",
+        "尾刃カンナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150665765_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150665765",
+      "sourceCreatedAt": "2026-10-10T00:09:24.000Z"
+    },
+    {
       "id": "779ad923",
       "filename": "pixiv_150739090_p0.jpg",
       "path": "uploads/2026/10/5a811d5e.jpg",
