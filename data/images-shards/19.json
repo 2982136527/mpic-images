@@ -3,6 +3,28 @@
   "shardId": "19",
   "images": [
     {
+      "id": "effbc19b",
+      "filename": "pixiv_150712924_p0.jpg",
+      "path": "uploads/2026/10/3e07b6c8.jpg",
+      "size": 539814,
+      "width": 770,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b783fe6cf18e1460797cefe05837850ba63b5cfd5c3e143e17d7df2994f846b3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:54:22.322Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "小森めと"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150712924_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150712924",
+      "sourceCreatedAt": "2026-10-11T02:13:07.000Z"
+    },
+    {
       "id": "4a1a52c7",
       "filename": "pixiv_150695237_p0.jpg",
       "path": "uploads/2026/10/6d583bcc.jpg",
