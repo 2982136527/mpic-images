@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "9841db73",
+      "filename": "pixiv_150697319_p0.jpg",
+      "path": "uploads/2026/10/94bc3877.jpg",
+      "size": 1220935,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "453e093b4bdc00bf9f83d9a40712353fe3d49c810d5e949eed3595ff7b5de293",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:51:36.769Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "かぐやは彩葉が好きすぎて学校潜入しました",
+      "tags": [
+        "超かぐや姫!",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150697319_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150697319",
+      "sourceCreatedAt": "2026-10-10T15:00:40.000Z"
+    },
+    {
       "id": "bd4524e6",
       "filename": "pixiv_150678813_p0.jpg",
       "path": "uploads/2026/10/5ee5246f.jpg",
