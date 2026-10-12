@@ -3,6 +3,28 @@
   "shardId": "02",
   "images": [
     {
+      "id": "53564f17",
+      "filename": "pixiv_150710652_p0.jpg",
+      "path": "uploads/2026/10/c8137649.jpg",
+      "size": 823255,
+      "width": 1097,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3bd70553a61991014e6ccb8633d15705554cd981bc641d6c8df6b8e21fc68e0d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:53:50.317Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "るつまとめ",
+      "tags": [
+        "類司"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150710652_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150710652",
+      "sourceCreatedAt": "2026-10-11T00:44:51.000Z"
+    },
+    {
       "id": "046b1127",
       "filename": "pixiv_150690190_p0.jpg",
       "path": "uploads/2026/10/2b2ba8f3.jpg",
