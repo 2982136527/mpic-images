@@ -3,6 +3,28 @@
   "shardId": "14",
   "images": [
     {
+      "id": "8dcc2165",
+      "filename": "pixiv_150707671_p0.jpg",
+      "path": "uploads/2026/10/1a038163.jpg",
+      "size": 1089499,
+      "width": 1200,
+      "height": 901,
+      "mimeType": "image/jpeg",
+      "hash": "4ffc6e2483c186576618df308f73cf4922bff5a432c0011e494ea89670f93aed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:48:55.068Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "パラノマ伊勢まとめ",
+      "tags": [
+        "パラノマサイトFILE38伊勢人魚物語"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150707671_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150707671",
+      "sourceCreatedAt": "2026-10-10T22:20:40.000Z"
+    },
+    {
       "id": "3e4645a0",
       "filename": "pixiv_150642609_p0.jpg",
       "path": "uploads/2026/10/d280e4f9.jpg",
