@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "693089db",
+      "filename": "pixiv_150712093_p0.jpg",
+      "path": "uploads/2026/10/a7849999.jpg",
+      "size": 697744,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "dcf832ac73bc34fb3af12f6d5d4edf397a7ff691ce215de28db316c5ce58b382",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:48:22.568Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "俺はその目が嫌いだったよ",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "作画解放"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150712093_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150712093",
+      "sourceCreatedAt": "2026-10-11T01:40:29.000Z"
+    },
+    {
       "id": "742cecba",
       "filename": "pixiv_150728538_p0.jpg",
       "path": "uploads/2026/10/7309e5c9.jpg",
