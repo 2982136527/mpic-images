@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "be880e87",
+      "filename": "pixiv_150655374_p0.jpg",
+      "path": "uploads/2026/10/8222021e.jpg",
+      "size": 1329755,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7bec904687c29ac6dab6889d46ed6f73ccc75d50ad13ddfc0199f42f50c5792f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:46:06.968Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【新刊】Mangata",
+      "tags": [
+        "原神",
+        "神ノ叡智33",
+        "COMICCITYSPARK21"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150655374_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150655374",
+      "sourceCreatedAt": "2026-10-09T15:35:39.000Z"
+    },
+    {
       "id": "3565c506",
       "filename": "pixiv_150727839_p0.jpg",
       "path": "uploads/2026/10/e9c95c58.jpg",
