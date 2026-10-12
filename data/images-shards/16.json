@@ -3,6 +3,29 @@
   "shardId": "16",
   "images": [
     {
+      "id": "742cecba",
+      "filename": "pixiv_150728538_p0.jpg",
+      "path": "uploads/2026/10/7309e5c9.jpg",
+      "size": 283657,
+      "width": 700,
+      "height": 718,
+      "mimeType": "image/jpeg",
+      "hash": "9c53791b7338116b847bee4388cab540769c8bc58d78ed16f57aacbf4b075b88",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:46:28.395Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "褒められる度に振り返ってくる",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150728538_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150728538",
+      "sourceCreatedAt": "2026-10-11T10:27:05.000Z"
+    },
+    {
       "id": "18c993c9",
       "filename": "pixiv_150702254_p0.jpg",
       "path": "uploads/2026/10/a0f30a34.jpg",
