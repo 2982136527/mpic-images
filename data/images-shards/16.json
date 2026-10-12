@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "a50baeef",
+      "filename": "pixiv_150729410_p0.jpg",
+      "path": "uploads/2026/10/13785f51.jpg",
+      "size": 505986,
+      "width": 721,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "804991e72aac28e244f5f1417a4a5a1daf52bed6595c6ecc1839025192e104b8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:46:26.039Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ねむねむガール",
+      "tags": [
+        "オリジナル",
+        "高品質パンツ",
+        "ぱんつ",
+        "ドルフィンパンツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150729410_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150729410",
+      "sourceCreatedAt": "2026-10-11T10:47:28.000Z"
+    },
+    {
       "id": "33919caf",
       "filename": "pixiv_150639090_p0.jpg",
       "path": "uploads/2026/10/89b6020a.jpg",
