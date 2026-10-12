@@ -3,6 +3,37 @@
   "shardId": "00",
   "images": [
     {
+      "id": "bd4524e6",
+      "filename": "pixiv_150678813_p0.jpg",
+      "path": "uploads/2026/10/5ee5246f.jpg",
+      "size": 1027125,
+      "width": 1200,
+      "height": 885,
+      "mimeType": "image/jpeg",
+      "hash": "7ab73e6ff1de8a61b5ad4dccc5017d383d7dc49bfa83dea6ed3687a757a15713",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:47:40.566Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "プリンストン",
+      "tags": [
+        "戦艦少女",
+        "戦車",
+        "セーラー服",
+        "白ニーソ",
+        "仕事絵",
+        "戦艦少女R",
+        "フォードGPA",
+        "水陸両用車",
+        "プリンストン",
+        "ぱんつ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150678813_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150678813",
+      "sourceCreatedAt": "2026-10-10T08:18:00.000Z"
+    },
+    {
       "id": "11e2548e",
       "filename": "pixiv_150677836_p0.jpg",
       "path": "uploads/2026/10/0bc00c71.jpg",
