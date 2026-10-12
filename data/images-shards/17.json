@@ -3,6 +3,32 @@
   "shardId": "17",
   "images": [
     {
+      "id": "7870b054",
+      "filename": "pixiv_150692862_p0.jpg",
+      "path": "uploads/2026/10/60485f03.jpg",
+      "size": 1040755,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "20cda60d1e3013085cb9a84583cb5ce63af1b2bd90a1b36b6f2e7ebde6ce8fe5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:51:49.627Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "シトラリ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "シトラリ",
+        "Citlali",
+        "星と煙霧の夜話"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150692862_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150692862",
+      "sourceCreatedAt": "2026-10-10T13:31:40.000Z"
+    },
+    {
       "id": "71da7350",
       "filename": "pixiv_150721236_p0.jpg",
       "path": "uploads/2026/10/ef593d7d.jpg",
