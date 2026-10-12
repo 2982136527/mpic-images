@@ -3,6 +3,35 @@
   "shardId": "16",
   "images": [
     {
+      "id": "b5c0b6a9",
+      "filename": "pixiv_150700795_p0.jpg",
+      "path": "uploads/2026/10/c551eff9.jpg",
+      "size": 934343,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "da7c64b12cf6beaba6cc0ef31467ea10c201fd28ad7565376349c7c553c1810c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:50:40.271Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Motoko Kusanagi",
+      "tags": [
+        "girl",
+        "fanart",
+        "攻殻機動隊THE_GHOST_IN_THE_SHELL",
+        "青髪",
+        "ビーチ",
+        "草薙素子",
+        "攻殻機動隊",
+        "Kusanagi"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150700795_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150700795",
+      "sourceCreatedAt": "2026-10-10T16:16:52.000Z"
+    },
+    {
       "id": "d9ffafa4",
       "filename": "pixiv_150730951_p0.jpg",
       "path": "uploads/2026/10/eac358a0.jpg",
