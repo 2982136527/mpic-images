@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "e1f6f587",
+      "filename": "pixiv_150699445_p0.jpg",
+      "path": "uploads/2026/10/18a4170c.jpg",
+      "size": 466428,
+      "width": 500,
+      "height": 700,
+      "mimeType": "image/jpeg",
+      "hash": "d8d259f676c5667f590a12300fe1459336cb5b144a4e8e6505bdd2fe12382e18",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:48:02.927Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "命令を 命令をよこせ 我が主！",
+      "tags": [
+        "版権",
+        "ヘルシング",
+        "アーカード",
+        "HELLSING"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150699445_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150699445",
+      "sourceCreatedAt": "2026-10-10T15:40:42.000Z"
+    },
+    {
       "id": "70ed162e",
       "filename": "pixiv_150712365_p0.jpg",
       "path": "uploads/2026/10/821035f7.jpg",
