@@ -3,6 +3,35 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "166c5d28",
+      "filename": "pixiv_150717833_p0.jpg",
+      "path": "uploads/2026/10/b4b11e96.jpg",
+      "size": 1244949,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "7d993b28c90f0c91a67bcdd5c8d03b4f610dc612befb301b28708a84a0ab6b45",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T17:49:48.798Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "LUNAボーイズ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ローエン",
+        "イルーガ",
+        "ドゥリン",
+        "原神100users入り",
+        "ローエン(原神)",
+        "ドゥリン(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150717833_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150717833",
+      "sourceCreatedAt": "2026-10-11T05:14:22.000Z"
+    },
+    {
       "id": "da58d410",
       "filename": "pixiv_150679723_p0.jpg",
       "path": "uploads/2026/10/9968890b.jpg",
