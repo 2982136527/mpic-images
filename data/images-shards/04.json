@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "a300e56a",
+      "filename": "pixiv_150671259_p0.jpg",
+      "path": "uploads/2026/10/8ebdc5e6.jpg",
+      "size": 1391817,
+      "width": 839,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7279f636efb7c76d31b0bdbda00282608e9c76e3685cf295aeb5ee56f696ff4a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-12T05:51:18.614Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アニー（ミザリー）",
+      "tags": [
+        "ミザリー(スティーブン・キング)",
+        "500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150671259_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150671259",
+      "sourceCreatedAt": "2026-10-10T03:35:42.000Z"
+    },
+    {
       "id": "17530994",
       "filename": "pixiv_150724510_p0.jpg",
       "path": "uploads/2026/10/f52bfa09.jpg",
