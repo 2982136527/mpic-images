@@ -3,6 +3,35 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "f5b1d7f2",
+      "filename": "pixiv_150735285_p0.jpg",
+      "path": "uploads/2026/10/b086d6a8.jpg",
+      "size": 1462597,
+      "width": 863,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3e9b03bfe9c139512d8fe84ff889adf70e5c769870c83412a73936b12b589424",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:45:49.546Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "極寒の地はひえひえぽかぽか",
+      "tags": [
+        "原神",
+        "オデット(原神)",
+        "ヴォジャニーツァ",
+        "タルタリヤ",
+        "サンドローネ(原神)",
+        "コロンビーナ(原神)",
+        "アルレッキーノ(原神)",
+        "ファトゥス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150735285_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150735285",
+      "sourceCreatedAt": "2026-10-11T12:44:59.000Z"
+    },
+    {
       "id": "88836da3",
       "filename": "pixiv_150748288_p0.jpg",
       "path": "uploads/2026/10/4b93195b.jpg",
