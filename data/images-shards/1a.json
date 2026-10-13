@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "072cb41e",
+      "filename": "pixiv_150768668_p0.jpg",
+      "path": "uploads/2026/10/8ddb59b7.jpg",
+      "size": 1228356,
+      "width": 787,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "84750882d91a3de6d7dea7aef8f21a69c70887e1c9e57bdb60594e61832b23be",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T21:14:33.448Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "白鳳",
+      "tags": [
+        "アズールレーン",
+        "AzurLane",
+        "白鳳",
+        "Hakuho",
+        "白鳳(アズールレーン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150768668_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150768668",
+      "sourceCreatedAt": "2026-10-12T09:00:31.000Z"
+    },
+    {
       "id": "0e4f425d",
       "filename": "pixiv_150736978_p0.jpg",
       "path": "uploads/2026/10/72ef723f.jpg",
