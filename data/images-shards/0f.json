@@ -3,6 +3,35 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "3b5e9a49",
+      "filename": "pixiv_150720994_p0.jpg",
+      "path": "uploads/2026/10/47b31b12.jpg",
+      "size": 403684,
+      "width": 715,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "784acd2a82a9dc0f0f0ebaf526f2cbc534766c4fcf0d4ebe78e935ddfe02609e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T21:16:36.078Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "agent",
+      "tags": [
+        "girlsfrontline",
+        "소녀전선",
+        "少女前線",
+        "ドールズフロントライン",
+        "少前2:追放",
+        "エージェント(ドールズフロントライン)",
+        "agent",
+        "ドールズフロントライン2"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150720994_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150720994",
+      "sourceCreatedAt": "2026-10-11T07:03:13.000Z"
+    },
+    {
       "id": "1aef67b9",
       "filename": "pixiv_150730566_p0.jpg",
       "path": "uploads/2026/10/a85ef0b3.jpg",
