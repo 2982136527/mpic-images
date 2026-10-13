@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "4226cd21",
+      "filename": "pixiv_150732887_p0.jpg",
+      "path": "uploads/2026/10/306209aa.jpg",
+      "size": 387146,
+      "width": 799,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "34944408269b1784039515d0e92f0e881d9a62fb47ece4fccba700d1b1b49cbc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:48:52.545Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Elly",
+      "tags": [
+        "ケモミミ",
+        "オリジナル",
+        "うちの子",
+        "武装少女",
+        "ProjectKaribito"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150732887_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150732887",
+      "sourceCreatedAt": "2026-10-11T12:00:20.000Z"
+    },
+    {
       "id": "864678c1",
       "filename": "pixiv_150697742_p0.jpg",
       "path": "uploads/2026/10/ad4eea4f.jpg",
