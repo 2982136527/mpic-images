@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "2779d20f",
+      "filename": "pixiv_150717283_p0.jpg",
+      "path": "uploads/2026/10/46954b51.jpg",
+      "size": 745943,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "491d0bf19a1cf54ee63e974daabb6d27bb63347cec225cbdfb1489bd6ed566eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:47:55.083Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "그웬 야호~",
+      "tags": [
+        "League_of_Legends",
+        "LOL",
+        "英雄联盟",
+        "리그오브레전드",
+        "リーグ・オブ・レジェンド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150717283_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150717283",
+      "sourceCreatedAt": "2026-10-12T07:18:01.000Z"
+    },
+    {
       "id": "f248225d",
       "filename": "pixiv_150774131_p0.jpg",
       "path": "uploads/2026/10/77a6724e.jpg",
