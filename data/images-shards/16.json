@@ -3,6 +3,34 @@
   "shardId": "16",
   "images": [
     {
+      "id": "3687b43d",
+      "filename": "pixiv_150731276_p0.jpg",
+      "path": "uploads/2026/10/dfdfd0e1.jpg",
+      "size": 287525,
+      "width": 1200,
+      "height": 811,
+      "mimeType": "image/jpeg",
+      "hash": "ac784a778ee03da928d39915a70fa57a80d8f25ab55d01ddb946b4053ae23f7d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:45:12.762Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "オリジナル",
+        "イラスト",
+        "創作",
+        "少女",
+        "ギター",
+        "魚",
+        "星"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150731276_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150731276",
+      "sourceCreatedAt": "2026-10-11T11:26:46.000Z"
+    },
+    {
       "id": "693089db",
       "filename": "pixiv_150712093_p0.jpg",
       "path": "uploads/2026/10/a7849999.jpg",
