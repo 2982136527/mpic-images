@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "14bd52a7",
+      "filename": "pixiv_150761064_p0.jpg",
+      "path": "uploads/2026/10/b56af019.jpg",
+      "size": 927538,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1767b68456e3d445557b6db384670c300e5f858aeebb04e5fe4467c23553e71b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:41:09.192Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "📦📦📦",
+      "tags": [
+        "phoenix",
+        "绝区零"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150761064_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150761064",
+      "sourceCreatedAt": "2026-10-12T04:32:41.000Z"
+    },
+    {
       "id": "93caea9c",
       "filename": "pixiv_150505497_p0.jpg",
       "path": "uploads/2026/10/3e828537.jpg",
