@@ -3,6 +3,37 @@
   "shardId": "00",
   "images": [
     {
+      "id": "bbbb0c74",
+      "filename": "pixiv_150736612_p0.jpg",
+      "path": "uploads/2026/10/888e06f1.jpg",
+      "size": 1533162,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3ae372e50e627f4e7f4ac76e39331e99a14ca42b3bc91f6e1c09342755338245",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T15:59:00.544Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "初音ミク／ファイアーエムブレム 【カチュア】",
+      "tags": [
+        "ボーカロイド",
+        "VOCALOID",
+        "ProjectDIVA",
+        "初音ミク",
+        "ディメンション",
+        "ディメンション(モジュール)",
+        "ファイアーエムブレム",
+        "FE",
+        "カチュア",
+        "カチュア(ファイアーエムブレム)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150736612_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150736612",
+      "sourceCreatedAt": "2026-10-11T13:09:11.000Z"
+    },
+    {
       "id": "eda16381",
       "filename": "pixiv_150749481_p0.jpg",
       "path": "uploads/2026/10/00ddd7e1.jpg",
