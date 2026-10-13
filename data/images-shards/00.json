@@ -3,6 +3,31 @@
   "shardId": "00",
   "images": [
     {
+      "id": "a5cb0a2d",
+      "filename": "pixiv_150778074_p0.jpg",
+      "path": "uploads/2026/10/f285d03b.jpg",
+      "size": 1375524,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "0acfe3f966905919e0ab0ce27e833c4f3a5239bb6598e4e0afa336672cdfdb3f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:48:06.644Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ラウマ",
+      "tags": [
+        "原神",
+        "ラウマ",
+        "GenshinImpact",
+        "lauma"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150778074_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150778074",
+      "sourceCreatedAt": "2026-10-12T12:29:33.000Z"
+    },
+    {
       "id": "6822984c",
       "filename": "pixiv_150762074_p0.jpg",
       "path": "uploads/2026/10/bb75a12c.jpg",
