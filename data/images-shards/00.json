@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "eda16381",
+      "filename": "pixiv_150749481_p0.jpg",
+      "path": "uploads/2026/10/00ddd7e1.jpg",
+      "size": 620086,
+      "width": 824,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7af505a68756aec4b0594d5eecb51d04f59cf71d6e32cefc193d4447a2f6b180",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T15:57:48.477Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Luna (Commission)",
+      "tags": [
+        "ロリ",
+        "バーチャルYouTuber",
+        "VTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150749481_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150749481",
+      "sourceCreatedAt": "2026-10-11T19:26:11.000Z"
+    },
+    {
       "id": "a5cb0a2d",
       "filename": "pixiv_150778074_p0.jpg",
       "path": "uploads/2026/10/f285d03b.jpg",
