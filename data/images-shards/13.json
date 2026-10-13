@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "10dc5d7f",
+      "filename": "pixiv_150720464_p0.jpg",
+      "path": "uploads/2026/10/d4bad385.jpg",
+      "size": 902801,
+      "width": 1200,
+      "height": 1178,
+      "mimeType": "image/jpeg",
+      "hash": "29ce02453df4fea91ae41eacb0096c7353eb73a1daaf896f5b4ba9896ec7a0ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:43:53.279Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【约稿】小白狼#7",
+      "tags": [
+        "女の子",
+        "黒タイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150720464_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150720464",
+      "sourceCreatedAt": "2026-10-11T06:46:45.000Z"
+    },
+    {
       "id": "3a6ab889",
       "filename": "pixiv_150707726_p0.jpg",
       "path": "uploads/2026/10/f71d1e05.jpg",
