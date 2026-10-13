@@ -3,6 +3,35 @@
   "shardId": "17",
   "images": [
     {
+      "id": "b77665bf",
+      "filename": "pixiv_150767521_p0.jpg",
+      "path": "uploads/2026/10/444100b4.jpg",
+      "size": 455311,
+      "width": 1000,
+      "height": 1084,
+      "mimeType": "image/jpeg",
+      "hash": "a6307de657b5c113680b0d0290f92e3d9f7c0d708c7a3c8b402dc54e062de57c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:44:54.179Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "世界の中心は",
+      "tags": [
+        "ねこ",
+        "動物",
+        "猫",
+        "オリジナル",
+        "ましまろう",
+        "ネコ",
+        "イラスト",
+        "オリキャラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150767521_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150767521",
+      "sourceCreatedAt": "2026-10-12T08:26:11.000Z"
+    },
+    {
       "id": "cc512641",
       "filename": "pixiv_150702938_p0.jpg",
       "path": "uploads/2026/10/fe755996.jpg",
