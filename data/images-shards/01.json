@@ -3,6 +3,33 @@
   "shardId": "01",
   "images": [
     {
+      "id": "701c7c75",
+      "filename": "pixiv_150772790_p0.jpg",
+      "path": "uploads/2026/10/1eaec054.jpg",
+      "size": 2036001,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "56ca3bcfb1b012c054a8015cec03adb3c9c60db4e286507b30139d337e7a2b5a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:44:30.392Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "魔法書棚の片隅",
+      "tags": [
+        "オリジナル",
+        "イラスト",
+        "ファンタジー",
+        "本棚",
+        "蝶々",
+        "本"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150772790_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150772790",
+      "sourceCreatedAt": "2026-10-12T10:45:09.000Z"
+    },
+    {
       "id": "538b0119",
       "filename": "pixiv_150719249_p0.jpg",
       "path": "uploads/2026/10/2d9712a5.jpg",
