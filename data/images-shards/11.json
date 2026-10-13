@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "d8fbf364",
+      "filename": "pixiv_150742095_p0.jpg",
+      "path": "uploads/2026/10/dd410fa4.jpg",
+      "size": 1311873,
+      "width": 676,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2c9150f06b9e893c4869fbd301769cc79a2cd9bb0712064b207bdce59d5a040d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:41:00.096Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "秋に暮れて",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "風景",
+        "森"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150742095_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150742095",
+      "sourceCreatedAt": "2026-10-11T15:00:35.000Z"
+    },
+    {
       "id": "d0332074",
       "filename": "pixiv_150735629_p0.jpg",
       "path": "uploads/2026/10/83e616ba.jpg",
