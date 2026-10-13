@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "b887ace7",
+      "filename": "pixiv_150760542_p0.jpg",
+      "path": "uploads/2026/10/84338f09.jpg",
+      "size": 829296,
+      "width": 694,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "064f1df911942ab5535a00dc3fd2f1b499a8c85801e4afd82dbb5779dcf11f6d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T21:15:20.173Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "凶星ちゃん",
+      "tags": [
+        "女の子",
+        "悪魔",
+        "絆創膏",
+        "コンバース"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150760542_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150760542",
+      "sourceCreatedAt": "2026-10-12T04:10:47.000Z"
+    },
+    {
       "id": "8a2b0e22",
       "filename": "pixiv_150762491_p0.jpg",
       "path": "uploads/2026/10/20f33b5a.jpg",
