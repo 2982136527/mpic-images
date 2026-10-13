@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "5628b411",
+      "filename": "pixiv_150755322_p0.jpg",
+      "path": "uploads/2026/10/57d9ad2d.jpg",
+      "size": 954940,
+      "width": 1133,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1cc2602bb08ff5b1a76c40794520b8f3eb10a40f8b0e281869a6f0b739ea76c8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T21:15:28.932Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "strip poker",
+      "tags": [
+        "オリキャラ",
+        "オリジナル",
+        "Minah"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150755322_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150755322",
+      "sourceCreatedAt": "2026-10-12T00:49:11.000Z"
+    },
+    {
       "id": "20bcbd00",
       "filename": "pixiv_150770281_p0.jpg",
       "path": "uploads/2026/10/a41f3236.jpg",
