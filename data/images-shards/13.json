@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "8d3fc734",
+      "filename": "pixiv_150700410_p0.jpg",
+      "path": "uploads/2026/10/497f3363.jpg",
+      "size": 952821,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a1e3e7831bf8190e7c9b7ddd0133700a3c9fac6199fae59a2e9a662ef7a6fef4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T15:54:43.402Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ダーニャ",
+      "tags": [
+        "鳴潮",
+        "ダーニャ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150700410_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150700410",
+      "sourceCreatedAt": "2026-10-10T16:05:56.000Z"
+    },
+    {
       "id": "f9eb62c8",
       "filename": "pixiv_150698328_p0.jpg",
       "path": "uploads/2026/10/9cea3de5.jpg",
