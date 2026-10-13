@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "cb0e84d5",
+      "filename": "pixiv_150705058_p0.jpg",
+      "path": "uploads/2026/10/a3938793.jpg",
+      "size": 955139,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "32f7da901d72482d169849a910d7de44334c7bdd632cdc430aac277843d57a82",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T21:17:49.345Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "9日目：篠澤広",
+      "tags": [
+        "学園アイドルマスター",
+        "篠澤広"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150705058_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150705058",
+      "sourceCreatedAt": "2026-10-10T19:35:50.000Z"
+    },
+    {
       "id": "be34d3dc",
       "filename": "pixiv_150727426_p0.jpg",
       "path": "uploads/2026/10/fb549119.jpg",
