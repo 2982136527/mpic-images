@@ -3,6 +3,30 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "4b0537b4",
+      "filename": "pixiv_150751170_p0.jpg",
+      "path": "uploads/2026/10/b93fcc84.jpg",
+      "size": 1486484,
+      "width": 985,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "051e470215f0d5f548c6b0dca55a3135d970bcd2047c9790965e7b3a9553abe4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T15:53:56.992Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Sameko Saba",
+      "tags": [
+        "バーチャルYouTuber",
+        "サメコサバ",
+        "SamekoSaba"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150751170_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150751170",
+      "sourceCreatedAt": "2026-10-11T21:21:50.000Z"
+    },
+    {
       "id": "f5b1d7f2",
       "filename": "pixiv_150735285_p0.jpg",
       "path": "uploads/2026/10/b086d6a8.jpg",
