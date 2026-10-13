@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "73140c06",
+      "filename": "pixiv_150698187_p0.jpg",
+      "path": "uploads/2026/10/1d33c142.jpg",
+      "size": 292753,
+      "width": 700,
+      "height": 953,
+      "mimeType": "image/jpeg",
+      "hash": "6234691e8e939cca2325b49084d69db706b609aab06968c6e3a3c926290a43e1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:49:10.223Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "最近描いた絵とか",
+      "tags": [
+        "ブルーアーカイブ",
+        "コクリコ(ブルーアーカイブ)",
+        "箭吹シュロ",
+        "勇美カエデ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150698187_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150698187",
+      "sourceCreatedAt": "2026-10-10T15:10:57.000Z"
+    },
+    {
       "id": "bad14a0b",
       "filename": "pixiv_150770102_p0.jpg",
       "path": "uploads/2026/10/d6ad7ec5.jpg",
