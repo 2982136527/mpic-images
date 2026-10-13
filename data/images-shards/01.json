@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "bdc8a2a9",
+      "filename": "pixiv_150773053_p0.jpg",
+      "path": "uploads/2026/10/22b7e73e.jpg",
+      "size": 1123462,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d6bf13f34253c16a591b5297e901ee2c8617c5ed060dde0d1271f10b04fcad57",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:40:04.538Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "初めての音が鳴る",
+      "tags": [
+        "名探偵プリキュア!",
+        "森亜るるか",
+        "帆羽くれあ",
+        "るるくれ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150773053_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150773053",
+      "sourceCreatedAt": "2026-10-12T10:51:40.000Z"
+    },
+    {
       "id": "8132c279",
       "filename": "pixiv_150701494_p0.jpg",
       "path": "uploads/2026/10/52d2addf.jpg",
