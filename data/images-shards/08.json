@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "1f43655e",
+      "filename": "pixiv_150755680_p0.jpg",
+      "path": "uploads/2026/10/d764694a.jpg",
+      "size": 597148,
+      "width": 855,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ec3ca0bfca06de687027df2e7a4cc7be4f4d63d6b55f014c0455883e6e5268f2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T15:56:27.376Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Paski",
+      "tags": [
+        "OC",
+        "オリジナル",
+        "オリジナルキャラクター",
+        "Original"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150755680_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150755680",
+      "sourceCreatedAt": "2026-10-12T01:01:33.000Z"
+    },
+    {
       "id": "3e989b95",
       "filename": "pixiv_150745406_p0.jpg",
       "path": "uploads/2026/10/1f848ca4.jpg",
