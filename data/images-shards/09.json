@@ -3,6 +3,30 @@
   "shardId": "09",
   "images": [
     {
+      "id": "d7280a07",
+      "filename": "pixiv_150736534_p0.jpg",
+      "path": "uploads/2026/10/3020fa0f.jpg",
+      "size": 1049223,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a21c7cbb36066525f2f083bd1f0bae6017c1e01428dd3613a9ea1f5f8704016b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T15:52:32.684Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "コナン漫画詰め②",
+      "tags": [
+        "名探偵コナン",
+        "灰原哀",
+        "少年探偵団"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150736534_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150736534",
+      "sourceCreatedAt": "2026-10-11T13:07:45.000Z"
+    },
+    {
       "id": "f8b8c839",
       "filename": "pixiv_150716474_p0.jpg",
       "path": "uploads/2026/10/ca9f5161.jpg",
