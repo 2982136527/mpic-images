@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "ea12f47a",
+      "filename": "pixiv_150742117_p0.jpg",
+      "path": "uploads/2026/10/8f1ca2e4.jpg",
+      "size": 1229654,
+      "width": 725,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b4a4429c42f3b884d396b3ed15211d6fb0e7cbf6833e9c765099b9fa8ec466e1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T21:11:03.805Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "♡",
+      "tags": [
+        "東方",
+        "東方Project",
+        "フランドール・スカーレット",
+        "レミリア・スカーレット",
+        "お嬢様"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150742117_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150742117",
+      "sourceCreatedAt": "2026-10-11T15:00:38.000Z"
+    },
+    {
       "id": "e0e5d9c4",
       "filename": "pixiv_150761650_p0.jpg",
       "path": "uploads/2026/10/3d31de3f.jpg",
