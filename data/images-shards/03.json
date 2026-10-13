@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "de93c64d",
+      "filename": "pixiv_150779132_p0.jpg",
+      "path": "uploads/2026/10/b66f72c2.jpg",
+      "size": 767137,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "405e3078e7029564f99d5120cd1a7b0160534bf5dd09f33311f923cca7040a34",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T15:56:01.578Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "魔理沙まとめ",
+      "tags": [
+        "東方Project",
+        "東方",
+        "霧雨魔理沙"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150779132_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150779132",
+      "sourceCreatedAt": "2026-10-12T12:49:50.000Z"
+    },
+    {
       "id": "b6740287",
       "filename": "pixiv_150693805_p0.jpg",
       "path": "uploads/2026/10/789a1b57.jpg",
