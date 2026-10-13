@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "ca0a29c2",
+      "filename": "pixiv_150778350_p0.jpg",
+      "path": "uploads/2026/10/45592d36.jpg",
+      "size": 1395061,
+      "width": 701,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9b3c915b1f5b55d9a01c5746873f32f1bcb5a47df6bcd2ba36008ebf24c2a5db",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T15:57:08.198Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "カフカ",
+      "tags": [
+        "崩壊スターレイル",
+        "HonkaiStarRail",
+        "カフカ(スターレイル)",
+        "Kafka"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150778350_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150778350",
+      "sourceCreatedAt": "2026-10-12T12:33:36.000Z"
+    },
+    {
       "id": "e23bbfa1",
       "filename": "pixiv_150724698_p0.jpg",
       "path": "uploads/2026/10/b8682ed9.jpg",
