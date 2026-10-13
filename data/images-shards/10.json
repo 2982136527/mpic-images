@@ -3,6 +3,28 @@
   "shardId": "10",
   "images": [
     {
+      "id": "20bcbd00",
+      "filename": "pixiv_150770281_p0.jpg",
+      "path": "uploads/2026/10/a41f3236.jpg",
+      "size": 1186463,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "8f60ae24a26d0c42a6be15c1351a7564c175102312ee29c89f6fb0fedb4b0e50",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T21:14:02.276Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ファイキュレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150770281_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150770281",
+      "sourceCreatedAt": "2026-10-12T09:41:00.000Z"
+    },
+    {
       "id": "73140c06",
       "filename": "pixiv_150698187_p0.jpg",
       "path": "uploads/2026/10/1d33c142.jpg",
