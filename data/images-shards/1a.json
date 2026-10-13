@@ -3,6 +3,36 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "0e4f425d",
+      "filename": "pixiv_150736978_p0.jpg",
+      "path": "uploads/2026/10/72ef723f.jpg",
+      "size": 730353,
+      "width": 696,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7f83aaa8231fe0ab26ef88be74038a827c30f11b5dc66e7a739597bfa0dc820a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T21:12:21.234Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "fgo最近描いたやつ",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "リリス(Fate)",
+        "千子村正/燕青/刑部姫/虞美人/徐福/オルガマリー",
+        "フランケンシュタイン/クリームヒルト/ダンテ・アリギエーリ",
+        "謎のアルターエゴ・Λ/メルトリリス(水着)",
+        "清少納言(水着)",
+        "ヤン・ジシュカ(Fate)",
+        "キングプロテア(水着)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150736978_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150736978",
+      "sourceCreatedAt": "2026-10-11T13:16:15.000Z"
+    },
+    {
       "id": "7f774cb7",
       "filename": "pixiv_150776634_p0.jpg",
       "path": "uploads/2026/10/3d753f41.jpg",
