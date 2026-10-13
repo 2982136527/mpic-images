@@ -3,6 +3,36 @@
   "shardId": "08",
   "images": [
     {
+      "id": "3e989b95",
+      "filename": "pixiv_150745406_p0.jpg",
+      "path": "uploads/2026/10/1f848ca4.jpg",
+      "size": 1051411,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3045b4ceaaab66ef03929ceb0410b20b1e65f76981aad3586519e9be5caafbb0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:46:48.765Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "たんプリ絵まとめ",
+      "tags": [
+        "たんプリ",
+        "名探偵プリキュア!",
+        "帆羽くれあ",
+        "森亜るるか",
+        "るるくれ",
+        "シュシュタン",
+        "鬱展開",
+        "ウソノワール(妖精態)",
+        "くれるる"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150745406_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150745406",
+      "sourceCreatedAt": "2026-10-11T16:11:41.000Z"
+    },
+    {
       "id": "9f2c6e64",
       "filename": "pixiv_150653889_p0.jpg",
       "path": "uploads/2026/10/51ec6edd.jpg",
