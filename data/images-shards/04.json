@@ -3,6 +3,30 @@
   "shardId": "04",
   "images": [
     {
+      "id": "7d2f7f7f",
+      "filename": "pixiv_150764183_p0.jpg",
+      "path": "uploads/2026/10/c810d54c.jpg",
+      "size": 551980,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4c438fd2400d7cee86210769eaffa3521374c5a5718a0985a1da1c286070f664",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:48:16.195Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Doraco Malfoid",
+      "tags": [
+        "Malfoy",
+        "Malfoid",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150764183_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150764183",
+      "sourceCreatedAt": "2026-10-12T06:34:32.000Z"
+    },
+    {
       "id": "65f8f5b4",
       "filename": "pixiv_150726819_p0.jpg",
       "path": "uploads/2026/10/a1bef967.jpg",
