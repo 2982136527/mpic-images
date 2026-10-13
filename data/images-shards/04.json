@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "e4f7e401",
+      "filename": "pixiv_150739331_p0.jpg",
+      "path": "uploads/2026/10/0bb9aa7a.jpg",
+      "size": 533668,
+      "width": 734,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a9aa38650a9df70cfcf3c32db029f3973ac8a32a671d8070d9b42b4065f46107",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T16:01:02.633Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🖐️",
+      "tags": [
+        "AZZ",
+        "ZenlessZoneZero",
+        "ZZZ",
+        "ZZZero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150739331_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150739331",
+      "sourceCreatedAt": "2026-10-11T14:02:53.000Z"
+    },
+    {
       "id": "cad269fa",
       "filename": "pixiv_150742159_p0.jpg",
       "path": "uploads/2026/10/3f2758e3.jpg",
