@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "0e94d1d6",
+      "filename": "pixiv_150735929_p0.jpg",
+      "path": "uploads/2026/10/fd2a2ed2.jpg",
+      "size": 1381384,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dd410be9f574669dfe8a2b6c97e5144c0d5fd7d2af42fa13105863d07938bc28",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T21:14:43.502Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "インテレオン",
+      "tags": [
+        "ポケットモンスター",
+        "pokemon",
+        "ポケモン",
+        "インテレオン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150735929_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150735929",
+      "sourceCreatedAt": "2026-10-11T12:59:13.000Z"
+    },
+    {
       "id": "74be85ad",
       "filename": "pixiv_150762998_p0.jpg",
       "path": "uploads/2026/10/496b7929.jpg",
