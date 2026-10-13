@@ -3,6 +3,31 @@
   "shardId": "12",
   "images": [
     {
+      "id": "1ec905e9",
+      "filename": "pixiv_150727863_p0.jpg",
+      "path": "uploads/2026/10/d22f1467.jpg",
+      "size": 879527,
+      "width": 1200,
+      "height": 867,
+      "mimeType": "image/jpeg",
+      "hash": "d89fee06cbb4f67c43b0224c08be644ea1522b6af0b767f142bf7dfaee6f620b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T15:55:05.934Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "グルーシャさんまとめ(後半女装)",
+      "tags": [
+        "ポケモンSV",
+        "ポケモン人間絵",
+        "グルーシャ(トレーナー)",
+        "女装"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150727863_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150727863",
+      "sourceCreatedAt": "2026-10-11T10:09:14.000Z"
+    },
+    {
       "id": "fb48266a",
       "filename": "pixiv_150697308_p0.jpg",
       "path": "uploads/2026/10/5b56241b.jpg",
