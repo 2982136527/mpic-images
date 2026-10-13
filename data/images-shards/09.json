@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "e88aed88",
+      "filename": "pixiv_150750158_p0.jpg",
+      "path": "uploads/2026/10/fde34017.jpg",
+      "size": 353401,
+      "width": 1020,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "89fc6c2ac1af70ebc14a652294e95aa93a075b7dde0ec96152c0c26bc6c78186",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T15:53:25.824Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "もちもち坊っちゃま(？)らくがきまとめ",
+      "tags": [
+        "ゆゆあき"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150750158_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150750158",
+      "sourceCreatedAt": "2026-10-11T20:17:38.000Z"
+    },
+    {
       "id": "d7280a07",
       "filename": "pixiv_150736534_p0.jpg",
       "path": "uploads/2026/10/3020fa0f.jpg",
