@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "6d348254",
+      "filename": "pixiv_150754059_p0.jpg",
+      "path": "uploads/2026/10/8ad6cf3e.jpg",
+      "size": 926965,
+      "width": 834,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6b8e52ea9717cb59d259092c43ec89b2bed079b96edfcb057b175fede94183f7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:47:16.115Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "秋コーデびあちゃん",
+      "tags": [
+        "オリジナル",
+        "猫耳",
+        "けもみみ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150754059_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150754059",
+      "sourceCreatedAt": "2026-10-11T23:48:35.000Z"
+    },
+    {
       "id": "a3d7dde4",
       "filename": "pixiv_150739644_p0.jpg",
       "path": "uploads/2026/10/33c333b0.jpg",
