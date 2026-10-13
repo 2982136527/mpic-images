@@ -3,6 +3,34 @@
   "shardId": "11",
   "images": [
     {
+      "id": "b3d6fa8e",
+      "filename": "pixiv_150757846_p0.jpg",
+      "path": "uploads/2026/10/9c41d817.jpg",
+      "size": 567737,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "456459d5d5a4c905a694b33c07ab77a368b2b413ff08b7c959b3769da71c101e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T15:57:28.558Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "フリルが上手く描けない人へ",
+      "tags": [
+        "コツ",
+        "ハウツー",
+        "描き方",
+        "練習法",
+        "上達法",
+        "フリル",
+        "スカート"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150757846_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150757846",
+      "sourceCreatedAt": "2026-10-12T02:32:44.000Z"
+    },
+    {
       "id": "d8fbf364",
       "filename": "pixiv_150742095_p0.jpg",
       "path": "uploads/2026/10/dd410fa4.jpg",
