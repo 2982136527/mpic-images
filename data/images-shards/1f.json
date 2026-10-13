@@ -3,6 +3,30 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "8fa33514",
+      "filename": "pixiv_150738471_p0.jpg",
+      "path": "uploads/2026/10/e8ac0425.jpg",
+      "size": 767344,
+      "width": 739,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e2a4640595f26e535fdd1c45521be935f6e23b76d0e0fd416ca2c924bde5e79e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:49:26.595Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "ブラジャー",
+        "スクール水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150738471_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150738471",
+      "sourceCreatedAt": "2026-10-11T13:46:04.000Z"
+    },
+    {
       "id": "de725a45",
       "filename": "pixiv_150720721_p0.jpg",
       "path": "uploads/2026/10/dd75542e.jpg",
