@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "f1beec32",
+      "filename": "pixiv_150750189_p0.jpg",
+      "path": "uploads/2026/10/59fda469.jpg",
+      "size": 210500,
+      "width": 703,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a0b7e3e24abb6ba4bf374a5a2f3790175e00317d5c188c83d476e436d8a6783a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T21:14:59.573Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Untitled",
+      "tags": [
+        "崩壊3rd",
+        "ブローニャ・ザイチク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150750189_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150750189",
+      "sourceCreatedAt": "2026-10-11T20:19:31.000Z"
+    },
+    {
       "id": "d551c7ef",
       "filename": "pixiv_150757761_p0.jpg",
       "path": "uploads/2026/10/511386c8.jpg",
