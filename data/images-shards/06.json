@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "32ee60da",
+      "filename": "pixiv_150742109_p0.jpg",
+      "path": "uploads/2026/10/e68ba593.jpg",
+      "size": 469403,
+      "width": 800,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "526c5496d2bd39578956232b6e0709f2d5ae692141ac9b1a9a796a2c7cde010c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T21:10:41.146Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "頬っぺた",
+      "tags": [
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ",
+        "レミエール・ダン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150742109_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150742109",
+      "sourceCreatedAt": "2026-10-11T15:00:37.000Z"
+    },
+    {
       "id": "82e7748d",
       "filename": "pixiv_150738029_p0.jpg",
       "path": "uploads/2026/10/ebf29cb7.jpg",
