@@ -3,6 +3,31 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "af5abb27",
+      "filename": "pixiv_150716663_p0.jpg",
+      "path": "uploads/2026/10/0c219b74.jpg",
+      "size": 785659,
+      "width": 666,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d47b941f3c5521e2a4e6b1118273fe59560aad83ed3b8d30fc6c45051c2e8d81",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T21:13:21.263Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Malfoid",
+      "tags": [
+        "Malfoid",
+        "女の子",
+        "二次創作",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150716663_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150716663",
+      "sourceCreatedAt": "2026-10-11T04:29:07.000Z"
+    },
+    {
       "id": "6c71a7a8",
       "filename": "pixiv_150656585_p0.jpg",
       "path": "uploads/2026/10/e846f1d6.jpg",
