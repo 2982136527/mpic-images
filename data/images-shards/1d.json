@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "97174c09",
+      "filename": "pixiv_150761383_p0.jpg",
+      "path": "uploads/2026/10/2d2f7390.jpg",
+      "size": 834021,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "918a29946f08fbd5f56a8c1da1274b9a79f33392fbcf69ab3dc4de702c9dae46",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:45:21.655Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "スポーツの日",
+      "tags": [
+        "オリジナル",
+        "佐藤めい",
+        "競泳水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150761383_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150761383",
+      "sourceCreatedAt": "2026-10-12T04:45:12.000Z"
+    },
+    {
       "id": "355af2e8",
       "filename": "pixiv_150737236_p0.jpg",
       "path": "uploads/2026/10/e0555eb1.jpg",
