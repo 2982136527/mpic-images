@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "65f8f5b4",
+      "filename": "pixiv_150726819_p0.jpg",
+      "path": "uploads/2026/10/a1bef967.jpg",
+      "size": 985856,
+      "width": 659,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1fce0fc18c0a6c3a43ac16480eb1c9dd100eed998d31b4fd8f313fcfa1ae78fa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:44:02.199Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "水着ロビン",
+      "tags": [
+        "崩壊スターレイル",
+        "HonkaiStarRail",
+        "ロビン(スターレイル)",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150726819_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150726819",
+      "sourceCreatedAt": "2026-10-11T09:46:43.000Z"
+    },
+    {
       "id": "a300e56a",
       "filename": "pixiv_150671259_p0.jpg",
       "path": "uploads/2026/10/8ebdc5e6.jpg",
