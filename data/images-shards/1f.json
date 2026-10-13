@@ -3,6 +3,35 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "de725a45",
+      "filename": "pixiv_150720721_p0.jpg",
+      "path": "uploads/2026/10/dd75542e.jpg",
+      "size": 508853,
+      "width": 1200,
+      "height": 807,
+      "mimeType": "image/jpeg",
+      "hash": "c25666e5a9244b4a3dc3455adde3e70fc925bbd8a2790ae4b5b88f4e50fd8064",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:48:32.897Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "파티피플",
+      "tags": [
+        "창작",
+        "人外",
+        "集合",
+        "道化師",
+        "clown",
+        "OC",
+        "うちの子",
+        "オリキャラ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150720721_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150720721",
+      "sourceCreatedAt": "2026-10-11T06:56:06.000Z"
+    },
+    {
       "id": "e6ec9ce0",
       "filename": "pixiv_150749396_p0.jpg",
       "path": "uploads/2026/10/00d60a4d.jpg",
