@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "8e08a3d8",
+      "filename": "pixiv_150741597_p0.jpg",
+      "path": "uploads/2026/10/b5d68e08.jpg",
+      "size": 773796,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e6b75c31c1aa6b9b8746d0155c89f5c7e6fb2c42d61f490581f3a2ededcc53ae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:43:23.909Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "黍",
+      "tags": [
+        "黍",
+        "明日方舟",
+        "シュウ(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150741597_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150741597",
+      "sourceCreatedAt": "2026-10-11T14:53:08.000Z"
+    },
+    {
       "id": "4b2ea95f",
       "filename": "pixiv_150710609_p0.jpg",
       "path": "uploads/2026/10/83cc0f2c.jpg",
