@@ -3,6 +3,29 @@
   "shardId": "03",
   "images": [
     {
+      "id": "e3210d33",
+      "filename": "pixiv_150770053_p0.jpg",
+      "path": "uploads/2026/10/43f92636.jpg",
+      "size": 535720,
+      "width": 1150,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3adaabaead327e08d99b7a5503deb955f8d3b0480486eaf6ca39a3727cae8198",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T16:00:35.322Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "1012",
+      "tags": [
+        "女の子",
+        "Beautiful"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150770053_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150770053",
+      "sourceCreatedAt": "2026-10-12T09:34:14.000Z"
+    },
+    {
       "id": "3d8990e5",
       "filename": "pixiv_150731723_p0.jpg",
       "path": "uploads/2026/10/a4a9fd4a.jpg",
