@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "b215e52d",
+      "filename": "pixiv_150725995_p0.jpg",
+      "path": "uploads/2026/10/6f4bbaf4.jpg",
+      "size": 298532,
+      "width": 874,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6094e354fc9c9ceee90cb5452c959a9521db6bdbc31df5d7398c2539d035ce9a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-13T06:49:18.556Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "루시우스 말포이",
+      "tags": [
+        "일러스트",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150725995_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150725995",
+      "sourceCreatedAt": "2026-10-11T09:25:45.000Z"
+    },
+    {
       "id": "6d348254",
       "filename": "pixiv_150754059_p0.jpg",
       "path": "uploads/2026/10/8ad6cf3e.jpg",
