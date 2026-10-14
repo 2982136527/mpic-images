@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "8607a3c6",
+      "filename": "pixiv_150805863_p0.jpg",
+      "path": "uploads/2026/10/0d1bff9e.jpg",
+      "size": 1247727,
+      "width": 1200,
+      "height": 940,
+      "mimeType": "image/jpeg",
+      "hash": "15b28be9845be5eed76d4365ea873f5d40cd5afb262ac2aa1c99412132933a2a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:49:50.935Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ザンニー新衣装",
+      "tags": [
+        "鳴潮",
+        "ザンニー",
+        "鸣潮",
+        "WutheringWaves"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150805863_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150805863",
+      "sourceCreatedAt": "2026-10-13T08:26:09.000Z"
+    },
+    {
       "id": "78f772fc",
       "filename": "pixiv_150783707_p0.jpg",
       "path": "uploads/2026/10/65c62a93.jpg",
