@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "966918b4",
+      "filename": "pixiv_150771604_p0.jpg",
+      "path": "uploads/2026/10/7562915e.jpg",
+      "size": 505342,
+      "width": 833,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "a2dc6521bc807a1f5576d185943601d3412dc05ea440140d5fa83744ce9f647d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:48:33.811Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【精霊幻想記】セリア=クレール (立ち絵)",
+      "tags": [
+        "精霊幻想記",
+        "セリア=クレール",
+        "立ち絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150771604_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150771604",
+      "sourceCreatedAt": "2026-10-12T10:14:32.000Z"
+    },
+    {
       "id": "1b612acc",
       "filename": "pixiv_150748358_p0.jpg",
       "path": "uploads/2026/10/700b3592.jpg",
