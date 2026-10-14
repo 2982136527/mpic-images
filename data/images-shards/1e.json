@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "6e6b4e35",
+      "filename": "pixiv_150806655_p0.jpg",
+      "path": "uploads/2026/10/45415518.jpg",
+      "size": 1263574,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "e3cb9ba11e3fe69ccf3072f98f48fbd92d3af048724caa8221e00aab7f9359b1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:45:36.802Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ナイトプール",
+      "tags": [
+        "女の子",
+        "水着",
+        "原神"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150806655_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150806655",
+      "sourceCreatedAt": "2026-10-13T08:56:08.000Z"
+    },
+    {
       "id": "a499b2e6",
       "filename": "pixiv_150770525_p0.jpg",
       "path": "uploads/2026/10/6f1d4037.jpg",
