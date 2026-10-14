@@ -3,6 +3,32 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "d8d45877",
+      "filename": "pixiv_150811567_p0.jpg",
+      "path": "uploads/2026/10/e825e58e.jpg",
+      "size": 530625,
+      "width": 1200,
+      "height": 696,
+      "mimeType": "image/jpeg",
+      "hash": "72ca0b30ab82ffc1077f0d0110d118078b779d8ffc75d43de281602177730f8b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:45:33.140Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🌞",
+      "tags": [
+        "Limbus_Company",
+        "カルメン(LobotomyCorporation)",
+        "LobotomyCorporation",
+        "Carmen",
+        "Ayin"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150811567_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150811567",
+      "sourceCreatedAt": "2026-10-13T11:04:48.000Z"
+    },
+    {
       "id": "79183f0b",
       "filename": "pixiv_150768669_p0.jpg",
       "path": "uploads/2026/10/ee01a774.jpg",
