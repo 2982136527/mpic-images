@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "0d9705a7",
+      "filename": "pixiv_150744606_p0.jpg",
+      "path": "uploads/2026/10/b2404cfc.jpg",
+      "size": 1523059,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dbe0e34fe8c607bc5d0519fd85bbf5275d014d95ac2e4afc3be015c7d27b543c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T20:09:19.428Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Lemuen🌟",
+      "tags": [
+        "明日方舟",
+        "アークナイツ",
+        "Arknights",
+        "レミュアン(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150744606_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150744606",
+      "sourceCreatedAt": "2026-10-11T15:50:43.000Z"
+    },
+    {
       "id": "2824d7bd",
       "filename": "pixiv_150806364_p0.jpg",
       "path": "uploads/2026/10/4806fa2c.jpg",
