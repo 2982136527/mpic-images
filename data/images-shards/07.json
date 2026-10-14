@@ -3,6 +3,29 @@
   "shardId": "07",
   "images": [
     {
+      "id": "34d99875",
+      "filename": "pixiv_150803923_p0.jpg",
+      "path": "uploads/2026/10/b156f9da.jpg",
+      "size": 739395,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cb926e9dc7c636f8edbd620211138843722dcf2e119683d435099d677767f0a2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:43:41.842Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "307. さつま芋コーデ",
+      "tags": [
+        "オリジナル",
+        "1日1枚"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150803923_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150803923",
+      "sourceCreatedAt": "2026-10-13T06:59:42.000Z"
+    },
+    {
       "id": "07ae896b",
       "filename": "pixiv_150794633_p0.jpg",
       "path": "uploads/2026/10/7bfe436b.jpg",
