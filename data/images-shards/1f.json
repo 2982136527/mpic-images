@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "03aaa291",
+      "filename": "pixiv_150783556_p0.jpg",
+      "path": "uploads/2026/10/88767b9e.jpg",
+      "size": 1543412,
+      "width": 1200,
+      "height": 772,
+      "mimeType": "image/jpeg",
+      "hash": "f912a2a95a2bde1f31917f8eb0aeec32c9c17cecdd6b213bdc874043490a42ed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:48:42.124Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "懺悔",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ローエン",
+        "Lohen"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150783556_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150783556",
+      "sourceCreatedAt": "2026-10-12T14:20:38.000Z"
+    },
+    {
       "id": "d8d45877",
       "filename": "pixiv_150811567_p0.jpg",
       "path": "uploads/2026/10/e825e58e.jpg",
