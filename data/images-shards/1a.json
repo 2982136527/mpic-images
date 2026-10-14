@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "f00aa95c",
+      "filename": "pixiv_150798878_p0.jpg",
+      "path": "uploads/2026/10/95090fdb.jpg",
+      "size": 192177,
+      "width": 712,
+      "height": 769,
+      "mimeType": "image/jpeg",
+      "hash": "9017828c3723a37cfd3d502c74530a29b0ec9486315bdfc33c18000ac5e6140a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:43:05.275Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Untitled",
+      "tags": [
+        "malfoy",
+        "harrypotter",
+        "shygirl",
+        "♀ドラコ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150798878_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150798878",
+      "sourceCreatedAt": "2026-10-13T02:36:26.000Z"
+    },
+    {
       "id": "db46b404",
       "filename": "pixiv_150807991_p0.jpg",
       "path": "uploads/2026/10/ee4905e6.jpg",
