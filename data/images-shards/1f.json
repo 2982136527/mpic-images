@@ -3,6 +3,28 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "921627da",
+      "filename": "pixiv_150803414_p0.jpg",
+      "path": "uploads/2026/10/ecd68e94.jpg",
+      "size": 368562,
+      "width": 915,
+      "height": 878,
+      "mimeType": "image/jpeg",
+      "hash": "d3b58a9d93b96517c2d80a4818abf7eae029ce2151935ee6438fbb83e5dc4ef5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:51:31.792Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ヨーギラスまとめ",
+      "tags": [
+        "ヨーギラス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150803414_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150803414",
+      "sourceCreatedAt": "2026-10-13T06:30:45.000Z"
+    },
+    {
       "id": "03aaa291",
       "filename": "pixiv_150783556_p0.jpg",
       "path": "uploads/2026/10/88767b9e.jpg",
