@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "9cb102ef",
+      "filename": "pixiv_150791588_p0.jpg",
+      "path": "uploads/2026/10/fb558267.jpg",
+      "size": 1181159,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a74bde33fd62135bd3d13a4be1491d14aa0b2b1f8d3f22ca986c085a33c3acfe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:43:54.204Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "latex Phoenix",
+      "tags": [
+        "ラバースーツ",
+        "zzzero",
+        "latex",
+        "Phoenix"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150791588_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150791588",
+      "sourceCreatedAt": "2026-10-12T18:42:13.000Z"
+    },
+    {
       "id": "1095aeec",
       "filename": "pixiv_150751053_p0.jpg",
       "path": "uploads/2026/10/2c8bf174.jpg",
