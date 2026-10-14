@@ -3,6 +3,28 @@
   "shardId": "18",
   "images": [
     {
+      "id": "ff3263e4",
+      "filename": "pixiv_150795428_p0.jpg",
+      "path": "uploads/2026/10/c4bdc9ee.jpg",
+      "size": 1077163,
+      "width": 1200,
+      "height": 960,
+      "mimeType": "image/jpeg",
+      "hash": "b18c07ec268e4d9bf8853dd81bf19a7a2f239bd8f4409ce1826d84b186f7e4ec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:48:17.385Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "skeleton boy",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150795428_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150795428",
+      "sourceCreatedAt": "2026-10-12T22:58:10.000Z"
+    },
+    {
       "id": "07ab19ba",
       "filename": "pixiv_150801192_p0.jpg",
       "path": "uploads/2026/10/23ba0123.jpg",
