@@ -3,6 +3,28 @@
   "shardId": "09",
   "images": [
     {
+      "id": "823ee857",
+      "filename": "pixiv_150804250_p0.jpg",
+      "path": "uploads/2026/10/71a57075.jpg",
+      "size": 282266,
+      "width": 1200,
+      "height": 801,
+      "mimeType": "image/jpeg",
+      "hash": "2403a6fe61643cab6d3a34b93856a4912c8c087ee2c8f798af4cec139b9447c5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T20:13:18.889Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "文化祭のお話を考えています",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150804250_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150804250",
+      "sourceCreatedAt": "2026-10-13T07:15:05.000Z"
+    },
+    {
       "id": "6f8b5197",
       "filename": "pixiv_150793123_p0.jpg",
       "path": "uploads/2026/10/f513ceb7.jpg",
