@@ -3,6 +3,34 @@
   "shardId": "01",
   "images": [
     {
+      "id": "9d6255bb",
+      "filename": "pixiv_150811833_p0.jpg",
+      "path": "uploads/2026/10/c616fb71.jpg",
+      "size": 1251392,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "926642ffe0d974f1823b723572818eb188ca405e4eaeb99c2c24e8cf3d3c85d6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:40:58.586Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "絕區零-菲歐妮",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "绝区零",
+        "フィオニー・レファエラ",
+        "zzzero",
+        "Phoenix",
+        "不幸な少女03"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150811833_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150811833",
+      "sourceCreatedAt": "2026-10-13T11:14:08.000Z"
+    },
+    {
       "id": "045eb9f4",
       "filename": "pixiv_150806682_p0.jpg",
       "path": "uploads/2026/10/78c69ae4.jpg",
