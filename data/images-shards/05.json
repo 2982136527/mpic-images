@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "360f8b2e",
+      "filename": "pixiv_150808260_p0.jpg",
+      "path": "uploads/2026/10/cb019d88.jpg",
+      "size": 757512,
+      "width": 676,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a6428e443f32f5f4d8483ea5d1c43f62cab68736fa38eb40e8268747fea4bcc1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T20:16:42.181Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "レミエール",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "レミエール・ダン",
+        "翼",
+        "ピンク髪",
+        "太もも"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150808260_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150808260",
+      "sourceCreatedAt": "2026-10-13T09:41:32.000Z"
+    },
+    {
       "id": "1f40f19d",
       "filename": "pixiv_150802002_p0.jpg",
       "path": "uploads/2026/10/bcade1c8.jpg",
