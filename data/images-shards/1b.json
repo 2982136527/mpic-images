@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "3c91d380",
+      "filename": "pixiv_150785376_p0.jpg",
+      "path": "uploads/2026/10/8d2f19de.jpg",
+      "size": 1190691,
+      "width": 615,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "744efc6b170e6e75156f690037d5ad640f811e26cd3c81bf0e4e764ff0c3772c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:46:42.197Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "luno",
+      "tags": [
+        "女の子",
+        "鸣潮",
+        "WutheringWaves",
+        "ユーノ",
+        "ユーノ(鳴潮)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150785376_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150785376",
+      "sourceCreatedAt": "2026-10-12T15:00:24.000Z"
+    },
+    {
       "id": "5901f5b5",
       "filename": "pixiv_150778546_p0.jpg",
       "path": "uploads/2026/10/eadde73c.jpg",
