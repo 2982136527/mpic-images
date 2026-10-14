@@ -3,6 +3,33 @@
   "shardId": "05",
   "images": [
     {
+      "id": "5addd31c",
+      "filename": "pixiv_150772445_p0.jpg",
+      "path": "uploads/2026/10/f0094066.jpg",
+      "size": 1073423,
+      "width": 720,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "29e182792d757e7c652370d443ca06f800f9d1cafa78dce670b327902d85a053",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:47:06.368Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Phoenix",
+      "tags": [
+        "フィオニー",
+        "フィオニー・レファエラ",
+        "ゼンレスゾーンゼロ",
+        "绝区零",
+        "ゼンゼロ",
+        "空想症候群"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150772445_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150772445",
+      "sourceCreatedAt": "2026-10-12T10:36:40.000Z"
+    },
+    {
       "id": "7fb859b4",
       "filename": "pixiv_150742279_p0.jpg",
       "path": "uploads/2026/10/33c2cf64.jpg",
