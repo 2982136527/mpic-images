@@ -3,6 +3,33 @@
   "shardId": "18",
   "images": [
     {
+      "id": "66540e53",
+      "filename": "pixiv_150819759_p0.jpg",
+      "path": "uploads/2026/10/dba23c06.jpg",
+      "size": 751769,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "21fdeb12c2aeb915ff78923f095596d2a5c4c1b0243acb7ee56ca900d5a3a3eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:41:19.369Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "うちの子",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "水着",
+        "下着",
+        "ガーターベルト",
+        "サイハイソックス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150819759_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150819759",
+      "sourceCreatedAt": "2026-10-13T14:07:02.000Z"
+    },
+    {
       "id": "d515c3cd",
       "filename": "pixiv_150769630_p0.jpg",
       "path": "uploads/2026/10/4e1e349a.jpg",
