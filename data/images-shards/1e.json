@@ -3,6 +3,28 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "a499b2e6",
+      "filename": "pixiv_150770525_p0.jpg",
+      "path": "uploads/2026/10/6f1d4037.jpg",
+      "size": 641712,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f7d392cd1990ba74752ec2d897c4318892daef33aa497c340803ca4bfeffd448",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:42:01.950Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "MIRI",
+      "tags": [
+        "ロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150770525_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150770525",
+      "sourceCreatedAt": "2026-10-12T09:48:59.000Z"
+    },
+    {
       "id": "a3503d31",
       "filename": "pixiv_150778573_p0.jpg",
       "path": "uploads/2026/10/366089fc.jpg",
