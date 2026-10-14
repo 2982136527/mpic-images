@@ -3,6 +3,28 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "07e4b989",
+      "filename": "pixiv_150817375_p0.jpg",
+      "path": "uploads/2026/10/cac9e206.jpg",
+      "size": 1531755,
+      "width": 854,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a9d15d2dbc0bac782fc8b461b895483dc3ba2d153a3c3d514491dd11588b22da",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:39:47.414Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "lize",
+      "tags": [
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150817375_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150817375",
+      "sourceCreatedAt": "2026-10-13T13:12:29.000Z"
+    },
+    {
       "id": "9f6a67e1",
       "filename": "pixiv_150789936_p0.jpg",
       "path": "uploads/2026/10/4013891c.jpg",
