@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "333f36aa",
+      "filename": "pixiv_150807867_p0.jpg",
+      "path": "uploads/2026/10/42851226.jpg",
+      "size": 881449,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8edaf9c670e9e9949577b43baababdc792d06ab9f986c350df59e6b9d5087345",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:37:38.892Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "若娜瓦",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ロノヴァ",
+        "原神1000users入り",
+        "押し倒し"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150807867_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150807867",
+      "sourceCreatedAt": "2026-10-13T09:30:10.000Z"
+    },
+    {
       "id": "55d4f243",
       "filename": "pixiv_150777063_p0.jpg",
       "path": "uploads/2026/10/40b37171.jpg",
