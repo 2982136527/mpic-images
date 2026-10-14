@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "373e2ac5",
+      "filename": "pixiv_150806142_p0.jpg",
+      "path": "uploads/2026/10/45fc58f6.jpg",
+      "size": 1251924,
+      "width": 760,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3824fde49cfe4c3da774c168737d3ade486c2b522b6cee1ed90b8977b17869d8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:51:15.481Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "2026新春イラスト",
+      "tags": [
+        "原神",
+        "アルレッキーノ(原神)",
+        "GenshinImpact"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150806142_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150806142",
+      "sourceCreatedAt": "2026-10-13T08:35:44.000Z"
+    },
+    {
       "id": "d54ba3bf",
       "filename": "pixiv_150795320_p0.jpg",
       "path": "uploads/2026/10/01437ce7.jpg",
