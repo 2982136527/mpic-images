@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "946e77df",
+      "filename": "pixiv_150811454_p0.jpg",
+      "path": "uploads/2026/10/fe5140be.jpg",
+      "size": 1019734,
+      "width": 895,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1d54f626c494f1d1590bc697449bb607b763c76f3220934671f3bf654bccdf72",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:38:14.134Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🎗️",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "創作男子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150811454_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150811454",
+      "sourceCreatedAt": "2026-10-13T11:02:29.000Z"
+    },
+    {
       "id": "1be2297f",
       "filename": "pixiv_150771529_p0.jpg",
       "path": "uploads/2026/10/d6772062.jpg",
