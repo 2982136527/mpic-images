@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "399bf56b",
+      "filename": "pixiv_150785433_p0.jpg",
+      "path": "uploads/2026/10/bf8e76da.jpg",
+      "size": 1289818,
+      "width": 827,
+      "height": 1170,
+      "mimeType": "image/jpeg",
+      "hash": "c837cafef72b341992881a3780630fdf34a30cb16927574f3be198df832ce1ad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T20:14:03.359Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "毒林檎狂想曲",
+      "tags": [
+        "東方",
+        "東方Project",
+        "フランドール・スカーレット",
+        "十六夜咲夜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150785433_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150785433",
+      "sourceCreatedAt": "2026-10-12T15:00:32.000Z"
+    },
+    {
       "id": "4ae66cf1",
       "filename": "pixiv_150790300_p0.jpg",
       "path": "uploads/2026/10/53a7c6d3.jpg",
