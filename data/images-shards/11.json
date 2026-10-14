@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "9dc1b93f",
+      "filename": "pixiv_150781773_p0.jpg",
+      "path": "uploads/2026/10/dbe426d6.jpg",
+      "size": 1132191,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "728c89f9fa396dd716e70de93fc76855fde306e2f16495c99a17363fe06b5c86",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T20:15:44.258Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Wuthering Waves X LOTTE cinema",
+      "tags": [
+        "WutheringWaves",
+        "鳴潮",
+        "女の子",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150781773_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150781773",
+      "sourceCreatedAt": "2026-10-12T13:42:55.000Z"
+    },
+    {
       "id": "9e44a4a2",
       "filename": "pixiv_150786458_p0.jpg",
       "path": "uploads/2026/10/8def945e.jpg",
