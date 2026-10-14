@@ -3,6 +3,29 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "db46b404",
+      "filename": "pixiv_150807991_p0.jpg",
+      "path": "uploads/2026/10/ee4905e6.jpg",
+      "size": 554060,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c720e4bc3022aff7f7c2f4b72dba1bb52cd067f6b306a46f0210ee9be26c9ee5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:40:18.976Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "马尔福",
+      "tags": [
+        "♀ドラコ",
+        "ドラコ・マルフォイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150807991_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150807991",
+      "sourceCreatedAt": "2026-10-13T09:32:13.000Z"
+    },
+    {
       "id": "effb7a2f",
       "filename": "pixiv_150771359_p0.jpg",
       "path": "uploads/2026/10/e3282f49.jpg",
