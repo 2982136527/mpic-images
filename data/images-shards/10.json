@@ -3,6 +3,28 @@
   "shardId": "10",
   "images": [
     {
+      "id": "55d4f243",
+      "filename": "pixiv_150777063_p0.jpg",
+      "path": "uploads/2026/10/40b37171.jpg",
+      "size": 374129,
+      "width": 812,
+      "height": 838,
+      "mimeType": "image/jpeg",
+      "hash": "c049b7e1e790410193073b3f23e7c0123c637c129a891122799f6558e1d6f4fb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:51:24.049Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "furry"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150777063_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150777063",
+      "sourceCreatedAt": "2026-10-12T12:08:57.000Z"
+    },
+    {
       "id": "373e2ac5",
       "filename": "pixiv_150806142_p0.jpg",
       "path": "uploads/2026/10/45fc58f6.jpg",
