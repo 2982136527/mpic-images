@@ -3,6 +3,30 @@
   "shardId": "0e",
   "images": [
     {
+      "id": "74f367ac",
+      "filename": "pixiv_150806119_p0.jpg",
+      "path": "uploads/2026/10/0e87481c.jpg",
+      "size": 1353458,
+      "width": 813,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "13eb1d82f356d633763bc5a3128596a1681a177520c3ea1dc7400172c054be91",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:43:23.205Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "アルレッキーノ(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150806119_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150806119",
+      "sourceCreatedAt": "2026-10-13T08:34:53.000Z"
+    },
+    {
       "id": "780727d2",
       "filename": "pixiv_150785399_p0.jpg",
       "path": "uploads/2026/10/49d447b1.jpg",
