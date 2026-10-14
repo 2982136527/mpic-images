@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "5901f5b5",
+      "filename": "pixiv_150778546_p0.jpg",
+      "path": "uploads/2026/10/eadde73c.jpg",
+      "size": 958533,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c84a6202fb51cec63b258dd87373d31f72232ecba8fae4cb3c9334a54f1a4687",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:45:51.435Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Day-47",
+      "tags": [
+        "女の子",
+        "girl"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150778546_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150778546",
+      "sourceCreatedAt": "2026-10-12T12:37:54.000Z"
+    },
+    {
       "id": "ea12f47a",
       "filename": "pixiv_150742117_p0.jpg",
       "path": "uploads/2026/10/8f1ca2e4.jpg",
