@@ -3,6 +3,37 @@
   "shardId": "13",
   "images": [
     {
+      "id": "38b318b9",
+      "filename": "pixiv_150759457_p0.jpg",
+      "path": "uploads/2026/10/16667f7f.jpg",
+      "size": 898579,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "099f0c9077a2ef19b36a58441ad0e815d8c3ca38e0a44a1932c31c8d9232fbeb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:49:24.233Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ミカの占い",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "漫画",
+        "BlueArchive",
+        "聖園ミカ",
+        "該当者多数",
+        "蒼森ミネ",
+        "桐藤ナギサ",
+        "羽川ハスミ",
+        "卑しい女の群れ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150759457_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150759457",
+      "sourceCreatedAt": "2026-10-12T03:30:15.000Z"
+    },
+    {
       "id": "cb0e84d5",
       "filename": "pixiv_150705058_p0.jpg",
       "path": "uploads/2026/10/a3938793.jpg",
