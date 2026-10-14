@@ -3,6 +3,32 @@
   "shardId": "05",
   "images": [
     {
+      "id": "7fb859b4",
+      "filename": "pixiv_150742279_p0.jpg",
+      "path": "uploads/2026/10/33c2cf64.jpg",
+      "size": 592678,
+      "width": 733,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "06c56df0133712723b801a0beb305736ab73597e40bf0b52835e38cec4262fe6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:46:50.454Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ヴェスナ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ヴェスナ",
+        "バニーガール",
+        "ヴェスナ(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150742279_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150742279",
+      "sourceCreatedAt": "2026-10-11T15:01:23.000Z"
+    },
+    {
       "id": "d9abe54f",
       "filename": "pixiv_150806137_p0.jpg",
       "path": "uploads/2026/10/20f04288.jpg",
