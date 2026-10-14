@@ -3,6 +3,28 @@
   "shardId": "16",
   "images": [
     {
+      "id": "4debcdda",
+      "filename": "pixiv_150804735_p0.jpg",
+      "path": "uploads/2026/10/9ac7b781.jpg",
+      "size": 830080,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d07f62b28c6a88f955e02328c2a63affa4274f02cce79601f9baeb0acad627d7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T20:12:52.985Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "オーカミ",
+      "tags": [
+        "オーカミ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150804735_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150804735",
+      "sourceCreatedAt": "2026-10-13T07:38:53.000Z"
+    },
+    {
       "id": "a6759754",
       "filename": "pixiv_150785302_p0.jpg",
       "path": "uploads/2026/10/5045ad1c.jpg",
