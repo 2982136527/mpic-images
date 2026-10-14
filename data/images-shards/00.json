@@ -3,6 +3,35 @@
   "shardId": "00",
   "images": [
     {
+      "id": "7f4c7097",
+      "filename": "pixiv_150782952_p0.jpg",
+      "path": "uploads/2026/10/c5688c9c.jpg",
+      "size": 656717,
+      "width": 1200,
+      "height": 881,
+      "mimeType": "image/jpeg",
+      "hash": "f1d0ba6863cf58be21f146a7ddc8ccd338843e3f5576cdb79e47155a61c760b4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:50:50.162Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "로시 인형 제작중",
+      "tags": [
+        "SD",
+        "endfield",
+        "アークナイツ:エンドフィールド",
+        "명일방주",
+        "アークナイツ",
+        "명일방주엔드필드",
+        "ロッシ(エンドフィールド)",
+        "ロッシーナ・ウルフパール・ルピーノ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150782952_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150782952",
+      "sourceCreatedAt": "2026-10-12T14:06:28.000Z"
+    },
+    {
       "id": "d0e0af2e",
       "filename": "pixiv_150783031_p0.jpg",
       "path": "uploads/2026/10/dc4cc477.jpg",
