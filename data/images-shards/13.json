@@ -3,6 +3,32 @@
   "shardId": "13",
   "images": [
     {
+      "id": "07eb0bc2",
+      "filename": "pixiv_150819960_p0.jpg",
+      "path": "uploads/2026/10/befd25eb.jpg",
+      "size": 904262,
+      "width": 739,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dca5099952c8500e1b2eeac99324c465372a0746de953c12ab66637b58af2a8c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T20:15:23.188Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "ブラジャー",
+        "体操服",
+        "体操着",
+        "体育着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150819960_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150819960",
+      "sourceCreatedAt": "2026-10-13T14:12:12.000Z"
+    },
+    {
       "id": "3463f3d5",
       "filename": "pixiv_150785423_p0.jpg",
       "path": "uploads/2026/10/85ec9bd8.jpg",
