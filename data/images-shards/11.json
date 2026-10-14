@@ -3,6 +3,36 @@
   "shardId": "11",
   "images": [
     {
+      "id": "644886db",
+      "filename": "pixiv_150777755_p0.jpg",
+      "path": "uploads/2026/10/14820614.jpg",
+      "size": 942064,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cf2d4dc3357d29506c4d1563cafc9c202bd28827ea9191f45ae54cc0232ad59c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:44:53.481Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "路地の夕焼け",
+      "tags": [
+        "風景",
+        "背景",
+        "夕焼け",
+        "オリジナル",
+        "空",
+        "アナログ",
+        "風景画",
+        "路地裏",
+        "illustration"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150777755_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150777755",
+      "sourceCreatedAt": "2026-10-12T12:22:40.000Z"
+    },
+    {
       "id": "22b07734",
       "filename": "pixiv_150779359_p0.jpg",
       "path": "uploads/2026/10/936a62e7.jpg",
