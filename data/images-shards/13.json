@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "3e3ec5ae",
+      "filename": "pixiv_150770110_p0.jpg",
+      "path": "uploads/2026/10/4dd5b78d.jpg",
+      "size": 1071196,
+      "width": 1061,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "eba7c60e483786bc77280c759cfabfda2bb34ac064ad88b101d6232fd75102be",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T20:16:00.572Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "黍",
+      "tags": [
+        "明日方舟",
+        "アークナイツ",
+        "arknights",
+        "黍"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150770110_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150770110",
+      "sourceCreatedAt": "2026-10-12T09:35:52.000Z"
+    },
+    {
       "id": "07eb0bc2",
       "filename": "pixiv_150819960_p0.jpg",
       "path": "uploads/2026/10/befd25eb.jpg",
