@@ -3,6 +3,30 @@
   "shardId": "19",
   "images": [
     {
+      "id": "1b612acc",
+      "filename": "pixiv_150748358_p0.jpg",
+      "path": "uploads/2026/10/700b3592.jpg",
+      "size": 1231302,
+      "width": 1153,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "eb73cb48206e8f48acd9569017a6e34d3b4e849a1512847f6cd019ddb8d5aaee",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:43:22.818Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "야한건 안돼!",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "검사(Project_Moon)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150748358_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150748358",
+      "sourceCreatedAt": "2026-10-11T18:10:31.000Z"
+    },
+    {
       "id": "922b5f2c",
       "filename": "pixiv_150748724_p0.jpg",
       "path": "uploads/2026/10/b79ddbb8.jpg",
