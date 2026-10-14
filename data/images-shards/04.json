@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "093f4599",
+      "filename": "pixiv_150804442_p0.jpg",
+      "path": "uploads/2026/10/7b7fd3c0.jpg",
+      "size": 685035,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ab10aef62180399eb7246fd47957dd8ba8cfce060848066c5ec638d8c6de359b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:45:57.320Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "西行寺幽々子",
+        "東方",
+        "東方Project",
+        "ゆゆっぱい",
+        "太もも"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150804442_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150804442",
+      "sourceCreatedAt": "2026-10-13T07:26:02.000Z"
+    },
+    {
       "id": "9eaba0e2",
       "filename": "pixiv_150798934_p0.jpg",
       "path": "uploads/2026/10/9371631e.jpg",
