@@ -3,6 +3,32 @@
   "shardId": "19",
   "images": [
     {
+      "id": "af79d539",
+      "filename": "pixiv_150778528_p0.jpg",
+      "path": "uploads/2026/10/17820f20.jpg",
+      "size": 1029988,
+      "width": 858,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4a7e60e78a6124cd2285f533de5276757f2accf61377055d94480d8fc0a96885",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:46:06.349Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Waitress Delphox",
+      "tags": [
+        "ケモノ",
+        "メスケモ",
+        "ポケモン",
+        "ポケットモンスター",
+        "マフォクシー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150778528_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150778528",
+      "sourceCreatedAt": "2026-10-12T12:37:30.000Z"
+    },
+    {
       "id": "e132e7f5",
       "filename": "pixiv_150811200_p0.jpg",
       "path": "uploads/2026/10/3ae03a60.jpg",
