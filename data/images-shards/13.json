@@ -3,6 +3,32 @@
   "shardId": "13",
   "images": [
     {
+      "id": "906c0e83",
+      "filename": "pixiv_150806760_p0.jpg",
+      "path": "uploads/2026/10/67523547.jpg",
+      "size": 825424,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9d35241316fd30887ea0b5e677f5c875414ca7bc06c0b50ddf2f6fdded8f0489",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:44:58.801Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ひつじのめあ",
+      "tags": [
+        "仕事絵",
+        "ひつじのめあ",
+        "るくてん",
+        "女の子",
+        "VTuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150806760_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150806760",
+      "sourceCreatedAt": "2026-10-13T09:00:08.000Z"
+    },
+    {
       "id": "38b318b9",
       "filename": "pixiv_150759457_p0.jpg",
       "path": "uploads/2026/10/16667f7f.jpg",
