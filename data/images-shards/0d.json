@@ -3,6 +3,29 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "261b1a90",
+      "filename": "pixiv_150802104_p0.jpg",
+      "path": "uploads/2026/10/05528ead.jpg",
+      "size": 1267298,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6a6d17a5f4b8fdaa8dd792869474ae9e115f443d20f24e8b0e21b5ed718e7d18",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:48:25.570Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "恍惚として眼を閉じた。",
+      "tags": [
+        "女の子",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150802104_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150802104",
+      "sourceCreatedAt": "2026-10-13T05:21:18.000Z"
+    },
+    {
       "id": "41aac56c",
       "filename": "pixiv_150762609_p0.jpg",
       "path": "uploads/2026/10/0fcf54fb.jpg",
