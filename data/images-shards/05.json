@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "d9abe54f",
+      "filename": "pixiv_150806137_p0.jpg",
+      "path": "uploads/2026/10/20f04288.jpg",
+      "size": 1235873,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09e962356ce0c36176c91da6f8adcd86cf2e290fd233b793b67ffb71528416b5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:46:20.544Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "大天使さくたん",
+      "tags": [
+        "女の子",
+        "バーチャルYouTuber",
+        "結城さくな",
+        "さくなあーと"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150806137_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150806137",
+      "sourceCreatedAt": "2026-10-13T08:35:36.000Z"
+    },
+    {
       "id": "4226cd21",
       "filename": "pixiv_150732887_p0.jpg",
       "path": "uploads/2026/10/306209aa.jpg",
