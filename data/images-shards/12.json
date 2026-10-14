@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "f8abbe6e",
+      "filename": "pixiv_150809141_p0.jpg",
+      "path": "uploads/2026/10/4095555c.jpg",
+      "size": 766257,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9827c885fe3d75de42a797982b03962444e3b6e7750a8287f7a0d5336605a1c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:46:08.203Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "手作りお菓子",
+      "tags": [
+        "めめ村",
+        "ヒナルカ",
+        "えへー!!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150809141_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150809141",
+      "sourceCreatedAt": "2026-10-13T10:02:52.000Z"
+    },
+    {
       "id": "08dcab46",
       "filename": "pixiv_150763231_p0.jpg",
       "path": "uploads/2026/10/9860aee8.jpg",
