@@ -3,6 +3,32 @@
   "shardId": "00",
   "images": [
     {
+      "id": "6511b5e6",
+      "filename": "pixiv_150786732_p0.jpg",
+      "path": "uploads/2026/10/a682cfd3.jpg",
+      "size": 900692,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "420ea974d7b0fe6889cf109e8f13f414d83a3ccc6aa7f2e6c448063d549786d9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:47:33.809Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ゼンゼロ",
+      "tags": [
+        "PHOENIX",
+        "フィオニー・レファエラ",
+        "ゼンゼロ",
+        "ゼンレスゾーンゼロ",
+        "空想症候群"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150786732_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150786732",
+      "sourceCreatedAt": "2026-10-12T15:23:53.000Z"
+    },
+    {
       "id": "4586eda6",
       "filename": "pixiv_150806195_p0.jpg",
       "path": "uploads/2026/10/2555beb9.jpg",
