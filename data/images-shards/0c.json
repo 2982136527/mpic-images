@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "761c3046",
+      "filename": "pixiv_150805647_p0.jpg",
+      "path": "uploads/2026/10/e9d6d52f.jpg",
+      "size": 1541036,
+      "width": 1200,
+      "height": 801,
+      "mimeType": "image/jpeg",
+      "hash": "a534c34e699b85d6546b26032684cdbe64653d5fbcb7fd43c00221d4c50ab9f8",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:47:15.540Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "午前11時",
+      "tags": [
+        "オリジナル",
+        "男の子",
+        "創作男子",
+        "ベンチ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150805647_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150805647",
+      "sourceCreatedAt": "2026-10-13T08:16:25.000Z"
+    },
+    {
       "id": "120d0dd9",
       "filename": "pixiv_150800409_p0.jpg",
       "path": "uploads/2026/10/10674a91.jpg",
