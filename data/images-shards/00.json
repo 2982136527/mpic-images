@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "1145719c",
+      "filename": "pixiv_150743775_p0.jpg",
+      "path": "uploads/2026/10/bbcb60ad.jpg",
+      "size": 876508,
+      "width": 1200,
+      "height": 851,
+      "mimeType": "image/jpeg",
+      "hash": "c74f5d92672302d6f25d1efd17fc8f5f5c56d31f6f408e4134507c7ce814b666",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:37:14.972Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "魔王组",
+      "tags": [
+        "OC",
+        "沃尔芙",
+        "苏筱白",
+        "魔王",
+        "兽耳",
+        "足"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150743775_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150743775",
+      "sourceCreatedAt": "2026-10-11T15:30:12.000Z"
+    },
+    {
       "id": "ba748f47",
       "filename": "pixiv_150754954_p0.jpg",
       "path": "uploads/2026/10/de91de61.jpg",
