@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "effb7a2f",
+      "filename": "pixiv_150771359_p0.jpg",
+      "path": "uploads/2026/10/e3282f49.jpg",
+      "size": 1204286,
+      "width": 763,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d165efaa5afa1da1e64f40bfc38aaa7381ed650ef68ee93941a48606682b0770",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:45:59.473Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "revue",
+      "tags": [
+        "アーミヤ(アークナイツ)",
+        "ケルシー(アークナイツ)",
+        "明日方舟"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150771359_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150771359",
+      "sourceCreatedAt": "2026-10-12T10:07:20.000Z"
+    },
+    {
       "id": "072cb41e",
       "filename": "pixiv_150768668_p0.jpg",
       "path": "uploads/2026/10/8ddb59b7.jpg",
