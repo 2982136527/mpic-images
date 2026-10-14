@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "1cd175b8",
+      "filename": "pixiv_150785391_p0.jpg",
+      "path": "uploads/2026/10/5df9cc21.jpg",
+      "size": 1195668,
+      "width": 834,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cb01a893b6f1418c6528097a8102675dbcc002cbc6ffaa7bd35eef7448956149",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:44:10.720Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "月が綺麗ですね",
+      "tags": [
+        "鈴仙・優曇華院・イナバ",
+        "東方",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150785391_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150785391",
+      "sourceCreatedAt": "2026-10-12T15:00:26.000Z"
+    },
+    {
       "id": "6b2ee8aa",
       "filename": "pixiv_150799718_p0.jpg",
       "path": "uploads/2026/10/f4417896.jpg",
