@@ -3,6 +3,30 @@
   "shardId": "08",
   "images": [
     {
+      "id": "6ddd8397",
+      "filename": "pixiv_150786272_p0.jpg",
+      "path": "uploads/2026/10/e30b34d2.jpg",
+      "size": 641856,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "177bfc14715d6386f517c320cf885f64cf65bbd76de96f317202a25c778bafe7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:44:44.512Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🍷",
+      "tags": [
+        "レミリア・スカーレット",
+        "東方Project",
+        "東方"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150786272_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150786272",
+      "sourceCreatedAt": "2026-10-12T15:12:44.000Z"
+    },
+    {
       "id": "cbca8d81",
       "filename": "pixiv_150745209_p0.jpg",
       "path": "uploads/2026/10/2689fd43.jpg",
