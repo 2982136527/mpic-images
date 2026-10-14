@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "34a1abad",
+      "filename": "pixiv_150807643_p0.jpg",
+      "path": "uploads/2026/10/e3ce9319.jpg",
+      "size": 443483,
+      "width": 655,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "43cdee2176471e2d5e3da276ce24ad46d04108f173501d79e77b5b991c0de3f0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:46:21.191Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "歌住サクラコ",
+      "tags": [
+        "ブルーアーカイブ",
+        "歌住サクラコ",
+        "加隈亜衣"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150807643_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150807643",
+      "sourceCreatedAt": "2026-10-13T09:22:26.000Z"
+    },
+    {
       "id": "a9c4b852",
       "filename": "pixiv_150812132_p0.jpg",
       "path": "uploads/2026/10/5c8720e9.jpg",
