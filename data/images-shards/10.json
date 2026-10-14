@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "694fc6c6",
+      "filename": "pixiv_150772934_p0.jpg",
+      "path": "uploads/2026/10/77a5d982.jpg",
+      "size": 1252514,
+      "width": 1200,
+      "height": 849,
+      "mimeType": "image/jpeg",
+      "hash": "2668f301710679cb6db1c0146bb90843e790411b6be79f7951239e6768e589dc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:40:10.121Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【同人誌修正告知】",
+      "tags": [
+        "東方",
+        "同人誌",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150772934_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150772934",
+      "sourceCreatedAt": "2026-10-12T10:48:45.000Z"
+    },
+    {
       "id": "333f36aa",
       "filename": "pixiv_150807867_p0.jpg",
       "path": "uploads/2026/10/42851226.jpg",
