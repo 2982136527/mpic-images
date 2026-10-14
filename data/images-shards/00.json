@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "d0e0af2e",
+      "filename": "pixiv_150783031_p0.jpg",
+      "path": "uploads/2026/10/dc4cc477.jpg",
+      "size": 418493,
+      "width": 650,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8fcb06246ecc7ca66e4c8a85762b4323cf4d7ce08f1f4b1e70d5245df2719591",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:50:16.423Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "세레스",
+      "tags": [
+        "이터널리턴",
+        "EternalReturn:BlackSurvival",
+        "세레스"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150783031_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150783031",
+      "sourceCreatedAt": "2026-10-12T14:08:26.000Z"
+    },
+    {
       "id": "3485ffe0",
       "filename": "pixiv_150768019_p0.jpg",
       "path": "uploads/2026/10/2823bdf4.jpg",
