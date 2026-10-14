@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "1be2297f",
+      "filename": "pixiv_150771529_p0.jpg",
+      "path": "uploads/2026/10/d6772062.jpg",
+      "size": 795503,
+      "width": 826,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9409a62569835078bde03f29607eeac485dfc28baeeb091898ef6d14824d7af2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:37:04.918Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "秋を辿る",
+      "tags": [
+        "女の子",
+        "イラスト",
+        "オリジナル",
+        "オリジナルキャラクター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150771529_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150771529",
+      "sourceCreatedAt": "2026-10-12T10:12:12.000Z"
+    },
+    {
       "id": "819f2093",
       "filename": "pixiv_150810966_p0.jpg",
       "path": "uploads/2026/10/15f9c3c5.jpg",
