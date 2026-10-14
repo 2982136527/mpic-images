@@ -3,6 +3,29 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "9f6a67e1",
+      "filename": "pixiv_150789936_p0.jpg",
+      "path": "uploads/2026/10/4013891c.jpg",
+      "size": 285554,
+      "width": 880,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "be806c0c10d3357f4f108fc9413e19415a82487ef2d32befdd2b48d6ea985e65",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:39:38.176Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "百合",
+        "うちの子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150789936_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150789936",
+      "sourceCreatedAt": "2026-10-12T17:02:06.000Z"
+    },
+    {
       "id": "ffd7dc0b",
       "filename": "pixiv_150737875_p0.jpg",
       "path": "uploads/2026/10/f765227f.jpg",
