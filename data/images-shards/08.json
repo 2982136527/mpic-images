@@ -3,6 +3,31 @@
   "shardId": "08",
   "images": [
     {
+      "id": "9d950067",
+      "filename": "pixiv_150817993_p0.jpg",
+      "path": "uploads/2026/10/e73928d7.jpg",
+      "size": 1096993,
+      "width": 700,
+      "height": 990,
+      "mimeType": "image/jpeg",
+      "hash": "3da230d65b9a3c7a4a076a1c03667f091ed1a85949f25ccdf074b9bc771ae016",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:50:58.613Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ぷろめいあ",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ",
+        "プロメイア",
+        "クランプスの黒枝"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150817993_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150817993",
+      "sourceCreatedAt": "2026-10-13T13:27:18.000Z"
+    },
+    {
       "id": "d986569a",
       "filename": "pixiv_150760364_p0.jpg",
       "path": "uploads/2026/10/ef85f24b.jpg",
