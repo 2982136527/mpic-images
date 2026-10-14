@@ -3,6 +3,31 @@
   "shardId": "01",
   "images": [
     {
+      "id": "b47b3454",
+      "filename": "pixiv_150785411_p0.jpg",
+      "path": "uploads/2026/10/162d3298.jpg",
+      "size": 1231501,
+      "width": 847,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f1e89caf33f12f61d0003b2c170bd67aed736682778be2a1149d277ff7466573",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:41:51.644Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ゾンビちゃん",
+      "tags": [
+        "オリジナル",
+        "OC",
+        "オリジナルキャラクター",
+        "ハロウィン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150785411_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150785411",
+      "sourceCreatedAt": "2026-10-12T15:00:29.000Z"
+    },
+    {
       "id": "9d6255bb",
       "filename": "pixiv_150811833_p0.jpg",
       "path": "uploads/2026/10/c616fb71.jpg",
