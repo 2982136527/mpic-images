@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "a3503d31",
+      "filename": "pixiv_150778573_p0.jpg",
+      "path": "uploads/2026/10/366089fc.jpg",
+      "size": 429871,
+      "width": 910,
+      "height": 666,
+      "mimeType": "image/jpeg",
+      "hash": "0813805f409ee9aa162d92b9f8d80412284e85f3780aaee0dc8c909896cb4e72",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:40:33.530Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "映画「オデュッセイア」とウーティス+かわいいやつ",
+      "tags": [
+        "Limbus_Company",
+        "LimbusCompany",
+        "ウーティス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150778573_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150778573",
+      "sourceCreatedAt": "2026-10-12T12:38:43.000Z"
+    },
+    {
       "id": "c577c6c8",
       "filename": "pixiv_150789672_p0.jpg",
       "path": "uploads/2026/10/e5857e30.jpg",
