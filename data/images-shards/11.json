@@ -3,6 +3,30 @@
   "shardId": "11",
   "images": [
     {
+      "id": "679b4ef3",
+      "filename": "pixiv_150806587_p0.jpg",
+      "path": "uploads/2026/10/8a9cda4f.jpg",
+      "size": 1204068,
+      "width": 1200,
+      "height": 848,
+      "mimeType": "image/jpeg",
+      "hash": "fd12364c66cf221a78643bf995cb9348a74b7d56cb24c52aae53ea9010657a38",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:48:59.024Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "2026アルレッキーノ生誕祭",
+      "tags": [
+        "原神",
+        "アルレッキーノ(原神)",
+        "GenshinImpact"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150806587_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150806587",
+      "sourceCreatedAt": "2026-10-13T08:53:05.000Z"
+    },
+    {
       "id": "43a39585",
       "filename": "pixiv_150763336_p0.jpg",
       "path": "uploads/2026/10/7a0f9772.jpg",
