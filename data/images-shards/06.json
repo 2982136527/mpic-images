@@ -3,6 +3,32 @@
   "shardId": "06",
   "images": [
     {
+      "id": "99069000",
+      "filename": "pixiv_150765491_p0.jpg",
+      "path": "uploads/2026/10/60db0476.jpg",
+      "size": 1206871,
+      "width": 822,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9de460e65fe33284e929bd3c41d2f277ae198ae8cb6f0acd481f5e09ea3c7da1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T13:41:44.015Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🖤🤍Aal izz well",
+      "tags": [
+        "girl",
+        "少女",
+        "背景",
+        "原创",
+        "插画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150765491_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150765491",
+      "sourceCreatedAt": "2026-10-12T07:20:35.000Z"
+    },
+    {
       "id": "2dd76c01",
       "filename": "pixiv_150742408_p0.jpg",
       "path": "uploads/2026/10/707d9b54.jpg",
