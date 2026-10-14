@@ -3,6 +3,35 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "592f35d2",
+      "filename": "pixiv_150576990_p0.jpg",
+      "path": "uploads/2026/10/db971593.jpg",
+      "size": 880577,
+      "width": 899,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8ae8a33340bb07fb2fec1d5f9ecee5725289d3c431a1769e5b178d9b7afe8efd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T20:18:50.951Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アイドル",
+      "tags": [
+        "ゼンゼロ",
+        "学マス",
+        "アリア(ゼンゼロ)",
+        "篠澤広",
+        "倉本千奈",
+        "月村手毬",
+        "ゼンレスゾーンゼロ",
+        "被害妄想エンジェル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150576990_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150576990",
+      "sourceCreatedAt": "2026-10-07T14:16:05.000Z"
+    },
+    {
       "id": "54c4337c",
       "filename": "pixiv_150786865_p0.jpg",
       "path": "uploads/2026/10/a44fd8c2.jpg",
