@@ -3,6 +3,28 @@
   "shardId": "15",
   "images": [
     {
+      "id": "c67ce0f7",
+      "filename": "pixiv_150803522_p0.jpg",
+      "path": "uploads/2026/10/27d34b91.jpg",
+      "size": 317482,
+      "width": 808,
+      "height": 1096,
+      "mimeType": "image/jpeg",
+      "hash": "b5d78f6d4e03c2f1ab24dfe95ff6df24aab27f3863ab6263ccbdb62ef894455e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:50:33.483Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "進化したてにありそうなこと",
+      "tags": [
+        "ヘルガー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150803522_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150803522",
+      "sourceCreatedAt": "2026-10-13T06:36:30.000Z"
+    },
+    {
       "id": "8607a3c6",
       "filename": "pixiv_150805863_p0.jpg",
       "path": "uploads/2026/10/0d1bff9e.jpg",
