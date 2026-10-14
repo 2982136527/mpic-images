@@ -3,6 +3,34 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "ef263095",
+      "filename": "pixiv_150788021_p0.jpg",
+      "path": "uploads/2026/10/62597a81.jpg",
+      "size": 823890,
+      "width": 800,
+      "height": 1131,
+      "mimeType": "image/jpeg",
+      "hash": "37527b3b08ea7ac95a7c5340aa168c048dbfc76d7519c17227d17a878717b0ba",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T20:13:04.856Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "お祝いイラスト",
+      "tags": [
+        "VOCALOID",
+        "鏡音レン",
+        "ホーリィランサー",
+        "ホワイトエッジ",
+        "レンレン",
+        "ランエジ",
+        "腐向け"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150788021_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150788021",
+      "sourceCreatedAt": "2026-10-12T15:57:04.000Z"
+    },
+    {
       "id": "637bdc4b",
       "filename": "pixiv_150807063_p0.jpg",
       "path": "uploads/2026/10/5fcab3d2.jpg",
