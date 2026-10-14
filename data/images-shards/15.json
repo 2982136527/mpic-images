@@ -3,6 +3,31 @@
   "shardId": "15",
   "images": [
     {
+      "id": "ae17d532",
+      "filename": "pixiv_150807832_p0.jpg",
+      "path": "uploads/2026/10/d37639fa.jpg",
+      "size": 742397,
+      "width": 600,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "08722e9f54d2998afc8d674102f6851c53f8135c5548a119d451e86a2edbd1d2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:42:52.819Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "心",
+      "tags": [
+        "鸣潮",
+        "鳴潮",
+        "心(鳴潮)",
+        "鳴潮1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150807832_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150807832",
+      "sourceCreatedAt": "2026-10-13T09:28:57.000Z"
+    },
+    {
       "id": "e0120afd",
       "filename": "pixiv_150758366_p0.jpg",
       "path": "uploads/2026/10/a15aa60e.jpg",
