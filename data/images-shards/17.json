@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "2b5bab03",
+      "filename": "pixiv_150770870_p0.jpg",
+      "path": "uploads/2026/10/8858c324.jpg",
+      "size": 664084,
+      "width": 776,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f76abf7eb64b946ed30c3c2c49fc59eb4c5475ff08ff138ed9935026201c5116",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:51:48.476Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【落書】リリーホワイト 只",
+      "tags": [
+        "リリーホワイト",
+        "東方",
+        "落書",
+        "深夜の真剣お絵描き60分一本勝負"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150770870_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150770870",
+      "sourceCreatedAt": "2026-10-12T09:59:17.000Z"
+    },
+    {
       "id": "ca0fc0b3",
       "filename": "pixiv_150741700_p0.jpg",
       "path": "uploads/2026/10/a2567c52.jpg",
