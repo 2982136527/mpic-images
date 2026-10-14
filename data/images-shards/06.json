@@ -3,6 +3,33 @@
   "shardId": "06",
   "images": [
     {
+      "id": "2dd76c01",
+      "filename": "pixiv_150742408_p0.jpg",
+      "path": "uploads/2026/10/707d9b54.jpg",
+      "size": 1348090,
+      "width": 800,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f74062c7b5731dc7a82005204397ebd24d370a4d3c408b9bdae0ccf1a5bd84ef",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-14T04:42:44.117Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ヴェスダニ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ダニカ",
+        "Danica",
+        "ヴェスナ(原神)",
+        "ヴェスナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150742408_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150742408",
+      "sourceCreatedAt": "2026-10-11T15:02:35.000Z"
+    },
+    {
       "id": "4ea2b032",
       "filename": "pixiv_150717305_p0.jpg",
       "path": "uploads/2026/10/668c4abb.jpg",
