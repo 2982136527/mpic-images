@@ -3,6 +3,36 @@
   "shardId": "01",
   "images": [
     {
+      "id": "e341ba2e",
+      "filename": "pixiv_150819342_p0.jpg",
+      "path": "uploads/2026/10/74dd5b7d.jpg",
+      "size": 1432449,
+      "width": 1050,
+      "height": 989,
+      "mimeType": "image/jpeg",
+      "hash": "032e49e92634082dfbbdf7a202acd71bd42c4f52c96e8388bad02b7a502215eb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:32:43.837Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "博識ケイちゃん",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "天童ケイ",
+        "ケイ(ブルーアーカイブ)",
+        "お前は何を言っているんだ",
+        "駄目だこいつ…早く何とかしないと…",
+        "夏はオロナミンC",
+        "ファイト一発",
+        "どうしてこんなになるまで放っておいたんだ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150819342_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150819342",
+      "sourceCreatedAt": "2026-10-13T13:58:36.000Z"
+    },
+    {
       "id": "c5c6610e",
       "filename": "pixiv_150808507_p0.jpg",
       "path": "uploads/2026/10/a6cc1928.jpg",
