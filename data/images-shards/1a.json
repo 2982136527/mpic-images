@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "e6afe672",
+      "filename": "pixiv_150842326_p0.jpg",
+      "path": "uploads/2026/10/55e90896.jpg",
+      "size": 559816,
+      "width": 1129,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f1ad0f62c25a0840ddb932787f61330a69f260d677014377cac744e7cd50c7ca",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T19:56:11.774Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ニャキュバスちゃんとニャンキュバスくん",
+      "tags": [
+        "ニャキュバス",
+        "ニャンキュバス",
+        "oc"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150842326_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150842326",
+      "sourceCreatedAt": "2026-10-14T08:10:03.000Z"
+    },
+    {
       "id": "d30eba2a",
       "filename": "pixiv_150819672_p0.jpg",
       "path": "uploads/2026/10/239480d3.jpg",
