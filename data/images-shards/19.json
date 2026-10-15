@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "4d866514",
+      "filename": "pixiv_150812484_p0.jpg",
+      "path": "uploads/2026/10/a12fa656.jpg",
+      "size": 616820,
+      "width": 1200,
+      "height": 800,
+      "mimeType": "image/jpeg",
+      "hash": "d24933667c3baa83e751197fe06a237a1e0cc0afabae904570ca1c29bd82a303",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:30:00.189Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "初音ミク",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "ボカロ",
+        "太もも"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150812484_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150812484",
+      "sourceCreatedAt": "2026-10-13T11:28:37.000Z"
+    },
+    {
       "id": "af79d539",
       "filename": "pixiv_150778528_p0.jpg",
       "path": "uploads/2026/10/17820f20.jpg",
