@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "fe93a68f",
+      "filename": "pixiv_150799126_p0.jpg",
+      "path": "uploads/2026/10/c9fb8b34.jpg",
+      "size": 703087,
+      "width": 1200,
+      "height": 561,
+      "mimeType": "image/jpeg",
+      "hash": "5fcbfba452b97e83fb44489fdaf036f57c87ccbb3c8c687b8ce9d52b42c8f401",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T13:23:45.232Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "白鳳(アズールレーン)",
+      "tags": [
+        "碧蓝航线",
+        "绘画",
+        "白鳳(アズールレーン)",
+        "アズールレーン",
+        "アズールレーン1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150799126_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150799126",
+      "sourceCreatedAt": "2026-10-13T02:51:25.000Z"
+    },
+    {
       "id": "652a466d",
       "filename": "pixiv_150854078_p0.jpg",
       "path": "uploads/2026/10/bd306cc5.jpg",
