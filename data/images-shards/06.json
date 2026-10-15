@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "aa79de6c",
+      "filename": "pixiv_150838159_p0.jpg",
+      "path": "uploads/2026/10/93c9dbf6.jpg",
+      "size": 1775860,
+      "width": 898,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1be5c418e6eca90529001366dd2fe2aa343d3e64c5974fb3f3e50a869861dd60",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T13:20:40.793Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "シェリハン",
+      "tags": [
+        "まのさば",
+        "まのさば二次創作",
+        "遠野ハンナ",
+        "橘シェリー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150838159_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150838159",
+      "sourceCreatedAt": "2026-10-14T04:46:34.000Z"
+    },
+    {
       "id": "d13e4895",
       "filename": "pixiv_150835627_p0.jpg",
       "path": "uploads/2026/10/13426aef.jpg",
