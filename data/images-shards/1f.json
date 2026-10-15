@@ -3,6 +3,29 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "5166d8f6",
+      "filename": "pixiv_150823059_p0.jpg",
+      "path": "uploads/2026/10/2d76db71.jpg",
+      "size": 690769,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "3442b7411847a370df235edc8671a1c88d8f79411316363d7974d9f398bf4863",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:25:24.043Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "MASQUERADE PARTY",
+      "tags": [
+        "Neo-Porte",
+        "仕事絵"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150823059_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150823059",
+      "sourceCreatedAt": "2026-10-13T15:15:38.000Z"
+    },
+    {
       "id": "ef263095",
       "filename": "pixiv_150788021_p0.jpg",
       "path": "uploads/2026/10/62597a81.jpg",
