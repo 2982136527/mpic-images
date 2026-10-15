@@ -3,6 +3,28 @@
   "shardId": "07",
   "images": [
     {
+      "id": "1385eb94",
+      "filename": "pixiv_150849027_p0.jpg",
+      "path": "uploads/2026/10/c27c16ef.jpg",
+      "size": 1005759,
+      "width": 754,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2b05b6599d41f78b446e59a2bd019b590bb1f6bba8682739ade2a130e3a637dc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T13:23:31.257Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "佃煮のりお15周年記念水着写真集",
+      "tags": [
+        "佃煮のりお"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150849027_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150849027",
+      "sourceCreatedAt": "2026-10-14T11:25:05.000Z"
+    },
+    {
       "id": "befe67b8",
       "filename": "pixiv_150823450_p0.jpg",
       "path": "uploads/2026/10/c5759fc8.jpg",
