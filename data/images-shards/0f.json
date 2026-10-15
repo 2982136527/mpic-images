@@ -3,6 +3,32 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "67a588c3",
+      "filename": "pixiv_150802369_p0.jpg",
+      "path": "uploads/2026/10/9258fc40.jpg",
+      "size": 842991,
+      "width": 1200,
+      "height": 705,
+      "mimeType": "image/jpeg",
+      "hash": "d848b5e3ef5dcb64ed2416791e6f79ee9768f6c60c75dc1ea49fa12f8fa1f435",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:31:52.635Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "イラスト",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "场景",
+        "HarukaCC",
+        "チャイナドレス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150802369_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150802369",
+      "sourceCreatedAt": "2026-10-13T05:35:47.000Z"
+    },
+    {
       "id": "1454d326",
       "filename": "pixiv_150806224_p0.jpg",
       "path": "uploads/2026/10/d9a8b9de.jpg",
