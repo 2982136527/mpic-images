@@ -3,6 +3,31 @@
   "shardId": "13",
   "images": [
     {
+      "id": "21b8a90e",
+      "filename": "pixiv_150797992_p0.jpg",
+      "path": "uploads/2026/10/e316b6f3.jpg",
+      "size": 706552,
+      "width": 983,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "24dc60cac9303bf4940ec9f2cbadfa096b0c4a4c685a1d9e38bfbd6d59728ea2",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T19:56:25.072Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "いきなりじゃんけんモモイ",
+      "tags": [
+        "才羽モモイ",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150797992_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150797992",
+      "sourceCreatedAt": "2026-10-13T01:42:16.000Z"
+    },
+    {
       "id": "280d57da",
       "filename": "pixiv_150836793_p0.jpg",
       "path": "uploads/2026/10/59ba782c.jpg",
