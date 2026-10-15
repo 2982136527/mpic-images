@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "5ff03d82",
+      "filename": "pixiv_150615058_p0.jpg",
+      "path": "uploads/2026/10/a7378edf.jpg",
+      "size": 1020466,
+      "width": 816,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "251d89fdd82dedfa3ad76d02b57b0fc1a648d0bcc1e9e270384bcecc84b3e0c5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T13:29:13.488Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "魔法少女衣装-フータオ",
+      "tags": [
+        "原神",
+        "女の子",
+        "GenshinImpact",
+        "胡桃(原神)",
+        "胡桃"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150615058_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150615058",
+      "sourceCreatedAt": "2026-10-08T15:00:22.000Z"
+    },
+    {
       "id": "78d80247",
       "filename": "pixiv_150814753_p0.jpg",
       "path": "uploads/2026/10/70b44ee1.jpg",
