@@ -3,6 +3,29 @@
   "shardId": "18",
   "images": [
     {
+      "id": "9ab34b55",
+      "filename": "pixiv_150807361_p0.jpg",
+      "path": "uploads/2026/10/18239136.jpg",
+      "size": 996756,
+      "width": 785,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e6a22a3ba5f7cc712e25144fb9c25f0cf24709c8e836ee4219b3b3c345863756",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:31:25.581Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "HBD to me",
+      "tags": [
+        "オリジナル",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150807361_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150807361",
+      "sourceCreatedAt": "2026-10-13T09:13:15.000Z"
+    },
+    {
       "id": "aa751cdd",
       "filename": "pixiv_150817266_p0.jpg",
       "path": "uploads/2026/10/c4100e49.jpg",
