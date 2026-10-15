@@ -3,6 +3,31 @@
   "shardId": "03",
   "images": [
     {
+      "id": "3d3bdbf7",
+      "filename": "pixiv_150802962_p0.jpg",
+      "path": "uploads/2026/10/440a8d97.jpg",
+      "size": 759133,
+      "width": 706,
+      "height": 999,
+      "mimeType": "image/jpeg",
+      "hash": "7e21c42a77387a83b025186bfc0eaf87c38de8f51e51b8993cb77d98cc935f17",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T19:55:16.843Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "すけぶ",
+      "tags": [
+        "女の子",
+        "ロリ",
+        "Skeb",
+        "commission"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150802962_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150802962",
+      "sourceCreatedAt": "2026-10-13T06:06:12.000Z"
+    },
+    {
       "id": "5929d073",
       "filename": "pixiv_150857327_p0.jpg",
       "path": "uploads/2026/10/123b8a8a.jpg",
