@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "c3190630",
+      "filename": "pixiv_150821060_p0.jpg",
+      "path": "uploads/2026/10/3f4dec4e.jpg",
+      "size": 471639,
+      "width": 680,
+      "height": 673,
+      "mimeType": "image/jpeg",
+      "hash": "8820b4949bd267d50f8ebf84a457ee46475994c5d711dc7bfac5884a70185a69",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:30:33.597Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "safe house",
+      "tags": [
+        "オリジナル",
+        "ハムスター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150821060_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150821060",
+      "sourceCreatedAt": "2026-10-13T14:39:31.000Z"
+    },
+    {
       "id": "093f4599",
       "filename": "pixiv_150804442_p0.jpg",
       "path": "uploads/2026/10/7b7fd3c0.jpg",
