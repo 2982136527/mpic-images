@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "45c7bb76",
+      "filename": "pixiv_150846702_p0.jpg",
+      "path": "uploads/2026/10/beaba02d.jpg",
+      "size": 120811,
+      "width": 470,
+      "height": 498,
+      "mimeType": "image/jpeg",
+      "hash": "c9e8608dca0e12cba8ce5db4f544de777afac2001f30880ac206a3bf2e1e6962",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:26:13.755Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150846702_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150846702",
+      "sourceCreatedAt": "2026-10-14T10:27:38.000Z"
+    },
+    {
       "id": "2b78308a",
       "filename": "pixiv_150830771_p0.jpg",
       "path": "uploads/2026/10/242d6b24.jpg",
