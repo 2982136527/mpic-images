@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "ca0a6339",
+      "filename": "pixiv_150824253_p0.jpg",
+      "path": "uploads/2026/10/4fd812f1.jpg",
+      "size": 1321808,
+      "width": 881,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8d849f704731cfb25a2b36bdbcf1e5bfdd46e7b422f64965245b2a5558797ac3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T13:21:54.704Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🦋",
+      "tags": [
+        "ブルアカ",
+        "竜華キサキ",
+        "ブルーアーカイブ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150824253_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150824253",
+      "sourceCreatedAt": "2026-10-13T15:47:05.000Z"
+    },
+    {
       "id": "172f77c5",
       "filename": "pixiv_150791848_p0.jpg",
       "path": "uploads/2026/10/416b93b3.jpg",
