@@ -3,6 +3,28 @@
   "shardId": "05",
   "images": [
     {
+      "id": "3376f813",
+      "filename": "pixiv_150837206_p0.jpg",
+      "path": "uploads/2026/10/e35cc8c5.jpg",
+      "size": 393424,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "2206c2d6872250b407ebd739a381f541045ff44e8f7bd34fe13a3f9d3b415527",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:28:26.227Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "自我多めのほの暮しろぐ",
+      "tags": [
+        "ほの暮しの庭"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150837206_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150837206",
+      "sourceCreatedAt": "2026-10-14T03:56:41.000Z"
+    },
+    {
       "id": "52b1930c",
       "filename": "pixiv_150843785_p0.jpg",
       "path": "uploads/2026/10/f4b1d1b5.jpg",
