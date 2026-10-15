@@ -3,6 +3,28 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "e0a92cfb",
+      "filename": "pixiv_150821034_p0.jpg",
+      "path": "uploads/2026/10/9ac07793.jpg",
+      "size": 699564,
+      "width": 764,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "eb2812f34c195d0c817e4d0a3d6a73562cc7db00f1d0838593ed8edb75cda03e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T19:55:49.558Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "星引擎party"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150821034_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150821034",
+      "sourceCreatedAt": "2026-10-13T14:38:52.000Z"
+    },
+    {
       "id": "65ddaf66",
       "filename": "pixiv_150822965_p0.jpg",
       "path": "uploads/2026/10/befd7c53.jpg",
