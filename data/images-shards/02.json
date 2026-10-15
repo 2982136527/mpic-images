@@ -3,6 +3,34 @@
   "shardId": "02",
   "images": [
     {
+      "id": "b125bed2",
+      "filename": "pixiv_150579287_p0.jpg",
+      "path": "uploads/2026/10/24de725b.jpg",
+      "size": 1483468,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ee955e83e4b9ab32f9f48c1b6041b75fbd41dc6f759d36fbc2539539af496604",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:33:59.434Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ダニヴェス",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ダニカ",
+        "Danica",
+        "ヴェスナ(原神)",
+        "ヴェスナ",
+        "原神500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150579287_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150579287",
+      "sourceCreatedAt": "2026-10-07T15:02:38.000Z"
+    },
+    {
       "id": "40a9804c",
       "filename": "pixiv_150827543_p0.jpg",
       "path": "uploads/2026/10/8dd6b51f.jpg",
