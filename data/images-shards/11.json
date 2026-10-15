@@ -3,6 +3,29 @@
   "shardId": "11",
   "images": [
     {
+      "id": "06894291",
+      "filename": "pixiv_150832124_p0.jpg",
+      "path": "uploads/2026/10/69c1a36e.jpg",
+      "size": 896415,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "830ea1a895375335a600e364f1a7fa22225150b08e508614e6eff39a15c0f07e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:32:51.875Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アイス名探偵るるか",
+      "tags": [
+        "名探偵プリキュア!",
+        "森亜るるか"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150832124_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150832124",
+      "sourceCreatedAt": "2026-10-13T23:01:27.000Z"
+    },
+    {
       "id": "74e8bffc",
       "filename": "pixiv_150839225_p0.jpg",
       "path": "uploads/2026/10/1b4c1e30.jpg",
