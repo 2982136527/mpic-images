@@ -3,6 +3,29 @@
   "shardId": "13",
   "images": [
     {
+      "id": "280d57da",
+      "filename": "pixiv_150836793_p0.jpg",
+      "path": "uploads/2026/10/59ba782c.jpg",
+      "size": 767446,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2b4df30bf30e839b85cf87860349f4e9f03333c7af474e4bfa3e97129618e1ed",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T13:26:25.476Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "Re:ゼロから始める異世界生活",
+        "エミリア(リゼロ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150836793_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150836793",
+      "sourceCreatedAt": "2026-10-14T03:34:25.000Z"
+    },
+    {
       "id": "d14e924a",
       "filename": "pixiv_150821726_p0.jpg",
       "path": "uploads/2026/10/e1c622e7.jpg",
