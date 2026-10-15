@@ -3,6 +3,33 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "652a466d",
+      "filename": "pixiv_150854078_p0.jpg",
+      "path": "uploads/2026/10/bd306cc5.jpg",
+      "size": 1159509,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0b999c13b8d9f3587af9af66eef63a198de866eede46dfd22a180ef2228a7d8a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T13:22:13.847Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【擬人化】赤い傘と猫",
+      "tags": [
+        "オリジナル",
+        "擬人化",
+        "着物",
+        "女の子",
+        "スーツ",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150854078_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150854078",
+      "sourceCreatedAt": "2026-10-14T13:13:39.000Z"
+    },
+    {
       "id": "44121884",
       "filename": "pixiv_150813913_p0.jpg",
       "path": "uploads/2026/10/b36eed4e.jpg",
