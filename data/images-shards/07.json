@@ -3,6 +3,32 @@
   "shardId": "07",
   "images": [
     {
+      "id": "965dab80",
+      "filename": "pixiv_150802395_p0.jpg",
+      "path": "uploads/2026/10/f809e016.jpg",
+      "size": 843425,
+      "width": 1200,
+      "height": 705,
+      "mimeType": "image/jpeg",
+      "hash": "36408fb033903a4c8b58d05679b2b50ed16e3e88a50eff179696e66c36c48083",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T19:56:47.735Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "イラスト",
+      "tags": [
+        "女の子",
+        "miyo",
+        "チャイナドレス",
+        "美代",
+        "背景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150802395_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150802395",
+      "sourceCreatedAt": "2026-10-13T05:37:07.000Z"
+    },
+    {
       "id": "3347ea5f",
       "filename": "pixiv_150816759_p0.jpg",
       "path": "uploads/2026/10/4c69bd71.jpg",
