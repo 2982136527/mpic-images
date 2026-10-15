@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "27991be7",
+      "filename": "pixiv_150846441_p0.jpg",
+      "path": "uploads/2026/10/f063afef.jpg",
+      "size": 1201816,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "86cf4615ac369072b510c26975a80e2b075fd170df6e72dd3375a3716ccdf499",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T19:52:48.132Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "DON!",
+      "tags": [
+        "シーシィア",
+        "プロメイア",
+        "ゼンレスゾーンゼロ",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150846441_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150846441",
+      "sourceCreatedAt": "2026-10-14T10:19:27.000Z"
+    },
+    {
       "id": "2f371d04",
       "filename": "pixiv_150837220_p0.jpg",
       "path": "uploads/2026/10/1405eb4f.jpg",
