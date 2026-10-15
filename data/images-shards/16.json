@@ -3,6 +3,37 @@
   "shardId": "16",
   "images": [
     {
+      "id": "8fde3313",
+      "filename": "pixiv_150841560_p0.jpg",
+      "path": "uploads/2026/10/3644517c.jpg",
+      "size": 538609,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "487ab5afa9a2083f49537c7d70bcfef225601692eaa2dcb255f43866f61d134e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:26:05.349Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "斜めの顔が崩れる人へ",
+      "tags": [
+        "描き方",
+        "ハウツー",
+        "上達法",
+        "練習法",
+        "コツ",
+        "講座",
+        "斜め顔",
+        "顔",
+        "顔の描き方",
+        "顔のバランス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150841560_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150841560",
+      "sourceCreatedAt": "2026-10-14T07:39:30.000Z"
+    },
+    {
       "id": "4debcdda",
       "filename": "pixiv_150804735_p0.jpg",
       "path": "uploads/2026/10/9ac7b781.jpg",
