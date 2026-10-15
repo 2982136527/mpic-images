@@ -3,6 +3,29 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "72b1536a",
+      "filename": "pixiv_150828946_p0.jpg",
+      "path": "uploads/2026/10/ce4de88a.jpg",
+      "size": 988670,
+      "width": 758,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "58c7ea2b3f5739f8993576977d4553903f05e754996bd2b1b19ae15700f6f4d6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:25:03.331Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Friend's oc",
+      "tags": [
+        "女の子",
+        "落書き"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150828946_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150828946",
+      "sourceCreatedAt": "2026-10-13T19:38:29.000Z"
+    },
+    {
       "id": "399bf56b",
       "filename": "pixiv_150785433_p0.jpg",
       "path": "uploads/2026/10/bf8e76da.jpg",
