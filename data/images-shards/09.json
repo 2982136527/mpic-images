@@ -3,6 +3,35 @@
   "shardId": "09",
   "images": [
     {
+      "id": "2bf15093",
+      "filename": "pixiv_150806630_p0.jpg",
+      "path": "uploads/2026/10/cab1e1e2.jpg",
+      "size": 638562,
+      "width": 776,
+      "height": 1039,
+      "mimeType": "image/jpeg",
+      "hash": "29e0521c8f79874b1e7b565c6df6c8d627eb98c110f0f435c2cad526425e508b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:25:54.612Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ぱかぱかログ⑤",
+      "tags": [
+        "ウマ娘プリティーダービー",
+        "オルフェーヴル(ウマ娘)",
+        "ドリームジャーニー(ウマ娘)",
+        "フェノーメノ(ウマ娘)",
+        "ステイゴールド(ウマ娘)",
+        "ナカヤマフェスタ(ウマ娘)",
+        "マンハッタンカフェ(ウマ娘)",
+        "ウインバリアシオン(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150806630_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150806630",
+      "sourceCreatedAt": "2026-10-13T08:55:00.000Z"
+    },
+    {
       "id": "823ee857",
       "filename": "pixiv_150804250_p0.jpg",
       "path": "uploads/2026/10/71a57075.jpg",
