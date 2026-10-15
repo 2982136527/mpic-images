@@ -3,6 +3,34 @@
   "shardId": "09",
   "images": [
     {
+      "id": "5df04f03",
+      "filename": "pixiv_150800987_p0.jpg",
+      "path": "uploads/2026/10/7b9d27ca.jpg",
+      "size": 927406,
+      "width": 845,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7302bf8cd06021d0151cd9cdcdab1286bdbea8060ee5fa6ce2be975403121c81",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:33:24.613Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "暗黑森林",
+      "tags": [
+        "東方Project",
+        "東方",
+        "鈴仙・優曇華院・イナバ",
+        "宇宙服",
+        "宇宙",
+        "うさぎ",
+        "宇宙飛行士"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150800987_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150800987",
+      "sourceCreatedAt": "2026-10-13T04:18:40.000Z"
+    },
+    {
       "id": "ce29cd49",
       "filename": "pixiv_150807768_p0.jpg",
       "path": "uploads/2026/10/cdb359d0.jpg",
