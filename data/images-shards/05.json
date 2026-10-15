@@ -3,6 +3,31 @@
   "shardId": "05",
   "images": [
     {
+      "id": "52b1930c",
+      "filename": "pixiv_150843785_p0.jpg",
+      "path": "uploads/2026/10/f4b1d1b5.jpg",
+      "size": 1730745,
+      "width": 853,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "08032fda4a6625c8094dca1a0b3948f8ac2e71a6c4eac84a768345b028e97c7a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:27:25.463Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "葛飾北斎コラボのMEIKO",
+      "tags": [
+        "VOCALOID",
+        "横顔",
+        "MEIKO",
+        "スタイリッシュ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150843785_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150843785",
+      "sourceCreatedAt": "2026-10-14T09:01:15.000Z"
+    },
+    {
       "id": "360f8b2e",
       "filename": "pixiv_150808260_p0.jpg",
       "path": "uploads/2026/10/cb019d88.jpg",
