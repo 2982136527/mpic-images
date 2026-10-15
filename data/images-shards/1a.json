@@ -3,6 +3,36 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "b06a676e",
+      "filename": "pixiv_150806774_p0.jpg",
+      "path": "uploads/2026/10/ed456876.jpg",
+      "size": 1172961,
+      "width": 680,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f46dec618e1a98ccdad72638138b1ab10e66c9edd95a50267abf65d6b4132114",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T13:26:46.444Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "406 Noa(ノア)",
+      "tags": [
+        "ノア",
+        "Noa",
+        "生塩ノア",
+        "100日チャレンジ",
+        "女の子",
+        "ブルーアーカイブ",
+        "BlueArchive",
+        "ブルアカ",
+        "블루아카이브"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150806774_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150806774",
+      "sourceCreatedAt": "2026-10-13T09:00:10.000Z"
+    },
+    {
       "id": "962df68d",
       "filename": "pixiv_150822223_p0.jpg",
       "path": "uploads/2026/10/f28ae306.jpg",
