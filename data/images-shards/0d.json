@@ -3,6 +3,28 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "65ddaf66",
+      "filename": "pixiv_150822965_p0.jpg",
+      "path": "uploads/2026/10/befd7c53.jpg",
+      "size": 936181,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "72e5fbe9e98a8d6064a055ba40d0f7f899d04cdf0a6a17dcfa3ff0b9124e5a73",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T19:55:34.363Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Chainsaw",
+      "tags": [
+        "足立レイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150822965_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150822965",
+      "sourceCreatedAt": "2026-10-13T15:13:21.000Z"
+    },
+    {
       "id": "0b0c90ed",
       "filename": "pixiv_150808733_p0.jpg",
       "path": "uploads/2026/10/e8ed3306.jpg",
