@@ -3,6 +3,37 @@
   "shardId": "02",
   "images": [
     {
+      "id": "5217d044",
+      "filename": "pixiv_150825766_p0.jpg",
+      "path": "uploads/2026/10/970d4f25.jpg",
+      "size": 808734,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "728de8ab3e3e84498884f652b29ff444db7be23170bed13ed5c8da714aed015e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T19:52:24.610Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "リン",
+      "tags": [
+        "リン(ゼンゼロ)",
+        "ゼンレスゾーンゼロ",
+        "パーティードレス",
+        "ボンプ",
+        "ウィンク",
+        "ピースサイン",
+        "魅惑の谷間",
+        "魅惑のふともも",
+        "千本木彩花",
+        "ゼンゼロ1000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150825766_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150825766",
+      "sourceCreatedAt": "2026-10-13T16:33:54.000Z"
+    },
+    {
       "id": "0bf16697",
       "filename": "pixiv_150786457_p0.jpg",
       "path": "uploads/2026/10/df46b2b4.jpg",
