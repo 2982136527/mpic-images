@@ -3,6 +3,30 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "0b0c90ed",
+      "filename": "pixiv_150808733_p0.jpg",
+      "path": "uploads/2026/10/e8ed3306.jpg",
+      "size": 1196575,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6308a20030eb35bf9c45f548e2100bf43477c8cca09c3b36976cbb7bc620c791",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T13:23:05.360Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "レミ嬢",
+      "tags": [
+        "東方Project",
+        "東方",
+        "レミリア・スカーレット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150808733_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150808733",
+      "sourceCreatedAt": "2026-10-13T09:56:41.000Z"
+    },
+    {
       "id": "261b1a90",
       "filename": "pixiv_150802104_p0.jpg",
       "path": "uploads/2026/10/05528ead.jpg",
