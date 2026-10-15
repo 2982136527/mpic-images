@@ -3,6 +3,28 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "d7bb3d3b",
+      "filename": "pixiv_150822338_p0.jpg",
+      "path": "uploads/2026/10/cf9839d1.jpg",
+      "size": 756945,
+      "width": 891,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f5e7238fa9e5cf2ac3e1abdc0280badfd9c8181fea6695040e479fc6193d16e4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:28:43.600Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "127話無料公開",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150822338_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150822338",
+      "sourceCreatedAt": "2026-10-13T15:02:02.000Z"
+    },
+    {
       "id": "f00aa95c",
       "filename": "pixiv_150798878_p0.jpg",
       "path": "uploads/2026/10/95090fdb.jpg",
