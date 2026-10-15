@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "238376c1",
+      "filename": "pixiv_150807994_p0.jpg",
+      "path": "uploads/2026/10/179013da.jpg",
+      "size": 1363363,
+      "width": 996,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ca6c31f69f06ad987d9bd17724c139b55987ee8dbbec5f93d38181ec63fe89fe",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:29:07.720Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "蕾",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "レミエール・ダン",
+        "ZenlessZoneZero",
+        "100日チャレンジ",
+        "zzzero",
+        "绝区零"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150807994_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150807994",
+      "sourceCreatedAt": "2026-10-13T09:32:21.000Z"
+    },
+    {
       "id": "d7bb3d3b",
       "filename": "pixiv_150822338_p0.jpg",
       "path": "uploads/2026/10/cf9839d1.jpg",
