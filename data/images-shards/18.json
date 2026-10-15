@@ -3,6 +3,33 @@
   "shardId": "18",
   "images": [
     {
+      "id": "aa751cdd",
+      "filename": "pixiv_150817266_p0.jpg",
+      "path": "uploads/2026/10/c4100e49.jpg",
+      "size": 391210,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "55128803dbf7a6769481e7619d1ff120a3292e4a226ed10d93357bd4537accab",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:29:00.013Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "プセついろぐ⑩",
+      "tags": [
+        "プロセカ",
+        "星乃一歌",
+        "レオニミク",
+        "初音ミク",
+        "プロジェクトセカイ",
+        "バツミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150817266_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150817266",
+      "sourceCreatedAt": "2026-10-13T13:10:04.000Z"
+    },
+    {
       "id": "512ae60d",
       "filename": "pixiv_150810533_p0.jpg",
       "path": "uploads/2026/10/54ce1050.jpg",
