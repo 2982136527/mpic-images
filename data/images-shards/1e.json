@@ -3,6 +3,30 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "cae539a6",
+      "filename": "pixiv_150819067_p0.jpg",
+      "path": "uploads/2026/10/04f717bd.jpg",
+      "size": 786853,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "62a52c1744f7c267e6a31d6bfd93c3c8dbf13493b3732f28ad239a3dd42de655",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T13:26:11.109Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "小悪魔な奏ちゃん",
+      "tags": [
+        "プロセカ",
+        "宵崎奏",
+        "プロジェクトセカイ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150819067_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150819067",
+      "sourceCreatedAt": "2026-10-13T13:52:45.000Z"
+    },
+    {
       "id": "ab445eb0",
       "filename": "pixiv_150799646_p0.jpg",
       "path": "uploads/2026/10/aa0f5b53.jpg",
