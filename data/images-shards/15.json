@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "01f76294",
+      "filename": "pixiv_150834888_p0.jpg",
+      "path": "uploads/2026/10/6f715b8e.jpg",
+      "size": 1470737,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0840092d576042f87bbe356f991db2801d6e2c8eec99f9f27fc730b453379c11",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:25:11.906Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "茜のアルペジオ",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150834888_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150834888",
+      "sourceCreatedAt": "2026-10-14T01:57:44.000Z"
+    },
+    {
       "id": "01b0db9e",
       "filename": "pixiv_150773028_p0.jpg",
       "path": "uploads/2026/10/48ba1ead.jpg",
