@@ -3,6 +3,31 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "ff4975df",
+      "filename": "pixiv_150804732_p0.jpg",
+      "path": "uploads/2026/10/bdf5ffbe.jpg",
+      "size": 384763,
+      "width": 700,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "09ee475e4c1ad79ba62a8cd294d0950111f01cae7d7fac2c8abe82e294dc9de9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T19:56:02.953Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "无题",
+      "tags": [
+        "明日方舟",
+        "arknights",
+        "アークナイツ",
+        "珊比"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150804732_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150804732",
+      "sourceCreatedAt": "2026-10-13T07:38:40.000Z"
+    },
+    {
       "id": "b88fed3f",
       "filename": "pixiv_150788028_p0.jpg",
       "path": "uploads/2026/10/87c5cacd.jpg",
