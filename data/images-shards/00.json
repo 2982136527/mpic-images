@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "cf770ea4",
+      "filename": "pixiv_150820143_p0.jpg",
+      "path": "uploads/2026/10/5821b98f.jpg",
+      "size": 839028,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "799d2424d9684769a70a50ae87bbd61ac3ef3beba403ee6d2ec39e0367003e9f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T13:20:03.096Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "儚い樋口",
+      "tags": [
+        "儚い女",
+        "樋口楓",
+        "にじさんじ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150820143_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150820143",
+      "sourceCreatedAt": "2026-10-13T14:17:07.000Z"
+    },
+    {
       "id": "8b613094",
       "filename": "pixiv_150785873_p0.jpg",
       "path": "uploads/2026/10/c4b5dc54.jpg",
