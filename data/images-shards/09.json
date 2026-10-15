@@ -3,6 +3,29 @@
   "shardId": "09",
   "images": [
     {
+      "id": "0e6f4d73",
+      "filename": "pixiv_150844387_p0.jpg",
+      "path": "uploads/2026/10/e77ad9ca.jpg",
+      "size": 620771,
+      "width": 1200,
+      "height": 850,
+      "mimeType": "image/jpeg",
+      "hash": "77c6716bf0b414f4e0bac0a27415829c8438bb6322668626c25df2319bc0d733",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T19:54:05.165Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "モカちゃん",
+      "tags": [
+        "オリジナル",
+        "モカちゃん"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150844387_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150844387",
+      "sourceCreatedAt": "2026-10-14T09:17:24.000Z"
+    },
+    {
       "id": "3883ea5e",
       "filename": "pixiv_150840936_p0.jpg",
       "path": "uploads/2026/10/a2afcf0d.jpg",
