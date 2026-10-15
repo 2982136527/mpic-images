@@ -3,6 +3,29 @@
   "shardId": "04",
   "images": [
     {
+      "id": "b7aa7e6f",
+      "filename": "pixiv_150834191_p0.jpg",
+      "path": "uploads/2026/10/0e231169.jpg",
+      "size": 388384,
+      "width": 496,
+      "height": 760,
+      "mimeType": "image/jpeg",
+      "hash": "756c14f37e6ea82cd20143bb51d5a0b31cad031e263fbef58168c687bede94fd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:33:16.608Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "絵チャまとめ",
+      "tags": [
+        "オリジナル",
+        "スターアイランド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150834191_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150834191",
+      "sourceCreatedAt": "2026-10-14T01:12:14.000Z"
+    },
+    {
       "id": "c3190630",
       "filename": "pixiv_150821060_p0.jpg",
       "path": "uploads/2026/10/3f4dec4e.jpg",
