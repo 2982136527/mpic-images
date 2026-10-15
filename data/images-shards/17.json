@@ -3,6 +3,31 @@
   "shardId": "17",
   "images": [
     {
+      "id": "ca58582e",
+      "filename": "pixiv_150794193_p0.jpg",
+      "path": "uploads/2026/10/f572e481.jpg",
+      "size": 816789,
+      "width": 800,
+      "height": 1188,
+      "mimeType": "image/jpeg",
+      "hash": "e08e6420cc01d4f8ef27dc7aacc25f5f69bcc088c6f5096cf26ca04eab68b432",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T13:27:32.294Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Rebecca",
+      "tags": [
+        "rebecca",
+        "cyberpunk",
+        "edgerunners",
+        "halloween"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150794193_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150794193",
+      "sourceCreatedAt": "2026-10-12T21:48:12.000Z"
+    },
+    {
       "id": "b2971861",
       "filename": "pixiv_150845628_p0.jpg",
       "path": "uploads/2026/10/76db0b83.jpg",
