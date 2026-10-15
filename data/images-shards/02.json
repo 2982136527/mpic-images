@@ -3,6 +3,36 @@
   "shardId": "02",
   "images": [
     {
+      "id": "40a9804c",
+      "filename": "pixiv_150827543_p0.jpg",
+      "path": "uploads/2026/10/8dd6b51f.jpg",
+      "size": 882597,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1779c4a80ed7edb6fbc0dd6fbe0c98500f7517227a51a4af610aa532bf6055dd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:33:00.482Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "no touching the tail!",
+      "tags": [
+        "ホロライブ",
+        "hololive",
+        "バーチャルYouTuber",
+        "HololiveEN",
+        "RaoraPanthera",
+        "ラオーラ・パンテーラ",
+        "めがね",
+        "RaorArt",
+        "holoctober"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150827543_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150827543",
+      "sourceCreatedAt": "2026-10-13T17:59:13.000Z"
+    },
+    {
       "id": "7be87d8a",
       "filename": "pixiv_150787994_p0.jpg",
       "path": "uploads/2026/10/af5a4533.jpg",
