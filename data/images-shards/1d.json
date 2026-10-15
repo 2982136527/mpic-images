@@ -3,6 +3,30 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "a08ae345",
+      "filename": "pixiv_150822049_p0.jpg",
+      "path": "uploads/2026/10/ff4ed455.jpg",
+      "size": 741532,
+      "width": 693,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "2191af2300af880df85dacf27bcbed3f3b01a66aae3a198a594b4311ae331aa6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:30:41.585Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "マルシュロレーヌ",
+      "tags": [
+        "ウマ娘",
+        "ウマ娘プリティーダービー",
+        "マルシュロレーヌ(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150822049_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150822049",
+      "sourceCreatedAt": "2026-10-13T15:00:18.000Z"
+    },
+    {
       "id": "f3d51b08",
       "filename": "pixiv_150829570_p0.jpg",
       "path": "uploads/2026/10/b36f7c60.jpg",
