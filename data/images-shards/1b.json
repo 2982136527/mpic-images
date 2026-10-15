@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "031e9b76",
+      "filename": "pixiv_150825944_p0.jpg",
+      "path": "uploads/2026/10/6cf8a1ae.jpg",
+      "size": 453696,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1541dbf37f1180b6f9f22ab313097a9c9ca08c7dc617b7a3f28ea7598bb0ba05",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:29:16.222Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Kochiya Sanae",
+      "tags": [
+        "東風谷早苗",
+        "東方Project",
+        "東方",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150825944_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150825944",
+      "sourceCreatedAt": "2026-10-13T16:41:33.000Z"
+    },
+    {
       "id": "3424e010",
       "filename": "pixiv_150799275_p0.jpg",
       "path": "uploads/2026/10/f4603e64.jpg",
