@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "c4eedcda",
+      "filename": "pixiv_150803389_p0.jpg",
+      "path": "uploads/2026/10/f92438f4.jpg",
+      "size": 774322,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7decdb1a9ec7a7c19a9f14ff1ffaf638bb953d49a411aa12d8833fedd9dd2ce6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T19:54:28.988Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "奇跡ちゃん",
+      "tags": [
+        "金澤奇跡",
+        "イキヅライブ!_LOVELIVE!_BLUEBIRD",
+        "イキヅライブ!"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150803389_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150803389",
+      "sourceCreatedAt": "2026-10-13T06:29:43.000Z"
+    },
+    {
       "id": "0bfe4bb5",
       "filename": "pixiv_150836121_p0.jpg",
       "path": "uploads/2026/10/8a845d39.jpg",
