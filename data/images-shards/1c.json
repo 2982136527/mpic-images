@@ -3,6 +3,31 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "7ea34e78",
+      "filename": "pixiv_150785321_p0.jpg",
+      "path": "uploads/2026/10/6727f57c.jpg",
+      "size": 711425,
+      "width": 808,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "661f374cd6948def76cd0d1a589ce34f32abb1c7e5394293d8ddaf9f86410480",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T19:52:03.678Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "シーシィア🥱",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "绝区零",
+        "シーシィア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150785321_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150785321",
+      "sourceCreatedAt": "2026-10-15T03:25:52.000Z"
+    },
+    {
       "id": "ae80018d",
       "filename": "pixiv_150769759_p0.jpg",
       "path": "uploads/2026/10/0f2a2a61.jpg",
