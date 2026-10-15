@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "ec13b76f",
+      "filename": "pixiv_150837340_p0.jpg",
+      "path": "uploads/2026/10/8a6072bc.jpg",
+      "size": 808166,
+      "width": 847,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "1cecd8f4c19423309d63042596bbeca5cf911043e2edc07b3ae8b5dc3cbfa380",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:25:32.255Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "あんなとみくる",
+      "tags": [
+        "名探偵プリキュア!",
+        "明智あんな",
+        "小林みくる",
+        "あんみく(プリキュア)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150837340_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150837340",
+      "sourceCreatedAt": "2026-10-14T04:00:36.000Z"
+    },
+    {
       "id": "861f5eed",
       "filename": "pixiv_150815100_p0.jpg",
       "path": "uploads/2026/10/fc5c4883.jpg",
