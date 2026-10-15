@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "0d3a3d25",
+      "filename": "pixiv_150844960_p0.jpg",
+      "path": "uploads/2026/10/076552d6.jpg",
+      "size": 548686,
+      "width": 771,
+      "height": 771,
+      "mimeType": "image/jpeg",
+      "hash": "2a7e044c9fccb14d648229e43e3a6f9304f49298c23a8f8c883c284a07647cc4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T04:26:41.379Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "創作男子まとめ4",
+      "tags": [
+        "創作",
+        "男子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150844960_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150844960",
+      "sourceCreatedAt": "2026-10-14T09:36:07.000Z"
+    },
+    {
       "id": "01f76294",
       "filename": "pixiv_150834888_p0.jpg",
       "path": "uploads/2026/10/6f715b8e.jpg",
