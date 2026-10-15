@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "f8692648",
+      "filename": "pixiv_150805709_p0.jpg",
+      "path": "uploads/2026/10/5ac010f5.jpg",
+      "size": 1467587,
+      "width": 1200,
+      "height": 913,
+      "mimeType": "image/jpeg",
+      "hash": "ae9d0b76064542de7ef8df2e96218b963b9ef3d399d6a4152e91350763339668",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-15T19:56:33.487Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "ゼンレスゾーンゼロ",
+        "ZenlessZoneZero",
+        "レミエール・ダン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150805709_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150805709",
+      "sourceCreatedAt": "2026-10-13T08:19:10.000Z"
+    },
+    {
       "id": "ca0a6339",
       "filename": "pixiv_150824253_p0.jpg",
       "path": "uploads/2026/10/4fd812f1.jpg",
