@@ -3,6 +3,29 @@
   "shardId": "10",
   "images": [
     {
+      "id": "a40f9276",
+      "filename": "pixiv_150864585_p0.jpg",
+      "path": "uploads/2026/10/470f0df5.jpg",
+      "size": 1085883,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b82d8e05eef137d273dd4e547436e2d244238697df1f7091a8f366c9a9196e4b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:17:10.919Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "千本桜",
+      "tags": [
+        "千本桜",
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150864585_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150864585",
+      "sourceCreatedAt": "2026-10-14T18:47:52.000Z"
+    },
+    {
       "id": "a4e7eb91",
       "filename": "pixiv_150888533_p0.jpg",
       "path": "uploads/2026/10/9b67786a.jpg",
