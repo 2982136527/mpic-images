@@ -3,6 +3,34 @@
   "shardId": "08",
   "images": [
     {
+      "id": "42af5e07",
+      "filename": "pixiv_150829977_p0.jpg",
+      "path": "uploads/2026/10/7949e35f.jpg",
+      "size": 605275,
+      "width": 727,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "2fe5c9645e09bb80235162fd4a4688ad38b4c709653904cef39d34ea69af1565",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:31:13.238Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "個人メモ：手の指関節",
+      "tags": [
+        "漫画素材工房",
+        "描き方",
+        "人体",
+        "美術解剖学",
+        "身体",
+        "手",
+        "指"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150829977_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150829977",
+      "sourceCreatedAt": "2026-10-13T21:00:22.000Z"
+    },
+    {
       "id": "3081ba70",
       "filename": "pixiv_150864256_p0.jpg",
       "path": "uploads/2026/10/b6a56913.jpg",
