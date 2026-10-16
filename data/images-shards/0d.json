@@ -3,6 +3,33 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "6c3e53a8",
+      "filename": "pixiv_150854588_p0.jpg",
+      "path": "uploads/2026/10/b3f71429.jpg",
+      "size": 1165747,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "9946f9e39ff7bdf0eae8f31ed14821a62aca973e9ddcde3e58fafed1f71af335",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T04:21:26.190Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "仕事絵",
+      "tags": [
+        "ちぐさくん",
+        "歌ってみた",
+        "仕事絵",
+        "制服",
+        "デコラ",
+        "チョーカー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150854588_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150854588",
+      "sourceCreatedAt": "2026-10-14T13:26:01.000Z"
+    },
+    {
       "id": "94972ecc",
       "filename": "pixiv_150843568_p0.jpg",
       "path": "uploads/2026/10/74fbb4b0.jpg",
