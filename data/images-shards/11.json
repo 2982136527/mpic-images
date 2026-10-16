@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "3b613624",
+      "filename": "pixiv_150834877_p0.jpg",
+      "path": "uploads/2026/10/24b811a0.jpg",
+      "size": 483730,
+      "width": 1200,
+      "height": 881,
+      "mimeType": "image/jpeg",
+      "hash": "79c9ca8988ae60342a253f8d8cf6215e26d02b495a1030a01bd6d85e9a6aaa01",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T04:26:47.604Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "새로운 친구",
+      "tags": [
+        "SD",
+        "BlueArchive",
+        "ブルーアーカイブ",
+        "블루아카이브",
+        "ブルアカ",
+        "空崎ヒナ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150834877_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150834877",
+      "sourceCreatedAt": "2026-10-14T01:57:03.000Z"
+    },
+    {
       "id": "94c651fb",
       "filename": "pixiv_150864277_p0.jpg",
       "path": "uploads/2026/10/397b9994.jpg",
