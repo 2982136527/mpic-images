@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "3052f4d9",
+      "filename": "pixiv_150860342_p0.jpg",
+      "path": "uploads/2026/10/1369806a.jpg",
+      "size": 294947,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "911bc3ecc9a7b9327e8f4f86f342dad6ce151a97af73a26551115d8341523c2f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:34:00.924Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "진짜 광기...",
+      "tags": [
+        "이터널리턴",
+        "EternalReturn",
+        "EternalReturn:BlackSurvival",
+        "수아"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150860342_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150860342",
+      "sourceCreatedAt": "2026-10-14T15:34:00.000Z"
+    },
+    {
       "id": "3b613624",
       "filename": "pixiv_150834877_p0.jpg",
       "path": "uploads/2026/10/24b811a0.jpg",
