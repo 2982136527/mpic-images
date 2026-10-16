@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "c4967476",
+      "filename": "pixiv_150868555_p0.jpg",
+      "path": "uploads/2026/10/14e2e6a6.jpg",
+      "size": 1229540,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8f720613134bf9a43e73e38eb9f56f31b128dc46f6f2079d4afbd8783fde3fdb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:18:54.448Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "マーナノ",
+      "tags": [
+        "魔法少女ノ魔女裁判",
+        "宝生マーゴ",
+        "黒部ナノカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150868555_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150868555",
+      "sourceCreatedAt": "2026-10-14T23:28:56.000Z"
+    },
+    {
       "id": "eb247080",
       "filename": "pixiv_150840595_p0.jpg",
       "path": "uploads/2026/10/95011ea4.jpg",
