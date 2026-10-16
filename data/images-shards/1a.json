@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "9072a99c",
+      "filename": "pixiv_150849545_p0.jpg",
+      "path": "uploads/2026/10/266bee0d.jpg",
+      "size": 631935,
+      "width": 418,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b0004409fc8eade5b979b1585d7138aef3c7e4f8cdb97870afbf869bb35c10c7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T04:20:40.447Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "剣持刀也 虚空狂宴 応援のぼり",
+      "tags": [
+        "剣持刀也",
+        "虚空狂宴",
+        "金剛力也像"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150849545_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150849545",
+      "sourceCreatedAt": "2026-10-14T11:37:35.000Z"
+    },
+    {
       "id": "e6afe672",
       "filename": "pixiv_150842326_p0.jpg",
       "path": "uploads/2026/10/55e90896.jpg",
