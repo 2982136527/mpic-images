@@ -3,6 +3,37 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "af0a343a",
+      "filename": "pixiv_150871440_p0.jpg",
+      "path": "uploads/2026/10/fe0605b2.jpg",
+      "size": 350901,
+      "width": 680,
+      "height": 864,
+      "mimeType": "image/jpeg",
+      "hash": "8f118ca4a22bfd5ce453ebca123a4f9049fbd816955c01970db3f7df736d8dcb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:14:21.466Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "こんにちは、テトちゃん！",
+      "tags": [
+        "VOCALOID",
+        "UTAU",
+        "重音テト",
+        "teto",
+        "KasaneTeto",
+        "テト",
+        "初音ミク",
+        "HatsuneMiku",
+        "ミク",
+        "Miku"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150871440_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150871440",
+      "sourceCreatedAt": "2026-10-15T02:29:03.000Z"
+    },
+    {
       "id": "38276fb7",
       "filename": "pixiv_150843512_p0.jpg",
       "path": "uploads/2026/10/8d00c84f.jpg",
