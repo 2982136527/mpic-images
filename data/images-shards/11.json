@@ -3,6 +3,32 @@
   "shardId": "11",
   "images": [
     {
+      "id": "bd76fc77",
+      "filename": "pixiv_150850839_p0.jpg",
+      "path": "uploads/2026/10/1767061f.jpg",
+      "size": 1628710,
+      "width": 1012,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "23202d0ea1176f6357c0c0a4fe3b1c36b8d61be76a01daa1028e0d124eec0cae",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:34:25.136Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "yeah~",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "Columbina",
+        "Sandrone",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150850839_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150850839",
+      "sourceCreatedAt": "2026-10-14T12:05:33.000Z"
+    },
+    {
       "id": "3052f4d9",
       "filename": "pixiv_150860342_p0.jpg",
       "path": "uploads/2026/10/1369806a.jpg",
