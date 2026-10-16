@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "3d3e8356",
+      "filename": "pixiv_150846894_p0.jpg",
+      "path": "uploads/2026/10/cd17c1f9.jpg",
+      "size": 861561,
+      "width": 1183,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "a8da7100e698c5d8cc2d59a9ff707aa8fee407081426b02def1db2cbbbc48baf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:40:26.898Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "グラーフ圧ェッペリン",
+      "tags": [
+        "艦これ",
+        "艦隊これくしょん",
+        "グラーフ・ツェッペリン(艦隊これくしょん)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150846894_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150846894",
+      "sourceCreatedAt": "2026-10-14T10:31:34.000Z"
+    },
+    {
       "id": "9526a960",
       "filename": "pixiv_150878073_p0.jpg",
       "path": "uploads/2026/10/ff38fb80.jpg",
