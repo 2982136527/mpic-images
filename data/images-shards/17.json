@@ -3,6 +3,29 @@
   "shardId": "17",
   "images": [
     {
+      "id": "3c9f69c6",
+      "filename": "pixiv_150878147_p0.jpg",
+      "path": "uploads/2026/10/91b7e798.jpg",
+      "size": 993898,
+      "width": 1200,
+      "height": 749,
+      "mimeType": "image/jpeg",
+      "hash": "a391e27799d1909c2e620c088e047a21569d70305b804c4509c5c991939a2ef9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T04:28:19.671Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "君が死んでいなくなっても",
+      "tags": [
+        "Fate/GrandOrder",
+        "カドック・ゼムルプス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150878147_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150878147",
+      "sourceCreatedAt": "2026-10-15T08:09:59.000Z"
+    },
+    {
       "id": "e6a1f84c",
       "filename": "pixiv_150878530_p0.jpg",
       "path": "uploads/2026/10/7781b015.jpg",
