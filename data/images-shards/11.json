@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "32f553e4",
+      "filename": "pixiv_150850355_p0.jpg",
+      "path": "uploads/2026/10/d01e80ee.jpg",
+      "size": 539606,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e037b5ee90f79329e282368da1647351e5d7a78603f5b79a71c5536ed3a11550",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:35:56.488Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ハチラコまとめ",
+      "tags": [
+        "ちいかわ擬人化",
+        "ハチラコ",
+        "腐向け",
+        "強くなったハチワレ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150850355_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150850355",
+      "sourceCreatedAt": "2026-10-14T11:59:57.000Z"
+    },
+    {
       "id": "034c1bf9",
       "filename": "pixiv_150887098_p0.jpg",
       "path": "uploads/2026/10/768874d5.jpg",
