@@ -3,6 +3,30 @@
   "shardId": "16",
   "images": [
     {
+      "id": "615a10af",
+      "filename": "pixiv_150858709_p0.jpg",
+      "path": "uploads/2026/10/9c6861b2.jpg",
+      "size": 700844,
+      "width": 874,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cdf3ce3f89d1ea2086cdcd0ece950e05986487fd250a8236b7afafac206b3ff4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T04:21:17.601Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "サソリちゃん",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150858709_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150858709",
+      "sourceCreatedAt": "2026-10-14T15:00:26.000Z"
+    },
+    {
       "id": "c4eedcda",
       "filename": "pixiv_150803389_p0.jpg",
       "path": "uploads/2026/10/f92438f4.jpg",
