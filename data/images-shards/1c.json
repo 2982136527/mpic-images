@@ -3,6 +3,29 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "4cb35920",
+      "filename": "pixiv_150872479_p0.jpg",
+      "path": "uploads/2026/10/6d96e6ed.jpg",
+      "size": 689323,
+      "width": 876,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "71ce08a809803fbb16b55eb27adf23f50f14b4c59a4307d7276fd84a0dc08d54",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T04:25:48.525Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "苺好きのウサギ魔女",
+      "tags": [
+        "オリジナル",
+        "少女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150872479_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150872479",
+      "sourceCreatedAt": "2026-10-15T03:16:12.000Z"
+    },
+    {
       "id": "3967e9e8",
       "filename": "pixiv_150859626_p0.jpg",
       "path": "uploads/2026/10/366ac0c9.jpg",
