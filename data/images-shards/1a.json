@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "952046d3",
+      "filename": "pixiv_150886854_p0.jpg",
+      "path": "uploads/2026/10/3b992826.jpg",
+      "size": 331267,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ceb40fd92bc28a45ffb376187de69d74dbc4a93b6766053de2ae2ee70206a36d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:37:34.894Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ニット黒スキニー",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "ファッション",
+        "パンツ",
+        "パンプス",
+        "ニット"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150886854_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150886854",
+      "sourceCreatedAt": "2026-10-15T12:10:40.000Z"
+    },
+    {
       "id": "fdcb0a28",
       "filename": "pixiv_150837771_p0.jpg",
       "path": "uploads/2026/10/c6125338.jpg",
