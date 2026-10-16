@@ -3,6 +3,37 @@
   "shardId": "17",
   "images": [
     {
+      "id": "4af90a3c",
+      "filename": "pixiv_150867839_p0.jpg",
+      "path": "uploads/2026/10/2e63080e.jpg",
+      "size": 520190,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5516c914282b5914e296ff07b941dfe64e21465c9a72b8d00c86f1b47cd526c1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:40:35.661Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ハグ。",
+      "tags": [
+        "ホロライブ",
+        "FLOWGLOW",
+        "輪堂千速",
+        "もはやちはや",
+        "VTuber",
+        "轟はじめ",
+        "はじめ武勇伝",
+        "むちむち",
+        "右上の存在感",
+        "バーチャルYouTuber100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150867839_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150867839",
+      "sourceCreatedAt": "2026-10-14T22:41:33.000Z"
+    },
+    {
       "id": "addb4e5d",
       "filename": "pixiv_150822243_p0.jpg",
       "path": "uploads/2026/10/b1712c15.jpg",
