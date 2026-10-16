@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "399725f3",
+      "filename": "pixiv_150878964_p0.jpg",
+      "path": "uploads/2026/10/6e71212c.jpg",
+      "size": 1926303,
+      "width": 1182,
+      "height": 1053,
+      "mimeType": "image/jpeg",
+      "hash": "416cf096100c0e1724e2ca80efff62fd412416eca079cac6856b2322b447cc59",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:31:36.163Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Monsters 7",
+      "tags": [
+        "オリジナル",
+        "モンスター",
+        "LittleShadowMonsters"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150878964_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150878964",
+      "sourceCreatedAt": "2026-10-15T08:43:16.000Z"
+    },
+    {
       "id": "4ca4ee8e",
       "filename": "pixiv_150838408_p0.jpg",
       "path": "uploads/2026/10/a4f1db11.jpg",
