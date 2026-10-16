@@ -3,6 +3,32 @@
   "shardId": "10",
   "images": [
     {
+      "id": "4f0094c2",
+      "filename": "pixiv_150639481_p0.jpg",
+      "path": "uploads/2026/10/ce328fa2.jpg",
+      "size": 1032479,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a3a6317be524beb86feb33dd1aeec3d570041e7410bbed1e1e9ccd731decf3cf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:20:14.420Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "At",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "背景",
+        "風景",
+        "メイド"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150639481_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150639481",
+      "sourceCreatedAt": "2026-10-09T10:06:53.000Z"
+    },
+    {
       "id": "a40f9276",
       "filename": "pixiv_150864585_p0.jpg",
       "path": "uploads/2026/10/470f0df5.jpg",
