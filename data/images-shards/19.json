@@ -3,6 +3,28 @@
   "shardId": "19",
   "images": [
     {
+      "id": "de7a8429",
+      "filename": "pixiv_150876321_p0.jpg",
+      "path": "uploads/2026/10/33dd3f52.jpg",
+      "size": 667748,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "007abd7d0f56248bb16bbb63a47ce2f975df663882c795851168f2712487c3d4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:15:50.514Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "雑多log",
+      "tags": [
+        "雑多"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150876321_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150876321",
+      "sourceCreatedAt": "2026-10-15T06:46:18.000Z"
+    },
+    {
       "id": "107bb2d4",
       "filename": "pixiv_150883284_p0.jpg",
       "path": "uploads/2026/10/991a33b0.jpg",
