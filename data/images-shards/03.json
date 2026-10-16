@@ -3,6 +3,32 @@
   "shardId": "03",
   "images": [
     {
+      "id": "eb40fc46",
+      "filename": "pixiv_150845444_p0.jpg",
+      "path": "uploads/2026/10/26605e7a.jpg",
+      "size": 666192,
+      "width": 954,
+      "height": 980,
+      "mimeType": "image/jpeg",
+      "hash": "7c124219b918fc9b1ba4d42030a949193672fc46f30db8f7e94639ee01535d6c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:32:22.466Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "サロメ",
+      "tags": [
+        "バーチャルYouTuber",
+        "にじさんじ",
+        "VTuber",
+        "壱百満天原サロメ",
+        "新衣装"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150845444_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150845444",
+      "sourceCreatedAt": "2026-10-14T09:53:23.000Z"
+    },
+    {
       "id": "3d3bdbf7",
       "filename": "pixiv_150802962_p0.jpg",
       "path": "uploads/2026/10/440a8d97.jpg",
