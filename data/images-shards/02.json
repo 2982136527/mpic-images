@@ -3,6 +3,32 @@
   "shardId": "02",
   "images": [
     {
+      "id": "c9a338b1",
+      "filename": "pixiv_150868776_p0.jpg",
+      "path": "uploads/2026/10/0cb869e1.jpg",
+      "size": 872744,
+      "width": 1200,
+      "height": 838,
+      "mimeType": "image/jpeg",
+      "hash": "62d79981bc1a6236b1588bcb980ae05609485492ba1783aeec176bdc5dea2d6f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:32:09.173Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アル中じゃん～",
+      "tags": [
+        "超かぐや姫!",
+        "かぐや(超かぐや姫!)",
+        "酒寄彩葉",
+        "いろかぐ",
+        "左手薬指"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150868776_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150868776",
+      "sourceCreatedAt": "2026-10-14T23:42:33.000Z"
+    },
+    {
       "id": "ce553515",
       "filename": "pixiv_150852864_p0.jpg",
       "path": "uploads/2026/10/fb78260b.jpg",
