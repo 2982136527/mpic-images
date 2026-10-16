@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "fd50e72e",
+      "filename": "pixiv_150858505_p0.jpg",
+      "path": "uploads/2026/10/4d11f65a.jpg",
+      "size": 1124227,
+      "width": 783,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c9ee1d9d892d5a66e1d2f17f312aee8c7858768f18708450406780b23d438730",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:18:24.089Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【依頼】シーシィア",
+      "tags": [
+        "シーシィア",
+        "ゼンレスゾーンゼロ",
+        "ゼンゼロ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150858505_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150858505",
+      "sourceCreatedAt": "2026-10-14T14:58:35.000Z"
+    },
+    {
       "id": "d8b6a1ed",
       "filename": "pixiv_150844382_p0.jpg",
       "path": "uploads/2026/10/76e0e2ae.jpg",
