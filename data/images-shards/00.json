@@ -3,6 +3,29 @@
   "shardId": "00",
   "images": [
     {
+      "id": "9526a960",
+      "filename": "pixiv_150878073_p0.jpg",
+      "path": "uploads/2026/10/ff38fb80.jpg",
+      "size": 590088,
+      "width": 1200,
+      "height": 1131,
+      "mimeType": "image/jpeg",
+      "hash": "c3be4615a66c024a8031e9d34cd74f420f91d8b93c0e164ffbacdbaeb7a3d2c3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:37:43.246Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🍵🐻‍❄️",
+      "tags": [
+        "めめ村",
+        "山尾登"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150878073_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150878073",
+      "sourceCreatedAt": "2026-10-15T08:06:25.000Z"
+    },
+    {
       "id": "fd50e72e",
       "filename": "pixiv_150858505_p0.jpg",
       "path": "uploads/2026/10/4d11f65a.jpg",
