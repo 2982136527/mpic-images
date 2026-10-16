@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "bfeea922",
+      "filename": "pixiv_150891189_p0.jpg",
+      "path": "uploads/2026/10/d2da1ab2.jpg",
+      "size": 953141,
+      "width": 760,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "43ca864f61ba9edbbfc81b670de26841cae244608de6acd309490321e1c107b7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:19:03.078Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "2026-10-15 サイキ",
+      "tags": [
+        "デュエットナイトアビス",
+        "デナアビ",
+        "DuetNightAbyss",
+        "サイキ(デナアビ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150891189_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150891189",
+      "sourceCreatedAt": "2026-10-15T13:48:59.000Z"
+    },
+    {
       "id": "3f2a5d0e",
       "filename": "pixiv_150858637_p0.jpg",
       "path": "uploads/2026/10/d6844a1d.jpg",
