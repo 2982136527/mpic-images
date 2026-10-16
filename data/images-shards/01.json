@@ -3,6 +3,28 @@
   "shardId": "01",
   "images": [
     {
+      "id": "3e87771b",
+      "filename": "pixiv_150888234_p0.jpg",
+      "path": "uploads/2026/10/f9f8b507.jpg",
+      "size": 1444035,
+      "width": 1175,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c3e5e00106d4362ed68c704aff67ab4349a6f0f2b3445197b7a8b6495daf59dc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T04:19:50.122Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "雑多log②",
+      "tags": [
+        "."
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150888234_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150888234",
+      "sourceCreatedAt": "2026-10-15T12:42:38.000Z"
+    },
+    {
       "id": "f8692648",
       "filename": "pixiv_150805709_p0.jpg",
       "path": "uploads/2026/10/5ac010f5.jpg",
