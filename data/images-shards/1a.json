@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "f8d3a742",
+      "filename": "pixiv_150839965_p0.jpg",
+      "path": "uploads/2026/10/20f255ce.jpg",
+      "size": 590626,
+      "width": 1013,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ca6e3d50e875b7f0a2aa514196e24e213d6227ed7bda8f0df541419a6b94f286",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T04:27:47.243Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "学園アイドルマスター",
+        "十王星南",
+        "藤田ことね",
+        "葛城リーリヤ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150839965_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150839965",
+      "sourceCreatedAt": "2026-10-14T06:19:08.000Z"
+    },
+    {
       "id": "84453ba6",
       "filename": "pixiv_150875404_p0.jpg",
       "path": "uploads/2026/10/3acb5ae5.jpg",
