@@ -3,6 +3,30 @@
   "shardId": "06",
   "images": [
     {
+      "id": "d4441b03",
+      "filename": "pixiv_150838984_p0.jpg",
+      "path": "uploads/2026/10/5670e827.jpg",
+      "size": 1313741,
+      "width": 975,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "79ca6c290102934ef7f4c9eaa3fc6c90d93e0f18d83df79c0973215928146831",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:15:32.082Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "oc commission",
+      "tags": [
+        "illustration",
+        "fanart",
+        "original"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150838984_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150838984",
+      "sourceCreatedAt": "2026-10-14T05:29:40.000Z"
+    },
+    {
       "id": "cd9eecdf",
       "filename": "pixiv_150876455_p0.jpg",
       "path": "uploads/2026/10/6427d00d.jpg",
