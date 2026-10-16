@@ -3,6 +3,33 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "6a4676f5",
+      "filename": "pixiv_150862077_p0.jpg",
+      "path": "uploads/2026/10/e92ca9a0.jpg",
+      "size": 617982,
+      "width": 991,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3e8ff2d2ff70d5cd4000c42adef7764efcf91f14f7e5a2c6ee858fb88fb0d7e1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T04:19:29.331Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "黒騎士オニキス",
+      "tags": [
+        "黒騎士",
+        "金魚",
+        "デメキン",
+        "大剣",
+        "ダーク",
+        "騎士"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150862077_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150862077",
+      "sourceCreatedAt": "2026-10-14T16:30:53.000Z"
+    },
+    {
       "id": "e0a92cfb",
       "filename": "pixiv_150821034_p0.jpg",
       "path": "uploads/2026/10/9ac07793.jpg",
