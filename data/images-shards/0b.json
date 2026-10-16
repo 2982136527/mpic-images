@@ -3,6 +3,31 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "70bfe0b2",
+      "filename": "pixiv_150879190_p0.jpg",
+      "path": "uploads/2026/10/d248995d.jpg",
+      "size": 1123749,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "319553d465d05e3fa19d77aa1cae3163ed2ed72751dc84e8b09d9c2f7eec9f76",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T04:28:27.909Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "クロちゃんの視線",
+      "tags": [
+        "オリジナル",
+        "ロリ",
+        "ピンク髪",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150879190_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150879190",
+      "sourceCreatedAt": "2026-10-15T08:50:56.000Z"
+    },
+    {
       "id": "f25be738",
       "filename": "pixiv_150885369_p0.jpg",
       "path": "uploads/2026/10/26d1cb20.jpg",
