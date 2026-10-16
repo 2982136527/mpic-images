@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "61726042",
+      "filename": "pixiv_150886712_p0.jpg",
+      "path": "uploads/2026/10/e656130e.jpg",
+      "size": 838505,
+      "width": 756,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "099d161512ccc5dc5da2e55c8d639b0495b9272fa8cbeb6246a96cf5e2f1fac4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:19:11.127Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "commissionイラスト",
+      "tags": [
+        "Skeb",
+        "commission",
+        "女の子",
+        "チャイナドレス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150886712_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150886712",
+      "sourceCreatedAt": "2026-10-15T12:07:40.000Z"
+    },
+    {
       "id": "46de0f65",
       "filename": "pixiv_150880156_p0.jpg",
       "path": "uploads/2026/10/498b2476.jpg",
