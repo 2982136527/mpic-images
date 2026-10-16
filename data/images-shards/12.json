@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "82657551",
+      "filename": "pixiv_150885724_p0.jpg",
+      "path": "uploads/2026/10/a38e03fb.jpg",
+      "size": 515776,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a68a18387143ed56fa80d5ea38ae1dacf1c83e51f64fd4e7e5d3a757ea6f7f3b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:14:37.930Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "まとめ",
+      "tags": [
+        "重音テト",
+        "琴葉葵",
+        "IA"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150885724_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150885724",
+      "sourceCreatedAt": "2026-10-15T11:50:24.000Z"
+    },
+    {
       "id": "ff6fce6a",
       "filename": "pixiv_150870877_p0.jpg",
       "path": "uploads/2026/10/39f48fd6.jpg",
