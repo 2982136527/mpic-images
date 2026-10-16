@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "56540ebe",
+      "filename": "pixiv_150881052_p0.jpg",
+      "path": "uploads/2026/10/42ae47f8.jpg",
+      "size": 1905041,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "32fd272c612064313bf4597482aeaac11b38b131999aa30f3e6b134bd3d50157",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:17:19.275Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "もしもし",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "OC",
+        "男性"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150881052_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150881052",
+      "sourceCreatedAt": "2026-10-15T09:45:39.000Z"
+    },
+    {
       "id": "9af78de2",
       "filename": "pixiv_150849935_p0.jpg",
       "path": "uploads/2026/10/6b0e7670.jpg",
