@@ -3,6 +3,31 @@
   "shardId": "04",
   "images": [
     {
+      "id": "59b34aad",
+      "filename": "pixiv_150831213_p0.jpg",
+      "path": "uploads/2026/10/36ccdadc.jpg",
+      "size": 224453,
+      "width": 901,
+      "height": 882,
+      "mimeType": "image/jpeg",
+      "hash": "d1c8f19e1a92242a42802cce1ca362233f9e885872fee8bab1bca0638fb02a64",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:12:15.522Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "スタレ詰め16",
+      "tags": [
+        "星(スターレイル)",
+        "ホタル(スターレイル)",
+        "崩壊スターレイル",
+        "星ホタ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150831213_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150831213",
+      "sourceCreatedAt": "2026-10-13T22:09:04.000Z"
+    },
+    {
       "id": "7261d6a6",
       "filename": "pixiv_150615730_p0.jpg",
       "path": "uploads/2026/10/7036034f.jpg",
