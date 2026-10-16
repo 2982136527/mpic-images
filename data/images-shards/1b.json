@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "38276fb7",
+      "filename": "pixiv_150843512_p0.jpg",
+      "path": "uploads/2026/10/8d00c84f.jpg",
+      "size": 406115,
+      "width": 610,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c5e3e36e7318e85f1419a4cd36513a2bd726aacef782b845bbe3947600d605f5",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T04:28:36.148Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "キルア",
+      "tags": [
+        "HUNTER×HUNTER",
+        "少年",
+        "男の子",
+        "ショタ",
+        "キルア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150843512_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150843512",
+      "sourceCreatedAt": "2026-10-14T08:56:52.000Z"
+    },
+    {
       "id": "71660205",
       "filename": "pixiv_150861475_p0.jpg",
       "path": "uploads/2026/10/57813efe.jpg",
