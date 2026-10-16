@@ -3,6 +3,37 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "fa4b42ab",
+      "filename": "pixiv_150882959_p0.jpg",
+      "path": "uploads/2026/10/9308b730.jpg",
+      "size": 1503131,
+      "width": 1200,
+      "height": 960,
+      "mimeType": "image/jpeg",
+      "hash": "284b02b71e7220365820576442903e958f12e0e93e5a315015854b11bbd8cfc6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:32:39.221Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "大地を走るアイツ",
+      "tags": [
+        "太陽戦隊サンバルカン",
+        "バルパンサー",
+        "ラクガキ",
+        "ギャル化",
+        "髪型チェンジ",
+        "俺達の魂も萌えている",
+        "カレーライス",
+        "ジャガーバルカン",
+        "サンバルカンロボ",
+        "なにこれかわいい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150882959_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150882959",
+      "sourceCreatedAt": "2026-10-15T10:42:37.000Z"
+    },
+    {
       "id": "4cb35920",
       "filename": "pixiv_150872479_p0.jpg",
       "path": "uploads/2026/10/6d96e6ed.jpg",
