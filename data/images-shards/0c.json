@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "ec2263b6",
+      "filename": "pixiv_150861472_p0.jpg",
+      "path": "uploads/2026/10/29158305.jpg",
+      "size": 872313,
+      "width": 1000,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8505d72f647caca0e9d84a4bf10e2e5cc3365aaa26664d30d3bf09e6590bb6bd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:40:43.569Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "べー",
+      "tags": [
+        "東方",
+        "東方Project",
+        "touhou",
+        "鬼人正邪",
+        "少名針妙丸"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150861472_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150861472",
+      "sourceCreatedAt": "2026-10-14T16:08:56.000Z"
+    },
+    {
       "id": "61726042",
       "filename": "pixiv_150886712_p0.jpg",
       "path": "uploads/2026/10/e656130e.jpg",
