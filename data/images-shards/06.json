@@ -3,6 +3,31 @@
   "shardId": "06",
   "images": [
     {
+      "id": "cd9eecdf",
+      "filename": "pixiv_150876455_p0.jpg",
+      "path": "uploads/2026/10/6427d00d.jpg",
+      "size": 1120605,
+      "width": 794,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a6ea88283060b2d76802e132d64762673c52e9af7c20d1a9c9c6382ff1b44290",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:10:59.807Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "寄り道という名の冒険",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "イラスト",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150876455_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150876455",
+      "sourceCreatedAt": "2026-10-15T06:54:37.000Z"
+    },
+    {
       "id": "d4e8f11e",
       "filename": "pixiv_150845591_p0.jpg",
       "path": "uploads/2026/10/bc803e29.jpg",
