@@ -3,6 +3,31 @@
   "shardId": "02",
   "images": [
     {
+      "id": "85c43578",
+      "filename": "pixiv_150868262_p0.jpg",
+      "path": "uploads/2026/10/f489eb32.jpg",
+      "size": 1348236,
+      "width": 1200,
+      "height": 779,
+      "mimeType": "image/jpeg",
+      "hash": "8d62b6b4101cf94c7679a82e8217757e7aebc95559a31e76f2e986c1b326406e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T04:27:04.553Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "si",
+      "tags": [
+        "明日方舟",
+        "祀",
+        "明日方舟终末地",
+        "トレンカ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150868262_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150868262",
+      "sourceCreatedAt": "2026-10-14T23:06:34.000Z"
+    },
+    {
       "id": "da6ae98c",
       "filename": "pixiv_150870896_p0.jpg",
       "path": "uploads/2026/10/015034d1.jpg",
