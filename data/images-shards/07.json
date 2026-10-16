@@ -3,6 +3,31 @@
   "shardId": "07",
   "images": [
     {
+      "id": "91c3fc41",
+      "filename": "pixiv_150887843_p0.jpg",
+      "path": "uploads/2026/10/ec062c6f.jpg",
+      "size": 1231851,
+      "width": 868,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8f93ab1e1c67c79d607dfc3078bdd0a86f5134084d154ba6a5f5169d010c304f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:16:11.201Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "aha",
+      "tags": [
+        "Aha",
+        "Nihilux",
+        "HonkaiStarRail",
+        "崩壊スターレイル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150887843_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150887843",
+      "sourceCreatedAt": "2026-10-15T12:33:18.000Z"
+    },
+    {
       "id": "dbb5c857",
       "filename": "pixiv_150846768_p0.jpg",
       "path": "uploads/2026/10/77843979.jpg",
