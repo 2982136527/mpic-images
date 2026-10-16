@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "ea1a5512",
+      "filename": "pixiv_150878044_p0.jpg",
+      "path": "uploads/2026/10/1849664c.jpg",
+      "size": 527710,
+      "width": 661,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ba7791f640e6dc3959be0d5677cfa17a2de59cf8715248e6f78aedb34583d605",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:41:42.187Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ギャルウンファの絵",
+      "tags": [
+        "勝利の女神:NIKKE",
+        "ウンファ(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150878044_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150878044",
+      "sourceCreatedAt": "2026-10-15T08:05:42.000Z"
+    },
+    {
       "id": "b23942ea",
       "filename": "pixiv_150858454_p0.jpg",
       "path": "uploads/2026/10/80f62603.jpg",
