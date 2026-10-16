@@ -3,6 +3,32 @@
   "shardId": "01",
   "images": [
     {
+      "id": "4e87f7e2",
+      "filename": "pixiv_150858693_p0.jpg",
+      "path": "uploads/2026/10/7b0c1225.jpg",
+      "size": 1645704,
+      "width": 804,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e8300eeb1fbc3e9bfcd2ef1b6f4f546bb938879ccfeb0cebded7c8db7834cfa1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:11:56.574Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "リコリスローズ",
+      "tags": [
+        "原神",
+        "GenshinImpact",
+        "ロノヴァ",
+        "Ronova",
+        "原神5000users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150858693_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150858693",
+      "sourceCreatedAt": "2026-10-14T15:00:23.000Z"
+    },
+    {
       "id": "4c2f4413",
       "filename": "pixiv_150870697_p0.jpg",
       "path": "uploads/2026/10/a99d9b78.jpg",
