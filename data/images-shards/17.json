@@ -3,6 +3,32 @@
   "shardId": "17",
   "images": [
     {
+      "id": "addb4e5d",
+      "filename": "pixiv_150822243_p0.jpg",
+      "path": "uploads/2026/10/b1712c15.jpg",
+      "size": 479544,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0496f7a3d209ce66476ba73acdae350d1db6ce5ac3a548633bc504883c6503bd",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:11:32.562Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "やる気ない日の名画たち",
+      "tags": [
+        "名画",
+        "名画オマージュ",
+        "迷画",
+        "3000users入り",
+        "落穂拾わない。"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150822243_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150822243",
+      "sourceCreatedAt": "2026-10-13T15:01:10.000Z"
+    },
+    {
       "id": "e0cefc25",
       "filename": "pixiv_150893610_p0.jpg",
       "path": "uploads/2026/10/76088b44.jpg",
