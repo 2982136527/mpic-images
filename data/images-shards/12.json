@@ -3,6 +3,34 @@
   "shardId": "12",
   "images": [
     {
+      "id": "ff6fce6a",
+      "filename": "pixiv_150870877_p0.jpg",
+      "path": "uploads/2026/10/39f48fd6.jpg",
+      "size": 2146993,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "81c0c70cd9efde98c98fde4fc05ef6f12bea3a32c6c4cfeeb7331cddda2a5862",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T04:27:54.730Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "蒼の鏡像",
+      "tags": [
+        "オリジナル",
+        "女の子",
+        "創作",
+        "イラスト",
+        "illustration",
+        "青",
+        "少女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150870877_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150870877",
+      "sourceCreatedAt": "2026-10-15T01:57:42.000Z"
+    },
+    {
       "id": "7eea3a9d",
       "filename": "pixiv_150872645_p0.jpg",
       "path": "uploads/2026/10/bc4fb5e8.jpg",
