@@ -3,6 +3,33 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "3f7df0ba",
+      "filename": "pixiv_150851660_p0.jpg",
+      "path": "uploads/2026/10/6aacede1.jpg",
+      "size": 1418147,
+      "width": 840,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "81b15566045c3492cc0cd3373c5c42eeb1cc5e5a7e566c9c3211a3f1535214fc",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T19:35:39.312Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "A Taste of Inspiration",
+      "tags": [
+        "女の子",
+        "オリジナル",
+        "少女",
+        "創作",
+        "LUMIELA",
+        "イラスト"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150851660_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150851660",
+      "sourceCreatedAt": "2026-10-14T12:23:59.000Z"
+    },
+    {
       "id": "1151be91",
       "filename": "pixiv_150671352_p0.jpg",
       "path": "uploads/2026/10/06c741c7.jpg",
