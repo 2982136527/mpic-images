@@ -3,6 +3,30 @@
   "shardId": "18",
   "images": [
     {
+      "id": "c7c799b0",
+      "filename": "pixiv_150863742_p0.jpg",
+      "path": "uploads/2026/10/58318476.jpg",
+      "size": 1651508,
+      "width": 1075,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ee30418e22c52c4372e04209c707e10a6064e6654b83b24ab71999155dd6a60b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:12:03.898Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "掛け軸",
+      "tags": [
+        "初音ミク",
+        "VOCALOID",
+        "VOCALOID500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150863742_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150863742",
+      "sourceCreatedAt": "2026-10-14T17:51:24.000Z"
+    },
+    {
       "id": "b6130a1a",
       "filename": "pixiv_150859003_p0.jpg",
       "path": "uploads/2026/10/623ba631.jpg",
