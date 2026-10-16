@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "82db3ce9",
+      "filename": "pixiv_150861538_p0.jpg",
+      "path": "uploads/2026/10/952fc18d.jpg",
+      "size": 1046650,
+      "width": 902,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f594961a57f7fe5382d259aa726ed3ee31a4ee3f2f817f9edb7d948abf069815",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-16T13:14:46.086Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "키라",
+      "tags": [
+        "Limbus_Company",
+        "ProjectMoon",
+        "キラ(LCB)",
+        "키라"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150861538_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150861538",
+      "sourceCreatedAt": "2026-10-14T16:11:08.000Z"
+    },
+    {
       "id": "20f4308e",
       "filename": "pixiv_150861691_p0.jpg",
       "path": "uploads/2026/10/2a9b0ca7.jpg",
