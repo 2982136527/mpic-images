@@ -3,6 +3,33 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "d995eb5a",
+      "filename": "pixiv_150885776_p0.jpg",
+      "path": "uploads/2026/10/ba45e7dc.jpg",
+      "size": 1032309,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e34f9530bd09e90529526640798f929b82108e747284a8126f645fb812d34326",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:29:16.298Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ケガ",
+      "tags": [
+        "ポケモン",
+        "ガラル探検隊",
+        "ベイリーフ",
+        "カメール",
+        "リザード(ポケモン)",
+        "なにこの仔たちかわいい"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150885776_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150885776",
+      "sourceCreatedAt": "2026-10-15T11:51:23.000Z"
+    },
+    {
       "id": "ae8bb78f",
       "filename": "pixiv_150915621_p0.jpg",
       "path": "uploads/2026/10/ddb65036.jpg",
