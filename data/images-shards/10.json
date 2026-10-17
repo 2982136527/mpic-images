@@ -3,6 +3,31 @@
   "shardId": "10",
   "images": [
     {
+      "id": "e22cb0dd",
+      "filename": "pixiv_150876306_p0.jpg",
+      "path": "uploads/2026/10/8dbd6645.jpg",
+      "size": 848554,
+      "width": 811,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6d4516f65ae06e908b7f38e29589a7b4154fc2be2759fd49ef7abdfe6c9cc76d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:13:34.116Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "你可以回去但那里已经没有人了",
+      "tags": [
+        "LimbusCompany",
+        "Limbus_Company",
+        "プイ",
+        "Pwie"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150876306_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150876306",
+      "sourceCreatedAt": "2026-10-15T06:45:08.000Z"
+    },
+    {
       "id": "370d4a0c",
       "filename": "pixiv_150878454_p0.jpg",
       "path": "uploads/2026/10/7712102b.jpg",
