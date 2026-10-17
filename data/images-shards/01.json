@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "aafd38c9",
+      "filename": "pixiv_150905242_p0.jpg",
+      "path": "uploads/2026/10/c5bfb5b7.jpg",
+      "size": 622779,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "33901dd43f953b06f04b5d3832f83ec19aded648bc749393642d5582397bd0a4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:33:17.220Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "琴葉 メイド",
+      "tags": [
+        "アイドルマスターミリオンライブ!",
+        "田中琴葉"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150905242_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150905242",
+      "sourceCreatedAt": "2026-10-16T00:14:06.000Z"
+    },
+    {
       "id": "f4d87219",
       "filename": "pixiv_150921120_p0.jpg",
       "path": "uploads/2026/10/71bd8ff0.jpg",
