@@ -3,6 +3,33 @@
   "shardId": "11",
   "images": [
     {
+      "id": "94bc7db5",
+      "filename": "pixiv_150871087_p0.jpg",
+      "path": "uploads/2026/10/13e25fe4.jpg",
+      "size": 1685259,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "913d447b815786d74b0105f2b56c5b96124d1447f1c5c4197fba769e9afec907",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:25:30.618Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "星の魔法",
+      "tags": [
+        "オリジナル",
+        "創作",
+        "イラスト",
+        "女の子",
+        "青",
+        "背景"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150871087_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150871087",
+      "sourceCreatedAt": "2026-10-15T02:07:27.000Z"
+    },
+    {
       "id": "df5f54fd",
       "filename": "pixiv_150907713_p0.jpg",
       "path": "uploads/2026/10/9426d70c.jpg",
