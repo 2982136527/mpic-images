@@ -3,6 +3,31 @@
   "shardId": "1d",
   "images": [
     {
+      "id": "2e38880d",
+      "filename": "pixiv_150869277_p0.jpg",
+      "path": "uploads/2026/10/210dd2b1.jpg",
+      "size": 674276,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "110e11a91d616e680b6b7aef8e336f68545b0fcce615dffc3d26f9314c81a853",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:10:32.458Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "리퀘",
+      "tags": [
+        "트릭컬",
+        "Trickcal",
+        "티그",
+        "ティグ(英雄)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150869277_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150869277",
+      "sourceCreatedAt": "2026-10-15T00:11:53.000Z"
+    },
+    {
       "id": "7f9274a7",
       "filename": "pixiv_150869487_p0.jpg",
       "path": "uploads/2026/10/42ea35d0.jpg",
