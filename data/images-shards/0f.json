@@ -3,6 +3,30 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "d3419297",
+      "filename": "pixiv_150883609_p0.jpg",
+      "path": "uploads/2026/10/82756d42.jpg",
+      "size": 1007324,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e9074ebe074f1e3512ee0c2421938a08cd9ac9950f542316f46cae70140ef47e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:14:13.127Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ハッキング。ダメ。ゼッタイ。",
+      "tags": [
+        "超かぐや姫!",
+        "月見ヤチヨ",
+        "嫌な予感しかしない"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150883609_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150883609",
+      "sourceCreatedAt": "2026-10-15T11:00:12.000Z"
+    },
+    {
       "id": "50dcad6f",
       "filename": "pixiv_150875006_p0.jpg",
       "path": "uploads/2026/10/e08f2b8d.jpg",
