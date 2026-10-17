@@ -3,6 +3,28 @@
   "shardId": "04",
   "images": [
     {
+      "id": "1dd2eb7a",
+      "filename": "pixiv_150912342_p0.jpg",
+      "path": "uploads/2026/10/5368e33e.jpg",
+      "size": 1623544,
+      "width": 1090,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a0710966dd5037beab8ecb6ec352457a074576d33264e48bda797cbf98786479",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:12:26.059Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": ".",
+      "tags": [
+        "装画"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150912342_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150912342",
+      "sourceCreatedAt": "2026-10-16T07:06:34.000Z"
+    },
+    {
       "id": "a9873dcb",
       "filename": "pixiv_150835043_p0.jpg",
       "path": "uploads/2026/10/2a1179a4.jpg",
