@@ -3,6 +3,35 @@
   "shardId": "03",
   "images": [
     {
+      "id": "eed0e41a",
+      "filename": "pixiv_150913495_p0.jpg",
+      "path": "uploads/2026/10/bce5c557.jpg",
+      "size": 592544,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "e5edf976b785c8e125bab34490dafb8c6a7c18671d0989287803013868d0abe7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:33:01.826Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "つづり絵お届け",
+        "鈴鳴つづり",
+        "ホロライブ",
+        "バーチャルYouTuber",
+        "hololive",
+        "VTuber",
+        "女の子",
+        "Vtuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150913495_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150913495",
+      "sourceCreatedAt": "2026-10-16T08:00:58.000Z"
+    },
+    {
       "id": "3dd82704",
       "filename": "pixiv_150877131_p0.jpg",
       "path": "uploads/2026/10/1689d9ff.jpg",
