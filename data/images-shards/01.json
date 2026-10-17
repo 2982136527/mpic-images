@@ -3,6 +3,37 @@
   "shardId": "01",
   "images": [
     {
+      "id": "c3425825",
+      "filename": "pixiv_150907056_p0.jpg",
+      "path": "uploads/2026/10/03a945ef.jpg",
+      "size": 783014,
+      "width": 872,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d274f9c5b8d3304035ec088dfa61447e9adaf7a3bc35ad5919dc9c8ebd26bc67",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:16:01.766Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "リンバス　Xまとめ",
+      "tags": [
+        "Limbus_Company",
+        "LimbusCompany",
+        "ロージャ(LCB)",
+        "Rodion",
+        "ズールゥ",
+        "zilu",
+        "ファウスト(LCB)",
+        "ビナー",
+        "カルメン",
+        "ハインリヒ・クローマー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150907056_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150907056",
+      "sourceCreatedAt": "2026-10-16T02:15:42.000Z"
+    },
+    {
       "id": "9343153e",
       "filename": "pixiv_150928662_p0.jpg",
       "path": "uploads/2026/10/e5045f58.jpg",
