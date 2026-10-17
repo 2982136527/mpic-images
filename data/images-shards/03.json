@@ -3,6 +3,30 @@
   "shardId": "03",
   "images": [
     {
+      "id": "5738f9d5",
+      "filename": "pixiv_150862575_p0.jpg",
+      "path": "uploads/2026/10/9688fa7f.jpg",
+      "size": 536923,
+      "width": 743,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1972f18bb4f4ce2e3da4e2be013181eec43acef4b69eb6469d600009d2886113",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:12:14.657Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Dark Magician Girl",
+      "tags": [
+        "yugioh",
+        "darkmagiciangirl",
+        "duelmonsters"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150862575_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150862575",
+      "sourceCreatedAt": "2026-10-14T16:52:58.000Z"
+    },
+    {
       "id": "9239b0bd",
       "filename": "pixiv_150915786_p0.jpg",
       "path": "uploads/2026/10/0c95340e.jpg",
