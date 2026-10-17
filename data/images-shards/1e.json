@@ -3,6 +3,31 @@
   "shardId": "1e",
   "images": [
     {
+      "id": "183a14e1",
+      "filename": "pixiv_150895813_p0.jpg",
+      "path": "uploads/2026/10/b3d6dcf9.jpg",
+      "size": 1053031,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bdcd96932da851ead6be7ae8fcb490846a64699e9fe0dec4fab486c7e6c1f5c1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:24:19.765Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "海辺の澪ちゃん",
+      "tags": [
+        "逆流茶会",
+        "女の子",
+        "朱鹭咲澪",
+        "水着"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150895813_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150895813",
+      "sourceCreatedAt": "2026-10-15T15:30:26.000Z"
+    },
+    {
       "id": "a846c367",
       "filename": "pixiv_150888121_p0.jpg",
       "path": "uploads/2026/10/514425c4.jpg",
