@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "b974ce8d",
+      "filename": "pixiv_150901559_p0.jpg",
+      "path": "uploads/2026/10/ef37eb61.jpg",
+      "size": 1014653,
+      "width": 950,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1e5555a3873fb112f109e67d3d5dc10093a068830753540d56ec21ca6455ed70",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:18:52.375Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "こまろちゃん",
+      "tags": [
+        "生徒会にも穴はある!",
+        "陸奥こまろ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150901559_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150901559",
+      "sourceCreatedAt": "2026-10-15T20:32:01.000Z"
+    },
+    {
       "id": "c4396975",
       "filename": "pixiv_150915630_p0.jpg",
       "path": "uploads/2026/10/d671c5ee.jpg",
