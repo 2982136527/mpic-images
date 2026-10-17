@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "15d49ccc",
+      "filename": "pixiv_150871378_p0.jpg",
+      "path": "uploads/2026/10/5285c21a.jpg",
+      "size": 544162,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b683d4e2ef21b4090b8098e54edaa5e13376bfd3df0112538c64f9ac7544ae62",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:16:28.116Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "幽谷響子",
+        "東方",
+        "東方Project"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150871378_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150871378",
+      "sourceCreatedAt": "2026-10-15T02:24:43.000Z"
+    },
+    {
       "id": "22eaca54",
       "filename": "pixiv_150925671_p0.jpg",
       "path": "uploads/2026/10/7feb34c7.jpg",
