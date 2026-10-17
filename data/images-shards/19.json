@@ -3,6 +3,34 @@
   "shardId": "19",
   "images": [
     {
+      "id": "1aff3a4f",
+      "filename": "pixiv_150886603_p0.jpg",
+      "path": "uploads/2026/10/eb48118f.jpg",
+      "size": 1818635,
+      "width": 957,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6671badae392ea04193a2076f45b51ef7c183d175e400eb687df06159dad4359",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:27:15.480Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "とりぷるばか",
+      "tags": [
+        "初音ミク",
+        "重音テト",
+        "亞北ネル",
+        "VOCALOID",
+        "ボーカロイド",
+        "HatsuneMiku",
+        "とりぷるばか"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150886603_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150886603",
+      "sourceCreatedAt": "2026-10-15T12:05:23.000Z"
+    },
+    {
       "id": "19af1edf",
       "filename": "pixiv_150737275_p0.jpg",
       "path": "uploads/2026/10/cfbbe47a.jpg",
