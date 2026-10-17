@@ -3,6 +3,30 @@
   "shardId": "12",
   "images": [
     {
+      "id": "dbecfc3b",
+      "filename": "pixiv_150866480_p0.jpg",
+      "path": "uploads/2026/10/ab35c563.jpg",
+      "size": 621835,
+      "width": 784,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "999beaeb73d82479df1f59d6fd6643d9257b374bbf44ae07f5a1dc5e94d6caa4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:17:23.692Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Malo dressed up as a ghost",
+      "tags": [
+        "malo",
+        "scp",
+        "halloween"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150866480_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150866480",
+      "sourceCreatedAt": "2026-10-14T21:16:03.000Z"
+    },
+    {
       "id": "82657551",
       "filename": "pixiv_150885724_p0.jpg",
       "path": "uploads/2026/10/a38e03fb.jpg",
