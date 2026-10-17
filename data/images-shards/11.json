@@ -3,6 +3,31 @@
   "shardId": "11",
   "images": [
     {
+      "id": "df5f54fd",
+      "filename": "pixiv_150907713_p0.jpg",
+      "path": "uploads/2026/10/9426d70c.jpg",
+      "size": 944230,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "7ba861cd427247a691403da91e66a55fe05628bc7f3e21364ce8f7de3c6f46f4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:16:51.814Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ヴィラン尤魔",
+      "tags": [
+        "東方",
+        "東方Project",
+        "饕餮尤魔",
+        "ビーストレディの神秘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150907713_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150907713",
+      "sourceCreatedAt": "2026-10-16T02:57:00.000Z"
+    },
+    {
       "id": "072ef48a",
       "filename": "pixiv_150877776_p0.jpg",
       "path": "uploads/2026/10/8f454ed7.jpg",
