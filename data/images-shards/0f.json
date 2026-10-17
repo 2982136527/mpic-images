@@ -3,6 +3,29 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "76de83b2",
+      "filename": "pixiv_150876779_p0.jpg",
+      "path": "uploads/2026/10/20751533.jpg",
+      "size": 762240,
+      "width": 889,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "9106b90749722e2eee79a33914ed3a372258cdb920acfc813c40f1ae7809d078",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:10:23.714Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "紅葉とかぐや",
+      "tags": [
+        "超かぐや姫!",
+        "かぐや(超かぐや姫!)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150876779_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150876779",
+      "sourceCreatedAt": "2026-10-15T07:08:46.000Z"
+    },
+    {
       "id": "7b3d62c4",
       "filename": "pixiv_150916138_p0.jpg",
       "path": "uploads/2026/10/3adcee17.jpg",
