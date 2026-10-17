@@ -3,6 +3,37 @@
   "shardId": "16",
   "images": [
     {
+      "id": "c0f227bb",
+      "filename": "pixiv_150913544_p0.jpg",
+      "path": "uploads/2026/10/a77150a5.jpg",
+      "size": 1454715,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6829cfb4df9b7d3c43b667208f24c73c8e9b75372a4258ef59eb4e0b6465c140",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:11:15.685Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ネットプリントのお知らせ",
+      "tags": [
+        "プリキュア",
+        "precure",
+        "名探偵プリキュア!",
+        "名探偵プリキュア",
+        "たんプリ",
+        "明智あんな",
+        "小林みくる",
+        "帆羽くれあ",
+        "森亜るるか",
+        "怪盗団ファントムからのナゾ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150913544_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150913544",
+      "sourceCreatedAt": "2026-10-16T08:02:26.000Z"
+    },
+    {
       "id": "15da7bd2",
       "filename": "pixiv_150885174_p0.jpg",
       "path": "uploads/2026/10/3702dd4c.jpg",
