@@ -3,6 +3,32 @@
   "shardId": "15",
   "images": [
     {
+      "id": "8e53d4c5",
+      "filename": "pixiv_150920317_p0.jpg",
+      "path": "uploads/2026/10/b2109594.jpg",
+      "size": 1073119,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "df34dcb61e606f09fab6bbf3fe90cbd6f5299572cc1e4e8421b07f296db74d79",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:08:33.379Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "忍者さん書籍化のお知らせ！",
+      "tags": [
+        "創作",
+        "オリジナル",
+        "漫画",
+        "筋肉",
+        "忍者"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150920317_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150920317",
+      "sourceCreatedAt": "2026-10-16T11:13:43.000Z"
+    },
+    {
       "id": "c2005a1d",
       "filename": "pixiv_150846162_p0.jpg",
       "path": "uploads/2026/10/33b99933.jpg",
