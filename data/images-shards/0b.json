@@ -3,6 +3,35 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "1614c2c2",
+      "filename": "pixiv_150889611_p0.jpg",
+      "path": "uploads/2026/10/da7bb78e.jpg",
+      "size": 903459,
+      "width": 1200,
+      "height": 984,
+      "mimeType": "image/jpeg",
+      "hash": "84e26bfbd47c8b63516abc8c773a8f4e2a2aca305c6f867b96f881ebded68d0f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:17:40.939Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "まどほむ",
+      "tags": [
+        "まどマギ",
+        "魔法少女まどか☆マギカ",
+        "まどか☆マギカ",
+        "暁美ほむら",
+        "鹿目まどか",
+        "メガほむ",
+        "まどほむ",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150889611_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150889611",
+      "sourceCreatedAt": "2026-10-15T13:11:50.000Z"
+    },
+    {
       "id": "d13dc598",
       "filename": "pixiv_150859157_p0.jpg",
       "path": "uploads/2026/10/b9aff47f.jpg",
