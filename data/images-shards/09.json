@@ -3,6 +3,31 @@
   "shardId": "09",
   "images": [
     {
+      "id": "50129575",
+      "filename": "pixiv_150894381_p0.jpg",
+      "path": "uploads/2026/10/28b76624.jpg",
+      "size": 2126528,
+      "width": 941,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "01639ade0ade838e48f14c7cb8960f7b00fdfcfeeb5f0f226dce608a1f78adec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:25:50.093Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "イブキ",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "丹花イブキ",
+        "ロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150894381_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150894381",
+      "sourceCreatedAt": "2026-10-15T15:00:44.000Z"
+    },
+    {
       "id": "0f77bf1c",
       "filename": "pixiv_150882164_p0.jpg",
       "path": "uploads/2026/10/11884787.jpg",
