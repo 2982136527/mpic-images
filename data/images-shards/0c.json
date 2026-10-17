@@ -3,6 +3,29 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "b7113c96",
+      "filename": "pixiv_150893000_p0.jpg",
+      "path": "uploads/2026/10/3510e9ee.jpg",
+      "size": 342147,
+      "width": 680,
+      "height": 680,
+      "mimeType": "image/jpeg",
+      "hash": "421c86338702cc8d605d104820523b382f1e81ba424aac335864ba91de6f6572",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:30:24.382Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ちょっと雨が降ってきた",
+      "tags": [
+        "オリジナル",
+        "ハムスター"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150893000_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150893000",
+      "sourceCreatedAt": "2026-10-15T14:30:43.000Z"
+    },
+    {
       "id": "e7227189",
       "filename": "pixiv_150915730_p0.jpg",
       "path": "uploads/2026/10/dbeaad0d.jpg",
