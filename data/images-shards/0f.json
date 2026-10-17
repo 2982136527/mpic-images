@@ -3,6 +3,33 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "7b3d62c4",
+      "filename": "pixiv_150916138_p0.jpg",
+      "path": "uploads/2026/10/3adcee17.jpg",
+      "size": 1124086,
+      "width": 1093,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "25cff52825d655e579658a4b28006fc852c61ab23385d4c1b082db4c4f263466",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:19:30.526Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "wuwa",
+      "tags": [
+        "鸣潮",
+        "鳴潮",
+        "WutheringWaves",
+        "漂泊者",
+        "男漂泊者",
+        "エイメス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150916138_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150916138",
+      "sourceCreatedAt": "2026-10-16T09:28:56.000Z"
+    },
+    {
       "id": "86825a91",
       "filename": "pixiv_150919139_p0.jpg",
       "path": "uploads/2026/10/f16e58a3.jpg",
