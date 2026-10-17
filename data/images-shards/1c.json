@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "f3259d93",
+      "filename": "pixiv_150894293_p0.jpg",
+      "path": "uploads/2026/10/59869620.jpg",
+      "size": 1530538,
+      "width": 817,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8d015a6e5a8431c64d7b4a0f32db6e892b4beb7cb522075133bf79a959e242b0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:19:38.642Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ゴミ箱ぐらしの聖女様",
+      "tags": [
+        "ゴミ箱ぐらしの聖女様"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150894293_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150894293",
+      "sourceCreatedAt": "2026-10-15T15:00:27.000Z"
+    },
+    {
       "id": "a97de310",
       "filename": "pixiv_150907780_p0.jpg",
       "path": "uploads/2026/10/214d7cee.jpg",
