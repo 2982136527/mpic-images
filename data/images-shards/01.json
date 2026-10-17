@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "f4d87219",
+      "filename": "pixiv_150921120_p0.jpg",
+      "path": "uploads/2026/10/71bd8ff0.jpg",
+      "size": 656283,
+      "width": 913,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4032e7af3922c38a0b93ac67ad07ae339137c30a07dab065ded5ece036ddcea7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:27:35.001Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "初音ミク",
+        "VOCALOID"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150921120_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150921120",
+      "sourceCreatedAt": "2026-10-16T11:32:57.000Z"
+    },
+    {
       "id": "b6121d08",
       "filename": "pixiv_150918455_p0.jpg",
       "path": "uploads/2026/10/35aaae79.jpg",
