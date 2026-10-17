@@ -3,6 +3,32 @@
   "shardId": "18",
   "images": [
     {
+      "id": "06653a2c",
+      "filename": "pixiv_150893382_p0.jpg",
+      "path": "uploads/2026/10/71df053a.jpg",
+      "size": 877829,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "00e62de0a5df4570cfd233343f381734c437531646cffa9358e430afbe76c72d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:14:05.302Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "米米喵！",
+      "tags": [
+        "米米",
+        "哈基米",
+        "黑丝",
+        "白丝",
+        "白裤袜"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150893382_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150893382",
+      "sourceCreatedAt": "2026-10-15T14:40:55.000Z"
+    },
+    {
       "id": "680d64a7",
       "filename": "pixiv_150881606_p0.jpg",
       "path": "uploads/2026/10/9fa10be6.jpg",
