@@ -3,6 +3,28 @@
   "shardId": "13",
   "images": [
     {
+      "id": "1ee982f4",
+      "filename": "pixiv_150896263_p0.jpg",
+      "path": "uploads/2026/10/a6e5dc7a.jpg",
+      "size": 863569,
+      "width": 662,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "af6c9e32e2f8fc97bbff7309fdd9cd57ba6656918794e09237b5da2ea3d332b6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:11:49.033Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ミクさんらくがき",
+      "tags": [
+        "初音ミク"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150896263_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150896263",
+      "sourceCreatedAt": "2026-10-15T15:42:56.000Z"
+    },
+    {
       "id": "93861944",
       "filename": "pixiv_150886426_p0.jpg",
       "path": "uploads/2026/10/54c918cf.jpg",
