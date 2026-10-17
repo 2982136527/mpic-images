@@ -3,6 +3,30 @@
   "shardId": "13",
   "images": [
     {
+      "id": "0aa694c1",
+      "filename": "pixiv_150863047_p0.jpg",
+      "path": "uploads/2026/10/e23a0884.jpg",
+      "size": 742979,
+      "width": 1200,
+      "height": 751,
+      "mimeType": "image/jpeg",
+      "hash": "441be324f4a81d0c562de15d0a9398858ed9a30f31fda171c9c3c62bc7674353",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:12:33.935Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "クレイドルのお題箱だ",
+      "tags": [
+        "ゴッドイーター2レイジバースト",
+        "雨宮リンドウ",
+        "喫煙"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150863047_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150863047",
+      "sourceCreatedAt": "2026-10-14T17:14:02.000Z"
+    },
+    {
       "id": "84911ad1",
       "filename": "pixiv_150834730_p0.jpg",
       "path": "uploads/2026/10/813e4392.jpg",
