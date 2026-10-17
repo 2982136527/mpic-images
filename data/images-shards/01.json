@@ -3,6 +3,29 @@
   "shardId": "01",
   "images": [
     {
+      "id": "1746e793",
+      "filename": "pixiv_150915727_p0.jpg",
+      "path": "uploads/2026/10/a016774a.jpg",
+      "size": 877815,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3db4bc829fdc4c7ab7149dc4d8d1647558a90f762b19f01509933de3ad5ee80b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:17:33.035Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "310. パンジー",
+      "tags": [
+        "オリジナル",
+        "1日1枚"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150915727_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150915727",
+      "sourceCreatedAt": "2026-10-16T09:14:04.000Z"
+    },
+    {
       "id": "c3425825",
       "filename": "pixiv_150907056_p0.jpg",
       "path": "uploads/2026/10/03a945ef.jpg",
