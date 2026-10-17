@@ -3,6 +3,32 @@
   "shardId": "19",
   "images": [
     {
+      "id": "b934e412",
+      "filename": "pixiv_150899468_p0.jpg",
+      "path": "uploads/2026/10/f82bc3fb.jpg",
+      "size": 470698,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fc1f17581fff94ad1bd02d405cd87e5eab2e0c8fbb8442524d52c6ea9b546454",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:33:24.944Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "扶桑",
+      "tags": [
+        "艦隊これくしょん",
+        "艦これ",
+        "扶桑(艦隊これくしょん)",
+        "GB350",
+        "艦これモータリゼーション"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150899468_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150899468",
+      "sourceCreatedAt": "2026-10-15T17:48:47.000Z"
+    },
+    {
       "id": "1aff3a4f",
       "filename": "pixiv_150886603_p0.jpg",
       "path": "uploads/2026/10/eb48118f.jpg",
