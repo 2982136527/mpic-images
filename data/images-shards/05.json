@@ -3,6 +3,35 @@
   "shardId": "05",
   "images": [
     {
+      "id": "c79f3ee9",
+      "filename": "pixiv_150919540_p0.jpg",
+      "path": "uploads/2026/10/2cd1542a.jpg",
+      "size": 1300975,
+      "width": 856,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "03d5c6fd871c410c69e760cf5c4e0ece17305d5cf44cbcaf88cf2a51aab76b14",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:12:48.280Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ユウリとムンナと美味しい夢",
+      "tags": [
+        "ポケモン",
+        "ユウリ(トレーナー)",
+        "Gloria",
+        "ムンナ",
+        "ヒバニー",
+        "メッソン",
+        "イーブイ",
+        "ワンパチ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150919540_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150919540",
+      "sourceCreatedAt": "2026-10-16T11:00:28.000Z"
+    },
+    {
       "id": "f0ca4b0e",
       "filename": "pixiv_150871457_p0.jpg",
       "path": "uploads/2026/10/8d23c667.jpg",
