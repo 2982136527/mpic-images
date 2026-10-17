@@ -3,6 +3,30 @@
   "shardId": "01",
   "images": [
     {
+      "id": "e2e9748d",
+      "filename": "pixiv_150891313_p0.jpg",
+      "path": "uploads/2026/10/1b1d5319.jpg",
+      "size": 853080,
+      "width": 739,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "82bf0d38f4ab89bd982757f09afe89e641bab8038788e2c6d9829fbf77242a39",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:20:01.403Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "ブラジャー",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150891313_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150891313",
+      "sourceCreatedAt": "2026-10-15T13:52:03.000Z"
+    },
+    {
       "id": "1746e793",
       "filename": "pixiv_150915727_p0.jpg",
       "path": "uploads/2026/10/a016774a.jpg",
