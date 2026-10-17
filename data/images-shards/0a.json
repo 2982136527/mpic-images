@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "ee077b0d",
+      "filename": "pixiv_150879628_p0.jpg",
+      "path": "uploads/2026/10/4bb582cc.jpg",
+      "size": 538529,
+      "width": 1000,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "18ab5749afb8cb93100c5db30687f5340ed5bfd18c9629e81949108485fa083c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:19:54.007Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "자기 전 루뺘",
+      "tags": [
+        "WutheringWaves",
+        "鳴潮",
+        "명조"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150879628_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150879628",
+      "sourceCreatedAt": "2026-10-15T09:01:15.000Z"
+    },
+    {
       "id": "ee938d1d",
       "filename": "pixiv_150881982_p0.jpg",
       "path": "uploads/2026/10/289c76c3.jpg",
