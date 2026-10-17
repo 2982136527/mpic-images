@@ -3,6 +3,37 @@
   "shardId": "09",
   "images": [
     {
+      "id": "acde0904",
+      "filename": "pixiv_150722811_p0.jpg",
+      "path": "uploads/2026/10/f2fbe532.jpg",
+      "size": 1885085,
+      "width": 848,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "495094930db3227cab83bdb9faf6fe54dc257b2944d00eb52b2a4d3bc26a7361",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:20:12.037Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "探偵服な名探偵プリキュア！",
+      "tags": [
+        "プリキュア",
+        "precure",
+        "名探偵プリキュア!",
+        "名探偵プリキュア",
+        "明智あんな",
+        "小林みくる",
+        "帆羽くれあ",
+        "森亜るるか",
+        "あんみくくれるる",
+        "たんプリ500users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150722811_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150722811",
+      "sourceCreatedAt": "2026-10-11T08:02:15.000Z"
+    },
+    {
       "id": "818b35ef",
       "filename": "pixiv_150903767_p0.jpg",
       "path": "uploads/2026/10/81065cb3.jpg",
