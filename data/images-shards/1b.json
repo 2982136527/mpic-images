@@ -3,6 +3,32 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "6fbfe6a1",
+      "filename": "pixiv_150860135_p0.jpg",
+      "path": "uploads/2026/10/529f5865.jpg",
+      "size": 770224,
+      "width": 828,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b564d43e976efe8baf180d160fdd9b892a5e91dd2f1fb81fff92b6a82f459284",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:19:07.260Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "セシリアの支援活動",
+      "tags": [
+        "セシリア(ゼンゼロ)",
+        "ゼンゼロ",
+        "ZenlessZoneZero",
+        "ゼンレスゾーンゼロ",
+        "zzzero"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150860135_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150860135",
+      "sourceCreatedAt": "2026-10-14T15:29:54.000Z"
+    },
+    {
       "id": "254a1636",
       "filename": "pixiv_150894244_p0.jpg",
       "path": "uploads/2026/10/a709ea58.jpg",
