@@ -3,6 +3,32 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "c4396975",
+      "filename": "pixiv_150915630_p0.jpg",
+      "path": "uploads/2026/10/d671c5ee.jpg",
+      "size": 406059,
+      "width": 690,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5a52e2e8fd5e6da6b0f747aa7a063441deb798f1579a806d223ca219dfd6082d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:12:58.361Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "少女",
+        "ゴスロリ",
+        "セーラー服",
+        "メガネ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150915630_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150915630",
+      "sourceCreatedAt": "2026-10-16T09:10:42.000Z"
+    },
+    {
       "id": "ec2263b6",
       "filename": "pixiv_150861472_p0.jpg",
       "path": "uploads/2026/10/29158305.jpg",
