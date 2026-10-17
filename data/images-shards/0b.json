@@ -3,6 +3,30 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "c0550445",
+      "filename": "pixiv_150915895_p0.jpg",
+      "path": "uploads/2026/10/f6b86f88.jpg",
+      "size": 824583,
+      "width": 1018,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d05fc91053177fe04e0f917b58efec65efa042082099e0e50a2baf11dc096f4b",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:26:18.856Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アメリコまとめ",
+      "tags": [
+        "アニポケ",
+        "アメリコ",
+        "アメジオ(メガボルテージ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150915895_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150915895",
+      "sourceCreatedAt": "2026-10-16T09:20:22.000Z"
+    },
+    {
       "id": "eff16b3b",
       "filename": "pixiv_150883729_p0.jpg",
       "path": "uploads/2026/10/f3f3a2e1.jpg",
