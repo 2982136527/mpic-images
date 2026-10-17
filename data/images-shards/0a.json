@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "37706cb4",
+      "filename": "pixiv_150895797_p0.jpg",
+      "path": "uploads/2026/10/78098e70.jpg",
+      "size": 1329257,
+      "width": 737,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "4c48ddd6d648f6657d300cd1ab029af2d05c8073f107bd5784ef08cc65e2a47c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:28:06.998Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ローエン",
+      "tags": [
+        "原神",
+        "ローエン",
+        "原神100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150895797_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150895797",
+      "sourceCreatedAt": "2026-10-15T15:30:22.000Z"
+    },
+    {
       "id": "57d5d929",
       "filename": "pixiv_150926707_p0.jpg",
       "path": "uploads/2026/10/82b0db76.jpg",
