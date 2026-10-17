@@ -3,6 +3,28 @@
   "shardId": "00",
   "images": [
     {
+      "id": "eebc00d0",
+      "filename": "pixiv_150778859_p0.jpg",
+      "path": "uploads/2026/10/5026f292.jpg",
+      "size": 1563682,
+      "width": 1200,
+      "height": 1132,
+      "mimeType": "image/jpeg",
+      "hash": "60369bbcfe31b98bf40aee16ec89c10cd35e5ba6c59852dba7052bc7ec7eab23",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:20:34.644Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "【Web再録】 なぜかちいさいオペレーターズ1〜5",
+      "tags": [
+        "アークナイツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150778859_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150778859",
+      "sourceCreatedAt": "2026-10-12T12:44:25.000Z"
+    },
+    {
       "id": "15d49ccc",
       "filename": "pixiv_150871378_p0.jpg",
       "path": "uploads/2026/10/5285c21a.jpg",
