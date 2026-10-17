@@ -3,6 +3,32 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "5d3bcfa0",
+      "filename": "pixiv_150908182_p0.jpg",
+      "path": "uploads/2026/10/612d5559.jpg",
+      "size": 757396,
+      "width": 1200,
+      "height": 992,
+      "mimeType": "image/jpeg",
+      "hash": "0e68a4baa93bdd2a2a44f78d9e2997caa1d2f217cc8028c8d8d93d485d2d468c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:24:37.466Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "深海の黒騎士",
+      "tags": [
+        "騎乗装備",
+        "サドル",
+        "金魚",
+        "シーラカンス",
+        "黒"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150908182_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150908182",
+      "sourceCreatedAt": "2026-10-17T02:37:47.000Z"
+    },
+    {
       "id": "ea4f3d06",
       "filename": "pixiv_150859137_p0.jpg",
       "path": "uploads/2026/10/f784eba9.jpg",
