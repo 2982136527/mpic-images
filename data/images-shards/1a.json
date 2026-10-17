@@ -3,6 +3,33 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "96f341bc",
+      "filename": "pixiv_150865039_p0.jpg",
+      "path": "uploads/2026/10/9c3b9b45.jpg",
+      "size": 811402,
+      "width": 835,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "08bfd6c2b0f3ab569f28449c14c73165ca9bed9ad4c5231e4ab35be6d2c33a28",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:12:03.468Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Manhattan Milk",
+      "tags": [
+        "アナログ",
+        "Traditional",
+        "ウマ娘プリティーダービー",
+        "UmaMusume",
+        "マンハッタンカフェ(ウマ娘)",
+        "アグネスタキオン(ウマ娘)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150865039_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150865039",
+      "sourceCreatedAt": "2026-10-14T19:22:07.000Z"
+    },
+    {
       "id": "7ba6351f",
       "filename": "pixiv_150858694_p0.jpg",
       "path": "uploads/2026/10/635e869f.jpg",
