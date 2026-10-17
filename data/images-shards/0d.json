@@ -3,6 +3,33 @@
   "shardId": "0d",
   "images": [
     {
+      "id": "caeb268b",
+      "filename": "pixiv_150895115_p0.jpg",
+      "path": "uploads/2026/10/7f5878ee.jpg",
+      "size": 903387,
+      "width": 1200,
+      "height": 900,
+      "mimeType": "image/jpeg",
+      "hash": "0a2affcb742b8c3449281678023c91c1429091de7e7730558f951764d3c8cce4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:28:33.617Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ベルファスト",
+      "tags": [
+        "アズールレーン",
+        "碧蓝航线",
+        "AzurLane",
+        "ベルファスト(アズールレーン)",
+        "アズールレーン1000users入り",
+        "ベルファスト改(アズールレーン)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150895115_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150895115",
+      "sourceCreatedAt": "2026-10-15T15:11:26.000Z"
+    },
+    {
       "id": "5d3bcfa0",
       "filename": "pixiv_150908182_p0.jpg",
       "path": "uploads/2026/10/612d5559.jpg",
