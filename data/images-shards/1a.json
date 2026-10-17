@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "7b1eaf21",
+      "filename": "pixiv_150873708_p0.jpg",
+      "path": "uploads/2026/10/a34542cb.jpg",
+      "size": 755025,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6ac09ca87a8570b534656e26cf08a741bb5f8c701e20859ff798ff12c259830f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:14:35.910Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ポニテフブキ",
+      "tags": [
+        "ブルアカ",
+        "ブルーアーカイブ",
+        "合歓垣フブキ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150873708_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150873708",
+      "sourceCreatedAt": "2026-10-15T04:23:53.000Z"
+    },
+    {
       "id": "96f341bc",
       "filename": "pixiv_150865039_p0.jpg",
       "path": "uploads/2026/10/9c3b9b45.jpg",
