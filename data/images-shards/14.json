@@ -3,6 +3,31 @@
   "shardId": "14",
   "images": [
     {
+      "id": "347ac340",
+      "filename": "pixiv_150873508_p0.jpg",
+      "path": "uploads/2026/10/6c1796ad.jpg",
+      "size": 381601,
+      "width": 728,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "dd39ac572466ba7faee43248b1a3d7bd554e10b9443cd0ff689fc31368ea97e9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:13:05.345Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "commission",
+      "tags": [
+        "現代個人装具",
+        "武装少女",
+        "女の子",
+        "武器娘"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150873508_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150873508",
+      "sourceCreatedAt": "2026-10-15T04:11:31.000Z"
+    },
+    {
       "id": "98881ce8",
       "filename": "pixiv_150901955_p0.jpg",
       "path": "uploads/2026/10/2d01609c.jpg",
