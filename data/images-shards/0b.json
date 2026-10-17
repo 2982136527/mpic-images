@@ -3,6 +3,35 @@
   "shardId": "0b",
   "images": [
     {
+      "id": "eff16b3b",
+      "filename": "pixiv_150883729_p0.jpg",
+      "path": "uploads/2026/10/f3f3a2e1.jpg",
+      "size": 560130,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1ed24ebdc48bb35c2db76d01c6a21bdadaedfecc2a885d7dd41a1efd245ad7c1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:26:10.634Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "きみ死ぬ 現代パロディ",
+      "tags": [
+        "きみが死ぬまで恋をしたい",
+        "トツキ・シーナ",
+        "カガリ・ミミ",
+        "リジィ・セイラン",
+        "モード・アリ",
+        "ハル(きみ死ぬ)",
+        "百合",
+        "セイアリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150883729_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150883729",
+      "sourceCreatedAt": "2026-10-15T11:00:42.000Z"
+    },
+    {
       "id": "1614c2c2",
       "filename": "pixiv_150889611_p0.jpg",
       "path": "uploads/2026/10/da7bb78e.jpg",
