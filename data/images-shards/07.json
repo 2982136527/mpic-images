@@ -3,6 +3,28 @@
   "shardId": "07",
   "images": [
     {
+      "id": "813c0b29",
+      "filename": "pixiv_150894312_p0.jpg",
+      "path": "uploads/2026/10/0846b045.jpg",
+      "size": 648744,
+      "width": 972,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cb9b96f9045ad5579fc712975043cfa22800c5757ae322d53b9514cceff9c3b4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:11:36.055Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "泳ぐように",
+      "tags": [
+        "オリジナル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150894312_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150894312",
+      "sourceCreatedAt": "2026-10-15T15:00:30.000Z"
+    },
+    {
       "id": "b7872a48",
       "filename": "pixiv_150831589_p0.jpg",
       "path": "uploads/2026/10/2d624acc.jpg",
