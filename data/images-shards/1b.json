@@ -3,6 +3,31 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "9315771f",
+      "filename": "pixiv_150743021_p0.jpg",
+      "path": "uploads/2026/10/f9c72f89.jpg",
+      "size": 1044015,
+      "width": 893,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f9614bf22767c72e018af216c703c479f51ea4bdfafd5157180d1e273096b8da",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:20:23.625Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "RUBY",
+      "tags": [
+        "女の子",
+        "GenshinImpact",
+        "原神",
+        "フリーナ(原神)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150743021_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150743021",
+      "sourceCreatedAt": "2026-10-11T15:13:04.000Z"
+    },
+    {
       "id": "6fbfe6a1",
       "filename": "pixiv_150860135_p0.jpg",
       "path": "uploads/2026/10/529f5865.jpg",
