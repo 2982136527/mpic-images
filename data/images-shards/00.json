@@ -3,6 +3,33 @@
   "shardId": "00",
   "images": [
     {
+      "id": "c2653cff",
+      "filename": "pixiv_150883063_p0.jpg",
+      "path": "uploads/2026/10/cdcbca9c.jpg",
+      "size": 859862,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d3b3df40740aaa348ede0db8aedf96e8448987e7412bf5c2ebe0eb69a31f6276",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:13:47.373Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "警戒ミント",
+      "tags": [
+        "明日方舟",
+        "アークナイツ",
+        "Arknights",
+        "女の子",
+        "薄绿",
+        "ミント(アークナイツ)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150883063_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150883063",
+      "sourceCreatedAt": "2026-10-15T10:45:38.000Z"
+    },
+    {
       "id": "ac9e9065",
       "filename": "pixiv_150868109_p0.jpg",
       "path": "uploads/2026/10/e99d97ef.jpg",
