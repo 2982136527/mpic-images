@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "f6d3b033",
+      "filename": "pixiv_150863670_p0.jpg",
+      "path": "uploads/2026/10/e9bd79a3.jpg",
+      "size": 1108468,
+      "width": 960,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "1a9838991431204c3ef79fd06b94fc1b2983141275b1fe3f701609aeaca0e16a",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:13:36.789Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Pepe",
+      "tags": [
+        "アークナイツ",
+        "明日方舟",
+        "Arknights",
+        "ペペ(アークナイツ)",
+        "佩佩"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150863670_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150863670",
+      "sourceCreatedAt": "2026-10-14T17:46:43.000Z"
+    },
+    {
       "id": "d31a46a6",
       "filename": "pixiv_150878250_p0.jpg",
       "path": "uploads/2026/10/b4a8156a.jpg",
