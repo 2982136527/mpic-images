@@ -3,6 +3,31 @@
   "shardId": "19",
   "images": [
     {
+      "id": "3c52b3b2",
+      "filename": "pixiv_150923638_p0.jpg",
+      "path": "uploads/2026/10/08033447.jpg",
+      "size": 1032903,
+      "width": 1000,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "af1cce69c54f7076bd93575f96c78e884d0957309379552cd1b77c503dd4a0b0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T12:12:57.246Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "クオン&モンエナ白",
+      "tags": [
+        "クオン",
+        "Shadowverse",
+        "シャドウバース",
+        "シャドバ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150923638_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150923638",
+      "sourceCreatedAt": "2026-10-16T12:25:34.000Z"
+    },
+    {
       "id": "4a1a93dc",
       "filename": "pixiv_150894780_p0.jpg",
       "path": "uploads/2026/10/1a1dbc86.jpg",
