@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "50748896",
+      "filename": "pixiv_150921422_p0.jpg",
+      "path": "uploads/2026/10/cef4eb4e.jpg",
+      "size": 1270530,
+      "width": 995,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "a2d762a3cfda14b8a39d7e63112554d2112b123dbde2ceeb8867cf421cd97ed1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:14:12.266Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ついてくんな",
+      "tags": [
+        "オリジナル",
+        "イラスト",
+        "創作",
+        "異形"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150921422_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150921422",
+      "sourceCreatedAt": "2026-10-16T11:40:04.000Z"
+    },
+    {
       "id": "952046d3",
       "filename": "pixiv_150886854_p0.jpg",
       "path": "uploads/2026/10/3b992826.jpg",
