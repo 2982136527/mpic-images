@@ -3,6 +3,35 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "0c699970",
+      "filename": "pixiv_150888419_p0.jpg",
+      "path": "uploads/2026/10/b9430b29.jpg",
+      "size": 751445,
+      "width": 1200,
+      "height": 675,
+      "mimeType": "image/jpeg",
+      "hash": "5b17bfa512ed769f2314b01c562aef7313ceed93d584a68b84c695021beba760",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T18:29:36.063Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "川原",
+      "tags": [
+        "オリジナル",
+        "風景",
+        "背景",
+        "女の子",
+        "イラスト",
+        "ワンピース",
+        "少女",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150888419_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150888419",
+      "sourceCreatedAt": "2026-10-15T12:47:02.000Z"
+    },
+    {
       "id": "c882366b",
       "filename": "pixiv_150896387_p0.jpg",
       "path": "uploads/2026/10/edb0148e.jpg",
