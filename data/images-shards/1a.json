@@ -3,6 +3,30 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "72556878",
+      "filename": "pixiv_150885581_p0.jpg",
+      "path": "uploads/2026/10/9aa2abd1.jpg",
+      "size": 1097572,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c9ef2b8d5ff8765e1b25524c851dc357ec893e0c00698644bdad5fba15963e41",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:18:21.207Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "えすこふぃえ",
+      "tags": [
+        "GenshinImpact",
+        "原神",
+        "エスコフィエ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150885581_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150885581",
+      "sourceCreatedAt": "2026-10-15T11:47:08.000Z"
+    },
+    {
       "id": "690617b7",
       "filename": "pixiv_150872576_p0.jpg",
       "path": "uploads/2026/10/d798df23.jpg",
