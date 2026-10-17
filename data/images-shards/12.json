@@ -3,6 +3,28 @@
   "shardId": "12",
   "images": [
     {
+      "id": "90880c3d",
+      "filename": "pixiv_150883995_p0.jpg",
+      "path": "uploads/2026/10/191401b6.jpg",
+      "size": 705829,
+      "width": 815,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b7d3a5b5c848bbe3316d83ac764d1b2c8398046589f3e1d41e8332c6ad6e66f9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-17T04:19:22.720Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Human Centipede",
+      "tags": [
+        "음지탐구보고서"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150883995_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150883995",
+      "sourceCreatedAt": "2026-10-15T11:04:55.000Z"
+    },
+    {
       "id": "dbecfc3b",
       "filename": "pixiv_150866480_p0.jpg",
       "path": "uploads/2026/10/ab35c563.jpg",
