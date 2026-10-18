@@ -3,6 +3,35 @@
   "shardId": "17",
   "images": [
     {
+      "id": "3390f7ff",
+      "filename": "pixiv_150905698_p0.jpg",
+      "path": "uploads/2026/10/f5c6e808.jpg",
+      "size": 787931,
+      "width": 781,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "8589fc216379d4f327f2bb8e57691dd2a0654c7d833bbb3c5d894c418cabf85c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T04:18:12.851Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "炎槍士あんず",
+      "tags": [
+        "金魚",
+        "槍",
+        "騎士",
+        "厚塗り",
+        "赤",
+        "魚",
+        "武器",
+        "炎"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150905698_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150905698",
+      "sourceCreatedAt": "2026-10-16T00:47:17.000Z"
+    },
+    {
       "id": "701e3342",
       "filename": "pixiv_150894230_p0.jpg",
       "path": "uploads/2026/10/02f9dd8b.jpg",
