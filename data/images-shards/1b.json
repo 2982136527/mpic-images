@@ -3,6 +3,30 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "5e085af1",
+      "filename": "pixiv_150959477_p0.jpg",
+      "path": "uploads/2026/10/eac7682c.jpg",
+      "size": 664596,
+      "width": 799,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "3fcdc8e9c2ab209301f14b7409e8970ce3b0843febdc4137a27dc684b6d8b846",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:37:41.852Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "関係構築のお時間",
+      "tags": [
+        "StellaSora",
+        "ステラソラ",
+        "ビキニ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150959477_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150959477",
+      "sourceCreatedAt": "2026-10-17T10:43:03.000Z"
+    },
+    {
       "id": "167c8bce",
       "filename": "pixiv_150954308_p0.jpg",
       "path": "uploads/2026/10/873922ce.jpg",
