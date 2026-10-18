@@ -3,6 +3,34 @@
   "shardId": "12",
   "images": [
     {
+      "id": "fcbb7234",
+      "filename": "pixiv_150937030_p0.jpg",
+      "path": "uploads/2026/10/c9856d28.jpg",
+      "size": 599878,
+      "width": 763,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b9ac47c6fb53780f8416f0f9882c2ee3eb6e67c4421f2d9fcbc1a606e87a5dfa",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:43:38.500Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Just a little smile for Skk",
+      "tags": [
+        "illustration",
+        "creation",
+        "girl",
+        "NIKKE",
+        "勝利の女神:NIKKE",
+        "ラピ:レッドフード",
+        "ラピ(勝利の女神:NIKKE)"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150937030_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150937030",
+      "sourceCreatedAt": "2026-10-16T18:54:10.000Z"
+    },
+    {
       "id": "7cb02cca",
       "filename": "pixiv_150890105_p0.jpg",
       "path": "uploads/2026/10/256538cf.jpg",
