@@ -3,6 +3,30 @@
   "shardId": "0a",
   "images": [
     {
+      "id": "0e29cfb5",
+      "filename": "pixiv_150917125_p0.jpg",
+      "path": "uploads/2026/10/a472e23f.jpg",
+      "size": 809494,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "b361d8b920322009545ccd222dba9ce500f631e32101ac6f46e9b58001e19662",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T04:22:14.381Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "ホロライブ",
+        "hololive",
+        "宝鐘マリン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150917125_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150917125",
+      "sourceCreatedAt": "2026-10-16T09:59:59.000Z"
+    },
+    {
       "id": "66c62c0c",
       "filename": "pixiv_150915068_p0.jpg",
       "path": "uploads/2026/10/7ca2bdb5.jpg",
