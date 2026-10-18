@@ -3,6 +3,34 @@
   "shardId": "18",
   "images": [
     {
+      "id": "b8ffd9da",
+      "filename": "pixiv_150966236_p0.jpg",
+      "path": "uploads/2026/10/5e659295.jpg",
+      "size": 405174,
+      "width": 649,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "32945bb682c3abd1d5107eb6adf4d866ef66ce60183865d08b087e592297df99",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:38:23.581Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "约稿",
+      "tags": [
+        "女の子",
+        "OC",
+        "立绘",
+        "少女",
+        "中国风",
+        "黒スト",
+        "ハイヒール"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150966236_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150966236",
+      "sourceCreatedAt": "2026-10-17T13:05:01.000Z"
+    },
+    {
       "id": "67b4ccb4",
       "filename": "pixiv_150920234_p0.jpg",
       "path": "uploads/2026/10/5c9b98c1.jpg",
