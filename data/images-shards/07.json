@@ -3,6 +3,30 @@
   "shardId": "07",
   "images": [
     {
+      "id": "6cdf775f",
+      "filename": "pixiv_150942017_p0.jpg",
+      "path": "uploads/2026/10/1827b05e.jpg",
+      "size": 946207,
+      "width": 750,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "e11456b6e842f91d2443bffb2e192866a96138d32e725eceb9730fee55b216cb",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:42:57.253Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アリス(背中にGPSを付けました！)",
+      "tags": [
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "天童アリス"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150942017_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150942017",
+      "sourceCreatedAt": "2026-10-17T00:04:02.000Z"
+    },
+    {
       "id": "3c79eb9e",
       "filename": "pixiv_150938799_p0.jpg",
       "path": "uploads/2026/10/dff5e40c.jpg",
