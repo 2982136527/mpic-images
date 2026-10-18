@@ -3,6 +3,31 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "eaedd6a4",
+      "filename": "pixiv_150896452_p0.jpg",
+      "path": "uploads/2026/10/f2fd2886.jpg",
+      "size": 942786,
+      "width": 902,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "bf1c0bac375748322f6400af16f2120519fdcf958d66c4a3b2b583ec7cb82361",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T04:17:42.123Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ZA1周年",
+      "tags": [
+        "ポケモンレジェンズZA",
+        "MZ団",
+        "LEGENDSZ-A",
+        "ポケモン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150896452_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150896452",
+      "sourceCreatedAt": "2026-10-15T15:48:56.000Z"
+    },
+    {
       "id": "b7113c96",
       "filename": "pixiv_150893000_p0.jpg",
       "path": "uploads/2026/10/3510e9ee.jpg",
