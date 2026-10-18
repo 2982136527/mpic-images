@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "d8fe6bf8",
+      "filename": "pixiv_150951037_p0.jpg",
+      "path": "uploads/2026/10/b69ff192.jpg",
+      "size": 902882,
+      "width": 1200,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "04e108a14a539b62e0b7e593eb63e6372d8a2ffe13ede2fcc08f2bd016dc42f0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T04:25:18.564Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "女の子",
+        "䓅亚",
+        "ペディキュア"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150951037_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150951037",
+      "sourceCreatedAt": "2026-10-17T06:22:39.000Z"
+    },
+    {
       "id": "59ff3475",
       "filename": "pixiv_150903825_p0.jpg",
       "path": "uploads/2026/10/eec9226c.jpg",
