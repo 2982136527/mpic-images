@@ -3,6 +3,30 @@
   "shardId": "00",
   "images": [
     {
+      "id": "a6cbc901",
+      "filename": "pixiv_150922942_p0.jpg",
+      "path": "uploads/2026/10/ca4ed0a0.jpg",
+      "size": 731927,
+      "width": 1200,
+      "height": 797,
+      "mimeType": "image/jpeg",
+      "hash": "b3cb2714748ba52bdcac61cabe352a2cbb6c1e221401a0c621c5e64fc4be3106",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:38:59.468Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "りゅここ絵まとめ⑤",
+      "tags": [
+        "オリジナル",
+        "りゅーくんとこころくん",
+        "創作BL"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150922942_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150922942",
+      "sourceCreatedAt": "2026-10-16T12:09:40.000Z"
+    },
+    {
       "id": "8cfd1891",
       "filename": "pixiv_150932189_p0.jpg",
       "path": "uploads/2026/10/3eea8d65.jpg",
