@@ -3,6 +3,35 @@
   "shardId": "01",
   "images": [
     {
+      "id": "1bde9ac6",
+      "filename": "pixiv_150941309_p0.jpg",
+      "path": "uploads/2026/10/7c356bf2.jpg",
+      "size": 1044185,
+      "width": 857,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ba029397e5832a60a8fb60916c01b4bc5060432c8c8cecf8adf2efaddcff5dd1",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:37:02.224Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "チェッキー✨",
+      "tags": [
+        "ペルソナ5",
+        "佐倉双葉",
+        "P5R",
+        "雨宮蓮",
+        "ジョーカー(ペルソナ5)",
+        "モルガナ(ペルソナ)",
+        "主双",
+        "ペルソナ100users入り"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150941309_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150941309",
+      "sourceCreatedAt": "2026-10-16T23:33:01.000Z"
+    },
+    {
       "id": "8017f289",
       "filename": "pixiv_150947003_p0.jpg",
       "path": "uploads/2026/10/8aae1d24.jpg",
