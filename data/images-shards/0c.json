@@ -3,6 +3,37 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "849a4de9",
+      "filename": "pixiv_150894247_p0.jpg",
+      "path": "uploads/2026/10/7d274cf0.jpg",
+      "size": 397495,
+      "width": 850,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0fed648887cb5306bf2265df662bfd5f1a75f1afb5ec039e9217ec42fb069dec",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:36:55.644Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "小鳥遊ホシノ",
+      "tags": [
+        "小鳥遊ホシノ",
+        "ブルーアーカイブ",
+        "ブルアカ",
+        "BlueArchive",
+        "블루아카이브",
+        "ホシノ",
+        "ホシノ(ブルーアーカイブ)",
+        "バニーガール",
+        "ちっぱい",
+        "ロリ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150894247_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150894247",
+      "sourceCreatedAt": "2026-10-15T15:00:21.000Z"
+    },
+    {
       "id": "51287955",
       "filename": "pixiv_150922498_p0.jpg",
       "path": "uploads/2026/10/7c8b0309.jpg",
