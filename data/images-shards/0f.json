@@ -3,6 +3,33 @@
   "shardId": "0f",
   "images": [
     {
+      "id": "58bbf6c8",
+      "filename": "pixiv_150948591_p0.jpg",
+      "path": "uploads/2026/10/876c60d1.jpg",
+      "size": 897505,
+      "width": 851,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "99cba02c6938d7c6367643dc6f97f9856a854297e2243eb38a72490b533079b6",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:37:48.553Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "東方Project",
+        "東方",
+        "霧雨魔理沙",
+        "博麗霊夢",
+        "レイマリ",
+        "百合"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150948591_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150948591",
+      "sourceCreatedAt": "2026-10-17T04:47:35.000Z"
+    },
+    {
       "id": "d3419297",
       "filename": "pixiv_150883609_p0.jpg",
       "path": "uploads/2026/10/82756d42.jpg",
