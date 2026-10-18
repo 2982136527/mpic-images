@@ -3,6 +3,29 @@
   "shardId": "06",
   "images": [
     {
+      "id": "6fb8cbb6",
+      "filename": "pixiv_150953916_p0.jpg",
+      "path": "uploads/2026/10/270c98a5.jpg",
+      "size": 1091645,
+      "width": 1200,
+      "height": 859,
+      "mimeType": "image/jpeg",
+      "hash": "a964481d689c448a0387928c0d339075925ac70ef6602a37acf609abdd2f1df4",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T04:23:42.115Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "明日はおやすみ",
+      "tags": [
+        "オリジナル",
+        "女の子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150953916_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150953916",
+      "sourceCreatedAt": "2026-10-17T08:09:53.000Z"
+    },
+    {
       "id": "0bc4051c",
       "filename": "pixiv_150936698_p0.jpg",
       "path": "uploads/2026/10/b9ffdae9.jpg",
