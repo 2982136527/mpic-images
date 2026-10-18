@@ -3,6 +3,29 @@
   "shardId": "15",
   "images": [
     {
+      "id": "214af703",
+      "filename": "pixiv_150948972_p0.jpg",
+      "path": "uploads/2026/10/b4124bf0.jpg",
+      "size": 606782,
+      "width": 846,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "06685d6d444aa9157bc1110590e6bce8cb4110b7bc05c5fe7d3861460de7b285",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:38:16.765Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "酒呑童子",
+      "tags": [
+        "酒呑童子(Fate)",
+        "Fate/GrandOrder"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150948972_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150948972",
+      "sourceCreatedAt": "2026-10-17T05:02:49.000Z"
+    },
+    {
       "id": "50ae8715",
       "filename": "pixiv_150921485_p0.jpg",
       "path": "uploads/2026/10/3e50032a.jpg",
