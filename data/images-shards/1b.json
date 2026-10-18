@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "c84b695e",
+      "filename": "pixiv_150920775_p0.jpg",
+      "path": "uploads/2026/10/0d79b3d2.jpg",
+      "size": 1040336,
+      "width": 675,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "fbc229a334af42942f19d787f5eaf84765c72ff7a6d3a65357a45afcf8d7692c",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:38:39.999Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "スケブ納品物757",
+      "tags": [
+        "女の子",
+        "Skeb"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150920775_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150920775",
+      "sourceCreatedAt": "2026-10-16T11:25:35.000Z"
+    },
+    {
       "id": "5e085af1",
       "filename": "pixiv_150959477_p0.jpg",
       "path": "uploads/2026/10/eac7682c.jpg",
