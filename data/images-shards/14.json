@@ -3,6 +3,29 @@
   "shardId": "14",
   "images": [
     {
+      "id": "bfeafc2e",
+      "filename": "pixiv_150900742_p0.jpg",
+      "path": "uploads/2026/10/2421bf26.jpg",
+      "size": 519253,
+      "width": 719,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "0aa2258e2873c7cfb81afb45e0bff86eb9d3dc127b7ca9a6cc2d3639ff96a6bf",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:36:22.880Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "アスカあ",
+      "tags": [
+        "エヴァンゲリオン",
+        "アスカ・ラングレー"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150900742_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150900742",
+      "sourceCreatedAt": "2026-10-15T19:28:06.000Z"
+    },
+    {
       "id": "37487516",
       "filename": "pixiv_150941532_p0.jpg",
       "path": "uploads/2026/10/ce47a914.jpg",
