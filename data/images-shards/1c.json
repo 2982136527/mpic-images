@@ -3,6 +3,34 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "5bcf855d",
+      "filename": "pixiv_150905552_p0.jpg",
+      "path": "uploads/2026/10/ca31224b.jpg",
+      "size": 631503,
+      "width": 900,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "cde5ff22a482136619ac96b4b15b06355fb9561e5610ed57e14f1ddfc5c1dfad",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:39:52.872Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "무제",
+      "tags": [
+        "スターサファイア",
+        "ルナチャイルド",
+        "サニーミルク",
+        "東方",
+        "東方Project",
+        "3Dメガネ",
+        "ポップコーン"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150905552_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150905552",
+      "sourceCreatedAt": "2026-10-16T00:37:35.000Z"
+    },
+    {
       "id": "5c270196",
       "filename": "pixiv_150917941_p0.jpg",
       "path": "uploads/2026/10/337ee2b3.jpg",
