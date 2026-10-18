@@ -3,6 +3,29 @@
   "shardId": "19",
   "images": [
     {
+      "id": "ad4a7cca",
+      "filename": "pixiv_150917230_p0.jpg",
+      "path": "uploads/2026/10/ca389bcb.jpg",
+      "size": 532747,
+      "width": 912,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "f33114d44365d12358417f2237c2999acf3ced0719732f4f080200ecc8d30a9e",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T04:23:27.650Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "no title",
+      "tags": [
+        "ペルソナ4",
+        "白鐘直斗"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150917230_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150917230",
+      "sourceCreatedAt": "2026-10-16T10:00:28.000Z"
+    },
+    {
       "id": "b759fa6c",
       "filename": "pixiv_150932398_p0.jpg",
       "path": "uploads/2026/10/b1f8b6a8.jpg",
