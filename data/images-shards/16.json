@@ -3,6 +3,31 @@
   "shardId": "16",
   "images": [
     {
+      "id": "04b3ef86",
+      "filename": "pixiv_150967613_p0.jpg",
+      "path": "uploads/2026/10/b1dbbff5.jpg",
+      "size": 795827,
+      "width": 711,
+      "height": 1000,
+      "mimeType": "image/jpeg",
+      "hash": "1c6063b3f9332bf1c59ab4d935a9ab89cd38511a6ae4e6ebc4f7f66551b92d35",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T04:18:39.789Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "こがねらん",
+      "tags": [
+        "女の子",
+        "ふともも",
+        "オリジナル",
+        "vtuber"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150967613_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150967613",
+      "sourceCreatedAt": "2026-10-17T13:34:19.000Z"
+    },
+    {
       "id": "c0f227bb",
       "filename": "pixiv_150913544_p0.jpg",
       "path": "uploads/2026/10/a77150a5.jpg",
