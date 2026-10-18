@@ -3,6 +3,30 @@
   "shardId": "10",
   "images": [
     {
+      "id": "61d2dd83",
+      "filename": "pixiv_150930894_p0.jpg",
+      "path": "uploads/2026/10/2db7d669.jpg",
+      "size": 707424,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "13c1ed9085e5451283ce6e9f505b4d0617abeeb79b5f6720da8572c83f709827",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:37:28.557Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "田舎娘な妖夢ちゃん",
+      "tags": [
+        "魂魄妖夢",
+        "Tシャツ",
+        "ハーフパンツ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150930894_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150930894",
+      "sourceCreatedAt": "2026-10-16T15:02:29.000Z"
+    },
+    {
       "id": "d8fe6bf8",
       "filename": "pixiv_150951037_p0.jpg",
       "path": "uploads/2026/10/b69ff192.jpg",
