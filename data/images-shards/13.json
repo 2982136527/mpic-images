@@ -3,6 +3,32 @@
   "shardId": "13",
   "images": [
     {
+      "id": "42ed1bd7",
+      "filename": "pixiv_150928332_p0.jpg",
+      "path": "uploads/2026/10/d3122ceb.jpg",
+      "size": 1121569,
+      "width": 1200,
+      "height": 846,
+      "mimeType": "image/jpeg",
+      "hash": "7e5774ecf735833f4d51428e8678722ea9368c461f4808ab35db907f319ebe0d",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T04:19:42.127Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "儚い女、モルガン",
+      "tags": [
+        "FGO",
+        "Fate/GrandOrder",
+        "モルガン(Fate)",
+        "水妃モルガン",
+        "儚い女"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150928332_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150928332",
+      "sourceCreatedAt": "2026-10-16T14:09:55.000Z"
+    },
+    {
       "id": "8572602c",
       "filename": "pixiv_150887959_p0.jpg",
       "path": "uploads/2026/10/e90ba1ad.jpg",
