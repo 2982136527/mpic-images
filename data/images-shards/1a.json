@@ -3,6 +3,32 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "b10831ce",
+      "filename": "pixiv_150924517_p0.jpg",
+      "path": "uploads/2026/10/31fc40e2.jpg",
+      "size": 1841734,
+      "width": 881,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "c520f43ff81cf635bb00f8aba8f88bd3aa5dfc004fec5a7c90d7c9973bbf63f7",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:37:35.194Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "緑色のコレクションルーム",
+      "tags": [
+        "オリジナル",
+        "黒猫",
+        "背景",
+        "ねこ",
+        "創作"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150924517_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150924517",
+      "sourceCreatedAt": "2026-10-16T12:44:18.000Z"
+    },
+    {
       "id": "1ccef645",
       "filename": "pixiv_150932514_p0.jpg",
       "path": "uploads/2026/10/15deb0ca.jpg",
