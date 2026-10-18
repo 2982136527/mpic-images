@@ -3,6 +3,32 @@
   "shardId": "04",
   "images": [
     {
+      "id": "a36c2d3c",
+      "filename": "pixiv_150968180_p0.jpg",
+      "path": "uploads/2026/10/9702f5bb.jpg",
+      "size": 907635,
+      "width": 1008,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "d325cee79deee9e3d64ce363ef06d4fb586fb15b713c241ece93e24c26a33cd3",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T04:21:14.103Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "教えてお師匠様",
+      "tags": [
+        "ゼンゼロ",
+        "儀玄",
+        "橘福福",
+        "ゼンレスゾーンゼロ",
+        "ウコチャヌプコロ"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150968180_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150968180",
+      "sourceCreatedAt": "2026-10-17T13:46:41.000Z"
+    },
+    {
       "id": "1e23855b",
       "filename": "pixiv_150896407_p0.jpg",
       "path": "uploads/2026/10/284c506a.jpg",
