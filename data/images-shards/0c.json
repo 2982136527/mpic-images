@@ -3,6 +3,30 @@
   "shardId": "0c",
   "images": [
     {
+      "id": "e9a8ec35",
+      "filename": "pixiv_150953501_p0.jpg",
+      "path": "uploads/2026/10/75718b92.jpg",
+      "size": 613845,
+      "width": 914,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5cc16cb6b97aa6378a53d864f7c0c9937bb7d081fb3861aa50bc3d65bcb3856f",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T04:23:49.613Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "無題",
+      "tags": [
+        "オリジナル",
+        "機械",
+        "義足"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150953501_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150953501",
+      "sourceCreatedAt": "2026-10-17T07:57:35.000Z"
+    },
+    {
       "id": "ed622e62",
       "filename": "pixiv_150938677_p0.jpg",
       "path": "uploads/2026/10/440da687.jpg",
