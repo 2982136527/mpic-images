@@ -3,6 +3,34 @@
   "shardId": "00",
   "images": [
     {
+      "id": "7defadb1",
+      "filename": "pixiv_150965220_p0.jpg",
+      "path": "uploads/2026/10/92880271.jpg",
+      "size": 825569,
+      "width": 649,
+      "height": 1118,
+      "mimeType": "image/jpeg",
+      "hash": "67b71fe7b9fc951e588682984b0796f05cd621d07f358fd4a7aa2861304652a9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T12:43:18.086Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "怖いシロナさん",
+      "tags": [
+        "ポケモン",
+        "ポケットモンスター",
+        "pokemon",
+        "ポケモン人間絵",
+        "シロナ",
+        "Cynthia",
+        "ヨマワル"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150965220_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150965220",
+      "sourceCreatedAt": "2026-10-17T12:46:23.000Z"
+    },
+    {
       "id": "a6cbc901",
       "filename": "pixiv_150922942_p0.jpg",
       "path": "uploads/2026/10/ca4ed0a0.jpg",
