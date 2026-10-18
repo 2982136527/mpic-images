@@ -3,6 +3,31 @@
   "shardId": "1a",
   "images": [
     {
+      "id": "dcfe70b6",
+      "filename": "pixiv_150949847_p0.jpg",
+      "path": "uploads/2026/10/88eb3c89.jpg",
+      "size": 1583439,
+      "width": 862,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "091bd1a7086e7c17aae8f2b744dcb212722b96bc89a4c75ec138358656c6ffb9",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T04:19:32.175Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "🎃",
+      "tags": [
+        "Fate/GrandOrder",
+        "FGO",
+        "藤丸立香",
+        "ぐだ子"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150949847_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150949847",
+      "sourceCreatedAt": "2026-10-17T05:37:37.000Z"
+    },
+    {
       "id": "57424a0d",
       "filename": "pixiv_150926122_p0.jpg",
       "path": "uploads/2026/10/e2aae653.jpg",
