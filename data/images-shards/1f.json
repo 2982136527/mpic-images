@@ -3,6 +3,33 @@
   "shardId": "1f",
   "images": [
     {
+      "id": "5234cb00",
+      "filename": "pixiv_150968509_p0.jpg",
+      "path": "uploads/2026/10/889cb825.jpg",
+      "size": 1083359,
+      "width": 849,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "6af81e85e6383031dae460e6f044dfc77de9b5fb89adbba4cf6815c064511cd0",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T04:20:48.301Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "Elysia",
+      "tags": [
+        "HonkaiStarRail",
+        "崩壊3rd",
+        "爱莉希雅",
+        "エリシア(崩壊3rd)",
+        "Elysia",
+        "HoYoLAND2026"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150968509_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150968509",
+      "sourceCreatedAt": "2026-10-17T13:54:32.000Z"
+    },
+    {
       "id": "32f95f31",
       "filename": "pixiv_150913735_p0.jpg",
       "path": "uploads/2026/10/315443f2.jpg",
