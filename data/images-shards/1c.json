@@ -3,6 +3,28 @@
   "shardId": "1c",
   "images": [
     {
+      "id": "7a2b31f2",
+      "filename": "pixiv_150959283_p0.jpg",
+      "path": "uploads/2026/10/63580ee3.jpg",
+      "size": 888373,
+      "width": 887,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "5943f6e8cd6b49a916526d5e638a104b9ad6d4bf1c4647d030de4e70955daa43",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T04:21:54.016Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "ピンチ",
+      "tags": [
+        "めめ村"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150959283_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150959283",
+      "sourceCreatedAt": "2026-10-17T10:36:55.000Z"
+    },
+    {
       "id": "16e0c932",
       "filename": "pixiv_150909525_p0.jpg",
       "path": "uploads/2026/10/b304be13.jpg",
