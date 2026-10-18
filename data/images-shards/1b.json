@@ -3,6 +3,29 @@
   "shardId": "1b",
   "images": [
     {
+      "id": "167c8bce",
+      "filename": "pixiv_150954308_p0.jpg",
+      "path": "uploads/2026/10/873922ce.jpg",
+      "size": 1146400,
+      "width": 839,
+      "height": 1200,
+      "mimeType": "image/jpeg",
+      "hash": "ea2036dd7d5d508b713b392d1ebb61f588d91a8c01a2b80c0210e934bdcc0f91",
+      "uploaderLogin": "system",
+      "createdAt": "2026-10-18T04:21:07.193Z",
+      "repo": "mpic-images-5",
+      "isPublic": true,
+      "title": "rkgk",
+      "tags": [
+        "明日方舟终末地",
+        "祀"
+      ],
+      "sourceProvider": "pixiv",
+      "sourceId": "150954308_p0",
+      "sourcePageUrl": "https://www.pixiv.net/artworks/150954308",
+      "sourceCreatedAt": "2026-10-17T08:22:36.000Z"
+    },
+    {
       "id": "f29b597c",
       "filename": "pixiv_150915101_p0.jpg",
       "path": "uploads/2026/10/496c89dc.jpg",
